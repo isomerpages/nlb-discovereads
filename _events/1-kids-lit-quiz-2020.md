@@ -17,7 +17,7 @@ In 2019, NPS International School won the Singapore National Final. The team rep
 
 Check out snippets of the adrenaline-pumping Singapore National Final in 2019 [here](https://www.youtube.com/watch?v=z6ZTBXYGjAw) and [here!](https://www.youtube.com/watch?v=P7A6wMV1Uik) 
 
-For general information about Kids’ Lit Quiz™, visit [www.kidslitquiz.com.](http://www.kidslitquiz.com/) To enquire about the competition in Singapore, please email [enquiry@nlb.gov.sg.](mailto:enquiry@nlb.gov.sg)
+For general information about Kids’ Lit Quiz™, visit [www.kidslitquiz.com](http://www.kidslitquiz.com/). To enquire about the competition in Singapore, please email [enquiry@nlb.gov.sg.](mailto:enquiry@nlb.gov.sg)
 
 ### **Announcements**
 

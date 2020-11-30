@@ -1,10 +1,13 @@
-contact_us: /contact-us/
-show_reach: true
+contact_us: https://www.nlb.gov.sg/ContactUs.aspx
+show_reach: false
+privacy_policy: https://www.nlb.gov.sg/PrivacyStatement.aspx
+copyright_agency: National Library Board
+terms_of_use: https://www.nlb.gov.sg/TermsofUse.aspx
 feedback: 
-faq: /faq/
+faq: https://www.ifaq.gov.sg/nlb/apps/fcd_faqmain.aspx
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+    facebook: https://www.facebook.com/publiclibrarysg
+    twitter: 
+    youtube: https://www.youtube.com/publiclibrarysg
+    instagram: https://www.instagram.com/publiclibrarysg/
+    linkedin: 

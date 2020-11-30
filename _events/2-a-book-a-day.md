@@ -5,7 +5,7 @@ breadcrumb: A Book A Day
 collection_name: events
 ---
 
-## *A Book a day**
+## *A Book A Day*
 
 **About A Book A Day**
 

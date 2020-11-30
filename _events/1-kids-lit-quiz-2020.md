@@ -1,7 +1,7 @@
 ---
 title: POSB-NLB kids lit Quiz Singapore 2020
 permalink: /events/kids-lit-quiz-2020
-breadcrumb: POSB-NLB kids lit Quiz Singapore 2020
+breadcrumb: POSB-NLB Kids' Lit Quiz Singapore 2020
 collection_name: events
 ---
 

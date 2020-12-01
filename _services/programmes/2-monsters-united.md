@@ -1,6 +1,6 @@
 ---
 title: Monsters United
-permalink: programmes/monsters-united
+permalink: programmes/monstersunited
 breadcrumb: Monsters United
 collection_name: services
 third_nav_title: Programmes

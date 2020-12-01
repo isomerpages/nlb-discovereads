@@ -1,22 +1,22 @@
 ---
-title: Stay Curious With Your Child
+title: Stay Curious with Your Child
 permalink: /diy-resources/primary/stay-curious-with-your-child
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
 
-## **Stay Curious With Your Child**
+## **Stay Curious with Your Child**
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 26 August 2020)_
+_(Updated on 23 November 2020)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| School Holiday Specials |Paper Craft | Yoga for Kids | Science Exploration | High-intensity Interval Training (HIIT) Workout for Kids |
+| [School Holiday Specials](#School Holiday Specials) | [Paper Crafts](#Paper Crafts) | [Yoga for Kids](#Yoga for Kids) | [Science Exploration](#Science Exploration) | [High-intensity Interval Training (HIIT) Workout for Kids](#High-intensity Interval Training (HIIT) Workout for Kids) |
 
 ### **School Holiday Specials**
 
@@ -45,10 +45,9 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 
 Source: [Super fun KID’S Workout! 8-Minute HIIT fitness class for kids. Let’s Kid Fit GO!](https://www.youtube.com/watch?v=fomkRYcl_mo&feature=emb_title)  (2 Apr 2020)
 
-#### **Be curious!**
+#### **Be Curious!**
 
 Read these eBooks to motivate your children to stay active and healthy.
-
 
 <img src="/images/diyresources/primary/Picture1.jpg" alt="Oh the things you can do that are good for you image" style="width: 40%;">
 
@@ -73,7 +72,6 @@ Whether you’re a kid who wants to know more about sports or just someone who i
 
 This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/2405086](https://nlb.overdrive.com/media/2405086)
 
-
 #### **Tip for Parents**
 
 When outdoor play isn’t an option, make screen time an active time through dance videos and interactive video games.
@@ -86,58 +84,68 @@ All websites were last accessed on 25 May 2020
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### **Science Exploration**
+#### **Paper Crafts**
 
-Sink or float? Get creative in exploring the concept of density and find out!
+Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.
 
 You’ll need:
 
-* Tall container
-* Syrup
-* Water
-* Cooking Oil
-* Food colouring (optional)
-* Random objects from around the house
+* Paper
+* Paperclip
+* Scissors and glue
+* Straw (can be replaced by chopstick)
+* Colouring materials
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://www.youtube.com/watch?v=I2bjA-3Vn6E&list=PLasCX3wfxLR3nEKMhsCUjyi5f4W6Rg6wf&index=22&t=0s) (September 2019)
+Source: [Paper Heart Flower Craft | Mothers Day Craft for Kids](https://www.youtube.com/watch?v=D4XSlCCXyvU&feature=youtu.be) (14 April 2018)
+
 
 #### **Be Curious!**
 
-<img src="/images/diyresources/primary/Snackable-Science-Experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
+Check out these eBooks for ideas to transform paper into awesome creations.
 
-**Snackable Science Experiments (60 Edible Tests to Try and Taste)**
 
-By Emma Vanstone
-Publisher: Page Street Publishing
+<img src="/images/diyresources/primary/Paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
 
-Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!
+**Awesome Paper Projects You Can Create (Imagine It, Build It)**
 
-This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313](https://nlb.overdrive.com/media/4500313)
+By Marne Ventura
+Publisher: Capstone. 2017
 
-<img src="/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
+Don’t throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!
 
-**30-Minute Chemistry Projects**
+This book is available on Overdrive at [https://nlb.overdrive.com/media/3690047](https://nlb.overdrive.com/media/3690047)
 
-By Anna Leigh
-Publisher: Lerner Publishing Group
 
-Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.
+<img src="/images/diyresources/primary/origami.jpg" alt="Origami games image" style="width: 40%;">
 
-This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4475877](https://nlb.overdrive.com/media/4475877)
+**Origami Games: Hands-on Fun for Kids!**
+
+By Joel Stern
+Publisher: Tuttle Publishing, 2010
+Call Number: English736.982 STE -\[ART\]
+
+Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork. A perfect origami-for-kids book it also encourages folders to come up with and document their own customized games using a template provided in the back of the book, making it a great way to learn origami.
+
+This book is available on Overdrive at [https://nlb.overdrive.com/media/789053](https://nlb.overdrive.com/media/789053)
+
+For more stay-home activities to engage children, visit:
+[http://www.nlb.gov.sg/discovereads/diy-resources/](http://www.nlb.gov.sg/discovereads/diy-resources/)
+
 
 #### **Tip for Parents**
 
-Encourage scientific thinking in your child by exploring and finding answers together when your child asks you questions. Don’t jump in with the right answers immediately. Prompt questions and give your child some time to think and experiment.
+School holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.
 
-Source: [https://www.naeyc.org/our-work/families/support-science-learning](https://www.naeyc.org/our-work/families/support-science-learning)
+Source: [Tips for parenting during the coronavirus (Covid-19) outbreak](https://www.unicef.org/coronavirus/covid-19-parenting-tips#3)
 
-All websites were last accessed on 15 May 2020
+All websites were last accessed on 30 April 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
 
 #### **Yoga for Kids**
 
@@ -194,64 +202,169 @@ All websites were last accessed on 4 May 2020
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### **Paper Crafts**
+#### **Science Exploration**
 
-Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.
+Sink or float? Get creative in exploring the concept of density and find out!
 
 You’ll need:
 
-* Paper
-* Paperclip
-* Scissors and Glue
-* Straw (can be replaced by chopstick)
-* Colouring materials
+* Tall container
+* Syrup
+* Water
+* Cooking oil
+* Food colouring (optional)
+* Random objects from around the house
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Source: [Paper Heart Flower Craft| Mothers Day Craft for Kids](https://www.youtube.com/watch?v=D4XSlCCXyvU&feature=youtu.be) (14 April 2018)
-
+Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://www.youtube.com/watch?v=I2bjA-3Vn6E&list=PLasCX3wfxLR3nEKMhsCUjyi5f4W6Rg6wf&index=22&t=0s) (September 2019)
 
 #### **Be Curious!**
 
-Check out these eBooks for ideas to transform paper into awesome creations.
+<img src="/images/diyresources/primary/Snackable-Science-Experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
 
+**Snackable Science Experiments (60 Edible Tests to Try and Taste)**
 
-<img src="/images/diyresources/primary/Paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
+By Emma Vanstone
+Publisher: Page Street Publishing
 
-**Awesome Paper Projects You Can Create (Imagine It, Build It)**
+Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!
 
-By Marne Ventura
-Publisher: Capstone. 2017
+This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313](https://nlb.overdrive.com/media/4500313)
 
-Don’t throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!
+<img src="/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
 
-This book is available on Overdrive at [https://nlb.overdrive.com/media/3690047](https://nlb.overdrive.com/media/3690047)
+**30-Minute Chemistry Projects**
 
+By Anna Leigh
+Publisher: Lerner Publishing Group
 
-<img src="/images/diyresources/primary/origami.jpg" alt="Origami games image" style="width: 40%;">
+Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.
 
-**Origami Games: Hands-on Fun for Kids!**
-
-By Joel Stern
-Publisher: Tuttle Publishing, 2010
-Call Number: English736.982 STE -\[ART\]
-
-Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork. A perfect origami-for-kids book it also encourages folders to come up with and document their own customized games using a template provided in the back of the book, making it a great way to learn origami.
-
-This book is available on Overdrive at [https://nlb.overdrive.com/media/789053](https://nlb.overdrive.com/media/789053)
-
-For more stay-home activities to engage children, visit:
-[http://www.nlb.gov.sg/discovereads/diy-resources/](http://www.nlb.gov.sg/discovereads/diy-resources/)
-
+This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4475877](https://nlb.overdrive.com/media/4475877)
 
 #### **Tip for Parents**
 
-School holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.
+Encourage scientific thinking in your child by exploring and finding answers together when your child asks you questions. Don’t jump in with the right answers immediately. Prompt questions and give your child some time to think and experiment.
 
-Source: [Tips for parenting during the coronavirus (Covid-19) outbreak](https://www.unicef.org/coronavirus/covid-19-parenting-tips#3)
+Source: [https://www.naeyc.org/our-work/families/support-science-learning](https://www.naeyc.org/our-work/families/support-science-learning)
 
-All websites were last accessed on 30 April 2020
+All websites were last accessed on 15 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+
+#### **Paper Owl**
+
+Get crafty and let this paper owl inspire your child to learn more about this nocturnal creature!
+
+You’ll need:
+* Scissors
+* Glue
+* 1 Rubber band
+* A4-sized Construction paper (4 different colours)
+
+This activity can also be done using recycled materials.
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/QQ3Co2iNmV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [How to make the CUTEST OWL from Paper | Paper Craft for Kids | Activities for Kids](https://www.youtube.com/watch?v=QQ3Co2iNmV4) (June 2019)
+
+#### **Be Curious!**
+
+Read these eBooks for more exciting stories featuring owls!
+
+<img src="/images/diyresources/primary/Little-Owls-Bedtime.jpg" alt="Little Owl's Bedtime" style="width: 40%;">
+
+**Little Owl's Bedtime**
+
+By Debi Gliori, illustrated by Alison Brown
+Publisher: Bloomsbury Children’s Books
+
+Little Owl doesn’t want to go to bed. His pillow is too lumpy, his quilt is too hot and what is that strange snorting noise he hears? Perhaps one bedtime story will help or maybe, Mummy Owl has an ingenious way to soothe her restless Little Owl and help him get a good night’s sleep.
+
+This eBook is available on OverDrive at [https://nlb.overdrive.com/media/5114088](https://nlb.overdrive.com/media/5114088)
+
+<img src="/images/diyresources/primary/Snowy-Owl-Invasion.png" alt="Snowy Owl Invasion" style="width: 40%;">
+
+**Snowy Owl Invasion! Tracking an Unusual Migration**
+
+By Sandra Markle
+Publisher: Lerner Publishing Group
+
+Late in 2013, snowy owls started showing up in places no one expected to find them—including Florida. What had caused so many of these majestic birds to leave their Arctic home and fly to southern Canada and the United States? Scientists quickly began working to find out. Follow along as scientists figure out why snowy owls took part in this unusual migration and discover what they learned from the unexpected opportunity to study them up close.
+
+This eBook is available on OverDrive at [https://nlb.overdrive.com/media/3626722](https://nlb.overdrive.com/media/3626722)
+
+#### **Tip for Parents**
+
+Arts and craft are brilliant for developing minds and bodies. Craft activities foster communication, listening, attention, and imagination. These activities can enhance mental health as well as foster developmental skills such as fine motor skills and creativity. Art & Craft encourages children to play and experiment in a fun and relaxed environment.
+
+Source: [https://www.abc.net.au/kidslisten/ideas/earlylearning/benefits-of-arts-and-crafts-for-kids/10382780](https://www.abc.net.au/kidslisten/ideas/earlylearning/benefits-of-arts-and-crafts-for-kids/10382780)
+
+All websites were last accessed on 23 November 2020
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+
+
+#### **Space Doodle**
+
+Astronauts, spaceships, planets and…aliens? Go on an adventure with your child by doodling exciting scenes from space!
+
+You’ll need:
+* Paper
+* Pens/markers
+* Your creativity
+
+This activity can also be done using recycled materials.
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/WuF2B7KbYhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [How to make a Galaxy Wreath~ To Infinity & Beyond! | Doodle with Me](https://www.youtube.com/watch?v=WuF2B7KbYhE) (December 2017)
+
+#### **Be Curious!**
+
+Check out these eBooks for more stories about Space!
+
+<img src="/images/diyresources/primary/Zita-the-Spacegirl.jpg" alt="Zita the Spacegirl" style="width: 40%;">
+
+**Zita the Spacegirl**
+
+By Ben Hatke
+Publisher: First Second
+
+When her best friend is abducted by an alien doomsday cult, Zita leaps to the rescue and finds herself a stranger on a strange planet. Humanoid chickens and neurotic robots are shocking enough as new experiences go, but Zita is even more surprised to find herself taking on the role of intergalactic hero.
+
+This eBook is available on OverDrive at [https://nlb.overdrive.com/media/1807252](https://nlb.overdrive.com/media/1807252)
+
+<img src="/images/diyresources/primary/If-You-Had-Your-Birthday-Party-on-the-Moon.jpg" alt="Snowy Owl Invasion" style="width: 40%;">
+
+**If You Had Your Birthday Party on the Moon**
+
+By Joyce Lapin and Simona Ceccarelli
+Publisher: Sterling Children’s Books
+
+Have your birthday party on the moon and everyone will come! Young partygoers could romp in a low-gravity playground; watch candles and balloons behave weirdly in the Moon’s atmosphere; and see why the “moon angels” they make in the thick carpet of lunar dust will last for thousands of years. Learn the science behind a birthday party on the moon!
+
+This eBook is available on OverDrive at [https://nlb.overdrive.com/media/5181124](https://nlb.overdrive.com/media/5181124)
+
+#### **Tip for Parents**
+
+Did you know that doodling can help with stress relief? While doodling is often associated as a sign of distraction, psychologists have found that it can also improve one’s ability to focus and recall information.
+
+Try doodling with your child as a creative bonding activity.
+
+Source: [https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844](https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844)
+
+All websites were last accessed on 30 November 2020
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+

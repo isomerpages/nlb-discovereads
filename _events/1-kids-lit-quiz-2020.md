@@ -9,7 +9,7 @@ collection_name: events
 
 ### **About**
 
-![Lit Quiz logo](img src="/images/events/litquiz/KLQ-Logo.jpg" style="width: 15rem;")  
+![Lit Quiz logo](/images/events/litquiz/KLQ-Logo.jpg style="width: 50rem;")  
 
 Kids’ Lit Quiz™ is an international literature competition for young people aged 10 to 13. Held annually, students pit their wits against one another to answer questions on children’s books ranging from classics to comics. Wayne Mills, the Quizmaster, started the Quiz in 1991. Singapore has been participating in Kids’ Lit Quiz™ since 2013.
 

@@ -1,6 +1,6 @@
 ---
 title: Storytime with Our Librarians (for ages 4 - 10)
-permalink: /diy-resources/storytime/storytime-with-our-librarians
+permalink: /diy-resources/storytime/storytime-main
 collection_name: diy-resources
 third_nav_title: Storytime
 ---

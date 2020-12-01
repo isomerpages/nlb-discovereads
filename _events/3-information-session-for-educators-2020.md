@@ -1,6 +1,6 @@
 ---
 title: Information Session for Educators 2020 Virtual
-permalink: events/information-session-for-educators-2020-virtual
+permalink: events/infosessionforeducators2020
 breadcrumb: Information Session for Educators 2020 Virtual
 collection_name: events
 ---
@@ -27,7 +27,7 @@ Mr Kathirasan K, Founder and Managing Director of the Centre for Mindfulness
 
 Learn mindfulness techniques that will help students manage stress and anxiety better.
 
-<iframe width="767" height="431" src="https://www.youtube.com/embed/MM5YkP9lIHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MM5YkP9lIHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Temasek Primary Media Resource Library**
 
@@ -35,7 +35,7 @@ Ms Joy Tan Yi Wei, Temasek Primary
 
 Learn from Temasek Primary School’s innovative best practices in transforming reading and learning spaces for children.
 
-<iframe width="767" height="431" src="https://www.youtube.com/embed/CtucSF7MU8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CtucSF7MU8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **First Toa Payoh Reading Challenge**
 
@@ -43,7 +43,7 @@ Mrs Ryna Raaj, First Toa Payoh Primary
 
 Hear from First Toa Payoh Primary School’s innovative best practices in transforming reading and learning spaces for students in schools.
 
-<iframe width="767" height="431" src="https://www.youtube.com/embed/cZuesMCWXoc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cZuesMCWXoc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Library Redesign and Revamp Boon Lay Secondary**
 
@@ -51,7 +51,7 @@ Ms Tan Ying Hwee, Boon Lay Secondary
 
 Listen to Boon Lay Secondary School’s innovative best practices in transforming reading and learning spaces for students in schools.
 
-<iframe width="767" height="431" src="https://www.youtube.com/embed/LubvlWK18Sw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LubvlWK18Sw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **NLB School Library Revamp: The Way Forward**
 
@@ -59,7 +59,7 @@ Mr Xavier Koh, NLB
 
 Gain insights and tips from NLB’s pilot project for school libraries to better serve the reading and learning needs of students and teachers.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/DpR0i5gMeXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpR0i5gMeXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Collection Development: From Pilot to Practice**
 
@@ -67,7 +67,7 @@ Ms Cassandra Chua & Mrs June Siew, MOE Curriculum Planning and Development Divis
 
 Journey through MOE CPDD’s pilot project in refreshing school libraries’ collection and collection development policy.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/g3W5jrIj-3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3W5jrIj-3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Comics and Picture Books: Motivating Reluctant Readers** 
 
@@ -77,7 +77,7 @@ Ms Suzannah Chua, Author & Early Childhood Professional <br>
 
 Hear inspiring stories on how graphic novels, picture books and wordless picture books have helped students develop the habit of reading.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/d1NXyWjbyJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1NXyWjbyJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **From the Selector’s Desk**
 
@@ -85,7 +85,7 @@ Ms Christabel Sim, NLB
 
 Discover the latest graphic novel, picture books and wordless picture books to promote reading and learning among students.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/3juY6kWiQU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3juY6kWiQU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **National Library Resources for Teachers and Students**
 
@@ -93,7 +93,7 @@ Ms Carmen Wang, NLB
 
 Stay updated about NLB’s information literacy programmes for students and professional development webinars for teachers.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/wxKBh7zf9Nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxKBh7zf9Nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **One Story: Dharma’s Chariot**
 
@@ -101,7 +101,7 @@ Ms Joey Chin, NLB
 
 Dive into One Story, a multi-year project by NLB that makes local short stories – originally written in Tamil, Malay, Chinese or English – available in other languages.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/FvOOSyq_9kE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FvOOSyq_9kE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Engaging Children and Teens**
 
@@ -109,7 +109,7 @@ Ms Ashiqin Ramadan, NLB
 
 Be informed about NLB’s programmes and services at schools and public libraries to inculcate the love of reading and learning among children and teens.
 
-<iframe width="880" height="495" src="https://www.youtube.com/embed/dsq1eXONZFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dsq1eXONZFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Tips on Mindfulness**
 

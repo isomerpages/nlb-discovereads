@@ -4,13 +4,12 @@ permalink: services/read-at-school/
 breadcrumb: Read@School
 collection_name: services
 ---
+
 ## **Read@School**
 
-![Discovereads Logo](/images/discoveReadsbanner3.png)
+### **About**
 
-discoveReads is a reading portal by National Library Board (NLB) for children, teens, parents and educators. Discover new books and resources that will bring out the avid reader in you!
-
-<img src="/images/Read_Singapore_Read@school_pantone_secondary.jpg" style="width: 40%;"> 
+<img src="/images/readatschool/ReadatSchool-Logo.jpg" alt="Read at Schoo" style="width: 15rem;">
 
 Read@School is an initiative by the National Library Board (NLB) to promote reading among students in schools. Students can enjoy a variety of exciting reading programmes that cater to their reading abilities and interests.
 

@@ -27,7 +27,7 @@ If  you’d like to bring these programmes to your school, contact your NLB Libr
 * Book Buzz (All levels)
 * Books2Go (P1-P6)
 * Raising Readers’ Workshop (For parents and educators)
-* DIY resources ([Primary](/diy-resources/primary/primary-main) or [Secondary](diy-resources/secondary/secondary-main))
+* DIY resources ([Primary](/diy-resources/primary/primary-main) / [Secondary](/diy-resources/secondary/secondary-main))
 * Refer to the brochure for all Read@School related services: Read@School Services
 
 *Looking for an NLB Librarian? [Email Us](mailto:enquiry@nlb.gov.sg)

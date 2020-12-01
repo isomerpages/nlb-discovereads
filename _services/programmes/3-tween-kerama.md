@@ -1,6 +1,6 @@
 ---
 title: Tweenkerama
-permalink: programmes/tween-kerama
+permalink: programmes/tweenkerama
 breadcrumb: Tween Kerama
 collection_name: services
 third_nav_title: Programmes

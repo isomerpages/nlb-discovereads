@@ -17,7 +17,7 @@ Read@School is an initiative by the National Library Board (NLB) to promote read
 
 | **Children (7-9 years old)**  | **Tweens (10-14 years old)** | **Teens (13-17 years old)** |
 | ----------------------------- | --------------------------- | -------------------------- |
-| [img src="/images/readatschool/MonstersUnited-Logo-Thumb.jpg" alt="Monsters United" style="width: 10rem;"] (/services/programmes/monstersunited)| <img src="/images/readatschool/Tweenkerama-Logo-Thumb.jpg" alt="Tweenkerama" style="width: 10rem;"> (/services/programmes/tweenkerama) | <img src="/images/readatschool/TeensTakeOver-Logo-Thumb.jpg" alt="Teens Take Over" style="width: 10rem;"> (/services/programmes/teenstakeover) |
+| <img src="/images/readatschool/MonstersUnited-Logo-Thumb.jpg" alt="Monsters United" style="width: 10rem;"> (/services/programmes/monstersunited) | <img src="/images/readatschool/Tweenkerama-Logo-Thumb.jpg" alt="Tweenkerama" style="width: 10rem;"> (/services/programmes/tweenkerama) | <img src="/images/readatschool/TeensTakeOver-Logo-Thumb.jpg" alt="Teens Take Over" style="width: 10rem;"> (/services/programmes/teenstakeover) |
 
 ### **Get In Touch**
 
@@ -27,7 +27,7 @@ If  you’d like to bring these programmes to your school, contact your NLB Libr
 * Book Buzz (All levels)
 * Books2Go (P1-P6)
 * Raising Readers’ Workshop (For parents and educators)
-* DIY resources ([Primary](/diy-resources/primary/primary-main) or [Secondary](diy-resources/secondary/secondary-main)
+* DIY resources ([Primary](/diy-resources/primary/primary-main) or [Secondary](diy-resources/secondary/secondary-main))
 * Refer to the brochure for all Read@School related services: Read@School Services
 
 *Looking for an NLB Librarian? [Email Us](mailto:enquiry@nlb.gov.sg)

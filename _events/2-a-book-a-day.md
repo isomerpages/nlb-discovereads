@@ -17,7 +17,7 @@ The programme consists of:
 * Reading journal with recommended reading activities 
 * Lucky draw 
 
-Participants in this reading programme will be entered for a quarterly Lucky Draw and stand a chance to win a collection of children’s books! |
+Participants in this reading programme will be entered for a quarterly Lucky Draw and stand a chance to win a collection of children’s books!
 
 ### **Participation Eligibility**
 

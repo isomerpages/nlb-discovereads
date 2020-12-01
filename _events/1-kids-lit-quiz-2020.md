@@ -15,7 +15,7 @@ Kids’ Lit Quiz™ is an international literature competition for young people 
 
 In 2019, NPS International School won the Singapore National Final. The team represented Singapore at the Kids’ Lit Quiz™ World Final held in Singapore for the first time.
 
-Check out snippets of the adrenaline-pumping Singapore National Final in 2019 [here](https://www.youtube.com/watch?v=z6ZTBXYGjAw) and [here!](https://www.youtube.com/watch?v=P7A6wMV1Uik) 
+Check out snippets of the adrenaline-pumping Singapore National Final in 2019 [here](https://www.youtube.com/watch?v=z6ZTBXYGjAw) and [here](https://www.youtube.com/watch?v=P7A6wMV1Uik)! 
 
 For general information about Kids’ Lit Quiz™, visit [www.kidslitquiz.com](http://www.kidslitquiz.com/). To enquire about the competition in Singapore, please email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg).
 

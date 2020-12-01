@@ -1,15 +1,17 @@
 ---
 title: A Book A Day
-permalink: events/a-book-a-day
+permalink: events/abookaday
 breadcrumb: A Book A Day
 collection_name: events
 ---
 
-## *A Book A Day*
+## **A Book A Day**
 
-**About A Book A Day**
+### **About**
 
-| ![ABAD Logo](/images/events/abookaday/abadlogo_resized.jpg) | “A Book A Day” reading programme aims to inculcate pre-reading skills and the enjoyment of reading amongst children aged 0-6 years old and encourage parents to read at least one book with their child every day. <br><br> The programme consists of: <br> - reading journal with recommended reading activities <br> – lucky draw <br><br> Participants in this reading programme will be entered for a quarterly Lucky Draw and stand a chance to win a collection of children’s books! |
+<img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">
+
+“A Book A Day” reading programme aims to inculcate pre-reading skills and the enjoyment of reading amongst children aged 0-6 years old and encourage parents to read at least one book with their child every day. <br><br> The programme consists of: <br> - reading journal with recommended reading activities <br> – lucky draw <br><br> Participants in this reading programme will be entered for a quarterly Lucky Draw and stand a chance to win a collection of children’s books! |
 
 **Participation Eligibility**
 

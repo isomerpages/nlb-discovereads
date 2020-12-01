@@ -1,13 +1,15 @@
 ---
 title: Early Read
-permalink: services/early-read
-breadcrumb: Early Read
+permalink: services/earlyread
+breadcrumb: Early READ
 collection_name: services
 ---
 
-## **About Early Read**
+## **POSB-NLB Kids' Lit Quiz™ Singapore 2020**
 
-<img src="/images/Early-Readers-Logo-8cm.png" style="width: 50%;">
+### **About**
+
+<img src="/images/EarlyRead-Logo.jpg" alt="Early Read" style="width: 15rem;">
 
 The Early READ Programme offers a suite of library services and resources that aims to help preschool educators and parents nurture a love for reading among young children aged 0 to 6. Through this programme, you can help your children explore reading through stories, songs and rhymes, and fun reading related activities.
 
@@ -33,4 +35,4 @@ Understanding that the print on a page represent words and knowing how to follow
 
 Knowing the names of things, feelings and concepts.
 
-Click [here](http://www.nlb.gov.sg/discovereads/preschool-resources/) to find out more about literacy practices that help develop early literacy skills and download our DIY resources. 
+Click [here](/diy-resources/preschool/preschool-main) to find out more about literacy practices that help develop early literacy skills and download our DIY resources. 

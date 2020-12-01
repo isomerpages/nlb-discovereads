@@ -9,7 +9,7 @@ collection_name: services
 
 ### **About**
 
-<img src="/images/readatschool/ReadatSchool-Logo.jpg" alt="Read at Schoo" style="width: 15rem;">
+<img src="/images/readatschool/ReadatSchool-Logo.jpg" alt="Read at School" style="width: 15rem;">
 
 Read@School is an initiative by the National Library Board (NLB) to promote reading among students in schools. Students can enjoy a variety of exciting reading programmes that cater to their reading abilities and interests.
 
@@ -17,7 +17,7 @@ Read@School is an initiative by the National Library Board (NLB) to promote read
 
 | **Children (7-9 years old)**  | **Tweens(10-14 years old)** | **Teens(13-17 years old)** |
 | ----------------------------- | --------------------------- | -------------------------- |
-| [![Monsters United Logo](/images/readatschool/dr-banner.jpg)](unsorted/monsters-united) | [![Tweenkerama Logo](/images/readatschool/teens-takeover-logo-on-black.jpg)](unsorted/tween-kerama) | [![Teens Take Over Logo](/images/readatschool/Tweenkerama-Logo.jpg)](unsorted/teens-takeover) |
+| <img src="/images/readatschool/MonstersUnited-Logo-Thumb.jpg" alt="Monsters United" style="width: 10rem;"> (services/programmes/monstersunited)| <img src="Tweenkerama-Logo-Thumb.jpg" alt="Tweenkerama" style="width: 10rem;"> (services/programmes/monstersunited) | <img src="Tweenkerama-Logo-Thumb.jpg" alt="Tweenkerama" style="width: 10rem;"> (services/programmes/teenstakeover) |
 
 ### **Get In Touch**
 
@@ -27,7 +27,7 @@ If  you’d like to bring these programmes to your school, contact your NLB Libr
 * Book Buzz (All levels)
 * Books2Go (P1-P6)
 * Raising Readers’ Workshop (For parents and educators)
-* DIY resources ([Primary](https://google.com) / [Secondary](https://google.com))
+* DIY resources ([Primary](diy-resources/primary) / [Secondary](diy-resources/primary))
 * Refer to the brochure for all Read@School related services: Read@School Services
 
 *Looking for an NLB Librarian? [Email Us](mailto:enquiry@nlb.gov.sg)

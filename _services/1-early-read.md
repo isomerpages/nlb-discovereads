@@ -1,11 +1,11 @@
 ---
-title: Early Read
+title: Early READ
 permalink: services/earlyread
 breadcrumb: Early READ
 collection_name: services
 ---
 
-## **POSB-NLB Kids' Lit Quiz™ Singapore 2020**
+## **Early READ**
 
 ### **About**
 

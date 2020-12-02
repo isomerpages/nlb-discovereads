@@ -14,10 +14,10 @@ _(Updated on 8 August 2020)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#School-Holiday-Special) | [Storytime with Our Librarians](#Storytime-with-Our-Librarians) | [Quizzes](#Quizzes) | [Literary Trivia](#Literary-Trivia) | [Learn About S.T.E.A.M.](#Learn-About-S.T.E.A.M.) | [Read and Craft](#Read-and-Craft) | [Read and Share](#Read-and-Share) | [Decorate My Space](#Decorate-My-Space) | [Engage My Child in Reading](#Engage-My-Child-in-Reading) | [Let’s be S.U.R.E.](#Let’s-be-S.U.R.E.) |
+| [School Holiday Special](#school-holiday-special) | [Storytime with Our Librarians](#storytime-with-our-librarians) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Let’s be S.U.R.E.](#lets-be-sure) |
 
 ## **School Holiday Special**
-_(Click on the icon to find out more!)_
+Click on the icon to find out more!
 
 <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 

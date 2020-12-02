@@ -8,6 +8,7 @@ third_nav_title: Primary School Resources
 ## **Primary**
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
+
 This page is best viewed on your desktop.
 
 _(Updated on 8 August 2020)_
@@ -16,13 +17,13 @@ _(Updated on 8 August 2020)_
 
 | [School Holiday Special](#school-holiday-special) | [Storytime with Our Librarians](#storytime-with-our-librarians) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
-## **School Holiday Special**
+### **School Holiday Special**
 Click on the icon to find out more!
 
 <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
 
-## **Storytime with Our Librarians**
+### **Storytime with Our Librarians**
 
 Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages.
 
@@ -30,12 +31,12 @@ _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
 
 
-## **Quizzes**
+### **Quizzes**
 
 <a href="https://www.opinionstage.com/content-717/dare-to-read-singapore-edition"><img src="/images/diyresources/primary/DTR-Quiz-Poster.png" alt="Dare to Read image" style="width: 40%;"></a>
 
 
-## **Literary Trivia**
+### **Literary Trivia**
 Uncover your reading interest and challenge your lit knowledge!
 
 **Reading Interest Profile (15 mins)**
@@ -60,7 +61,7 @@ P4-P6
 | [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
 
 
-## **Learn about S.T.E.A.M.**
+### **Learn about S.T.E.A.M.**
 **Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.**
 
 **Tinker Truck Worksheets (15 mins)**
@@ -93,7 +94,7 @@ P4 - P6
 | Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) | 
 
 
-## **Read and Craft**
+### **Read and Craft**
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
@@ -105,7 +106,7 @@ P1 – P3
 | [![Decode me image](/images/diyresources/primary/popReads-Decode-me.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf) | [![Just keep running image](/images/diyresources/primary/Just-keep-running.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf) |
 
 
-## **Read and Share**
+### **Read and Share**
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
 | <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
@@ -156,7 +157,7 @@ Call Number: J JIN
 [RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.pdf)
 
 
-## **Decorate My Space**
+### **Decorate My Space**
 Print out and put up these eye-catching posters and entertaining activities!
 
 **Posters (5 mins)**
@@ -170,7 +171,7 @@ Suggested activities to liven up reading corners everywhere!
 <a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
 
 
-## **Engage My Child in Reading**
+### **Engage My Child in Reading**
 Read these dedicated guides for parents and educators.
 
 **Raising Readers**
@@ -197,7 +198,7 @@ This video is part of a series on parenting tips during home-based learning, bro
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-## **Learn To Be S.U.R.E.**
+### **Learn To Be S.U.R.E.**
 Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!
 
 **S.U.R.E. Toolkit (45 min)**

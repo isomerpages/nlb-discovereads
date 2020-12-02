@@ -14,7 +14,7 @@ _(Updated on 8 August 2020)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#School Holiday Special) | [Storytime with Our Librarians](#Storytime with Our Librarians) | [Quizzes](#Quizzes) | [Literary Trivia](#Literary Trivia) | [Learn About S.T.E.A.M.](#Learn About S.T.E.A.M.) | [Read and Craft](#Read and Craft) | [Read and Share](#Read and Share) | [Decorate My Space](#Decorate My Space) | [Engage My Child in Reading](#Engage My Child in Reading) | [Let’s be S.U.R.E.](#Let’s be S.U.R.E.) |
+| [School Holiday Special](#School-Holiday-Special) | [Storytime with Our Librarians](#Storytime-with-Our-Librarians) | [Quizzes](#Quizzes) | [Literary Trivia](#Literary-Trivia) | [Learn About S.T.E.A.M.](#Learn-About-S.T.E.A.M.) | [Read and Craft](#Read-and-Craft) | [Read and Share](#Read-and-Share) | [Decorate My Space](#Decorate-My-Space) | [Engage My Child in Reading](#Engage-My-Child-in-Reading) | [Let’s be S.U.R.E.](#Let’s-be-S.U.R.E.) |
 
 ### **School Holiday Special**
 _(Click on the icon to find out more!)_

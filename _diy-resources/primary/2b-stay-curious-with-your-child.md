@@ -16,7 +16,7 @@ _(Updated on 23 November 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#School Holiday Specials) | [Paper Crafts](#Paper Crafts) | [Yoga for Kids](#Yoga for Kids) | [Science Exploration](#Science Exploration) | [High-intensity Interval Training (HIIT) Workout for Kids](#High-intensity Interval Training (HIIT) Workout for Kids) |
+| [School Holiday Specials](#School Holiday Specials) | [Paper Crafts](#Paper Crafts) | [Yoga for Kids](#Yoga for Kids) | [Science Exploration](#Science Exploration) | [High-intensity Interval Training (HIIT) Workout for Kids](#High-intensity Interval Training (HIIT) Workout for Kids) | [Paper Owl](#Paper Owl) | [Space Doodle](#Space Doodle)
 
 ### **School Holiday Specials**
 
@@ -32,7 +32,7 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
-#### **High-intensity Interval Training (HIIT) Workout for Kids**
+### **High-intensity Interval Training (HIIT) Workout for Kids**
 
 Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!
 
@@ -84,7 +84,7 @@ All websites were last accessed on 25 May 2020
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### **Paper Crafts**
+### **Paper Crafts**
 
 Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.
 
@@ -142,12 +142,11 @@ School holidays provide an opportunity to create happy memories with our childre
 
 Source: [Tips for parenting during the coronavirus (Covid-19) outbreak](https://www.unicef.org/coronavirus/covid-19-parenting-tips#3)
 
-All websites were last accessed on 30 April 2020
-
+All websites were last accessed on 30 April 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### **Yoga for Kids**
+### **Yoga for Kids**
 
 Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.
 
@@ -197,12 +196,11 @@ Yoga can help your kids to better their physical and mental health. Benefits inc
 
 Source: [More than just a game: Yoga for school-age children](https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055)
 
-All websites were last accessed on 4 May 2020
-
+All websites were last accessed on 4 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### **Science Exploration**
+### **Science Exploration**
 
 Sink or float? Get creative in exploring the concept of density and find out!
 
@@ -251,12 +249,11 @@ Encourage scientific thinking in your child by exploring and finding answers tog
 
 Source: [https://www.naeyc.org/our-work/families/support-science-learning](https://www.naeyc.org/our-work/families/support-science-learning)
 
-All websites were last accessed on 15 May 2020
-
+All websites were last accessed on 15 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### **Paper Owl**
+### **Paper Owl**
 
 Get crafty and let this paper owl inspire your child to learn more about this nocturnal creature!
 
@@ -306,13 +303,11 @@ Arts and craft are brilliant for developing minds and bodies. Craft activities f
 
 Source: [https://www.abc.net.au/kidslisten/ideas/earlylearning/benefits-of-arts-and-crafts-for-kids/10382780](https://www.abc.net.au/kidslisten/ideas/earlylearning/benefits-of-arts-and-crafts-for-kids/10382780)
 
-All websites were last accessed on 23 November 2020
-
+All websites were last accessed on 23 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-
-#### **Space Doodle**
+### **Space Doodle**
 
 Astronauts, spaceships, planets and…aliens? Go on an adventure with your child by doodling exciting scenes from space!
 
@@ -363,8 +358,7 @@ Try doodling with your child as a creative bonding activity.
 
 Source: [https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844](https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844)
 
-All websites were last accessed on 30 November 2020
-
+All websites were last accessed on 30 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 

@@ -30,9 +30,9 @@ _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
 
 
-### **Quizzes _*new_**
+### **Quizzes**
 
-<a href="https://www.opinionstage.com/content-717/dare-to-read-singapore-edition"><img src="/images/diyresources/primary/DTR-Quiz-Poster.png" alt="Dare to Read image" style="width: 60%;"></a>
+<a href="https://www.opinionstage.com/content-717/dare-to-read-singapore-edition"><img src="/images/diyresources/primary/DTR-Quiz-Poster.png" alt="Dare to Read image" style="width: 40%;"></a>
 
 
 ### **Literary Trivia**
@@ -49,13 +49,11 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 | [![Lower primary reading interest profile booklet image](/images/diyresources/primary/RIP.png)](/images/diyresources/primary/RIP_LowerPri_FA.PDF) | [![Upper primary reading interest profile booklet image](/images/diyresources/primary/RIPUP.png)](/images/diyresources/primary/RIP_UpperPri_FA.pdf) |
 
 **Reading Challenge**
-
-Up your reading game by completing our very own Reading Challenge:
+Level up your reading game by completing our very own reading challenge:
 
 <a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
 
 **POSB-NLB Kids’ Lit Quiz(TM) Survival Kit and Literary Boot Camp Booklet (30 mins)**
-
 Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
 
 P4-P6

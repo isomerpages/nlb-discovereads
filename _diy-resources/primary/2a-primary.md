@@ -14,7 +14,7 @@ _(Updated on 8 August 2020)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](###School Holiday Special) | [Storytime with Our Librarians](#Storytime with Our Librarians) | [Quizzes](#Quizzes) | [Literary Trivia](#Literary Trivia) | [Learn About S.T.E.A.M.](#Learn About S.T.E.A.M.) | [Read and Craft](#Read and Craft) | [Read and Share](#Read and Share) | [Decorate My Space](#Decorate My Space) | [Engage My Child in Reading](#Engage My Child in Reading) | [Let’s be S.U.R.E.](#Let’s be S.U.R.E.) |
+| [School Holiday Special](#School Holiday Special) | [Storytime with Our Librarians](#Storytime with Our Librarians) | [Quizzes](#Quizzes) | [Literary Trivia](#Literary Trivia) | [Learn About S.T.E.A.M.](#Learn About S.T.E.A.M.) | [Read and Craft](#Read and Craft) | [Read and Share](#Read and Share) | [Decorate My Space](#Decorate My Space) | [Engage My Child in Reading](#Engage My Child in Reading) | [Let’s be S.U.R.E.](#Let’s be S.U.R.E.) |
 
 ### **School Holiday Special**
 _(Click on the icon to find out more!)_
@@ -36,11 +36,9 @@ _(Click on the icon to find out more!)_
 
 
 ### **Literary Trivia**
-
-**Uncover your reading interest and challenge your lit knowledge!**
+Uncover your reading interest and challenge your lit knowledge!
 
 **Reading Interest Profile (15 mins)**
-
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
 | **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
@@ -66,7 +64,6 @@ P4-P6
 **Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.**
 
 **Tinker Truck Worksheets (15 mins)**
-
 Try out these printable worksheets from the first children’s makerspace in the libraries!
 
 P1 – P3
@@ -79,7 +76,6 @@ P1 – P3
 | [![Transformation image](/images/diyresources/primary/Transformation-Cover-1-1.jpg)](/images/diyresources/primary/Transformation-1.pdf) | [![My home image](/images/diyresources/primary/My-Home-Cover-1.jpg)](/images/diyresources/primary/My-Home-1.pdf) | 
 
 **DIY Tweens Packages (30 mins)**
-
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 P4 – P6
@@ -88,7 +84,6 @@ P4 – P6
 | [![Paper helicopter image](/images/diyresources/primary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Paper-Helicopter.pdf) | [![Zentangle image](/images/diyresources/primary/Tweens-Zentangle.jpg)](/images/diyresources/primary/Tweens-Pop-Up-package-Zentangle.pdf) |
 
 **Tweens Lab Mag (1 hour)**
-
 Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics and activities for you to complete. Download the issues below!
 
 P4 - P6
@@ -102,7 +97,6 @@ P4 - P6
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
-
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
 P1 – P3
@@ -120,7 +114,6 @@ P1 – P3
 | <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
 **Read Swap Share (30 mins)**
-
 In this activity, students swap and share books with one another, prompting interesting book-related conversations. Use these worksheets as a guide as you borrow our [eBooks](/ebooks/ebook-nav)!
 
 | **RSS Facilitator’s Guide** | **RSS Worksheet Primary 1 to 2 (Basic)** |
@@ -128,7 +121,6 @@ In this activity, students swap and share books with one another, prompting inte
 | <a href="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.pdf"><img src="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png" alt="RSS advanced image" style="width: 70%;"></a> | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.pdf) |
 
 **Read Reap Write (30 mins)**
-
 Students explore how stories relate to the world around them through a series of engaging discussions and activities. By reading and reflecting on thought-provoking extracts from great books, students will be encouraged to think critically and draw parallels between what is described in the extracts and their real-life experiences.
 
 P3 – P4
@@ -165,8 +157,7 @@ Call Number: J JIN
 
 
 ### **Decorate My Space**
-
-**Print out and put up these eye-catching posters and entertaining activities!**
+Print out and put up these eye-catching posters and entertaining activities!
 
 **Posters (5 mins)**
 
@@ -183,7 +174,6 @@ Suggested activities to liven up reading corners everywhere!
 Read these dedicated guides for parents and educators.
 
 **Raising Readers**
-
 This guide provides information on how parents can instill a love of reading in their children.
 
 <a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
@@ -197,13 +187,11 @@ Topics covered include:
 * Reading at P1
 
 **The Parents’ Welcome Kit: Ride of a Lifetime**
-
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
 <a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-lifetime-thumb.png" alt="Parents welcome kit image" style="width: 50%;"></a>
 
 **Tips to Get Your Kid Reading**
-
 This video is part of a series on parenting tips during home-based learning, brought to you by the Office of Education Research, NIE NTU, Singapore
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

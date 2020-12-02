@@ -16,7 +16,7 @@ _(Updated on 30 November 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#School-Holiday-Specials) | [Paper Crafts](#Paper-Crafts) | [Paper Owl](#Paper-Owl) | [Yoga for Kids](#Yoga-for-Kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#High-intensity-Interval-Training-(HIIT)-Workout-for-Kids) | [Science Exploration](#Science-Exploration) | [Space Doodle](#Space-Doodle)
+| [School Holiday Specials](#school-holiday-specials) | [Paper Crafts](#paper-crafts) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ## **School Holiday Specials**
 

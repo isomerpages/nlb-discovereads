@@ -19,14 +19,15 @@ _(Updated on 8 August 2020)_
 ### **School Holiday Special**
 _(Click on the icon to find out more!)_
 
-<a href="/images/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
+<a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
 
 ### **Storytime with Our Librarians**
 
 Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages.
 
-<a href="/diy-resources/storytime/storytime-with-our-librarians"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
+_(Click on the icon to find out more!)_
+<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
 
 
 ### **Quizzes _*new_**

@@ -11,7 +11,7 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 23 November 2020)_
+_(Updated on 30 November 2020)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
@@ -269,7 +269,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/QQ3Co2iNmV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Source: [How to make the CUTEST OWL from Paper | Paper Craft for Kids | Activities for Kids](https://www.youtube.com/watch?v=QQ3Co2iNmV4) (June 2019)
+Source: [How to make the Cutest OWL from Paper](https://www.youtube.com/watch?v=QQ3Co2iNmV4) (June 2019)
 
 #### **Be Curious!**
 
@@ -322,7 +322,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/WuF2B7KbYhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Source: [How to make a Galaxy Wreath~ To Infinity & Beyond! | Doodle with Me](https://www.youtube.com/watch?v=WuF2B7KbYhE) (December 2017)
+Source: [How to Make a Galaxy Wreath](https://www.youtube.com/watch?v=WuF2B7KbYhE) (December 2017)
 
 #### **Be Curious!**
 

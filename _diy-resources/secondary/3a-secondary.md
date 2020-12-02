@@ -5,7 +5,7 @@ collection_name: diy-resources
 third_nav_title: Secondary School Resources
 ---
 
-## **Secondary**
+### **Secondary**
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
 
@@ -15,15 +15,17 @@ _(Updated on 17 July 2020)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](/diy-resources/secondary/teen-things) | [Literary Trivia](#lit-trivia) | [Learn About S.T.E.A.M.](#steam) | [Read and Craft](#read-craft) | [Read and Share](#read-share) | D[ecorate My Space](#decorate) | [Let’s be S.U.R.E.](#sure) |
+| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 
-(click on the icon to find out more!)
+Click on the icon to find out more!
 
 <a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 40%;"></a>
 
-### <a name="lit-trivia">**Uncover your reading interest and challenge your lit knowledge!**</a>
+### **Literary Trivia**
+
+Uncover your reading interest and challenge your lit knowledge!
 
 **Reading Interest Profile (15 mins)**
 
@@ -65,7 +67,8 @@ Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics an
 
 | Issue #1 [here](/images/diyresources/secondary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/secondary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/secondary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) |
 
-### <a name="read-craft">**Read and Craft**</a>
+### **Read and Craft**
+
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
@@ -75,8 +78,9 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.pdf"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 40%;"></a>
 
-### <a name="read-share">**Read and Share**</a>
-**Share your thoughts on your favourite reads and intriguing book excerpts.**
+### **Read and Share**
+
+Share your thoughts on your favourite reads and intriguing book excerpts.
 
 **Read Reap Write (30 mins)**
 Students explore how stories relate to the world around them through a series of engaging discussions and activities. By reading and reflecting on thought-provoking extracts from great books, students will be encouraged to think critically and draw parallels between what is described in the extracts and their real-life experiences.
@@ -138,8 +142,9 @@ Call Number: Y GAT
 | [RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Viridian-Worksheet-and-Extract.pdf) |
 [RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Viridian-Facilitators-Guide.pdf) |
 
-### <a name="decorate">**Decorate My Space**</a>
-**Print out and put up these eye-catching posters and entertaining activities!**
+### **Decorate My Space**
+
+Print out and put up these eye-catching posters and entertaining activities!
 
 **Posters (5 mins)**
 
@@ -159,12 +164,14 @@ Click on the links below to download the posters
 | [Science Fiction](/images/diyresources/secondary/Upper-Sec-Science-Fiction-Book-Buzz-Poster.pdf) | [Realistic Fiction](/images/diyresources/secondary/Upper-Sec-Realistic-Fiction-Book-Buzz-Poster.pdf) |
 
 **Activities (30 mins)**
+
 Suggested activities to liven up reading corners everywhere!
 
 <a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
 
-### <a name="sure">**Learn To Be S.U.R.E.**</a>
-**Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!**
+### **Learn To Be S.U.R.E.**
+
+Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!
 
 **EYEYAH! You S.U.R.E. or not? (20 min)**
 Explore the world wide web with these activity sheets from EYEYAH!

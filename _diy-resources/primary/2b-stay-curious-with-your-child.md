@@ -52,11 +52,13 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 Source: [Paper Heart Flower Craft](https://www.youtube.com/watch?v=D4XSlCCXyvU&feature=youtu.be) (14 April 2018)
 
 **Be Curious!**
+
 Check out these eBooks for ideas to transform paper into awesome creations.
 
 <img src="/images/diyresources/primary/Paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
 
 **Awesome Paper Projects You Can Create (Imagine It, Build It)**
+
 By Marne Ventura
 Publisher: Capstone. 2017
 
@@ -67,6 +69,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/3690047]
 <img src="/images/diyresources/primary/origami.jpg" alt="Origami games image" style="width: 40%;">
 
 **Origami Games: Hands-on Fun for Kids!**
+
 By Joel Stern
 Publisher: Tuttle Publishing, 2010
 Call Number: English736.982 STE -\[ART\]
@@ -79,6 +82,7 @@ For more stay-home activities to engage children, visit:
 [http://www.nlb.gov.sg/discovereads/diy-resources/](http://www.nlb.gov.sg/discovereads/diy-resources/)
 
 **Tip for Parents**
+
 School holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.
 
 Source: [Tips for parenting during the coronavirus (Covid-19) outbreak](https://www.unicef.org/coronavirus/covid-19-parenting-tips#3)
@@ -106,11 +110,13 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 Source: [How to make the Cutest OWL from Paper](https://www.youtube.com/watch?v=QQ3Co2iNmV4) (June 2019)
 
 **Be Curious!**
+
 Read these eBooks for more exciting stories featuring owls!
 
 <img src="/images/diyresources/primary/Little-Owls-Bedtime.jpg" alt="Little Owl's Bedtime" style="width: 40%;">
 
 **Little Owl's Bedtime**
+
 By Debi Gliori, illustrated by Alison Brown
 Publisher: Bloomsbury Children’s Books
 
@@ -121,6 +127,7 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/5114088
 <img src="/images/diyresources/primary/Snowy-Owl-Invasion.png" alt="Snowy Owl Invasion" style="width: 40%;">
 
 **Snowy Owl Invasion! Tracking an Unusual Migration**
+
 By Sandra Markle
 Publisher: Lerner Publishing Group
 
@@ -139,6 +146,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 
 ## **Yoga for Kids**
+
 Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.
 
 All you need are:
@@ -152,11 +160,13 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 Source: [Betsy the Banana| A Cosmic Kids Yoga Adventure](https://youtu.be/40SZl84Lr7A) (31 January 2016)
 
 **Be Curious!**
+
 Read these eBooks for more calming poses and mindfulness exercises.
 
 <img src="/images/diyresources/primary/Meddy-Teddy.jpg" alt="Meddy teddy image" style="width: 40%;">
 
 **Meddy Teddy: A Mindful Yoga Journey**
+
 By Apple Jordan, illustrated by Nicholas Hong
 Publisher: Random House Children’s Books
 
@@ -167,6 +177,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/m
 <img src="/images/diyresources/primary/Breathe-Like-a-Bear.jpg" alt="Breathe like a bear image" style="width: 40%;">
 
 **Breathe Like a Bear**
+
 By Kira Wiley, illustrated by Anni Betts
 Publisher: Random House Children’s Books
 
@@ -175,6 +186,7 @@ Breathe Like a Bear is a beautifully illustrated collection of mindfulness exerc
 This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/3683261](https://nlb.overdrive.com/library/kids/media/3683261).
 
 **Tip for Parents**
+
 Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence.
 
 Source: [More than just a game: Yoga for school-age children](https://www.health.harvard.edu/blog/more-than-just-a-game-yoga-for-school-age-children-201601299055)
@@ -184,6 +196,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 
 ## **High-intensity Interval Training (HIIT) Workout for Kids**
+
 Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!
 
 You’ll need:
@@ -196,11 +209,13 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 Source: [Super fun KID’S Workout! 8-Minute HIIT fitness class for kids. Let’s Kid Fit GO!](https://www.youtube.com/watch?v=fomkRYcl_mo&feature=emb_title)  (2 Apr 2020)
 
 **Be Curious!**
+
 Read these eBooks to motivate your children to stay active and healthy.
 
 <img src="/images/diyresources/primary/Picture1.jpg" alt="Oh the things you can do that are good for you image" style="width: 40%;">
 
 **Oh, the Things You Can Do That Are Good for You**
+
 By Tish Rabe
 Publisher: Random House Children’s Books
 
@@ -211,6 +226,7 @@ This eBook is available on Overdrive at: [https://nlb.overdrive.com/media/470498
 <img src="/images/diyresources/primary/x300.jpg" alt="My weird school fast facts sports image" style="width: 40%;">
 
 **My Weird School Fast Facts: Sports**
+
 By Dan Gutman
 Publisher: HarperCollins
 
@@ -230,6 +246,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 
 ### **Science Exploration**
+
 Sink or float? Get creative in exploring the concept of density and find out!
 
 You’ll need:
@@ -251,6 +268,7 @@ Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://ww
 <img src="/images/diyresources/primary/Snackable-Science-Experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
 
 **Snackable Science Experiments (60 Edible Tests to Try and Taste)**
+
 By Emma Vanstone
 Publisher: Page Street Publishing
 
@@ -261,6 +279,7 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313
 <img src="/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
 
 **30-Minute Chemistry Projects**
+
 By Anna Leigh
 Publisher: Lerner Publishing Group
 
@@ -279,6 +298,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 
 ### **Space Doodle**
+
 Astronauts, spaceships, planets and…aliens? Go on an adventure with your child by doodling exciting scenes from space!
 
 You’ll need:
@@ -295,11 +315,13 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 Source: [How to Make a Galaxy Wreath](https://www.youtube.com/watch?v=WuF2B7KbYhE) (December 2017)
 
 **Be Curious!**
+
 Check out these eBooks for more stories about Space!
 
 <img src="/images/diyresources/primary/Zita-the-Spacegirl.jpg" alt="Zita the Spacegirl" style="width: 40%;">
 
 **Zita the Spacegirl**
+
 By Ben Hatke
 Publisher: First Second
 
@@ -310,6 +332,7 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/1807252
 <img src="/images/diyresources/primary/If-You-Had-Your-Birthday-Party-on-the-Moon.jpg" alt="Snowy Owl Invasion" style="width: 40%;">
 
 **If You Had Your Birthday Party on the Moon**
+
 By Joyce Lapin and Simona Ceccarelli
 Publisher: Sterling Children’s Books
 
@@ -318,6 +341,7 @@ Have your birthday party on the moon and everyone will come! Young partygoers co
 This eBook is available on OverDrive at [https://nlb.overdrive.com/media/5181124](https://nlb.overdrive.com/media/5181124)
 
 **Tip for Parents**
+
 Did you know that doodling can help with stress relief? While doodling is often associated as a sign of distraction, psychologists have found that it can also improve one’s ability to focus and recall information.
 
 Try doodling with your child as a creative bonding activity.

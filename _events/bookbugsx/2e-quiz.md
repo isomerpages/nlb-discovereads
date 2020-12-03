@@ -1,7 +1,7 @@
 ---
 title: Foxy Roxy's Quizzes
 permalink: events/bookbugsx/quiz
-breadcrumb: Book Bugs Explorers of Stories Past
+breadcrumb: Foxy Roxy's Quizzes
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---

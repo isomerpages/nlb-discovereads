@@ -21,7 +21,7 @@ Once you’ve signed in, borrow away! The titles are automatically returned, so 
 
 After you’ve borrowed the glorious eBook, you’ll be presented with 2 options: **Download (EPUB eBook)** or **Read (In your browser)**. If you wish to download the eBook on your PC or mobile device to read it offline, you may install Adobe Digital Editions to do just so.
 
-2. **How often is the site updated?**
+2. **How often is the site updated?** <br>
 New content is available every 1st of the month.
 
  

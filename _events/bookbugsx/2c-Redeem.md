@@ -1,7 +1,7 @@
 ---
 title: How to Redeem
 permalink: /events/bookbugsx/redeem
-breadcrumb: Book Bugs Explorers of Stories Past How to Redeem
+breadcrumb: How to Redeem
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---

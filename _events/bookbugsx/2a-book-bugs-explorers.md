@@ -15,3 +15,4 @@ third_nav_title: Book Bugs Explorers of Stories Past
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDsNq7wx8Xc?playlist=mDsNq7wx8Xc&autoplay=1&controls=0&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+By participating in Book Bugs: Explorers of Stories Past, you are agreeing to our [Terms and Conditions](/bookbugsxtermsandconditions/).

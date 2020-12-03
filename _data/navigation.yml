@@ -4,12 +4,37 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/discoveReadsbanner3.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Services
     collection: services
-  - title: Ebooks
-    collection: ebooks
+  - title: eBooks
+    url: /ebooks/ebook-nav
+    sublinks:
+      - title: Primary School eBooks
+        url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p
+      - title: Secondary School eBooks
+        url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=s
+  - title: Book Recommendations
+    collection: book-recommendations
+  - title: D.I.Y Resources
+    collection: diy-resources
+  - title: Events
+    url: /events/main
+    sublinks:
+      - title: POSB-NLB Kids' Lit Quiz Singapore 2020
+        url: /events/kidslitquiz
+      - title: A Book A Day
+        url: /events/abookaday
+      - title: Information Session for Educators 2020
+        url: /events/infosessionforeducators
+      - title: Book Bugs II
+        url: /events/bookbugs2/bookbugs-main
+      - title: Book Bugs Explorers of Stories Past
+        url: /events/bookbugsx/book-bugs-explorers-of-stories-past
+  - title: Contact Us
+    url: https://www.nlb.gov.sg/ContactUs.aspx
+  # - title: unsorted(temp)
+  #   collection: unsorted
+

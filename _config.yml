@@ -20,12 +20,19 @@ colors:
 
 
 collections:
+  book-recommendations:
+    output: true
+  diy-resources:
+    output: true
+  events:
+    output: true
+  programmes:
+    output: true
   services:
     output: true
-  ebooks:
+  unsorted:
     output: true
-
-description: An Isomer site of the Singapore Government
+resources_name: ebooks
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
@@ -50,3 +57,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+description: test test
+

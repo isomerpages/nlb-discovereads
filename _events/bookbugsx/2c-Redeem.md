@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-## How to Redeem Book Bugs Cards
+### How to Redeem Book Bugs Cards
 
 ![How to Redeem Cards](/images/events/bookbugsx/redeem 1.png)
 

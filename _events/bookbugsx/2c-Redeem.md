@@ -13,7 +13,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 Card redemption will begin on 14 December 2020!
 <iframe width="505" height="260" src="https://w2.countingdownto.com/3354891" frameborder="0"></iframe>
 
-By participating in Book Bugs: Explorers of Stories Past, you are agreeing to our [Terms and Conditions](/events/bookbugsx/termsandconditions/).
+By participating in Book Bugs: Explorers of Stories Past, you are agreeing to our [Terms and Conditions](/bookbugsxtermsandconditions/).
 
 To register for myLibrary ID, click [here](https://account.nlb.gov.sg).
 

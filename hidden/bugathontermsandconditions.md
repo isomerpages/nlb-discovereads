@@ -15,7 +15,7 @@ breadcrumb: Bug-a-thon T&Cs
                                         <li>Participants in the Bug-a-thon Programme will be entered for up to three rounds of lucky draws.</li>
                                         <li>
                                             Participants can register for the Bug-a-thon Programme at 
-                                            <em>gov.sg/bugathon</em>
+                                            <em><a href="http://nlb.gov.sg/mylibrary" target="_blank" rel="noopener noreferrer">nlb.gov.sg/mylibrary</a></em>
                                              or through the NLB Mobile app from 1 December 2020, 0000 hours to 29 August 2021, 2359 hours.
                                         </li>
                                     </ol>
@@ -27,7 +27,7 @@ breadcrumb: Bug-a-thon T&Cs
                                         <li>NLB employees and their immediate family members (including spouses, children and parents) are not eligible to participate in the lucky draw.</li>
                                         <li>
                                             Participants or their parents or guardians must register for themselves or their children and accept the terms and conditions at 
-                                            <em>go.gov.sg/bugathon</em>
+                                            <em><a href="http://nlb.gov.sg/mylibrary" target="_blank" rel="noopener noreferrer">nlb.gov.sg/mylibrary</a></em>
                                              or through the NLB Mobile app. Children aged 14 years old and below must have their parent or guardian’s consent before accepting the terms and conditions.
                                         </li>
                                     </ol>

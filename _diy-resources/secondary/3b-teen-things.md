@@ -11,8 +11,77 @@ third_nav_title: Secondary School Resources
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
+| [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
 | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
+
+
+#### <a name="id7">**Escape Rooms Online**</a>
+
+Escape rooms are usually places that allow participants to experience live choose-your-own-adventure stories. Did you know that escape rooms are also available online?
+
+Librarians around the world have created several escape rooms based off books, stories, and sometimes even fandoms (there’s even one that tests your K-pop knowledge). You can play these with your friends and family from the comfort of your own homes through digital platforms where you can share screens and use annotation functions to find the answers together.
+
+Here are several escape rooms we’ve picked out for you! Click the images to get started.
+
+##### **Hogwarts Digital Escape Room**<br>
+Been waiting for your letter to Hogwarts? Now’s your chance to enter the school grounds.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/viewform"><img src="/images/diyresources/secondary/tt-escape-hogwarts.png" alt="Hogwarts image" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>Image credit: Film still from <i>Harry Potter and the Philosopher’s Stone</i> (Warner Brothers, 2001)</sup></p>
+
+<p style="text-align: center;"><i>Source: The Hogwarts Digital Escape Room is prepared by Peters Township Public Library in McMurray, Pennsylvania, USA.</i></p>
+
+Re-visit your favourite Harry Potter titles by checking out the eBooks [here](https://go.gov.sg/harrypotter)!
+
+
+##### **Escape from Camp Half-Blood**<br>
+If you like Percy Jackson, here’s your chance to inhabit the shoes of a demi-god in training and work through the trials of the Olympians. Earn your right to quest alongside the best of heroes.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2myHpvWIEbuGns053Zn5uwbHifxNl95CTXxNr8S7oQv0KZQ/viewform"><img src="/images/diyresources/secondary/tt-escape-camp.png" alt="Camp Half Blood map image" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>Image credit: Illustrated <a href"https://rickriordan.com/extra/a-map-of-camp/">Map of Camp Half-Blood</a> from the official site of Rick Riordan, https://www.rickriordan.com.</sup></p>
+
+<p style="text-align: center;"><i>Source: The Escape from Camp Half-Blood escape room is created by St Albans Library in Hertfordshire, UK.</i></p>
+
+Need a refresher on the adventures of Percy Jackson? eBooks available for loan right [here](https://go.gov.sg/percyjackson)!
+
+
+##### **Are You Ready for the Hunger Games?: A Virtual Escape Room**<br>
+Enter into a far dystopian future and take part in a Tribute training camp in preparation for the 10th Hunger Games. You must survive by completing visual and audio tasks that will test your memory. Most of all, keep an eye out for Corialanus Snow, who is **w a t c h i n g** you.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSchUHMwczGZgvZ24I0iV0Qsl30bCVUMFLaDiJo-jSYOXmie1Q/viewform"><img src="/images/diyresources/secondary/tt-escape-hg.png" alt="Hunger Games image" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>Image credit: Film still from <i>The Hunger Games</i> (Lionsgate, 2012)</sup></p>
+
+<p style="text-align: center;"><i>The Are You Ready for the Hunger Games?: A Virtual Escape Room is created by the tween and teen librarians at the Public Library of Brookline in Massachusetts, USA.</i></p>
+
+Ready to dive into the story of the Hunger Games once more? Check out the eBooks for the original book series and the newly released prequel [here](https://go.gov.sg/hungergames).
+
+
+#### **My Hero Academia Escape Room**<br>
+Enter the world of Quirks created by Japanese Manga artist Kohei Horikoshi and get involved in the U.A. High Entrance Exam. Do well enough to pass the entrance exam and join the ranks of your talented seniors in U.A.!
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfUj99ii4QotBCti22bMFcea-_lpsoTFpyPdTssMMouB_5teQ/viewform"><img src="/images/diyresources/secondary/tt-escape-mha.jpg" alt="My Hero Academia image" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>Image credit: Cover of <i>My Hero Academia</i> Vol. 4, illustrated by Kohei Horikoshi and published by Viz Media</sup></p>
+
+<p style="text-align: center;"><i>My Hero Academia Escape Room is a venture by the Cedar Mill and Bethany Library in Portland, Oregon, USA.</i></p>
+
+Copies of the My Hero Academia manga are available for borrowing at the these libraries:
+* Central Public Library (that’s at Bugis!)
+* Jurong Regional Library
+* Jurong West Public Library
+* Woodlands Regional Library
+
+
+##### **Can You Escape the Tower?**<br>
+Fans of fairytales – this one’s for you. Rapunzel’s got more spunk than expected! When the Prince proposes to escape, she’s completely on board. Work through logic puzzle traps and decode cryptic messages to flee from the wicked witch!
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScVRlbUaBjkoFsri2D-Tz5GKBuzqWvL4TVK5V21umWHdvMQIg/viewform?fbclid=IwAR30mYRwI6_5SfRLQSVwfHdSKANl0FURYAlj8PKulSMKA2FZ-_em3ZCWnnA"><img src="/images/diyresources/secondary/tt-escape-tower.png” alt="Rapunzel image" style="width: 30%;"></a>
+<p style="text-align: center;"><sup>Image credit: Kadriya Gatina, <a href=“https://www.123rf.com/profile_blackspring?page=1&word=rapunzel&reverse_search_mobile=&mediapopup=66906142”>123rf</a></sup></p>
+
+<p style="text-align: center;"><i>Can you escape the tower? is an escape room created by the Andover Public Library in Kansas, USA.</i></p>
+
+Check out this eBook for a choose-your-own-adventure story featuring Rapunzel [here](hyperlink: https://go.gov.sg/youchoose-rapunzel)!
+
+(All websites were last accessed on 3 December 2020.)
 
 
 #### <a name="id6">**Virtual Tours: Ten Places Across the Globe You Can Explore From Home**</a>

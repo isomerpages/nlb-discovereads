@@ -18,13 +18,13 @@ sections:
               url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
             - title: Monsters United
               description: 
-              url: /services/programmes/monsters-united
+              url: /services/programmes/monstersunited
             - title: Tweenkerama
               description: 
-              url: /services/programmes/tween-kerama
+              url: /services/programmes/tweenkerama
             - title: Teens TakeOver
               description: 
-              url: /services/programmes/teens-takeover
+              url: /services/programmes/teenstakeover
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:

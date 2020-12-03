@@ -40,15 +40,15 @@ breadcrumb: Book Bugs Explorers of Stories Past T&Cs
                                             <table>
                                                 <tbody>
                                                     <tr>
-                                                        <td width="76">Draw 1</td>
+                                                        <td width="90">Draw 1</td>
                                                         <td width="160">28 February 2021</td>
                                                     </tr>
                                                     <tr>
-                                                        <td width="76">Draw 2</td>
+                                                        <td width="90">Draw 2</td>
                                                         <td width="160">30 May 2021</td>
                                                     </tr>
                                                     <tr>
-                                                        <td width="76">Draw 3</td>
+                                                        <td width="90">Draw 3</td>
                                                         <td width="160">29 August 2021</td>
                                                     </tr>
                                                 </tbody>

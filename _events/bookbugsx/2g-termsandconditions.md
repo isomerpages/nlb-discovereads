@@ -1,8 +1,7 @@
 ---
 title: Terms and Conditions
-permalink: /events/bookbugsx/termsandconditions
+permalink: /bookbugsxtermsandconditions
 breadcrumb: Book Bugs Explorers of Stories Past T&Cs
-third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
 # Terms and Conditions

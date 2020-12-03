@@ -10,9 +10,8 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ![How to Redeem Cards](/images/events/bookbugsx/redeem 1.png)
 
-Card redemption will begin on 14 December 2020!<br>
+**Card redemption will begin on 14 December 2020!**<br>
 
-<iframe width="505" height="260" src="https://w2.countingdownto.com/3354891" frameborder="0"></iframe>
 
 By participating in Book Bugs: Explorers of Stories Past, you are agreeing to our <a href="/events/bookbugsx/termsandconditions/" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>.
 

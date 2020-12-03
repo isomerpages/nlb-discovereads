@@ -1,4 +1,5 @@
 ---
+title: Terms and Conditions
 permalink: /events/bookbugsx/termsandconditions
 breadcrumb: Book Bugs Explorers of Stories Past T&Cs
 ---

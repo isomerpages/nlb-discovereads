@@ -1,5 +1,5 @@
 ---
-title: Book Bugs: Explorers of Stories Past
+title: Book Bugs Explorers of Stories Past
 permalink: /bugathontermsandconditions
 breadcrumb: Book Bugs Explorers of Stories Past T&Cs
 ---

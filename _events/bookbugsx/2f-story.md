@@ -1,14 +1,14 @@
 ---
 title: Story
 permalink: events/bookbugsx/story
-breadcrumb: Book Bugs Explorers of Stories Past
+breadcrumb: Story
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
 #### Introduction
 
-![Introduction to Book Bugs: Explorers of Stories Past](/images/events/bookbugsx/Story Intro.png/)
+![Introduction to Book Bugs: Explorers of Stories Past](/images/events/bookbugsx/Story Intro (Plain).png/)
 
 #### Comic 1 - Released on 7 December 2020
 

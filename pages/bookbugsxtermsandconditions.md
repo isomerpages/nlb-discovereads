@@ -4,7 +4,7 @@ permalink: /bookbugsxtermsandconditions
 breadcrumb: Book Bugs Explorers of Stories Past T&Cs
 ---
 
-# Terms and Conditions
+#### Terms and Conditions
 
 * “Physical book” refers to any physical library material, including magazines and audiovisual materials.
 * “eBook” refers to eBooks, eMagazines and eAudiobooks borrowed via one of these websites or apps 

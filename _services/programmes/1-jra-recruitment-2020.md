@@ -1,6 +1,6 @@
 ---
 title: JRA Recruitment 2020
-permalink: programmes/jra-recruitment-2020
+permalink: services/programmes/jra-recruitment-2020
 breadcrumb: JRA Recruitment 2020
 collection_name: services
 third_nav_title: Programmes

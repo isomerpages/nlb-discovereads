@@ -1,6 +1,6 @@
 ---
 title: Tweenkerama
-permalink: programmes/tweenkerama
+permalink: services/programmes/tweenkerama
 breadcrumb: Tweenkerama
 collection_name: services
 third_nav_title: Programmes

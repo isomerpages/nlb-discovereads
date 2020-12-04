@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: DiscoveReads
-description: NLB Learning
+title: NLB Children & Teens Services
+description: NLB Children & Teens Services (discoveReads)
 image: /images/discoveReadsbanner3.png
 permalink: /
 notification: 
@@ -14,17 +14,17 @@ sections:
         # url: /contact-us/
         key_highlights:
             - title: Resources for Parents
-              description: Raising Readers Toolkit
+              description:
               url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
             - title: Monsters United
               description: 
-              url: /services/programmes/monstersunited
+              url: /programmes/monstersunited
             - title: Tweenkerama
               description: 
-              url: /services/programmes/tweenkerama
+              url: /programmes/tweenkerama
             - title: Teens TakeOver
               description: 
-              url: /services/programmes/teenstakeover
+              url: /programmes/teenstakeover
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:

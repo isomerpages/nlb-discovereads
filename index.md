@@ -42,7 +42,7 @@ sections:
     - infopic:
         title: Watch this!
         subtitle: School Holiday Specials with Librarians
-        description: Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them
+        description: Do your children like creating their own inventions just like Leonardo da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them.
         button: Watch
         url: https://www.youtube.com/watch?v=vUXWrQMa8QY
         image: /images/homepage/holiday-special.png

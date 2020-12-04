@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: DiscoveReads
-description: NLB Learning
+title: NLB Children & Teens Services
+description: NLB Children & Teens Services (discoveReads)
 image: /images/discoveReadsbanner3.png
 permalink: /
 notification: 
@@ -14,23 +14,23 @@ sections:
         # url: /contact-us/
         key_highlights:
             - title: Resources for Parents
-              description: Raising Readers Toolkit
+              description:
               url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
             - title: Monsters United
               description: 
-              url: programmes/monsters-united
+              url: /programmes/monstersunited
             - title: Tweenkerama
               description: 
-              url: programmes/tween-kerama
+              url: /programmes/tweenkerama
             - title: Teens TakeOver
               description: 
-              url: programmes/teens-takeover
+              url: /programmes/teenstakeover
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:
         description: Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages. Tune in to Public Libraries Singapore for the English sessions.
         button: Stories
-        url: https://www.facebook.com/publiclibrarysg/?__tn__=K-R&eid=ARBW3aD1Bq7Ito1RDwUJUrZ20ebXQSbE-2jAKLpm5DEYUmJei71fOLqpILRI4fTcT8RzU5sYR6MFeCFY&fref=mentions
+        url: diy-resources/storytime/storytime-main
     - infopic:
         title: Watch this!
         subtitle: School Holiday Specials with Librarians
@@ -42,7 +42,7 @@ sections:
     - infopic:
         title: Watch this!
         subtitle: School Holiday Specials with Librarians
-        description: Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them
+        description: Do your children like creating their own inventions just like Leonardo da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them.
         button: Watch
         url: https://www.youtube.com/watch?v=vUXWrQMa8QY
         image: /images/homepage/holiday-special.png

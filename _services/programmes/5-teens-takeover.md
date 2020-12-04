@@ -1,6 +1,6 @@
 ---
 title: Teens Takeover
-permalink: programmes/teenstakeover
+permalink: services/programmes/teenstakeover
 breadcrumb: Teens Takeover
 collection_name: services
 third_nav_title: Programmes

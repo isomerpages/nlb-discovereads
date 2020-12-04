@@ -1,10 +1,10 @@
 ---
 title: Updates
 permalink: /events/bookbugsx/updates
-breadcrumb: Book Bugs Explorers of Stories Past Updates
+breadcrumb: Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-##Updates
+## Updates
 There are no updates for now. Stay tuned for more news!

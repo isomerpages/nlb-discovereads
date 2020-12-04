@@ -1,6 +1,6 @@
 ---
 title: KidsRead
-permalink: programmes/kidsread
+permalink: services/programmes/kidsread
 breadcrumb: KidsRead
 collection_name: services
 third_nav_title: Programmes

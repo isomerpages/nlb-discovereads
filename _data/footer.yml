@@ -11,3 +11,8 @@ social_media:
     youtube: https://www.youtube.com/publiclibrarysg
     instagram: https://www.instagram.com/publiclibrarysg/
     linkedin: 
+links:
+    - title: Other eResources
+      url: /other-eresources
+    - title: Our FAQs
+      url: /our-faqs

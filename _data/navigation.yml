@@ -18,12 +18,12 @@ links:
         url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=s
   - title: Book Recommendations
     collection: book-recommendations
-  - title: D.I.Y Resources
+  - title: D.I.Y. Resources
     collection: diy-resources
   - title: Events
     url: /events/main
     sublinks:
-      - title: POSB-NLB Kids' Lit Quiz Singapore 2020
+      - title: POSB-NLB Kids' Lit Quiz™ Singapore 2020
         url: /events/kidslitquiz
       - title: A Book A Day
         url: /events/abookaday

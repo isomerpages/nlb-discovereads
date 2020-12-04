@@ -38,7 +38,7 @@ Re-visit your favourite Harry Potter titles by checking out the eBooks [here](ht
 If you like Percy Jackson, here’s your chance to inhabit the shoes of a demi-god in training and work through the trials of the Olympians. Earn your right to quest alongside the best of heroes.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2myHpvWIEbuGns053Zn5uwbHifxNl95CTXxNr8S7oQv0KZQ/viewform"><img src="/images/diyresources/secondary/tt-escape-camp.png" alt="Camp Half Blood map image" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>Image credit: Illustrated <a href"https://rickriordan.com/extra/a-map-of-camp/">Map of Camp Half-Blood</a> from the official site of Rick Riordan, https://www.rickriordan.com.</sup></p>
+<p style="text-align: center;"><sup>Image credit: Illustrated <a href="https://rickriordan.com/extra/a-map-of-camp/">Map of Camp Half-Blood</a> from the official site of Rick Riordan, https://www.rickriordan.com.</sup></p>
 
 <sup><i>Source: The Escape from Camp Half-Blood escape room is created by St Albans Library in Hertfordshire, UK.</i></sup>
 
@@ -59,7 +59,7 @@ Ready to dive into the story of the Hunger Games once more? Check out the eBooks
 #### **My Hero Academia Escape Room**<br>
 Enter the world of Quirks created by Japanese Manga artist Kohei Horikoshi and get involved in the U.A. High Entrance Exam. Do well enough to pass the entrance exam and join the ranks of your talented seniors in U.A.!
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfUj99ii4QotBCti22bMFcea-_lpsoTFpyPdTssMMouB_5teQ/viewform"><img src="/images/diyresources/secondary/tt-escape-mha.jpg" alt="My Hero Academia image" style="width: 70%;"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfUj99ii4QotBCti22bMFcea-_lpsoTFpyPdTssMMouB_5teQ/viewform"><img src="/images/diyresources/secondary/tt-escape-mha.jpg" alt="My Hero Academia image" style="width: 50%;"></a>
 <p style="text-align: center;"><sup>Image credit: Cover of <i>My Hero Academia</i> Vol. 4, illustrated by Kohei Horikoshi and published by Viz Media</sup></p>
 
 <sup><i>My Hero Academia Escape Room is a venture by the Cedar Mill and Bethany Library in Portland, Oregon, USA.</i></sup>
@@ -74,7 +74,7 @@ Copies of the My Hero Academia manga are available for borrowing at the these li
 ##### **Can You Escape the Tower?**<br>
 Fans of fairytales – this one’s for you. Rapunzel’s got more spunk than expected! When the Prince proposes to escape, she’s completely on board. Work through logic puzzle traps and decode cryptic messages to flee from the wicked witch!
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScVRlbUaBjkoFsri2D-Tz5GKBuzqWvL4TVK5V21umWHdvMQIg/viewform?fbclid=IwAR30mYRwI6_5SfRLQSVwfHdSKANl0FURYAlj8PKulSMKA2FZ-_em3ZCWnnA"><img src="/images/diyresources/secondary/tt-escape-tower.png" alt="Rapunzel image" style="width: 30%;"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScVRlbUaBjkoFsri2D-Tz5GKBuzqWvL4TVK5V21umWHdvMQIg/viewform?fbclid=IwAR30mYRwI6_5SfRLQSVwfHdSKANl0FURYAlj8PKulSMKA2FZ-_em3ZCWnnA"><img src="/images/diyresources/secondary/tt-escape-tower.png" alt="Rapunzel image" style="width: 50%;"></a>
 <p style="text-align: center;"><sup>Image credit: Kadriya Gatina, <a href="https://www.123rf.com/profile_blackspring?page=1&word=rapunzel&reverse_search_mobile=&mediapopup=66906142">123rf</a></sup></p>
 
 <sup><i>Can you escape the tower? is an escape room created by the Andover Public Library in Kansas, USA.</i></sup>

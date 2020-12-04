@@ -1,7 +1,7 @@
 ---
-title: POSB-NLB Kids' Lit Quiz Singapore 2020
+title: POSB-NLB Kids' Lit Quiz™ Singapore 2020
 permalink: /events/kidslitquiz
-breadcrumb: POSB-NLB Kids' Lit Quiz Singapore 2020
+breadcrumb: POSB-NLB Kids' Lit Quiz™ Singapore 2020
 collection_name: events
 ---
 
@@ -27,7 +27,7 @@ In view of the COVID-19 situation, the POSB-NLB Kids’ Lit Quiz™ (KLQ) 2020 a
 
 **POSB-NLB Kids’ Lit Quiz™ Registration \[Closed\]**
 
-Registration for the POSB-NLB Kids’ Lit QuizTM 2020 has closed.
+Registration for the POSB-NLB Kids’ Lit Quiz™ 2020 has closed.
 
 Battle Lit Out! at the Public Libraries
 Join us for a day of games and fun activities! Simply borrow 4 items on the day of the event and stand a chance to win POSB-NLB Kids’ Lit Quiz™ tokens. 

@@ -12,7 +12,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 <img src="/images/events/bookbugsx/BBX Key Dates.png" alt="Updates" style="width: 100%">
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mDsNq7wx8Xc?playlist=mDsNq7wx8Xc&autoplay=1&controls=0&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xv9Cj2o3OjM?playlist=Xv9Cj2o3OjM&autoplay=1&controls=0&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 By participating in Book Bugs: Explorers of Stories Past, you are agreeing to our <a href="/events/bookbugsx/termsandconditions/" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>.

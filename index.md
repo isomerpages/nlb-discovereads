@@ -30,7 +30,7 @@ sections:
         subtitle:
         description: Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages. Tune in to Public Libraries Singapore for the English sessions.
         button: Stories
-        url: https://www.facebook.com/publiclibrarysg/?__tn__=K-R&eid=ARBW3aD1Bq7Ito1RDwUJUrZ20ebXQSbE-2jAKLpm5DEYUmJei71fOLqpILRI4fTcT8RzU5sYR6MFeCFY&fref=mentions
+        url: diy-resources/storytime/storytime-main
     - infopic:
         title: Watch this!
         subtitle: School Holiday Specials with Librarians

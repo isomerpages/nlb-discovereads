@@ -23,7 +23,7 @@ sections:
               description: 
               url: /services/programmes/tweenkerama
             - title: Teens TakeOver
-              description: 
+              description:
               url: /services/programmes/teenstakeover
     - infobar:
         title: Storytime (For ages 4-10)

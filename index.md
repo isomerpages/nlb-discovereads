@@ -21,10 +21,10 @@ sections:
               url: /programmes/monstersunited
             - title: Tweenkerama
               description: 
-              url: /programmes/tweenkerama
+              url: /services/programmes/tweenkerama
             - title: Teens TakeOver
               description: 
-              url: /programmes/teenstakeover
+              url: /services/programmes/teenstakeover
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:

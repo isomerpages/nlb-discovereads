@@ -7,7 +7,7 @@ third_nav_title: Secondary School Resources
 
 ## **Teen•Things**
 <img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 80%;">
-<p style="text-align: center;"><i>(Updated on 20 November 2020)</i></p>
+<p style="text-align: center;"><i>(Updated on 4 December 2020)</i></p>
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
@@ -29,7 +29,7 @@ Been waiting for your letter to Hogwarts? Now’s your chance to enter the schoo
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/viewform"><img src="/images/diyresources/secondary/tt-escape-hogwarts.png" alt="Hogwarts image" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Image credit: Film still from <i>Harry Potter and the Philosopher’s Stone</i> (Warner Brothers, 2001)</sup></p>
 
-<sup><i>Source: The Hogwarts Digital Escape Room is prepared by Peters Township Public Library in McMurray, Pennsylvania, USA.</i></sup>
+Source: The Hogwarts Digital Escape Room is prepared by Peters Township Public Library in McMurray, Pennsylvania, USA.
 
 Re-visit your favourite Harry Potter titles by checking out the eBooks [here](https://go.gov.sg/harrypotter)!
 
@@ -40,7 +40,7 @@ If you like Percy Jackson, here’s your chance to inhabit the shoes of a demi-g
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2myHpvWIEbuGns053Zn5uwbHifxNl95CTXxNr8S7oQv0KZQ/viewform"><img src="/images/diyresources/secondary/tt-escape-camp.png" alt="Camp Half Blood map image" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Image credit: Illustrated <a href="https://rickriordan.com/extra/a-map-of-camp/">Map of Camp Half-Blood</a> from the official site of Rick Riordan, https://www.rickriordan.com.</sup></p>
 
-<sup><i>Source: The Escape from Camp Half-Blood escape room is created by St Albans Library in Hertfordshire, UK.</i></sup>
+Source: The Escape from Camp Half-Blood escape room is created by St Albans Library in Hertfordshire, UK.
 
 Need a refresher on the adventures of Percy Jackson? eBooks available for loan right [here](https://go.gov.sg/percyjackson)!
 
@@ -51,7 +51,7 @@ Enter into a far dystopian future and take part in a Tribute training camp in pr
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSchUHMwczGZgvZ24I0iV0Qsl30bCVUMFLaDiJo-jSYOXmie1Q/viewform"><img src="/images/diyresources/secondary/tt-escape-hg.png" alt="Hunger Games image" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Image credit: Film still from <i>The Hunger Games</i> (Lionsgate, 2012)</sup></p>
 
-<sup><i>The Are You Ready for the Hunger Games?: A Virtual Escape Room is created by the tween and teen librarians at the Public Library of Brookline in Massachusetts, USA.</i></sup>
+Source: The Are You Ready for the Hunger Games?: A Virtual Escape Room is created by the tween and teen librarians at the Public Library of Brookline in Massachusetts, USA.
 
 Ready to dive into the story of the Hunger Games once more? Check out the eBooks for the original book series and the newly released prequel [here](https://go.gov.sg/hungergames).
 
@@ -62,7 +62,7 @@ Enter the world of Quirks created by Japanese Manga artist Kohei Horikoshi and g
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfUj99ii4QotBCti22bMFcea-_lpsoTFpyPdTssMMouB_5teQ/viewform"><img src="/images/diyresources/secondary/tt-escape-mha.jpg" alt="My Hero Academia image" style="width: 50%;"></a>
 <p style="text-align: center;"><sup>Image credit: Cover of <i>My Hero Academia</i> Vol. 4, illustrated by Kohei Horikoshi and published by Viz Media</sup></p>
 
-<sup><i>My Hero Academia Escape Room is a venture by the Cedar Mill and Bethany Library in Portland, Oregon, USA.</i></sup>
+Source: My Hero Academia Escape Room is a venture by the Cedar Mill and Bethany Library in Portland, Oregon, USA.
 
 Copies of the My Hero Academia manga are available for borrowing at the these libraries:
 * Central Public Library (that’s at Bugis!)
@@ -77,7 +77,7 @@ Fans of fairytales – this one’s for you. Rapunzel’s got more spunk than ex
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScVRlbUaBjkoFsri2D-Tz5GKBuzqWvL4TVK5V21umWHdvMQIg/viewform?fbclid=IwAR30mYRwI6_5SfRLQSVwfHdSKANl0FURYAlj8PKulSMKA2FZ-_em3ZCWnnA"><img src="/images/diyresources/secondary/tt-escape-tower.png" alt="Rapunzel image" style="width: 50%;"></a>
 <p style="text-align: center;"><sup>Image credit: Kadriya Gatina, <a href="https://www.123rf.com/profile_blackspring?page=1&word=rapunzel&reverse_search_mobile=&mediapopup=66906142">123rf</a></sup></p>
 
-<sup><i>Can you escape the tower? is an escape room created by the Andover Public Library in Kansas, USA.</i></sup>
+Source: Can you escape the tower? is an escape room created by the Andover Public Library in Kansas, USA.
 
 Check out this eBook for a choose-your-own-adventure story featuring Rapunzel [here](hyperlink: https://go.gov.sg/youchoose-rapunzel)!
 

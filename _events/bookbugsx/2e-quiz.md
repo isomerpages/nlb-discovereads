@@ -8,8 +8,8 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### Foxy Roxy's Quest
 
-![Foxy Roxy has a Quest for you](/images/events/bookbugsx/Foxy Roxy Quiz 1.png)
-![Foxy Roxy's online quiz details](/images/events/bookbugsx/Foxy Roxy Quiz 2.png)
+![Foxy Roxy has a Quest for you](/images/events/bookbugsx/Quiz 1_lowres.png)
+![Foxy Roxy's online quiz details](/images/events/bookbugsx/Quiz 2_lowres.png)
 
 #### Dec 2020 - Animal Tricksters
 **English Quiz**<br>

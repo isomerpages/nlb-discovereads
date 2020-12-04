@@ -8,7 +8,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### How to Redeem Book Bugs Cards
 
-![How to Redeem Cards](/images/events/bookbugsx/how to redeem.png)
+![How to Redeem Cards](/images/events/bookbugsx/Redemption Flyer_lowres.png)
 
 <p style="text-align: center;"><strong>Card redemption will begin on 14 December 2020!</strong></p><br>
 

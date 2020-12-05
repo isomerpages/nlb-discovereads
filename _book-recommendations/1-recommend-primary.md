@@ -33,5 +33,5 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 **Mother Tongue Reading Lists**
 
-| <img src=”/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png” alt=”Chinese” style=”width: 39rem;”><a href=images/recommendationsprimary/NLB-Chinese-Graded-Reading- List-FA-with- cropmarks.pdf></a> | [![Malay reading list](/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png)](/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf) | [![Tamil reading list](/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png)](/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf) |
+| <img src=”/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png” alt=”Chinese” style=”width: 39rem;”><a href=images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-FA-with-cropmarks.pdf></a> | [![Malay reading list](/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png)](/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf) | [![Tamil reading list](/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png)](/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf) |
 

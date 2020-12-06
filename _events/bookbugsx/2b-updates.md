@@ -13,3 +13,4 @@ third_nav_title: Book Bugs Explorers of Stories Past
 [<img src="/images/events/bookbugsx/7 Dec Update 2_lowres.png" alt="Comic 1 Release" style="width: 100%" align="left">](/events/bookbugsx/story/)<br>
 
 
+ 

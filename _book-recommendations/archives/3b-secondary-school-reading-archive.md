@@ -11,4 +11,4 @@ third_nav_title: Reading Archives
 
 | **Lower Secondary** | **Upper Secondary** |
 | ------------------- | ------------------- |
-| <a href="/images/recommendationssecondary/archives/Lower-Secondary-Suggested-Reads-1.pdf"><img src="/images/recommendationssecondary/archives/Lower-Secondary-Covers.jpg" style="width: 40vw"></a> |  <a href="/images/recommendationssecondary/archives/Upper-Secondary-Suggested-Reads.pdf"><img src="/images/recommendationssecondary/archives/Upper-Secondary-Suggested-Reads-Book-Cover.jpg" style="width: 40vw"></a> |
+| <a href="/images/recommendationssecondary/archives/Lower-Secondary-Suggested-Reads-1.pdf"><img src="/images/recommendationssecondary/archives/Lower-Secondary-Covers.jpg" style="width: 40vw;height: 70vh"></a> |  <a href="/images/recommendationssecondary/archives/Upper-Secondary-Suggested-Reads.pdf"><img src="/images/recommendationssecondary/archives/Upper-Secondary-Suggested-Reads-Book-Cover.jpg" style="width: 40vw;height: 70vh"></a> |

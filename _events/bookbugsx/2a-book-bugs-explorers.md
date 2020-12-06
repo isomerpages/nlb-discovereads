@@ -1,6 +1,6 @@
 ---
 title: Main Page
-permalink: events/bookbugsx/book-bugs-explorers-of-stories-past
+permalink: events/bookbugsx/
 breadcrumb: Book Bugs Explorers of Stories Past
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past

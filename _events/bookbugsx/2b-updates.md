@@ -1,7 +1,7 @@
 ---
-title: Updates
+title: Tattler's Updates
 permalink: /events/bookbugsx/updates
-breadcrumb: Updates
+breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---

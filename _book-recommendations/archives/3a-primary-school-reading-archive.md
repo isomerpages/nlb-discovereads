@@ -13,7 +13,7 @@ English Reading Lists
 
 | **Primary 1 Book 1** | **Primary 1 Book 2** |
 | -------------------- | -------------------- |
-| [![Primary 1 Book 1](/images/recommendationsprimary/archives/P1B1.jpg)](/images/recommendationsprimary/archives/NLB-SuggestedReadsA5-Pri1Book1-130319-FA-pathed-compressed.pdf) | [![Primary 1 Book 2](/images/recommendationsprimary/archives/P1B2-2.png)](/images/recommendationsprimary/archives/NLB-SuggestedReadsA5-Pri1Book2-130319-FA-pathed-compressed.pdf) |
+| <a href="/images/recommendationsprimary/archives/NLB-SuggestedReadsA5-Pri1Book1-130319-FA-pathed-compressed.pdf"><img src="/images/recommendationsprimary/archives/P1B1.jpg" alt="Primary 1 Book 1" style="width: 40vw;"></a> | <a href="/images/recommendationsprimary/archives/NLB-SuggestedReadsA5-Pri1Book2-130319-FA-pathed-compressed.pdf"><img src="/images/recommendationsprimary/archives/P1B2-2.png" alt="Primary 1 Book 2" style="width: 40vw;"></a> |
 | **Primary 2** | **Primary 3** |
 | ------------- | ------------- |
 | [![Primary 2](/images/recommendationsprimary/archives/P2-1.png)](/images/recommendationsprimary/archives/NLB-SuggestedReads_Pri2-120319-APPROVAL-1.pdf) | [![Primary 3](/images/recommendationsprimary/archives/P3-3.png)](/images/recommendationsprimary/archives/NLB-SuggestedReadsA5-Pri3-150319-FA-pathed-compressed_compressed-min.pdf) |

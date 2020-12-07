@@ -9,6 +9,8 @@ collection_name: events
 
 **Look out for these events at our public libraries!**
 
+Click [here](/events/bookbugsx) for Book Bugs: Explorers of Stories Past updates
+
 Click [here](http://www.nlb.gov.sg/discovereads/klq/) for Kids’ Lit Quiz updates
 
 Click [here](http://www.nlb.gov.sg/discovereads/abookaday/) for A Book a Day updates

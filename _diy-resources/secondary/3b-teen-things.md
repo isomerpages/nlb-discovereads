@@ -31,7 +31,7 @@ Been waiting for your letter to Hogwarts? Now’s your chance to enter the schoo
 
 Source: The Hogwarts Digital Escape Room is prepared by Peters Township Public Library in McMurray, Pennsylvania, USA.
 
-Re-visit your favourite Harry Potter titles by checking out the eBooks [here](https://go.gov.sg/harrypotter)!
+Re-visit your favourite Harry Potter titles by checking out [these eBooks](https://go.gov.sg/harrypotter)!
 
 
 ##### **Escape from Camp Half-Blood**<br>
@@ -79,7 +79,7 @@ Fans of fairytales – this one’s for you. Rapunzel’s got more spunk than ex
 
 Source: Can you escape the tower? is an escape room created by the Andover Public Library in Kansas, USA.
 
-Check out this eBook for a choose-your-own-adventure story featuring Rapunzel [here](hyperlink: https://go.gov.sg/youchoose-rapunzel)!
+Check out [this eBook](https://go.gov.sg/youchoose-rapunzel) for a choose-your-own-adventure story featuring Rapunzel!
 
 (All websites were last accessed on 3 December 2020.)
 

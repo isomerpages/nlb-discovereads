@@ -16,7 +16,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 | Primary 1 | Primary 2 |
 | --------- | --------- |
-| [![Primary 1 Suggested Reads Image](/images/recommendationsprimary/p1-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P1-FA-VER-300320.pdf) | [![Primary 2 Suggested Reads Image](/images/recommendationsprimary/p2-GRL.jpg))](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P2-FA-VER-300320.pdf) |
+| [![Primary 1 Suggested Reads Image](/images/recommendationsprimary/p1-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P1-FA-VER-300320.pdf) | [![Primary 2 Suggested Reads Image](/images/recommendationsprimary/p2-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P2-FA-VER-300320.pdf) |
 | Primary 3 | Primary 4 | 
 | --------- | --------- |
 | [![Primary 3 Suggested Reads Image](/images/recommendationsprimary/p3-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P3-FA-VER-300320.pdf) | [![Primary 4 Suggested Reads Image](/images/recommendationsprimary/p4-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P4-FA-VER-300320.pdf) | 
@@ -33,5 +33,4 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 **Mother Tongue Reading Lists**
 
-| [![Chinese reading list](/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png)](images/recommendationsprimary/NLB-Chinese-Graded-Reading- List-FA-with- cropmarks.pdf) | [![Malay reading list](/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png)](/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf) | [![Tamil reading list](/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png)](/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf) |
-
+| <a href="images/recommendationsprimary/NLB-Chinese-Graded-Reading- List-FA-with- cropmarks.pdf"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="width: 30vw;height: 60vh"></a> | <a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="width: 30vw;height: 60vh"></a> | <a href="images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="width: 30vw;height: 60vh"></a> |

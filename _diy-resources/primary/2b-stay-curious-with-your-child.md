@@ -11,14 +11,14 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 30 November 2020)_
+_(Updated on 7 December 2020)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | [Paper Crafts](#paper-crafts) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
-## **School Holiday Specials**
+### **School Holiday Specials**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -33,7 +33,65 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
 
-## **Paper Crafts**
+### **Art and Craft Fire-Breathing Dragon** 
+
+Get creative with your child in this paper craft and see whose fire-breathing dragon roars the loudest!
+
+You’ll need: 
+* Scissors
+* Glue
+* Pencil
+* Ruler
+* 1 empty toilet paper roll
+* 1 A4-sized construction paper (green preferred)
+* 4 pom poms (if unavailable, scrunch up pieces of paper into 4 small balls)
+* 2 googly eyes (if unavailable, use a black marker to draw the eyes)
+* 3 pieces of crepe paper in red, yellow and orange
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9oew2GwWJTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [How to Make a Fire Breathing Dragon From a Paper Roll](https://youtu.be/9oew2GwWJTg) (21 Aug 2020)
+
+**Be Curious!**
+
+Read these eBooks for more adventurous dragon tales!
+
+<img src="/images/diyresources/primary/scwyc-dragon-book-1.png" alt="Dragon's Fat Cat image" style="width: 40%;">
+
+**Dragon’s Fat Cat**
+
+By Dav Pilkey<br>
+Publisher: Scholastic Inc.
+
+When Dragon finds a stray cat in his yard, he brings it inside to escape the cold. He likes living with his new feline friend, but Dragon soon realises that he doesn't know how to take care of it. He doesn't know how to train the cat, what to feed the cat, and what to do about all the yellow puddles the cat leaves behind! 
+
+This book is available on Overdrive at [https://nlb.overdrive.com/media/4770585](https://nlb.overdrive.com/media/4770585). 
+
+
+<img src="/images/diyresources/primary/scwyc-dragon-book-2.png" alt="Dragon's Fat Cat image" style="width: 40%;">
+
+**Griffith's Guide for Dragon Masters**
+
+By Tracey West, illustrated by Matt Loveridge<br>
+Publisher: Scholastic Inc.
+
+Based on Tracey West's bestselling Dragon Masters early chapter book series, this full-colour special edition features maps, information about Dragon Masters and their dragons, notes from wizards, the history of Dragon Masters, and more! This book has everything a future Dragon Master could need to know!
+
+This book is available on Overdrive at [https://nlb.overdrive.com/media/5098128](https://nlb.overdrive.com/media/5098128)
+
+**Tip for Parents**
+
+For all young children, especially those with special needs, art provides an avenue for expression and creativity to enhance learning. It can also encourage self-confidence among children as no piece of art is ever 'wrong'.
+
+Source: [https://www.scholastic.com/teachers/articles/teaching-content/art-children-special-needs/](https://www.scholastic.com/teachers/articles/teaching-content/art-children-special-needs/)
+
+All websites were last accessed on 21 August 2020.
+The book covers and synopses are the copyright of the respective publishing companies.
+
+
+### **Paper Craft Messages**
 
 Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.
 
@@ -59,7 +117,7 @@ Check out these eBooks for ideas to transform paper into awesome creations.
 
 **Awesome Paper Projects You Can Create (Imagine It, Build It)**
 
-By Marne Ventura
+By Marne Ventura<br>
 Publisher: Capstone. 2017
 
 Don’t throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!
@@ -70,8 +128,8 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/3690047]
 
 **Origami Games: Hands-on Fun for Kids!**
 
-By Joel Stern
-Publisher: Tuttle Publishing, 2010
+By Joel Stern<br>
+Publisher: Tuttle Publishing, 2010<br>
 Call Number: English736.982 STE -\[ART\]
 
 Origami Games is a unique twist on the traditional origami paper craft book. It contains clear and easy illustrated instructions for creating whimsical origami game pieces. At its heart, it offers suggestions on how to use origami to play both fun, competitive, and cooperative games, building individual skills and teamwork. A perfect origami-for-kids book it also encourages folders to come up with and document their own customized games using a template provided in the back of the book, making it a great way to learn origami.
@@ -91,7 +149,7 @@ All websites were last accessed on 30 April 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-## **Paper Owl**
+### **Paper Owl**
 
 Get crafty and let this paper owl inspire your child to learn more about this nocturnal creature!
 
@@ -117,7 +175,7 @@ Read these eBooks for more exciting stories featuring owls!
 
 **Little Owl's Bedtime**
 
-By Debi Gliori, illustrated by Alison Brown
+By Debi Gliori, illustrated by Alison Brown<br>
 Publisher: Bloomsbury Children’s Books
 
 Little Owl doesn’t want to go to bed. His pillow is too lumpy, his quilt is too hot and what is that strange snorting noise he hears? Perhaps one bedtime story will help or maybe, Mummy Owl has an ingenious way to soothe her restless Little Owl and help him get a good night’s sleep.
@@ -128,7 +186,7 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/5114088
 
 **Snowy Owl Invasion! Tracking an Unusual Migration**
 
-By Sandra Markle
+By Sandra Markle<br>
 Publisher: Lerner Publishing Group
 
 Late in 2013, snowy owls started showing up in places no one expected to find them—including Florida. What had caused so many of these majestic birds to leave their Arctic home and fly to southern Canada and the United States? Scientists quickly began working to find out. Follow along as scientists figure out why snowy owls took part in this unusual migration and discover what they learned from the unexpected opportunity to study them up close.
@@ -145,7 +203,7 @@ All websites were last accessed on 23 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-## **Yoga for Kids**
+### **Yoga for Kids**
 
 Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.
 
@@ -167,7 +225,7 @@ Read these eBooks for more calming poses and mindfulness exercises.
 
 **Meddy Teddy: A Mindful Yoga Journey**
 
-By Apple Jordan, illustrated by Nicholas Hong
+By Apple Jordan, illustrated by Nicholas Hong<br>
 Publisher: Random House Children’s Books
 
 Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut picture book! In his first-ever companion book, Meddy Teddy encourages readers to try yoga poses as he comes out of hibernation, greets the springtime, and teaches his forest friends how to mindfully get through a variety of situations.
@@ -178,7 +236,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/m
 
 **Breathe Like a Bear**
 
-By Kira Wiley, illustrated by Anni Betts
+By Kira Wiley, illustrated by Anni Betts<br>
 Publisher: Random House Children’s Books
 
 Breathe Like a Bear is a beautifully illustrated collection of mindfulness exercises designed to teach kids techniques for managing their bodies, breath, and emotions. Best of all, these 30 simple, short breathing practices and movements can be performed anytime, anywhere. This book is sure to help kids find calm, gain focus, and feel energized during the day.
@@ -195,7 +253,7 @@ All websites were last accessed on 4 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-## **High-intensity Interval Training (HIIT) Workout for Kids**
+### **High-intensity Interval Training (HIIT) Workout for Kids**
 
 Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!
 
@@ -216,7 +274,7 @@ Read these eBooks to motivate your children to stay active and healthy.
 
 **Oh, the Things You Can Do That Are Good for You**
 
-By Tish Rabe
+By Tish Rabe<br>
 Publisher: Random House Children’s Books
 
 The Cat in the Hat teaches young readers the basics of healthy living including the importance of eating right, staying active, getting enough sleep, handwashing and even the best way to sneeze when you don’t have a tissue handy! Containing simple, fun suggestions for children to increase their activity throughout the day, this is a book that supports healthy bodies AND healthy minds!
@@ -227,7 +285,7 @@ This eBook is available on Overdrive at: [https://nlb.overdrive.com/media/470498
 
 **My Weird School Fast Facts: Sports**
 
-By Dan Gutman
+By Dan Gutman<br>
 Publisher: HarperCollins
 
 Whether you’re a kid who wants to know more about sports or just someone who is curious why Major League Baseball umpires have to wear black underwear, this is the book for you!
@@ -269,7 +327,7 @@ Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://ww
 
 **Snackable Science Experiments (60 Edible Tests to Try and Taste)**
 
-By Emma Vanstone
+By Emma Vanstone<br>
 Publisher: Page Street Publishing
 
 Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!
@@ -280,7 +338,7 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313
 
 **30-Minute Chemistry Projects**
 
-By Anna Leigh
+By Anna Leigh<br>
 Publisher: Lerner Publishing Group
 
 Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.
@@ -322,7 +380,7 @@ Check out these eBooks for more stories about Space!
 
 **Zita the Spacegirl**
 
-By Ben Hatke
+By Ben Hatke<br>
 Publisher: First Second
 
 When her best friend is abducted by an alien doomsday cult, Zita leaps to the rescue and finds herself a stranger on a strange planet. Humanoid chickens and neurotic robots are shocking enough as new experiences go, but Zita is even more surprised to find herself taking on the role of intergalactic hero.
@@ -333,7 +391,7 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/1807252
 
 **If You Had Your Birthday Party on the Moon**
 
-By Joyce Lapin and Simona Ceccarelli
+By Joyce Lapin and Simona Ceccarelli<br>
 Publisher: Sterling Children’s Books
 
 Have your birthday party on the moon and everyone will come! Young partygoers could romp in a low-gravity playground; watch candles and balloons behave weirdly in the Moon’s atmosphere; and see why the “moon angels” they make in the thick carpet of lunar dust will last for thousands of years. Learn the science behind a birthday party on the moon!

@@ -16,7 +16,7 @@ _(Updated on 7 December 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | [Art & Craft: Fire-Breathing Dragon](#art-craft-fire-breathing-dragon) *new* | [Paper Craft Messages](#paper-craft-messages) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) *new* | [Paper Craft Messages](#paper-craft-messages) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -33,7 +33,7 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
 
-### **Art & Craft: Fire-Breathing Dragon** *new*
+### **Art and Craft Fire-Breathing Dragon** 
 
 Get creative with your child in this paper craft and see whose fire-breathing dragon roars the loudest!
 

@@ -11,12 +11,12 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 30 November 2020)_
+_(Updated on 7 December 2020)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | [Art & Craft: Fire-Breathing Dragon](#art-&-craft-fire-breathing-dragon) *new* [Paper Crafts](#paper-crafts) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | [Art & Craft: Fire-Breathing Dragon](#art-craft-fire-breathing-dragon) *new* | [Paper Craft Messages](#paper-craft-messages) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -90,7 +90,7 @@ All websites were last accessed on 21 August 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-### **Paper Crafts: Messages**
+### **Paper Craft Messages**
 
 Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.
 

@@ -16,7 +16,7 @@ _(Updated on 7 December 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) *new* | [Paper Craft Messages](#paper-craft-messages) | [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -62,7 +62,7 @@ Read these eBooks for more adventurous dragon tales!
 
 **Dragon’s Fat Cat**
 
-by Dav Pilkey<br>
+By Dav Pilkey<br>
 Publisher: Scholastic Inc.
 
 When Dragon finds a stray cat in his yard, he brings it inside to escape the cold. He likes living with his new feline friend, but Dragon soon realises that he doesn't know how to take care of it. He doesn't know how to train the cat, what to feed the cat, and what to do about all the yellow puddles the cat leaves behind! 

@@ -82,6 +82,7 @@ Based on Tracey West's bestselling Dragon Masters early chapter book series, thi
 This book is available on Overdrive at [https://nlb.overdrive.com/media/5098128](https://nlb.overdrive.com/media/5098128)
 
 **Tip for Parents**
+
 For all young children, especially those with special needs, art provides an avenue for expression and creativity to enhance learning. It can also encourage self-confidence among children as no piece of art is ever 'wrong'.
 
 Source: [https://www.scholastic.com/teachers/articles/teaching-content/art-children-special-needs/](https://www.scholastic.com/teachers/articles/teaching-content/art-children-special-needs/)

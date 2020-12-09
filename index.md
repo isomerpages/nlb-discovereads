@@ -9,7 +9,7 @@ sections:
     - hero:
         title: NLB Children and Teen Services
         subtitle: 
-        background: /images/homepage-image.png
+        background: /images/discovereads-banner-dec20.png
         # button: Contact Us
         # url: /contact-us/
         key_highlights:

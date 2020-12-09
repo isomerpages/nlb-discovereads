@@ -28,7 +28,7 @@ Click on the images below to start your fang-tastic journey. Have a spook-tacula
 Use your wits and help the monsters escape a mysterious library!
 _(Click on the image to begin)_
 
-<a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
+<a href="https://www.opinionstage.com/content-717/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
 
 
 <a name="the-story-of-king-midas">**The Story of King Midas**</a> <br>

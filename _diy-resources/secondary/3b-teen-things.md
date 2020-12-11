@@ -7,7 +7,7 @@ third_nav_title: Secondary School Resources
 
 ## **Teen•Things**
 <img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
-<p style="text-align: center;"><i>(Updated on 4 December 2020)</i></p>
+<p style="text-align: center;"><i>(Updated on 11 December 2020)</i></p>
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 

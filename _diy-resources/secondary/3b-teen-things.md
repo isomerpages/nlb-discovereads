@@ -31,7 +31,7 @@ Whip up this Mac & Cheese with minimal fuss anytime! Snap a photo and wow your f
 
 Try this recipe and tag us at @publiclibrarysg with #librarysg 🧀
 
-<center><iframe style="margin-right: 1%; margin-left: 1%;" width="98%" height="100%" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0"></iframe></center>
+<center><iframe style="width: 100%;" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 

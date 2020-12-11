@@ -6,7 +6,7 @@ third_nav_title: Secondary School Resources
 ---
 
 ## **Teen•Things**
-<img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 80%;">
+<img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
 <p style="text-align: center;"><i>(Updated on 4 December 2020)</i></p>
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
@@ -37,11 +37,11 @@ Source: [Easy 3-Ingredient Mac and Cheese Recipe (One Pot)](www.youtube.com/watc
 
 
 **How much do you know about Mac & Cheese? Here are 5 fun facts about the hearty and cheesy meal!**
-![Mac & cheese fact 1](/images/diyresources/secondary/tt-mc-fact1.png)
-![Mac & cheese fact 1](/images/diyresources/secondary/tt-mc-fact2.png)
-![Mac & cheese fact 1](/images/diyresources/secondary/tt-mc-fact3.png)
-![Mac & cheese fact 1](/images/diyresources/secondary/tt-mc-fact4.png)
-![Mac & cheese fact 1](/images/diyresources/secondary/tt-mc-fact5.png)
+<img src="/images/diyresources/secondary/tt-mc-fact1.png" alt="Mac & cheese fact 1" style="width: 60%;">
+<img src="/images/diyresources/secondary/tt-mc-fact2.png" alt="Mac & cheese fact 2" style="width: 60%;">
+<img src="/images/diyresources/secondary/tt-mc-fact3.png" alt="Mac & cheese fact 3" style="width: 60%;">
+<img src="/images/diyresources/secondary/tt-mc-fact4.png" alt="Mac & cheese fact 4" style="width: 60%;">
+<img src="/images/diyresources/secondary/tt-mc-fact5.png" alt="Mac & cheese fact 5" style="width: 60%;">
 
 Sources:<br>
 * Pasta Pantry. "[Mac Facts: 10 Things You Probably Didn’t Know About Mac N’ Cheese.](https://pastapantry.ca/2015/05/mac-facts-10-things-you-probably-didnt-know-about-mac-n-cheese)" Pasta Pantry, 20 June 2018.<br>
@@ -50,10 +50,10 @@ Sources:<br>
 
 
 **More cooking resources**
-* 25 Common Cooking Mistakes You should avoid – Check out [this list](https://www.lifehack.org/articles/lifestyle/25-common-cooking-mistakes-you-may-making.html) of commonly made culinary mistakes that you should avoid to help make every cooking adventure a success!
-* Create Nutrition Facts for Any Recipe – Whether you need to keep track of calories or monitor specific nutritional and dietary needs, [this recipe analyzer](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076) can help.
-* Supercook – Reverse engineer recipes by using [this unique search engine](https://www.supercook.com/#/recipes). Simply type in the ingredients you have in your fridge or pantry. Within seconds, you’ll have a variety of recipes you can choose from.
-* Quick and Easy Dinner Recipes – Unless a recipe contains complex terms and difficult processes, anyone who can read a recipe can cook. Follow [this link](http://www.marthastewart.com/1502307/quick-easy-dinner-recipes) to find recipes on Martha Stewart’s site that will make preparing dinners fast and simple.
+* **25 Common Cooking Mistakes You Should Avoid** – Check out [this list](https://www.lifehack.org/articles/lifestyle/25-common-cooking-mistakes-you-may-making.html) of commonly made culinary mistakes that you should avoid to help make every cooking adventure a success!
+* **Create Nutrition Facts for Any Recipe** – Whether you need to keep track of calories or monitor specific nutritional and dietary needs, [this recipe analyzer](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076) can help.
+* **Supercook** – Reverse engineer recipes by using [this unique search engine](https://www.supercook.com/#/recipes). Simply type in the ingredients you have in your fridge or pantry. Within seconds, you’ll have a variety of recipes you can choose from.
+* **Quick and Easy Dinner Recipes** – Unless a recipe contains complex terms and difficult processes, anyone who can read a recipe can cook. Follow [this link](http://www.marthastewart.com/1502307/quick-easy-dinner-recipes) to find recipes on Martha Stewart’s site that will make preparing dinners fast and simple.
 
 (All websites were last accessed on 11 December 2020.)
 

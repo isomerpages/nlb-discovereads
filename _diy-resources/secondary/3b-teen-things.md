@@ -15,8 +15,8 @@ third_nav_title: Secondary School Resources
 | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
 
-#### <a name="id8">**Cooking Mac & Cheese**</a>
-![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)
+<a name="id8">![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)</a>
+#### **Cooking Mac & Cheese**
 
 The act of cooking not only soothes the mind, but also relaxes your body. Getting into the flow of the activity can help to ease the tension in our bodies. What’s more, you get a delicious meal out of it!
 
@@ -98,8 +98,8 @@ Synopsis from [Harry N. Abrams](www.abramsbooks.com). 
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### <a name="id7">**Escape Rooms Online**</a>
-![Escape rooms header](/images/diyresources/secondary/tt-header-escape.png)
+<a name="id7">![Escape rooms header](/images/diyresources/secondary/tt-header-escape.png)</a>
+#### **Escape Rooms Online**
 
 Escape rooms are usually places that allow participants to experience live choose-your-own-adventure stories. Did you know that escape rooms are also available online?
 
@@ -168,8 +168,8 @@ Check out [this eBook](https://go.gov.sg/youchoose-rapunzel) for a choose-your-o
 (All websites were last accessed on 3 December 2020.)
 
 
-#### <a name="id6">**Virtual Tours: Ten Places Across the Globe You Can Explore From Home**</a>
-![Virtual tours header](/images/diyresources/secondary/tt-header-tours.png)
+<a name="id6">![Virtual tours header](/images/diyresources/secondary/tt-header-tours.png)</a>
+#### **Virtual Tours: Ten Places Across the Globe You Can Explore From Home**
 
 With virtual travel and digital tours becoming increasingly common, you can now embark on a journey to faraway places all over the world from the comfort of your home! Click on the links and images to get started.
 
@@ -284,8 +284,8 @@ Synopsis from [Macmillan](https://us.macmillan.com).<br>
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### <a name="id5">**Boba Book Recommendations**</a>
-![Boba book recommendations header](/images/diyresources/secondary/tt-header-boba.png)
+<a name="id5">![Boba book recommendations header](/images/diyresources/secondary/tt-header-boba.png)</a>
+#### **Boba Book Recommendations**
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 

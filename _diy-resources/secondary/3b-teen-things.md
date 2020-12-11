@@ -14,6 +14,22 @@ third_nav_title: Secondary School Resources
 | [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
 | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
+<html>
+ <head></head>
+ <body>
+<div class="wrapper" style="width: 100%">
+ <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">
+  <div class="image-container">
+   <div class="cooking mac & cheese button" style="width: 100%"><a href="/diy-resources/secondary/teen-things#id8"><img src="/images/diyresources/secondary/ttb-mac-cheese.png"></a></div>
+  </div>
+    <div class="image-container">
+   <div class="escape rooms button" style="width: 100%"><a href="/diy-resources/secondary/teen-things#id7"><img src="/images/diyresources/secondary/ttb-escape-rooms.png"></a></div>
+  </div>
+    <div class="image-container">
+   <div class="virtual tours button" style="width: 100%"><a href="/diy-resources/secondary/teen-things#id6"><img src="/images/diyresources/secondary/ttb-virtual-tours.png"></a></div>
+  </div>
+  </body>
+ </html>
 
 <a name="id8">![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)</a>
 #### **Cooking Mac & Cheese**
@@ -33,7 +49,6 @@ Try this recipe and tag us at @publiclibrarysg with #librarysg 🧀
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<center><iframe style="width: 100%; height: 100%" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Easy 3-Ingredient Mac and Cheese Recipe (One Pot)](www.youtube.com/watch?v=IzLn0pXntNE)
 

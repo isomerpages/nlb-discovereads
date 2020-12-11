@@ -36,13 +36,13 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 	<div class="image-container">
-		<a href="images/recommendationsprimary/NLB-Chinese-Graded-Reading- List-FA-with- cropmarks.pdf"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="width: 30vw;height: 60vh"></a>
+		<a href="images/recommendationsprimary/NLB-Chinese-Graded-Reading- List-FA-with- cropmarks.pdf"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container">
-		<a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="width: 30vw;height: 60vh"></a>
+		<a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="width: 24.35rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container">
-		<a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="width: 30vw;height: 60vh"></a>
+		<a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>
 	</div>
 </div>
 </div>

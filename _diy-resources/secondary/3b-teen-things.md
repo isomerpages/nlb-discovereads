@@ -31,17 +31,24 @@ Whip up this Mac & Cheese with minimal fuss anytime! Snap a photo and wow your f
 
 Try this recipe and tag us at @publiclibrarysg with #librarysg 🧀
 
+<iframe 
+  class="embedded-video-16-9" 
+  src="https://www.youtube.com/embed/IzLn0pXntNE" 
+  frameborder="0" 
+  allowfullscreen=""
+></iframe>
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Easy 3-Ingredient Mac and Cheese Recipe (One Pot)](www.youtube.com/watch?v=IzLn0pXntNE)
 
 
 **How much do you know about Mac & Cheese? Here are 5 fun facts about the hearty and cheesy meal!**
-<img src="/images/diyresources/secondary/tt-mc-fact1.png" alt="Mac & cheese fact 1" style="width: 60%;">
-<img src="/images/diyresources/secondary/tt-mc-fact2.png" alt="Mac & cheese fact 2" style="width: 60%;">
-<img src="/images/diyresources/secondary/tt-mc-fact3.png" alt="Mac & cheese fact 3" style="width: 60%;">
-<img src="/images/diyresources/secondary/tt-mc-fact4.png" alt="Mac & cheese fact 4" style="width: 60%;">
-<img src="/images/diyresources/secondary/tt-mc-fact5.png" alt="Mac & cheese fact 5" style="width: 60%;">
+<img src="/images/diyresources/secondary/tt-mc-fact1.png" alt="Mac & cheese fact 1" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact2.png" alt="Mac & cheese fact 2" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact3.png" alt="Mac & cheese fact 3" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact4.png" alt="Mac & cheese fact 4" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact5.png" alt="Mac & cheese fact 5" style="width: 70%;">
 
 Sources:<br>
 * Pasta Pantry. "[Mac Facts: 10 Things You Probably Didn’t Know About Mac N’ Cheese.](https://pastapantry.ca/2015/05/mac-facts-10-things-you-probably-didnt-know-about-mac-n-cheese)" Pasta Pantry, 20 June 2018.<br>

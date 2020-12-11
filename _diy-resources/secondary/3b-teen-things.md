@@ -6,16 +6,101 @@ third_nav_title: Secondary School Resources
 ---
 
 ## **Teen•Things**
-<img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 80%;">
-<p style="text-align: center;"><i>(Updated on 4 December 2020)</i></p>
+<img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
+<p style="text-align: center;"><i>(Updated on 11 December 2020)</i></p>
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
+| [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
 | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
 
-#### <a name="id7">**Escape Rooms Online**</a>
+<a name="id8">![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)</a>
+#### **Cooking Mac & Cheese**
+
+The act of cooking not only soothes the mind, but also relaxes your body. Getting into the flow of the activity can help to ease the tension in our bodies. What’s more, you get a delicious meal out of it!
+
+**Make your own Mac & Cheese**<br>
+Whip up this Mac & Cheese with minimal fuss anytime! Snap a photo and wow your friends with your own creation of Mac & Cheese using simple ingredients. 
+* 200 grams of Cheddar Cheese
+* 1 litre of Milk
+* 340 grams of Macaroni or any Pasta
+* 1 teaspoon of Salt
+* ¼ teaspoon of Black pepper
+* ¼ teaspoon of Paprika 
+
+Try this recipe and tag us at @publiclibrarysg with #librarysg 🧀
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/IzLn0pXntNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+Source: [Easy 3-Ingredient Mac and Cheese Recipe (One Pot)](www.youtube.com/watch?v=IzLn0pXntNE)
+
+
+**How much do you know about Mac & Cheese? Here are 5 fun facts about the hearty and cheesy meal!**
+<img src="/images/diyresources/secondary/tt-mc-fact1.png" alt="Mac & cheese fact 1" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact2.png" alt="Mac & cheese fact 2" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact3.png" alt="Mac & cheese fact 3" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact4.png" alt="Mac & cheese fact 4" style="width: 70%;">
+<img src="/images/diyresources/secondary/tt-mc-fact5.png" alt="Mac & cheese fact 5" style="width: 70%;">
+
+Sources:<br>
+* Pasta Pantry. "[Mac Facts: 10 Things You Probably Didn’t Know About Mac N’ Cheese.](https://pastapantry.ca/2015/05/mac-facts-10-things-you-probably-didnt-know-about-mac-n-cheese)" Pasta Pantry, 20 June 2018.<br>
+* Pack, Rachael. "[10 Things You Didn't Know About Macaroni and Cheese.](www.thedailymeal.com/cook/10-things-you-didn-t-know-about-macaroni-and-cheese-slideshow/slide-3.)" The Daily Meal, 6 July 2016.<br>
+* International Dairy Foods Association. "[Cheese Facts.](idfa.org/news-views/media-kits/cheese/cheese-facts)" International Dairy Foods Association, 2020. 
+
+
+**More cooking resources**
+* **25 Common Cooking Mistakes You Should Avoid** – Check out [this list](https://www.lifehack.org/articles/lifestyle/25-common-cooking-mistakes-you-may-making.html) of commonly made culinary mistakes that you should avoid to help make every cooking adventure a success!
+* **Create Nutrition Facts for Any Recipe** – Whether you need to keep track of calories or monitor specific nutritional and dietary needs, [this recipe analyzer](https://www.verywellfit.com/recipe-nutrition-analyzer-4157076) can help.
+* **Supercook** – Reverse engineer recipes by using [this unique search engine](https://www.supercook.com/#/recipes). Simply type in the ingredients you have in your fridge or pantry. Within seconds, you’ll have a variety of recipes you can choose from.
+* **Quick and Easy Dinner Recipes** – Unless a recipe contains complex terms and difficult processes, anyone who can read a recipe can cook. Follow [this link](http://www.marthastewart.com/1502307/quick-easy-dinner-recipes) to find recipes on Martha Stewart’s site that will make preparing dinners fast and simple.
+
+(All websites were last accessed on 11 December 2020.)
+
+
+##### **Be inspired!**
+Read these eBooks to step up your food game!
+
+<a href="https://nlb.overdrive.com/media/1238742"><img src="/images/diyresources/secondary/tt-mac-cookbook-cover.jpg" alt="Mac + Cheese Cookbook book cover" style="width: 40%;"></a>
+
+**The Mac + Cheese Cookbook**<br>
+By Allison Arevalo & Erin Wade<br>Publisher: Ten Speed, 2013<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/1238742).
+
+These inventive dishes offer something for everyone: nostalgic homestyle recipes like Tuna Mac, international varieties like Sriracha Mac, decadent delights like Truffle Mac, and even the logic-defying Vegan Mac. You'll also find recipes for quick veggie sides like Brussels Sprouts with Bacon and old-school desserts like frozen Peanut Butter Pie. 
+
+Synopsis from [Penguin Random House](www.penguinrandomhouse.com).
+
+
+<a href="https://nlb.overdrive.com/media/4414398"><img src="/images/diyresources/secondary/tt-mac-teen-kitchen-cover.jpg" alt="The Teen Kitchen book cover" style="width: 40%;"></a>
+
+**The Teen Kitchen: Recipes We Love to Cook [A Cookbook]**<br>
+By Emily Allen & Lyla Allen<br>
+Publisher: Ten Speed, 2019<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/4414398). 
+
+A colourful and engaging cookbook, written by teenage media stars The Kitchen Twins, with more than 75 accessible, fun, healthy, and delicious recipes for everyday cooking. They also introduce you to the basic tools a young chef needs, explaining how to stay safe in the kitchen and outlining techniques.
+
+Synopsis from [Penguin Random House](www.penguinrandomhouse.com).
+
+
+<a href="https://nlb.overdrive.com/media/1453855"><img src="/images/diyresources/secondary/tt-mac-pasta-modern-cover.jpg" alt="Pasta Modern book cover" style="width: 40%;"></a>
+
+**Pasta Modern: New & Inspired Recipes from Italy**<br>
+By Francine Segan & Lucy Schaeffer<br>
+Publisher: Harry N. Abrams, 2018<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/1453855).
+
+In this beautifully photographed cookbook, the author, Segan details the hottest, newest, and most unusual pasta dishes from Italy's food bloggers, home cooks, artisan pasta makers, and vanguard chefs. The one hundred pasta recipes, including many vegan and vegetarian specialties, ranging from simple, elegant to complex.
+
+Synopsis from [Harry N. Abrams](www.abramsbooks.com). 
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+
+<a name="id7">![Escape rooms header](/images/diyresources/secondary/tt-header-escape.png)</a>
+#### **Escape Rooms Online**
 
 Escape rooms are usually places that allow participants to experience live choose-your-own-adventure stories. Did you know that escape rooms are also available online?
 
@@ -84,7 +169,8 @@ Check out [this eBook](https://go.gov.sg/youchoose-rapunzel) for a choose-your-o
 (All websites were last accessed on 3 December 2020.)
 
 
-#### <a name="id6">**Virtual Tours: Ten Places Across the Globe You Can Explore From Home**</a>
+<a name="id6">![Virtual tours header](/images/diyresources/secondary/tt-header-tours.png)</a>
+#### **Virtual Tours: Ten Places Across the Globe You Can Explore From Home**
 
 With virtual travel and digital tours becoming increasingly common, you can now embark on a journey to faraway places all over the world from the comfort of your home! Click on the links and images to get started.
 
@@ -199,7 +285,8 @@ Synopsis from [Macmillan](https://us.macmillan.com).<br>
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-#### <a name="id5">**Boba Book Recommendations**</a>
+<a name="id5">![Boba book recommendations header](/images/diyresources/secondary/tt-header-boba.png)</a>
+#### **Boba Book Recommendations**
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 

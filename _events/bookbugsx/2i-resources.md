@@ -1,7 +1,7 @@
 ---
-title: How to Play
-permalink: events/bookbugsx/play
-breadcrumb: How to Play
+title: Resources
+permalink: events/bookbugsx/resources
+breadcrumb: Resources
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---

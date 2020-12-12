@@ -1,7 +1,7 @@
 ---
-title: How to Play
-permalink: events/bookbugsx/play
-breadcrumb: How to Play
+title: Bug List
+permalink: events/bookbugsx/buglist
+breadcrumb: Bug List
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---

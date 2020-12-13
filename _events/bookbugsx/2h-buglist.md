@@ -34,7 +34,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 | 19 | Springy | Sembawang Hot Springs |
 | 20 | Tattler | The Rajah's Big Ears |
 | 21 | Thorn | The Magic Needle (Turkish Sleeping Beauty)
-| 22 | Thumb-rex | Issun Boshi (Japanese One-inch Boy) |
+| 22 | Thumb-rex | Issun Bôshi (Japanese One-inch Boy) |
 | 23 | Cawkerel | Rooster from the story of Hou Yi |
 | 24 | Ssswallow | Green snake from Madame White Snake |
 | 25 | Ssswell | White snake from Madame White Snake |

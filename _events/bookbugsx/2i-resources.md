@@ -28,7 +28,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|[![Chinese-English Wordsearch](/images/events/bookbugsx/Word Search Chinese-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf)|[![Malay-English Wordsearch](/images/events/bookbugsx/Word Search Malay-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf)|[![Tamil-English Wordsearch](/images/events/bookbugsx/Word Search Tamil-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf)|
+|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Chinese-English thumbnail.png" alt="Chinese-English Word Search"></a>]|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Malay-English thumbnail.png" alt="Malay-English Word Search"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Tamil-English thumbnail.png" alt="Tamil-English Word Search"></a>|
 
 ### Book Lists
 Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug!

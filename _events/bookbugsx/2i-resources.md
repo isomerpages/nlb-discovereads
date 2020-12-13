@@ -14,7 +14,7 @@ You can now use our Book Bugs stickers!<br>
 <img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 40%" align="left">
 
 
-<br><br><br><br><br><br><br><br>Download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs).
+<br><br><br><br><br><br><br><br><br><br>Download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs).
 
 
 ### Printables
@@ -36,18 +36,18 @@ Want to read the stories behind each Book Bug?
 
 |Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
 |:---:| :----| :--- | :----| :--- | :----| 
-| 01 | Bari | The Cap Seller and the Monkeys/குல்லாய் வியாபாரியும் குரங்குகளும்|Radha Krishna Pillai|EMESCO Books for Children's Literature Materials Bank, 2012|JP KUL Tamil|
-| 02 | Billy Wings | The Oriental Pied Hornbill |
-| 03 | Bucky | Trickster Rabbit from Japanese folktales |
-| 04 | Foxy Roxy | Fox in Chinese folktales |
-| 05 | Gangler | Orang Utan |
-| 06 | Growlma | Tiger from the Taiwanese Little Red Riding Hood |
-| 07 | Jay K | The Blue Jackal |
-| 08 | Jingle | Jing Wei (bird from Chinese mythology) |
-| 09 | King Coil | Pangolin |
-| 10 | Lil' Deer | Sang Kancil (Mousedeer from Malaysian and Indonesian folktales) |
-| 11 | Lockera | Rapunzel tales across cultures |
-| 12 | Oink | Zhu Bajie (Journey to the West) |
+| 01 | Bari | The Cap Seller and the Monkeys/குல்லாய் வியாபாரியும் குரங்குகளும்|Radha Krishna Pillai | Hyderabad: EMESCO Books for Children's Literature Materials Bank, 2012. | Tamil JP KUL |
+| 02 | Billy Wings | Birds | Brenda Williams | London: Tick Tock, 2013. |	English J 598 WIL |
+| 03 | Bucky | More Japanese Children's Favorite Stories	| Florence Sakude	| Tokyo: Tuttle Publishing, 2013. |	English J 398.2 SAK -[FOL] |
+| 04 | Foxy Roxy | Chinese Fables: The Dragon Slayer and Other Timeless Tales of Wisdom	| Shiho S. Nunes |	Vermont: Tuttle Publishing, 2013. |	English J 398.20951 NUN -[FOL] |
+| 05 | Gangler | Orang Utan Yang Cerdik	| M. Jayanthi, Nor Azizul Harun	Selangor: Minda Ceria Resources, 2013. |	Malay JP JAY |
+| 06 | Growlma | Little Red Riding Hood Stories Around the World: 3 Beloved Tales |	Jessica Gunderson |	Minnesota: Picture Window Books, 2015. |	English J 398.2 GUN -[FOL] |
+| 07 | Jay K | The Monkey King and the Blue Jackal: Folktales in Folk Art |	Shobha Viswanath |	Chennai: Karadi Tales Company Pvt. Ltd., 2010.	| English JP 398.20954 VIS -[FOL] |
+| 08 | Jingle | Jingwei tian hai/精卫填海 |	Jiao Qiyue/焦柒月 |	Shijiazhuang Shi: Hebei shao nian er tong chu ban she, 2017. 石家庄市 : 河北少年儿童出版社, 2017.	| Chinese JP JQY |
+| 09 | King Coil | Pangolin | Laura Bryant | New York: Bearport Publishing, 2018. | English JP 599.3 BRY |
+| 10 | Lil' Deer | Sang Kancil Dengan Harimau	Rahimidin Zahari |	Kuala Lumpur: Institut Terjemahan & Buku Malaysia, 2016. | Malay J 398.2 RAH -[FOL] |
+| 11 | Lockera | Rapunzel |	Chloe Perkins	| New York: Little Simon, 2017.	| English JP PER -[BA] |
+| 12 | Oink | Zhu ba jie chi xi gua/猪八戒吃西瓜	| Tong qu chu ban you xian gong si/童趣出版有限公司 |	Beijing Shi: Ren min you dian chu ban she, 2014. 北京市 : 人民邮电出版社, 2014. |	Chinese J 791.43 ZBJ -[HAN] |
 | 13 | Prancer | How the Peacock got the Eyes on its Tail |
 | 14 | Rodex | Rat from the Chinese Zodiac |
 | 15 | Saga | Saga tree |

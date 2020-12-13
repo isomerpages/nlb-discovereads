@@ -13,6 +13,6 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 Welcome to Book Bugs: Explorers of Stories Past! Are you ready for an adventure? Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
 
-[<img src="/images/events/bookbugsx/Bug-o-pedia thumbnail.png" alt="Bug-o-pedia" style="width: 90%" align="centre">](/images/events/bookbugsx/files/Bug-o-pedia.pdf)
+<a href="/images/events/bookbugsx/files/Bug-o-pedia.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Bug-o-pedia thumbnail.png" alt="Bug-o-pedia" style="width: 90%" align="centre"></a>.
 
 By participating in Book Bugs: Explorers of Stories Past, you are agreeing to our <a href="/events/bookbugsx/termsandconditions/" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>.

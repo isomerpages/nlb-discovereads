@@ -14,7 +14,7 @@ You can now use our Book Bugs stickers!<br>
 <img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 50%" align="left">
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>Download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs).
+<br><br><br><br><br><br><br><br><br><br><br><br>Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noopener noreferrer">Whatsapp</a> and <a href="https://t.me/addstickers/BookBugs" target="_blank" rel="noopener noreferrer">Telegram</a>.
 
 
 ### Printables
@@ -88,6 +88,6 @@ Want to find out more about Book Bugs? Here are some useful links!
 
 **More information**:
 
-* [Singapore Infopedia by the National Library Board (NLB)](https://eresources.nlb.gov.sg): Find out more about Singaporean history and trivia on this online encyclopedia on Singapore.
-* [Roots by the National Heritage Board (NHB)](https://roots.gov.sg): Explore Singapore’s diverse culture and history through objects, images, stories and more.
-* [S.U.R.E. (Source . Understand . Research . Evaluate) website](https://sure.nlb.gov.sg): Learn how to verify the information that you find.
+* <a href="https://eresources.nlb.gov.sg/infopedia/" target="_blank" rel="noopener noreferrer">Singapore Infopedia by the National Library Board (NLB)</a>: Find out more about Singaporean history and trivia on this online encyclopedia on Singapore.
+* <a href="https://roots.gov.sg" target="_blank" rel="noopener noreferrer">Roots by the National Heritage Board (NHB)</a>: Explore Singapore’s diverse culture and history through objects, images, stories and more.
+* <a href="https://sure.nlb.gov.sg" target="_blank" rel="noopener noreferrer">S.U.R.E. (Source . Understand . Research . Evaluate) website: Learn how to verify the information that you find.

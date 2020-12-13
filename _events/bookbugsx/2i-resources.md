@@ -31,10 +31,12 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 ### Book Lists
 Want to read the stories behind each Book Bug?
-**Magical Forests** <br>
-|Bug number|Bug Name |Inspired by|
-|:---:| :----| :--- |
-| 01 | Bari | The Cap Seller |
+
+**Magical Forests**
+
+|Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
+|:---:| :----| :--- | :----| :--- | :----| 
+| 01 | Bari | The Cap Seller and the Monkeys/குல்லாய் வியாபாரியும் குரங்குகளும்|Radha Krishna Pillai|EMESCO Books for Children's Literature Materials Bank, 2012|JP KUL Tamil|
 | 02 | Billy Wings | The Oriental Pied Hornbill |
 | 03 | Bucky | Trickster Rabbit from Japanese folktales |
 | 04 | Foxy Roxy | Fox in Chinese folktales |

@@ -12,7 +12,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 <img src="/images/events/bookbugsx/Bug List_lowres.png" alt="List of Magical Forests Bugs" style="width: 90%" align="centre">
 
 |Bug number|Bug Name |Inspired by|
-|:---| :----| :--- |
+|:---:| :----| :--- |
 | 01 | Bari | The Cap Seller |
 | 02 | Billy Wings | The Oriental Pied Hornbill |
 | 03 | Bucky | Trickster Rabbit from Japanese folktales |

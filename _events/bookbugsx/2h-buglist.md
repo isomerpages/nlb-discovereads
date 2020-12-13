@@ -58,3 +58,14 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 | 43 | Toothy | Buaya (Crocodile) from Sang Kancil stories |
 | 44 | Many-eyes | Eecha Poocha (Malayalam Folktale) |
 
+#### Mysterious Seas
+
+<img src="/images/events/bookbugsx/hatching soon_Seas.png" alt="Mysterious Seas Hatching Soon in February 2021" style="width: 100%" align="centre">
+
+#### Mystical Mountains
+
+<img src="/images/events/bookbugsx/hatching soon_Mountains.png" alt="Mystical Mountains Hatching Soon in April 2021" style="width: 100%" align="centre">
+
+#### Marvellous Homes
+
+<img src="/images/events/bookbugsx/hatching soon_Homes.png" alt="Marvellous Homes Hatching Soon in June 2021" style="width: 100%" align="centre">

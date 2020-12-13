@@ -7,7 +7,12 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
 #### Video Guide
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/6NQcHxQ8MfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="bp-youtube">
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NQcHxQ8MfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 #### Downloads
 Game Guide

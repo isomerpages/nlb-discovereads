@@ -14,7 +14,7 @@ You can now use our Book Bugs stickers!<br>
 <img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 40%" align="left">
 
 
-Download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs).
+<br>Download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs).
 
 
 ### Printables

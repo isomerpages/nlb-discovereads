@@ -58,7 +58,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 19 | Springy |  Attack of the Swordfish and Other Singapore Tales | Charlotte Lim | Singapore: National Heritage Board, 2005. | English J SING 398.2 LIM -[FOL] |
 | 20 | Tattler | Indian Children's Favourite Stories: Fables, Myths and Fairy Tales	| Rosemarie Somaiah	| Tokyo: Tuttle Publishing, 2019.	| English J 398.2 SOM -[FOL] |
 | 21 | Thorn | Snow White Stories Around the World: 4 Beloved Tales | Jessica Gunderson | Minnesota: Picture Window Books, 2015.  | English J 398.2 GUN -[FOL] |
-| 22 | Thumb-rex | Issun Bôshi: The One-Inch Boy |	Icinori	| Berlin: Little Gestalten, 2014.	| English JP 398.20952 ICI -[FOL] |
+| 22 | Thumb-rex | Issun Bôshi: The One-Inch Boy |	Icinori	| Berlin: Little Gestalten, 2014.	| English JP 398.20952 ICI -[FOL] |
 | 23 | Cawkerel | How the Rooster Got His Crown |	Amy Lowry Poole |	New York: Holiday House, 1999.	| English JP 398.2 POO -[FOL] |
 | 24 | Ssswallow | 白蛇传 Legend of the White Snake | 酱油熊编著; 安芳译 | 北京市: 中国画报出版社, 2017. | Chinese JP JYX -[BIL] |
 | 25 | Ssswell | 白蛇传 Legend of the White Snake | 酱油熊编著; 安芳译 | 北京市: 中国画报出版社, 2017. | Chinese JP JYX -[BIL] |
@@ -91,4 +91,4 @@ Want to find out more about the stories behind Book Bugs? Here are some useful l
 
 * <a href="https://eresources.nlb.gov.sg/infopedia/" target="_blank" rel="noopener noreferrer">Singapore Infopedia by the National Library Board (NLB)</a>: Find out more about Singaporean history and trivia on this online encyclopedia on Singapore.
 * <a href="https://roots.gov.sg" target="_blank" rel="noopener noreferrer">Roots by the National Heritage Board (NHB)</a>: Explore Singapore’s diverse culture and history through objects, images, stories and more.
-* <a href="https://sure.nlb.gov.sg" target="_blank" rel="noopener noreferrer">S.U.R.E. (Source . Understand . Research . Evaluate) website: Learn how to verify the information that you find.
+* <a href="https://sure.nlb.gov.sg" target="_blank" rel="noopener noreferrer">S.U.R.E. (Source . Understand . Research . Evaluate) website</a>: Learn how to verify the information that you find.

@@ -30,7 +30,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 |[![Chinese-English Wordsearch](/images/events/bookbugsx/Word Search Chinese-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf)|[![Malay-English Wordsearch](/images/events/bookbugsx/Word Search Malay-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf)|[![Tamil-English Wordsearch](/images/events/bookbugsx/Word Search Tamil-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf)|
 
 ### Book Lists
-Want to read the stories behind each Book Bug? You can pick up these books in the public libraries!
+Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug!
 
 **Magical Forests**
 
@@ -83,3 +83,14 @@ Want to read the stories behind each Book Bug? You can pick up these books in th
 
 
 ### Useful Links
+
+Want to find out more about Book Bugs? Here are some useful links! 
+
+To learn how to verify the information that you find, go to the S.U.R.E. (Source . Understand . Research . Evaluate) website.
+https://sure.nlb.gov.sg
+
+To find out more about Singaporean history and trivia, go to Singapore Infopedia, an online encyclopedia on Singapore published by the National Library Board (NLB).
+https://eresources.nlb.gov.sg
+
+To explore Singapore’s diverse culture and history through objects, images, stories and more, go to Roots, brought to you by the National Heritage Board (NHB).
+https://roots.gov.sg

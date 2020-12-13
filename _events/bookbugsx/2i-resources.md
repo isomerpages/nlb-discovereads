@@ -21,6 +21,7 @@ You can now use our Book Bugs stickers!<br>
 Done with our quizzes and want more Book Bugs-related activities? We upload printable activities monthly!
 
 **December 2020**
+
 This month, we have wordsearches in all four languages. Do the words make you think of any story? Click on the images below to download the wordsearch!
 P.S. You can colour in the illustrations at the bottom of the sheet.
 

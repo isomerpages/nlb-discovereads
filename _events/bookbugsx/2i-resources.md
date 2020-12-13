@@ -13,7 +13,8 @@ Welcome to our resources page! Click on the buttons below to navigate the page.
 You can now use our Book Bugs stickers!
 
 |<img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 50%" align="left">|
-|Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noopener noreferrer">Whatsapp</a> and <a href="https://t.me/addstickers/BookBugs" target="_blank" rel="noopener noreferrer">Telegram</a>.|
+
+Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noopener noreferrer">Whatsapp</a> and <a href="https://t.me/addstickers/BookBugs" target="_blank" rel="noopener noreferrer">Telegram</a>.
 
 
 ### Printables

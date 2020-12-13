@@ -11,7 +11,7 @@ Welcome to our resources page! Click on the buttons below to navigate the page.
 
 <h3><a name="id1">Digital Resources</a></h3>
 You can now use our Book Bugs stickers!
-[!Book Bugs Stickers](/images/events/bookbugsx/Stickers Thumbnail.png)
+![Book Bugs Stickers](/images/events/bookbugsx/Stickers Thumbnail.png)
 You can download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs)
 
 

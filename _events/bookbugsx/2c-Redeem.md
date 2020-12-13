@@ -5,10 +5,6 @@ breadcrumb: How to Redeem
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-
-### How to Redeem Book Bugs Cards
-
-
 ### Card Redemption has begun!
 
 To register for myLibrary ID, click <a href="https://account.nlb.gov.sg" target="_blank" rel="noopener noreferrer">here</a>.

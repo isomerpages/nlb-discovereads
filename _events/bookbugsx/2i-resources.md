@@ -84,7 +84,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 
 ### Useful Links
 
-Want to find out more about Book Bugs? Here are some useful links! 
+Want to find out more about the stories behind Book Bugs? Here are some useful links! 
 
 **More information**:
 

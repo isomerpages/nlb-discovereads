@@ -6,4 +6,5 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-#### Coming soon! Check back on 14 December.
+#### Magical Forests
+<img src="/images/events/bookbugsx/Bug List_lowres.png" alt="List of Magical Forests Bugs" style="width: 90%" align="centre">

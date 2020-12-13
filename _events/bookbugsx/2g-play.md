@@ -11,6 +11,6 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 #### Downloads
 Game Guide <br>
-<a href="/images/events/bookbugsx/files/Game Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Game Guide thumbnail.png" alt="Game Guide Download Link" style="width: 40%;" align="left" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="/images/events/bookbugsx/files/Book Bugs Game Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Game Guide thumbnail.png" alt="Game Guide Download Link" style="width: 40%;" align="left" ></a><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Game Mat <br>
-<a href="/images/events/bookbugsx/files/BBX Game Mat A3 FINAL for website.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Game Mat thumbnail.png" alt="Game Mat Download Link" style="width: 50%" align="left"></a>
+<a href="/images/events/bookbugsx/files/Book Bugs Game Mat.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Game Mat thumbnail.png" alt="Game Mat Download Link" style="width: 50%" align="left"></a>

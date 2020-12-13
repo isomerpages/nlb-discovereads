@@ -39,7 +39,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 |:---:| :----| :--- | :----| :--- | :----| 
 | 01 | Bari | The Cap Seller and the Monkeys/குல்லாய் வியாபாரியும் குரங்குகளும்|Radha Krishna Pillai | Hyderabad: EMESCO Books for Children's Literature Materials Bank, 2012. | Tamil JP KUL |
 | 02 | Billy Wings | Birds | Brenda Williams | London: Tick Tock, 2013. |	English J 598 WIL |
-| 03 | Bucky | More Japanese Children's Favorite Stories	| Florence Sakude	| Tokyo: Tuttle Publishing, 2013. |	English J 398.2 SAK -[FOL] |
+| 03 | Bucky | More Japanese Children's Favorite Stories	| Florence Sakade	| Tokyo: Tuttle Publishing, 2013. |	English J 398.2 SAK -[FOL] |
 | 04 | Foxy Roxy | Chinese Fables: The Dragon Slayer and Other Timeless Tales of Wisdom	| Shiho S. Nunes |	Vermont: Tuttle Publishing, 2013. |	English J 398.20951 NUN -[FOL] |
 | 05 | Gangler | Orang Utan Yang Cerdik	| M. Jayanthi, Nor Azizul Harun	| Selangor: Minda Ceria Resources, 2013. |	Malay JP JAY |
 | 06 | Growlma | Little Red Riding Hood Stories Around the World: 3 Beloved Tales |	Jessica Gunderson |	Minnesota: Picture Window Books, 2015. |	English J 398.2 GUN -[FOL] |

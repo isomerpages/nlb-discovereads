@@ -45,7 +45,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 07 | Jay K | The Monkey King and the Blue Jackal: Folktales in Folk Art |	Shobha Viswanath |	Chennai: Karadi Tales Company Pvt. Ltd., 2010.	| English JP 398.20954 VIS -[FOL] |
 | 08 | Jingle | Jingwei tian hai/精卫填海 |	Jiao Qiyue/焦柒月 |	Shijiazhuang Shi: Hebei shao nian er tong chu ban she, 2017. 石家庄市 : 河北少年儿童出版社, 2017.	| Chinese JP JQY |
 | 09 | King Coil | Pangolin | Laura Bryant | New York: Bearport Publishing, 2018. | English JP 599.3 BRY |
-| 10 | Lil' Deer | Sang Kancil Dengan Harimau	Rahimidin Zahari |	Kuala Lumpur: Institut Terjemahan & Buku Malaysia, 2016. | Malay J 398.2 RAH -[FOL] |
+| 10 | Lil' Deer | Sang Kancil Dengan Harimau |	Rahimidin Zahari |	Kuala Lumpur: Institut Terjemahan & Buku Malaysia, 2016. | Malay J 398.2 RAH -[FOL] |
 | 11 | Lockera | Rapunzel |	Chloe Perkins	| New York: Little Simon, 2017.	| English JP PER -[BA] |
 | 12 | Oink | Zhu ba jie chi xi gua/猪八戒吃西瓜	| Tong qu chu ban you xian gong si/童趣出版有限公司 |	Beijing Shi: Ren min you dian chu ban she, 2014. 北京市 : 人民邮电出版社, 2014. |	Chinese J 791.43 ZBJ -[HAN] |
 | 13 | Prancer | Eyes on the Peacock's Tail: A Folktale from Rajasthan	| Vayu Naidu | Chennai: Tulika Publishers, 1997. |	English J 398.209544 NAI -[FOL] |
@@ -75,7 +75,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 37 | m0ng00 | விசுவாசமான கீரிப்பிள்ளை The Loyal Mongoose |	S. Jayaraman |	India: Media Fusion, 200-? |	Tamil JP 398.2 VIS -[FOL] |
 | 38 | Fangs | காகமும் பாம்பும் |  Andra Publications |  Jaffna: Andra Publications, 2016. | Tamil JP KAK | 
 | 39 | Heehaw | பாடும் கழுதை The Musical Donkey | Niveditha Subramaniam | Chennai: Tulika Publishers, 2010. | Tamil JP SUB  |
-| 40 | Platter | ஆள்வது யார்?	மீனா ரகுநாதன்	| Chennai: Tulika Publishers, 2008.	| Tamil JP MEE  |
+| 40 | Platter | ஆள்வது யார்? |	மீனா ரகுநாதன்	| Chennai: Tulika Publishers, 2008.	| Tamil JP MEE  |
 | 41 | Atlanta | Butterflies and Moths |	Naomi Reagan |	New York: Rosen/PowerKids Press, 2015. |	English J 530.8 REA |
 | 42 | Unidragan | Eight Fortunes of the Qilin	| Tutu Dutta-Yean	| Selangor: MPH Group Pub., 2009. |	English J 398.2095 DUT -[FOL]  |
 | 43 | Toothy | Kancil and the Crocodiles |	Noreha Yussof Day |	New York: Simon & Schuster Books for Young Readers, 1996. |	English JP 398.2 DAY -[FOL] |

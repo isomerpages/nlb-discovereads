@@ -10,7 +10,7 @@ Welcome to our resources page! Click on the buttons below to navigate the page.
 [<img src="/images/events/bookbugsx/Resources_Digital.png" alt="Digital Resources" style="width: 25%" align="left">](#digital-resources)[<img src="/images/events/bookbugsx/Resources_Printables.png" alt="Printables" style="width: 25%" align="left">](#printables)[<img src="/images/events/bookbugsx/Resources_Book Lists.png" alt="Book Lists" style="width: 25%" align="left">](#book-lists)[<img src="/images/events/bookbugsx/Resources_Links.png" alt="Useful Links" style="width: 25%" align="left">](#useful-links)
 
 ### Digital Resources
-You can now use our Book Bugs stickers!
+You can now use our Book Bugs stickers!<br>
 <img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 40%" align="left"><br><br><br><br<br>
 Download them for [Whatsapp](http://sticker.ly/s/95QYX0) and [Telegram](https://t.me/addstickers/BookBugs).
 
@@ -25,10 +25,8 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 |:---:|:---:|:---:|
 |[![Chinese-English Wordsearch](/images/events/bookbugsx/Word Search Chinese-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf)|[![Malay-English Wordsearch](/images/events/bookbugsx/Word Search Malay-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf)|[![Tamil-English Wordsearch](/images/events/bookbugsx/Word Search Tamil-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf)|
 
-
-
-
 ### Book Lists
-
+Want to read the stories behind each Book Bug?
+**Magical Forests**
 
 ### Useful Links

@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired by local and regional folktale and trivia? Scroll down to find out what served as the inspiration for each Bug! If you want to read the stories that inspired our Bugs, refer to the book list on our [Resources page](/events/bookbugsx/resources). You will find that some popular folktales and fairy tales, such as Rapunzel and Little Red Riding Hood, actually have their Asian equivalents too!
+Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired by local and regional folktale and trivia? Scroll down to find out what served as the inspiration for each Bug! If you want to read the stories that inspired our Bugs, refer to the book list on our [Resources page](/events/bookbugsx/resources). You will find that some popular folktales and fairy tales, such as Cinderella and Little Red Riding Hood, actually have their Asian equivalents too!
 
 #### Magical Forests
 <img src="/images/events/bookbugsx/Bug List_lowres.png" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">

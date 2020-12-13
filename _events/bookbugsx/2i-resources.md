@@ -30,7 +30,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 |[![Chinese-English Wordsearch](/images/events/bookbugsx/Word Search Chinese-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf)|[![Malay-English Wordsearch](/images/events/bookbugsx/Word Search Malay-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf)|[![Tamil-English Wordsearch](/images/events/bookbugsx/Word Search Tamil-English thumbnail.png)](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf)|
 
 ### Book Lists
-Want to read the stories behind each Book Bug?
+Want to read the stories behind each Book Bug? You can pick up these books in the public libraries!
 
 **Magical Forests**
 
@@ -40,7 +40,7 @@ Want to read the stories behind each Book Bug?
 | 02 | Billy Wings | Birds | Brenda Williams | London: Tick Tock, 2013. |	English J 598 WIL |
 | 03 | Bucky | More Japanese Children's Favorite Stories	| Florence Sakude	| Tokyo: Tuttle Publishing, 2013. |	English J 398.2 SAK -[FOL] |
 | 04 | Foxy Roxy | Chinese Fables: The Dragon Slayer and Other Timeless Tales of Wisdom	| Shiho S. Nunes |	Vermont: Tuttle Publishing, 2013. |	English J 398.20951 NUN -[FOL] |
-| 05 | Gangler | Orang Utan Yang Cerdik	| M. Jayanthi, Nor Azizul Harun	Selangor: Minda Ceria Resources, 2013. |	Malay JP JAY |
+| 05 | Gangler | Orang Utan Yang Cerdik	| M. Jayanthi, Nor Azizul Harun	| Selangor: Minda Ceria Resources, 2013. |	Malay JP JAY |
 | 06 | Growlma | Little Red Riding Hood Stories Around the World: 3 Beloved Tales |	Jessica Gunderson |	Minnesota: Picture Window Books, 2015. |	English J 398.2 GUN -[FOL] |
 | 07 | Jay K | The Monkey King and the Blue Jackal: Folktales in Folk Art |	Shobha Viswanath |	Chennai: Karadi Tales Company Pvt. Ltd., 2010.	| English JP 398.20954 VIS -[FOL] |
 | 08 | Jingle | Jingwei tian hai/精卫填海 |	Jiao Qiyue/焦柒月 |	Shijiazhuang Shi: Hebei shao nian er tong chu ban she, 2017. 石家庄市 : 河北少年儿童出版社, 2017.	| Chinese JP JQY |
@@ -48,38 +48,38 @@ Want to read the stories behind each Book Bug?
 | 10 | Lil' Deer | Sang Kancil Dengan Harimau	Rahimidin Zahari |	Kuala Lumpur: Institut Terjemahan & Buku Malaysia, 2016. | Malay J 398.2 RAH -[FOL] |
 | 11 | Lockera | Rapunzel |	Chloe Perkins	| New York: Little Simon, 2017.	| English JP PER -[BA] |
 | 12 | Oink | Zhu ba jie chi xi gua/猪八戒吃西瓜	| Tong qu chu ban you xian gong si/童趣出版有限公司 |	Beijing Shi: Ren min you dian chu ban she, 2014. 北京市 : 人民邮电出版社, 2014. |	Chinese J 791.43 ZBJ -[HAN] |
-| 13 | Prancer | How the Peacock got the Eyes on its Tail |
-| 14 | Rodex | Rat from the Chinese Zodiac |
-| 15 | Saga | Saga tree |
-| 16 | Singalux | Lion from the story of Sang Nila Utama |
-| 17 | Snow and Rose | Snow White and Rose Red |
-| 18 | Spotless | Leopard Cat |
-| 19 | Springy | Sembawang Hot Springs |
-| 20 | Tattler | The Rajah's Big Ears |
-| 21 | Thorn | The Magic Needle (Turkish Sleeping Beauty)
-| 22 | Thumb-rex | Issun Boshi (Japanese One-inch Boy) |
-| 23 | Cawkerel | Rooster from the story of Hou Yi |
-| 24 | Ssswallow | Green snake from Madame White Snake |
-| 25 | Ssswell | White snake from Madame White Snake |
-| 26 | Dranoble | Dragon Prince (Chinese Beauty and the Beast) |
-| 27 | Woofer | Evil wolf from Chinese Folktales |
-| 28 | Wostrong | Wu Song from Water Margin |
-| 29 | Deerwan | Cik Siti Wan Kembang (Deer Princess) |
-| 30 | Gharlie | Bawang Putih (Garlic) from Bawang Putih Bawang Merah, a Malay Cinderella tale |
-| 31 | Sharlie | Bawang Merah (Shallot) from Bawang Putih Bawang Merah, a Malay Cinderella tale |
-| 32 | Padook | Pak Kaduk (Foolish Old Man) |
-| 33 | T-moon | Timun Emas (The Golden Cucumber) |
-| 34 | Twiggy | Bangau oh Bangau (Crane) |
-| 35 | Alya | Banyan Tree |
-| 36 | Chomper | The Greedy Mouse (Panchatantra tale) |
-| 37 | m0ng00 | The Loyal Mongoose (Panchatantra tale) |
-| 38 | Fangs | Snake from The Loyal Mongoose (Panchatantra tale) |
-| 39 | Heehaw | The Musical Donkey (Panchatantra tale) |
-| 40 | Platter | Platypus from Who Rules? |
-| 41 | Atlanta | Atlas Moth |
-| 42 | Unidragan | Qi Lin (Chinese mythological creature) |
-| 43 | Toothy | Buaya (Crocodile) from Sang Kancil stories |
-| 44 | Many-eyes | Eecha Poocha (Malayalam Folktale) |
+| 13 | Prancer | Eyes on the Peacock's Tail: A Folktale from Rajasthan	| Vayu Naidu | Chennai: Tulika Publishers, 1997. |	English J 398.209544 NAI -[FOL] |
+| 14 | Rodex | The Great Race: Story of the Chinese Zodiac |	Christopher Corr |	New York: Frances Lincoln Children's Books, 2018. |	English JP 398.20951 COR -[FOL] |
+| 15 | Saga | There Are Saga Seeds In Our Pockets!/Ada biji saga di dalam saku kami!	| Maria Mahat	| Singapore: Ungu Pen Education, 2016. |	Malay J SING MAR |
+| 16 | Singalux | The Lion City | Mohamad Salmi | Selangor: MPH Pub., 2010. | English J SING 398.2 MOH -[FOL] |
+| 17 | Snow and Rose | Snow White Stories Around the World: 4 Beloved Tales	| Jessica Gunderson	| Minnesota: Picture Window Books, 2015.	| English J 398.2 GUN -[FOL] |
+| 18 | Spotless | Wild Cats | Elizabeth Carney | Washington, DC: National Geographic, 2017. | English J 599.75 CAR |
+| 19 | Springy |  Attack of the Swordfish and Other Singapore Tales | Charlotte Lim | Singapore: National Heritage Board, 2005. | English J SING 398.2 LIM -[FOL] |
+| 20 | Tattler | Indian Children's Favourite Stories: Fables, Myths and Fairy Tales	| Rosemarie Somaiah	| Tokyo: Tuttle Publishing, 2019.	| English J 398.2 SOM -[FOL] |
+| 21 | Thorn | Snow White Stories Around the World: 4 Beloved Tales | Jessica Gunderson | Minnesota: Picture Window Books, 2015.  | English J 398.2 GUN -[FOL] |
+| 22 | Thumb-rex | Issun Bôshi: The One-Inch Boy |	Icinori	| Berlin: Little Gestalten, 2014.	| English JP 398.20952 ICI -[FOL] |
+| 23 | Cawkerel | How the Rooster Got His Crown |	Amy Lowry Poole |	New York: Holiday House, 1999.	| English JP 398.2 POO -[FOL] |
+| 24 | Ssswallow | 白蛇传 Legend of the White Snake | 酱油熊编著; 安芳译 | 北京市: 中国画报出版社, 2017. | Chinese JP JYX -[BIL] |
+| 25 | Ssswell | 白蛇传 Legend of the White Snake | 酱油熊编著; 安芳译 | 北京市: 中国画报出版社, 2017. | Chinese JP JYX -[BIL] |
+| 26 | Dranoble | 辰龙 |	门神童书编绘	| 南昌市: 江西高校出版社, 2018. |	Chinese JP 398.2 CL -[FOL] |
+| 27 | Woofer | 东郭先生和狼	| 哈皮童年编绘 |	福州市: 福建科学技术出版社, 2017. |	Chinese JP 398.2 DGX -[FOL] |
+| 28 | Wostrong | 武松打虎 | 熊亮著绘 | 天津市: 天津人民出版社, 2016. | Chinese JP XGK |
+| 29 | Deerwan | Legendary Princesses of Malaysia |	Raman |	Kuala Lumpur: Oyez!Books, 2013. |	English J 398.22 RAM -[FOL] |
+| 30 | Gharlie | Bawang Merah, Bawang Putih |	Mohamad Salmi |	Selangor: MPH Pub., 2010. | English JP 398.2 MOH -[FOL] |
+| 31 | Sharlie | Bawang Merah, Bawang Putih | Mohamad Salmi | Selangor: MPH Pub., 2010. | English JP 398.2 MOH -[FOL] |
+| 32 | Padook | Poor Pak Kaduk	| Mohamad Salmi	| Selangor: MPH Pub., 2010	| English JP 398.2 MOH -[FOL] |
+| 33 | T-moon | Enchanting Tales from Indonesia |	Andari Deswandhy | Jakarta: Penerbit PT Gramedia Pustaka Utama, 2017.	| English J 398.2 DES -[FOL] |
+| 34 | Twiggy | Bangau Oh Bangau	| Elly Nor Suria M. Zainudin	| Kuala Lumpur: Integra Creative Media, 2018.	 | Malay JP 398.8 BAN |
+| 35 | Alya | Attack of the Swordfish and Other Singapore Tales | Charlotte Lim | Singapore: National Heritage Board, 2005. | English J SING 398.2 LIM -[FOL] |
+| 36 | Chomper | பேராசைகொண்ட சுண்டெலி The Greedy Mouse | K. Ramasamy | Hyderabad: EMESCO Books for Children's Literature Materials Bank, 2012. | Tamil JP PER |
+| 37 | m0ng00 | விசுவாசமான கீரிப்பிள்ளை The Loyal Mongoose |	S. Jayaraman |	India: Media Fusion, 200-? |	Tamil JP 398.2 VIS -[FOL] |
+| 38 | Fangs | காகமும் பாம்பும் |  Andra Publications |  Jaffna: Andra Publications, 2016. | Tamil JP KAK | 
+| 39 | Heehaw | பாடும் கழுதை The Musical Donkey | Niveditha Subramaniam | Chennai: Tulika Publishers, 2010. | Tamil JP SUB  |
+| 40 | Platter | ஆள்வது யார்?	மீனா ரகுநாதன்	| Chennai: Tulika Publishers, 2008.	| Tamil JP MEE  |
+| 41 | Atlanta | Butterflies and Moths |	Naomi Reagan |	New York: Rosen/PowerKids Press, 2015. |	English J 530.8 REA |
+| 42 | Unidragan | Eight Fortunes of the Qilin	| Tutu Dutta-Yean	| Selangor: MPH Group Pub., 2009. |	English J 398.2095 DUT -[FOL]  |
+| 43 | Toothy | Kancil and the Crocodiles |	Noreha Yussof Day |	New York: Simon & Schuster Books for Young Readers, 1996. |	English JP 398.2 DAY -[FOL] |
+| 44 | Many-eyes | ஈச்சா பூச்சா	| Kala Sashikumar	| Chennai: Tulika Publishers, 2004.	| Tamil JP SAS |
 
 
 ### Useful Links

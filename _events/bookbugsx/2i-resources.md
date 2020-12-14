@@ -24,7 +24,10 @@ Done with our quizzes and want more Book Bugs-related activities? We upload prin
 **December 2020**
 
 This month, we have word search puzzles in all four languages. Do the words remind you of any story? Click on the images below to download the printable sheets!
+
 P.S. You can colour in the illustrations at the bottom of the sheet.
+
+P.P.S. The answer key will be uploaded next month.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|

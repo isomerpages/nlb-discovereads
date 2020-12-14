@@ -33,7 +33,7 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
 
-###**Build Your Own Balloon Powered Car**
+### **Build Your Own Balloon Powered Car**
 
 Get creative with your child to build these balloon powered cars and race them to the finish line!
 
@@ -53,7 +53,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Source: [Balloon Powered Car: Make Your Own](https://https://youtu.be/PFHs-uNVFpw) (15 October 2020)
 
-**Be Curious**
+**Be Curious!**
 
 Read these ebooks to explore the science of vehicles!
 

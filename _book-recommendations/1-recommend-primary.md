@@ -39,7 +39,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 		<a href="images/recommendationsprimary/NLB-Chinese-Graded-Reading- List-FA-with- cropmarks.pdf"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-		<a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="width: 24.35rem; padding: 10px; margin: auto;"></a>
+		<a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
 		<a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.pdf"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>

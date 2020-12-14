@@ -16,7 +16,7 @@ _(Updated on 7 December 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new** [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -31,6 +31,64 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
+
+
+### **Build Your Own Balloon Powered Car**
+
+Get creative with your child to build these balloon powered cars and race them to the finish line!
+
+You'll need: 
+* 1 Rectangular piece of cardboard 
+* 2 Wooden skewers/chopsticks 
+* 3 Straws
+* A balloon 
+* A small rubber band
+* 4 Plastic bottle caps 
+* Scotch tape 
+* Scissors 
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PFHs-uNVFpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [Balloon Powered Car: Make Your Own](https://https://youtu.be/PFHs-uNVFpw) (15 October 2020)
+
+**Be Curious!**
+
+Read these ebooks to explore the science of vehicles!
+
+
+<img src="/images/diyresources/primary/How-Do-Cars-Drive-Themselves.png" alt="How Do Cars Drive Themselves Image" style="width: 40%;">
+
+**How Do Cars Drive Themselves**
+
+By Marcia Amidon Lusted<br>
+Publisher: Capstone
+
+Today’s cutting-edge cars use sensors and powerful computers to see their surroundings and safely drive from place to place. Read this book to learn how engineers design intelligent cars that drive themselves
+
+This book is available on Overdrive at [https://nlb.overdrive.com/media/4831229](https://nlb.overdrive.com/media/4811229) 
+
+
+<img src="/images/diyresources/primary/Catstronauts.png" alt="Catstronauts Image" style="width: 40%;">
+
+**CatStronauts: Robot Rescue**
+
+By Drew Brockington <br>
+Publisher: Little, Brown Books for Young Readers
+
+Cat-Stro-Bot is stranded on Jupiter’s coldest moon after a mission gone wrong and his best friend, Blanket, isn’t about to leave him behind. Together with the rest of the CatStronauts, Major Meowser, Pom Pom and Waffles, Blanket stages a robot rescue. Join them as they go on their longest journey ever with experimental new technology, mounds of robot glitches, wonky cover-ups, and fish jokes by the tons!
+
+This book is available on Overdrive at [https://nlb.overdrive.com/media/3390970](https://nlb.overdrive.com/media/3390970)
+
+**Tip for parents**
+
+If you take the time to invest in building creative opportunities into your family’s daily life, you will find that your children will continue to learn and grow as creative individuals.
+
+Source: [https://www.familiesforlife.sg/discover-an-article/Pages/Raising-a-Creative-Child.aspx](https://www.familiesforlife.sg/discover-an-article/Pages/Raising-a-Creative-Child.aspx)
+
+All websites were last accessed on 15 October 2020. 
+The book covers and synopses are the copyright of the respective publishing companies.
 
 
 ### **Art and Craft Fire-Breathing Dragon** 

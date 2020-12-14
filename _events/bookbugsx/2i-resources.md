@@ -24,11 +24,14 @@ Done with our quizzes and want more Book Bugs-related activities? We upload prin
 **December 2020**
 
 This month, we have word search puzzles in all four languages. Do the words remind you of any story? Click on the images below to download the printable sheets!
+
 P.S. You can colour in the illustrations at the bottom of the sheet.
+
+P.P.S. The answer key will be uploaded next month.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Chinese-English thumbnail.png" alt="Chinese-English Word Search"></a>]|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Malay-English thumbnail.png" alt="Malay-English Word Search"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Tamil-English thumbnail.png" alt="Tamil-English Word Search"></a>|
+|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Chinese-English thumbnail.png" alt="Chinese-English Word Search"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Malay-English thumbnail.png" alt="Malay-English Word Search"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Tamil-English thumbnail.png" alt="Tamil-English Word Search"></a>|
 
 ### Book Lists
 Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug!

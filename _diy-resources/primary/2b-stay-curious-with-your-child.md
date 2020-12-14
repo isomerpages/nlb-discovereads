@@ -67,7 +67,7 @@ Publisher: Capstone
 
 Today’s cutting-edge cars use sensors and powerful computers to see their surroundings and safely drive from place to place. Read this book to learn how engineers design intelligent cars that drive themselves
 
-This book is available on Overdrive at[https://nlb.overdrive.com/media/4831229](https://nlb.overdrive.com/media/4811229) 
+This book is available on Overdrive at [https://nlb.overdrive.com/media/4831229](https://nlb.overdrive.com/media/4811229) 
 
 
 <img src="/images/diyresources/primary/Catstronauts.png" alt="Catstronauts Image" style="width: 40%;">
@@ -77,7 +77,7 @@ Publisher: Little, Brown Books for Young Readers
 
 Cat-Stro-Bot is stranded on Jupiter’s coldest moon after a mission gone wrong and his best friend, Blanket, isn’t about to leave him behind. Together with the rest of the CatStronauts, Major Meowser, Pom Pom and Waffles, Blanket stages a robot rescue. Join them as they go on their longest journey ever with experimental new technology, mounds of robot glitches, wonky cover-ups, and fish jokes by the tons!
 
-This book is available on Overdrive at[https://nlb.overdrive.com/media/3390970](https://nlb.overdrive.com/media/3390970)
+This book is available on Overdrive at [https://nlb.overdrive.com/media/3390970](https://nlb.overdrive.com/media/3390970)
 
 **Tip for parents**
 

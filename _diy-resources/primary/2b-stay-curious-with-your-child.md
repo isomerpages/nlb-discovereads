@@ -72,6 +72,8 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/4831229]
 
 <img src="/images/diyresources/primary/Catstronauts.png" alt="Catstronauts Image" style="width: 40%;">
 
+**CatStronauts: Robot Rescue**
+
 By Drew Brockington <br>
 Publisher: Little, Brown Books for Young Readers
 

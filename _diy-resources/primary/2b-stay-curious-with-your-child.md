@@ -58,7 +58,35 @@ Source: [Balloon Powered Car: Make Your Own](https://https://youtu.be/PFHs-uNVFp
 Read these ebooks to explore the science of vehicles!
 
 
+<img src="/images/diyresources/primary/How-Do-Cars-Drive-Themselves.png" alt="How Do Cars Drive Themselves Image" style="width: 40%;">
 
+**How Do Cars Drive Themselves**
+
+By Marcia Amidon Lusted<br>
+Publisher: Capstone
+
+Today’s cutting-edge cars use sensors and powerful computers to see their surroundings and safely drive from place to place. Read this book to learn how engineers design intelligent cars that drive themselves
+
+This book is available on Overdrive at[https://nlb.overdrive.com/media/4831229](https://nlb.overdrive.com/media/4811229) 
+
+
+<img src="/images/diyresources/primary/Catstronauts.png" alt="Catstronauts Image" style="width: 40%;">
+
+By Drew Brockington <br>
+Publisher: Little, Brown Books for Young Readers
+
+Cat-Stro-Bot is stranded on Jupiter’s coldest moon after a mission gone wrong and his best friend, Blanket, isn’t about to leave him behind. Together with the rest of the CatStronauts, Major Meowser, Pom Pom and Waffles, Blanket stages a robot rescue. Join them as they go on their longest journey ever with experimental new technology, mounds of robot glitches, wonky cover-ups, and fish jokes by the tons!
+
+This book is available on Overdrive at[https://nlb.overdrive.com/media/3390970](https://nlb.overdrive.com/media/3390970)
+
+**Tip for parents**
+
+If you take the time to invest in building creative opportunities into your family’s daily life, you will find that your children will continue to learn and grow as creative individuals.
+
+Source: [https://www.familiesforlife.sg/discover-an-article/Pages/Raising-a-Creative-Child.aspx](https://www.familiesforlife.sg/discover-an-article/Pages/Raising-a-Creative-Child.aspx)
+
+All websites were last accessed on 15 October 2020. 
+The book covers and synopses are the copyright of the respective publishing companies.
 
 
 ### **Art and Craft Fire-Breathing Dragon** 

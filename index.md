@@ -13,9 +13,9 @@ sections:
         # button: Contact Us
         # url: /contact-us/
         key_highlights:
-            - title: Resources for Parents
+            - title: Early READ
               description:
-              url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
+              url: /services/earlyread
             - title: Monsters United
               description: 
               url: /services/programmes/monstersunited
@@ -26,11 +26,17 @@ sections:
               description: 
               url: /services/programmes/teenstakeover
     - infobar:
+        title: Resources for Parents & Educators
+        subtitle:
+        description: Engage children with reading using tips from these dedicated guides.
+        button: Read more!
+        url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
+    - infobar:
         title: Storytime (For ages 4-10)
         subtitle:
         description: Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages. Tune in to Public Libraries Singapore for the English sessions.
         button: Stories
-        url: diy-resources/storytime/storytime-main
+        url: /diy-resources/storytime/storytime-main
     - infopic:
         title: Watch this!
         subtitle: School Holiday Specials with Librarians

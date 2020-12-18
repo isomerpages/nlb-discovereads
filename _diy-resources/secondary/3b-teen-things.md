@@ -11,8 +11,124 @@ third_nav_title: Secondary School Resources
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
+| [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9) | [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
 | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
+
+
+#### <a name="id9">**Think Green, Go Green!**</a>
+
+![Think Green, Go Green header](/images/diyresources/secondary/tt-header-green.png)
+
+Engage with the world around you and pick up eco-friendly habits by repurposing the things you already have. Become part of a global initiative to combat climate change by making small lifestyle changes and adopting greener practices.
+
+It’s often difficult to know where to begin, and you may feel like a small seed whose efforts make little difference. Don’t be discouraged! There are many things you can do, and most importantly, it is to get started.
+
+Here are some resources to help you develop environmental mindfulness ☺️
+
+**Part 1: Reconnect with Nature - Forest Bathing**<br>
+Known as shinrin-yoku, forest bathing does not actually involve any bathing. Instead, it is an opportunity for you to leave your tech behind, and spend some quiet time immersed in nature. Learn more about forest bathing and its benefits through this video below:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/12CCjoixpkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [The Art and Science of Forest Bathing with Dr Qing Li, Penguin Books UK](https://www.youtube.com/watch?v=12CCjoixpkA&ab_channel=PenguinBooksUK).
+
+Here are some simple steps to forest bathe in urban Singapore, so you can take a short breather from your hectic schedules and connect with the world around you:<br>
+* Choose a park with some trees near your home. Remember to pack water and food, and inform your parents/guardian on your whereabouts before leaving home.
+* Immerse yourself in your surroundings as you wander around the park for at least 15 minutes.
+* Listen to the sounds around you, look at the shapes of the leaves on the trees, and feel the sensation of the ground beneath your feet.
+* If you are with someone, resist talking until the end of the walk.
+* Self-reflect after your walk. How did you feel? What did you experience?
+ 
+Adapted from “[5 Simple Steps to Practising Shinrin-Yoku (Forest Bathing).](https://growwilduk.com/blog/5-simple-steps-practising-shinrin-yoku-forest-bathing/)” Grow Wild UK.
+
+
+**Part 2: Reduce Your Carbon Footprint - Upcycle a T-shirt**<br>
+Have you ever thought about where most of your clothes come from? Where do these fast fashion pieces go after you are done with them? 
+
+<img src="/images/diyresources/secondary/tt-g-fast-fashion.png" alt="Fast fashion refers to the trendy and inexpensive clothing that is manufactured and sold on a mass scale. This practice may be harmful to the environment at many stages." style="width: 70%;">
+
+Adapted from “[What Is Fast Fashion, Anyway?](https://www.todayonline.com/commentary/why-we-need-curb-wastefulness-fast-fashion.)” Today Online, 29 January 2019.
+
+Watch this TED-Ed video below to learn more about the life cycle of a T-shirt:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BiSYoeqb_VY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [The Life Cycle of a T-shirt by Angel Chang, TED-Ed](https://www.youtube.com/watch?v=BiSYoeqb_VY&ab_channel=TED-Ed).
+
+Extend the life cycle of your clothes and upgrade your existing wardrobe by creatively upcycling them. 
+
+<img src="/images/diyresources/secondary/tt-g-upcycling.png" alt="Upcycling refers to the process of recycling something into a product of a higher value than the original item." style="width: 70%;">
+
+Adapted from: "[Upcycle.](https://www.merriam-webster.com/dictionary/upcycle)" Merriam-Webster.com Dictionary, Merriam-Webster.
+
+Before you throw that old T-shirt away, think twice! Turn it into a functional tote bag in just a few simple steps. 
+
+You’ll need:
+* T-Shirt
+* Fabric Scissors
+* Embellishments/Decorative elements
+
+Try this out and tag us at @publiclibrarysg with #librarysg.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zgpaM3u2zng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [DIY NO Sew T-Shirt Bag (SO Easy!!), WhatsUpMoms](https://www.youtube.com/watch?v=zgpaM3u2zng&ab_channel=WhatsUpMoms)
+
+
+**Part 3: Stay Informed - Engage with Other Youths**<br>
+Want to further engage with the topics of environmental sustainability? The UNICEF organisation Voices of Youth is a global digital community of young people speaking up about and taking on climate change. Read opinion pieces and poems written by other young people from around the world [here](https://www.voicesofyouth.org/topic/environment).
+
+<a href="https://www.voicesofyouth.org/topic/environment"><img src="/images/diyresources/secondary/tt-g-voices.png" alt="Voices of Youth screengrab" style="width: 60%;"></a>
+<p style="text-align: center;"><sup>Image credit: Screengrab from the official site of <a href="https://www.voicesofyouth.org/topic/environment">Voices of Youth</a>.</sup></p>
+
+Source: [Voices of Youth](https://www.voicesofyouth.org/topic/environment)
+
+(All websites were last accessed on 18 December 2020.)
+
+
+##### **Be inspired!**
+Check out these related reads for more!
+
+<a href="https://nlb.overdrive.com/media/4116763"><img src="/images/diyresources/secondary/tt-g-joy-forest.jpg" alt="Joy of Forest Bathing cover" style="width: 40%;"></a><br>
+
+**The Joy of Forest Bathing: Reconnect with Wild Places & Rejuvenate Your Life**<br>
+By Melanie Choukas-Bradley, illustrated by Lieke van der Vorst<br>
+Publisher: Rock Point, 2018<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/4116763).
+
+A simple antidote to our nature-starved lives, The Joy of Forest Bathing is an enticing and comprehensive introduction to forest bathing–or Shinrin-yoku, in Japan–the meditative practice of connecting with nature and disconnecting from the distractions of daily life.
+
+Synopsis from [Quarto Knows](https://www.quartoknows.com).
+
+
+<a href="https://nlb.overdrive.com/media/5155080"><img src="/images/diyresources/secondary/tt-g-wear-repair-repurpose.jpg" alt="Wear Repair Repurpose book cover" style="width: 40%;"></a><br>
+ 
+**Wear, Repair, Repurpose: A Maker’s Guide To Mending and Upcycling Clothes**<br>
+By Lily Fulop<br>
+Publisher: Countryman Press, 2020<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/5155080).
+
+Repair your favorite socks with style, add flair with personalized patches, and turn ripped jeans into an embroidered masterpiece. For beginner and experienced makers, Lily Fulop's guide to mending and upcycling is your colorful companion to ditching fast fashion and extending the lifecycle of all your favorite clothes. Say hello to sustainable inspiration.
+
+Synopsis from [W. W. Norton](https://www.wwnorton.co.uk/).
+
+
+<a href="https://nlb.overdrive.com/media/2397149"><img src="/images/diyresources/secondary/tt-g-the-beast-of-cretacea.jpg" alt="The Beast of Cretacea book cover" style="width: 40%;"></a><br>
+ 
+**The Beast of Cretacea**<br>
+By Todd Strasser<br>
+Publisher: Candlewick, 2015<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/2397149).
+
+Master storyteller Todd Strasser reimagines the classic tale of Moby Dick as set in the future - and takes readers on an epic sci-fi adventure.
+When seventeen-year-old Ishmael wakes up from stasis aboard the Pequod, he is amazed by how different this planet is from the dirty, dying, Shroud-covered Earth he left behind. But Ishmael isn’t on Cretacea to marvel at the fresh air, sunshine, and endless blue ocean. He’s here to work, risking his life to hunt down great ocean-dwelling beasts to harvest and send back to the resource-depleted Earth.
+
+Synopsis from [Candlewick](https://candlewick.com). 
+
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+##### <span style="color:blue"><a href="#top">Back to top</a></span>
 
 
 <a name="id8">![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)</a>
@@ -97,6 +213,8 @@ In this beautifully photographed cookbook, the author, Segan details the hottest
 Synopsis from [Harry N. Abrams](www.abramsbooks.com). 
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+##### <span style="color:blue"><a href="#top">Back to top</a></span>
 
 
 <a name="id7">![Escape rooms header](/images/diyresources/secondary/tt-header-escape.png)</a>

@@ -7,7 +7,7 @@ third_nav_title: Secondary School Resources
 
 ## **Teen•Things**
 <img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
-<p style="text-align: center;"><i>(Updated on 11 December 2020)</i></p>
+<p style="text-align: center;"><i>(Updated on 18 December 2020)</i></p>
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
@@ -65,7 +65,7 @@ Try this out and tag us at @publiclibrarysg with #librarysg.
 
 Source: [DIY NO Sew T-Shirt Bag (SO Easy!!), WhatsUpMoms](https://www.youtube.com/watch?v=zgpaM3u2zng&ab_channel=WhatsUpMoms)
 
-#### **Useful terms**
+**Useful terms**<br>
 <img src="/images/diyresources/secondary/tt-g-fast-fashion.png" alt="Fast fashion refers to the trendy and inexpensive clothing that is manufactured and sold on a mass scale. This practice may be harmful to the environment at many stages." style="width: 70%;">
 
 Adapted from “[What Is Fast Fashion, Anyway?](https://www.todayonline.com/commentary/why-we-need-curb-wastefulness-fast-fashion.)” Today Online, 29 January 2019.
@@ -87,7 +87,7 @@ Source: [Voices of Youth](https://www.voicesofyouth.org/topic/environment)
 
 
 ##### **Be inspired!**
-Check out these related reads for more!
+Check out these related reads for more.
 
 <a href="https://nlb.overdrive.com/media/4116763"><img src="/images/diyresources/secondary/tt-g-joy-forest.jpg" alt="Joy of Forest Bathing cover" style="width: 40%;"></a><br>
 
@@ -128,7 +128,7 @@ Synopsis from [Candlewick](https://candlewick.com). 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id8">![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)</a>
@@ -214,7 +214,7 @@ Synopsis from [Harry N. Abrams](www.abramsbooks.com). 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id7">![Escape rooms header](/images/diyresources/secondary/tt-header-escape.png)</a>
@@ -286,7 +286,7 @@ Check out [this eBook](https://go.gov.sg/youchoose-rapunzel) for a choose-your-o
 
 (All websites were last accessed on 3 December 2020.)
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id6">![Virtual tours header](/images/diyresources/secondary/tt-header-tours.png)</a>
@@ -403,7 +403,7 @@ Synopsis from [Macmillan](https://us.macmillan.com).<br>
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id5">![Boba book recommendations header](/images/diyresources/secondary/tt-header-boba.png)</a>
@@ -415,7 +415,7 @@ Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide 
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 #### <a name="id4">**DIY Room Décor**</a>
@@ -469,7 +469,7 @@ Source: [https://theconversation.com/seven-tips-to-get-your-sleep-cycle-back-on-
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 #### <a name="id3">**Science Exploration**</a>
@@ -530,7 +530,7 @@ Kick-start your fitness with daily workout sessions by Singapore Sports Hub at: 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 #### <a name="id2">**Cooking Pasta**</a>
@@ -586,7 +586,7 @@ Source: [https://www.bustle.com/p/7-emotional-benefits-of-cooking-thatll-make-yo
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 
 
 #### <a name="id1">**For the ‘Gram**</a>
@@ -635,5 +635,5 @@ Source: [https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
+<b><a href="#top">Back to top</a></b>
 

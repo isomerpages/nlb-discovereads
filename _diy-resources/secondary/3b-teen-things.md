@@ -32,22 +32,19 @@ Known as shinrin-yoku, forest bathing does not actually involve any bathing. Ins
 
 Source: [The Art and Science of Forest Bathing with Dr Qing Li, Penguin Books UK](https://www.youtube.com/watch?v=12CCjoixpkA&ab_channel=PenguinBooksUK).
 
-Here are some simple steps to forest bathe in urban Singapore, so you can take a short breather from your hectic schedules and connect with the world around you:<br>
-* Choose a park with some trees near your home. Remember to pack water and food, and inform your parents/guardian on your whereabouts before leaving home.
+Here are some simple steps to forest bathe in urban Singapore, so you can take a short breather from your hectic schedules and connect with the world around you:
+
+* Choose a park with some trees near your home. Remember to pack water and food, and inform your parents/guardian on your whereabouts before leaving home.
 * Immerse yourself in your surroundings as you wander around the park for at least 15 minutes.
 * Listen to the sounds around you, look at the shapes of the leaves on the trees, and feel the sensation of the ground beneath your feet.
 * If you are with someone, resist talking until the end of the walk.
 * Self-reflect after your walk. How did you feel? What did you experience?
- 
-Adapted from “[5 Simple Steps to Practising Shinrin-Yoku (Forest Bathing).](https://growwilduk.com/blog/5-simple-steps-practising-shinrin-yoku-forest-bathing/)” Grow Wild UK.
+
+Adapted from "[5 Simple Steps to Practising Shinrin-Yoku (Forest Bathing).](https://growwilduk.com/blog/5-simple-steps-practising-shinrin-yoku-forest-bathing/)" Grow Wild UK.
 
 
 **Part 2: Reduce Your Carbon Footprint - Upcycle a T-shirt**<br>
 Have you ever thought about where most of your clothes come from? Where do these fast fashion pieces go after you are done with them? 
-
-<img src="/images/diyresources/secondary/tt-g-fast-fashion.png" alt="Fast fashion refers to the trendy and inexpensive clothing that is manufactured and sold on a mass scale. This practice may be harmful to the environment at many stages." style="width: 70%;">
-
-Adapted from “[What Is Fast Fashion, Anyway?](https://www.todayonline.com/commentary/why-we-need-curb-wastefulness-fast-fashion.)” Today Online, 29 January 2019.
 
 Watch this TED-Ed video below to learn more about the life cycle of a T-shirt:
 
@@ -55,13 +52,7 @@ Watch this TED-Ed video below to learn more about the life cycle of a T-shirt:
 
 Source: [The Life Cycle of a T-shirt by Angel Chang, TED-Ed](https://www.youtube.com/watch?v=BiSYoeqb_VY&ab_channel=TED-Ed).
 
-Extend the life cycle of your clothes and upgrade your existing wardrobe by creatively upcycling them. 
-
-<img src="/images/diyresources/secondary/tt-g-upcycling.png" alt="Upcycling refers to the process of recycling something into a product of a higher value than the original item." style="width: 70%;">
-
-Adapted from: "[Upcycle.](https://www.merriam-webster.com/dictionary/upcycle)" Merriam-Webster.com Dictionary, Merriam-Webster.
-
-Before you throw that old T-shirt away, think twice! Turn it into a functional tote bag in just a few simple steps. 
+Extend the life cycle of your clothes and upgrade your existing wardrobe by creatively upcycling them. Before you throw that old T-shirt away, think twice! Turn it into a functional tote bag in just a few simple steps. 
 
 You’ll need:
 * T-Shirt
@@ -74,11 +65,20 @@ Try this out and tag us at @publiclibrarysg with #librarysg.
 
 Source: [DIY NO Sew T-Shirt Bag (SO Easy!!), WhatsUpMoms](https://www.youtube.com/watch?v=zgpaM3u2zng&ab_channel=WhatsUpMoms)
 
+#### **Useful terms**
+<img src="/images/diyresources/secondary/tt-g-fast-fashion.png" alt="Fast fashion refers to the trendy and inexpensive clothing that is manufactured and sold on a mass scale. This practice may be harmful to the environment at many stages." style="width: 70%;">
+
+Adapted from “[What Is Fast Fashion, Anyway?](https://www.todayonline.com/commentary/why-we-need-curb-wastefulness-fast-fashion.)” Today Online, 29 January 2019.
+
+<img src="/images/diyresources/secondary/tt-g-upcycling.png" alt="Upcycling refers to the process of recycling something into a product of a higher value than the original item." style="width: 70%;">
+
+Adapted from: "[Upcycle.](https://www.merriam-webster.com/dictionary/upcycle)" Merriam-Webster.com Dictionary, Merriam-Webster.
+
 
 **Part 3: Stay Informed - Engage with Other Youths**<br>
 Want to further engage with the topics of environmental sustainability? The UNICEF organisation Voices of Youth is a global digital community of young people speaking up about and taking on climate change. Read opinion pieces and poems written by other young people from around the world [here](https://www.voicesofyouth.org/topic/environment).
 
-<a href="https://www.voicesofyouth.org/topic/environment"><img src="/images/diyresources/secondary/tt-g-voices.png" alt="Voices of Youth screengrab" style="width: 60%;"></a>
+<a href="https://www.voicesofyouth.org/topic/environment"><img src="/images/diyresources/secondary/tt-g-voices.png" alt="Voices of Youth screengrab" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Image credit: Screengrab from the official site of <a href="https://www.voicesofyouth.org/topic/environment">Voices of Youth</a>.</sup></p>
 
 Source: [Voices of Youth](https://www.voicesofyouth.org/topic/environment)
@@ -102,7 +102,7 @@ Synopsis from [Quarto Knows](https://www.quartoknows.com).
 
 
 <a href="https://nlb.overdrive.com/media/5155080"><img src="/images/diyresources/secondary/tt-g-wear-repair-repurpose.jpg" alt="Wear Repair Repurpose book cover" style="width: 40%;"></a><br>
- 
+
 **Wear, Repair, Repurpose: A Maker’s Guide To Mending and Upcycling Clothes**<br>
 By Lily Fulop<br>
 Publisher: Countryman Press, 2020<br>
@@ -114,7 +114,7 @@ Synopsis from [W. W. Norton](https://www.wwnorton.co.uk/).
 
 
 <a href="https://nlb.overdrive.com/media/2397149"><img src="/images/diyresources/secondary/tt-g-the-beast-of-cretacea.jpg" alt="The Beast of Cretacea book cover" style="width: 40%;"></a><br>
- 
+
 **The Beast of Cretacea**<br>
 By Todd Strasser<br>
 Publisher: Candlewick, 2015<br>
@@ -128,7 +128,7 @@ Synopsis from [Candlewick](https://candlewick.com). 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-##### <span style="color:blue"><a href="#top">Back to top</a></span>
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 <a name="id8">![Mac & Cheese header](/images/diyresources/secondary/tt-header-mac-cheese.png)</a>
@@ -214,7 +214,7 @@ Synopsis from [Harry N. Abrams](www.abramsbooks.com). 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-##### <span style="color:blue"><a href="#top">Back to top</a></span>
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 <a name="id7">![Escape rooms header](/images/diyresources/secondary/tt-header-escape.png)</a>
@@ -285,6 +285,8 @@ Source: Can you escape the tower? is an escape room created by the Andover Publi
 Check out [this eBook](https://go.gov.sg/youchoose-rapunzel) for a choose-your-own-adventure story featuring Rapunzel!
 
 (All websites were last accessed on 3 December 2020.)
+
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 <a name="id6">![Virtual tours header](/images/diyresources/secondary/tt-header-tours.png)</a>
@@ -399,8 +401,9 @@ A graphic novel adaptation of the classic tale in which Meg Murry and her friend
 
 Synopsis from [Macmillan](https://us.macmillan.com).<br>
 
-
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 <a name="id5">![Boba book recommendations header](/images/diyresources/secondary/tt-header-boba.png)</a>
@@ -411,6 +414,8 @@ Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide 
 <a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 80%;"></a>
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
+
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 #### <a name="id4">**DIY Room Décor**</a>
@@ -464,7 +469,7 @@ Source: [https://theconversation.com/seven-tips-to-get-your-sleep-cycle-back-on-
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 #### <a name="id3">**Science Exploration**</a>
@@ -525,7 +530,7 @@ Kick-start your fitness with daily workout sessions by Singapore Sports Hub at: 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 #### <a name="id2">**Cooking Pasta**</a>
@@ -581,7 +586,7 @@ Source: [https://www.bustle.com/p/7-emotional-benefits-of-cooking-thatll-make-yo
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 
 
 #### <a name="id1">**For the ‘Gram**</a>
@@ -630,4 +635,5 @@ Source: [https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<span style="color:orange"><b><a href="#top">Back to top</a></b></span>
 

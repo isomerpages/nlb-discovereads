@@ -14,10 +14,8 @@ third_nav_title: Secondary School Resources
 | [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9) | [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
 | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
-
-#### <a name="id9">**Think Green, Go Green!**</a>
-
 ![Think Green, Go Green header](/images/diyresources/secondary/tt-header-green.png)
+#### <a name="id9">**Think Green, Go Green!**</a>
 
 Engage with the world around you and pick up eco-friendly habits by repurposing the things you already have. Become part of a global initiative to combat climate change by making small lifestyle changes and adopting greener practices.
 

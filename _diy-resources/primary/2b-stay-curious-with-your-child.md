@@ -49,7 +49,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Source: [Cool and Simple Gift-wrapping Ideas!](https://www.youtube.com/watch?v=dS0fB-wvkgI) (25 December 2019)
 
-**Be Curious**
+**Be Curious!**
 
 Read these eBooks to get into the festive spirit while spending time with your family over the holidays!
 

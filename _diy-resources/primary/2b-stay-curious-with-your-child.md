@@ -47,7 +47,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/dS0fB-wvkgI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Source: [Cool and Simple Gift-wrapping Ideas](Cool and Simple Gift-wrapping Ideas!) (25 December 2019)
+Source: [Cool and Simple Gift-wrapping Ideas!](https://www.youtube.com/watch?v=dS0fB-wvkgI) (25 December 2019)
 
 **Be Curious**
 

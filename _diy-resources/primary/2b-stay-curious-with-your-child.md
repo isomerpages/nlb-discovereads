@@ -66,7 +66,7 @@ Gus the dog doesn't like Christmas. He doesn't like carols, or cake, or Christma
 This book is available on Overdrive at: [https://nlb.overdrive.com/media/5425565](https://nlb.overdrive.com/media/5425565) 
 
 
-<img src="images/diyresources/primary/SCWYC_FunandEasyCrafting.png" alt="Fun and Easy Crafting" style="width: 40%;">
+<img src="/images/diyresources/primary/SCWYC_FunandEasyCrafting.png" alt="Fun and Easy Crafting" style="width: 40%;">
 
 **Fun and Easy Crafting with Recycled Materials: 60 Cool Projects that Reimagine Paper Rolls, Egg Cartons, Jars and More!**
 

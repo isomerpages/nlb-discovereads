@@ -58,7 +58,7 @@ Read these eBooks to get into the festive spirit while spending time with your f
 
 **Merry Christmas, Gus**
 
-By Chris Chatterson
+By Chris Chatterson<br>
 Publisher: Pan Macmillan
 
 Gus the dog doesn't like Christmas. He doesn't like carols, or cake, or Christmas jumpers. And he certainly doesn't like mistletoe. To Gus, a tree is only good for one thing, and it's not for hanging baubles on. But can everyone's favourite grump learn to love the season of goodwill?
@@ -70,7 +70,7 @@ This book is available on Overdrive at: [https://nlb.overdrive.com/media/5425565
 
 **Fun and Easy Crafting with Recycled Materials: 60 Cool Projects that Reimagine Paper Rolls, Egg Cartons, Jars and More!**
 
-By Kimberly McLeod
+By Kimberly McLeod<br>
 Publisher:  Page Street Publishing
 
 Transform paper rolls, egg cartons, newspaper and cardboard into colorful decorations, amazing wearable masks, hats and jewelry or even sturdy desk organizers, puzzles and paint palettes. Get ready to unleash your imagination with 60 unique crafts with something for all ages.

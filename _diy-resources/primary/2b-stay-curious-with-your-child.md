@@ -16,7 +16,7 @@ _(Updated on 7 December 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | **new** [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new** [Gift Wrapping](#gift-wrapping) | **new** [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -31,6 +31,59 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
+
+
+### **Gift Wrapping**
+
+Experience the joy of gifting with your child by making present-wrapping a fun activity. Check out this simple idea together and get the wrapping started!
+
+You’ll need: 
+* Wrapping paper
+* Scissors 
+* Double-sided Tape
+* Ribbon or Bow (Optional)
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/dS0fB-wvkgI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [Cool and Simple Gift-wrapping Ideas!](https://www.youtube.com/watch?v=dS0fB-wvkgI) (25 December 2019)
+
+**Be Curious!**
+
+Read these eBooks to get into the festive spirit while spending time with your family over the holidays!
+
+
+<img src="/images/diyresources/primary/Scwyc_MerryChristmasGus.png" alt="Merry Christmas, Gus" style="width: 40%;">
+
+**Merry Christmas, Gus**
+
+By Chris Chatterson<br>
+Publisher: Pan Macmillan
+
+Gus the dog doesn't like Christmas. He doesn't like carols, or cake, or Christmas jumpers. And he certainly doesn't like mistletoe. To Gus, a tree is only good for one thing, and it's not for hanging baubles on. But can everyone's favourite grump learn to love the season of goodwill?
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/5425565](https://nlb.overdrive.com/media/5425565) 
+
+
+<img src="/images/diyresources/primary/SCWYC_FunandEasyCrafting.png" alt="Fun and Easy Crafting" style="width: 40%;">
+
+**Fun and Easy Crafting with Recycled Materials: 60 Cool Projects that Reimagine Paper Rolls, Egg Cartons, Jars and More!**
+
+By Kimberly McLeod<br>
+Publisher:  Page Street Publishing
+
+Transform paper rolls, egg cartons, newspaper and cardboard into colorful decorations, amazing wearable masks, hats and jewelry or even sturdy desk organizers, puzzles and paint palettes. Get ready to unleash your imagination with 60 unique crafts with something for all ages.
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/4530235](https://nlb.overdrive.com/media/4530235)
+
+**Tips for Parents**
+
+Raise children to be a giving generation rather than a give-me generation. Parents can encourage a spirit of generosity by letting children know when they themselves perform acts of kindness and how such actions make them feel. By doing so, parents model generosity and help children see how kindness can be practised in everyday situations. Create opportunities for children to contribute time, money and personal items so they can understand, despite their age, they too can make a difference.
+
+Source: [https://centerforparentingeducation.org/library-of-articles/indulgence-values/giving-best-gift](https://centerforparentingeducation.org/library-of-articles/indulgence-values/giving-best-gift) (Last accessed on 15 Dec 2020) 
+
+The book covers and synopses are the copyright of the respective publishing companies.
 
 
 ### **Build Your Own Balloon Powered Car**

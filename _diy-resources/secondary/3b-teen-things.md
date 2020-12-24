@@ -11,8 +11,8 @@ third_nav_title: Secondary School Resources
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10) | [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9)| [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) |
-| [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
+|[![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10)|[![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9)|[![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8)|[![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7)|[![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6)|
+|[![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5)|[![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4)|[![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3)|[![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2)|[![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1)|
 
 
 <a name="id10">![Mental Health header](/images/diyresources/secondary/tt-header-mental-health.png)</a>

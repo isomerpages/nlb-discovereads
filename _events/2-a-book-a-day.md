@@ -34,9 +34,9 @@ Parents can register their children for “A Book A Day” programme at [https:/
 
 ### **Lucky Draw Qualifying Period**
 
-![Luck Draw period image](/images/events/abookaday/abad-luckydraw_amended-scaled.jpg)
+![Luck Draw period image](/images/events/abookaday/abad-luckydraw03.jpg)
 
-Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](http://www.nlb.gov.sg/discovereads/wp-content/uploads/2019/11/A-Book-A-Day_FullTCs.pdf).
+Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](/images/events/abookaday/A Book A Day_TCs_FINAL_FULL SUMMARY_28.11.19_updated v1.pdf).
 
 ### **A Book A Day Reading Journal**
 

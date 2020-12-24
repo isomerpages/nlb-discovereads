@@ -7,15 +7,81 @@ third_nav_title: Secondary School Resources
 
 ## **Teen•Things**
 <img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
-<p style="text-align: center;"><i>(Updated on 18 December 2020)</i></p>
+<p style="text-align: center;"><i>(Updated on 23 December 2020)</i></p>
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9) | [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
-| [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
+|[![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10)|[![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9)|[![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8)|[![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7)|[![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6)|
+|[![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5)|[![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4)|[![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3)|[![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2)|[![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1)|
 
-![Think Green, Go Green header](/images/diyresources/secondary/tt-header-green.png)
-#### <a name="id9">**Think Green, Go Green!**</a>
+
+<a name="id10">![Mental Health header](/images/diyresources/secondary/tt-header-mental-health.png)</a>
+#### **Mental Health**
+
+Talking about your mental well-being and what affects you emotionally can be difficult. The library can become a valuable resource and a place of solace from everyday stressors.
+
+Working towards mental well-being starts with small steps. For example, giving yourself a break when needed.
+
+Check out our curated resources below to learn more about mental health and be inspired in your own mental health journey.
+
+<a href=""><img src="/images/diyresources/secondary/tt-mental-health-looking-book-cover.jpg" alt="Looking After Your Mental Health book cover" style="width: 40%;"></a>
+
+**Looking After Your Mental Health**<br>
+By Alice James & Louie Stowell<br>
+Call No.: Y 616.8900835 JAM<br>
+Publisher: Usborne Publishing, 2018<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg/)!)
+
+We talk about our physical health – but not so much how we’re feeling. With lots of practical advice, this lively, accessible guide explains why we have emotions, and what can influence them. Covering everything from friendships, social media and bullying to divorce, depression and eating disorders, this is an essential book for young people.
+
+Synopsis from [Usborne](https://usborne.com/).
+
+
+<a href="https://nlb.overdrive.com/media/3378108"><img src="/images/diyresources/secondary/tt-mental-health-feathers-book-cover.jpg" alt="The Thing With Feathers book cover" style="width: 40%;"></a>
+
+**The Thing with Feathers**<br>
+By McCall Hoyle<br>
+Publisher: Blink, 2017<br>
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/3378108). 
+
+Emilie Day believes in playing it safe: she’s homeschooled, her best friend is her seizure dog, and she’s probably the only girl on the Outer Banks of North Carolina who can’t swim. Then Emilie’s mom enrolls her in public school, and Emilie goes from studying at home in her pj’s to halls full of strangers. To make matters worse, Emilie is paired with starting point guard Chatham York for a major research project on Emily Dickinson. She should be ecstatic when Chatham shows interest, but she has a problem. She hasn’t told anyone about her epilepsy. Emilie lives in fear her recently adjusted meds will fail and she’ll seize at school. Eventually, the worst happens, and she must decide whether to withdraw to safety or follow a dead poet’s advice and “dwell in possibility.” 
+
+Synopsis from [Harper Collins](https://www.harpercollins.com/). 
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+
+**Relax and wind down at the end of your day**<br>
+Nothing beats a relaxing night after a long day. Be it some skincare or BuJo time, spending quality time with yourself is always great. Check out this video for some inspiration on how to build your own restful night routine. #goodvibesonly
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0lLt9iwpMLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Source: [My relaxing bedtime routine + WORKSHEET to build your own 🌙, The Bliss Bean](https://www.youtube.com/watch?v=0lLt9iwpMLA)
+
+
+##### **Here are some resources on mental health support in Singapore:**
+* **[mindline.sg](https://www.mindline.sg/)**<br>
+mindline.sg addresses the need for a trusted platform to improve the wellbeing of people in Singapore through technology. This platform directs people to sites of care and support, based on their self-reported needs and emotional states.
+
+* **[Community Health Assessment Team (CHAT)](https://www.chat.mentalhealth.sg/)**<br>
+Community Health Assessment Team (CHAT) has been helping and supporting young people with mental health concerns since 2009. CHAT is a national outreach and mental health check programme under the Institute of Mental Health (IMH).
+
+* **[Singapore Association for Mental Health (SAMH)](https://www.samhealth.org.sg/)**<br>
+Singapore Association for Mental Health (SAMH) has been uplifting lives in Singapore's mental health community since 1968. Their beneficiaries include youths, adults and seniors. 
+
+**Helplines (adapted from [The Straits Times](https://www.straitstimes.com/)):**
+* Samaritans of Singapore: 1800-221-4444
+* Singapore Association for Mental Health: 1800-283-7019
+* Institute of Mental Health's Mobile Crisis Service: 6389-2222
+* Care Corner Counselling Centre (Mandarin):1800-353-5800
+* Silver Ribbon: 6386-1928
+* Tinkle Friend: 1800-274-4788
+
+All websites were last accessed on 25 December 2020.
+
+<b><a href="#top">Back to top</a></b>
+
+
+<a name="id9">![Think Green, Go Green header](/images/diyresources/secondary/tt-header-green.png)</a>
+#### **Think Green, Go Green!**
 
 Engage with the world around you and pick up eco-friendly habits by repurposing the things you already have. Become part of a global initiative to combat climate change by making small lifestyle changes and adopting greener practices.
 

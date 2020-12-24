@@ -11,12 +11,12 @@ third_nav_title: Secondary School Resources
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10) | [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9)| [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) |
+| [![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10) | [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9)| [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) |
 | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
 
-![Mental Health header](/images/diyresources/secondary/tt-header-mental-health.png)
-#### <a name="id10">**Mental Health**</a>
+<a name="id10">![Mental Health header](/images/diyresources/secondary/tt-header-mental-health.png)</a>
+#### **Mental Health**
 
 Talking about your mental well-being and what affects you emotionally can be difficult. The library can become a valuable resource and a place of solace from everyday stressors.
 
@@ -77,9 +77,11 @@ Singapore Association for Mental Health (SAMH) has been uplifting lives in Singa
 
 All websites were last accessed on 25 December 2020.
 
+<b><a href="#top">Back to top</a></b>
 
-![Think Green, Go Green header](/images/diyresources/secondary/tt-header-green.png)
-#### <a name="id9">**Think Green, Go Green!**</a>
+
+<a name="id9">![Think Green, Go Green header](/images/diyresources/secondary/tt-header-green.png)</a>
+#### **Think Green, Go Green!**
 
 Engage with the world around you and pick up eco-friendly habits by repurposing the things you already have. Become part of a global initiative to combat climate change by making small lifestyle changes and adopting greener practices.
 

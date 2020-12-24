@@ -11,20 +11,21 @@ third_nav_title: Secondary School Resources
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10) | [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9) | [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) || [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
+| [![Mental Health](/images/diyresources/secondary/ttb-mental-health.png)](#id10) | [![Think Green, Go Green!](/images/diyresources/secondary/ttb-think-green.png)](#id9) |
+| [![Cooking Mac & Cheese](/images/diyresources/secondary/ttb-mac-cheese.png)](#id8) | [![Escape rooms online](/images/diyresources/secondary/ttb-escape-rooms.png)](#id7) | [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
+| [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
 
 #### <a name="id10">**Mental Health**</a>
 ![Mental Health header](/images/diyresources/secondary/tt-header-mental-health.png)
-Check out our curated resources below to learn more about mental health and be inspired in your own mental health journey.
 
 Talking about your mental well-being and what affects you emotionally can be difficult. The library can become a valuable resource and a place of solace from everyday stressors.
 
 Working towards mental well-being starts with small steps. For example, giving yourself a break when needed.
 
-Check out these resources to learn about managing your mental well-being.
+Check out our curated resources below to learn more about mental health and be inspired in your own mental health journey.
 
-<a href=""><img src="/images/diyresources/secondary/tt-mental-health-looking-book-cover.jpg" alt="Looking After Your Mental Health book cover" style="width: 30%;"></a>
+<a href=""><img src="/images/diyresources/secondary/tt-mental-health-looking-book-cover.jpg" alt="Looking After Your Mental Health book cover" style="width: 40%;"></a>
 
 **Looking After Your Mental Health**<br>
 By Alice James & Louie Stowell<br>
@@ -51,14 +52,14 @@ Synopsis from [Harper Collins](https://www.harpercollins.com/). 
 The book covers and synopses are the copyright of the respective publishing companies.
 
 
-**Relax and wind down at the end of your dayNothing beats a relaxing night after a long day.**<br>
-Be it some skincare or BuJo time, spending quality time with yourself is always great. Check out this video for some inspiration on how to build your own restful night routine. #goodvibesonly
+**Relax and wind down at the end of your day**<br>
+Nothing beats a relaxing night after a long day. Be it some skincare or BuJo time, spending quality time with yourself is always great. Check out this video for some inspiration on how to build your own restful night routine. #goodvibesonly
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0lLt9iwpMLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 Source: [My relaxing bedtime routine + WORKSHEET to build your own 🌙, The Bliss Bean](https://www.youtube.com/watch?v=0lLt9iwpMLA)
 
 
 ##### **Here are some resources on mental health support in Singapore:**
-* **[mindline.sg](https://www.mindline.sg/)**
+* **[mindline.sg](https://www.mindline.sg/)**<br>
 mindline.sg addresses the need for a trusted platform to improve the wellbeing of people in Singapore through technology. This platform directs people to sites of care and support, based on their self-reported needs and emotional states.
 
 * **[Community Health Assessment Team (CHAT)](https://www.chat.mentalhealth.sg/)**<br>

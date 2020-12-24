@@ -25,6 +25,12 @@ sections:
             - title: Teens TakeOver
               description:
               url: /services/programmes/teenstakeover
+   - infobar:
+        title: Book Bugs: Explorers of Stories Past
+        subtitle:
+        description: Welcome to Book Bugs: Explorers of Stories Past! Are you ready for an adventure?
+        button: Find out more!
+        url: /events/bookbugsx/
     - infobar:
         title: Resources for Parents & Educators
         subtitle:

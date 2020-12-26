@@ -16,7 +16,7 @@ _(Updated on 7 December 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | **new** [Gift Wrapping](#gift-wrapping) | **new** [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new** [DIY Laser Maze](#DIY-Laser-Maze) | **new** [Gift Wrapping](#gift-wrapping) | **new** [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -31,6 +31,55 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
+
+
+### **DIY Laser Maze**
+
+Wondering what to do on a rainy day at home? Fret not! Get the whole family moving with this laser maze challenge.
+
+You’ll need: 
+* Masking tape (Or other wall-safe adhesive)
+* Crepe papers (also known as streamers), ribbons or strings
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=AvMHYWCQ6Jc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Source: [DIY Laser Maze]( https://www.youtube.com/watch?v=AvMHYWCQ6Jc) (31 March 2020)
+
+**Be Curious!**
+
+Read these eBooks for more energy-busting indoor games & activities!
+
+
+<img src="/images/diyresources/primary/Unplugged-Play.jpg" alt="Unplugged Play" style="width: 40%;">
+
+**Unplugged Play: Grade School 244 Activities & Games for Ages 6-10**
+
+by Bobbi Conner<br>
+Publisher: Workman Publishing Company
+
+There are more than 200 screen-free games and activities to help kids enjoy the wholesome, old-fashioned experience of playing creatively and freely without technology. There are outdoor games and indoor games, games to play solo and games to play with others.
+This book is available on Overdrive at: 
+[https://nlb.overdrive.com/media/4906061]( https://nlb.overdrive.com/media/4906061) 
+
+
+<img src="/images/diyresources/primary/Big-book-for-family-games.jpg" alt="Big Book for Family Games" style="width: 40%;">
+
+**Big Book of Family Games:101 Original Family & Group Games that Don't Need Charging**
+
+By Brad Berger<br>
+Publisher:  Familius
+
+Bring family and friends together for hours of entertainment and real social interaction. This travel-friendly book guarantees hours of engaging entertainment with 101 original, rigorously tested games that challenge each player's ability to strategize, bluff, read minds, memorize, think quickly, solve puzzles, and more.
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/4755050]( https://nlb.overdrive.com/media/4755050)
+
+**Tips for Parents**
+
+To manage your child’s screen time, consider stopping all screen use one hour before bedtime. This allows your child’s sleep hormone (melatonin) to rise naturally. It also gives you time to do a bedtime routine with your child to promote parent-child bonding. You can offer fun alternatives, such as reading and storytelling, jigsaw puzzles or family board games.
+Source: [: https://www.singhealth.com.sg/news/patient-care/tips-on-cultivating-healthy-screen-use-habits-for-parents-and-children]( : https://www.singhealth.com.sg/news/patient-care/tips-on-cultivating-healthy-screen-use-habits-for-parents-and-children) (Last accessed on 12 Dec 2020) 
+
+The book covers and synopses are the copyright of the respective publishing companies.
 
 
 ### **Gift Wrapping**

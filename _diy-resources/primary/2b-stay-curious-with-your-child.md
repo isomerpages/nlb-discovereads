@@ -42,7 +42,7 @@ You’ll need:
 * Crepe papers (also known as streamers), ribbons or strings
 Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AvMHYWCQ6Jc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AvMHYWCQ6Jc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [DIY Laser Maze]( https://www.youtube.com/watch?v=AvMHYWCQ6Jc) (31 March 2020)
 

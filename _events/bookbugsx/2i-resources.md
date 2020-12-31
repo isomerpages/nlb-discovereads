@@ -19,15 +19,13 @@ Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noop
 
 
 ### Printables
-Done with our quizzes and want more Book Bugs-related activities? We upload printable activities monthly!
+Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys for the previous month will also be uploaded when we upload new activities.
 
 **December 2020**
 
 This month, we have word search puzzles in all four languages. Do the words remind you of any story? Click on the images below to download the printable sheets!
 
 P.S. You can colour in the illustrations at the bottom of the sheet.
-
-P.P.S. The answer key will be uploaded next month.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|

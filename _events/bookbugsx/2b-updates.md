@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-#### 14 December 2020
+#### 21 December 2020
 [<img src="/images/events/bookbugsx/1 Jan Update.png" alt="Quiz Update" style="width: 100%" align="left">](/events/bookbugsx/quiz/)
 
 #### 14 December 2020

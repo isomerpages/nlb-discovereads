@@ -21,7 +21,23 @@ Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noop
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys for the previous month will also be uploaded when we upload new activities.
 
+**January 2021**
+
+This month, we have madlibs in all four languages! Make up your won story by choosing a list of words and inserting the words in the passages we have provided. What kind of story will you come up with? Click on the images below to download the printable sheets!
+
+P.S. You can colour in the illustrations at the bottom of the sheet.
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Tamil.png" alt="Tamil-English Madlibs"></a>|
+
+Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
+
+<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 40%" align="left"></a>
+
 **December 2020**
+
+*Click [here](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Answer Key.pdf) for the answers to the December 2020 word search puzzles.*
 
 This month, we have word search puzzles in all four languages. Do the words remind you of any story? Click on the images below to download the printable sheets!
 

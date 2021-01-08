@@ -33,7 +33,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
 
-|<a href="/images/events/bookbugsx/files/NLB BBX Magical Forests Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 40%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/NLB BBX Magical Forests Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
 **December 2020**
 

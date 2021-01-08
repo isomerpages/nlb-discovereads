@@ -23,7 +23,7 @@ Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related 
 
 **January 2021**
 
-This month, we have madlibs in all four languages! Make up your won story by choosing a list of words and inserting the words in the passages we have provided. What kind of story will you come up with? Click on the images below to download the printable sheets!
+This month, we have madlibs in all four languages! Make up your own story by choosing a list of words and inserting the words in the passages we have provided. What kind of story will you come up with? Click on the images below to download the printable sheets!
 
 P.S. You can colour in the illustrations at the bottom of the sheet.
 

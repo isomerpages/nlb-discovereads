@@ -31,9 +31,8 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 |:---:|:---:|:---:|
 |<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Tamil.png" alt="Tamil-English Madlibs"></a>|
 
-Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
-
-<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 40%" align="left"></a>
+|Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.|
+|<a href="/images/events/bookbugsx/files/NLB BBX Magical Forests Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 40%" align="left"></a>|
 
 **December 2020**
 

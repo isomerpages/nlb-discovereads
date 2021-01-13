@@ -481,7 +481,7 @@ Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide 
 
 <b><a href="#top">Back to top</a></b>
 
-
+<img src="/images/diyresources/secondary/TTDIYRoomDecorBanner.png" alt="DIY Room Decor" style="width: 80%;"></a>
 #### <a name="id4">**DIY Room Décor**</a>
 
 Give your room an instant makeover – create a personalized photo wall collage with your favourite things and memories that will bring you joy!
@@ -535,7 +535,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <b><a href="#top">Back to top</a></b>
 
-
+<img src="/images/diyresources/secondary/TTScienceBanner.png" alt="Science Exploration" style="width: 80%;"></a>
 #### <a name="id3">**Science Exploration**</a>
 
 “Grow” your unique rock candy and wonder at the process of crystallization. Not only is this a fun experiment but the result is also tasty!
@@ -596,7 +596,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <b><a href="#top">Back to top</a></b>
 
-
+<img src="/images/diyresources/secondary/TTPastaBanner.png" alt="Cooking Pasta" style="width: 80%;"></a>
 #### <a name="id2">**Cooking Pasta**</a>
 
 Whip up this classic Italian dish with minimal fuss anytime! Snap a photo and wow your friends with your own creation of pasta Alfredo using simple ingredients.
@@ -652,7 +652,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <b><a href="#top">Back to top</a></b>
 
-
+<img src="/images/diyresources/secondary/TTGramBanner.png" alt="Cooking Pasta" style="width: 80%;"></a>
 #### <a name="id1">**For the ‘Gram**</a>
 
 Level up your Instagram posts! Watch this video to learn 10 simple tricks to make your stories stand out.

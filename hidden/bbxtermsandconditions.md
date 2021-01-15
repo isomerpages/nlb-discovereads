@@ -7,9 +7,9 @@ breadcrumb: Book Bugs Explorers of Stories Past T&Cs
 #### Terms and Conditions
 
 * Only individual memberships are eligible to participate in this promotion. The following membership types are excluded:
-  1. DEAR organisations; 
-  2. DIYREAD@Community; 
-  3. Institutional Borrowers; 
+  1. DEAR Organisations; 
+  2. DIYREAD@Community; 
+  3. Institutional Borrowers; 
 * “Physical book” refers to any physical library material, including magazines and audiovisual materials.
 * “eBook” refers to eBooks, eMagazines and eAudiobooks borrowed via one of these websites or apps 
   1. NLB Mobile app; 

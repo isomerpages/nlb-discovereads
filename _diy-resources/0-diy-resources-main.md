@@ -15,7 +15,7 @@ Looking for D.I.Y. resources to foster the love of reading and learning at home 
 | Resources for Preschool Students | Holiday Specials with Librarians |
 | [![Preschool resources image](/images/diyresources/dR_preschool.png)](/diy-resources/preschool/preschool-main) | [![Holiday specials image](/images/diyresources/dR-Holiday-Preschool.png)](/diy-resources/preschool/preschool-holiday-special) |
 | Resources for Primary School Students | eBook recommendations(Primary) |
-| [![Primary resources image](/images/diyresources/dR_primary-school-resources.png)](/diy-resources/primary) | [![Primary ebook recommendations image](/images/diyresources/dR_primary-ebooks.png)](/ebooks/primary/) |
+| [![Primary resources image](/images/diyresources/dR_primary-school-resources.png)](/diy-resources/primary/primary-main) | [![Primary ebook recommendations image](/images/diyresources/dR_primary-ebooks.png)](/ebooks/primary/) |
 | Resources for Secondary School Students | eBook Recommendations(Secondary) |
 | [![Secondary resources image](/images/diyresources/dR_secondary-school-resources.png)](/diy-resources/secondary/secondary-main) | [![Secondary ebook recommendations image](/images/diyresources/dR_secondary-ebooks.png)](/ebooks/secondary/) |
 | Information Literacy Resources |

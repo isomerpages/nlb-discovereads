@@ -217,5 +217,5 @@ P4 – P6
 | Activity Sheet | SURE-vivor Booklet |
 | <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.pdf"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
-For more great information literacy resources, click [here](services/other-services/sure)!
+For more great information literacy resources, click [here](/services/other-services/sure)!
 

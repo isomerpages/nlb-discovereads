@@ -8,8 +8,10 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired by local and regional folktale and trivia? Scroll down to find out what served as the inspiration for each Bug! If you want to read the stories that inspired our Bugs, refer to the book list on our [Resources page](/events/bookbugsx/resources). You will find that some popular folktales and fairy tales, such as Cinderella and Little Red Riding Hood, actually have their Asian equivalents too!
 
+[<img src="/images/events/bookbugsx/Button_Forests.png" alt="Digital Resources" style="width: 25%" align="left">](#magical-forests)[<img src="/images/events/bookbugsx/Button_Seas.png" alt="Printables" style="width: 25%" align="left">](#mysterious-seas)[<img src="/images/events/bookbugsx/Button_Mountains.png" alt="Book Lists" style="width: 25%" align="left">](#mystical-mountains)[<img src="/images/events/bookbugsx/Button_Homes.png" alt="Useful Links" style="width: 25%" align="left">](#marvellous-homes)
+
 #### Magical Forests
-<img src="/images/events/bookbugsx/Bug List_lowres.png" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/Bug List Names.jpg" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name |Inspired by|
 |:---:| :----| :--- |
@@ -34,7 +36,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 | 19 | Springy | Sembawang Hot Springs |
 | 20 | Tattler | The Rajah's Big Ears |
 | 21 | Thorn | The Magic Needle (Turkish Sleeping Beauty)
-| 22 | Thumb-rex | Issun Bôshi (Japanese One-inch Boy) |
+| 22 | Thumb-rex | Issun Bôshi (Japanese One-inch Boy) |
 | 23 | Cawkerel | Rooster from the story of Hou Yi |
 | 24 | Ssswallow | Green snake from Madame White Snake |
 | 25 | Ssswell | White snake from Madame White Snake |

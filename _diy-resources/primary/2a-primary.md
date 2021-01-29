@@ -190,7 +190,7 @@ Topics covered include:
 **The Parents’ Welcome Kit: Ride of a Lifetime**
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-lifetime-thumb.png" alt="Parents welcome kit image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.pdf"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 50%;"></a>
 
 **Tips to Get Your Kid Reading**
 This video is part of a series on parenting tips during home-based learning, brought to you by the Office of Education Research, NIE NTU, Singapore
@@ -217,5 +217,5 @@ P4 – P6
 | Activity Sheet | SURE-vivor Booklet |
 | <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.pdf"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
-For more great information literacy resources, click [here](services/other-services/sure)!
+For more great information literacy resources, click [here](/services/other-services/sure)!
 

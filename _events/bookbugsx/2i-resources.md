@@ -19,7 +19,7 @@ Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noop
 
 
 ### Printables
-Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys for the previous month will also be uploaded when we upload new activities.
+Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
 **January 2021**
 

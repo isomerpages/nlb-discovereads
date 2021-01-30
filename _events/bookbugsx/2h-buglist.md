@@ -10,6 +10,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 
 [<img src="/images/events/bookbugsx/Button_Forests.png" alt="Digital Resources" style="width: 25%" align="left">](#magical-forests)[<img src="/images/events/bookbugsx/Button_Seas.png" alt="Printables" style="width: 25%" align="left">](#mysterious-seas)[<img src="/images/events/bookbugsx/Button_Mountains.png" alt="Book Lists" style="width: 25%" align="left">](#mystical-mountains)[<img src="/images/events/bookbugsx/Button_Homes.png" alt="Useful Links" style="width: 25%" align="left">](#marvellous-homes)
 
+
 #### Magical Forests
 
 <img src="/images/events/bookbugsx/Bug List Names.jpg" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">

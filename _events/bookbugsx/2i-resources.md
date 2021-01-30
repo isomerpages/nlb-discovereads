@@ -50,7 +50,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 ### Book Lists
 Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug! Click on the title of each book to find out where you can borrow a copy.
 
-|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) |  |  |
+|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) | Mystical Mountains (Coming soon!) | Marvellous Homes (Coming soon!) |
 
 <a name="MFbooks"></a>
 **Magical Forests**

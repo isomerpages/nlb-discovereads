@@ -10,7 +10,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NXwiyBNCeec?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-| [Introduction](#introduction) | [Comic 1](#Comic-1---released-on-7-december-2020) | [Comic 2](#Comic-2---released-on-1-February-2021) | [Comic 3](#Comic-3---to-be-released-in-april-2021) | [Comic 4](#Comic-4---to-be-released-in-june-2021) |
+| [Introduction](#introduction) | [Comic 1](#comic-1---released-on-7-december-2020) | [Comic 2](#comic-2---released-on-1-february-2021) | [Comic 3](#comic-3---to-be-released-in-april-2021) | [Comic 4](#Comic-4---to-be-released-in-june-2021) |
 
 #### Introduction
 

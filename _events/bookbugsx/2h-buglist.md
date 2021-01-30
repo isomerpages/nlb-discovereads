@@ -69,7 +69,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 |:---:| :----| :--- |
 | 45 | Aqua-Leo | Merlion |
 | 46 | Bugdang | Badang |
-| 47 | Systerus | Sisters' Island |
+| 47 | Systerus | Sisters' Islands |
 | 48 | Floramagus | He Xian Gu from the Eight Immortals |
 | 49 | Tango | Si Tanggang (tale of the Ungrateful Son) |
 | 50 | Pincers | The Crane and the Crab |

@@ -21,6 +21,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 #### Comic 2 - To be released in February 2021
 
-
 ![Book Bugs: Explorers of Stories Past Comic 2 page 1](/images/events/bookbugsx/Comic 2_1.png/)
 ![Book Bugs: Explorers of Stories Past Comic 2 page 2](/images/events/bookbugsx/Comic 2_2.png/)
+
+#### Comic 3 - To be released in April 2021

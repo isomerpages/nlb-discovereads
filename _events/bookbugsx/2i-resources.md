@@ -115,8 +115,8 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 50 | Pincers | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?optionsDrop=Full+Catalogue&ENTRY=The+Crane+and+the+Crab+Nathan&ENTRY_NAME=BS&ENTRY_TYPE=K&SORTS=SQL_REL_BIB&GQ=&ISGLB=0&NRECS=20&QRY=&QRYTEXT=&FORCESORT=1" target="_blank" rel="noopener noreferrer">The Crane and the Crab</a> | S.R. Nathan |	Singapore: Epigram Books, 2013. |	English J SING NAT (also available in Chinese, Malay and Tamil under other call numbers) |
 | 51 | Buoyser | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202482249" target="_blank" rel="noopener noreferrer">Island of Legends</a> | Don Bosco | Singapore: Marshall Cavendish International (Asia) Pte Ltd., 2016. | English J SING 398.2095957 BOS -[FOL] |
 | 52 | Karpi | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201486783" target="_blank" rel="noopener noreferrer">鲤鱼跳龙门</a> |	赵芳芳 |	合肥市 : 安徽少年儿童出版社, 2015.	| Chinese JP ZFF -[HAN] |
-| 53 | Blueblood | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202371870" target="_blank" rel="noopener noreferrer">Pangolin</a> | Abdullah Basmeh | Singapore: Pustaka Nasional, 2015. | English J SING ABD |
-| 54 | Brella | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14699832" target="_blank" rel="noopener noreferrer">Little Frog/குட்டித் தவளை</a> |	Rañcitam Pāl |	Chennai: Tulika Publishers, 2012. | Tamil JP RAN |
+| 53 | Blueblood | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202371870" target="_blank" rel="noopener noreferrer">Singapura Rejoices</a> | Abdullah Basmeh | Singapore: Pustaka Nasional, 2015. | English J SING ABD |
+| 54 | Brella | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14699832" target="_blank" rel="noopener noreferrer">Little Frog/குட்டித் தவளை</a> |	Rañcitam Pāl |	Chennai: Tulika Publishers, 2012. | Tamil JP RAN |
 
 ### Useful Links
 

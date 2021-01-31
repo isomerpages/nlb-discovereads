@@ -24,7 +24,7 @@ P.S. When you're done with the quizzes and want more Book Bugs-related activitie
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSlZN9DajO77fFbxmrn-KPj8mL0tIamuoLOR03mst8flYP3A/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeSbDZlLVYt_FoUstzMM8oQI5yEJFB26dN6zeFQkxmoFoEDcQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
 
-#### Jan 2021 - Badang
+#### Jan 2021 - Badang (CLOSED)
 
 This quiz has now closed. Points will be awarded by 5 February 2021, Friday. All entries received after 31 January 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 

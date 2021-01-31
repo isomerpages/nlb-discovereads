@@ -6,6 +6,9 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
+#### 1 Feb 2021
+[<img src="/images/events/bookbugsx/1 Feb 2021 Update.png" alt="Mysterious Seas Cards released" style="width: 100%" align="left">](/events/bookbugsx/story/)
+
 #### 1 Jan 2021
 [<img src="/images/events/bookbugsx/1 Jan Update.png" alt="Quiz Update" style="width: 100%" align="left">](/events/bookbugsx/quiz/)
 

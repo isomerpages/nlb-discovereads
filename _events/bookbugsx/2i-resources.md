@@ -50,11 +50,14 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 ### Book Lists
 Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug! Click on the title of each book to find out where you can borrow a copy.
 
+|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) | Mystical Mountains (Coming soon!) | Marvellous Homes (Coming soon!) |
+
+<a name="MFbooks"></a>
 **Magical Forests**
 
 |Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
 |:---:| :----| :--- | :----| :--- | :----| 
-| 01 | Bari | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200125144" target="_blank" rel="noopener noreferrer">The Cap Seller and the Monkeys/குல்லாய் வியாபாரியும் குரங்குகளும்</a> |Radha Krishna Pillai | Hyderabad: EMESCO Books for Children's Literature Materials Bank, 2012. | Tamil JP KUL |
+| 01 | Bari | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200125144" target="_blank" rel="noopener noreferrer">The Cap Seller and the Monkeys/குல்லாய் வியாபாரியும் குரங்குகளும்</a> | Radha Krishna Pillai | Hyderabad: EMESCO Books for Children's Literature Materials Bank, 2012. | Tamil JP KUL |
 | 02 | Billy Wings | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200149517" target="_blank" rel="noopener noreferrer">Birds</a> | Brenda Williams | London: Tick Tock, 2013. |	English J 598 WIL |
 | 03 | Bucky | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200189099" target="_blank" rel="noopener noreferrer">More Japanese Children's Favorite Stories</a>	| Florence Sakade	| Tokyo: Tuttle Publishing, 2013. |	English J 398.2 SAK -[FOL] |
 | 04 | Foxy Roxy | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200139972" target="_blank" rel="noopener noreferrer">Chinese Fables: The Dragon Slayer and Other Timeless Tales of Wisdom</a>	| Shiho S. Nunes |	Vermont: Tuttle Publishing, 2013. |	English J 398.20951 NUN -[FOL] |
@@ -99,6 +102,21 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 43 | Toothy | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=7703943" target="_blank" rel="noopener noreferrer">Kancil and the Crocodiles</a> |	Noreha Yussof Day |	New York: Simon & Schuster Books for Young Readers, 1996. |	English JP 398.2 DAY -[FOL] |
 | 44 | Many-eyes | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12613561" target="_blank" rel="noopener noreferrer">ஈச்சா பூச்சா</a>	| Kala Sashikumar	| Chennai: Tulika Publishers, 2004.	| Tamil JP SAS |
 
+<a name="MSbooks"></a>
+**Mysterious Seas**
+
+|Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
+|:---:| :----| :--- | :----| :--- | :----| 
+| 45 | Aqua-Leo | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202482249" target="_blank" rel="noopener noreferrer">Island of Legends</a> | Don Bosco | Singapore: Marshall Cavendish International (Asia) Pte Ltd., 2016. | English J SING 398.2095957 BOS -[FOL] |
+| 46 | Bugdang  | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202371876" target="_blank" rel="noopener noreferrer">Badang the Mighty Warrior</a> | Abdullah Basmeh | Singapore: Pustaka Nasional, 2015. |	English J SING ABD |
+| 47 | Systerus | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13736785" target="_blank" rel="noopener noreferrer">Sisters' Islands</a>	| Mohamad Salmi	| Selangor: MPH Pub., 2010. |	English J 398.2 MOH -[FOL] |
+| 48 | Floramagus | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202983663" target="_blank" rel="noopener noreferrer">八仙过海/Eight Immortals Cross the Sea </a>	| 酱油熊编著；安芳译 |	北京市: 中国画报出版社, 2017. |	Chinese JP JYX -[BIL] |
+| 49 | Tango | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201056675" target="_blank" rel="noopener noreferrer">Tanggang Derhaka</a>	| Nir Shahmer	| Selangor: Kiddibird, 2012. | Malay JP 398.2 NIR -[FOL] |
+| 50 | Pincers | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?optionsDrop=Full+Catalogue&ENTRY=The+Crane+and+the+Crab+Nathan&ENTRY_NAME=BS&ENTRY_TYPE=K&SORTS=SQL_REL_BIB&GQ=&ISGLB=0&NRECS=20&QRY=&QRYTEXT=&FORCESORT=1" target="_blank" rel="noopener noreferrer">The Crane and the Crab</a> | S.R. Nathan |	Singapore: Epigram Books, 2013. |	English J SING NAT (also available in Chinese, Malay and Tamil under other call numbers) |
+| 51 | Buoyser | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202482249" target="_blank" rel="noopener noreferrer">Island of Legends</a> | Don Bosco | Singapore: Marshall Cavendish International (Asia) Pte Ltd., 2016. | English J SING 398.2095957 BOS -[FOL] |
+| 52 | Karpi | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201486783" target="_blank" rel="noopener noreferrer">鲤鱼跳龙门</a> |	赵芳芳 |	合肥市 : 安徽少年儿童出版社, 2015.	| Chinese JP ZFF -[HAN] |
+| 53 | Blueblood | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202371870" target="_blank" rel="noopener noreferrer">Singapura Rejoices</a> | Abdullah Basmeh | Singapore: Pustaka Nasional, 2015. | English J SING ABD |
+| 54 | Brella | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14699832" target="_blank" rel="noopener noreferrer">Little Frog/குட்டித் தவளை</a> |	Rañcitam Pāl |	Chennai: Tulika Publishers, 2012. | Tamil JP RAN |
 
 ### Useful Links
 

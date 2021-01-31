@@ -10,7 +10,9 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 
 [<img src="/images/events/bookbugsx/Button_Forests.png" alt="Digital Resources" style="width: 25%" align="left">](#magical-forests)[<img src="/images/events/bookbugsx/Button_Seas.png" alt="Printables" style="width: 25%" align="left">](#mysterious-seas)[<img src="/images/events/bookbugsx/Button_Mountains.png" alt="Book Lists" style="width: 25%" align="left">](#mystical-mountains)[<img src="/images/events/bookbugsx/Button_Homes.png" alt="Useful Links" style="width: 25%" align="left">](#marvellous-homes)
 
+
 #### Magical Forests
+
 <img src="/images/events/bookbugsx/Bug List Names.jpg" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name |Inspired by|
@@ -62,7 +64,20 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 
 #### Mysterious Seas
 
-<img src="/images/events/bookbugsx/hatching soon_Seas.png" alt="Mysterious Seas Hatching Soon in February 2021" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/Bug List Seas.png" alt="List of Mysterious Seas Bugs" style="width: 100%" align="centre">
+
+|Bug number|Bug Name |Inspired by|
+|:---:| :----| :--- |
+| 45 | Aqua-Leo | Merlion |
+| 46 | Bugdang | Badang |
+| 47 | Systerus | Sisters' Islands |
+| 48 | Floramagus | He Xian Gu from the Eight Immortals |
+| 49 | Tango | Si Tanggang (tale of the Ungrateful Son) |
+| 50 | Pincers | The Crane and the Crab |
+| 51 | Buoyser | Kusu Island |
+| 52 | Karpi | Carp (fish from Chinese mythology) |
+| 53 | Blueblood | Sang Nila Utama |
+| 54 | Brella | Frog from Tamil folktales |
 
 #### Mystical Mountains
 

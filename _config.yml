@@ -2,6 +2,9 @@ title: NLB Children & Teens Services
 url: "https://childrenandteens.nlb.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
+# Analytics
+google_analytics: UA-50449401-23
+
 # Site colors
 colors:
   primary-color: '#6031b6'

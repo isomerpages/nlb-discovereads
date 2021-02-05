@@ -24,7 +24,7 @@ Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noop
 
 **Phone Wallpapers**
 
-Love how our Bugs look and want them on your phone all the time? We've prepared phone wallpapers just for you! Click on the image you want to download it!
+Love how our Bugs look and want them on your phone all the time? We've prepared phone wallpapers just for you! Click on the image you want to download it.
 
 
 |Aqua-Leo|Atlanta|Brella|Bugdang|Deerwan|

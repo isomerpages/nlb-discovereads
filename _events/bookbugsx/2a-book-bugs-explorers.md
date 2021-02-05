@@ -11,7 +11,13 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 <img src="/images/events/bookbugsx/Book Bugs Banner_Seas.png" alt="Your journey is just beginning" style="width: 100%">
 
-Welcome to Book Bugs: Explorers of Stories Past! Are you ready for an adventure? Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
+Welcome to Book Bugs: Explorers of Stories Past! Your adventure is just beginning! Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
+
+In the past 2 months, you've gained wisdom from all the bugs residing in the Magical Forests. Now facing the Mysterious Seas, you'll find yourself searching for the secrets the waves are hiding. 10 new bugs to discover, go on! 
+
+Oh, you say you've still not yet encountered all the 44 Magical Forests bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
+
+Need to track your adventure? Use page 32-33 in the Bug-o-pedia to help you! You'll find in it other tips to help you in your journey.
 
 P.S. Want the latest Bug news? Go to Tattler's Updates page using the button above or the navigation bar!
 

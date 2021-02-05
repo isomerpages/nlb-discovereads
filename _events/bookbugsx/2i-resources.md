@@ -55,9 +55,9 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 |:---:|:---:|:---:|
 |<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Chinese.png" alt="Chinese-English Crossword"></a>|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Malay.png" alt="Malay-English Crossword"></a>|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Tamil.png" alt="Tamil-English Crossword"></a>|
 
-Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
+Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mysterious Seas, that you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
 
-|<a href="/images/events/bookbugsx/files/NLB BBX Magical Forests Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/NLB BBX Mysterious Seas Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mysterious Seas Colouring Page A4.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
 <a name="Jan"></a>
 **January 2021**

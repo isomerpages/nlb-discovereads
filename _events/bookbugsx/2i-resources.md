@@ -47,7 +47,7 @@ Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related 
 <a name="Feb"></a>
 **February 2021**
 
-This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? P.S. You can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
+This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? Don't forget, if you're ever stuck, you can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
 
 P.S. You can colour in the illustrations at the bottom of the sheet.
 

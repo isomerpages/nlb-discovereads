@@ -11,7 +11,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 <img src="/images/events/bookbugsx/Book Bugs Banner_Seas.png" alt="Your journey is just beginning" style="width: 100%">
 
-Welcome to Book Bugs: Explorers of Stories Past! Your adventure is just beginning! Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
+Welcome to Book Bugs: Explorers of Stories Past! Your adventure is just beginning. Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
 
 In the past 2 months, you've gained wisdom from all the bugs residing in the Magical Forests. Now facing the Mysterious Seas, you'll find yourself searching for the secrets the waves are hiding. 10 new bugs to discover, go on! 
 

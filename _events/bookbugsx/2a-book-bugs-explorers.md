@@ -15,7 +15,7 @@ Welcome to Book Bugs: Explorers of Stories Past! Your adventure is just beginnin
 
 In the past 2 months, you've gained wisdom from all the bugs residing in the Magical Forests. Now, facing the Mysterious Seas, you'll find yourself searching for the secrets hidden amongst the waves. 10 new bugs to discover, go on! 
 
-Oh, did you say you still have not encountered all the 44 Magical Forests bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
+Oh, did you say you still have not encountered all 44 Magical Forests Bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
 
 Need to track your adventure? Use page 32-33 in the Bug-o-pedia to help you! You'll find in it other tips to help you in your journey.
 

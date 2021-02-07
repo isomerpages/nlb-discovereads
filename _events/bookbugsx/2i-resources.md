@@ -11,16 +11,55 @@ Welcome to our resources page! Click on the buttons below to navigate the page.
 [<img src="/images/events/bookbugsx/Resources_Digital.png" alt="Digital Resources" style="width: 25%" align="left">](#digital-resources)[<img src="/images/events/bookbugsx/Resources_Printables.png" alt="Printables" style="width: 25%" align="left">](#printables)[<img src="/images/events/bookbugsx/Resources_Book Lists.png" alt="Book Lists" style="width: 25%" align="left">](#book-lists)[<img src="/images/events/bookbugsx/Resources_Links.png" alt="Useful Links" style="width: 25%" align="left">](#useful-links)
 
 ### Digital Resources
+
+**Stickers**
+
 You can now use our Book Bugs stickers!
+
+*Stickers were updated in Feb 2021, so re-download them to get the updated sticker pack!*
 
 |<img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 50%" align="left">|
 
-Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noopener noreferrer">Whatsapp</a> and <a href="https://t.me/addstickers/BookBugs" target="_blank" rel="noopener noreferrer">Telegram</a>.
+Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noopener noreferrer">WhatsApp</a> and <a href="https://t.me/addstickers/BookBugs" target="_blank" rel="noopener noreferrer">Telegram</a>.
 
+**Phone Wallpapers**
+
+Love how our Bugs look and want them on your phone all the time? We've prepared phone wallpapers just for you! Click on the image you want to download.
+
+
+|Aqua-Leo|Atlanta|Brella|Bugdang|Deerwan|
+|:---:|:---:|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/BBX phone wallpapers_Aqua-Leo.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Aqua-Leo lowres.jpeg" alt="Aqua-Leo wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Atlanta.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Atlanta lowres.jpeg" alt="Atlanta wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Brella.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Brella lowres.jpeg" alt="Brella wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Bugdang.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Bugdang lowres.jpeg" alt="Bugdang wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Deerwan.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Deerwan lowres.jpeg" alt="Deerwan wallpaper"></a>|
+
+|Dranoble|Floramagus|Foxy Roxy|Karpi|Lil' Deer|
+|:---:|:---:|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/BBX phone wallpapers_Dranoble.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Dranoble lowres.jpeg" alt="Dranoble wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Floramagus.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Floramagus lowres.jpeg" alt="Floramagus wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Foxy Roxy.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Foxy Roxy lowres.jpeg" alt="Foxy Roxy wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Karpi.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Karpi lowres.jpeg" alt="Karpi wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Lil_ Deer.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Lil_ Deer lowres.jpeg" alt="Lil' Deer wallpaper"></a>|
+
+|Pincers|Tattler|Unidragan|Woofer|m0ng00|
+|:---:|:---:|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/BBX phone wallpapers_Pincers.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Pincers lowres.jpeg" alt="Pincers wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Tattler.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Tattler lowres.jpeg" alt="Tattler wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Unidragan.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Unidragan lowres.jpeg" alt="Unidragan wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Woofer.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Woofer lowres.jpeg" alt="Woofer wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_m0ng00.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_m0ng00 lowres.jpeg" alt="m0ng00 wallpaper"></a>|
 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
+| [December 2020](#Dec) | [January 2021](#Jan) | [February 2021](#Feb) |
+
+<a name="Feb"></a>
+**February 2021**
+
+This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? Don't forget, if you're ever stuck, you can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
+
+P.S. You can colour in the illustrations at the bottom of the sheet.
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Chinese.png" alt="Chinese-English Crossword"></a>|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Malay.png" alt="Malay-English Crossword"></a>|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Tamil.png" alt="Tamil-English Crossword"></a>|
+
+Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mysterious Seas, that you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
+
+|<a href="/images/events/bookbugsx/NLB BBX Mysterious Seas Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mysterious Seas Colouring Page A4.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
+
+<a name="Jan"></a>
 **January 2021**
 
 This month, we have madlibs in all four languages! Make up your own story by choosing a list of words and inserting the words in the passages we have provided. What kind of story will you come up with? Click on the images below to download the printable sheets!
@@ -35,6 +74,7 @@ Still can't get enough of our Book Bugs activities? Here is a bonus colouring sh
 
 |<a href="/images/events/bookbugsx/files/NLB BBX Magical Forests Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
+<a name="Dec"></a>
 **December 2020**
 
 *Click [here](/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Answer Key.pdf) for the answers to the December 2020 word search puzzles.*

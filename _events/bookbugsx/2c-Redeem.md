@@ -5,7 +5,9 @@ breadcrumb: How to Redeem
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-### Card Redemption has begun!
+### The second land, Mysterious Seas, has now been released!
+
+Cards from all Lands will be available for redemption from their release date till 30 September 2021. Don't worry if you haven't collected all the cards from each Land before the launch of the next Land - you'll have plenty of time to collect all the cards! To check out what cards are available for collection, go to our [Bug List](/events/bookbugsx/buglist).
 
 To register for myLibrary ID, click <a href="https://account.nlb.gov.sg" target="_blank" rel="noopener noreferrer">here</a>.
 

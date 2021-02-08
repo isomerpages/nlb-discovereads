@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-**We are currently facing technical issues with crediting reward points from eBook loans and are working on the matter. Sorry for the inconvenience caused.**
+**We are facing technical issues with crediting reward points for eBook loans after 5 Feb 2021 afternoon and are looking into it. Sorry for the inconvenience caused.**
 
 ### The second land, Mysterious Seas, has now been released!
 

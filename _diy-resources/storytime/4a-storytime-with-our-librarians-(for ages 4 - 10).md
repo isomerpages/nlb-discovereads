@@ -7,7 +7,7 @@ third_nav_title: Storytime
 
 ## **Storytime with Our Librarians (For ages 4 -10)**
 
-<img src="/images/diyresources/storytime_banner.png" alt="Storytime Banner" style="width: 90%;">
+<img src="/images/diyresources/storytime_banner.png" alt="Storytime Banner" style="width: 80%;">
 
 Enjoy storytelling videos anytime, anywhere!
 
@@ -26,7 +26,7 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 * Masa Bercerita: [Malay Library Services (Perkhidmatan Perpustakaan Bahasa Melayu)](https://www.facebook.com/groups/659925104348354/?fref=mentions&__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&__tn__=K-R)
 * கதை நேரம்: [Tamil Library Services (தமிழ் நூலகச் சேவைகள்)](https://www.facebook.com/groups/598526033854488/?fref=mentions&__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&__tn__=K-R)
 
-<img src="/images/diyresources/storytime_schedule.png" alt="Storytime Schedule" class="center" style="width: 80%;">
+<img src="/images/diyresources/storytime_schedule.png" alt="Storytime Schedule" class="center" style="width: 70%;">
 
 Storytelling Videos (Updated on 22 Feb 2021)
 

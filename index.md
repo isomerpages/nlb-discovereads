@@ -34,7 +34,7 @@ sections:
     - infobar:
         title: Storytime (For ages 4-10)
         subtitle:
-        description: Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages. Tune in to Public Libraries Singapore for the English sessions.
+        description: Enjoy storytelling videos anytime, anywhere! Spark your reading joy with our online storytelling videos in the four official languages. Discover fascinating tales about animals, heritage, professions and more. Remember to set your alarm so you don’t miss any wonderful videos!
         button: Stories
         url: /diy-resources/storytime/storytime-main
     - infopic:

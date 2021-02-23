@@ -20,6 +20,18 @@ _(Updated on 7 December 2020)_
 
 ### **School Holiday Specials**
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pe58gTDQJmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Craving a nice cold drink🥤 on a warm day? Jazz up your regular, ordinary beverage, with this simple recipe! Follow along as our librarian, Sarah makes Butterscotch Soda, a drink inspired by her travels into fantasy worlds. 
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BPGHU2GWMhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Add baking to your to-do list during the holidays! Get busy in the kitchen with our librarian, Keisha, as she teaches you how to make these yummy and healthy banana muffins!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/kRs8U4FrUgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Yes, it's the school holidays but you can still keep the kids fit and active💪 with these tips! Get moving with Elvina as she shows you simple exercises you can do from the comfort of your home.
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Drawing is a fun activity to do when we have to stay in.✏️ Let your children expand on their artistic abilities with our librarian, Angela, who will be showing us how we can create a nice drawing in 4 easy steps.🎨

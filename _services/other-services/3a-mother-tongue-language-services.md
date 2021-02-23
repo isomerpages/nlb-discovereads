@@ -10,7 +10,7 @@ third_nav_title: Other Services
 
 Book journals, recommended reads and book-related activities are also available in the various languages. For more information on the programmes listed here, please email the following:
 
-* Chinese Language Services: [readsingapore@nlb.gov.sg](mailto:readsingapore@nlb.gov.sg)
+* Chinese Language Services: [readchinese@nlb.gov.sg](mailto:readchinese@nlb.gov.sg)
 * Tamil Language Services: [readtamil@nlb.gov.sg](mailto:readtamil@nlb.gov.sg)
 * Malay Language Services: [readmalay@nlb.gov.sg](mailto:readmalay@nlb.gov.sg)
 

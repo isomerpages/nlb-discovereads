@@ -4,8 +4,7 @@ permalink: /diy-resources/storytime/storytime-archives-english
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
-For more videos, head to our YouTube page: [Storytime (English) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOH5LSSJs6sT6Aydgy8cnt1)
-
+**For more videos, head to our YouTube page: [Storytime (English) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOH5LSSJs6sT6Aydgy8cnt1)**
 
 ## **Past Videos - English**
 

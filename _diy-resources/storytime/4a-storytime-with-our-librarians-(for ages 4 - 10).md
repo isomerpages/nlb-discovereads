@@ -45,7 +45,7 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 
 Storytelling Videos (Updated on 22 Feb 2021)
 
-| [English](_diy-resources/storytime/4b-storytime-archives-english.md) | [Chinese](_diy-resources/storytime/4c-storytime-archives-chinese.md) | [Malay](_diy-resources/storytime/4d-storytime-archives-malay.md) | [Tamil](_diy-resources/storytime/4e-storytime-archives-tamil.md) |
+| [English](/diy-resources/storytime/storytime-archives-english) | [Chinese](/diy-resources/storytime/storytime-archives-chinese) | [Malay](/diy-resources/storytime/storytime-archives-malay) | [Tamil](/diy-resources/storytime/storytime-archives-tamil) |
 
 ### **English**
 
@@ -69,7 +69,7 @@ Storytelling Videos (Updated on 22 Feb 2021)
 **抓住大海的男孩**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlMD7LF3-Qo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-(For more videos in Chinese, click [here]())
+(For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
 
 ### **Malay**
 

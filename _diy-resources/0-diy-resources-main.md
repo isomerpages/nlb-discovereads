@@ -4,11 +4,11 @@ permalink: /diy-resources/diy-resources-main
 collection_name: diy-resources
 ---
 
-## **D.I.Y Resources**
+## **D.I.Y. Resources**
 
 Looking for D.I.Y. resources to foster the love of reading and learning at home and in school? Check out our fun printable activities, discussion worksheets, and literary resources. **New content will be uploaded regularly!**
 
-| Resouces for Parents Raising Readers | Storytime with Our Librarians (For ages 4 - 10) |
+| Resources for Parents Raising Readers | Storytime with Our Librarians (For ages 4 - 10) |
 | [![raising readers toolkit image](/images/diyresources/RAISING-READERS-TOOLKIT-BUTTON.png)](/diy-resources/primary/primary-main#engage-my-child-in-reading) | [![Storytime image](/images/diyresources/dR_storytime.png)](/diy-resources/storytime/storytime-main) |
 | Stay Curious with Your Child | Teen•Things |
 | [![Stay curious image](/images/diyresources/dR-Holiday-Primary.png)](/diy-resources/primary/stay-curious-with-your-child) | [![Teen things image](/images/diyresources/dR-Holiday-Secondary-amended.png)](/diy-resources/secondary/teen-things) |

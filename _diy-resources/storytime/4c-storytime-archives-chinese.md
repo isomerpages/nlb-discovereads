@@ -4,6 +4,7 @@ permalink: /diy-resources/storytime/storytime-archives-chinese
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
+For more videos, head to our YouTube page: [storytime (Chinese) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTN7lmmtlbh5LTEIxeCI4XjM)
 
 ## **Past Videos - Chinese**
 

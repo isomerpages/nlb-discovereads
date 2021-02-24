@@ -2,7 +2,7 @@
 layout: homepage
 title: discoveReads - NLB Children & Teens Services
 description: discoveReads - NLB Children & Teens Services
-image: /images/drlogo.png
+image: /images/discoveReadsbanner3.png
 permalink: /
 notification: 
 sections:

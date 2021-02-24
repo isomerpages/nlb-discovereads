@@ -4,14 +4,9 @@ permalink: /diy-resources/storytime/storytime-archives-english
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
+For more videos, head to our YouTube page: [Storytime (English) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOH5LSSJs6sT6Aydgy8cnt1)
 
 ## **Past Videos - English**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ffAeR6aa9yY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**16 August 2020**
-**NLB Librarian: Chen Luojia**
-**Special thanks to Hachette for permission to read “The Lion Inside” by Rachel Bright (Author) & Jim Field (Illustrator).**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0X9hjKJyx0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,20 +19,6 @@ third_nav_title: Storytime
 **8 August 2020**
 **NLB Librarian: Vidhya Rajagopal**
 **Special thanks to Ms Sheila Wee from Story Wise for the permission to read “The Gunniwolf”**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/86XcnwbMdJg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**1 August 2020**
-**NLB Librarian: Elvina Wang**
-**Special thanks to Hachette for permission to read “I Really Want That Unicorn” by Fabi Santiago (Author & Illustrator).**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gCS_de4_8dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**24 July 2020**
-**NLB Librarian: Nurul Ghali**
-**Special thanks to Hachette for permission to read “ Thank You, Mr Panda ”**
-**by Steve Anton (Author & Illustrator).**
-**Call No.: JP ANT**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6fnkqx-SOGQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

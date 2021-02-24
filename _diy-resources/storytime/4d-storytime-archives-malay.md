@@ -4,6 +4,7 @@ permalink: /diy-resources/storytime/storytime-archives-malay
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
+For more videos, head to our YouTube page: [Storytime (Malay) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTMAMABlRITusVPa3-WcvI4t)
 
 ## **Past Videos – Malay**
 

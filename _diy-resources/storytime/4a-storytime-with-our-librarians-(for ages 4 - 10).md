@@ -45,7 +45,7 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 
 Storytelling Videos (Updated on 22 Feb 2021)
 
-| [English](#English) | [Chinese](#Chinese) | [Malay](#Malay) | [Tamil](#Tamil) |
+| [English](_diy-resources/storytime/4b-storytime-archives-english.md) | [Chinese](_diy-resources/storytime/4c-storytime-archives-chinese.md) | [Malay](_diy-resources/storytime/4d-storytime-archives-malay.md) | [Tamil](_diy-resources/storytime/4e-storytime-archives-tamil.md) |
 
 ### **English**
 

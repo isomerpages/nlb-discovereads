@@ -25,11 +25,15 @@ The 3D Art Imaginarium
 Can You Build a Skyscraper?
 
 •	15 March 2021, 2pm-4pm, Tampines Regional Library
+
 •	17 March 2021, 2pm-4pm, Pasir Ris Public Library
+
 •	18 March 2021, 2pm-4pm, Queenstown Public Library
 
 Perfecting Paper Prototyping
+
 •	16 March 2021, 2pm-4pm, Serangoon Public Library
+
 •	19 March 2021, 2pm-4pm, Clementi Public Library
 
 **Tweens Tinker Sheets**

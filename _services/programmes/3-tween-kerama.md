@@ -16,13 +16,13 @@ Keep a look out at [go.gov.sg/tweenkerama-pl](www.go.gov.sg/tweenkerama-pl) for 
 
 Tweenkerama workshops will be taking place at the following libraries during the March holidays:
 
-The 3D Art Imaginarium
+<u>The 3D Art Imaginarium</u>
 
 •	17 March 2021, 2pm-4pm, Sengkang Public Library
 
 •	19 March 2021, 2pm-4pm, Ang Mo Kio Public Library
 
-Can You Build a Skyscraper?
+<u>Can You Build a Skyscraper?</u>
 
 •	15 March 2021, 2pm-4pm, Tampines Regional Library
 

@@ -30,7 +30,7 @@ Tweenkerama workshops will be taking place at the following libraries during the
 
 •	18 March 2021, 2pm-4pm, Queenstown Public Library
 
-Perfecting Paper Prototyping
+<u>Perfecting Paper Prototyping</u>
 
 •	16 March 2021, 2pm-4pm, Serangoon Public Library
 

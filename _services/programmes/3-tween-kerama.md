@@ -8,6 +8,27 @@ third_nav_title: Programmes
 
 ## **Tweenkerama**
 
+### **Tweenkerama Workshops**
+
+Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
+
+Keep a look out at [go.gov.sg/tweenkerama-pl] (http://go.gov.sg/tweenkerama-pl) for workshop registrations!
+
+Tweenkerama workshops will be taking place at the following libraries during the March holidays:
+
+The 3D Art Imaginarium
+•	17 March 2021, 2pm-4pm, Sengkang Public Library
+•	19 March 2021, 2pm-4pm, Ang Mo Kio Public Library
+
+Can You Build a Skyscraper?
+•	15 March 2021, 2pm-4pm, Tampines Regional Library
+•	17 March 2021, 2pm-4pm, Pasir Ris Public Library
+•	18 March 2021, 2pm-4pm, Queenstown Public Library
+
+Perfecting Paper Prototyping
+•	16 March 2021, 2pm-4pm, Serangoon Public Library
+•	19 March 2021, 2pm-4pm, Clementi Public Library
+
 **Tweens Tinker Sheets**
 
 Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!
@@ -27,12 +48,6 @@ Grab your printable template for the paper helicopter [here](/images/unsorted/tw
 
 | [![Flexagon image](/images/unsorted/tweenkerama/Tweens-Flexagon.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/unsorted/tweenkerama/Tweens-Origami-Frog.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Frog.pdf) | [![Zentangle image](/images/unsorted/tweenkerama/Tweens-Zentangle.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-Up-package-Zentangle.pdf) |
 
-
-### **Tweenkerama Workshops**
-
-Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
-
-Visit [nlb.gov.sg/golibrary](http://nlb.gov.sg/golibrary) for more information.
 
 ### **Tweenkerama Lab Mag**
 

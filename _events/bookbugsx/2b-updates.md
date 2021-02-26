@@ -6,6 +6,9 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
+#### 1 Mar 2021
+[<img src="/images/events/bookbugsx/1 Mar 2021 Update.png" alt="Quiz Update" style="width: 100%" align="left">](/events/bookbugsx/quiz/)
+
 #### 8 Feb 2021
 [<img src="/images/events/bookbugsx/8 Feb 2021 Update.png" alt="Resources uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources/)
 

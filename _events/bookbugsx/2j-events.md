@@ -14,7 +14,7 @@ Welcome to the Book Bugs: Explorers of Stories Past Pop-up Event!
 
 Simply download the activity sheet below, complete it, and bring the completed sheet to any of our [Redemption Booths](#redemption-booths) on **13 and 14 March 2021, 11am to 5pm,** to redeem exclusive Book Bugs posters and a sticker sheet! **Redemption is only available at the selected libraries listed below and while stocks last.**
 
-| ![Where did the Book Bug go](/images/events/bookbugsx/Where did the Book Bug go.png) | *Insert pdf here* |
+| <img src="/images/events/bookbugsx/Where did the Book Bug go.png" alt="Where did the Book Bug go" style="width: 50%"> | *Insert pdf here* |
 
 That's not all! We have a **bonus activity** for you too. Download the template below and complete the book review. Submit your book review along with your *Create Your Own Book Bug* activity sheet at the redemption booths to redeem an exclusive Book Bugs notebook on top of the posters and sticker sheet!
 

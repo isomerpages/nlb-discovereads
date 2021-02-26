@@ -23,7 +23,9 @@ That's not all! We have a **bonus activity** for you too. Download the template 
 #### Redemption Booths
 
 Date: 13 and 14 March 2021
+
 Time: 11am to 5pm
+
 Locations:
 * Central Public Library - My Tree House, near the stage area
 * Jurong Regional Library - Level 1, in front of the water feature

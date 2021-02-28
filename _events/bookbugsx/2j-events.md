@@ -30,4 +30,4 @@ That's not all! We have a **bonus activity** for you too. Download the template 
 * **Central Public Library** - My Tree House, near the stage area
 * **Jurong Regional Library** - Level 1, in front of the water feature
 * **Tampines Regional Library** - Level 4, outside the lift
-* **Woodlands Regional Library** - Level 4 Children's section, near the activity area.
+* **Woodlands Regional Library** - Level 4 Children's section, near the activity area

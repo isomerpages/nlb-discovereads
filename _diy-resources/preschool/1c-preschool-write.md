@@ -54,7 +54,7 @@ OverDrive Link: [https://nlb.overdrive.com/media/4871029](https://nlb.overdrive.
 
 Adelaide loves writing. Bear loves writing. But Theo does NOT love writing. Thankfully, Adelaide and Bear are ready to team up and persuade the entire class, including Mrs. Fitz-Pea, that Bears make the best writing buddies. After all, who better to teach you how to fish and forage for new ideas than a bear? This third picture book in Carmen Oliver’s Bears Make the Best…series is sure to encourage even the most reluctant writer to write a story.
 
-<img src="images/diyresources/preschool/did you take the b out of my _ook.jpg" alt="B from ook" style="width:40%">
+<img src="/images/diyresources/preschool/did you take the b out of my _ook.jpg" alt="B from ook" style="width:40%">
 
 Title: [Did You Take the B From My _ook?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=202889611) <br>
 Author: Beck and Matt Stanton <br>

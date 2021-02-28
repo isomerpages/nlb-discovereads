@@ -33,7 +33,7 @@ Fill a box with materials that can be used in different ways for free play such 
 
 ### **Recommended Books**
 
-<img src="images/diyresources/preschool/Pet this book.JPG" alt="Pet" style="width:40%">
+<img src="/images/diyresources/preschool/Pet this book.JPG" alt="Pet" style="width:40%">
 
 Title: [Pet This Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203140572) <br>
 Author: Jessica Young <br>
@@ -49,38 +49,40 @@ There are lots of ways little hands can care for animals. Each page of this book
 
 Pair with _Play This Book_, another title by author Jessica Young and illustrator Daniel Wiseman that comes printed on heavy-duty card stock pages to stand up to all kinds of play!
 
-<img src="/images/diyresources/preschool/The-Crayons-Book-of-Numbers.jpg" alt="The Crayons" style="width:40%">
+<img src="/images/diyresources/preschool/Imagination vacation.jpg" alt="Imagination Vacation" style="width:40%">
 
-Title: [The Crayons’ Book of Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204427756) <br>
-Author: Drew Daywalt <br>
-Illustrator: Oliver Jeffers <br>
-Publisher: Grosset & Dunlap, 2017 <br>
-Location: Early Literacy Concepts <br>
-Call Number: English DAY <br>
-OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892) <br>
+Title: Imagination Vacation <br>
+Author: Jami Gigot <br>
+Publisher: Albert Whitman & Company, 2019. <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4888276](https://nlb.overdrive.com/media/4888276) <br>
 
-Counting is as easy as 1… 2… purple? In this charming book of numbers from the creators of the #1 New York Times Bestsellers, The Day the Crayons Quit and The Day the Crayons Came Home. Poor Duncan can’t catch a break! First, his crayons go on strike. Then, they come back home. Now his favorite colors are missing once again! Can you count up all the crayons that are missing from his box? From the creative minds behind The Day the Crayons Quit and The Day the Crayons Came Home comes a colorful board book introducing young readers to numbers.
+Sam has a very busy family. Mom works late, Dad’s projects pile up. Even Sam’s younger sister Marla is always doing something. Everyone in Sam’s family has their own idea of what the perfect vacation would look like. But there’s one thing they all agree on: they just can’t get away right now. So Sam comes up with a different kind of getaway. With a little planning, a few supplies, and a touch of creativity, she finds that her family’s dream vacation wasn’t so far away after all.
 
-<img src="/images/diyresources/preschool/The-Keeper-of-Wild-Words.png" alt="Keeper of Wild Words" style="width:40%">
+<img src="/images/diyresources/preschool/The runaway shirt.jpg" alt="Runaway shirt" style="width:40%">
 
-Title: [The Keeper of Wild Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204398063) <br>
-Author: Brooke Smith <br>
-Illustrator: Daniel Wiseman <br>
-Publisher: Chronicle Books LLC, 2020 <br>
-OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892) <br>
-
-A touching tale of a grandmother and her granddaughter exploring and cherishing the natural world. Words, the woods, and the world illuminate this quest to save the most important pieces of our language – by saving the very things they stand for. When Mimi, finds out her favourite words – simple words, like apricot, blackberry and buttercup – are disappearing from the English language, she elects her granddaughter Brook as their Keeper. And did you know? The only way to save words is to know them.
-
-<img src="/images/diyresources/preschool/Count-on-the-Subway.jpg" alt="Count on the Subway" style="width:40%">
-
-Title: Count on the Subway <br>
-Author: Paul DuBois Jacobs and Jennifer Swender <br>
-Illustrator: Dan Yaccarino <br>
-Publisher: Knopf Books for Young Readers, 2019 <br>
+Title: [The Runaway Shirt](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205261685) <br>
+Author: Kathy MacMillan <br>
+Illustrator: Julia Castaño <br>
+Publisher: CSanger, CA : Familius LLC, 2020. <br>
 Location: Early Literacy Picture Books <br>
-Call Number: English JAC <br>
-OverDrive Link: [https://nlb.overdrive.com/media/1473219](https://nlb.overdrive.com/media/1473219https://nlb.overdrive.com/media/1473219) <br>
+Call Number: English MAC
+OverDrive Link: [https://nlb.overdrive.com/media/5303144](https://nlb.overdrive.com/media/5303144) <br>
 
-1 Metro Card, Momma and me. Down 2 flights – to catch the 3. 4 turnstiles, singers 5. A rumble, a screech… the train arrives! This bright, young counting book is a delightful trip through the New York City subway system. Hand in hand, child and mother see colourful subway signs and funny passengers, watch trains screeching by, and make new friends. With bold illustrations and playful, rhyming text, this is not only a counting book, but also a tribute to New York and a sweet story of a child and parent navigating the city together.
+Laundry is a chore, but when a child climbs in the basket, everything becomes a game. Follow along as this mother takes a break from folding clothes to join her child in the delightful laughter of imagination. In The Runaway Shirt, housework and pretend play come together to transport readers to a kid’s world of wonder and excitement. Each page of charming illustration is a work in joy and mirth. Who knew folding laundry could be so fun
+
+<img src="/images/diyresources/preschool/100 things to recycle and make.jpg" alt="100 things" style="width:40%">
+
+Title: 100 Things to Recycle and Make <br>
+Author: PFiona Hayes <br>
+Publisher: QEB Publishing, 2019. <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4811739](https://nlb.overdrive.com/media/4811739) <br>
+
+Everyday materials are transformed into all kinds of stunning and practical projects, from toy animals and vehicles to dressing-up props, decorations, games, and even fun storage solutions. Bringing together the best projects from the popular Crafty Makes series, each section is dedicated to a different base object: cardboard boxes; paper plates; cardboard tubes; materials from nature; and egg cartons. With twenty projects per section to choose from, and 100 projects overall, this book will appeal to a wide range of ages and interests. 
+
+Simple cardboard tubes become a set of pirate skittles, a friendly octopus, and an entire castle. Plain cardboard boxes are turned into a pirate ship, a money box, and a robot; twigs, leaves and other outdoors materials become picture frames, masks, and a dinosaur. Paper plates make a great bug or flower hat, a dotty frog, and a cute panda, while egg cartons are turned into a fire engine, a pencil holder, and a Christmas tree. 
+
+Children will be entertained for hours with this invaluable collection of crafty makes, and even the whole family can be involved in recycling everyday objects and turning them into exciting projects. Create entire animal kingdoms and alien worlds, or simply a new favourite toy or mascot. 
+
+With such a huge range of exciting projects to make from the simplest of objects, 100 Things to Recycle and Make is the ultimate craft inspiration for creative children.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._

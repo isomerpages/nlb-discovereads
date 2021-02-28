@@ -13,13 +13,13 @@ Writing helps children develop motor skills and understand that written words re
 
 ### **Recommended Activities**
 
-**My Family Portrait**
+**My Family Portrait** <br>
 Introduce your family members’ names and their roles in the family to your child. Invite your child to draw his/her family members and colour them. Older children would usually draw stick figures and that is perfectly fine. Encourage them to label each drawing with the family members’ names. For younger children, you might need to guide their hands to draw or you could draw first and let them copy your drawing. All you need for this activity is a piece of paper, writing and colouring materials. You could also display your child’s creative artwork for keepsake!
 
-**Guess the Objects**
+**Guess the Objects** <br>
 Play is one of the early literacy skills that young children need in order to be able to read later on. Incorporating play in writing activities makes learning exciting for them. One way to do this is to play games with your child. Draw familiar objects around the house and get your child to guess. Take turns to guess each other’s drawings. For this activity, you will need a piece of paper and writing materials. Make it more exciting by turning it into a challenge and reward the winner.
 
-**Trace the Numbers**
+**Trace the Numbers** <br>
 Prepare printouts of numbers one to ten. Take a string of yarn of about one to two metres long and ask your child to trace the numbers using the yarn. Make it more fun by counting from one to ten as you go along and counting backwards. Younger children can also do this activity with guidance from parents.
 
 ### **Recommended Books**

@@ -9,38 +9,27 @@ third_nav_title: Preschool Resources
 
 ### **Introduction**
 
-Play enables children to develop their language, social-emotional and cognitive skills. It also encourages imagination and creativity. Learning through play comes in many forms such as imaginary play, cooperative play and physical play. They are further categorised into instructional play, games, guided play and free play, depending on the degree of which children are given control over their experiences during play.
+Play enables children to develop their language, social-emotional and cognitive skills. It also encourages imagination and creativity. Learning through play comes in many forms such as imaginary play, cooperative play and physical play. They are further categorised into instructional play, games, guided and free play, depending on the degree in which children are given control over their experiences during play.
 
 ### **Recommended Activities**
 
-**Name Art**
-Collect fallen leaves, twigs and flowers while enjoying a walk in the park. Grab a piece of drawing paper and write your child’s name.
+**Mystery Bag**
 
-![Sarah play image](/images/diyresources/preschool/Name_Play.jpg)
+Place a few small items into a bag. You can use items that your child is familiar with such as toys, pieces of clothing and stationery. Get your child to place their hands into the bag and identify the object just by using their sense of touch. For a variety of textures, you can also use items from nature such as leaves, grass, sticks and pebbles. 
 
-Get your child to fill in the spaces with the natural materials you have gathered. If you would like to keep the name art, you can use clear glue to stick the materials onto the paper.
+To make this activity more challenging for older children, use items which have one thing in common or those that fall under the same category. For instance, you can place a few items which begin with the same letter. Get your child to name the objects and guess what they have in common.
 
-This activity helps your child recognize alphabets while connecting with nature. For other name art variations, you can use small pebbles, shells, sand or other type of natural materials.
+**Lacing Cards**
 
-**Make with Shapes**
-Grab a few sheets of coloured construction paper. Cut out different shapes in varying sizes. To make it easier for your child to identify different shapes, assign a colour to a shape.
+This simple activity helps develop fine motor skills. You will need some foam sheets or cardboard, a paper puncher and colourful shoelaces. Cut out simple shapes such as a circle, square or star from the foam sheets. Punch holes along the edges of the shapes and get et your child to string the shoelaces through the holes of each shape.
 
-Prepare a deck of flash cards with your child’s favourite things such as animals, vehicles and food. You may use text or visuals, whichever is comfortable for your child. Place them face down in front of your child. Get your child to pick a flash card and turn it over. Arrange the different shapes to form the item shown on the flash card.
+Make this activity more challenging by cutting the outlines of objects or animals. The completed lacing cards are also great for decorating your child’s room.
 
-Make the activity more challenging by introducing other shapes such as rhombus, octagon and trapezium.
+**The Magic Box**
 
-**Colours and Numbers**
-In this activity, your child will learn about colours and counting from numbers 1 to 5. First, grab a piece of white paper and draw lines across it randomly. The lines may cross each other.
+Free play or unstructured play helps exercise your child’s creativity and problem-solving skills. A simple way to encourage free play at home is to create a magic box. 
 
-Print out the table below and cut along the lines.
-
-[![Play activity 2 image](/images/diyresources/preschool/Play_Activity2_small.jpg)](/images/diyresources/preschool/Play_Activity2.pdf)
-
-Separate the slips of paper into two groups – numbers and colours, and place the slips into two separate envelopes. Get your child to pick one slip from each envelope.
-
-The number slip indicates the number of spaces to fill in on the paper with lines that you have drawn, and the colour slip indicates the colour to use to fill in the spaces. For example, if your child picked “2” and “Blue”, he/she will have to choose two spaces to colour in with blue.
-
-Make the activity more exciting and challenging by introducing other numbers and colours for your child to choose.
+Fill a box with materials that can be used in different ways for free play such as balls, scarves, small plushies and wooden blocks. You may include modelling clay, sheets of recycled paper and other safe craft materials for older children so that they can make their own props.
 
 ### **Recommended Books**
 

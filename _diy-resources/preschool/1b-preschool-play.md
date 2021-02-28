@@ -33,51 +33,54 @@ Fill a box with materials that can be used in different ways for free play such 
 
 ### **Recommended Books**
 
-![Shapes of spring image](/images/diyresources/preschool/The-Shapes-of-Spring.jpg)
+<img src="images/diyresources/preschool/Pet this book.JPG" alt="Pet" style="width:40%">
 
-Title: [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204466676)
-Author: Jill Howarth
-Publisher: Running Press Kids, 2020
-Location: Early Literacy Concepts
-Call Number: English HOW
-OverDrive Link: [https://nlb.overdrive.com/media/4839362](https://nlb.overdrive.com/media/4839362)
+Title: [Pet This Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203140572) <br>
+Author: Jessica Young <br>
+Illustrator: Daniel Wiseman <br>
+Publisher: New York : Bloomsbury Children's Books, 2018. <br>
+Location: Early Literacy Picture Books <br>
+Call Number: English 636.88 YOU <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4010289](https://nlb.overdrive.com/media/4010289) <br>
 
-A spring-themed board book that includes Easter eggs, bunnies, chicks, and more while teaching toddlers about basic shapes. Oval painted eggs hidden in the yard. Circular chicks bouncing in spring meadows. Rectangular teeth on a fluffy white bunny, spreading spring-time cheer to all. Help little ones identify basic shapes while spreading some joy this spring in the next book by author-illustrator Jill Howarth.
+_Hello, friend! It's time to play! We're taking care of pets today._
 
-![Crayons book of numbers image](/images/diyresources/preschool/The-Crayons-Book-of-Numbers.jpg)
+There are lots of ways little hands can care for animals. Each page of this book invites readers to pet the cat, wash the puppy, brush the horse's mane, and more--no animals required! With a delightful rhyming text and engaging illustrations, this book is full of pets who can't wait to play. The only thing they need is YOU! Just use your imagination, turn the pages, and _Pet This Book_!
 
-Title: [The Crayons’ Book of Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204427756)
-Author: Drew Daywalt
-Illustrator: Oliver Jeffers
-Publisher: Grosset & Dunlap, 2017
-Location: Early Literacy Concepts
-Call Number: English DAY
-OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892)
+Pair with _Play This Book_, another title by author Jessica Young and illustrator Daniel Wiseman that comes printed on heavy-duty card stock pages to stand up to all kinds of play!
+
+<img src="/images/diyresources/preschool/The-Crayons-Book-of-Numbers.jpg" alt="The Crayons" style="width:40%">
+
+Title: [The Crayons’ Book of Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204427756) <br>
+Author: Drew Daywalt <br>
+Illustrator: Oliver Jeffers <br>
+Publisher: Grosset & Dunlap, 2017 <br>
+Location: Early Literacy Concepts <br>
+Call Number: English DAY <br>
+OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892) <br>
 
 Counting is as easy as 1… 2… purple? In this charming book of numbers from the creators of the #1 New York Times Bestsellers, The Day the Crayons Quit and The Day the Crayons Came Home. Poor Duncan can’t catch a break! First, his crayons go on strike. Then, they come back home. Now his favorite colors are missing once again! Can you count up all the crayons that are missing from his box? From the creative minds behind The Day the Crayons Quit and The Day the Crayons Came Home comes a colorful board book introducing young readers to numbers.
 
-![Keeper of the wild words image](/images/diyresources/preschool/The-Keeper-of-Wild-Words.png)
+<img src="/images/diyresources/preschool/The-Keeper-of-Wild-Words.png" alt="Keeper of Wild Words" style="width:40%">
 
-Title: [The Keeper of Wild Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204398063)
-Author: Brooke Smith
-Illustrator: Daniel Wiseman
-Publisher: Chronicle Books LLC, 2020
-OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892)
+Title: [The Keeper of Wild Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204398063) <br>
+Author: Brooke Smith <br>
+Illustrator: Daniel Wiseman <br>
+Publisher: Chronicle Books LLC, 2020 <br>
+OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892) <br>
 
 A touching tale of a grandmother and her granddaughter exploring and cherishing the natural world. Words, the woods, and the world illuminate this quest to save the most important pieces of our language – by saving the very things they stand for. When Mimi, finds out her favourite words – simple words, like apricot, blackberry and buttercup – are disappearing from the English language, she elects her granddaughter Brook as their Keeper. And did you know? The only way to save words is to know them.
 
-![Count on the subway image](/images/diyresources/preschool/Count-on-the-Subway.jpg)
+<img src="/images/diyresources/preschool/Count-on-the-Subway.jpg" alt="Count on the Subway" style="width:40%">
 
-Title: Count on the Subway
-Author: Paul DuBois Jacobs and Jennifer Swender
-Illustrator: Dan Yaccarino
-Publisher: Knopf Books for Young Readers, 2019
-Location: Early Literacy Picture Books
-Call Number: English JAC
-OverDrive Link: [https://nlb.overdrive.com/media/1473219](https://nlb.overdrive.com/media/1473219https://nlb.overdrive.com/media/1473219)
+Title: Count on the Subway <br>
+Author: Paul DuBois Jacobs and Jennifer Swender <br>
+Illustrator: Dan Yaccarino <br>
+Publisher: Knopf Books for Young Readers, 2019 <br>
+Location: Early Literacy Picture Books <br>
+Call Number: English JAC <br>
+OverDrive Link: [https://nlb.overdrive.com/media/1473219](https://nlb.overdrive.com/media/1473219https://nlb.overdrive.com/media/1473219) <br>
 
 1 Metro Card, Momma and me. Down 2 flights – to catch the 3. 4 turnstiles, singers 5. A rumble, a screech… the train arrives! This bright, young counting book is a delightful trip through the New York City subway system. Hand in hand, child and mother see colourful subway signs and funny passengers, watch trains screeching by, and make new friends. With bold illustrations and playful, rhyming text, this is not only a counting book, but also a tribute to New York and a sweet story of a child and parent navigating the city together.
-
-
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._

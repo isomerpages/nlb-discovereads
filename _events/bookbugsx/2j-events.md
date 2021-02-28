@@ -18,7 +18,7 @@ Simply download the activity sheet below, complete it, and bring the completed s
 
 That's not all! We have a **bonus activity** for you too. Download the template below and complete the book review. Submit your book review along with your *Create Your Own Book Bug* activity sheet at the redemption booths to redeem an **exclusive Book Bugs notebook** on top of the posters and sticker sheet!
 
-<a href="/images/events/bookbugsx/files/March Pop-up Book Review.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Book Review Thumbnail.png" alt="Book Review PDF" style="width: 40%" align="left"></a>
+|<a href="/images/events/bookbugsx/files/March Pop-up Book Review.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Book Review Thumbnail.png" alt="Book Review PDF" style="width: 40%" align="left"></a>|
 
 #### Redemption Booths
 

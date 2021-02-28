@@ -13,59 +13,57 @@ Writing helps children develop motor skills and understand that written words re
 
 ### **Recommended Activities**
 
-**My Family Portrait**
-Introduce your family members’ names and their roles in the family to your child. Invite your child to draw his/her family members and colour them. Older children would usually draw stick figures and that is perfectly fine. Encourage them to label each drawing with the family members’ names. For younger children, you might need to guide their hands to draw or you could draw first and let them copy your drawing. All you need for this activity is a piece of paper, writing and colouring materials. You could also display your child’s creative artwork for keepsake!
+**Draw Your Own Wordless Story** <br>
+Pick up any wordless book and share it with your child. Encourage your child to share their thoughts about the story by asking them questions. After completing the story, get your child to recreate the story by drawing what they can recall from the story. This activity is suitable for children aged 4-6 years old.
 
-**Guess the Objects**
-Play is one of the early literacy skills that young children need in order to be able to read later on. Incorporating play in writing activities makes learning exciting for them. One way to do this is to play games with your child. Draw familiar objects around the house and get your child to guess. Take turns to guess each other’s drawings. For this activity, you will need a piece of paper and writing materials. Make it more exciting by turning it into a challenge and reward the winner.
+**Alphabet Dance** <br>
+Kids love actions and movements. Play a fun game with your child by “drawing” the alphabet with your body. You can take turns with your child to guess which letter is being drawn! Have a good laugh seeing each other dance! This activity is suitable for children aged 4-6 years old.
 
-**Trace the Numbers**
-Prepare printouts of numbers one to ten. Take a string of yarn of about one to two metres long and ask your child to trace the numbers using the yarn. Make it more fun by counting from one to ten as you go along and counting backwards. Younger children can also do this activity with guidance from parents.
+**Road Numbers** <br>
+Prepare printouts of numbers one to ten using road markings.. You may use black and white construction paper or use shapes in power point to create these different roads. . Using your child’s toy car, trace the numbers by moving the car on the “road”. You can also create various road patterns like straight road or zig-zag road. This activity is suitable for children aged 0-3 years old.
+
+_Adapted from [https://www.nurturedneurons.com/free-road-letters-for-developing-pre-writing-skills/](https://www.nurturedneurons.com/free-road-letters-for-developing-pre-writing-skills/)_
 
 ### **Recommended Books**
 
-![Fingertrail adventure image](/images/diyresources/preschool/a-finger-trail-adventure.jpg)
+<img src="/images/diyresources/preschool/are you there little owl.jpg" alt="Little Owl" style="width:40%">
 
-Title: [Colours: a Finger-trail Adventure](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203770791)
-Illustrator: Lalalimola
-Publisher: Ladybird Books, 2018
-Location: Early Literacy Concepts
-Call Number: English COL
+Title: [Are You There Little Owl?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=204036045) <br>
+Illustrator: Essi Kimpimaki <br>
+Publisher: London: Usborne Publishing Ltd., 2019. <br>
+Location: Early Literacy Sense & Sensations <br>
+Call Number: English TAP <br>
 
-There’s a competition going on in Matchstick Jungle… but which monkey will win? Little ones will love this first adventure from the team behind the hugely popular, award-winning Matchstick Monkey teether toys. With bold illustration and colourful glitter finger-trails on every page that are perfect for little hands, this tactile board book is ideal for teaching about colours, as well as developing hand-eye coordination and pre-writing skills. Follow the monkeys as they swing, sway and loop the loop in this first Matchstick Monkey adventure!
+Little owl is hiding! Very young children will love peeping through the holes and touching the textured pages in this beautiful hide-and-seek board book, spotting squirrels, bats and kittens along the way. Part of a gorgeous series for babies and toddlers, perfect for fans of That’s not my…
 
-![See touch feel spring image](/images/diyresources/preschool/see-touch-feel-spring.jpg)
+<img src="/images/diyresources/preschool/jungle lullabies.jpg" alt="Jungle Lullabies" style="width:40%">
 
-Title: [See, Touch, Feel: Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094431)
-Author: Kerri-Ann Hulme, Natalie Munday, and Kylie Hamley
-Publisher: Priddy Books, \[2020\]
-Location: Early Literacy Concepts
-Call Number: English 612.8 HUL
+Title: [Jungle Lullabies](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203930727) <br>
+Publisher: Sywell \[England\]: Autumn Publishing, an imprint of Igloo Books Ltd., 2019. <br>
+Location: Early Literacy Poetry & Rhymes <br>
+Call Number: English 398.8 JUN <br>
 
-Your baby can explore the joys of Spring with Roger Priddy’s sturdy sensory book, See, Touch, Feel: Spring. It’s specially designed to stimulate babies with colorful pictures, activities, textures to feel and finger trails to follow. These fun, simple, Spring-themed activities encourage babies to interact with the book through sight, sound and touch. As your baby grows, See, Touch, Feel: Spring will help them to develop early language recognition and motor skills. With lots of bright pictures and engaging novelties to enjoy together, this is the perfect sensory experience to share with your little one.
+Join the animal friends for an exciting lullaby adventure. Little ones will love to follow the trail on each page and see what they can discover.
 
-![Poetree image](/images/diyresources/preschool/poetree.jpg)
+<img src="/images/diyresources/preschool/bears make the best writing buddies.jpg" alt="Bears buddies" style="width:40%">
 
-Title: [Poetree](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203831970)
-Author: Shauna LaVoy Reynolds
-Illustrator: Shahrzad Maydani
-Publisher: Dial Books for Young Readers, \[2019\] ©2019
-Location: Early Literacy Picture Books
-Call Number: English REY
-OverDrive Link: [https://nlb.overdrive.com/media/4146665BRN=203831970](https://nlb.overdrive.com/media/4146665BRN=203831970)
+Title: Bears Make the Best Writing Buddies <br>
+Author: Carmen Oliver <br>
+Publisher: North Mankato: Capstone Editions, 2020. <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4871029](https://nlb.overdrive.com/media/4871029) <br>
 
-The snow has melted, the buttercups are blooming, and Sylvia celebrates winter’s end by writing a poem. She ties her poem to a birch tree, hoping that it doesn’t count as littering if it makes the world more beautiful. But when she returns, a new poem is waiting for her. Could the tree really be writing back? Sylvia decides to test her theory, and so begins a heartwarming poetic correspondence…as well as an unexpected new friendship. Lyrical and sweetly satisfying, Poetree is about finding beauty in the world around you, and new friends in unlikely places.
+Adelaide loves writing. Bear loves writing. But Theo does NOT love writing. Thankfully, Adelaide and Bear are ready to team up and persuade the entire class, including Mrs. Fitz-Pea, that Bears make the best writing buddies. After all, who better to teach you how to fish and forage for new ideas than a bear? This third picture book in Carmen Oliver’s Bears Make the Best…series is sure to encourage even the most reluctant writer to write a story.
 
-![Can i be your dog image](/images/diyresources/preschool/can-i-be-your-dog.jpg)
+<img src="/images/diyresources/preschool/did you take the b out of my _ook.jpg" alt="B from ook" style="width:40%">
 
-Title: [Can I Be Your Dog?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203114898)
-Author: Troy Cummings
-Publisher: Random House, \[2018\]
-Location: Early Literacy Picture Books
-Call Number: English CUM
-OverDrive Link: [https://nlb.overdrive.com/media/3845084](https://nlb.overdrive.com/media/3845084)
+Title: [Did You Take the B From My _ook?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=202889611) <br>
+Author: Beck and Matt Stanton <br>
+Illustrator: Beck and Matt Stanton <br>
+Publisher: New York; Boston: Little, Brown and Company, 2017. <br>
+Location: Early Literacy Picture Books <br>
+Call Number: English STA <br>
+OverDrive Link: [https://nlb.overdrive.com/media/2985846](https://nlb.overdrive.com/media/2985846) <br>
 
-This picture book shares the tale of Arfy, a homeless mutt who lives in a box in an alley. Arfy writes to every person on Butternut Street about what a great pet he’d make. His letters to prospective owners share that he’s house broken! He has his own squeaky bone! He can learn to live with cats! But, no one wants him. Won’t anyone open their heart–and home–to a lonesome dog? Readers will be happily surprised to learn just who steps up to adopt Arfy. Troy Cummings’s hilarious and touching story is a perfect gift for a child wanting a dog, and for pet adoption advocates. It also showcases many different styles of letter writing, making it appealing to parents and teachers looking to teach the lost art of written communication.
-
+The Books That Drive Kids CRAZY! series offers parents, teachers, and storytellers a hilarious script for fun reading time together. Book 1, Did You Take the B from My _ook? is missing one very important letter due to one very powerful sneeze! Now, the _eetle wearing _lue _oots is _ouncing on the bed instead of wearing blue boots and bouncing on the bed…and it just gets sillier from there! What is up with this nonsense? Kids will demand to know — and all readers will be howling with laughter all along the way. With strikingly simple text and art, Books That Drive Kids CRAZY! are ideal picks for emergent readers.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._

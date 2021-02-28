@@ -12,7 +12,21 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 
-#### Feb 2021 - Kusu Island
+#### Mar 2021 - Pourquoi Tales
+
+**English Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWOmz7VuAFnVXEV3QDknapli6iUvTw0LacJEL_z6impSgmuw/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLScbOB5tVF9E_XBrUr_4g4q5arvY_kAV0g4wSI4LK-bzQBy2NQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+**Mother Tongue Languages (Chinese, Malay, Tamil) Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJRblMwynGGQtH58WOSPzVJwCaAD-8voWM7KwFN2danTpuFQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWJOnmdGl-y4WKTqJ23c1e9nXNAWT2al8yT2tv_4BnkBiXxA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+#### Feb 2021 - Kusu Island (CLOSED)
+
+This quiz has now closed. Points will be awarded by 5 March 2021, Friday. All entries received after 28 February 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 
 **English Quiz**
 

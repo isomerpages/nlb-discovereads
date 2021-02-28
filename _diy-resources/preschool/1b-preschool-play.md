@@ -9,86 +9,77 @@ third_nav_title: Preschool Resources
 
 ### **Introduction**
 
-Play enables children to develop their language, social-emotional and cognitive skills. It also encourages imagination and creativity. Learning through play comes in many forms such as imaginary play, cooperative play and physical play. They are further categorised into instructional play, games, guided play and free play, depending on the degree of which children are given control over their experiences during play.
+Play enables children to develop their language, social-emotional and cognitive skills. It also encourages imagination and creativity. Learning through play comes in many forms such as imaginary play, cooperative play and physical play. They are further categorised into instructional play, games, guided and free play, depending on the degree in which children are given control over their experiences during play.
 
 ### **Recommended Activities**
 
-**Name Art**
-Collect fallen leaves, twigs and flowers while enjoying a walk in the park. Grab a piece of drawing paper and write your child’s name.
+**Mystery Bag** <br>
+Place a few small items into a bag. You can use items that your child is familiar with such as toys, pieces of clothing and stationery. Get your child to place their hands into the bag and identify the object just by using their sense of touch. For a variety of textures, you can also use items from nature such as leaves, grass, sticks and pebbles. 
 
-![Sarah play image](/images/diyresources/preschool/Name_Play.jpg)
+To make this activity more challenging for older children, use items which have one thing in common or those that fall under the same category. For instance, you can place a few items which begin with the same letter. Get your child to name the objects and guess what they have in common.
 
-Get your child to fill in the spaces with the natural materials you have gathered. If you would like to keep the name art, you can use clear glue to stick the materials onto the paper.
+**Lacing Cards** <br>
+This simple activity helps develop fine motor skills. You will need some foam sheets or cardboard, a paper puncher and colourful shoelaces. Cut out simple shapes such as a circle, square or star from the foam sheets. Punch holes along the edges of the shapes and get et your child to string the shoelaces through the holes of each shape.
 
-This activity helps your child recognize alphabets while connecting with nature. For other name art variations, you can use small pebbles, shells, sand or other type of natural materials.
+Make this activity more challenging by cutting the outlines of objects or animals. The completed lacing cards are also great for decorating your child’s room.
 
-**Make with Shapes**
-Grab a few sheets of coloured construction paper. Cut out different shapes in varying sizes. To make it easier for your child to identify different shapes, assign a colour to a shape.
+**The Magic Box** <br>
+Free play or unstructured play helps exercise your child’s creativity and problem-solving skills. A simple way to encourage free play at home is to create a magic box. 
 
-Prepare a deck of flash cards with your child’s favourite things such as animals, vehicles and food. You may use text or visuals, whichever is comfortable for your child. Place them face down in front of your child. Get your child to pick a flash card and turn it over. Arrange the different shapes to form the item shown on the flash card.
-
-Make the activity more challenging by introducing other shapes such as rhombus, octagon and trapezium.
-
-**Colours and Numbers**
-In this activity, your child will learn about colours and counting from numbers 1 to 5. First, grab a piece of white paper and draw lines across it randomly. The lines may cross each other.
-
-Print out the table below and cut along the lines.
-
-[![Play activity 2 image](/images/diyresources/preschool/Play_Activity2_small.jpg)](/images/diyresources/preschool/Play_Activity2.pdf)
-
-Separate the slips of paper into two groups – numbers and colours, and place the slips into two separate envelopes. Get your child to pick one slip from each envelope.
-
-The number slip indicates the number of spaces to fill in on the paper with lines that you have drawn, and the colour slip indicates the colour to use to fill in the spaces. For example, if your child picked “2” and “Blue”, he/she will have to choose two spaces to colour in with blue.
-
-Make the activity more exciting and challenging by introducing other numbers and colours for your child to choose.
+Fill a box with materials that can be used in different ways for free play such as balls, scarves, small plushies and wooden blocks. You may include modelling clay, sheets of recycled paper and other safe craft materials for older children so that they can make their own props.
 
 ### **Recommended Books**
 
-![Shapes of spring image](/images/diyresources/preschool/The-Shapes-of-Spring.jpg)
+<img src="/images/diyresources/preschool/Pet this book.JPG" alt="Pet" style="width:40%">
 
-Title: [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204466676)
-Author: Jill Howarth
-Publisher: Running Press Kids, 2020
-Location: Early Literacy Concepts
-Call Number: English HOW
-OverDrive Link: [https://nlb.overdrive.com/media/4839362](https://nlb.overdrive.com/media/4839362)
+Title: [Pet This Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203140572) <br>
+Author: Jessica Young <br>
+Illustrator: Daniel Wiseman <br>
+Publisher: New York : Bloomsbury Children's Books, 2018. <br>
+Location: Early Literacy Picture Books <br>
+Call Number: English 636.88 YOU <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4010289](https://nlb.overdrive.com/media/4010289) <br>
 
-A spring-themed board book that includes Easter eggs, bunnies, chicks, and more while teaching toddlers about basic shapes. Oval painted eggs hidden in the yard. Circular chicks bouncing in spring meadows. Rectangular teeth on a fluffy white bunny, spreading spring-time cheer to all. Help little ones identify basic shapes while spreading some joy this spring in the next book by author-illustrator Jill Howarth.
+_Hello, friend! It's time to play! We're taking care of pets today._
 
-![Crayons book of numbers image](/images/diyresources/preschool/The-Crayons-Book-of-Numbers.jpg)
+There are lots of ways little hands can care for animals. Each page of this book invites readers to pet the cat, wash the puppy, brush the horse's mane, and more--no animals required! With a delightful rhyming text and engaging illustrations, this book is full of pets who can't wait to play. The only thing they need is YOU! Just use your imagination, turn the pages, and _Pet This Book_!
 
-Title: [The Crayons’ Book of Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204427756)
-Author: Drew Daywalt
-Illustrator: Oliver Jeffers
-Publisher: Grosset & Dunlap, 2017
-Location: Early Literacy Concepts
-Call Number: English DAY
-OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892)
+Pair with _Play This Book_, another title by author Jessica Young and illustrator Daniel Wiseman that comes printed on heavy-duty card stock pages to stand up to all kinds of play!
 
-Counting is as easy as 1… 2… purple? In this charming book of numbers from the creators of the #1 New York Times Bestsellers, The Day the Crayons Quit and The Day the Crayons Came Home. Poor Duncan can’t catch a break! First, his crayons go on strike. Then, they come back home. Now his favorite colors are missing once again! Can you count up all the crayons that are missing from his box? From the creative minds behind The Day the Crayons Quit and The Day the Crayons Came Home comes a colorful board book introducing young readers to numbers.
+<img src="/images/diyresources/preschool/Imagination vacation.jpg" alt="Imagination Vacation" style="width:40%">
 
-![Keeper of the wild words image](/images/diyresources/preschool/The-Keeper-of-Wild-Words.png)
+Title: Imagination Vacation <br>
+Author: Jami Gigot <br>
+Publisher: Albert Whitman & Company, 2019. <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4888276](https://nlb.overdrive.com/media/4888276) <br>
 
-Title: [The Keeper of Wild Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204398063)
-Author: Brooke Smith
-Illustrator: Daniel Wiseman
-Publisher: Chronicle Books LLC, 2020
-OverDrive Link: [https://nlb.overdrive.com/media/2663892](https://nlb.overdrive.com/media/2663892)
+Sam has a very busy family. Mom works late, Dad’s projects pile up. Even Sam’s younger sister Marla is always doing something. Everyone in Sam’s family has their own idea of what the perfect vacation would look like. But there’s one thing they all agree on: they just can’t get away right now. So Sam comes up with a different kind of getaway. With a little planning, a few supplies, and a touch of creativity, she finds that her family’s dream vacation wasn’t so far away after all.
 
-A touching tale of a grandmother and her granddaughter exploring and cherishing the natural world. Words, the woods, and the world illuminate this quest to save the most important pieces of our language – by saving the very things they stand for. When Mimi, finds out her favourite words – simple words, like apricot, blackberry and buttercup – are disappearing from the English language, she elects her granddaughter Brook as their Keeper. And did you know? The only way to save words is to know them.
+<img src="/images/diyresources/preschool/The runaway shirt.jpg" alt="Runaway shirt" style="width:40%">
 
-![Count on the subway image](/images/diyresources/preschool/Count-on-the-Subway.jpg)
+Title: [The Runaway Shirt](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205261685) <br>
+Author: Kathy MacMillan <br>
+Illustrator: Julia Castaño <br>
+Publisher: CSanger, CA : Familius LLC, 2020. <br>
+Location: Early Literacy Picture Books <br>
+Call Number: English MAC
+OverDrive Link: [https://nlb.overdrive.com/media/5303144](https://nlb.overdrive.com/media/5303144) <br>
 
-Title: Count on the Subway
-Author: Paul DuBois Jacobs and Jennifer Swender
-Illustrator: Dan Yaccarino
-Publisher: Knopf Books for Young Readers, 2019
-Location: Early Literacy Picture Books
-Call Number: English JAC
-OverDrive Link: [https://nlb.overdrive.com/media/1473219](https://nlb.overdrive.com/media/1473219https://nlb.overdrive.com/media/1473219)
+Laundry is a chore, but when a child climbs in the basket, everything becomes a game. Follow along as this mother takes a break from folding clothes to join her child in the delightful laughter of imagination. In The Runaway Shirt, housework and pretend play come together to transport readers to a kid’s world of wonder and excitement. Each page of charming illustration is a work in joy and mirth. Who knew folding laundry could be so fun
 
-1 Metro Card, Momma and me. Down 2 flights – to catch the 3. 4 turnstiles, singers 5. A rumble, a screech… the train arrives! This bright, young counting book is a delightful trip through the New York City subway system. Hand in hand, child and mother see colourful subway signs and funny passengers, watch trains screeching by, and make new friends. With bold illustrations and playful, rhyming text, this is not only a counting book, but also a tribute to New York and a sweet story of a child and parent navigating the city together.
+<img src="/images/diyresources/preschool/100 things to recycle and make.jpg" alt="100 things" style="width:40%">
 
+Title: 100 Things to Recycle and Make <br>
+Author: PFiona Hayes <br>
+Publisher: QEB Publishing, 2019. <br>
+OverDrive Link: [https://nlb.overdrive.com/media/4811739](https://nlb.overdrive.com/media/4811739) <br>
 
+Everyday materials are transformed into all kinds of stunning and practical projects, from toy animals and vehicles to dressing-up props, decorations, games, and even fun storage solutions. Bringing together the best projects from the popular Crafty Makes series, each section is dedicated to a different base object: cardboard boxes; paper plates; cardboard tubes; materials from nature; and egg cartons. With twenty projects per section to choose from, and 100 projects overall, this book will appeal to a wide range of ages and interests. 
+
+Simple cardboard tubes become a set of pirate skittles, a friendly octopus, and an entire castle. Plain cardboard boxes are turned into a pirate ship, a money box, and a robot; twigs, leaves and other outdoors materials become picture frames, masks, and a dinosaur. Paper plates make a great bug or flower hat, a dotty frog, and a cute panda, while egg cartons are turned into a fire engine, a pencil holder, and a Christmas tree. 
+
+Children will be entertained for hours with this invaluable collection of crafty makes, and even the whole family can be involved in recycling everyday objects and turning them into exciting projects. Create entire animal kingdoms and alien worlds, or simply a new favourite toy or mascot. 
+
+With such a huge range of exciting projects to make from the simplest of objects, 100 Things to Recycle and Make is the ultimate craft inspiration for creative children.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._

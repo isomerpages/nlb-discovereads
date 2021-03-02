@@ -13,7 +13,6 @@ Reading with children develops their language and literacy skills. Words can be 
 
 Reading books to children teaches them how to handle books as well as how text flows from left to right and from top to bottom of a page. In addition, books expose children to words they may not learn through daily conversation. Parents should also talk to children about what they have read together to help them understand the story.
  
-
 ### **Recommended Activities**
 
 **Label Away!** <br>
@@ -27,7 +26,7 @@ Bring your child to the supermarket with you! Have them gather the items you nee
 
 ### **Recommended Books**
 
-![Oi frog image](/images/diyresources/preschool/oi-frog.jpg)
+<img src="/images/diyresources/preschool/Do Not Bring Your Dragon To The Library.jpg" style="width:40%>
 
 **Title:** [Do Not Bring Your Dragon To The Library](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=202678037) <br>
 **Author:** Julie Gassman <br>
@@ -39,7 +38,7 @@ Bring your child to the supermarket with you! Have them gather the items you nee
 
 Have you ever thought about bringing your dragon to the library? Don't do it! You might have the best intentions, but that dragon will cause nothing but trouble. Using rhyming text and a diverse cast of characters, this charming picture book will provide some important—and some not so important—library etiquette in a very entertaining way.
 
-![Pip the puppy image](/images/diyresources/preschool/pip-the-puppy.jpg)
+<img src="/images/diyresources/preschool/Heroes Wear Masks.jpg" style=width:40%>
 
 **Title:** [Heroes Wear Masks: Elmo's Super Adventure](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205222395) <br>
 **Author:** Lillian Jane <br>
@@ -67,7 +66,7 @@ Heroes Wear Masks is a sweet and educational mask book for kids that reminds rea
 
 Plus, this Sesame Street book includes bonus tips for grown-ups in the back with language parents, caregivers, and educators can use with young children to talk about staying healthy!
 
-![Fix that clock image](/images/diyresources/preschool/fix-that-clock.png)
+<img src="/images/diyresources/preschool/Dogs Say Bau.jpg" style=width:40%>
 
 **Title:** [Dogs Say Bau](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205222821) <br>
 **Author:** Philip Bunting <br>
@@ -80,7 +79,7 @@ When an animal makes its call, we all hear exactly the same noise. But depending
 
 Where in the world do dogs say 'bau'? Or pigs say 'boo boo'? Or sheep say 'meh'? Take a hilarious trip around the world to find out how we translate animal noises in different languages.
 
-![Big shark little shark baby shark image](/images/diyresources/preschool/big-shark-little-shark-baby-shark.jpg)
+<img src="/images/diyresources/preschool/Yoga Bunny.jpg" style="width:40%">
 
 **Title:** [Yoga Bunny: Simple Poses For Little Ones](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205244411) <br>
 **Author:** Sarah Jane Hinder <br>

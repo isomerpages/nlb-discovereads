@@ -15,17 +15,17 @@ Do not be afraid of being silly or singing off-key; your child will not mind at 
 
 ### **Recommended Activities**
 
-**Sing Fast, Sing Slow**
+**Sing Fast, Sing Slow** <br>
 This is a great activity for your child to sing and learn tempo at the same time. You can sing nursery rhymes together with your child and change the tempo by singing fast or singing slow. Challenge each other to see how fast you can go!
 
 To add on to the activity, you can dance together with your child by doing actions as you sing along. Introduce action words written on paper to help your child recognize and link the words with their respective actions.
 
-**Musical Crafts**
+**Musical Crafts** <br>
 Engage your child through making musical crafts together. It could be as easy as hitting chopsticks on turned-over pots or creating a shaker by putting beans into a bottle. Create your very own musical crafts by using various materials. Take the opportunity to go through the names of the materials. For older children, you can even have a checklist and ask your child to locate the materials in the house.
 
 To add on to the activity, you can form a band with your child, to sing and dance together, using the musical crafts created. 
 
-**Recreating Nursery Rhymes**
+**Recreating Nursery Rhymes** <br>
 Have fun with your child by replacing words in familiar nursery rhymes with similar rhyming words. For example, replacing “Humpty Dumpty” with “Bumpty Zumpty”. The words may sound silly, but it encourages your child to learn about different sounds of the alphabets.
 
 To add on to the activity, create a brand-new nursery rhyme by using your own words and following a well-known nursery tune. Sing and dance to your new nursery rhyme!
@@ -33,19 +33,20 @@ To add on to the activity, create a brand-new nursery rhyme by using your own wo
 ### **Recommended Books**
 
 <img src="/images/diyresources/preschool/once-i-heard-a-little-wombat.jpg" style="width: 30%;">
-Title: Once I heard a Little Wombat
-Author: Renee Treml
-Publisher: RHA eBooks Child, 2020
-Location: Early Literacy Picture Books / Non-Fiction
-Call Number: English 398.8 MOT
-OverDrive Link: [https://nlb.overdrive.com/media/2197304](https://nlb.overdrive.com/media/2197304)
+
+**Title:** Once I heard a Little Wombat <br>
+**Author:** Renee Treml <br> 
+**Publisher:** RHA eBooks Child, 2020 <br>
+**Location:** Early Literacy Picture Books / Non-Fiction <br>
+**Call Number:** English 398.8 MOT
+**OverDrive Link:** [https://nlb.overdrive.com/media/2197304](https://nlb.overdrive.com/media/2197304)
 
 ‘Once I heard a little wombat stomp, stomp, stomp…’ Read along and act out the movements as baby Australian animals eat, play and settle down for nap time.
 
 <img src="/images/diyresources/preschool/incy-wincy-spider.jpg" style="width: 30%;">
 
-Title: [Incy Wincy Spider: A Lift-the-flap, Sing-along Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203110837) 
-Author: Pat-a-Cake
+**Title:** [Incy Wincy Spider: A Lift-the-flap, Sing-along Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203110837) 
+**Author:** Pat-a-Cake
 Illustrator: Richard Merritt
 Publisher: Pat-a-Cake, 2018
 Location: Early Literacy Sense & Sensations 

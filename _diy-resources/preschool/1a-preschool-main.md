@@ -9,43 +9,40 @@ third_nav_title: Preschool Resources
 
 **Explore our DIY resources to foster the love of reading and learning at home!**
 
-_(Updated on 7 September 2020)_
-
 What do you want to do today?
 
 | [Early Literacy Practices](#early-literacy-practices) | [Creative Conversations](#creative-conversations) | [Crafts](#crafts) | [Activity Sheets](#activity-sheets) | [Holiday Specials with Librarians (Preschool)](#holiday-specials-with-librarians-preschool) | [Booklists](#booklists) |
 
 ## **Early Literacy Practices**
 
-_(Updated on 4 September 2020)_
+_(Updated in March 2020)_
 
 Research shows that there are early literacy skills that children need to pick up on their way to becoming fluent readers:
 
-**Letter Knowledge**
+**Letter Knowledge** <br>
 Recognising letters and knowing their names and sounds.
 
-**Narrative Skills**
+**Narrative Skills** <br>
 Being able to describe objects and events.
 
-**Phonological Awareness**
+**Phonological Awareness** <br>
 Understanding that words are made of smaller sounds and being able to hear and play with these smaller sounds.
 
-**Print Awareness**
+**Print Awareness** <br>
 Understanding that the print on a page represent words and knowing how to follow the words on a page and use a book.
 
-**Vocabulary**
+**Vocabulary** <br>
 Knowing the names of things, feelings and concepts.
 
 Click on the icons to find out more about literacy practices that help develop early literacy skills.
 
 | [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/diy-resources/preschool/preschool-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/diy-resources/preschool/preschool-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/diy-resources/preschool/preschool-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/diy-resources/preschool/preschool-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/diy-resources/preschool/preschool-read) |
 
-## **BookLists**
+## **Booklists**
 
-[![Sharity kids image](/images/diyresources/preschool/Sharity-Kids-Booklist.jpg)](/images/diyresources/preschool/Sharity-NLB-list-kids.pdf)
+<a href="/images/diyresources/preschool/Sharity-NLB-list-kids.pdf"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:40%"></a>
 
-[![Sharity seniors image](/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg)](/images/diyresources/preschool/Sharity-NLB-list_seniors.pdf)
-
+<a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.pdf"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:40%"></a>
 
 ## **Creative Conversations**
 

@@ -16,9 +16,19 @@ Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an
 
 Tweenkerama workshops will be taking place at the following libraries during the March holidays:
 
+<u>Gear Up!</u>
+
+•	13 March 2021, 2pm-4pm, library@harbourfront
+
+•	15 March 2021, 2pm-4pm, Toa Payoh Public Library
+
+•	16 March 2021, 2pm-4pm, Jurong Regional Library
+
+•	18 March 2021, 2pm-4pm, Sembawang Public Library
+
 <u>The 3D Art Imaginarium</u>
 
-•	17 March 2021, 2pm-4pm, Sengkang Public Library
+•	17 March 2021, 2pm-4pm, Sengkang Public Library 
 
 •	19 March 2021, 2pm-4pm, Ang Mo Kio Public Library
 

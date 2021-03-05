@@ -15,67 +15,64 @@ Do not be afraid of being silly or singing off-key; your child will not mind at 
 
 ### **Recommended Activities**
 
-**Sing Fast, Sing Slow**
-This is a great activity for your child to sing and learn tempo at the same time. You can sing nursery rhymes together with your child and change the tempo by singing fast or singing slow. Challenge each other to see how fast you can go!
+**Matching Pictures and Songs** <br>
+Prepare picture cards related to nursery songs. For example, use a picture of a star to refer to “Twinkle Twinkle Little Star” song, and a picture of sheep to refer to “Baa Baa Black Sheep” song. You may also add in sight words, such as “star” or “sheep” on the cards. Sing the nursery songs together as your child picks different cards. 
+
+To extend the activity, you can prepare an additional set of picture cards - you can use 4 different pairs of cards with similar pictures for each pair. Randomly place the sets of cards with pictures facing down. Engage your child in a friendly game to find matching picture cards. 
 
 To add on to the activity, you can dance together with your child by doing actions as you sing along. Introduce action words written on paper to help your child recognize and link the words with their respective actions.
 
-**Musical Crafts**
-Engage your child through making musical crafts together. It could be as easy as hitting chopsticks on turned-over pots or creating a shaker by putting beans into a bottle. Create your very own musical crafts by using various materials. Take the opportunity to go through the names of the materials. For older children, you can even have a checklist and ask your child to locate the materials in the house.
+**Dramatic Play** <br>
+Have fun with your child by pretending to be characters of nursery songs and rhymes such as “The Wheels on the Bus” and “Old MacDonald Had a Farm”. Such pretend play helps your child better understand and remember the songs and rhymes. 
 
-To add on to the activity, you can form a band with your child, to sing and dance together, using the musical crafts created. 
+To extend the activity, introduce new elements such as plot twist to the scenario or new characters. For example, adding a new animal on Old MacDonald’s farm and changing the song accordingly. 
 
-**Recreating Nursery Rhymes**
-Have fun with your child by replacing words in familiar nursery rhymes with similar rhyming words. For example, replacing “Humpty Dumpty” with “Bumpty Zumpty”. The words may sound silly, but it encourages your child to learn about different sounds of the alphabets.
+**Dance and Freeze** <br>
+Simply sing nursery songs and dance together with your child. Stop singing and freeze your actions at various points of the song. The magic key to resume the song is for your child to recall the last word that was sung! Introduce the word to your child, and have your child repeat the word. You can then start singing and dancing together again. 
 
-To add on to the activity, create a brand-new nursery rhyme by using your own words and following a well-known nursery tune. Sing and dance to your new nursery rhyme!
+To extend the activity, you can guide your child to write down the various “magic” words. 
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/once-i-heard-a-little-wombat.jpg" style="width: 30%;">
-Title: Once I heard a Little Wombat
-Author: Renee Treml
-Publisher: RHA eBooks Child, 2020
-Location: Early Literacy Picture Books / Non-Fiction
-Call Number: English 398.8 MOT
-OverDrive Link: [https://nlb.overdrive.com/media/2197304](https://nlb.overdrive.com/media/2197304)
+<img src="/images/diyresources/preschool/Five Fuzzy Chicks_electronic resource.jpg" style="width:40%">
 
-‘Once I heard a little wombat stomp, stomp, stomp…’ Read along and act out the movements as baby Australian animals eat, play and settle down for nap time.
+**Title:** Five Fuzzy Chicks <br>
+**Author:** Diana Murray <br> 
+**Illustrator:** Sydney Hanson <br>
+**Publisher:** Imprint, 2020. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5232292](https://nlb.overdrive.com/media/5232292) <br>
 
-<img src="/images/diyresources/preschool/incy-wincy-spider.jpg" style="width: 30%;">
+It's time for bed, but these five chicks are full of energy! They race out of the coop to visit all of the other animals. But the dog is so snuggly and the hay is so comfy, and these five fuzzy chicks can't help but fall asleep one by one. Before long, the sleeping chicks are scattered all over the farm! What will Mama Hen do?
 
-Title: [Incy Wincy Spider: A Lift-the-flap, Sing-along Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203110837) 
-Author: Pat-a-Cake
-Illustrator: Richard Merritt
-Publisher: Pat-a-Cake, 2018
-Location: Early Literacy Sense & Sensations 
-Call Number: English 398.8 INC
+<img src="/images/diyresources/preschool/The Croaky Pokey.jpg" style="width:40%">
 
-Incy Wincy Spider combines lively pictures with a classic rhyme that’s easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found! Nursery Rhymes are important stepping stones to language development. The rhymes usually tell a story, too, with a beginning, a middle, and an end. This teaches children that events happen in sequence, and they begin to follow along. Nursery rhymes are also full of repetition making them easy to remember, and often become some of a child’s first sentences.
+**Title:** [The Croaky Pokey!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203810193) <br>
+**Author:** Ethan Long <br>
+**Publisher:** New York: Holiday House, 2019. ©2011. <br>
+**Location:** Early Literacy Poetry & Rhymes <br>
+**Call Number:** English 398.8 LON <br>
 
-![Beauty and the beast image](/images/diyresources/preschool/beauty-and-the-beast.png)
+In a zany variation on the beloved song and game, an unsuspecting fly suggests to a group of musical frogs that it's time to do the Croaky Pokey. Each goofy frog gets a chance to show off its dance moves, hopping and bopping around the pond. But will the fly figure out that these frogs are really after some lunch? That's what it's all about!
 
-Title: [Beauty and the Beast: A Favorite Story in Rhythm and Rhyme](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204305825)
-Author: Jonathan Peale
-Illustrator: Christina Larkins
-Composer: Mark Oblinger
-Publisher: Cantata Learning, \[2020\] ©2020
-Location: Early Literacy Emergent Reader
-Call Number: English PEA
+<img src="/images/diyresources/preschool/The Wheels on the Bus.jpg" style="width:40%">
 
-In the story of “Beauty and the Beast,” things are not always as they seem! Beauty is sent to live with an ugly, fearsome Beast, but is he really as horrible as people think he is? A classic fairy tale retold in song, with full-color illustrations and music.
+**Title:** [The Wheels on the Bus](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203786038) <br>
+**Illustrator:** Annie Kubler <br>
+**Publisher:** Swindon, UK: Child's Play (International) Ltd, 2018. <br>
+**Location:** Early Literacy Poetry & Rhymes <br>
+**Call Number:** English 398.8 KUB <br>
 
-![Old macdonald had a boat image](/images/diyresources/preschool/old-macdonald-had-a-boat.jpg)
+This award-winning series has been specifically designed for babies. A great introduction to books through well-known nursery rhymes and interactive text. Singing songs and rhymes is the perfect way to bond with your baby and share quality time. It also aids language development by introducing them to the natural sounds and patterns of speech. Combining these with actions also stimulates the brain and helps muscle development.
 
-Title: [Old MacDonald Had A Boat](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203111574)
-Author: Steve Goetz
-Illustrator: Eda Kaban
-Publisher: Chronicle Books, \[2018\] ©2018
-Location: Early Literacy Junior Picture Lending
-Call Number: English GOE
-OverDrive Link: [https://nlb.overdrive.com/media/3670244](https://nlb.overdrive.com/media/3670244)
+<img src="/images/diyresources/preschool/Twinkle Twinkle Little Star.jpg" style="width:40%">
 
-Old Mac and Mrs. Mac are at it again! This time, these DIY-happy farmers wield a host of noisy tools – from hammers to sanders, and even a blowtorch – to soup up their rusty old fishing boat.
+**Title:** [Twinkle, Twinkle, Little Star](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203929500) <br>
+**Author:** Jenny Copper <br>
+**Illustrator:** Carrie Hennon <br>
+**Publisher:** Woodbridge, Suffolk, UK: Imagine That Publishing, Ltd, \[2019\] ©2019. <br>
+**Location:** Early Literacy Sense & Sensations <br>
+**Call Number:** English 398.8 COP <br>
 
+Little learners will love wiggling the cuddly star puppet whilst enjoying the classic rhyme 'Twinkle Twinkle Little Star'. With cute illustrations throughout, plus plenty of opportunities to sing along, this title makes an ideal choice for parents wanting to encourage the development of fine motor skills in their little ones.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._

@@ -42,10 +42,31 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#Dec) | [January 2021](#Jan) | [February 2021](#Feb) |
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar)
+
+<a name="Mar"></a>
+**March 2021**
+
+To accompany this month's quiz on Pourquoi Tales, we have a new set of madlibs for you! Fill in the blanks to form your very own Pourquoi tale. What kind of quirky stories can you come up with?
+
+P.S. You can colour in the illustrations at the bottom of the sheet.
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Mar 2021 Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mar 2021 Madlibs Chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Mar 2021 Madlibs Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mar 2021 Madlibs Malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Mar 2021 Madlibs Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mar 2021 Madlibs Tamil.png" alt="Tamil-English Madlibs"></a>|
+
+Still can't get enough of our Book Bugs activities? Why not try a simple craft activity to explore the Mysterious Seas?
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Wpl7r_jyHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 <a name="Feb"></a>
 **February 2021**
+
+*Click [here](/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Answer Key.pdf) for the answers to the February 2021 crossword puzzles.*
 
 This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? Don't forget, if you're ever stuck, you can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
 

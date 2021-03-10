@@ -9,7 +9,7 @@ sections:
     - hero:
         title: discoveReads 
         subtitle: NLB Children & Teens Services
-        background: /images/discovereads-banner-dec20.png
+        background: /images/discovereads-herobanner-mar21.png
         # button: Contact Us
         # url: /contact-us/
         key_highlights:

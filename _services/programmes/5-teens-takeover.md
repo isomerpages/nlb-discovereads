@@ -8,7 +8,7 @@ third_nav_title: Programmes
 
 ## **Teens Takeover**
 
-<a href="https://www.eventbrite.sg/d/online/teens-takeover/"><img src="/images/unsorted/teenstakeover/Teens-Takeover-Events-Calendar-2021.png" alt="Teens Takeover Workshops for 2021" style="width: 60%;"></a>
+<a href="https://www.eventbrite.sg/d/online/teens-takeover/"><img src="/images/unsorted/teenstakeover/Teens-Takeover-Events-Calendar-2021.png" alt="Teens Takeover Workshops for 2021" style="width: 85%;"></a>
 
 **NOTE: This programme is only for teens aged 13-17 years old.**
 

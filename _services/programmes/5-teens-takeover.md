@@ -6,23 +6,20 @@ collection_name: services
 third_nav_title: Programmes
 ---
 
-## **Teens Takeover Workshop Wednesdays**
+## **Teens Takeover**
 
-[![Teens takeover image](/images/unsorted/teenstakeover/WORKSHOP-WEDNESDAYS-2020.png)](https://www.eventbrite.sg/d/online/%23teenstakeover/)
+<a href="https://www.eventbrite.sg/d/online/teens-takeover/"><img src="/images/unsorted/teenstakeover/Teens-Takeover-Events-Calendar-2021.png" alt="Teens Takeover Workshops for 2021" style="width: 85%;"></a>
 
 **NOTE: This programme is only for teens aged 13-17 years old.**
 
 Attention all teens! Have time to spare?
 
-Join us for these online workshops in 2020:
+Join us for these workshops in 2021:
 
-* ~~[14 October] Self-Care for Teens, 3-4pm~~  [Session ended] <br>
-* ~~[21 October] Conversational Korean, 3-4pm~~ [Session ended] <br>
-* ~~[28 October] Conversational Japanese, 3-4pm~~ [Session ended] <br>
-* ~~[11 November] Conversational Korean, 3-4pm~~ [Session ended] <br>
-* ~~[18 November] Professional Workshops: Interview Skills, 3-4.30pm~~ [Session ended] <br>
-* ~~[25 November] Professional Workshops: Public Speaking 101, 3-4.30pm~~ [Session ended] <br>
-* [9 December] YouTube Video Secrets, 3-4pm [Register [here](https://www.eventbrite.sg/e/youtube-video-secrets-teens-takeover-registration-127985789943?aff=ebdssbonlinesearch)]<br>
-* [16 December] Conversational Japanese, 3-4pm [Register [here](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-registration-127986173089?aff=ebdssbonlinesearch)]<br>
+* [17 March] Conversational Japanese, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-registration-138931583105?aff=ebdssbonlinesearch)
+* [24 March] Conversational Korean, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-korean-teens-takeover-registration-138931918107?aff=ebdssbonlinesearch)
+* [21 April] Interview Skills, Zoom, 3-4pm
+* [5 May] Conversational Japanese, Zoom, 3-4pm
+* [16 June] Interview Skills, Bishan Public Library, 3-4pm
 
-Keep a look out for more workshop registration openings [here](https://www.eventbrite.sg/d/online/%23teenstakeover/). See you there! 🙂
+Keep a look out for more NLB Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teens-takeover/). See you there! 🙂

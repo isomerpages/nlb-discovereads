@@ -7,6 +7,7 @@ third_nav_title: Programmes
 ---
 
 ## **Teens Takeover**
+<a href=""><img src="/images/unsorted/teenstakeover/teens-takeover-header.png" alt="Teens Takeover header" style="width: 85%;"></a>
 
 <a href="https://www.eventbrite.sg/d/online/teens-takeover/"><img src="/images/unsorted/teenstakeover/Teens-Takeover-Events-Calendar-2021.png" alt="Teens Takeover Workshops for 2021" style="width: 85%;"></a>
 

@@ -16,8 +16,8 @@ Attention all teens! Have time to spare?
 
 Join us for these workshops in 2021:
 
-* [17 March] Conversational Japanese, Zoom, 3-4pm | [Register now!](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-registration-138931583105?aff=ebdssbonlinesearch)
-* [24 March] Conversational Korean, Zoom, 3-4pm | [Register now!](https://www.eventbrite.sg/e/conversational-korean-teens-takeover-registration-138931918107?aff=ebdssbonlinesearch)
+* [17 March] Conversational Japanese, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-registration-138931583105?aff=ebdssbonlinesearch)
+* [24 March] Conversational Korean, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-korean-teens-takeover-registration-138931918107?aff=ebdssbonlinesearch)
 * [21 April] Interview Skills, Zoom, 3-4pm
 * [5 May] Conversational Japanese, Zoom, 3-4pm
 * [16 June] Interview Skills, Bishan Public Library, 3-4pm

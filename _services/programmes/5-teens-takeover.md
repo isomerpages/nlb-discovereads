@@ -7,7 +7,7 @@ third_nav_title: Programmes
 ---
 
 ## **Teens Takeover**
-<a href=""><img src="/images/unsorted/teenstakeover/Teens-Takeover-Header-Mar21.png" alt="Teens Takeover header" style="width: 80%;"></a>
+<a href=""><img src="/images/unsorted/teenstakeover/Teens-Takeover-Header-Mar21.png" alt="Teens Takeover header" style="width: 100%;"></a>
 
 Attention all teens! Have time to spare?
 

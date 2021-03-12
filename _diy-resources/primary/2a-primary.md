@@ -23,9 +23,11 @@ Click on the icon to find out more!
 <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
 
-### **Storytime with Our Librarians**
+### **Storytime**
 
-Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages.
+Enjoy storytelling videos anytime, anywhere!
+Spark your reading joy with our online storytelling videos in the four official languages. Discover fascinating tales about animals, heritage, professions and more. Remember to set your alarm so you don’t miss any wonderful videos!
+
 
 _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>

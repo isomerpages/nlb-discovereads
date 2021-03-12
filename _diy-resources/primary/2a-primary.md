@@ -30,7 +30,7 @@ Spark your reading joy with our online storytelling videos in the four official 
 
 
 _(Click on the icon to find out more!)_
-<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
+<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="width: 40%;"></a>
 
 
 ### **Quizzes**

@@ -15,7 +15,7 @@ _(Updated on 8 August 2020)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Storytime with Our Librarians](#storytime-with-our-librarians) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
@@ -23,12 +23,14 @@ Click on the icon to find out more!
 <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
 
-### **Storytime with Our Librarians**
+### **Storytime**
 
-Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages.
+Enjoy storytelling videos anytime, anywhere!
+Spark your reading joy with our online storytelling videos in the four official languages. Discover fascinating tales about animals, heritage, professions and more. Remember to set your alarm so you don’t miss any wonderful videos!
+
 
 _(Click on the icon to find out more!)_
-<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
+<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="width: 40%;"></a>
 
 
 ### **Quizzes**

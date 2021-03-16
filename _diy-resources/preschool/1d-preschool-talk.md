@@ -66,9 +66,9 @@ Welcome the day by exploring the subtle wonders—and exciting sounds—of the m
 
 In the first morning light, all might seem quiet. In this companion to What Color Is Night? Grant Snider explores the sounds—and silences—of morning. Ending in an inspiring call to action—to toss off the covers, throw open the window, and fill the world with your song—this uplifting book is sure to help families feel ready to face the day. With bright art as exuberant as the rooster's crow, and humorous text celebrating the chipper alarm, the rumbling stomach, and the clanking garbage truck, What Sound Is Morning? is a moving and timeless look at the way each of us begins every day.
 
-• A perfect book to help children establish healthy sleeping and waking habits and morning routines
-• A morning read-aloud book! Help start the day right with this exuberant and positive tale.
-• Grant Snider, the creator of Incidental Comics, has over 35,000 fans on Instagram.
+• A perfect book to help children establish healthy sleeping and waking habits and morning routines. <br>
+• A morning read-aloud book! Help start the day right with this exuberant and positive tale. <br>
+• Grant Snider, the creator of Incidental Comics, has over 35,000 fans on Instagram. <br>
 
 For fans of lyrical, beautiful picture books like Today, Good Morning, City, and Before Morning, What Sound Is Morning? will appeal to children who wish to see their world from a new perspective.
 

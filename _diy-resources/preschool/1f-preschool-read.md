@@ -26,7 +26,7 @@ Bring your child to the supermarket with you! Have them gather the items you nee
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Do Not Bring Your Dragon To The Library.jpg" style="width:40%>
+<img src="/images/diyresources/preschool/Do Not Bring Your Dragon To The Library.jpg" style="width:40%">
 
 **Title:** [Do Not Bring Your Dragon To The Library](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=202678037) <br>
 **Author:** Julie Gassman <br>
@@ -38,7 +38,7 @@ Bring your child to the supermarket with you! Have them gather the items you nee
 
 Have you ever thought about bringing your dragon to the library? Don't do it! You might have the best intentions, but that dragon will cause nothing but trouble. Using rhyming text and a diverse cast of characters, this charming picture book will provide some important—and some not so important—library etiquette in a very entertaining way.
 
-<img src="/images/diyresources/preschool/Heroes Wear Masks.jpg" style=width:40%>
+<img src="/images/diyresources/preschool/Heroes Wear Masks.jpg" style=width:40%">
 
 **Title:** [Heroes Wear Masks: Elmo's Super Adventure](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205222395) <br>
 **Author:** Lillian Jane <br>
@@ -66,7 +66,7 @@ Heroes Wear Masks is a sweet and educational mask book for kids that reminds rea
 
 Plus, this Sesame Street book includes bonus tips for grown-ups in the back with language parents, caregivers, and educators can use with young children to talk about staying healthy!
 
-<img src="/images/diyresources/preschool/Dogs Say Bau.jpg" style=width:40%>
+<img src="/images/diyresources/preschool/Dogs Say Bau.jpg" style=width:40%">
 
 **Title:** [Dogs Say Bau](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205222821) <br>
 **Author:** Philip Bunting <br>

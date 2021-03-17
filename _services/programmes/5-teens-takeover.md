@@ -29,7 +29,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <p style="text-align: center;"><b>NOTE: Programmes are only for teens aged 13-17 years old.</b></p>
 
 * [24 March] Conversational Korean, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-korean-teens-takeover-registration-138931918107?aff=ebdssbonlinesearch)
-* [21 April] Interview Skills, Zoom, 3-4pm
+* [21 April] Interview Skills, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/teens-takeover-workshops-interview-skills-registration-144599084755?aff=ebdssbonlinesearch)
 * [5 May] Conversational Japanese, Zoom, 3-4pm
 * [16 June] Interview Skills, Bishan Public Library, 3-4pm
 

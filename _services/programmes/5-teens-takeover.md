@@ -17,8 +17,8 @@ third_nav_title: Programmes
 <a name="themedprogrammes">![Themed Progs header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!
 
-| <img src="/images/unsorted/teenstakeover/teenstheme-2.png" alt="re:write" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-3.png" alt="portfolio" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-4.png" alt="Greenhouse" style="width: 100%;"> |
-| <img src="/images/unsorted/teenstakeover/teenstheme-5.png" alt="digilit" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-6.png" alt="mind + body" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-7.png" alt="scienti-fx" style="width: 100%;"> |
+| <img src="/images/unsorted/teenstakeover/teenstheme-2.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-3.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-4.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 100%;"> |
+| <img src="/images/unsorted/teenstakeover/teenstheme-5.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-6.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-7.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 100%;"> |
 
 <b><a href="#top">Back to top</a></b>
 

@@ -14,8 +14,11 @@ third_nav_title: Programmes
 ![Updates](/images/unsorted/teenstakeover/teensheader-updates.png)
 
 <a name="themedprogrammes">![Themed Progs header](/images/unsorted/teenstakeover/teenstheme-1.png)</a>
-| [![re:write](/images/unsorted/teenstakeover/teenstheme-2.png)] | [![portfolio](/images/unsorted/teenstakeover/teenstheme-3.png)] | [![GREENHOUSE](/images/unsorted/teenstakeover/teenstheme-4.png)] |
-| [![digilit](/images/unsorted/teenstakeover/teenstheme-5.png)] | [![mind + body](/images/unsorted/teenstakeover/teenstheme-6.png)] | [![scienti-fx](/images/unsorted/teenstakeover/teenstheme-7.png)] |
+Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!
+
+| <img src="/images/unsorted/teenstakeover/teenstheme-2.png" alt="re:write" style="width: 50%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-3.png" alt="portfolio" style="width: 50%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-4.png" alt="Greenhouse" style="width: 50%;"> |
+| <img src="/images/unsorted/teenstakeover/teenstheme-5.png" alt="digilit" style="width: 50%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-6.png" alt="mind + body" style="width: 50%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-7.png" alt="scienti-fx" style="width: 50%;"> |
+
 <b><a href="#top">Back to top</a></b>
 
 
@@ -40,7 +43,7 @@ Keep a look out for more NLB Teens Takeover workshop registration openings [here
 <b><a href="#top">Back to top</a></b>
 
 
-<a href="/diy-resources/secondary/teen-things"><a name="teenthings">![Teen.Things header](/images/unsorted/teenstakeover/teensheader-tt.png)</a></a>
+<a name="teenthings">[![Teen.Things header](/images/unsorted/teenstakeover/teensheader-tt.png)](/diy-resources/secondary/teen-things)</a>
 <p style="text-align: center;">Click on the image to check out our school holiday content packages!</p>
 
 <b><a href="#top">Back to top</a></b>

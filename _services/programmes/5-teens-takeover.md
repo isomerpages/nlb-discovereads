@@ -13,7 +13,6 @@ third_nav_title: Programmes
 
 | [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-theme.png)](#themedprogrammes) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
 
-![Updates](/images/unsorted/teenstakeover/teensheader-updates.png)
 
 <a name="themedprogrammes">![Themed Progs header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!

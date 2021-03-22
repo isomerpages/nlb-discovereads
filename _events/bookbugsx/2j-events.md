@@ -18,7 +18,7 @@ Keep an eye on this page for announcements on our upcoming events!
 
 <img src="/images/events/bookbugsx/Pop-up Banner v2.png" alt="Book Bugs Pop-up Event" style="width: 100%">
 
-The March Book Bugs: Explorers of Stories Past Pop-up Event is now over. Keep an eye out for more pop-up events in future to redeem other exclusive Book Bugs tokens! Here is a glimpse of how our Explorers unleashed their creativity at the redemption booths.
+**The March Book Bugs: Explorers of Stories Past Pop-up Event is now over**. Keep an eye out for more pop-up events in future to redeem other exclusive Book Bugs tokens! Here is a glimpse of how our Explorers unleashed their creativity at the redemption booths.
 
 <img src="/images/events/bookbugsx/BBX Mar Pop-up Collage.png" alt="Book Bugs Pop-up Event Collage" style="width: 100%">
 

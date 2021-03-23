@@ -10,7 +10,7 @@ third_nav_title: Programmes
 
 ![Celebrating HCA image](/images/unsorted/monstersunited/ISOMER-header-HCA.png)
 
-Monsters United is back this April in a special celebration of world-renowned author, Hans Christian Andersen! Immerse yourself in Andersen's stories and the fantasy genre through videos, special storytelling sessions, themed activity packages and a specially-curated booklist.
+Monsters United is back this April in a special celebration of world-renowned author, Hans Christian Andersen! Immerse yourself in Andersen's stories and the fantasy genre through videos, special storytelling sessions, themed activity packages and a specially-curated booklist. <br>
 Two exclusive giveaways will be held as well – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate and stand a chance to win a Monsters United Goodie Bag!
 
 * **Giveaway #1**: 2 April – 6 April
@@ -22,7 +22,7 @@ For more trivia, fun facts and book recommendations, follow our [Instagram page]
 | [Andersen Storytelling and Super Storytastic](#andersen-storytelling-and-super-storytastic) | [Introduction to Hans Christian Andersen](#introduction-to-hca) | [The Emperor's New Clothes](#the-emperors-new-clothes) | [Fantasy eReads](#fantasy-ereads) |
 
 #### **DIY Activities** <br>
-| [Activity Packages](#activity-packages) | [STEAM Tinker Sheets](#steam-tinker-sheets)
+| [Activity Packages](#activity-packages) | [STEAM Tinker Sheets](#steam-tinker-sheets) | 
 
 <a name="andersen-storytelling-and-super-storytastic">**Andersen Storytelling and Super Storytastic**</a> <br>
 Enjoy one of Hans Christian Andersen's classic fairy tales at our Public Libraries! Join us in these exclusive storytelling sessions for 4-6 year olds, and super storytastic sessions for 7-10 year olds.
@@ -34,35 +34,37 @@ _(Click on the image to find a session.)_
 <a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena she recounts the life and works of Hans Christian Andersen.
 
-###**COMING SOON**
+#### **COMING SOON**
 
 
 <a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
-Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatized retelling of Andersen's classic tale, The Emperor's New Clothes.
+Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatized retelling of Andersen's classic tale, The Emperor's New Clothes. <br>
 _(Click on the image to watch the video.)_
 
-###**COMING SOON**
+#### **COMING SOON**
 
 
 <a name="fantasy-ereads">**Fantasy eReads**</a> <br>
-Want to read more from Andersen but don't know where to start? Check out this curated collection of English and Mother-Tongue fairytale titles to rediscover his magical worlds!
+Want to read more from Andersen but don't know where to start? Check out this curated collection of English and Mother-Tongue fairytale titles to rediscover his magical worlds! <br>
 _(Click on the image.)_
 
 <a href="/images/unsorted/monstersunited/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/HCA-Booklist-cover.png" alt="Fantasy eReads" style="width: 60%;" /></a>
 
 
 <a name="activity-packages">**Activity Packages**</a> <br>
-Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides!
+Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
 | [![Preschool Package image](/images/diyresources/primary/Spacesuit-Up.jpg)](/images/diyresources/primary/Spacesuit-Up_Tinker-Truck.pdf) | [![Prischool Package image](/images/diyresources/primary/Dino.jpg)](/images/diyresources/primary/Build-a-Dino_Tinker-Truck.pdf) |
 
 
 <a name="steam-tinker-sheet">**STEAM Tinker Sheets**</a> <br>
-Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster!
+Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
 | [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) | [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf)
+
+_(Last updated on 23 March 2021)_
 
 
 

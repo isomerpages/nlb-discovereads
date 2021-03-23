@@ -34,14 +34,14 @@ _(Click on the image to find a session.)_
 <a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena she recounts the life and works of Hans Christian Andersen.
 
-#### **COMING SOON**
+##### **COMING SOON**
 
 
 <a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatized retelling of Andersen's classic tale, The Emperor's New Clothes. <br>
 _(Click on the image to watch the video.)_
 
-#### **COMING SOON**
+##### **COMING SOON**
 
 
 <a name="fantasy-ereads">**Fantasy eReads**</a> <br>
@@ -62,9 +62,13 @@ _(Click on the images.)_
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) | [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf)
+| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) 
+| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf)
 
 _(Last updated on 23 March 2021)_
+
+<br>
+
 
 
 

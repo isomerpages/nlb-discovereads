@@ -12,7 +12,7 @@ third_nav_title: Programmes
 
 Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
 
-Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations!
+Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! Registration for June holiday workshops will begin in May.
 
 Tweenkerama workshops will be taking place at the following libraries during the June holidays:
 

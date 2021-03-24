@@ -17,12 +17,14 @@ Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an
 Tweenkerama workshops will be taking place at the following libraries during the June holidays:
 
 <u>Gear Up!</u>
+Ever wondered how gears and pulleys work in machines? Are you ready to dive into the world of machines and mechanisms? It's time to tinker with LEGO and build your own model. Join us to learn all about it!
 
 •	1 June 2021, 2pm-4pm, Geylang East Public Library
 
 •	7 June 2021, 2pm-4pm, Bishan Public Library
 
 <u>The 3D Art Imaginarium</u>
+Have you ever dreamed of creating unique 3D artwork with nothing more than a pen? Join us and put your artistic creativity to the test in our 3D Art workshop! Use our 3D pens to build plastic arts & crafts, geometrical shapes, even wearable glasses to take home and show off to your friends!
 
 •	31 May 2021, 2pm-4pm, Woodlands Regional Library 
 
@@ -32,6 +34,7 @@ Tweenkerama workshops will be taking place at the following libraries during the
 
 <u>Can You Build a Skyscraper?</u>
 
+Come learn about the world's tallest structures and build your own with paper techniques in this structural engineering challenge workshop. The only question is: can you build higher? 
 •	1 June 2021, 2pm-4pm, library@harbourfront
 
 •	3 June 2021, 2pm-4pm, Clementi Public Library
@@ -39,10 +42,11 @@ Tweenkerama workshops will be taking place at the following libraries during the
 •	9 June 2021, 2pm-4pm, Toa Payoh Public Library
 
 <u>Perfecting Paper Prototyping</u>
+Whether to test features, get feedback, or simply to share a new idea, professional developers use paper prototyping to detail their app ideas before writing a single line of code. Today, we explore what paper prototyping is and how to use it yourself. Come try your own hand at paper prototyping and plan out your own app!  
 
 •	7 June 2021, 2pm-4pm, Sengkang Public Library
 
-•	11 March 2021, 2pm-4pm, Queenstown Public Library
+•	11 June 2021, 2pm-4pm, Queenstown Public Library
 
 ### **Tweens Tinker Sheets**
 

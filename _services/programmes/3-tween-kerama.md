@@ -14,39 +14,37 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations!
 
-Tweenkerama workshops will be taking place at the following libraries during the March holidays:
+Tweenkerama workshops will be taking place at the following libraries during the June holidays:
 
 <u>Gear Up!</u>
 
-•	13 March 2021, 2pm-4pm, library@harbourfront
+•	1 June 2021, 2pm-4pm, Geylang East Public Library
 
-•	15 March 2021, 2pm-4pm, Toa Payoh Public Library
-
-•	16 March 2021, 2pm-4pm, Jurong Regional Library
-
-•	18 March 2021, 2pm-4pm, Sembawang Public Library
+•	7 June 2021, 2pm-4pm, Bishan Public Library
 
 <u>The 3D Art Imaginarium</u>
 
-•	17 March 2021, 2pm-4pm, Sengkang Public Library 
+•	31 May 2021, 2pm-4pm, Woodlands Regional Library 
 
-•	19 March 2021, 2pm-4pm, Ang Mo Kio Public Library
+•	8 June 2021, 2pm-4pm, Jurong Regional Library
+
+•	10 June 2021, 2pm-4pm, Tampines Regional Library
 
 <u>Can You Build a Skyscraper?</u>
 
-•	15 March 2021, 2pm-4pm, Tampines Regional Library
+•	1 June 2021, 2pm-4pm, library@harbourfront
 
-•	17 March 2021, 2pm-4pm, Pasir Ris Public Library
+•	3 June 2021, 2pm-4pm, Clementi Public Library
 
-•	18 March 2021, 2pm-4pm, Queenstown Public Library
+•	9 June 2021, 2pm-4pm, Toa Payoh Public Library
 
 <u>Perfecting Paper Prototyping</u>
 
-•	16 March 2021, 2pm-4pm, Serangoon Public Library
+•	7 June 2021, 2pm-4pm, Sengkang Public Library
 
-•	19 March 2021, 2pm-4pm, Clementi Public Library
+•	11 March 2021, 2pm-4pm, Queenstown Public Library
 
-**Tweens Tinker Sheets**
+### **Tweens Tinker Sheets**
 
 Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!
 
@@ -55,7 +53,7 @@ Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets co
 | **Don’t Say Goodbye: Endangered Species** |  **Inner Beauty: Bones in the Human Body** |
 | [![Don't say goodbye image](/images/unsorted/tweenkerama/Endangered-species.png)](/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.pdf) | [![Inner beauty image](/images/unsorted/tweenkerama/inner-beauty.png)](/images/unsorted/tweenkerama/InnerBeauty_Preview_FA.pdf) |
 
-**Tweens Pop-Up Tinkering**
+### **Tweens Pop-Up Tinkering**
 
 These packages provide Tweens the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
 

@@ -53,7 +53,7 @@ _(Click on the image.)_
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
-| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](images/unsorted/monstersunited/HCA-Preschool-Package-compressed.pdf) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/images/unsorted/monstersunited/HCA Prischool-Package-compressed.pdf) 
+| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/images/unsorted/monstersunited/HCA-Preschool-Package-compressed.pdf) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/images/unsorted/monstersunited/HCA Prischool-Package-compressed.pdf) 
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
@@ -73,8 +73,8 @@ Monsters United is excited about Halloween, and has prepared an Escape Room game
 
 **[ENDED]** <br>
 _We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate._
-_* **Giveaway #1**: 24 October – 28 October 2020_ <br> 
-_* **Giveaway #2**: 7 November – 11 November 2020_
+* <s><b>Giveaway #1</b>: 24 October – 28 October 2020 </s><br> 
+* <s><b>Giveaway #2</b>: 7 November – 11 November 2020 </s>
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 

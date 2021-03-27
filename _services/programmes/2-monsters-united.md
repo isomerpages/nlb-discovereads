@@ -34,14 +34,12 @@ _(Click on the image to find a session.)_
 <a href="https://go.gov.sg/hcastorytelling"><img src="/images/unsorted/monstersunited/HCA-ST-SST.png" alt="HCA Storytelling" style="width: 60%;"></a>
 
 
-<a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
-Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen.
-**COMING SOON**
+<a name="introduction-to-hca">**[COMING SOON] Introduction to Hans Christian Andersen**</a> <br>
+Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
 
 
-<a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
+<a name="the-emperors-new-clothes">**[COMING SOON] The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
-**COMING SOON**
 
 
 <a name="fantasy-ereads">**Fantasy eReads**</a> <br>
@@ -51,10 +49,9 @@ _(Click on the image.)_
 <a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.pdf"><img src="/images/unsorted/monstersunited/HCA-Booklist-cover.png" alt="Fantasy eReads" style="width: 60%;" /></a>
 
 
-<a name="activity-packages">**Activity Packages**</a> <br>
+<a name="activity-packages">**[COMING SOON] Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
-_(Click on the images.)_
-**COMING SOON**
+_(Click on the images.)_ <br>
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
@@ -71,10 +68,10 @@ _(Last updated on 27 March 2021)_
 ![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
 
 Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! 
-##### **[ENDED]** <br>
+**[ENDED]** <br>
 >We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate.
 >* **Giveaway #1**: 24 October – 28 October 2020 <br>
->* **Giveaway #2**: 7 November – 11 November2020
+>* **Giveaway #2**: 7 November – 11 November 2020
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 

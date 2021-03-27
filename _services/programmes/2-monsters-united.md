@@ -73,7 +73,7 @@ Monsters United is excited about Halloween, and has prepared an Escape Room game
 
 **[ENDED]** <br>
 _We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate._
-* <s><b>Giveaway #1</b>: 24 October – 28 October 2020 </s><br> 
+* <s><b>Giveaway #1</b>: 24 October – 28 October 2020 </s> 
 * <s><b>Giveaway #2</b>: 7 November – 11 November 2020 </s>
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!

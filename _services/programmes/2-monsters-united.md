@@ -28,7 +28,7 @@ For more trivia, fun facts and book recommendations, follow our Instagram page, 
 | [Activity Packages](#activity-packages) | [STEAM Tinker Sheets](#steam-tinker-sheets) | 
 
 <a name="andersen-storytelling-and-super-storytastic">**Andersen Storytelling and Super Storytastic**</a> <br>
-Enjoy Hans Christian Andersen's classic fairy tales at our Public Libraries! Join us in these exclusive storytelling sessions for 4-6 year olds, and Super Storytastic sessions for 7-10 year olds.
+Enjoy Hans Christian Andersen's classic fairy tales at our Public Libraries! Join us in these exclusive storytelling sessions for 4-6 year olds, and Super Storytastic sessions for 7-10 year olds. <br>
 _(Click on the image to find a session.)_
 
 <a href="https://go.gov.sg/hcastorytelling"><img src="/images/unsorted/monstersunited/HCA-ST-SST.png" alt="HCA Storytelling" style="width: 60%;"></a>
@@ -36,13 +36,12 @@ _(Click on the image to find a session.)_
 
 <a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen.
-##### **COMING SOON**
+###### **COMING SOON**
 
 
 <a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
-_(Click on the image to watch the video.)_
-##### **COMING SOON**
+###### **COMING SOON**
 
 
 <a name="fantasy-ereads">**Fantasy eReads**</a> <br>
@@ -55,7 +54,7 @@ _(Click on the image.)_
 <a name="activity-packages">**Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
-##### **COMING SOON**
+###### **COMING SOON**
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
@@ -63,14 +62,16 @@ Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.
 _(Click on the images.)_
 
 | [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) 
-| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf) | [!Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](images/unsorted/monstersunited/tangram-tangle-tinker-sheet.pdf) 
+| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf) |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](/images/unsorted/monstersunited/tangram-tangle-tinker-sheet.pdf) 
 
-_(Last updated on 27 March 2021)_ <br>
+_(Last updated on 27 March 2021)_ 
+
+---
 
 ![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
 
 Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! 
-#### **[ENDED]**
+##### **[ENDED]**
 > We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate.
 > * **Giveaway #1**: 24 October – 28 October 2020 <br>
 > * **Giveaway #2**: 7 November – 11 November2020

@@ -51,7 +51,6 @@ _(Click on the image.)_
 
 <a name="activity-packages">**[COMING SOON]  Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
-_(Click on the images.)_ <br>
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
@@ -68,10 +67,10 @@ _(Last updated on 27 March 2021)_
 ![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
 
 Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! <br>
-#### [ENDED] <br>
->We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate. 
->**Giveaway #1**: 24 October – 28 October 2020 <br> 
->**Giveaway #2**: 7 November – 11 November 2020
+**[ENDED]** <br>
+We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate. 
+* **Giveaway #1**: 24 October – 28 October 2020 <br> 
+* **Giveaway #2**: 7 November – 11 November 2020
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 

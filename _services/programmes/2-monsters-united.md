@@ -12,7 +12,7 @@ third_nav_title: Programmes
 
 Monsters United is back this April bringing to you a celebration on the life and work of world-renowned author, Hans Christian Andersen! His birthday on 2 April is also celebrated together with International Children's Book Day! <br>
 <br>
-Immerse yourself in Andersen's stories and the fantasy genre through thematic storytelling sessions at our public libraries and online offerings such as special videos, activity packages and a curated booklist.<br>
+Immerse yourself in Andersen's stories and the fantasy genre through thematic storytelling sessions at our public libraries and online offerings such as special videos, activity packages and a curated book list.<br>
 <br>
 Two exclusive giveaways will be held as well – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate and stand a chance to win a Monsters United Goodie Bag!
 
@@ -22,7 +22,7 @@ Two exclusive giveaways will be held as well – follow our Facebook page, [Publ
 For more trivia, fun facts and book recommendations, follow our Instagram page, [Public Libraries Singapore](https://www.instagram.com/publiclibrarysg/) as well!
 
 #### **Stories and Tales** <br>
-| [Andersen Storytelling and Super Storytastic](#andersen-storytelling-and-super-storytastic) | [Introduction to Hans Christian Andersen](#introduction-to-hca) | [The Emperor's New Clothes](#the-emperors-new-clothes) | [Fantasy eReads](#fantasy-ereads) |
+| [Andersen Storytelling and Super Storytastic](#andersen-storytelling-and-super-storytastic) | [Introduction to Hans Christian Andersen](#introduction-to-hca) | [The Emperor's New Clothes](#the-emperors-new-clothes) | [Fantasy Reads](#fantasy-reads) |
 
 #### **DIY Activities** <br>
 | [Activity Packages](#activity-packages) | [STEAM Tinker Sheets](#steam-tinker-sheets) | 
@@ -42,7 +42,7 @@ Get to know the famous author better, as our librarian Sheena recounts the life 
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
 
 
-<a name="fantasy-ereads">**Fantasy eReads**</a> <br>
+<a name="fantasy-reads">**Fantasy Reads**</a> <br>
 Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>
 _(Click on the image.)_
 

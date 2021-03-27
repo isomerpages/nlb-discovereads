@@ -34,11 +34,11 @@ _(Click on the image to find a session.)_
 <a href="https://go.gov.sg/hcastorytelling"><img src="/images/unsorted/monstersunited/HCA-ST-SST.png" alt="HCA Storytelling" style="width: 60%;"></a>
 
 
-<a name="introduction-to-hca">**[COMING SOON]  Introduction to Hans Christian Andersen**</a> <br>
+<a name="introduction-to-hca">**[COMING SOON] Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
 
 
-<a name="the-emperors-new-clothes">**[COMING SOON]  The Emperor's New Clothes**</a> <br>
+<a name="the-emperors-new-clothes">**[COMING SOON] The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
 
 
@@ -49,15 +49,18 @@ _(Click on the image.)_
 <a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.pdf"><img src="/images/unsorted/monstersunited/HCA-Booklist-cover.png" alt="Fantasy eReads" style="width: 60%;" /></a>
 
 
-<a name="activity-packages">**[COMING SOON]  Activity Packages**</a> <br>
+<a name="activity-packages">**Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
+_(Click on the images.)_
+
+| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](images/unsorted/monstersunited/HCA-Preschool-Package-compressed.pdf) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/images/unsorted/monstersunited/HCA Prischool-Package-compressed.pdf) 
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) 
+| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](/images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) 
 | [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf) |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](/images/unsorted/monstersunited/tangram-tangle-tinker-sheet.pdf) 
 
 _(Last updated on 27 March 2021)_ 
@@ -69,9 +72,9 @@ _(Last updated on 27 March 2021)_
 Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! <br>
 
 **[ENDED]** <br>
-We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate. 
-* **Giveaway #1**: 24 October – 28 October 2020 <br> 
-* **Giveaway #2**: 7 November – 11 November 2020
+_We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate._
+_* **Giveaway #1**: 24 October – 28 October 2020_ <br> 
+_* **Giveaway #2**: 7 November – 11 November 2020_
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 

@@ -36,12 +36,12 @@ _(Click on the image to find a session.)_
 
 <a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen.
-###### **COMING SOON**
+> **COMING SOON**
 
 
 <a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
-###### **COMING SOON**
+> **COMING SOON**
 
 
 <a name="fantasy-ereads">**Fantasy eReads**</a> <br>
@@ -54,7 +54,7 @@ _(Click on the image.)_
 <a name="activity-packages">**Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
-###### **COMING SOON**
+> **COMING SOON**
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
@@ -72,6 +72,7 @@ _(Last updated on 27 March 2021)_
 
 Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! 
 ##### **[ENDED]**
+
 > We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate.
 > * **Giveaway #1**: 24 October – 28 October 2020 <br>
 > * **Giveaway #2**: 7 November – 11 November2020

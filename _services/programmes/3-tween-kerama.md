@@ -52,6 +52,8 @@ Whether to test features, get feedback, or simply to share a new idea, professio
 
 •	11 June 2021, 2pm-4pm, Queenstown Public Library
 
+•	14 June 2021, 2pm-4pm, Ang Mo Kio Public Library
+
 ### **Tweens Tinker Sheets**
 
 Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!

@@ -7,7 +7,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
 #### 1 Apr 2021
-[<img src="/images/events/bookbugsx/1 Apr 2021 Update.png" alt="March Resources Uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources/)
+[<img src="/images/events/bookbugsx/1 Apr 2021 Update.png" alt="Mystical Mountains Cards Released" style="width: 100%" align="left">](/events/bookbugsx/story/)
 
 #### 8 Mar 2021
 [<img src="/images/events/bookbugsx/8 Mar 2021 Update.png" alt="March Resources Uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources/)

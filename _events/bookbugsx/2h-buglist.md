@@ -83,7 +83,20 @@ P.S. Cards from all Lands will be available for redemption from their release da
 
 #### Mystical Mountains
 
-<img src="/images/events/bookbugsx/hatching soon_Mountains.png" alt="Mystical Mountains Hatching Soon in April 2021" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/Bug List Mountains.png" alt="List of Mystical Mountains Bugs" style="width: 100%" align="centre">
+
+|Bug number|Bug Name |Inspired by|
+|:---:| :----| :--- |
+| 55 | Ayuella | Radin Mas Ayu |
+| 56 | Chipper| The Stonecutter (Japanese folktale) |
+| 57 | Monkey Kong | Sun Wukong (Journey to the West) |
+| 58 | Ol' Sage | Yu Gong Yi Shan (The Foolish Old Man Removes the Mountains) |
+| 59 | Midan | Boy from Attack of the Swordfish |
+| 60 | Digex | Manjhi Moves a Mountain |
+| 61 | Spikey | Swordfish from Attack of the Swordfish |
+| 62 | Queen Fenix | Phoenix from Chinese mythology |
+| 63 | Tiara | Puteri Gunung Ledang (Malaysian legendary princess) |
+| 64 | Kawkaw | The Crow in The Crow and the Snake (Panchatantra tale) |
 
 #### Marvellous Homes
 

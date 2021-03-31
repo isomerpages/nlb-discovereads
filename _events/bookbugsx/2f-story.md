@@ -10,7 +10,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NXwiyBNCeec?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-| [Introduction](#introduction) | [Comic 1](#comic-1---released-on-7-december-2020) | [Comic 2](#comic-2---released-on-1-february-2021) | [Comic 3](#comic-3---to-be-released-in-april-2021) | [Comic 4](#comic-4---to-be-released-in-june-2021) |
+| [Introduction](#introduction) | [Comic 1](#comic-1---released-on-7-december-2020) | [Comic 2](#comic-2---released-on-1-february-2021) | [Comic 3](#comic-3---released-on-1-april-2021) | [Comic 4](#comic-4---to-be-released-in-june-2021) |
 
 #### Introduction
 
@@ -26,6 +26,9 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ![Book Bugs: Explorers of Stories Past Comic 2 page 1](/images/events/bookbugsx/Comic 2_1.png/)
 ![Book Bugs: Explorers of Stories Past Comic 2 page 2](/images/events/bookbugsx/Comic 2_2.png/)
 
-#### Comic 3 - To be released in April 2021
+#### Comic 3 - Released on 1 April 2021
+
+![Book Bugs: Explorers of Stories Past Comic 3 page 1](/images/events/bookbugsx/Comic 3_1.png/)
+![Book Bugs: Explorers of Stories Past Comic 3 page 2](/images/events/bookbugsx/Comic 3_2.png/)
 
 #### Comic 4 - To be released in June 2021

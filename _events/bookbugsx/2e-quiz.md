@@ -12,7 +12,21 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 
-#### Mar 2021 - Pourquoi Tales
+#### Apr 2021 - Attack of the Swordfish
+
+**English Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkwYerCvSSBos-_prPLYQ4_EZzIIQ-KlR4zBBZV_uWLGDCag/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLScSJ-vR-6mu1pJbKmpSSnF_rEtRmfanBsxoHYmgqT8uQzX_fg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+**Mother Tongue Languages (Chinese, Malay, Tamil) Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXZ27OXonmhP4hi3c4Xo178qdZzE8exoXdR2z8N3v60tHP-Q/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9mPjLY_BP70nUUXKfxmIzFbh1S4Y09-HzvOiJyaNdV-9gYg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+#### Mar 2021 - Pourquoi Tales (CLOSED)
+
+This quiz has now closed. Points will be awarded by 8 April 2021, Thursday. All entries received after 31 March 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 
 **English Quiz**
 

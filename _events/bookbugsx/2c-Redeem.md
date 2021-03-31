@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 
-### The second land, Mysterious Seas, has now been released!
+### The third land, Mystical Mountains, has now been released!
 
 Cards from all Lands will be available for redemption from their release date till 30 September 2021. Don't worry if you haven't collected all the cards from each Land before the launch of the next Land - you'll have plenty of time to collect all the cards! To check out what cards are available for collection, go to our [Bug List](/events/bookbugsx/buglist).
 

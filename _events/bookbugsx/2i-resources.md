@@ -61,7 +61,7 @@ Why not try a simple craft activity and make your own paper Spikey while you're 
 
 </div>
 
-Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mystical Mountains, that you can download! Print it out and unleash your creativity, bring some colour to this new Book Bugs Land!
+Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mystical Mountains, that you can download! Print it out and unleash your creativity - bring some colour to this new Book Bugs Land!
 
 |<a href="/images/events/bookbugsx/files/NLB BBX Mystical Mountains Colouring Page.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mystical Mountains Colouring Page.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 

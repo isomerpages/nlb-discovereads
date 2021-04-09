@@ -43,7 +43,7 @@ sections:
         description: Drawing is a fun activity to do when we have to stay in.✏️ Let your children expand on their artistic abilities with our librarian, Angela, who will be showing us how we can create a nice drawing in 4 easy steps.🎨
         button: Watch
         url: https://www.youtube.com/watch?v=S1lcosdpw20
-        image: /images/homepage/holiday-special.png
+        image: /images/homepage/holiday-special-min.png
         alt: Holiday specials image
     - infopic:
         title: Watch this!
@@ -51,7 +51,7 @@ sections:
         description: Do your children like creating their own inventions just like Leonardo da Vinci? Join our librarian, Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them.
         button: Watch
         url: https://www.youtube.com/watch?v=vUXWrQMa8QY
-        image: /images/homepage/holiday-special.png
+        image: /images/homepage/holiday-special-min.png
         alt: Holiday specials image
     # - resources:
     #     title: Media

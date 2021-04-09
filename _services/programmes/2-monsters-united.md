@@ -34,9 +34,11 @@ _(Click on the image to find a session.)_
 <a href="https://go.gov.sg/hcastorytelling"><img src="/images/unsorted/monstersunited/HCA-ST-SST.png" alt="HCA Storytelling" style="width: 60%;"></a>
 
 
-<a name="introduction-to-hca">**[COMING SOON] Introduction to Hans Christian Andersen**</a> <br>
+<a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
+_(Click on the image to watch the video.)_
 
+<a href="https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png" alt="Intro to HCA thumbnail" style="width: 60%;"></a>
 
 <a name="the-emperors-new-clothes">**[COMING SOON] The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
@@ -63,7 +65,7 @@ _(Click on the images.)_
 | [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](/images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) 
 | [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf) |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](/images/unsorted/monstersunited/tangram-tangle-tinker-sheet.pdf) 
 
-_(Last updated on 27 March 2021)_ 
+_(Last updated on 9 April 2021)_ 
 
 ---
 

@@ -38,7 +38,7 @@ _(Click on the image to find a session.)_
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
 _(Click on the image to watch the video)_
 
-<a href="https://www.https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png" alt="Intro to HCA thumbnail" style="width: 60%;"></a>
+<a href="https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png" alt="Intro to HCA thumbnail" style="width: 60%;"></a>
 
 <a name="the-emperors-new-clothes">**[COMING SOON] The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>

@@ -42,7 +42,28 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar)
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) |
+
+<a name="apr"></a>
+**April 2021**
+
+This month, we have an exciting activity for you! You get to write your very own Bug tale. You've learnt all about the Attack of the Swordfish, the story that inspired the Book Bugs Spikey and Midan, but what if the story was told from Spikey's point of view? Can you help Spikey tell his story?
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.png" alt="Tamil-English Worksheet"></a>|
+
+Why not try a simple craft activity and make your own paper Spikey while you're at it?
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/phcplsAEdrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mystical Mountains, that you can download! Print it out and unleash your creativity - bring some colour to this new Book Bugs Land!
+
+|<a href="/images/events/bookbugsx/files/NLB BBX Mystical Mountains Colouring Page.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mystical Mountains Colouring Page.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
 <a name="mar"></a>
 **March 2021**

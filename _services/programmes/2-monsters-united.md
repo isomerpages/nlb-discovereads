@@ -40,9 +40,10 @@ _(Click on the image to watch the video.)_
 
 <a href="https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png" alt="Intro to HCA thumbnail" style="width: 60%;"></a>
 
-<a name="the-emperors-new-clothes">**[COMING SOON] The Emperor's New Clothes**</a> <br>
+<a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
-
+_(Click on the image to watch the video.)_
+<a href="https://www.facebook.com/350031092062650/videos/275941697452300/"><img src="/images/unsorted/monstersunited/HCA Storytime title card.png" alt="HCA storytime thumbnail" style="width: 60%;"></a>
 
 <a name="fantasy-reads">**Fantasy Reads**</a> <br>
 Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>

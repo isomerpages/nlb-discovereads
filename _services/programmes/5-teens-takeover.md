@@ -37,19 +37,19 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 * [16 June] Interview Skills, Bishan Public Library, 3-4pm
 
 <img src="/images/unsorted/teenstakeover/teenstheme-5.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
-Keep a look out for more programmes under this track!
+<p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
 <img src="/images/unsorted/teenstakeover/teenstheme-4.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
-Keep a look out for more programmes under this track!
+<p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
 <img src="/images/unsorted/teenstakeover/teenstheme-6.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
-Keep a look out for more programmes under this track!
+<p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
 <img src="/images/unsorted/teenstakeover/teenstheme-7.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
-Keep a look out for more programmes under this track!
+<p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
-Keep a look out for more NLB Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teens-takeover/). See you there! 🙂 
-<b>NOTE: Programmes are only for teens aged 13-17 years old.</b>
+<p style="text-align: center;">Keep a look out for more NLB Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teens-takeover/). See you there! 🙂 
+<b>NOTE: Programmes are only for teens aged 13-17 years old.</b></p>
 
 <b><a href="#top">Back to top</a></b>
 

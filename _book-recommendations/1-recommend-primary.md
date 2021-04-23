@@ -27,7 +27,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 | --------- | ---------------- |
 | [![Primary 6 Suggested Reads Image](/images/recommendationsprimary/p6-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6-FA-VER-300320.pdf) | [![Primary 6 Basic Suggested Reads Image](/images/recommendationsprimary/p6-Basic-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6F-FA-VER-300320.pdf) |
 
-**High Interest Booklist**
+**Easy-to-Read Booklist**
 
 <a href="/images/recommendationsprimary/High_Interest_Booklist.pdf"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>
 

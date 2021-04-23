@@ -27,6 +27,10 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 | --------- | ---------------- |
 | [![Primary 6 Suggested Reads Image](/images/recommendationsprimary/p6-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6-FA-VER-300320.pdf) | [![Primary 6 Basic Suggested Reads Image](/images/recommendationsprimary/p6-Basic-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6F-FA-VER-300320.pdf) |
 
+**High Interest Booklist**
+
+[![PwD 717](/images/recommendationsprimary/High_Interest_Image.PNG)](/images/recommendationsprimary/High_Interest_Booklist.pdf)
+
 **Asian Festival for Children’s Content Reading List**
 
 [![Asian Festival image](/images/recommendationsprimary/AFCC-1.png)](/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.pdf) 

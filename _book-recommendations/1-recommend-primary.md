@@ -29,7 +29,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 **High Interest Booklist**
 
-[![PwD 717](/images/recommendationsprimary/High_Interest_Image.PNG)](/images/recommendationsprimary/High_Interest_Booklist.pdf)
+<a href="/images/recommendationsprimary/High_Interest_Booklist.pdf"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>
 
 **Asian Festival for Children’s Content Reading List**
 

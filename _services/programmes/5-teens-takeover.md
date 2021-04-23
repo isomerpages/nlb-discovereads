@@ -11,10 +11,10 @@ third_nav_title: Programmes
 
 **Click on a button to find out more.**
 
-| [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-theme.png)](#themedprogrammes) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
+| [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
 
 
-<a name="themedprogrammes">![Themed Progs header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
+<a name="programmetracks">![Programme Tracks header](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!
 
 | <img src="/images/unsorted/teenstakeover/teenstheme-2.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-3.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 100%;"> | <img src="/images/unsorted/teenstakeover/teenstheme-4.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 100%;"> |

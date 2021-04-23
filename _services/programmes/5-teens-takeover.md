@@ -24,7 +24,7 @@ Books have genres, programmes have tracks. To make things easier for you, we've 
 
 
 <a name="workshops">![Teens Takeover Workshops header](/images/unsorted/teenstakeover/teensheader-workshops.png)</a>
-Attention all teens! Have time to spare? Join us for these workshops coming up in 2021:<br>
+Attention all teens! Have time to spare? Join us for these workshops coming up in 2021.<br>
 
 <img src="/images/unsorted/teenstakeover/teenstheme-2.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
 
@@ -48,8 +48,9 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <img src="/images/unsorted/teenstakeover/teenstheme-7.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
 <p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
-<p style="text-align: center;">Keep a look out for more NLB Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teens-takeover/). See you there! 🙂 
-<b>NOTE: Programmes are only for teens aged 13-17 years old.</b></p>
+Keep a look out for more NLB Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teens-takeover/). See you there! 🙂 
+
+<p style="text-align: center;"><b>NOTE: Programmes are only for teens aged 13-17 years old.</b></p>
 
 <b><a href="#top">Back to top</a></b>
 

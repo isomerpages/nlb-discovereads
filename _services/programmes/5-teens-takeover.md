@@ -29,7 +29,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <img src="/images/unsorted/teenstakeover/tt-rewrite.png" alt="re:write" style="width: 30%;">
 
 * <s>[24 March] Conversational Korean, Zoom, 3-4pm [Register now!]</s>
-* * [5 May] Conversational Japanese, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-workshops-registration-147931907317?aff=ebdssbonlinesearch)
+* [5 May] Conversational Japanese, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-workshops-registration-147931907317?aff=ebdssbonlinesearch)
 
 <img src="/images/unsorted/teenstakeover/tt-portfolio.png" alt="porfolio" style="width: 30%;">
 

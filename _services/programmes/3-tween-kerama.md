@@ -42,7 +42,7 @@ Come learn about the world's tallest structures and build your own with paper te
 
 •	3 June 2021, 2pm-4pm, Clementi Public Library
 
-•	9 June 2021, 2pm-4pm, Toa Payoh Public Library
+•	15 June 2021, 2pm-4pm, Toa Payoh Public Library
 
 <u>Perfecting Paper Prototyping</u>
 

@@ -26,26 +26,26 @@ Books have genres, programmes have tracks. To make things easier for you, we've 
 <a name="workshops">![Teens Takeover Workshops header](/images/unsorted/teenstakeover/teensheader-workshops.png)</a>
 Attention all teens! Have time to spare? Join us for these workshops coming up in 2021:<br>
 
-[![re:write](/images/unsorted/teenstakeover/tt-rewrite.png)]
+<img src="/images/unsorted/teenstakeover/tt-rewrite.png" alt="re:write" style="width: 30%;">
 
 * <s>[24 March] Conversational Korean, Zoom, 3-4pm [Register now!]</s>
 * * [5 May] Conversational Japanese, Zoom, 3-4pm [Register now!](https://www.eventbrite.sg/e/conversational-japanese-teens-takeover-workshops-registration-147931907317?aff=ebdssbonlinesearch)
 
-[![portfolio](/images/unsorted/teenstakeover/tt-portfolio.png)]
+<img src="/images/unsorted/teenstakeover/tt-portfolio.png" alt="porfolio" style="width: 30%;">
 
 * <s>[21 April] Interview Skills, Zoom, 3-4pm [Register now!]</s>
 * [16 June] Interview Skills, Bishan Public Library, 3-4pm
 
-[![Digi•lit](/images/unsorted/teenstakeover/tt-digilit.png)]
+<img src="/images/unsorted/teenstakeover/tt-digilit.png" alt="Digi•lit" style="width: 30%;">
 Keep a look out for more programmes under this track!
 
-[![GREENHOUSE](/images/unsorted/teenstakeover/tt-greenhouse.png)]
+<img src="/images/unsorted/teenstakeover/tt-greenhouse.png" alt="GREENHOUSE" style="width: 30%;">
 Keep a look out for more programmes under this track!
 
-[![mind+body](/images/unsorted/teenstakeover/tt-mindbody.png)]
+<img src="/images/unsorted/teenstakeover/tt-mindbody.png" alt="mind+body" style="width: 30%;">
 Keep a look out for more programmes under this track!
 
-[![scientifx](/images/unsorted/teenstakeover/tt-scientifx.png)]
+<img src="/images/unsorted/teenstakeover/tt-scientifx.png" alt="scientifx" style="width: 30%;">
 Keep a look out for more programmes under this track!
 
 Keep a look out for more NLB Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teens-takeover/). See you there! 🙂 

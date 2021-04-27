@@ -29,15 +29,15 @@ Materials needed:
 
 <img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
 
-**Oh, No!** <br>
-Author: Candace Fleming & Eric Rohmann <br>
-Publisher: Schwartz & Wade Books, c2012 <br>
+**Title:** Oh, No! <br>
+**Author:** Candace Fleming & Eric Rohmann <br>
+**Publisher:** Schwartz & Wade Books, c2012 <br>
 
 <img src="/images/diyresources/preschool/IMG-0866.jpg" alt="book of animals" style="width:40%">
 
-**My Book of Animals** <br>
-Author: Nik Afia <br>
-Publisher: Windmill Books, 2019 <br>
+**Title:** My Book of Animals <br>
+**Author:** Nik Afia <br>
+**Publisher:** Windmill Books, 2019 <br>
 
 The Animal Kingdom is a wild place. It’s home to enormous blue whales and fluttery butterflies, spotty leopards, and wriggly jellyfish. In this engaging book, readers will meet a menageries of adorable creatures in all shapes and sizes. They’ll explore pages of stunning illustrations as they learn basic animal words. Fun, simple questions engage readers and foster confidence. Learning will feel like a game as beginning readers peruse his zoo of animals. This high-interest topic and playful design will intrigue even reluctant readers, making it a valuable addition to any library or classroom.
 
@@ -66,9 +66,9 @@ Materials needed:
 
 <img src="/images/diyresources/preschool/my-busy-green-garden.jpg" alt="my busy green garden" style="width:40%">
 
-**My Busy Green Garden** <br>
-Author: Terry Pierce <br>
-Publisher: Tilbury House Publishers, \[2017\] <br>
+**Title:** My Busy Green Garden <br>
+**Author:** Terry Pierce <br>
+**Publisher:** Tilbury House Publishers, \[2017\] <br>
 
 Takes a close look at a garden, describing the plants, insects, and birds and their activities throughout the day.
 
@@ -76,9 +76,9 @@ Young children will delight in repeating the refrain “OH NO!” as one animal 
 
 <img src="/images/diyresources/preschool/caterpillar-and-bean.jpg" alt="caterpillar and bean" style="width:40%">
 
-**Caterpillar and Bean** <br>
-Author: Martin Jenkins <br>
-Publisher: Candlewick Press, 2019 <br>
+**Title:** Caterpillar and Bean <br>
+**Author:** Martin Jenkins <br>
+**Publisher:** Candlewick Press, 2019 <br>
 
 What’s that wedged in a crack in the ground, small and hard and wrinkly and brown? A bean seed! Soon it develops roots and leaves. And what’s that on the leaf? An egg! The egg hatches a caterpillar, and the caterpillar eats the leaves, getting bigger and bigger until it forms a chrysalis. Meanwhile, the plant is growing, too: it develops flowers, then bean pods, as it reaches up toward the sun. Side by side, plant and insect grow . . . and grow . . . and grow throughout the year, until they come full circle.
 
@@ -107,19 +107,19 @@ Materials needed:
 
 <img src="/images/diyresources/preschool/Aliens-Love-Underpants.jpg" alt="aliens love underpants" style="width:40%">
 
-**Aliens Love Underpants** <br>
-Author: Claire Freedman <br>
-Publisher: Barron’s Educational Series, 2017. <br>
-OverDrive Link: [https://nlb.overdrive.com/media/3303412](https://nlb.overdrive.com/media/3303412) <br>
+**Title:** Aliens Love Underpants <br>
+**Author:** Claire Freedman <br>
+**Publisher:** Barron’s Educational Series, 2017. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3303412](https://nlb.overdrive.com/media/3303412) <br>
 
 With wacky illustrations and hilarious rhyming text, Aliens Love Underpants is already a favorite among toddlers, beginning readers, teachers, parents, big brothers, big sisters, grandparents, and essentially anyone else who cracks open this super-silly book. When little aliens fly down to Earth, they’re not visiting because they want to meet the Earthlings. They simply want to steal everybody’s underpants!
 
 <img src="/images/diyresources/preschool/It-All-Started-with-a-Big-Bang.jpg" alt="started with a big bang" style="width: 40%;">
 
-**It Started with a Big Bang: The Origin of Earth, You and Everything Else** <br>
-Author: Floor Bal <br> 
-Publisher: Kids Can Press, 2019. <br>
-OverDrive Link: [https://nlb.overdrive.com/media/5018465](https://nlb.overdrive.com/media/5018465) <br>
+**Title:** It Started with a Big Bang: The Origin of Earth, You and Everything Else <br>
+**Author:** Floor Bal <br> 
+**Publisher:** Kids Can Press, 2019. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5018465](https://nlb.overdrive.com/media/5018465) <br>
 
 An accessible and engaging primer on the history of the universe and life on Earth. In this delightful book, kids can follow the fascinating story of how we got from the beginning of the universe to life today on the “bright blue ball floating in space” called Earth. They’ll learn about the big bang theory, how our solar system and planet were formed, how life on Earth began in the oceans and moved to land, what happened to the dinosaurs and how humans evolved from apes to build communities all over the planet … and even travel to space!
 
@@ -147,19 +147,19 @@ Materials needed:
 
 <img src="/images/diyresources/preschool/im-Casting-a-Spell.jpg" alt="i'm casting a spell" style="width:40%">
 
-**I’m Casting a Spell! : Meet a Fairy-Tale Witch** <br>
-Author: Lisa Bullard <br>
-Publisher: Millbrook Press, 2014. <br>
-OverDrive link: [https://nlb.overdrive.com/media/1907919](https://nlb.overdrive.com/media/1907919) <br>
+**Title:** I’m Casting a Spell! : Meet a Fairy-Tale Witch <br>
+**Author:** Lisa Bullard <br>
+**Publisher:** Millbrook Press, 2014. <br>
+**OverDrive link:** [https://nlb.overdrive.com/media/1907919](https://nlb.overdrive.com/media/1907919) <br>
 
 Meet Hex. She’s a fairy-tale witch! Hex has magic powers. She likes to fly around and play tricks on people. But don’t worry. Hex is not real. She’s one of the monsters you meet in stories. She just wants to tell you about fairy-tale witches. Learn how a witch scares villagers. Meet different kinds of witches around the world. And find out where witch tales come from. You’ll have a creepy time with this monster buddy!
 
 <img src="/images/diyresources/preschool/The-Paper-Bag-Princess.jpg" alt="the paper bag princess" style="width:40%">
 
-**The Paper Bag Princess** <br>
-Author: Robert Munsch <br>
-Publisher: Annick Press, 2019. <br>
-OverDrive link: [https://nlb.overdrive.com/media/965094](https://nlb.overdrive.com/media/965094) <br>
+**Title:** The Paper Bag Princess <br>
+**Author:** Robert Munsch <br>
+**Publisher:** Annick Press, 2019. <br>
+**OverDrive link:** [https://nlb.overdrive.com/media/965094](https://nlb.overdrive.com/media/965094) <br>
 
 Princess Elizabeth is excited to marry dreamy Prince Ronald, but then a dragon attacks the castle, kidnaps her prince, and burns all her clothes. In resourceful and humorous fashion, Elizabeth dons a paper bag, finds and outsmarts the dragon, and recues Ronald – who is less than pleased at her unprincesslike appearance. What’s a modern-day princess to do? Read this delightful tale to find out.
 

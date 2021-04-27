@@ -27,13 +27,13 @@ Materials needed:
 
 ### **Recommended Books**
 
-![Oh no image](/images/diyresources/preschool/IMG-0868.png)
+<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
 
 **Oh, No!** <br>
 Author: Candace Fleming & Eric Rohmann <br>
 Publisher: Schwartz & Wade Books, c2012 <br>
 
-![My book of animals](/images/diyresources/preschool/IMG-0866.jpg)
+<img src="/images/diyresources/preschool/IMG-0866.jpg" alt="book of animals" style="width:40%">
 
 **My Book of Animals** <br>
 Author: Nik Afia <br>
@@ -64,7 +64,7 @@ Materials needed:
 
 ### **Recommended Books**
 
-![My busy green garden image](/images/diyresources/preschool/my-busy-green-garden.jpg)
+<img src="/images/diyresources/preschool/my-busy-green-garden.jpg" alt="my busy green garden" style="width:40%">
 
 **My Busy Green Garden** <br>
 Author: Terry Pierce <br>
@@ -74,7 +74,7 @@ Takes a close look at a garden, describing the plants, insects, and birds and th
 
 Young children will delight in repeating the refrain “OH NO!” as one animal after another falls into a deep, deep hole in this lively read-aloud. This simple and irresistible picture book by hugely popular picture book creators – Candace Fleming and Caldecott medallist Eric Rohmann – feels like a classic-in-the-making. Fans of Rohmann’s Caldecott Medal-winning My Friend Rabbit will be thrilled to see a new book created in the same expressive and comical style.
 
-![Caterpillar and bean image](/images/diyresources/preschool/caterpillar-and-bean.jpg)
+<img src="/images/diyresources/preschool/caterpillar-and-bean.jpg" alt="caterpillar and bean" style="width:40%">
 
 **Caterpillar and Bean** <br>
 Author: Martin Jenkins <br>
@@ -105,7 +105,7 @@ Materials needed:
 
 ### **Recommended Books**
 
-![Aliens love underpants image](/images/diyresources/preschool/Aliens-Love-Underpants.jpg)
+<img src="/images/diyresources/preschool/Aliens-Love-Underpants.jpg" alt="aliens love underpants" style="width:40%">
 
 **Aliens Love Underpants** <br>
 Author: Claire Freedman <br>
@@ -114,7 +114,7 @@ OverDrive Link: [https://nlb.overdrive.com/media/3303412](https://nlb.overdrive.
 
 With wacky illustrations and hilarious rhyming text, Aliens Love Underpants is already a favorite among toddlers, beginning readers, teachers, parents, big brothers, big sisters, grandparents, and essentially anyone else who cracks open this super-silly book. When little aliens fly down to Earth, they’re not visiting because they want to meet the Earthlings. They simply want to steal everybody’s underpants!
 
-<img src="/images/diyresources/preschool/It-All-Started-with-a-Big-Bang.jpg" style="width: 30%;">
+<img src="/images/diyresources/preschool/It-All-Started-with-a-Big-Bang.jpg" alt="started with a big bang" style="width: 40%;">
 
 **It Started with a Big Bang: The Origin of Earth, You and Everything Else** <br>
 Author: Floor Bal <br> 
@@ -145,7 +145,7 @@ Materials needed:
 
 ### **Recommended Books**
 
-![I'm casting a spell image](/images/diyresources/preschool/im-Casting-a-Spell.jpg)
+<img src="/images/diyresources/preschool/im-Casting-a-Spell.jpg" alt="i'm casting a spell" style="width:40%">
 
 **I’m Casting a Spell! : Meet a Fairy-Tale Witch** <br>
 Author: Lisa Bullard <br>
@@ -154,7 +154,7 @@ OverDrive link: [https://nlb.overdrive.com/media/1907919](https://nlb.overdrive.
 
 Meet Hex. She’s a fairy-tale witch! Hex has magic powers. She likes to fly around and play tricks on people. But don’t worry. Hex is not real. She’s one of the monsters you meet in stories. She just wants to tell you about fairy-tale witches. Learn how a witch scares villagers. Meet different kinds of witches around the world. And find out where witch tales come from. You’ll have a creepy time with this monster buddy!
 
-![The paper bag princess image](/images/diyresources/preschool/The-Paper-Bag-Princess.jpg)
+<img src="/images/diyresources/preschool/The-Paper-Bag-Princess.jpg" alt="the paper bag princess" style="width:40%">
 
 **The Paper Bag Princess** <br>
 Author: Robert Munsch <br>

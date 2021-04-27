@@ -75,11 +75,11 @@ Make your own Lion Paper Crown!
 Make your own colourful vegetable garden!
 
 
-<img src="/images/diyresources/preschool/Solar-System-Mobile.jpg" style="width: 30%;">
+<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/Solar-System-Mobile.jpg" style="width: 30%;">
 
 Zoom into space with your own Solar System mobile!
 
-<img src="/images/diyresources/preschool/dragonbookcorner.jpg" style="width: 30%;">
+<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/dragonbookcorner.jpg" style="width: 30%;">
 
 Enter the magical world of dragons with your own special book corner!
 

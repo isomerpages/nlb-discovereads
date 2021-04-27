@@ -85,7 +85,7 @@ Enter the magical world of dragons with your own special book corner!
 
 ### **Storytime with our Librarians!**
 
-<img src="/images/diyresources/preschool/Happy-or-Grumpy-Make-Your-Own-Puppet.png" alt="Make your own puppet image">
+<img src="/images/diyresources/preschool/Happy-or-Grumpy-Make-Your-Own-Puppet.png" style="width: 30%" alt="Make your own puppet image">
 
 Happy or Grumpy – Make Your Own Puppet! <br>
 A special storytelling activity for parent and child.

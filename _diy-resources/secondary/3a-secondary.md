@@ -65,7 +65,7 @@ Problem-solve through do-it-yourself activities. Simply follow the instructions 
 
 Cool, creative, out-of-this world ideas and easy D.I.Y. projects on S.T.E.A.M. topics and activities for you to complete. Download the issues below!
 
-<img src="/images/diyresources/secondary/tweenkeramalabmagcover.jpg" alt="Paper helicopter image" style="width: 50%;">
+<img src="/images/diyresources/secondary/tweenkeramalabmagcover.jpg" alt="Paper helicopter image" style="width: 40%;">
 
 | Issue #1 [here](/images/diyresources/secondary/FA_Tweenkerama-Issue-1.PDF) | Issue #2 [here](/images/diyresources/secondary/Tweenkeramabooklet_Issue02_FA.PDF) | Issue #3 [here](/images/diyresources/secondary/FA-NLB-Tweenkerama_Issue-03-v2.PDF) |
 
@@ -190,7 +190,7 @@ Bonus: Print them out or take a screenshot with your phone to colour the black a
 | How much e-waste can you spot? (b&w) | How much e-waste can you spot? (colour) |
 | <a href="/images/diyresources/secondary/E-Waste_BW-scaled.jpg"><img src="/images/diyresources/secondary/E-Waste_BW.jpg" alt="ewaste bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/E-Waste_color.jpg"><img src="/images/diyresources/secondary/E-Waste_color-scaled.jpg" alt="ewaste coloured worksheet" style="width: 50%;"></a> |
 | Head in the Clouds (b&w) | Head in the Clouds (colour) | 
-| <a href="/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg><img src="/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg" alt="head in the clouds bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Head-in-the-Clouds_color.jpg"<img src="/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg" alt="head in the clouds coloured worksheet" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg><img src="/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg" alt="head in the clouds bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Head-in-the-Clouds_color.jpg"><img src="/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg" alt="head in the clouds coloured worksheet" style="width: 50%;"></a> |
 | Did you know...(b&w) | Did you know...(colour) |
 | <a href="/images/diyresources/secondary/Selfies_BW-scaled.jpg"><img src="/images/diyresources/secondary/Selfies_BW-scaled.jpg" alt="selfies bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Selfies_color.jpg"><img src="/images/diyresources/secondary/Selfies_color-scaled.jpg" alt="selfies coloured worksheet" style="width: 50%;"></a> |
 | What do you do online? (b&w) | What do you do online? (colour) |

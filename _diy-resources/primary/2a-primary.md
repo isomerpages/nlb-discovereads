@@ -28,7 +28,6 @@ Click on the icon to find out more!
 Enjoy storytelling videos anytime, anywhere!
 Spark your reading joy with our online storytelling videos in the four official languages. Discover fascinating tales about animals, heritage, professions and more. Remember to set your alarm so you don’t miss any wonderful videos!
 
-
 _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="width: 40%;"></a>
 
@@ -50,11 +49,13 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 | **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
 | <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 60%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
 
+
 **Reading Challenge**
 
 Level up your reading game by completing our very own reading challenge:
 
 <a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.PDF"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
+
 
 **POSB-NLB Kids’ Lit Quiz(TM) Survival Kit and Literary Boot Camp Booklet (30 mins)**
 
@@ -108,23 +109,23 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 |***New!** 2021 PopReads!*|
 |Lower Primary|
-| <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.pdf"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.pdf"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
+| <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.PDF"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.PDF"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
 |Upper Primary|
-| <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.pdf"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.pdf"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 60%;"></a> |
+| <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.PDF"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.PDF"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 60%;"></a> |
 
 
 |*2020 PopReads!*|
-| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
-| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.PDF"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.PDF"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.PDF"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.PDF"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
 
 
 ### **Read and Share**
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.PDF"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
 **Read Swap Share (30 mins)**
 In this activity, students swap and share books with one another, prompting interesting book-related conversations. Use these worksheets as a guide as you borrow our [eBooks](/ebooks/ebook-nav)!

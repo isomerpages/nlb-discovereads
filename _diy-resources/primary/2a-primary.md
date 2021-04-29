@@ -140,7 +140,10 @@ Students explore how stories relate to the world around them through a series of
 P3–P4
 <img src="/images/diyresources/primary/rrw-cakes-in-space.png" style="width: 40%;">
 
-| Title: [Cakes in Space](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201347823) | Author: Phillip Reeve and Sarah McIntyre | Call Number: JS REE |
+* Title: [Cakes in Space](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201347823)
+* Author: Phillip Reeve and Sarah McIntyre
+* Call Number: JS REE
+
 | [RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.pdf) | [RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.pdf) |
 
 P5 – P6

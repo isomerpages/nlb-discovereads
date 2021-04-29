@@ -182,7 +182,8 @@ Print out and put up these eye-catching posters and entertaining activities!
 | <a href="/images/diyresources/primary/Primary-Poster-21-Read-With-Your-Friends.PDF"><img src="images/diyresources/primary/priposter-friends.png" alt="Read with your friends poster" style="width: 50%;"></a> |
 
 
-| **Posters** (for Lower Primary) | **Posters** (for Upper Primary) | 
+|**Past Posters** |
+| Lower Primary | Upper Primary) | 
 | <a href="/images/diyresources/primary/FA_12032018_A2-lower-primary-bookchart.PDF"><img src="/images/diyresources/primary/lower-pri-bookchart.png" alt="Lower pri 2020 poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.PDF"><img src="/images/diyresources/primary/upper-pri-bookchart.png" alt="Upper pri 2020 poster" style="width: 50%;"></a> | 
   
 

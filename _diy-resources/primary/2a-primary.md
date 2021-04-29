@@ -100,12 +100,20 @@ P4 - P6
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
+
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-P1 – P3
+|***New!** 2021 PopReads!*|
+|Lower Primary|
+| <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.pdf"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.pdf"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 50%;"></a> |
 
-| [![Up up and away image](/images/diyresources/primary/upupandaway.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf) | [![Dragon dancer image](/images/diyresources/primary/PopReads-Dragon-Dancer.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf) | 
-| [![Decode me image](/images/diyresources/primary/popReads-Decode-me.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf) | [![Just keep running image](/images/diyresources/primary/Just-keep-running.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf) |
+|Upper Primary|
+| <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.pdf"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.pdf"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 50%;"></a> |
+
+
+|*2020 PopReads!*|
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 50%;"></a> | 
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 50%;"></a> |
 
 
 ### **Read and Share**

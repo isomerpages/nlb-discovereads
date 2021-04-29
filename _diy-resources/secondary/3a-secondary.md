@@ -15,7 +15,7 @@ _(Updated on 29 April 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [ ***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [ ***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [ ***New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 
@@ -71,16 +71,15 @@ Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics an
 
 Pick a short read and create a story-based craft.
 
-|***New!* 2021 PopReads!**|
-| <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_Expressions.PDF"><img src="/images/diyresources/secondary/popreads21-expressions.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF"><img src="/images/diyresources/secondary/popreads21-myths.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
-
-
 **PopReads! (20 mins)**
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-<a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.pdf"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 40%;"></a>
+|***New!* 2021 PopReads!**|
+| <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_Expressions.PDF"><img src="/images/diyresources/secondary/popreads21-expressions.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF"><img src="/images/diyresources/secondary/popreads21-myths.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
 
-<a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.pdf"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 40%;"></a>
+|**2020 PopReads!**|
+| <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 30%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 30%;"></a> |
+
 
 ### **Read and Share**
 
@@ -152,26 +151,38 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 **Posters (5 mins)**
 
+| ***New!* 2021 Posters for Secondary Schools** | 
+| <a href="/images/diyresources/secondary/Secondary-Poster-21-ebooks.PDF"><img src="/images/diyresources/secondary/secposter-ebooks.png" alt="eBooks poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Literary-Genres.pdf"><img src="/images/diyresources/secondary/secposter-genres.png" alt="Know Your Book poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Secondary-Poster-21-DDC.PDF"><img src="/images/diyresources/secondary/secposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Etiquette.pdf"><img src="/images/diyresources/secondary/secposter-etiquette.png" alt="Etiquette poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Secondary-Poster-21-YA-Quotes.PDF"><img src="/images/diyresources/secondary/secposter-quotes.png" alt="YA quotes poster" style="width: 50%;"></a> |
+
+
+|**Past Posters**|
 | [![Fiction poster image](images/diyresources/secondary/fiction-poster.jpg)](/images/diyresources/secondary/fiction-poster.jpg) | [![Nonfiction poster image](/images/diyresources/secondary/non-fic.jpg)](/images/diyresources/secondary/non-fic.jpg) |
-| [![Fiction authors image](/images/diyresources/secondary/Authors.jpg)](/images/diyresources/secondary/NLB-Author-Poster-FA.pdf) | [![First line image](/images/diyresources/secondary/First-Line.jpg)](/images/diyresources/secondary/NLB-First-Line-Posters-FA.pdf) |
+| [![Fiction authors image](/images/diyresources/secondary/Authors.jpg)](/images/diyresources/secondary/NLB-Author-Poster-FA.PDF) | [![First line image](/images/diyresources/secondary/First-Line.jpg)](/images/diyresources/secondary/NLB-First-Line-Posters-FA.PDF) |
+
 
 Recommended genre posters for Lower Secondary
-Click on the links below to download the posters
 
-| [Fantasy](/images/diyresources/secondary/Lower-Sec-Fantasy-Book-Buzz-Poster.pdf) | [Horror](/images/diyresources/secondary/Lower-Sec-Horror-Book-Buzz-Poster.pdf) | [Thriller](/images/diyresources/secondary/Lower-Sec-Thriller-Book-Buzz-Poster.pdf) |
-| [Science Fiction](/images/diyresources/secondary/Lower-Sec-Science-Fiction-Book-Buzz-Poster.pdf) | [Realistic Fiction](/images/diyresources/secondary/Lower-Sec-Realistic-Fiction-Book-Buzz-Poster.pdf) |
+*Click on the links below to download the posters*
+
+**| [Fantasy](/images/diyresources/secondary/Lower-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Lower-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Lower-Sec-Thriller-Book-Buzz-Poster.PDF) |
+| [Science Fiction](/images/diyresources/secondary/Lower-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Lower-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |**
+
 
 Recommended genre posters for Upper Secondary
-Click on the links below to download the posters
 
-| [Fantasy](/images/diyresources/secondary/Upper-Sec-Fantasy-Book-Buzz-Poster.pdf) | [Horror](/images/diyresources/secondary/Upper-Sec-Horror-Book-Buzz-Poster.pdf) | [Thriller](/images/diyresources/secondary/Upper-Sec-Thriller-Book-Buzz-Poster.pdf) |
-| [Science Fiction](/images/diyresources/secondary/Upper-Sec-Science-Fiction-Book-Buzz-Poster.pdf) | [Realistic Fiction](/images/diyresources/secondary/Upper-Sec-Realistic-Fiction-Book-Buzz-Poster.pdf) |
+*Click on the links below to download the posters*
+
+**| [Fantasy](/images/diyresources/secondary/Upper-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Upper-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Upper-Sec-Thriller-Book-Buzz-Poster.PDF) |
+| [Science Fiction](/images/diyresources/secondary/Upper-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Upper-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |**
 
 **Activities (30 mins)**
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
+<a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
+
 
 ### **Learn To Be S.U.R.E.**
 

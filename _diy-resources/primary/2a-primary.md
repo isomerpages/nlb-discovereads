@@ -128,7 +128,9 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 | <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
 **Read Swap Share (30 mins)**
+
 In this activity, students swap and share books with one another, prompting interesting book-related conversations. Use these worksheets as a guide as you borrow our [eBooks](/ebooks/ebook-nav)!
+
 
 | **RSS Facilitator’s Guide** | **RSS Worksheet Primary 1 to 2 (Basic)** |
 | <a href="/images/diyresources/primary/RSS-Slides.pptx"><img src="/images/diyresources/primary/reading-1496139_640.png" alt="Reading image" style="width: 70%;"></a> | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.PDF) | 
@@ -180,25 +182,24 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 
 | **Posters** (for Lower Primary) | **Posters** (for Upper Primary) | 
-| <a href="/images/diyresources/primary/FA_12032018_A2-lower-primary-bookchart.PDF"><imgc src="/images/diyresources/primary/lower-pri-bookchart.png" alt="Lower pri 2020 poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.PDF"><img src="/images/diyresources/primary/upper-pri-bookchart.png" alt="Upper pri 2020 poster" style="width: 50%;"></a> | 
+| <a href="/images/diyresources/primary/FA_12032018_A2-lower-primary-bookchart.PDF"><img src="/images/diyresources/primary/lower-pri-bookchart.png" alt="Lower pri 2020 poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.PDF"><img src="/images/diyresources/primary/upper-pri-bookchart.png" alt="Upper pri 2020 poster" style="width: 50%;"></a> | 
   
 
 **Activities (30 mins)**
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
 
 
 ### **Engage My Child in Reading**
 Read these dedicated guides for parents and educators.
 
-
 **Raising Readers**
 
 This guide provides information on how parents can instill a love of reading in their children.
 
-<a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 40%;"></a>
 
 Topics covered include:
 
@@ -208,11 +209,12 @@ Topics covered include:
 * NLB eResources
 * Reading at P1
 
+
 **The Parents’ Welcome Kit: Ride of a Lifetime**
 
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.PDF"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.PDF"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 40%;"></a>
 
 
 **Tips to Get Your Kid Reading**

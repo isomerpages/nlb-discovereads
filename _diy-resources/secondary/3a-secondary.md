@@ -47,18 +47,18 @@ Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ L
 Sec 1
 
 | **Survival Kit** | **Literary Boot Camp** |
-[![Survival kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB-Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
+| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
 
-### <a name="steam">**Learn about S.T.E.A.M.**</a>
+### **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
 
-**DIY Tweens Packages (30 mins)**
+**D.I.Y. Tweens Packages (30 mins)**
 
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 |Sec 1 - Sec 2|
 |[![Flexagon image](/images/diyresources/secondary/Tweens-Flexagon.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.PDF) | [![Origami frog image](/images/diyresources/secondary/Tweens-Origami-Frog.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.PDF)|
-|[![Paper helicopter image](/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.PDF) | [![Zentangle image](/images/diyresources/secondary/Tweens-Zentangle.jpg)](images/diyresources/secondary/Tweens-Zentangle.PDF)|
+|[![Paper helicopter image](/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.PDF) | [![Zentangle image](/images/diyresources/secondary/Tweens-Zentangle.jpg)](/images/diyresources/secondary/Tweens-Zentangle.PDF)|
 
 
 **Tweens Lab Mag (1 hour)**
@@ -176,7 +176,7 @@ Recommended genre posters for Upper Secondary
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
+<a href="/images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
 
 
 ### **Learn To Be S.U.R.E.**
@@ -208,14 +208,14 @@ Sec 1 – Sec 2
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.pdff"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
+| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.PDF"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
-| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
+| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.PDF) |
 
 
 **Fake News #2**
 
 | Activity Sheet | SURE-vivor Booklet |
-| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.pdf"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
+| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.PDF"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.PDF"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
 For more great information literacy resources, click [here](/services/other-services/sure)!

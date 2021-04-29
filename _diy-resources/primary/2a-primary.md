@@ -42,25 +42,28 @@ _(Click on the icon to find out more!)_
 Uncover your reading interest and challenge your lit knowledge!
 
 **Reading Interest Profile (15 mins)**
+
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
 | **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
 | **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
-| [![Lower primary reading interest profile booklet image](/images/diyresources/primary/RIP.png)](/images/diyresources/primary/RIP_LowerPri_FA.PDF) | [![Upper primary reading interest profile booklet image](/images/diyresources/primary/RIPUP.png)](/images/diyresources/primary/RIP_UpperPri_FA.PDF) |
+| <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 50%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"<img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 50%;"></a> |
 
 **Reading Challenge**
+
 Level up your reading game by completing our very own reading challenge:
 
-<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
+<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.PDF"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
 
 **POSB-NLB Kids’ Lit Quiz(TM) Survival Kit and Literary Boot Camp Booklet (30 mins)**
+
 Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
 
 P4-P6
 
 | **Survival Kit** | **Literary Boot Camp** |
-| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
+| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
 
 
 ### **Learn about S.T.E.A.M.**
@@ -71,20 +74,20 @@ Try out these printable worksheets from the first children’s makerspace in the
 
 P1 – P3
 
-| [![Space suit up image](/images/diyresources/primary/Spacesuit-Up.jpg)](/images/diyresources/primary/Spacesuit-Up_Tinker-Truck.pdf) | [![Build a dino image](/images/diyresources/primary/Dino.jpg)](/images/diyresources/primary/Build-a-Dino_Tinker-Truck.pdf) |
-| [![Animals image](/images/diyresources/primary/TT-Animals.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Animals.pdf) | [![Art attack image](/images/diyresources/primary/TT-Art-Attack.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Art-Attack.pdf) |
-| [![Knowing our world image](/images/diyresources/primary/TT-Knowing-our-World.jpg)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Knowing-Our-World.pdf) | [![Magnet fun image](/images/diyresources/primary/TT-Magnet-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Magnet-Fun.pdf) | 
-| [![Triangle fun images](/images/diyresources/primary/TT-Triangle-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Triangle-Fun.pdf) | [![Worlds image](/images/diyresources/primary/TT-Words.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.pdf) |
-| [![When i grow up image](/images/diyresources/primary/When-I-Grow-Up-1.jpg)](/images/diyresources/primary/When I Grow Up 1.pdf) | [![Space wonder image](/images/diyresources/primary/Space-Wonder-Cover.jpg)](/images/diyresources/primary/Space-Wonder-1.pdf) | 
-| [![Transformation image](/images/diyresources/primary/Transformation-Cover-1-1.jpg)](/images/diyresources/primary/Transformation-1.pdf) | [![My home image](/images/diyresources/primary/My-Home-Cover-1.jpg)](/images/diyresources/primary/My-Home-1.pdf) | 
+| [![Space suit up image](/images/diyresources/primary/Spacesuit-Up.jpg)](/images/diyresources/primary/Spacesuit-Up_Tinker-Truck.PDF) | [![Build a dino image](/images/diyresources/primary/Dino.jpg)](/images/diyresources/primary/Build-a-Dino_Tinker-Truck.PDF) |
+| [![Animals image](/images/diyresources/primary/TT-Animals.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Animals.PDF) | [![Art attack image](/images/diyresources/primary/TT-Art-Attack.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Art-Attack.PDF) |
+| [![Knowing our world image](/images/diyresources/primary/TT-Knowing-our-World.jpg)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Knowing-Our-World.pdf) | [![Magnet fun image](/images/diyresources/primary/TT-Magnet-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Magnet-Fun.PDF) | 
+| [![Triangle fun images](/images/diyresources/primary/TT-Triangle-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Triangle-Fun.PDF) | [![Worlds image](/images/diyresources/primary/TT-Words.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.PDF) |
+| [![When i grow up image](/images/diyresources/primary/When-I-Grow-Up-1.jpg)](/images/diyresources/primary/When I Grow Up 1.PDF) | [![Space wonder image](/images/diyresources/primary/Space-Wonder-Cover.jpg)](/images/diyresources/primary/Space-Wonder-1.PDF) | 
+| [![Transformation image](/images/diyresources/primary/Transformation-Cover-1-1.jpg)](/images/diyresources/primary/Transformation-1.PDF) | [![My home image](/images/diyresources/primary/My-Home-Cover-1.jpg)](/images/diyresources/primary/My-Home-1.PDF) | 
 
 **DIY Tweens Packages (30 mins)**
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 P4 – P6
 
-| [![Flexagon image](/images/diyresources/primary/Tweens-Flexagon.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/diyresources/primary/Tweens-Origami-Frog.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Frog.pdf) | 
-| [![Paper helicopter image](/images/diyresources/primary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Paper-Helicopter.pdf) | [![Zentangle image](/images/diyresources/primary/Tweens-Zentangle.jpg)](/images/diyresources/primary/Tweens-Pop-Up-package-Zentangle.pdf) |
+| [![Flexagon image](/images/diyresources/primary/Tweens-Flexagon.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Flexagon.PDF) | [![Origami frog image](/images/diyresources/primary/Tweens-Origami-Frog.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Frog.PDF) | 
+| [![Paper helicopter image](/images/diyresources/primary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Paper-Helicopter.PDF) | [![Zentangle image](/images/diyresources/primary/Tweens-Zentangle.jpg)](/images/diyresources/primary/Tweens-Pop-Up-package-Zentangle.PDF) |
 
 **Tweens Lab Mag (1 hour)**
 Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics and activities for you to complete. Download the issues below!
@@ -103,15 +106,14 @@ Pick a short read and create a story-based craft.
 
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-***New!** 2021 PopReads!*
+|***New!** 2021 PopReads!*|
 |Lower Primary|
 | <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.pdf"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.pdf"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
-
 |Upper Primary|
 | <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.pdf"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.pdf"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 60%;"></a> |
 
 
-*2020 PopReads!*
+|*2020 PopReads!*|
 | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
 | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
 

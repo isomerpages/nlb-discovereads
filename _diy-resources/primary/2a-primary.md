@@ -134,13 +134,15 @@ In this activity, students swap and share books with one another, prompting inte
 | <a href="/images/diyresources/primary/RSS-Slides.pptx"><img src="/images/diyresources/primary/reading-1496139_640.png" alt="Reading image" style="width: 70%;"></a> | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.PDF) | 
 | <a href="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.PDF"><img src="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png" alt="RSS advanced image" style="width: 70%;"></a> | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.PDF) |
 
+
 **Read Reap Write (30 mins)**
+
 Students explore how stories relate to the world around them through a series of engaging discussions and activities. By reading and reflecting on thought-provoking extracts from great books, students will be encouraged to think critically and draw parallels between what is described in the extracts and their real-life experiences.
 
 P3–P4
 <img src="/images/diyresources/primary/rrw-cakes-in-space.png" style="width: 40%;">
 
-**| [RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF) | [RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.PDF) |**
+| **[RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF)** | **[RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.PDF)** |
 
 * Title: [Cakes in Space](https://nlb.overdrive.com/media/2046934)
 * Author: Phillip Reeve and Sarah McIntyre
@@ -150,7 +152,7 @@ P3–P4
 P5 – P6
 <img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 40%;">
 
-**| [RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.pdf) | [RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.pdf) | [RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.pdf) |**
+| **[RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.PDF)** | **[RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.PDF)** | **[RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.PDF)** |
 
 * Title: [Fish in a Tree](https://nlb.overdrive.com/media/1766809)
 * Author: Lynda Mullaly Hunt
@@ -159,7 +161,7 @@ P5 – P6
 
 <img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 50%;">
 
-**| [RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.pdf) | [RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.pdf) |**
+| **[RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.PDF)** | **[RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.PDF)** |
 
 * Title: Saving Thanehaven
 * Author: Catherine Jinks

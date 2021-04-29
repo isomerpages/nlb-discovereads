@@ -11,11 +11,11 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop.
 
-_(Updated on 8 August 2020)_
+_(Updated on 29 April 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
@@ -47,7 +47,7 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 | **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
 | **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
-| [![Lower primary reading interest profile booklet image](/images/diyresources/primary/RIP.png)](/images/diyresources/primary/RIP_LowerPri_FA.PDF) | [![Upper primary reading interest profile booklet image](/images/diyresources/primary/RIPUP.png)](/images/diyresources/primary/RIP_UpperPri_FA.pdf) |
+| [![Lower primary reading interest profile booklet image](/images/diyresources/primary/RIP.png)](/images/diyresources/primary/RIP_LowerPri_FA.PDF) | [![Upper primary reading interest profile booklet image](/images/diyresources/primary/RIPUP.png)](/images/diyresources/primary/RIP_UpperPri_FA.PDF) |
 
 **Reading Challenge**
 Level up your reading game by completing our very own reading challenge:
@@ -91,7 +91,7 @@ Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics an
 
 P4 - P6
 
-<img src="images/diyresources/primary/tweenkeramalabmagcover.jpg" alt="Tweenkerama image" style="width: 50%;">
+<img src="images/diyresources/primary/tweenkeramalabmagcover.jpg" alt="Tweenkerama image" style="width: 40%;">
 
 | Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) | 
 
@@ -103,17 +103,17 @@ Pick a short read and create a story-based craft.
 
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-|***New!** 2021 PopReads!*|
+***New!** 2021 PopReads!*
 |Lower Primary|
-| <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.pdf"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.pdf"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.pdf"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.pdf"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
 
 |Upper Primary|
-| <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.pdf"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.pdf"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.pdf"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.pdf"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 60%;"></a> |
 
 
-|*2020 PopReads!*|
-| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 50%;"></a> | 
-| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 50%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 50%;"></a> |
+*2020 PopReads!*
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
 
 
 ### **Read and Share**

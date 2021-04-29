@@ -180,9 +180,11 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 
 | **Posters** (for Lower Primary) | **Posters** (for Upper Primary) | 
-| [![Lower primary poster image](/images/diyresources/primary/lower-pri-bookchart.png)](FA_12032018_A2-lower-primary-bookchart.pdf) | [![Upper primary poster image](/images/diyresources/primary/upper-pri-bookchart.png)](/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.pdf)
+| <a href="/images/diyresources/primary/FA_12032018_A2-lower-primary-bookchart.PDF"><imgc src="/images/diyresources/primary/lower-pri-bookchart.png" alt="Lower pri 2020 poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.PDF"><img src="/images/diyresources/primary/upper-pri-bookchart.png" alt="Upper pri 2020 poster" style="width: 50%;"></a> | 
+  
 
 **Activities (30 mins)**
+
 Suggested activities to liven up reading corners everywhere!
 
 <a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
@@ -191,7 +193,9 @@ Suggested activities to liven up reading corners everywhere!
 ### **Engage My Child in Reading**
 Read these dedicated guides for parents and educators.
 
+
 **Raising Readers**
+
 This guide provides information on how parents can instill a love of reading in their children.
 
 <a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
@@ -205,11 +209,14 @@ Topics covered include:
 * Reading at P1
 
 **The Parents’ Welcome Kit: Ride of a Lifetime**
+
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
 <a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.PDF"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 50%;"></a>
 
+
 **Tips to Get Your Kid Reading**
+
 This video is part of a series on parenting tips during home-based learning, brought to you by the Office of Education Research, NIE NTU, Singapore
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -218,7 +225,9 @@ This video is part of a series on parenting tips during home-based learning, bro
 ### **Learn To Be S.U.R.E.**
 Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!
 
+
 **S.U.R.E. Toolkit (45 min)**
+
 Get tips on how to be online savvy and combat fake news through insightful activities, based on the four basic S.U.R.E. skills: Source, Understand, Research and Evaluate.
 
 P4 – P6

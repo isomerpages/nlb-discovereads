@@ -145,7 +145,7 @@ Students explore how stories relate to the world around them through a series of
 P3–P4
 <img src="/images/diyresources/primary/rrw-cakes-in-space.png" style="width: 40%;">
 
-| **[RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF)** | **[RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.PDF)** |
+| [RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF) | [RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.PDF) |
 
 * Title: [Cakes in Space](https://nlb.overdrive.com/media/2046934)
 * Author: Phillip Reeve and Sarah McIntyre
@@ -155,7 +155,7 @@ P3–P4
 P5 – P6
 <img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 40%;">
 
-| **[RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.PDF)** | **[RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.PDF)** | **[RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.PDF)** |
+| [RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.PDF) | [RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.PDF) | [RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.PDF) |
 
 * Title: [Fish in a Tree](https://nlb.overdrive.com/media/1766809)
 * Author: Lynda Mullaly Hunt
@@ -164,7 +164,7 @@ P5 – P6
 
 <img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 40%;">
 
-| **[RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.PDF)** | **[RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.PDF)** |
+| [RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.PDF) | [RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.PDF) |
 
 * Title: Saving Thanehaven
 * Author: Catherine Jinks

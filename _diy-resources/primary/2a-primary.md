@@ -140,32 +140,30 @@ Students explore how stories relate to the world around them through a series of
 P3–P4
 <img src="/images/diyresources/primary/rrw-cakes-in-space.png" style="width: 40%;">
 
-* Title: [Cakes in Space](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201347823)
-* Author: Phillip Reeve and Sarah McIntyre
-* Call Number: JS REE
+**| [RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF) | [RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.PDF) |**
 
-| [RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.pdf) | [RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.pdf) |
+* Title: [Cakes in Space](https://nlb.overdrive.com/media/2046934)
+* Author: Phillip Reeve and Sarah McIntyre
+* Call No.: JS REE
+
 
 P5 – P6
+<img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 40%;">
 
-<img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 50%;">
+**| [RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.pdf) | [RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.pdf) | [RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.pdf) |**
 
-Title: [Fish in a Tree](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201282164)
-Author: Lynda Mullaly Hunt
-Call Number: J HUN
+* Title: [Fish in a Tree](https://nlb.overdrive.com/media/1766809)
+* Author: Lynda Mullaly Hunt
+* Call No.: J HUN
 
-[RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.pdf)
-[RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.pdf)
-[RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.pdf)
 
 <img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 50%;">
 
-Title: [Saving Thanehaven](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200131261) 
-Author: Catherine Jinks
-Call Number: J JIN
+**| [RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.pdf) | [RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.pdf) |**
 
-[RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.pdf)
-[RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.pdf)
+* Title: Saving Thanehaven
+* Author: Catherine Jinks
+* Call No.: J JIN
 
 
 ### **Decorate My Space**

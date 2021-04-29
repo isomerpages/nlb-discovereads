@@ -152,8 +152,8 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 
 |**Past Posters**|
-| [![Fiction poster image](images/diyresources/secondary/fiction-poster.jpg)](/images/diyresources/secondary/fiction-poster.jpg) | [![Nonfiction poster image](/images/diyresources/secondary/non-fic.jpg)](/images/diyresources/secondary/non-fic.jpg) |
-| [![Fiction authors image](/images/diyresources/secondary/Authors.jpg)](/images/diyresources/secondary/NLB-Author-Poster-FA.PDF) | [![First line image](/images/diyresources/secondary/First-Line.jpg)](/images/diyresources/secondary/NLB-First-Line-Posters-FA.PDF) |
+| <a href="/images/diyresources/secondary/fiction-poster.jpg"><img src="/images/diyresources/secondary/fiction-poster.jpg" alt="Fiction poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/non-fic.jpg"><img src="/images/diyresources/secondary/non-fic.jpg" alt="Non-fiction poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/NLB-Author-Poster-FA.PDF"><img src="/images/diyresources/secondary/Authors.jpg" alt="Fiction Authors poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/NLB-First-Line-Posters-FA.PDF"><img src="/images/diyresources/secondary/First-Line.jpg" alt="First line poster" style="width: 50%;"></a> |
 
 
 Recommended genre posters for Lower Secondary

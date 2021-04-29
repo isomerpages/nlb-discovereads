@@ -48,7 +48,7 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 | **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
 | **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
-| <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 50%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"<img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 60%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
 
 **Reading Challenge**
 

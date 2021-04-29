@@ -187,14 +187,14 @@ Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips t
 Explore the world wide web with these activity sheets from EYEYAH!
 Bonus: Print them out or take a screenshot with your phone to colour the black and white versions in!
 
-| **How much e-waste can you spot? (b&w)** | **How much e-waste can you spot? (colour)** |
-| [![Ewaste image](/images/diyresources/secondary/E-Waste_BW.jpg)](/images/diyresources/secondary/E-Waste_BW-scaled.jpg) | [![Ewaste color](/images/diyresources/secondary/E-Waste_color.jpg)](/images/diyresources/secondary/E-Waste_color-scaled.jpg) |
-| **Head in the Clouds(b&w)** | **Head in the Clouds (colour)** | 
-| [![Head in the clouds image](/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg)](/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg) | [![Head in the clouds color image](/images/diyresources/secondary/Head-in-the-Clouds_color.jpg)](/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg) |
-| **Did you know...(b&w)** | **Did you know...(colour)** |
-| [![Did you know image](images/diyresources/secondary/Selfies_BW-scaled.jpg)](images/diyresources/secondary/Selfies_BW-scaled.jpg) | [![Did you know color image](/images/diyresources/secondary/Selfies_color.jpg)](/images/diyresources/secondary/Selfies_color-scaled.jpg) |
-| **What do you do online?(b&w)** | **What do you do online? (colour)** |
-| [![What do you do online image](/images/diyresources/secondary/What-Do-You-Do-Online_BW.jpg)](/images/diyresources/secondary/What-Do-You-Do-Online_BW-scaled.jpg) | [![What do you do online color image](/images/diyresources/secondary/What-Do-You-Do-Online_color.jpg)](/images/diyresources/secondary/What-Do-You-Do-Online_color-scaled.jpg) |
+| How much e-waste can you spot? (b&w) | How much e-waste can you spot? (colour) |
+| <a href="/images/diyresources/secondary/E-Waste_BW-scaled.jpg"><img src="/images/diyresources/secondary/E-Waste_BW.jpg" alt="ewaste bw worksheet" style="width: 50%;"></a< | <a href="/images/diyresources/secondary/E-Waste_color.jpg"><img src="/images/diyresources/secondary/E-Waste_color-scaled.jpg" alt="ewaste coloured worksheet" style="width: 50%;"></a> |
+| Head in the Clouds (b&w) | Head in the Clouds (colour) | 
+| <a href="/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg><img src="/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg" alt="head in the clouds bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Head-in-the-Clouds_color.jpg"<img src="/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg" alt="head in the clouds coloured worksheet" style="width: 50%;"></a> |
+| Did you know...(b&w) | Did you know...(colour) |
+| <a href="/images/diyresources/secondary/Selfies_BW-scaled.jpg"><img src="/images/diyresources/secondary/Selfies_BW-scaled.jpg" alt="selfies bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Selfies_color.jpg"><img src="/images/diyresources/secondary/Selfies_color-scaled.jpg" alt="selfies coloured worksheet" style="width: 50%;"></a> |
+| What do you do online? (b&w) | What do you do online? (colour) |
+| <a href="/images/diyresources/secondary/What-Do-You-Do-Online_BW.jpg"><img src="/images/diyresources/secondary/What-Do-You-Do-Online_BW-scaled.jpg" alt="what do you do online bw worksheet" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/What-Do-You-Do-Online_color.jpg"><img src="/images/diyresources/secondary/What-Do-You-Do-Online_color-scaled.jpg" alt="what do you do online coloured worksheet" style="width: 50%;"></a> |
 
 The above activity sheets are courtesy of EYEYAH!
 

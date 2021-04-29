@@ -15,7 +15,8 @@ _(Updated on 29 April 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [ ***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [ ***New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
+| [ ****New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [ ****New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!

@@ -9,7 +9,7 @@ third_nav_title: Primary School Resources
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
 
-This page is best viewed on your desktop.
+This page is best viewed on your desktop. Click the images to download.
 
 _(Updated on 29 April 2021)_
 
@@ -78,9 +78,9 @@ P1 – P3
 
 | [![Space suit up image](/images/diyresources/primary/Spacesuit-Up.jpg)](/images/diyresources/primary/Spacesuit-Up_Tinker-Truck.PDF) | [![Build a dino image](/images/diyresources/primary/Dino.jpg)](/images/diyresources/primary/Build-a-Dino_Tinker-Truck.PDF) |
 | [![Animals image](/images/diyresources/primary/TT-Animals.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Animals.PDF) | [![Art attack image](/images/diyresources/primary/TT-Art-Attack.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Art-Attack.PDF) |
-| [![Knowing our world image](/images/diyresources/primary/TT-Knowing-our-World.jpg)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Knowing-Our-World.pdf) | [![Magnet fun image](/images/diyresources/primary/TT-Magnet-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Magnet-Fun.PDF) | 
+| [![Knowing our world image](/images/diyresources/primary/TT-Knowing-our-World.jpg)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Knowing-Our-World.PDF) | [![Magnet fun image](/images/diyresources/primary/TT-Magnet-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Magnet-Fun.PDF) | 
 | [![Triangle fun images](/images/diyresources/primary/TT-Triangle-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Triangle-Fun.PDF) | [![Worlds image](/images/diyresources/primary/TT-Words.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.PDF) |
-| [![When i grow up image](/images/diyresources/primary/When-I-Grow-Up-1.jpg)](/images/diyresources/primary/When I Grow Up 1.PDF) | [![Space wonder image](/images/diyresources/primary/Space-Wonder-Cover.jpg)](/images/diyresources/primary/Space-Wonder-1.PDF) | 
+| [![When i grow up image](/images/diyresources/primary/When-I-Grow-Up-1.jpg)](/images/diyresources/primary/When-I-Grow-Up-1.PDF) | [![Space wonder image](/images/diyresources/primary/Space-Wonder-Cover.jpg)](/images/diyresources/primary/Space-Wonder-1.PDF) | 
 | [![Transformation image](/images/diyresources/primary/Transformation-Cover-1-1.jpg)](/images/diyresources/primary/Transformation-1.PDF) | [![My home image](/images/diyresources/primary/My-Home-Cover-1.jpg)](/images/diyresources/primary/My-Home-1.PDF) | 
 
 **DIY Tweens Packages (30 mins)**
@@ -199,7 +199,7 @@ Read these dedicated guides for parents and educators.
 
 **Raising Readers**
 
-This guide provides information on how parents can instill a love of reading in their children.
+This guide provides information on how parents can instill a love of reading in their children. 
 
 <a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 40%;"></a>
 
@@ -235,17 +235,18 @@ Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips t
 Get tips on how to be online savvy and combat fake news through insightful activities, based on the four basic S.U.R.E. skills: Source, Understand, Research and Evaluate.
 
 P4 – P6
+
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
 | <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.PDF"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
-| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
+| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.PDF) |
 
 **Fake News #2**
 
 | Activity Sheet | SURE-vivor Booklet |
-| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.pdf"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
+| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.PDF"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.PDF"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
 For more great information literacy resources, click [here](/services/other-services/sure)!
 

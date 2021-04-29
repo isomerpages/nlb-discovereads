@@ -204,6 +204,7 @@ The above activity sheets are courtesy of EYEYAH!
 Get tips on how to be online savvy and combat fake news through insightful activities, based on the four basic S.U.R.E. skills: Source, Understand, Research and Evaluate.
 
 Sec 1 – Sec 2
+
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |

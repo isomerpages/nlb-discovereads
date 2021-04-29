@@ -83,7 +83,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 
 |**2020 PopReads!**|
-| <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 30%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 30%;"></a> |
+| <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 40%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 40%;"></a> |
 
 
 ### **Read and Share**
@@ -96,7 +96,7 @@ Students explore how stories relate to the world around them through a series of
 Sec 1–Sec 2
 <img src="/images/diyresources/secondary/shortstoriesandradioplaysofsrajaratnam.jpg" alt="The short stories and radio plays of s rajaratnam image" style="width: 30%;">
 
-| **[RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.PDF)** | **[RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-SG-Secondary-S-Rajaratnam_Facil-Guide-edited-1.PDF)** |
+| [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.PDF) | [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-SG-Secondary-S-Rajaratnam_Facil-Guide-edited-1.PDF) |
 
 * Title: [Short Stories and Radio Plays of S. Rajaratnam](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13792223)
 * Author: S. Rajaratnam
@@ -105,7 +105,7 @@ Sec 1–Sec 2
 
 <img src="/images/diyresources/secondary/Hatchet.jpg" alt="Hatchet image" style="width: 30%;">
 
-| **[RRW Secondary Hatchet Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Hatchet-Worksheet-and-Extract.pdf)** | **[RRW Secondary Hatchet Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Hatchet-Facilitators-Guide.pdf)** |
+| [RRW Secondary Hatchet Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Hatchet-Worksheet-and-Extract.PDF) | [RRW Secondary Hatchet Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Hatchet-Facilitators-Guide.PDF) |
 
 * Title: [Hatchet](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=8801620)
 * Author: Gary Paulsen
@@ -115,7 +115,7 @@ Sec 1–Sec 2
 Sec 3–Sec 4
 <img src="/images/diyresources/secondary/50-stories-of-my-life_SR-NATHAN.jpg" style="width: 30%;">
 
-| **[RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.PDF)** | **[RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-Secondary-2015-50-Stories_Facil-Guide-1.PDF)** |
+| [RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.PDF) | [RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-Secondary-2015-50-Stories_Facil-Guide-1.PDF) |
 
 * Title: [S R Nathan: 50 stories from my life](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200132009)
 * Author: S. R. Nathan
@@ -124,7 +124,7 @@ Sec 3–Sec 4
 
 <img src="/images/diyresources/secondary/Words.jpeg" style="width: 30%;">
 
-| **[RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.PDF)** | **[RRW Secondary &Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.PDF)** |
+| [RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.PDF) | [RRW Secondary &Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.PDF) |
 
 * Title: [&Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13668713)
 * Edited by: Edwin Thumboo
@@ -133,7 +133,7 @@ Sec 3–Sec 4
 
 <img src="/images/diyresources/secondary/Viridian_SusanGates.jpg" alt="Viridian image" style="width: 30%;">
 
-| **[RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Viridian-Worksheet-and-Extract.PDF)** | **[RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Viridian-Facilitators-Guide.PDF)** |
+| [RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Viridian-Worksheet-and-Extract.PDF) | [RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Viridian-Facilitators-Guide.PDF) |
 
 * Title: [Viridian](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200165574)
 * Author: Susan Gates

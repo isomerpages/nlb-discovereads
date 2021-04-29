@@ -159,7 +159,7 @@ P5 – P6
 * Call No.: J HUN
 
 
-<img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 50%;">
+<img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 40%;">
 
 | **[RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.PDF)** | **[RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.PDF)** |
 

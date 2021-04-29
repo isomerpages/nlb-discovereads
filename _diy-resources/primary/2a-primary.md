@@ -9,7 +9,7 @@ third_nav_title: Primary School Resources
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
 
-This page is best viewed on your desktop. Click the images to download.
+This page is best viewed on your desktop. 
 
 _(Updated on 29 April 2021)_
 

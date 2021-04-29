@@ -15,7 +15,7 @@ _(Updated on 29 April 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
@@ -97,7 +97,7 @@ P4 - P6
 
 <img src="images/diyresources/primary/tweenkeramalabmagcover.jpg" alt="Tweenkerama image" style="width: 40%;">
 
-| Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) | 
+| Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.PDF) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.PDF) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.PDF) | 
 
 
 ### **Read and Craft**
@@ -107,14 +107,14 @@ Pick a short read and create a story-based craft.
 
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-|***New!** 2021 PopReads!*|
+|***New!* 2021 PopReads!**|
 |Lower Primary|
 | <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.PDF"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.PDF"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
 |Upper Primary|
 | <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.PDF"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.PDF"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 60%;"></a> |
 
 
-|*2020 PopReads!*|
+|**2020 PopReads!**|
 | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.PDF"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.PDF"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
 | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.PDF"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.PDF"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
 
@@ -175,13 +175,19 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 **Posters (5 mins)**
 
+| ***New!* 2021 Posters for Primary Schools** | 
+| <a href="/images/diyresources/primary/Primary-Poster-21-Be-Kind.PDF"><img src="/images/diyresources/primary/priposter-kind.png" alt="Be Kind poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/Primary-Poster-21-Know-Your-Book.PDF"><img src="/images/diyresources/primary/priposter-know-book.png" alt="Know Your Book poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/Primary-Poster-21-Know-Your-DDC.PDF"><img src="/images/diyresources/primary/priposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/Primary-Poster-21-Know-Your-Genre.PDF"><img src="/images/diyresources/primary/priposter-genre.png" alt="Know Your Genre poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/Primary-Poster-21-Read-With-Your-Friends.PDF"><img src="images/diyresources/primary/priposter-friends.png" alt="Read with your friends poster" style="width: 50%;"></a> |
+
+
 | **Posters** (for Lower Primary) | **Posters** (for Upper Primary) | 
 | [![Lower primary poster image](/images/diyresources/primary/lower-pri-bookchart.png)](FA_12032018_A2-lower-primary-bookchart.pdf) | [![Upper primary poster image](/images/diyresources/primary/upper-pri-bookchart.png)](/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.pdf)
 
 **Activities (30 mins)**
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
 
 
 ### **Engage My Child in Reading**
@@ -190,7 +196,7 @@ Read these dedicated guides for parents and educators.
 **Raising Readers**
 This guide provides information on how parents can instill a love of reading in their children.
 
-<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
 
 Topics covered include:
 
@@ -203,7 +209,7 @@ Topics covered include:
 **The Parents’ Welcome Kit: Ride of a Lifetime**
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.pdf"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.PDF"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 50%;"></a>
 
 **Tips to Get Your Kid Reading**
 This video is part of a series on parenting tips during home-based learning, brought to you by the Office of Education Research, NIE NTU, Singapore
@@ -221,7 +227,7 @@ P4 – P6
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.pdff"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
+| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.PDF"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
 | [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
 

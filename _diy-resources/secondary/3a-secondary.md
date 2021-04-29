@@ -83,7 +83,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 
 |**2020 PopReads!**|
-| <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 40%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 40%;"></a> |
+| <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 60%;"></a> |
 
 
 ### **Read and Share**
@@ -160,16 +160,16 @@ Recommended genre posters for Lower Secondary
 
 *Click on the links below to download the posters*
 
-**| [Fantasy](/images/diyresources/secondary/Lower-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Lower-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Lower-Sec-Thriller-Book-Buzz-Poster.PDF) |
-| [Science Fiction](/images/diyresources/secondary/Lower-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Lower-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |**
+| [Fantasy](/images/diyresources/secondary/Lower-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Lower-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Lower-Sec-Thriller-Book-Buzz-Poster.PDF) |
+| [Science Fiction](/images/diyresources/secondary/Lower-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Lower-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |
 
 
 Recommended genre posters for Upper Secondary
 
 *Click on the links below to download the posters*
 
-**| [Fantasy](/images/diyresources/secondary/Upper-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Upper-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Upper-Sec-Thriller-Book-Buzz-Poster.PDF) |
-| [Science Fiction](/images/diyresources/secondary/Upper-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Upper-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |**
+| [Fantasy](/images/diyresources/secondary/Upper-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Upper-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Upper-Sec-Thriller-Book-Buzz-Poster.PDF) |
+| [Science Fiction](/images/diyresources/secondary/Upper-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Upper-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |
 
 
 **Activities (30 mins)**

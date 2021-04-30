@@ -77,4 +77,4 @@ Little learners will love wiggling the cuddly star puppet whilst enjoying the cl
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
 
-##**For more activities and book recommendations, click [here](images/diyresources/preschool/ELPractices_Compiled01.pdf).**
+### **For more activities and book recommendations, click [here](/images/diyresources/preschool/ELPractices_Compiled01.pdf).**

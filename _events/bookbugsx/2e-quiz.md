@@ -12,7 +12,21 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 
-#### Apr 2021 - Attack of the Swordfish
+#### May 2021 - Magical Objects
+
+**English Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYi7AHSlMJVwddYtGu0blbG5y1TVoEuJrZ0ybc64grx7OLzQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqrRYj0-TAmOi2JfGm3Ru9hEQlQKHxXUlkBOaRe7M6UropdA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+**Mother Tongue Languages (Chinese, Malay, Tamil) Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsfuW1qA_nKf-p40VHK_7Qi-gHGyqn33lj8g_xIMAUlkpAYw/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKVMtezi723IKAsddI_Bx8tUPIVl3v5MpiiZzFlRHAjgn5Ow/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+#### Apr 2021 - Attack of the Swordfish (CLOSED)
+
+This quiz has now closed. Points will be awarded by 7 May 2021, Friday. All entries received after 30 April 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 
 **English Quiz**
 

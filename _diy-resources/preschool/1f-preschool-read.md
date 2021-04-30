@@ -91,3 +91,5 @@ A delightful new board book teaches babies and toddlers 10 yoga poses inspired b
 Yoga Bunny invites you and your little one on a woodland yoga adventure with 10 adorable forest critters. Bunny, raccoon, owl, and deer―the gang’s all here! From Hero and Half Lotus to Cat and Cow, Yoga Bunny leads babies and toddlers through these authentic poses and more, with guidance from some of their favorite animal friends.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
+
+##**For more activities and book recommendations, click [here](images/diyresources/preschool/ELPractices_Compiled01.pdf).**

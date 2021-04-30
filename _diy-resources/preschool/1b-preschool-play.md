@@ -83,3 +83,5 @@ Children will be entertained for hours with this invaluable collection of crafty
 With such a huge range of exciting projects to make from the simplest of objects, 100 Things to Recycle and Make is the ultimate craft inspiration for creative children.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
+
+##**For more activities and book recommendations, click [here](images/diyresources/preschool/ELPractices_Compiled01.pdf).**

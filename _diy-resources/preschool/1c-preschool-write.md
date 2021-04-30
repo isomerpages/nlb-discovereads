@@ -67,3 +67,5 @@ Little owl is hiding! Very young children will love peeping through the holes an
 Join the animal friends for an exciting lullaby adventure. Little ones will love to follow the trail on each page and see what they can discover.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
+
+##**For more activities and book recommendations, click [here](images/diyresources/preschool/ELPractices_Compiled01.pdf).**

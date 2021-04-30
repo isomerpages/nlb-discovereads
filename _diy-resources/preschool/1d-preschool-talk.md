@@ -97,3 +97,5 @@ Crocodile lurks in the water, Tiger and Lion prowl through the jungle, Monkey sw
 A larger-than-life look at wild jungle animals, this visually stunning book is a work of art.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
+
+##**For more activities and book recommendations, click [here](images/diyresources/preschool/ELPractices_Compiled01.pdf).**

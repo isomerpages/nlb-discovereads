@@ -76,3 +76,5 @@ This award-winning series has been specifically designed for babies. A great int
 Little learners will love wiggling the cuddly star puppet whilst enjoying the classic rhyme 'Twinkle Twinkle Little Star'. With cute illustrations throughout, plus plenty of opportunities to sing along, this title makes an ideal choice for parents wanting to encourage the development of fine motor skills in their little ones.
 
 _All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
+
+##**For more activities and book recommendations, click [here](images/diyresources/preschool/ELPractices_Compiled01.pdf).**

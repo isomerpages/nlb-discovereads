@@ -9,13 +9,14 @@ third_nav_title: Primary School Resources
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
 
-This page is best viewed on your desktop.
+This page is best viewed on your desktop. 
 
-_(Updated on 8 August 2020)_
+_(Updated on 29 April 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) | [Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
+| [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
@@ -27,7 +28,6 @@ Click on the icon to find out more!
 
 Enjoy storytelling videos anytime, anywhere!
 Spark your reading joy with our online storytelling videos in the four official languages. Discover fascinating tales about animals, heritage, professions and more. Remember to set your alarm so you don’t miss any wonderful videos!
-
 
 _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="width: 40%;"></a>
@@ -42,25 +42,30 @@ _(Click on the icon to find out more!)_
 Uncover your reading interest and challenge your lit knowledge!
 
 **Reading Interest Profile (15 mins)**
+
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
 | **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
 | **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
-| [![Lower primary reading interest profile booklet image](/images/diyresources/primary/RIP.png)](/images/diyresources/primary/RIP_LowerPri_FA.PDF) | [![Upper primary reading interest profile booklet image](/images/diyresources/primary/RIPUP.png)](/images/diyresources/primary/RIP_UpperPri_FA.pdf) |
+| <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 60%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
+
 
 **Reading Challenge**
+
 Level up your reading game by completing our very own reading challenge:
 
-<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
+<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.PDF"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
+
 
 **POSB-NLB Kids’ Lit Quiz(TM) Survival Kit and Literary Boot Camp Booklet (30 mins)**
+
 Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
 
 P4-P6
 
 | **Survival Kit** | **Literary Boot Camp** |
-| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
+| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
 
 
 ### **Learn about S.T.E.A.M.**
@@ -71,92 +76,99 @@ Try out these printable worksheets from the first children’s makerspace in the
 
 P1 – P3
 
-| [![Space suit up image](/images/diyresources/primary/Spacesuit-Up.jpg)](/images/diyresources/primary/Spacesuit-Up_Tinker-Truck.pdf) | [![Build a dino image](/images/diyresources/primary/Dino.jpg)](/images/diyresources/primary/Build-a-Dino_Tinker-Truck.pdf) |
-| [![Animals image](/images/diyresources/primary/TT-Animals.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Animals.pdf) | [![Art attack image](/images/diyresources/primary/TT-Art-Attack.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Art-Attack.pdf) |
-| [![Knowing our world image](/images/diyresources/primary/TT-Knowing-our-World.jpg)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Knowing-Our-World.pdf) | [![Magnet fun image](/images/diyresources/primary/TT-Magnet-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Magnet-Fun.pdf) | 
-| [![Triangle fun images](/images/diyresources/primary/TT-Triangle-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Triangle-Fun.pdf) | [![Worlds image](/images/diyresources/primary/TT-Words.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.pdf) |
-| [![When i grow up image](/images/diyresources/primary/When-I-Grow-Up-1.jpg)](/images/diyresources/primary/When I Grow Up 1.pdf) | [![Space wonder image](/images/diyresources/primary/Space-Wonder-Cover.jpg)](/images/diyresources/primary/Space-Wonder-1.pdf) | 
-| [![Transformation image](/images/diyresources/primary/Transformation-Cover-1-1.jpg)](/images/diyresources/primary/Transformation-1.pdf) | [![My home image](/images/diyresources/primary/My-Home-Cover-1.jpg)](/images/diyresources/primary/My-Home-1.pdf) | 
+| [![Space suit up image](/images/diyresources/primary/Spacesuit-Up.jpg)](/images/diyresources/primary/Spacesuit-Up_Tinker-Truck.PDF) | [![Build a dino image](/images/diyresources/primary/Dino.jpg)](/images/diyresources/primary/Build-a-Dino_Tinker-Truck.PDF) |
+| [![Animals image](/images/diyresources/primary/TT-Animals.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Animals.PDF) | [![Art attack image](/images/diyresources/primary/TT-Art-Attack.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Art-Attack.PDF) |
+| [![Knowing our world image](/images/diyresources/primary/TT-Knowing-our-World.jpg)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Knowing-Our-World.PDF) | [![Magnet fun image](/images/diyresources/primary/TT-Magnet-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Magnet-Fun.PDF) | 
+| [![Triangle fun images](/images/diyresources/primary/TT-Triangle-Fun.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Triangle-Fun.PDF) | [![Worlds image](/images/diyresources/primary/TT-Words.png)](/images/diyresources/primary/Tinker-Truck-DIY-Activities-Words.PDF) |
+| [![When i grow up image](/images/diyresources/primary/When-I-Grow-Up-1.jpg)](/images/diyresources/primary/When-I-Grow-Up-1.PDF) | [![Space wonder image](/images/diyresources/primary/Space-Wonder-Cover.jpg)](/images/diyresources/primary/Space-Wonder-1.PDF) | 
+| [![Transformation image](/images/diyresources/primary/Transformation-Cover-1-1.jpg)](/images/diyresources/primary/Transformation-1.PDF) | [![My home image](/images/diyresources/primary/My-Home-Cover-1.jpg)](/images/diyresources/primary/My-Home-1.PDF) | 
 
 **DIY Tweens Packages (30 mins)**
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 P4 – P6
 
-| [![Flexagon image](/images/diyresources/primary/Tweens-Flexagon.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/diyresources/primary/Tweens-Origami-Frog.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Frog.pdf) | 
-| [![Paper helicopter image](/images/diyresources/primary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Paper-Helicopter.pdf) | [![Zentangle image](/images/diyresources/primary/Tweens-Zentangle.jpg)](/images/diyresources/primary/Tweens-Pop-Up-package-Zentangle.pdf) |
+| [![Flexagon image](/images/diyresources/primary/Tweens-Flexagon.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Flexagon.PDF) | [![Origami frog image](/images/diyresources/primary/Tweens-Origami-Frog.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Frog.PDF) | 
+| [![Paper helicopter image](/images/diyresources/primary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/primary/Tweens-Pop-up-Package-Paper-Helicopter.PDF) | [![Zentangle image](/images/diyresources/primary/Tweens-Zentangle.jpg)](/images/diyresources/primary/Tweens-Pop-Up-package-Zentangle.PDF) |
 
 **Tweens Lab Mag (1 hour)**
 Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics and activities for you to complete. Download the issues below!
 
 P4 - P6
 
-<img src="images/diyresources/primary/tweenkeramalabmagcover.jpg" alt="Tweenkerama image" style="width: 50%;">
+<img src="images/diyresources/primary/tweenkeramalabmagcover.jpg" alt="Tweenkerama image" style="width: 40%;">
 
-| Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) | 
+| Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.PDF) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.PDF) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.PDF) | 
 
 
 ### **Read and Craft**
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
+
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-P1 – P3
+|***New!* 2021 PopReads!**|
+|Lower Primary|
+| <a href="/images/diyresources/primary/NLB_Popreads21_LP_FlyingFun.PDF"><img src="/images/diyresources/primary/popreads21-flying.png" alt="Flying Fun PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_SavingPlanetEarth.PDF"><img src="/images/diyresources/primary/popreads21-earth.png" alt="Saving Planet Earth PopReads!" style="width: 60%;"></a> |
+|Upper Primary|
+| <a href="/images/diyresources/primary/NLB_Popreads21_UP_TransformMe.PDF"><img src="/images/diyresources/primary/popreads21-transform.png" alt="Transform Me PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB_Popreads21_UP_ReachOutfortheSkies.PDF"><img src="/images/diyresources/primary/popreads21-skies.png" alt="Reach Out for the Skies PopReads!" style="width: 60%;"></a> |
 
-| [![Up up and away image](/images/diyresources/primary/upupandaway.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf) | [![Dragon dancer image](/images/diyresources/primary/PopReads-Dragon-Dancer.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf) | 
-| [![Decode me image](/images/diyresources/primary/popReads-Decode-me.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf) | [![Just keep running image](/images/diyresources/primary/Just-keep-running.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf) |
+
+|**2020 PopReads!**|
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.PDF"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.PDF"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
+| <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.PDF"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.PDF"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
 
 
 ### **Read and Share**
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.PDF"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
 **Read Swap Share (30 mins)**
+
 In this activity, students swap and share books with one another, prompting interesting book-related conversations. Use these worksheets as a guide as you borrow our [eBooks](/ebooks/ebook-nav)!
 
+
 | **RSS Facilitator’s Guide** | **RSS Worksheet Primary 1 to 2 (Basic)** |
-| <a href="/images/diyresources/primary/RSS-Slides.pptx"><img src="/images/diyresources/primary/reading-1496139_640.png" alt="Reading image" style="width: 70%;"></a> | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.pdf) | 
-| <a href="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.pdf"><img src="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png" alt="RSS advanced image" style="width: 70%;"></a> | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.pdf) |
+| <a href="/images/diyresources/primary/RSS-Slides.pptx"><img src="/images/diyresources/primary/reading-1496139_640.png" alt="Reading image" style="width: 70%;"></a> | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.PDF) | 
+| <a href="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.PDF"><img src="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png" alt="RSS advanced image" style="width: 70%;"></a> | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.PDF) |
+
 
 **Read Reap Write (30 mins)**
+
 Students explore how stories relate to the world around them through a series of engaging discussions and activities. By reading and reflecting on thought-provoking extracts from great books, students will be encouraged to think critically and draw parallels between what is described in the extracts and their real-life experiences.
 
-P3 – P4
+P3–P4
+<img src="/images/diyresources/primary/rrw-cakes-in-space.png" style="width: 40%;">
 
-<img src="/images/diyresources/primary/rrw-cakes-in-space.png" style="width: 50%;">
+| [RRW Primary Cakes in Space Worksheet & Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.PDF) | [RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.PDF) |
 
-Title: [Cakes in Space](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201347823)
-Author: Phillip Reeve and Sarah McIntyre
-Call Number: JS REE
+* Title: [Cakes in Space](https://nlb.overdrive.com/media/2046934)
+* Author: Phillip Reeve and Sarah McIntyre
+* Call No.: JS REE
 
-[RRW Primary Cakes in Space Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Science-Fiction_Cakes-in-Space.pdf)
-[RRW Primary Cakes in Space Facilitator’s Guide](/images/diyresources/primary/P3_RRW_Fiction_CakesInSpace_FacilitatorGuide_Final.pdf)
 
 P5 – P6
+<img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 40%;">
 
-<img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 50%;">
+| [RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.PDF) | [RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.PDF) | [RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.PDF) |
 
-Title: [Fish in a Tree](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201282164)
-Author: Lynda Mullaly Hunt
-Call Number: J HUN
+* Title: [Fish in a Tree](https://nlb.overdrive.com/media/1766809)
+* Author: Lynda Mullaly Hunt
+* Call No.: J HUN
 
-[RRW Primary Fish in a Tree Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Realistic-Fiction_FA2.pdf)
-[RRW Primary Fish in a Tree Facilitator’s Guide](/images/diyresources/primary/P5_RRW_Fish-in-a-Tree_Facilitators-Guide_FINAL.pdf)
-[RRW Primary Fish in a Tree Powerpoint Slides](/images/diyresources/primary/P5_RRW_Fish-In-a-Tree_Facilitationppt.pdf)
 
-<img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 50%;">
+<img src="/images/diyresources/primary/rrw-saving-thanehaven.png" style="width: 40%;">
 
-Title: [Saving Thanehaven](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200131261) 
-Author: Catherine Jinks
-Call Number: J JIN
+| [RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.PDF) | [RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.PDF) |
 
-[RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.pdf)
-[RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.pdf)
+* Title: Saving Thanehaven
+* Author: Catherine Jinks
+* Call No.: J JIN
 
 
 ### **Decorate My Space**
@@ -164,22 +176,32 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 **Posters (5 mins)**
 
-| **Posters** (for Lower Primary) | **Posters** (for Upper Primary) | 
-| [![Lower primary poster image](/images/diyresources/primary/lower-pri-bookchart.png)](FA_12032018_A2-lower-primary-bookchart.pdf) | [![Upper primary poster image](/images/diyresources/primary/upper-pri-bookchart.png)](/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.pdf)
+| ***New!* 2021 Posters for Primary Schools** | 
+| <a href="/images/diyresources/primary/Primary-Poster-21-Be-Kind.PDF"><img src="/images/diyresources/primary/priposter-kind.png" alt="Be Kind poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/Primary-Poster-21-Know-Your-Book.PDF"><img src="/images/diyresources/primary/priposter-know-book.png" alt="Know Your Book poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/Primary-Poster-21-Know-Your-DDC.PDF"><img src="/images/diyresources/primary/priposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/Primary-Poster-21-Know-Your-Genre.PDF"><img src="/images/diyresources/primary/priposter-genre.png" alt="Know Your Genre poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/primary/Primary-Poster-21-Read-With-Your-Friends.PDF"><img src="images/diyresources/primary/priposter-friends.png" alt="Read with your friends poster" style="width: 50%;"></a> |
+
+
+|**Past Posters** |
+| Lower Primary | Upper Primary) | 
+| <a href="/images/diyresources/primary/FA_12032018_A2-lower-primary-bookchart.PDF"><img src="/images/diyresources/primary/lower-pri-bookchart.png" alt="Lower pri 2020 poster" style="width: 50%;"></a> | <a href="/images/diyresources/primary/FA_12032018_A2-upper-primary-bookchart.PDF"><img src="/images/diyresources/primary/upper-pri-bookchart.png" alt="Upper pri 2020 poster" style="width: 50%;"></a> | 
+  
 
 **Activities (30 mins)**
+
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
 
 
 ### **Engage My Child in Reading**
 Read these dedicated guides for parents and educators.
 
 **Raising Readers**
-This guide provides information on how parents can instill a love of reading in their children.
 
-<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
+This guide provides information on how parents can instill a love of reading in their children. 
+
+<a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 40%;"></a>
 
 Topics covered include:
 
@@ -189,12 +211,16 @@ Topics covered include:
 * NLB eResources
 * Reading at P1
 
+
 **The Parents’ Welcome Kit: Ride of a Lifetime**
+
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.pdf"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/NLB-Parents-Welcome-Kit-The-Ride-of-a-Lifetime-2021.PDF"><img src="/images/diyresources/primary/PWK-2021-image.jpg" alt="Parents welcome kit image" style="width: 40%;"></a>
+
 
 **Tips to Get Your Kid Reading**
+
 This video is part of a series on parenting tips during home-based learning, brought to you by the Office of Education Research, NIE NTU, Singapore
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -203,21 +229,24 @@ This video is part of a series on parenting tips during home-based learning, bro
 ### **Learn To Be S.U.R.E.**
 Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!
 
+
 **S.U.R.E. Toolkit (45 min)**
+
 Get tips on how to be online savvy and combat fake news through insightful activities, based on the four basic S.U.R.E. skills: Source, Understand, Research and Evaluate.
 
 P4 – P6
+
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.pdff"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
+| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.PDF"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
-| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
+| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.PDF) |
 
 **Fake News #2**
 
 | Activity Sheet | SURE-vivor Booklet |
-| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.pdf"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
+| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.PDF"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.PDF"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
 For more great information literacy resources, click [here](/services/other-services/sure)!
 

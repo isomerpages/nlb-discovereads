@@ -32,7 +32,7 @@ Materials needed:
 
 A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar landscapes and snow-capped peaks, then return to the ancient city at the bottom.
 
-<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+<img src="/images/diyresources/preschool/Old Rock.JPG" alt="old rock" style="width:40%">
 
 **Title:** Old Rock (Is Not Boring) <br>
 **Author:** Deb Pilutti <br>

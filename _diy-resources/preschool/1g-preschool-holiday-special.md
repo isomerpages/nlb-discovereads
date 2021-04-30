@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 
 ## **Holiday Specials with Librarians! (Preschool)**
 
-### **Volcanoes and Rocks Rock!**
+### **Volcanoes And Rocks Rock!**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxuCnxaxcT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar l
 
 Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is boring until Old Rock shares what he has seen and done since he first flew out of a volcano.
 
-<img src="/images/diyresources/preschool/Spenser and the Rocks.JPG" alt="spenser and the rocks" style="width:100%">
+<img src="/images/diyresources/preschool/Spenser and the Rocks.JPG" alt="spenser and the rocks" style="width:40%">
 
 **Title:** Spenser And The Rocks <br>
 **Author:** Lawrence F Lowery <br>
@@ -48,7 +48,7 @@ Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is bori
 
 The heart of the story is a young boy named Spenser and his interests, curiosity, and thoughts. Through the story, the reader is introduced to scientific procedures such as classification, research, and reclassification. Spenser's interest in rocks increases as he learns more about them by sorting the rocks, asking questions, and reading reference books.
 
-<img src="/images/diyresources/preschool/A Rock Can Be.JPG" alt="a rock can be" style="width:100%">
+<img src="/images/diyresources/preschool/A Rock Can Be.JPG" alt="a rock can be" style="width:40%">
 
 **Title:** A Rock Can Be... <br>
 **Author:** Laura Purdie Salas and Violeta Dabija <br>

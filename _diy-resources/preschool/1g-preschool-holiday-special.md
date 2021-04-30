@@ -24,7 +24,7 @@ Materials needed:
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+<img src="/images/diyresources/preschool/A trip to the top of the volcano with mouse.PNG" alt="trip to the top of the volcano" style="width:40%">
 
 **Title:** A Trip to The Top of The Volcano With Mouse: A Toon Book <br>
 **Author:** Frank Viva <br>
@@ -48,7 +48,7 @@ Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is bori
 
 The heart of the story is a young boy named Spenser and his interests, curiosity, and thoughts. Through the story, the reader is introduced to scientific procedures such as classification, research, and reclassification. Spenser's interest in rocks increases as he learns more about them by sorting the rocks, asking questions, and reading reference books.
 
-<img src="/images/diyresources/preschool/A Rock Can Be.JPG" alt="oh no" style="width:40%">
+<img src="/images/diyresources/preschool/A Rock Can Be.JPG" alt="a rock can be" style="width:40%">
 
 **Title:** A Rock Can Be... <br>
 **Author:** Laura Purdie Salas and Violeta Dabija <br>

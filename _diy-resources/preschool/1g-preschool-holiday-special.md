@@ -7,6 +7,55 @@ third_nav_title: Preschool Resources
 
 ## **Holiday Specials with Librarians! (Preschool)**
 
+### **Volcanoes and Rocks Rock!**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxuCnxaxcT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **I lava reading card!**
+
+Materials needed:
+
+* 1 sheet of A4 sized drawing block
+* Brown, yellow and orange poster or acrylic paint (ensure that it is safe for skin)
+* Paintbrush
+* Markers
+
+[Download](/images/diyresources/preschool/Lion-paper-crown-instructions.pdf) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+
+**Title:** A Trip to The Top of The Volcano With Mouse: A Toon Book <br>
+**Author:** Frank Viva <br>
+**Publisher:** Toon Books, 2019 <br>
+
+A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar landscapes and snow-capped peaks, then return to the ancient city at the bottom.
+
+<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+
+**Title:** Old Rock (Is Not Boring) <br>
+**Author:** Deb Pilutti <br>
+**Publisher:** G.P. Putnam's Sons, 2020 <br>
+
+Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is boring until Old Rock shares what he has seen and done since he first flew out of a volcano.
+
+<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+
+**Title:** Spenser And The Rocks <br>
+**Author:** Lawrence F Lowery <br>
+**Publisher:** NSTA Kids, National Science Teachers Association, 2013 <br>
+
+The heart of the story is a young boy named Spenser and his interests, curiosity, and thoughts. Through the story, the reader is introduced to scientific procedures such as classification, research, and reclassification. Spenser's interest in rocks increases as he learns more about them by sorting the rocks, asking questions, and reading reference books.
+
+<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+
+**Title:** A Rock Can Be... <br>
+**Author:** Laura Purdie Salas and Violeta Dabija <br>
+**Publisher:** Millbrook Press, 2015 <br>
+
+Rocks may seem like boring, static objects--until you discover that a rock can spark a fire, glow in the dark, and provide shelters of all shapes and size. Learn how rocks decorate and strengthen the world around them.
+
 ### **Safari Adventure**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mWbrVf5va3U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,6 +81,8 @@ Materials needed:
 **Title:** Oh, No! <br>
 **Author:** Candace Fleming & Eric Rohmann <br>
 **Publisher:** Schwartz & Wade Books, c2012 <br>
+
+Young children will delight in repeating the refrain “OH NO!” as one animal after another falls into a deep, deep hole in this lively read-aloud. This simple and irresistible picture book by hugely popular picture book creators – Candace Fleming and Caldecott medallist Eric Rohmann – feels like a classic-in-the-making. Fans of Rohmann’s Caldecott Medal-winning My Friend Rabbit will be thrilled to see a new book created in the same expressive and comical style.
 
 <img src="/images/diyresources/preschool/IMG-0866.jpg" alt="book of animals" style="width:40%">
 
@@ -71,8 +122,6 @@ Materials needed:
 **Publisher:** Tilbury House Publishers, \[2017\] <br>
 
 Takes a close look at a garden, describing the plants, insects, and birds and their activities throughout the day.
-
-Young children will delight in repeating the refrain “OH NO!” as one animal after another falls into a deep, deep hole in this lively read-aloud. This simple and irresistible picture book by hugely popular picture book creators – Candace Fleming and Caldecott medallist Eric Rohmann – feels like a classic-in-the-making. Fans of Rohmann’s Caldecott Medal-winning My Friend Rabbit will be thrilled to see a new book created in the same expressive and comical style.
 
 <img src="/images/diyresources/preschool/caterpillar-and-bean.jpg" alt="caterpillar and bean" style="width:40%">
 

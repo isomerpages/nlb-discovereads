@@ -20,7 +20,7 @@ Materials needed:
 * Paintbrush
 * Markers
 
-[Download](/images/diyresources/preschool/Lion-paper-crown-instructions.pdf) full instructions for this craft.
+[Download](/images/diyresources/preschool/I Lava Reading Card instructions.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 

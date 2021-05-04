@@ -54,13 +54,15 @@ Uncover your reading interest and challenge your lit knowledge!
 
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
+|***New!* 2021 Reading Interest Profile Booklets**|
+| Lower Primary | Upper Primary |
+| <a href="/images/diyresources/primary/NLB-RIP21-LowerPri.PDF"><img src="/images/diyresources/primary/rip21-lowerpri.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-RIP21-UpperPri.PDF"><img src="/images/diyresources/primary/rip21-upperpri.png" alt="Upper Primary Reading Interest Profile 2021" style="width: 60%;"></a> |
+
+
 |**Reading Interest Profile Quizzes**|
 | Lower Primary | Upper Primary |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
 
-|***New!* 2021 Reading Interest Profile Booklets**|
-| Lower Primary | Upper Primary |
-| <a href="/images/diyresources/primary/NLB-RIP21-LowerPri.PDF"><img src="/images/diyresources/primary/rip21-lowerpri.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-RIP21-UpperPri.PDF"><img src="/images/diyresources/primary/rip21-upperpri.png" alt="Upper Primary Reading Interest Profile 2021" style="width: 60%;"></a> |
 
 |**Past Reading Interest Profile Booklets**|
 | Lower Primary | Upper Primary | 

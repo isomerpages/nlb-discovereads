@@ -36,7 +36,7 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 
 |***New!* 2021 Reading Interest Profile Booklets**|
 | Lower Secondary | Upper Secondary|
-| <a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
 
 |**Past Reading Interest Profile Booklets**|
 | Lower Secondary | Upper Secondary | 

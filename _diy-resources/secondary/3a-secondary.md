@@ -15,8 +15,8 @@ _(Updated on 29 April 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
-| [ ***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [ ***New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [***New!*** Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
+| [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
@@ -34,14 +34,21 @@ Uncover your reading interest and challenge your lit knowledge!
 
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
-| **Lower Secondary** | **Upper Secondary** | 
+|***New!* 2021 Reading Interest Profile Booklets**|
+| Lower Secondary | Upper Secondary|
+| <a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
+
+|**Past Reading Interest Profile Booklets**|
+| Lower Secondary | Upper Secondary | 
 | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.PDF"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Upper-Secondary-FA-Low-res.PDF"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+
 
 **Reading Challenge**
 
 Up your reading game by completing our very own Reading Challenge.
 
 <a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
+
 
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
 

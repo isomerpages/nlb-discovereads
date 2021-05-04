@@ -24,6 +24,9 @@ Click on the icon to find out more!
 <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Storytime**
 
 Enjoy storytelling videos anytime, anywhere!
@@ -33,9 +36,15 @@ _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="width: 40%;"></a>
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Quizzes**
 
 <a href="https://www.opinionstage.com/content-717/dare-to-read-singapore-edition"><img src="/images/diyresources/primary/DTR-Quiz-Poster.png" alt="Dare to Read image" style="width: 40%;"></a>
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Literary Trivia**

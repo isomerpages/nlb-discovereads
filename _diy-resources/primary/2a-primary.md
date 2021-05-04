@@ -11,11 +11,11 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 29 April 2021)_
+_(Updated on 4 May 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
+| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [***New!*** Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
 | [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
@@ -54,9 +54,16 @@ Uncover your reading interest and challenge your lit knowledge!
 
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
-| **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
+|**Reading Interest Profile Quizzes**|
+| Lower Primary | Upper Primary |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
-| **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
+
+|***New!* 2021 Reading Interest Profile Booklets**|
+| Lower Primary | Upper Primary |
+| <a href="/images/diyresources/primary/NLB-RIP21-LowerPri.PDF"><img src="/images/diyresources/primary/rip21-lowerpri.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-RIP21-UpperPri.PDF"><img src="/images/diyresources/primary/rip21-upperpri.png" alt="Upper Primary Reading Interest Profile 2021" style="width: 60%;"></a> |
+
+|**Past Reading Interest Profile Booklets**|
+| Lower Primary | Upper Primary | 
 | <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 60%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
 
 

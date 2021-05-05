@@ -11,17 +11,20 @@ third_nav_title: Secondary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 29 April 2021)_
+_(Updated on 4 May 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
-| [ ***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [ ***New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [School Holiday Special](#school-holiday-special) | [***New!*** Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
+| [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
 
 <a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 40%;"></a>
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Literary Trivia**
@@ -31,14 +34,22 @@ Uncover your reading interest and challenge your lit knowledge!
 
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
-| **Lower Secondary** | **Upper Secondary** | 
+|***New!* 2021 Reading Interest Profile Booklets**|
+| Lower Secondary | Upper Secondary|
+| <a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
+
+
+|**Past Reading Interest Profile Booklets**|
+| Lower Secondary | Upper Secondary | 
 | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.PDF"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Upper-Secondary-FA-Low-res.PDF"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+
 
 **Reading Challenge**
 
 Up your reading game by completing our very own Reading Challenge.
 
-<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
+<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.PDF"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
+
 
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
 
@@ -48,6 +59,10 @@ Sec 1
 
 | **Survival Kit** | **Literary Boot Camp** |
 | [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
+
+
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
@@ -70,6 +85,9 @@ Cool, creative, out-of-this world ideas and easy D.I.Y. projects on S.T.E.A.M. t
 | Issue #1 [here](/images/diyresources/secondary/FA_Tweenkerama-Issue-1.PDF) | Issue #2 [here](/images/diyresources/secondary/Tweenkeramabooklet_Issue02_FA.PDF) | Issue #3 [here](/images/diyresources/secondary/FA-NLB-Tweenkerama_Issue-03-v2.PDF) |
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Read and Craft**
 
 Pick a short read and create a story-based craft.
@@ -84,6 +102,9 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 |**2020 PopReads!**|
 | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 60%;"></a> |
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Read and Share**
@@ -140,6 +161,9 @@ Sec 3–Sec 4
 * Call No.: Y GAT
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Decorate My Space**
 Print out and put up these eye-catching posters and entertaining activities!
 
@@ -177,6 +201,9 @@ Recommended genre posters for Upper Secondary
 Suggested activities to liven up reading corners everywhere!
 
 <a href="/images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Learn To Be S.U.R.E.**
@@ -219,3 +246,8 @@ Sec 1 – Sec 2
 | <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.PDF"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.PDF"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
 For more great information literacy resources, click [here](/services/other-services/sure)!
+
+
+<b><a href="#top">Back to top</a></b>
+
+

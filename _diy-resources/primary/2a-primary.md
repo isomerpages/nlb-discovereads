@@ -11,17 +11,20 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 29 April 2021)_
+_(Updated on 4 May 2021)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
+| [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [***New!*** Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
 | [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icon to find out more!
 
 <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Storytime**
@@ -33,9 +36,15 @@ _(Click on the icon to find out more!)_
 <a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="width: 40%;"></a>
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Quizzes**
 
 <a href="https://www.opinionstage.com/content-717/dare-to-read-singapore-edition"><img src="/images/diyresources/primary/DTR-Quiz-Poster.png" alt="Dare to Read image" style="width: 40%;"></a>
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Literary Trivia**
@@ -45,10 +54,19 @@ Uncover your reading interest and challenge your lit knowledge!
 
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
-| **Lower Primary (Quiz)** | **Upper Primary (Quiz)** |
+|***New!* 2021 Reading Interest Profile Booklets**|
+| Lower Primary | Upper Primary |
+| <a href="/images/diyresources/primary/NLB-RIP21-LowerPri.PDF"><img src="/images/diyresources/primary/rip21-lowerpri.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-RIP21-UpperPri.PDF"><img src="/images/diyresources/primary/rip21-upperpri.png" alt="Upper Primary Reading Interest Profile 2021" style="width: 60%;"></a> |
+
+
+|**Reading Interest Profile Quizzes**|
+| Lower Primary | Upper Primary |
 | [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
-| **Lower Primary (Booklet)** | **Upper Primary (Booklet)** | 
-| <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Pri" style="width: 60%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
+
+
+|**Past Reading Interest Profile Booklets**|
+| Lower Primary | Upper Primary | 
+| <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Primary" style="width: 50%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
 
 
 **Reading Challenge**
@@ -66,6 +84,9 @@ P4-P6
 
 | **Survival Kit** | **Literary Boot Camp** |
 | [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Learn about S.T.E.A.M.**
@@ -101,6 +122,9 @@ P4 - P6
 | Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.PDF) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.PDF) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.PDF) | 
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Read and Craft**
 Pick a short read and create a story-based craft.
 
@@ -118,6 +142,9 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 |**2020 PopReads!**|
 | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.PDF"><img src="/images/diyresources/primary/upupandaway.png" alt="Up Up and Away PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.PDF"><img src="/images/diyresources/primary/PopReads-Dragon-Dancer.png" alt="Dragon Dancer PopReads!" style="width: 60%;"></a> | 
 | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.PDF"><img src="/images/diyresources/primary/popReads-Decode-me.png" alt="Decode PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.PDF"><img src="/images/diyresources/primary/Just-keep-running.png" alt="Just Keep Running" style="width: 60%;"></a> |
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Read and Share**
@@ -171,6 +198,9 @@ P5 – P6
 * Call No.: J JIN
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Decorate My Space**
 Print out and put up these eye-catching posters and entertaining activities!
 
@@ -192,6 +222,9 @@ Print out and put up these eye-catching posters and entertaining activities!
 Suggested activities to liven up reading corners everywhere!
 
 <a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
+
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Engage My Child in Reading**
@@ -226,6 +259,9 @@ This video is part of a series on parenting tips during home-based learning, bro
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
+<b><a href="#top">Back to top</a></b>
+
+
 ### **Learn To Be S.U.R.E.**
 Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!
 
@@ -250,3 +286,5 @@ P4 – P6
 
 For more great information literacy resources, click [here](/services/other-services/sure)!
 
+
+<b><a href="#top">Back to top</a></b>

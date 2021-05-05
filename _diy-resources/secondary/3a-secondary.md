@@ -48,7 +48,7 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 
 Up your reading game by completing our very own Reading Challenge.
 
-<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
+<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.PDF"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
 
 
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**

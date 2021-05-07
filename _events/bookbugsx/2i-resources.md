@@ -53,7 +53,7 @@ This month, we have an exciting activity for you! You get to paint your very own
 |:---:|:---:|:---:|
 |<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Tamil.png" alt="Tamil-English Worksheet"></a>|
 
-Still can't get enough of our Book Bugs activities? Why don't you help Chipper out in this bonus activity and help him get out of the maze he made?
+Still can't get enough of our Book Bugs activities? Why don't you help Chipper out in this bonus activity and get him out of the maze he made?
 
 |<a href="/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 Chipper Maze.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
 

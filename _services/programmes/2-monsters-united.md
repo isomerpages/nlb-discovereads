@@ -16,8 +16,9 @@ Immerse yourself in Andersen's stories and the fantasy genre through thematic st
 <br>
 Two exclusive giveaways will be held as well – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate and stand a chance to win a Monsters United Goodie Bag!
 
-* <s><b>Giveaway #1</b>: 2 April – 6 April.</s>
-* <b>Giveaway #2</b>: 30 April – 6 May.  Click [here](https://www.facebook.com/publiclibrarysg/photos/a.397130604019365/1340543463011403/?type=3&theater) to participate!
+**[ENDED]** <br>
+* <s><b>Giveaway #1</b>: 2 April – 6 April</s>
+* <s><b>Giveaway #2</b>: 30 April – 6 May</s>
 
 For more trivia, fun facts and book recommendations, follow our Instagram page, [Public Libraries Singapore](https://www.instagram.com/publiclibrarysg/) as well!
 

@@ -8,7 +8,7 @@ third_nav_title: Programmes
 
 ## **Tweenkerama**
 
-<img src="images/unsorted/tweenkerama/Tweenkerama Workshops (1).png" alt="Tweenkerama Workshops banner" style="width: 100%;">
+<img src="images/unsorted/tweenkerama/Banner_Tweenkerama_workshops2.png" alt="Tweenkerama Workshops banner" style="width: 100%;">
 
 Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
 

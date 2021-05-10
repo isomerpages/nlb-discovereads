@@ -42,7 +42,20 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) |
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) |
+
+<a name="may"></a>
+**May 2021**
+
+This month, we have an exciting activity for you! You get to paint your very own journey. If you've done Foxy Roxy's quiz for the month, you would have learnt all about The Magic Paintbrush, the story that inspired an upcoming Book Bug (which you might have spotted in the quiz!). Now that you have read the story, you get to use the magic paintbrush on your very own journey up the Mystical Mountains!
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Tamil.png" alt="Tamil-English Worksheet"></a>|
+
+Still can't get enough of our Book Bugs activities? Why don't you help Chipper out in this bonus activity and get him out of the maze he made?
+
+|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 Chipper Maze.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
 
 <a name="apr"></a>
 **April 2021**

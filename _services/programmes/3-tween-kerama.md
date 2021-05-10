@@ -8,7 +8,7 @@ third_nav_title: Programmes
 
 ## **Tweenkerama**
 
-### **Tweenkerama Workshops**
+<img src="images/unsorted/tweenkerama/Banner_Tweenkerama_workshops2.png" alt="Tweenkerama Workshops banner" style="width: 100%;">
 
 Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
 
@@ -54,16 +54,7 @@ Whether to test features, get feedback, or simply to share a new idea, professio
 
 •	14 June 2021, 2pm-4pm, Ang Mo Kio Public Library
 
-### **Tweens Tinker Sheets**
-
-Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!
-
-| **Cars in Action** | **Hai There, Haiku!** |
-| [![Cars in action image](/images/unsorted/tweenkerama/cars-in-action.png)](/images/unsorted/tweenkerama/CarInAction_Preview_FA.pdf) | [![Hai there haiku image](/images/unsorted/tweenkerama/haiku.png)](/images/unsorted/tweenkerama/Haiku_Preview_FA.pdf) | 
-| **Don’t Say Goodbye: Endangered Species** |  **Inner Beauty: Bones in the Human Body** |
-| [![Don't say goodbye image](/images/unsorted/tweenkerama/Endangered-species.png)](/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.pdf) | [![Inner beauty image](/images/unsorted/tweenkerama/inner-beauty.png)](/images/unsorted/tweenkerama/InnerBeauty_Preview_FA.pdf) |
-
-### **Tweens Pop-Up Tinkering**
+<img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 
 These packages provide Tweens the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
 
@@ -73,8 +64,18 @@ Grab your printable template for the paper helicopter [here](/images/unsorted/tw
 
 | [![Flexagon image](/images/unsorted/tweenkerama/Tweens-Flexagon.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/unsorted/tweenkerama/Tweens-Origami-Frog.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Frog.pdf) | [![Zentangle image](/images/unsorted/tweenkerama/Tweens-Zentangle.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-Up-package-Zentangle.pdf) |
 
+<img src="images/unsorted/tweenkerama/Banner_Tweens_Toolkit.png" alt="Tweenkerama Tweens Tool Kit" style="width: 100%;">
 
-### **Tweenkerama Lab Mag**
+# **Tweens Tinker Sheets**
+
+Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!
+
+| **Cars in Action** | **Hai There, Haiku!** |
+| [![Cars in action image](/images/unsorted/tweenkerama/cars-in-action.png)](/images/unsorted/tweenkerama/CarInAction_Preview_FA.pdf) | [![Hai there haiku image](/images/unsorted/tweenkerama/haiku.png)](/images/unsorted/tweenkerama/Haiku_Preview_FA.pdf) | 
+| **Don’t Say Goodbye: Endangered Species** |  **Inner Beauty: Bones in the Human Body** |
+| [![Don't say goodbye image](/images/unsorted/tweenkerama/Endangered-species.png)](/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.pdf) | [![Inner beauty image](/images/unsorted/tweenkerama/inner-beauty.png)](/images/unsorted/tweenkerama/InnerBeauty_Preview_FA.pdf) |
+
+# **Tweenkerama Lab Mag**
 
 <img src="/images/unsorted/tweenkerama/tweenkeramalabmagcover.jpg" alt="Tweenkerama lab mag image" style="width: 50%;">
 

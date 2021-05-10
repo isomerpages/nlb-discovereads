@@ -16,8 +16,9 @@ Immerse yourself in Andersen's stories and the fantasy genre through thematic st
 <br>
 Two exclusive giveaways will be held as well – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate and stand a chance to win a Monsters United Goodie Bag!
 
-* <s><b>Giveaway #1</b>: 2 April – 6 April.</s>
-* <b>Giveaway #2</b>: 30 April – 6 May.  Click [here](https://www.facebook.com/publiclibrarysg/photos/a.397130604019365/1340543463011403/?type=3&theater) to participate!
+**[ENDED]** <br>
+* <s><b>Giveaway #1</b>: 2 April – 6 April</s>
+* <s><b>Giveaway #2</b>: 30 April – 6 May</s>
 
 For more trivia, fun facts and book recommendations, follow our Instagram page, [Public Libraries Singapore](https://www.instagram.com/publiclibrarysg/) as well!
 
@@ -67,7 +68,7 @@ _(Click on the images.)_
 | [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](/images/unsorted/monstersunited/a-knights-tale-tinker-sheet.pdf) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.pdf) 
 | [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.pdf) |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](/images/unsorted/monstersunited/tangram-tangle-tinker-sheet.pdf) 
 
-_(Last updated on 30 April 2021)_ 
+_(Last updated on 8 May 2021)_ 
 
 ---
 

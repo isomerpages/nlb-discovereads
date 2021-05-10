@@ -66,7 +66,7 @@ Grab your printable template for the paper helicopter [here](/images/unsorted/tw
 
 <img src="images/unsorted/tweenkerama/Banner_Tweens_Toolkit.png" alt="Tweenkerama Tweens Tool Kit" style="width: 100%;">
 
-## **Tweens Tinker Sheets**
+# *Tweens Tinker Sheets*
 
 Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!
 
@@ -75,7 +75,7 @@ Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets co
 | **Don’t Say Goodbye: Endangered Species** |  **Inner Beauty: Bones in the Human Body** |
 | [![Don't say goodbye image](/images/unsorted/tweenkerama/Endangered-species.png)](/images/unsorted/tweenkerama/EndangeredSpecies_Preview_FA.pdf) | [![Inner beauty image](/images/unsorted/tweenkerama/inner-beauty.png)](/images/unsorted/tweenkerama/InnerBeauty_Preview_FA.pdf) |
 
-## **Tweenkerama Lab Mag**
+# *Tweenkerama Lab Mag*
 
 <img src="/images/unsorted/tweenkerama/tweenkeramalabmagcover.jpg" alt="Tweenkerama lab mag image" style="width: 50%;">
 

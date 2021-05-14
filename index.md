@@ -22,7 +22,7 @@ sections:
             - title: Tweenkerama (10-14 years)
               description: 
               url: /services/programmes/tweenkerama
-            - title: Teens TakeOver (13-17 years)
+            - title: Teens Takeover (13-17 years)
               description: 
               url: /services/programmes/teenstakeover
     - infobar:

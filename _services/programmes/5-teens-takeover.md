@@ -58,12 +58,12 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 <a name="teenstakeoverlibraries">![Teens Takeover Libraries header](/images/unsorted/teenstakeover/teensheader-ttl.png)</a>
 Need a place to study but can't get a table anywhere? Join us for the Study Special of Teens Takeover Libraries where we've kept selected study spaces open just for you. *Only for teens aged 13 to 17, registration is required.*
 
-**Teens Takeover Libraries: Study Special - 28 May 2021, 3-5pm (Friday) [Register now!](https://go.gov.sg/teenstakeover-pl)**
+**Teens Takeover Libraries: Study Special - 28 May 2021, 3-5pm (Friday)**
 
-* Bishan Public Library, Programme Zone
-* Toa Payoh Public Library, Programme Zone
-* Pasir Ris Public Library, Programme Zone
-* Woodlands Regional Library, Programme Zone
+* Bishan Public Library, Programme Zone [Register now!](https://www.eventbrite.sg/e/study-special-bishan-public-library-teens-takeover-libraries-registration-147962906035?aff=ebdssbdestsearch)
+* Toa Payoh Public Library, Programme Zone [Register now!](https://www.eventbrite.sg/e/study-special-toa-payoh-public-library-teens-takeover-libraries-registration-147963860891?aff=ebdssbdestsearch)
+* Pasir Ris Public Library, Programme Zone [Register now!](https://www.eventbrite.sg/e/study-special-pasir-ris-public-library-teens-takeover-libraries-registration-147962049473?aff=ebdssbdestsearch)
+* Woodlands Regional Library, Programme Zone [Register now!](https://www.eventbrite.sg/e/study-special-woodlands-regional-library-teens-takeover-libraries-registration-147961529919?aff=ebdssbdestsearch)
 
 Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](https://go.gov.sg/teenstakeover-pl).
 

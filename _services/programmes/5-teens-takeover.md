@@ -56,8 +56,13 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 
 
 <a name="teenstakeoverlibraries">![Teens Takeover Libraries header](/images/unsorted/teenstakeover/teensheader-ttl.png)</a>
+
 **28 May 2021, 3-5pm (Friday)**
 
+* Bishan Public Library, Programme Zone
+* Toa Payoh Public Library, Programme Zone
+* Pasir Ris Public Library, Programme Zone
+* Woodlands Regional Library, Programme Zone
 
 Keep a look out for more session of NLB's Teens Takeover Libraries [here](https://go.gov.sg/teenstakeover-pl).
 

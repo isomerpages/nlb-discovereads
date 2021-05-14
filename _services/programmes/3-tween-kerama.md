@@ -14,7 +14,7 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
 
-# *Please note that Tweenkerama sessions from 31 May - 13 June 2021 have been cancelled.*
+## *Please note that Tweenkerama sessions from 31 May - 13 June 2021 have been cancelled.*
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 

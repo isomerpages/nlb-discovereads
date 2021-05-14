@@ -13,16 +13,16 @@ sections:
         # button: Contact Us
         # url: /contact-us/
         key_highlights:
-            - title: Early READ
+            - title: Early READ (0-6 years)
               description:
               url: /services/earlyread
-            - title: Monsters United
+            - title: Monsters United (7-9 years)
               description: 
               url: /services/programmes/monstersunited
-            - title: Tweenkerama
+            - title: Tweenkerama (10-14 years)
               description: 
               url: /services/programmes/tweenkerama
-            - title: Teens TakeOver
+            - title: Teens Takeover (13-17 years)
               description: 
               url: /services/programmes/teenstakeover
     - infobar:

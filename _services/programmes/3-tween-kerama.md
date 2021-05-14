@@ -38,9 +38,9 @@ Have you ever dreamed of creating unique 3D artwork with nothing more than a pen
 
 Come learn about the world's tallest structures and build your own with paper techniques in this structural engineering challenge workshop. The only question is: can you build higher? 
 
-•	1 June 2021, 2pm-4pm, library@harbourfront
-
 •	3 June 2021, 2pm-4pm, Clementi Public Library
+
+•	8 June 2021, 2pm-4pm, library@harbourfront
 
 •	15 June 2021, 2pm-4pm, Toa Payoh Public Library
 

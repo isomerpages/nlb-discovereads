@@ -57,7 +57,8 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 
 <a name="teenstakeoverlibraries">![Teens Takeover Libraries header](/images/unsorted/teenstakeover/teensheader-ttl.png)</a>
 
-**28 May 2021, 3-5pm (Friday)**
+**Teens Takeover Libraries: Study Special - 28 May 2021, 3-5pm (Friday)**
+Need a place to study but can't get a table anywhere? Join us for Teens Takeover Libraries where we've kept a study space open just for you at these selected libraries:
 
 * Bishan Public Library, Programme Zone
 * Toa Payoh Public Library, Programme Zone

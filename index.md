@@ -23,7 +23,7 @@ sections:
               description: 
               url: /services/programmes/tweenkerama
             - title: Teens TakeOver (13-17 years)
-              description:
+              description: 
               url: /services/programmes/teenstakeover
     - infobar:
         title: Resources for Parents & Educators

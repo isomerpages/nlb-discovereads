@@ -56,9 +56,11 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 
 
 <a name="teenstakeoverlibraries">![Teens Takeover Libraries header](/images/unsorted/teenstakeover/teensheader-ttl.png)</a>
-Need a place to study but can't get a table anywhere? Join us for the Study Special of Teens Takeover Libraries where we've kept selected study spaces open just for you. *Only for teens aged 13 to 17, registration is required.*
+<p style="text-align: center;"><b>NOTE: Exclusively for teens aged 13 to 17, registration is required.</b></p>
 
-**Teens Takeover Libraries: Study Special - 28 May 2021, 3-5pm (Friday)**
+Need a place to study but can't get a table anywhere? Join us for the Study Special of Teens Takeover Libraries where we've kept selected study spaces open just for you. 
+
+**Study Special - 28 May 2021, 3-5pm (Friday)**
 
 * Bishan Public Library, Programme Zone [Register now!](https://www.eventbrite.sg/e/study-special-bishan-public-library-teens-takeover-libraries-registration-147962906035?aff=ebdssbdestsearch)
 * Toa Payoh Public Library, Programme Zone [Register now!](https://www.eventbrite.sg/e/study-special-toa-payoh-public-library-teens-takeover-libraries-registration-147963860891?aff=ebdssbdestsearch)

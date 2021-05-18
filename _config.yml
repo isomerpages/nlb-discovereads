@@ -22,19 +22,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  book-recommendations:
-    output: true
-  diy-resources:
-    output: true
-  events:
-    output: true
-  programmes:
-    output: true
-  services:
-    output: true
-  unsorted:
-    output: true
 resources_name: ebooks
 
 ##################################################################################################################
@@ -55,10 +42,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://nlb-dr-staging.netlify.app
+prod: https://nlb-dr-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

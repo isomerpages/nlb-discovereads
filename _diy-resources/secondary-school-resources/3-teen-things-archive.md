@@ -6,7 +6,7 @@ third_nav_title: Secondary School Resources
 ---
 
 ## **Teen•Things Archive**
-Check out our Teen•Things from 2020 on this page!
+Check out our past Teen•Things articles on this page!
 
 <img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
 <p style="text-align: center;"><i>(Updated on 23 December 2020)</i></p>

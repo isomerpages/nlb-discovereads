@@ -1,11 +1,13 @@
 ---
-title: Teen•Things
-permalink: /diy-resources/secondary/teen-things
+title: Teen•Things Archive
+permalink: /diy-resources/secondary/teen-things-archive
 collection_name: diy-resources
 third_nav_title: Secondary School Resources
 ---
 
-## **Teen•Things**
+## **Teen•Things Archive**
+Check out our past Teen•Things articles on this page!
+
 <img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 100%;">
 <p style="text-align: center;"><i>(Updated on 23 December 2020)</i></p>
 
@@ -703,4 +705,5 @@ Source: [https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health
 The book covers and synopses are the copyright of the respective publishing companies.
 
 <b><a href="#top">Back to top</a></b>
+
 

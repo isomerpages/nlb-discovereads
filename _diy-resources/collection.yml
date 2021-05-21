@@ -1,0 +1,24 @@
+collections:
+  diy-resources:
+    output: true
+    order:
+      - d-i-y-resources.md
+      - preschool-resources/.keep
+      - preschool-resources/preschool.md
+      - preschool-resources/preschool-play.md
+      - preschool-resources/preschool-write.md
+      - preschool-resources/preschool-talk.md
+      - preschool-resources/preschool-sing.md
+      - preschool-resources/preschool-read.md
+      - preschool-resources/preschool-holiday-special.md
+      - primary-school-resources/.keep
+      - primary-school-resources/primary.md
+      - primary-school-resources/stay-curious-with-your-child.md
+      - secondary-school-resources/.keep
+      - secondary-school-resources/secondary.md
+      - secondary-school-resources/teenothings.md
+      - storytime/storytime-for-ages-4-10.md
+      - storytime/storytime-english-archives.md
+      - storytime/storytime-chinese-archives.md
+      - storytime/storytime-malay-archives.md
+      - storytime/storytime-tamil-archives.md

@@ -33,7 +33,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 **Asian Festival for Children’s Content Reading List**
 
-[![Asian Festival image](/images/recommendationsprimary/AFCC-1.png)](/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.pdf) 
+<a href="images/recommendationsprimary/NLB_AFCC_FA_ForWeb.pdf"><img src="images/recommendationsprimary/AFCC 2021.png" alt="AFCC Reading List" style="width: 40%;"></a>
 
 **Mother Tongue Reading Lists**
 

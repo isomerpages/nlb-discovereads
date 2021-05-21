@@ -31,9 +31,11 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 <a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>
 
-**Asian Festival for Children’s Content Reading List**
+**Asian Festival for Children’s Content (AFCC) Reading List**
 
-<a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List" style="width: 40%;"></a>
+| ***New!*** AFCC 2021 | AFCC 2020 |
+| <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 40%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 40%;"></a> |
+
 
 **Mother Tongue Reading Lists**
 

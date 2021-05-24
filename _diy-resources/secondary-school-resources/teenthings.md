@@ -1,8 +1,9 @@
 ---
-title: Teen•Things
+title: Teen.Things
 permalink: /diy-resources/secondary/teen-things
 third_nav_title: Secondary School Resources
 ---
+
 ## **Teen•Things**
 **Click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 

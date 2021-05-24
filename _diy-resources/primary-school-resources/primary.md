@@ -4,7 +4,6 @@ permalink: /diy-resources/primary/primary-main
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
-
 ## **Primary**
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**

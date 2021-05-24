@@ -703,5 +703,3 @@ Source: [https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health
 The book covers and synopses are the copyright of the respective publishing companies.
 
 <b><a href="#top">Back to top</a></b>
-
-

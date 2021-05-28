@@ -50,7 +50,7 @@ Finally, check out some of these great reads for more tips and inspiration on gr
 Authors: Joseph Tychonievich and Liz Anna Kozik<br>
 Call No.: 635 TYC<br>
 Publisher: Ten Speed Press, 2021<br>
-Also available as an eBook on [NLB OverDrive](https:/nlb.overdrive.com/media/5453253).
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/5453253).
  
 The first graphic novel guide to growing a successful vegetable garden, from planning, prepping, and planting, to troubleshooting, care, and harvesting. If you are a visual learner, beginning gardener, looking for something new, or have struggled to grow vegetables in the past, you'll find this unique illustrated format ideal because many gardening concepts—from proper planting techniques to building raised beds—are easier to grasp when presented visually, step by step.
  

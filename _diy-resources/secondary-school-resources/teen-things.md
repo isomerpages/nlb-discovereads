@@ -9,7 +9,7 @@ third_nav_title: Secondary School Resources
 <img src="/images/diyresources/secondary/tt21-header.png" alt="Teen Things header" style="width: 100%;">
 <p style="text-align: center;"><i>(Updated on 1 June 2021)</i></p>
 
-**Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
+**Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
 | [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) |
 

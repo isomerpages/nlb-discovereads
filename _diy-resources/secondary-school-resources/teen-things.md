@@ -57,7 +57,6 @@ The first graphic novel guide to growing a successful vegetable garden, from pla
 Synopsis from [Penguin Random House](https://www.penguinrandomhouse.com/).
 
 <a href="https://nlb.overdrive.com/media/249279"><img src="/images/diyresources/secondary/tt-uf-book2.jpg" alt="The Boy Who Harnessed the Wind cover" style="width: 30%;"></a>
- 
 **The Boy Who Harnessed the Wind**<br>
 Authors: William Kamkwamba and Bryan Mealer<br>
 Call No.: Y 621.453096 KAM<br>

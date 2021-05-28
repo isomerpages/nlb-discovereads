@@ -12,7 +12,7 @@ third_nav_title: Secondary School Resources
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
 | [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | [![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png)] | [![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png)] | [![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png)] |
-| [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)]() |
+| [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)](/diy-resources/secondary/teen-things-archive) |
 
 
 <a name="id1">![Urban Farming header](/images/diyresources/secondary/tt21-header-uf.png)</a>

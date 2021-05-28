@@ -7,7 +7,7 @@ third_nav_title: Secondary School Resources
 ## **Teen•Things**
 
 <img src="/images/diyresources/secondary/tt21-header.png" alt="Teen Things header" style="width: 100%;">
-<p style="text-align: center;"><i>(Updated on 1 June 2021)</i></p>
+<p style="text-align: center;"><i>(Updated on 28 May 2021)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
@@ -69,6 +69,6 @@ Synopsis from: [Penguin Random House](https://www.penguinrandomhouse.com/).
  
 The book covers and synopses are the copyright of the respective publishing companies.
 
-(All websites were last accessed on 31 May 2021.)
+(All websites were last accessed on 28 May 2021.)
 
 <b><a href="#top">Back to top</a></b>

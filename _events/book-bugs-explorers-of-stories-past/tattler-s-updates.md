@@ -5,6 +5,9 @@ breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
+#### 28 May 2021
+[<img src="/images/events/bookbugsx/28 May 2021 Update.png" alt="May Resources Uploaded" style="width: 100%" align="left">](/events/bookbugsx/events/)
+
 #### 10 May 2021
 [<img src="/images/events/bookbugsx/10 May 2021 Update.png" alt="May Resources Uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources#printables/)
 
@@ -41,4 +44,3 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 
 Keep an eye on this page for more updates from Tattler!
- 

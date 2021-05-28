@@ -5,12 +5,11 @@ breadcrumb: Book Bugs Explorers of Stories Past
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-
 ## Book Bugs: Explorers of Stories Past Events
 
 ### Upcoming Events
 
-Keep an eye on this page for announcements on our upcoming events!
+<img src="/images/events/bookbugsx/Bonanza Banner Teaser.png" alt="Book Bugs Bonanza coming in June 2021" style="width: 100%">
 
 ### Past Events
 
@@ -35,4 +34,3 @@ In the 2021 March Holidays, we held an exciting series of workshops! Explorers g
 Check out our Explorers and their very own Bug cut-outs!
 
 <img src="/images/events/bookbugsx/BBX Mar Cut-out Collage.png" alt="Book Bugs Cut-out Workshops Collage" style="width: 100%">
-

@@ -5,7 +5,6 @@ breadcrumb: Teens Takeover
 collection_name: services
 third_nav_title: Programmes
 ---
-
 ## **Teens Takeover**
 <a href=""><img src="/images/unsorted/teenstakeover/teens-takeover-header-mar21.png" alt="Teens Takeover header" style="width: 100%;"></a>
 
@@ -34,7 +33,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 30%;">
 
 * <s>[21 April] Interview Skills, Zoom, 3-4pm [Register now!]</s>
-* [16 June] Interview Skills, Bishan Public Library, 3-4pm
+* [16 June] Interview Skills, Zoom, 3-4pm  [Register now!](https://www.eventbrite.sg/e/interview-skills-teens-takeover-workshops-registration-147974719369?aff=ebdsoporgprofile)
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 <p style="text-align: center;">Keep a look out for more programmes under this track!</p>

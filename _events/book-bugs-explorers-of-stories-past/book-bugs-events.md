@@ -43,7 +43,7 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 
 **Timeline**
 
-|Week | Submission Deadline | Start of Voting|
+|**Week** | **Submission Deadline** | **Start of Voting**|
 |:---|:---:|:---:|
 |Week 1 | 6 June 2021, 2359h | 8 June 2021 |
 |Week 2 | 13 June 2021, 2359h | 15 June 2021 |

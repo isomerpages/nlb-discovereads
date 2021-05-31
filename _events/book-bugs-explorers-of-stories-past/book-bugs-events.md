@@ -39,7 +39,7 @@ Step 3: Either take a photo of your completed masterpiece or scan it, and upload
 
 All submissions will receive a reward. You must complete the English version to receive a reward. Bonus rewards will be given to Explorers who also submit the completed Mother Tongue options. 
 
-Each week, the top two submissions will be featured on the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) for public voting for 24h. The public's favourite work will receive bonus Book Bugs rewards and a book prize!
+Each week, the top two submissions will be featured on the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) for public voting for 24 hours. The public's favourite work will receive bonus Book Bugs rewards and a book prize!
 
 **Timeline**
 

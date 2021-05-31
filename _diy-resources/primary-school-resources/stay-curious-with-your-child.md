@@ -91,9 +91,9 @@ With 25 kid-friendly science experiments, and stunning full-color photographs, K
 
 Tools, such as a stapler or a pair of scissors, are useful in making our daily lives easier. However, if used incorrectly, they can be potentially dangerous. Follow these steps when teaching your child how to use a new tool:
 
-Step 1: Teach them how to use the tool safely. 
-Step 2: Show them how the tools should be safely stored away and kept when not in use.
-Step 3: Remind them they should always ask for an adult’s permission before using the tool.
+Step 1: Teach them how to use the tool safely.<br>
+Step 2: Show them how the tools should be safely stored away and kept when not in use.<br>
+Step 3: Remind them they should always ask for an adult’s permission before using the tool.<br>
 
 Source: [https://builtbykids.com/teaching-kids-how-to-use-tools/ ](https://builtbykids.com/teaching-kids-how-to-use-tools/ )(Last accessed on 17 May 2021)
 

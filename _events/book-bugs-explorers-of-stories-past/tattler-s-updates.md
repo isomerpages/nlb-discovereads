@@ -5,8 +5,11 @@ breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
+#### 1 June 2021
+[<img src="/images/events/bookbugsx/1 Jun 2021 Update.png" alt="May Quiz Closed. Click for Bonanza" style="width: 100%" align="left">](/events/bookbugsx/events/)
+
 #### 28 May 2021
-[<img src="/images/events/bookbugsx/28 May 2021 Update.png" alt="May Resources Uploaded" style="width: 100%" align="left">](/events/bookbugsx/events/)
+[<img src="/images/events/bookbugsx/28 May 2021 Update.png" alt="Final Land release delayed" style="width: 100%" align="left">](/events/bookbugsx/events/)
 
 #### 10 May 2021
 [<img src="/images/events/bookbugsx/10 May 2021 Update.png" alt="May Resources Uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources#printables/)

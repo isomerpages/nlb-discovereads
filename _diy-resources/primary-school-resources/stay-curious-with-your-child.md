@@ -48,12 +48,12 @@ School’s out, fun’s in! Build your very own paper roller coaster 🎢 with N
 Get creative with your child in the kitchen! Learn about density as you transform household ingredients into an eye-catching multi-colour lava lamp.
 
 You’ll need: 
-*Empty bottle, jar or cup
-*1 cup of oil ( e.g. vegetable oil)
-*1/4 cup of white vinegar
-*1-4 drops of food dye (any colour you prefer)
-*1 tsp of baking soda
-*1 tsp of water
+*Empty bottle, jar or cup<br>
+*1 cup of oil ( e.g. vegetable oil)<br>
+*1/4 cup of white vinegar<br>
+*1-4 drops of food dye (any colour you prefer)<br>
+*1 tsp of baking soda<br>
+*1 tsp of water<br>
 
 Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
 

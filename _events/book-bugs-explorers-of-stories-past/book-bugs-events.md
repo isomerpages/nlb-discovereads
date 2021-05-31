@@ -31,16 +31,15 @@ Step 2: Harness your creativity and complete the activity sheet! If you need hel
 
 Step 3: Either take a photo of your completed masterpiece or scan it, and upload the image (in .png, .jpg, .jpeg, or .pdf formats) to the form  below:
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/60af49360ba86b00113f1261">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loading, you can also click <a href="https://form.gov.sg/60af49360ba86b00113f1261">here</a>.</div>
 
-<!-- Change the width and height values to suit you best -->
 <iframe id="iframe" src="https://form.gov.sg/60af49360ba86b00113f1261" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
 All submissions will receive a reward. You must complete the English version to receive a reward. Bonus rewards will be given to Explorers who also submit the completed Mother Tongue options. 
 
-Each week, the top two submissions will be featured on the Public Libraries' Instagram Story ([@publiclibrarysg](https://www.instagram.com/publiclibrarysg/)) for public voting for 24h. The public's favourite work will receive bonus Book Bugs rewards and a book prize!
+Each week, the top two submissions will be featured on the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) for public voting for 24h. The public's favourite work will receive bonus Book Bugs rewards and a book prize!
 
 **Timeline**
 

@@ -4,7 +4,6 @@ permalink: /diy-resources/primary/stay-curious-with-your-child
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
-
 # **Stay Curious with Your Child**
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
@@ -16,7 +15,7 @@ _(Updated on 7 December 2020)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | **new** [DIY Laser Maze](#DIY-Laser-Maze) | **new** [Gift Wrapping](#gift-wrapping) | **new** [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | **new** [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) | **new** [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new**[Create a lava lamp](#Create-a-lava-lamp) |  [DIY Laser Maze](#DIY-Laser-Maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 
@@ -43,6 +42,62 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
+
+###**Create a lava lamp**
+
+Get creative with your child in the kitchen! Learn about density as you transform household ingredients into an eye-catching multi-colour lava lamp.
+
+You’ll need: 
+*Empty bottle, jar or cup
+*1 cup of oil ( e.g. vegetable oil)
+*1/4 cup of white vinegar
+*1-4 drops of food dye (any colour you prefer)
+*1 tsp of baking soda
+*1 tsp of water
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqSUy5PyY_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: [How to make a lava lamp at home](https://www.youtube.com/watch?v=nqSUy5PyY_k)(14 April 2020)
+
+**Be Curious!**
+
+Borrow these eBooks for more fun experiments you can do at home!
+
+<img src="/images/diyresources/primary/The-Kitchen-Pantry-Scientist-Chemistry-for-Kids.jpg" alt="The Kitchen Pantry Scientist" style="width: 40%;">
+
+**The Kitchen Pantry Scientist Chemistry for Kids**
+
+by Liz Lee Heinecke<br>
+Publisher: Quarry Books
+
+This engaging guide offers a series of snapshots of 25 scientists famous for their work with chemistry, from ancient history through today. A step-by-step illustrated experiment paired with each story offers kids a hands-on opportunity for exploring concepts the scientists pursued, or are working on today.
+
+[https://nlb.overdrive.com/media/5387274 ](https://nlb.overdrive.com/media/5387274)
+
+<img src="/images/diyresources/primary/Kate-the-Chemist-The-Big-Book-of-Experiments.jpg" alt="Kate the chemist" style="width: 40%;">
+
+**Kate the Chemist--The Big Book of Experiments**
+
+by Kate Biberdorf<br>
+Publisher: Penguin Young Readers Group
+
+With 25 kid-friendly science experiments, and stunning full-color photographs, Kate the Chemist's big book of experiments, shows kids just how fun and easy to be a scientist. Learn how to make slime, edible snot and more! 
+
+[https://nlb.overdrive.com/media/5005011](https://nlb.overdrive.com/media/5005011)
+
+**Tips for Parents**
+
+Tools, such as a stapler or a pair of scissors, are useful in making our daily lives easier. However, if used incorrectly, they can be potentially dangerous. Follow these steps when teaching your child how to use a new tool:
+
+Step 1: Teach them how to use the tool safely. 
+Step 2: Show them how the tools should be safely stored away and kept when not in use.
+Step 3: Remind them they should always ask for an adult’s permission before using the tool.
+
+Source: [https://builtbykids.com/teaching-kids-how-to-use-tools/ ](https://builtbykids.com/teaching-kids-how-to-use-tools/ )(Last accessed on 17 May 2021)
+
+The book covers and synopses are the copyright of the respective publishing companies.
 
 
 ### **DIY Laser Maze**
@@ -580,4 +635,3 @@ Source: [https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2
 
 All websites were last accessed on 30 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
-

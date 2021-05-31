@@ -19,7 +19,9 @@ The Book Bugs Bonanza is happening online over three weeks this June holidays! D
 
 Follow the instructions below to receive special rewards.
 
-Step 1: Download and print this week's activity sheet below.
+##### Instructions
+
+**Step 1**: Download and print this week's activity sheet below.
 
 **1 June 2021 to 6 June 2021**
 
@@ -37,20 +39,25 @@ Step 3: Either take a photo of your completed masterpiece or scan it, and upload
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
-All submissions will receive a reward. You must complete the English version to receive a reward. Bonus rewards will be given to Explorers who also submit the completed Mother Tongue options. 
+All submissions will receive a reward. You must complete the English version to receive a reward. **Bonus rewards will be given to Explorers who also submit the completed Mother Tongue options.**
 
-Each week, the top two submissions will be featured on the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) for public voting for 24 hours. The public's favourite work will receive bonus Book Bugs rewards and a book prize!
+Each week, the top two submissions will be featured on the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) for public voting for 24 hours. **The public's favourite work will receive extra Book Bugs rewards and a book prize!**
 
-**Timeline**
+##### Timeline
 
-|**Week** | **Submission Deadline** | **Start of Voting**|
-|:---|:---:|:---:|
-|Week 1 | 6 June 2021, 2359h | 8 June 2021 |
-|Week 2 | 13 June 2021, 2359h | 15 June 2021 |
-|Week 3 | 20 June 2021, 2359h | 22 June 2021 |
+|**Week** | **Submission Begins** | **Submission Deadline** | **Start of Voting**|
+|:---|:---:|:---:|:---:|
+|Week 1 | 1 June 2021, 0000h | 6 June 2021, 2359h | 8 June 2021 |
+|Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
+|Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
 
-
-
+##### Terms and Conditions
+* Only one submission per participant per week. Submissions of both the English and Mother Tongue versions of the activity sheets are considered one submission.
+* There will be one winner of the social media contest every week. The winner is selected based on the votes on the Instagram Story poll in the 24 hours that the story is available for viewing.
+* Only entries submitted with personal information will be eligible for the rewards.
+* NLB may at its sole discretion vary these terms and conditions, or discontinue the programme at any time without any notice or liability to any party.
+* Participants agree and consent to being contacted by NLB to obtain feedback about the programme or for publicity purposes.
+* The winners and participants or, in the case of children, their parents or guardians agree to photography and filming of the receipt by winners of their prizes and on any other separate occasion (if agreed to by the participant and NLB) for publicity purposes. NLB shall have the perpetual right to use, exhibit, present, publish and archive such photographs or videos for any purposes without the payment of any fee.
 
 ### Past Events
 

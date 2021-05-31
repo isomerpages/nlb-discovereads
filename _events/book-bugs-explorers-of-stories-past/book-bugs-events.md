@@ -7,9 +7,30 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past Events
 
-### Upcoming Events
+### Ongoing Events
 
-<img src="/images/events/bookbugsx/Bonanza Banner Teaser.png" alt="Book Bugs Bonanza coming in June 2021" style="width: 100%">
+<img src="/images/events/bookbugsx/Bonanza Banner Events.png" alt="Book Bugs Bonanza June 2021" style="width: 100%">
+
+**Calling All Explorers!**
+
+The Book Bugs Bonanza is happening online over three weeks this June holidays! Do you want exciting Book Bugs rewards like these?
+
+<img src="/images/events/bookbugsx/Bonanza Rewards.png" alt="Book Bugs Bonanza Rewards" style="width: 100%">
+
+Follow the instructions below to receive special rewards.
+
+Step 1: Download and print this week's activity sheet below.
+
+**1 June 2021 to 6 June 2021**
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.png" alt="Tamil-English Worksheet"></a>|
+
+Step 2: Harness your creativity and complete the activity sheet! If you need help, ask your parents and make it a fun family activity!
+
+Step 3: Either take a photo of your completed masterpiece or scan it, and upload the image (in .png, .jpg, .jpeg, or .pdf formats) to the form  below:
+
 
 ### Past Events
 

@@ -43,7 +43,7 @@ Do your children like creating their own inventions just like Leonardo Da Vinci?
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
-###**Create a lava lamp**
+### **Create a lava lamp**
 
 Get creative with your child in the kitchen! Learn about density as you transform household ingredients into an eye-catching multi-colour lava lamp.
 

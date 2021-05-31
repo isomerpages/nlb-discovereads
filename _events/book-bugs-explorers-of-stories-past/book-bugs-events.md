@@ -9,6 +9,8 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### Ongoing Events
 
+#### Book Bugs Bonanza
+
 <img src="/images/events/bookbugsx/Bonanza Banner Events.png" alt="Book Bugs Bonanza June 2021" style="width: 100%">
 
 **Calling All Explorers!**

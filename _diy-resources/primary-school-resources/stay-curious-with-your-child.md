@@ -15,7 +15,7 @@ _(Updated on 31 May 2021)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | **new** [Create a lava lamp](#Create-a-lava-lamp) |  [DIY Laser Maze](#DIY-Laser-Maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| [School Holiday Specials](#school-holiday-specials) | **new** [Create a lava lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-Laser-Maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
 ### **School Holiday Specials**
 

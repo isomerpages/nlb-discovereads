@@ -10,8 +10,8 @@ third_nav_title: Primary School Resources
 <b>Click <a href="/diy-resources/primary/primary-main">here</a>  to go back to main page for Primary Resources</b>
 
 **Check out our School Holiday Special Videos here!**<br>
-| [Magical Butterscotch Soda](#magical-butterscotch-soda) | [Baking Banana Muffins](#baking-banana-muffins) | [Exercise and Keep Fit!](#exercise-and-keep-fit) | 
-|[Drawing Animals](#drawing-animals) | [Make a Parachute at Home](#make-a-parachute-at-home) | [Build a Paper Rollercoaster](#build-a-paper-rollercoaster) |
+| [Magical Butterscotch Soda](#magical-butterscotch-soda) | [Baking Banana Muffins](#baking-banana-muffins) | [Exercise and Keep Fit!](#exercise-and-keep-fit) | <br>
+| [Drawing Animals](#drawing-animals) | [Make a Parachute at Home](#make-a-parachute-at-home) | [Build a Paper Rollercoaster](#build-a-paper-rollercoaster) |
 
 
 ##### Magical Butterscotch Soda

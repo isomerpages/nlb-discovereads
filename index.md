@@ -23,12 +23,14 @@ sections:
         - title: Teens Takeover (13-17 years)
           description: null
           url: /services/programmes/teenstakeover
-  - infobar:
+  - infopic:
       title: Book Bugs X
       description: "Welcome to Book Bugs: Explorers of Stories Past! It’s time to
         scale new heights. Join us to prepare for your journey now!"
       button: Explore more!
       url: https://childrenandteens.nlb.gov.sg/events/bookbugsx/
+      image: /images/homepage/bbx-homepage-header.png
+      alt: BBX image
   - infobar:
       title: Resources for Parents & Educators
       description: Engage children with reading using tips from these dedicated guides.

@@ -59,7 +59,5 @@ Looking for D.I.Y. resources to foster the love of reading and learning at home 
 		<div class="image-container" style="margin: auto;">
 		Information Literacy Resources<a href="/services/other-services/sure"><img src="/images/diyresources/dR_info-lit-resources.png" style="max-width: 20rem; padding: 10px; margin: auto;"></a>
 	</div>
-	</div>
 </div>
 </div>
-

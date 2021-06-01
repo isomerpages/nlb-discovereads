@@ -73,6 +73,8 @@ Source: [https://builtbykids.com/teaching-kids-how-to-use-tools/ ](https://built
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **DIY Laser Maze**
 
@@ -121,6 +123,8 @@ To manage your child’s screen time, consider stopping all screen use one hour 
 Source: [: https://www.singhealth.com.sg/news/patient-care/tips-on-cultivating-healthy-screen-use-habits-for-parents-and-children]( : https://www.singhealth.com.sg/news/patient-care/tips-on-cultivating-healthy-screen-use-habits-for-parents-and-children) (Last accessed on 12 Dec 2020) 
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Gift Wrapping**
@@ -174,6 +178,8 @@ Raise children to be a giving generation rather than a give-me generation. Paren
 Source: [https://centerforparentingeducation.org/library-of-articles/indulgence-values/giving-best-gift](https://centerforparentingeducation.org/library-of-articles/indulgence-values/giving-best-gift) (Last accessed on 15 Dec 2020) 
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Build Your Own Balloon Powered Car**
@@ -233,6 +239,8 @@ Source: [https://www.familiesforlife.sg/discover-an-article/Pages/Raising-a-Crea
 All websites were last accessed on 15 October 2020. 
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Art and Craft Fire-Breathing Dragon** 
 
@@ -290,6 +298,8 @@ Source: [https://www.scholastic.com/teachers/articles/teaching-content/art-child
 
 All websites were last accessed on 21 August 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Paper Craft Messages**
@@ -349,6 +359,8 @@ Source: [Tips for parenting during the coronavirus (Covid-19) outbreak](https://
 All websites were last accessed on 30 April 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Paper Owl**
 
@@ -403,6 +415,8 @@ Source: [https://www.abc.net.au/kidslisten/ideas/earlylearning/benefits-of-arts-
 All websites were last accessed on 23 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Yoga for Kids**
 
@@ -453,6 +467,8 @@ Source: [More than just a game: Yoga for school-age children](https://www.health
 All websites were last accessed on 4 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **High-intensity Interval Training (HIIT) Workout for Kids**
 
@@ -502,6 +518,8 @@ Source:
 
 All websites were last accessed on 25 May 2020
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Science Exploration**
@@ -554,6 +572,8 @@ Source: [https://www.naeyc.org/our-work/families/support-science-learning](https
 
 All websites were last accessed on 15 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Space Doodle**
@@ -609,3 +629,5 @@ Source: [https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2
 
 All websites were last accessed on 30 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>

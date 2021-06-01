@@ -20,7 +20,7 @@ _(Updated on 4 May 2021)_
 ### **School Holiday Special**
 Click on the icons to find out more!
 
-| <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 100%;"></a> | <a href="diy-resources/primary/shs-videos"><img src="/images/diyresources/shs-videos-button.png" style="width: 100%;"></a> |
+| <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 100%;"></a> | <a href="/diy-resources/primary/shs-videos"><img src="/images/diyresources/shs-videos-button.png" style="width: 100%;"></a> |
 
 
 <b><a href="#top">Back to top</a></b>

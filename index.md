@@ -24,6 +24,12 @@ sections:
           description: null
           url: /services/programmes/teenstakeover
   - infobar:
+      title: Book Bugs X
+      description: "Welcome to Book Bugs: Explorers of Stories Past! It’s time to
+        scale new heights. Join us to prepare for your journey now!"
+      button: Explore more!
+      url: https://childrenandteens.nlb.gov.sg/events/bookbugsx/
+  - infobar:
       title: Resources for Parents & Educators
       description: Engage children with reading using tips from these dedicated guides.
       button: Read more!
@@ -36,12 +42,6 @@ sections:
         more. Remember to set your alarm so you don’t miss any wonderful videos!
       button: Stories
       url: /diy-resources/storytime/storytime-main
-  - infobar:
-      title: Book Bugs X
-      description: "Welcome to Book Bugs: Explorers of Stories Past! It’s time to
-        scale new heights. Join us to prepare for your journey now!"
-      button: Explore more!
-      url: https://childrenandteens.nlb.gov.sg/events/bookbugsx/
   - infopic:
       title: Watch this!
       subtitle: School Holiday Specials with Librarians

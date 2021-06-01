@@ -4,11 +4,10 @@ permalink: /diy-resources/primary/shs-videos
 third_nav_title: Primary School Resources
 ---
 ## **School Holiday Special Videos**
-
-_(Updated on 1 June 2021)_
-
 ![School Holiday Special Videos header](/images/diyresources/primary/shs-videos-header.png)
-<p style="text-align: center;"><b>Click <a href="/diy-resources/primary/primary-main">here</a>  to go back to main page for Primary Resources</b></p>
+<p style="text-align: center;"><i>(Updated on 1 June 2021)</i></p>
+
+<b>Click <a href="/diy-resources/primary/primary-main">here</a>  to go back to main page for Primary Resources</b>
 
 **Check out our School Holiday Special Videos here!**<br>
 | [Magical Butterscotch Soda](#magical-butterscotch-soda) | [Baking Banana Muffins](#baking-banana-muffins) | [Exercise and Keep Fit!](#exercise-and-keep-fit) | 

@@ -13,7 +13,7 @@ Looking for D.I.Y. resources to foster the love of reading and learning at home 
 		Resources for Parents: Raising Readers <a href="/diy-resources/primary/primary-main#engage-my-child-in-reading"><img src="/images/diyresources/RAISING-READERS-TOOLKIT-BUTTON.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-		Storytime with Our Librarians (For ages 4-10)<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime_banner.png" style="max-width: 20rem; padding: 10px; margin: auto;"></a>
+		Storytime with Our Librarians (For ages 4-10)<a href="/diy-resources/storytime/storytime-main"><img src="/images/diyresources/storytime-button.png" style="max-width: 20rem; padding: 10px; margin: auto;"></a>
 	</div>
 		<div class="image-container" style="margin: auto;">
 		Stay Curious with Your Child<a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>

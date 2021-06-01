@@ -15,35 +15,9 @@ _(Updated on 31 May 2021)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| [School Holiday Specials](#school-holiday-specials) | **new** [Create a lava lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+| ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
-### **School Holiday Specials**
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pe58gTDQJmg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Craving a nice cold drink🥤 on a warm day? Jazz up your regular, ordinary beverage, with this simple recipe! Follow along as our librarian, Sarah makes Butterscotch Soda, a drink inspired by her travels into fantasy worlds. 
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BPGHU2GWMhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Add baking to your to-do list during the holidays! Get busy in the kitchen with our librarian, Keisha, as she teaches you how to make these yummy and healthy banana muffins!
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/kRs8U4FrUgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Yes, it's the school holidays but you can still keep the kids fit and active💪 with these tips! Get moving with Elvina as she shows you simple exercises you can do from the comfort of your home.
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Drawing is a fun activity to do when we have to stay in.✏️ Let your children expand on their artistic abilities with our librarian, Angela, who will be showing us how we can create a nice drawing in 4 easy steps.🎨
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vUXWrQMa8QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them!
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
-
-### **Create a lava lamp**
+### **Create a Lava Lamp**
 
 Get creative with your child in the kitchen! Learn about density as you transform household ingredients into an eye-catching multi-colour lava lamp.
 
@@ -99,6 +73,8 @@ Source: [https://builtbykids.com/teaching-kids-how-to-use-tools/ ](https://built
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **DIY Laser Maze**
 
@@ -147,6 +123,8 @@ To manage your child’s screen time, consider stopping all screen use one hour 
 Source: [: https://www.singhealth.com.sg/news/patient-care/tips-on-cultivating-healthy-screen-use-habits-for-parents-and-children]( : https://www.singhealth.com.sg/news/patient-care/tips-on-cultivating-healthy-screen-use-habits-for-parents-and-children) (Last accessed on 12 Dec 2020) 
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Gift Wrapping**
@@ -200,6 +178,8 @@ Raise children to be a giving generation rather than a give-me generation. Paren
 Source: [https://centerforparentingeducation.org/library-of-articles/indulgence-values/giving-best-gift](https://centerforparentingeducation.org/library-of-articles/indulgence-values/giving-best-gift) (Last accessed on 15 Dec 2020) 
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Build Your Own Balloon Powered Car**
@@ -259,6 +239,8 @@ Source: [https://www.familiesforlife.sg/discover-an-article/Pages/Raising-a-Crea
 All websites were last accessed on 15 October 2020. 
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Art and Craft Fire-Breathing Dragon** 
 
@@ -316,6 +298,8 @@ Source: [https://www.scholastic.com/teachers/articles/teaching-content/art-child
 
 All websites were last accessed on 21 August 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Paper Craft Messages**
@@ -375,6 +359,8 @@ Source: [Tips for parenting during the coronavirus (Covid-19) outbreak](https://
 All websites were last accessed on 30 April 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Paper Owl**
 
@@ -429,6 +415,8 @@ Source: [https://www.abc.net.au/kidslisten/ideas/earlylearning/benefits-of-arts-
 All websites were last accessed on 23 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Yoga for Kids**
 
@@ -479,6 +467,8 @@ Source: [More than just a game: Yoga for school-age children](https://www.health
 All websites were last accessed on 4 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
 
+<b><a href="#top">Back to top</a></b>
+
 
 ### **High-intensity Interval Training (HIIT) Workout for Kids**
 
@@ -528,6 +518,8 @@ Source:
 
 All websites were last accessed on 25 May 2020
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Science Exploration**
@@ -580,6 +572,8 @@ Source: [https://www.naeyc.org/our-work/families/support-science-learning](https
 
 All websites were last accessed on 15 May 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Space Doodle**
@@ -635,3 +629,5 @@ Source: [https://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2
 
 All websites were last accessed on 30 November 2020.
 The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>

@@ -18,9 +18,9 @@ _(Updated on 4 May 2021)_
 | [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
-Click on the icon to find out more!
+Click on the icons to find out more!
 
-<a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
+| <a href="/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 100%;"></a> | <a href="/diy-resources/primary/shs-videos"><img src="/images/diyresources/shs-videos-button.png" style="width: 100%;"></a> |
 
 
 <b><a href="#top">Back to top</a></b>

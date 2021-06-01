@@ -47,3 +47,5 @@ Looking for D.I.Y. resources to foster the love of reading and learning at home 
 	</div>
 </div>
 </div>
+
+<p style="text-alignment: center;"<b><a href="#top">Back to top</a></b></p>

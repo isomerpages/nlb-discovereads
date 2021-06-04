@@ -66,7 +66,7 @@ Tabletop and boardgames aren't just for rainy days or awkward family events anym
  
 In our ever-increasing technological world, playing old-school games is a welcome retreat from the overexposure to Instagram, Twitter, Facebook, and the rest of social media. Over the past few years, board games have become the hot new hobby. Instead of friends sitting around the same table and staring at their phones, they are now either working with or against each other. 
  
-The Everything Tabletop Games Book shows how to play some of the best tabletop games in the world, from classic strategy games like Settlers of Catan to great new games like Gloomhaven. Throughout the book, you'll learn the different genres of tabletop and board games; how to play each game; rules and strategies to help you win; and even where to play online—including new expansions to keep your favorite games fresh and exciting.
+The Everything Tabletop Games Book shows how to play some of the best tabletop games in the world, from classic strategy games like Settlers of Catan to great new games like Gloomhaven. Throughout the book, you'll learn the different genres of tabletop and boardgames; how to play each game; rules and strategies to help you win; and even where to play online—including new expansions to keep your favorite games fresh and exciting.
 
 So gather up some friends, pick a game from this book, and start playing! You'll be having a blast in no time.
  

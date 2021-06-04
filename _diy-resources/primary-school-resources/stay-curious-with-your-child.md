@@ -15,7 +15,66 @@ _(Updated on 31 May 2021)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-| ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **DIY Batu Seremban**
+
+Batu Seremban, commonly known as five stones, is a well-loved traditional game. Play this game with your child to improve concentration, memory and hand-eye coordination.
+
+You’ll need: 
+* Fabric<br>
+* Ruler<br>
+* Pencil/ Marker<br>
+* Scissors<br>
+* Thread and Needle<br>
+* Uncooked green beans (or similar substitutes like seeds or uncooked rice)<br>
+
+Learn how to make and play batu seremban in the video below. This activity requires adult supervision and assistance.
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwSuIxbNoFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: [How To Make and Play Batu Seremban](https://www.youtube.com/watch?v=dwSuIxbNoFw)(10 May 2021)
+
+**Be Curious!**
+
+Read these eBooks to get ideas on more fun and educational games at home!
+
+<img src="/images/diyresources/primary/Everyone_Wins.jpg" alt="Everyone  wins" style="width: 40%;">
+
+**Everyone Wins!: Cooperative Games and Activities for All Ages**
+
+by Ba Luvmour & Josette Luvmour<br>
+Publisher: New Society Publishers
+
+Everyone Wins: Cooperative Games and Activities for All Ages features over 170 well-designed cooperative games and activities. Developmentally appropriate and indexed according to age level, group size, activity level, and location, Everyone Wins offers great value through evaluating interpersonal dynamics, teaching social justice, and assessing development capacities.
+
+This book is available on Overdrive at: 
+[https://nlb.overdrive.com/media/4328421](https://nlb.overdrive.com/media/4328421)
+
+<img src="/images/diyresources/primary/100_Games_for_Children.jpg" alt="Everyone  wins" style="width: 40%;">
+
+**100 Games for Children**
+
+by P. S. Quick<br>
+Publisher: Andrews UK
+
+Games not only help to keep children fit but motivate them to develop positive attitudes and understand rules. They learn and develop skills that will hopefully encourage them to engage in sports and other physical activities in later life. Children learn to listen to instructions, to share and co-operate, to problem solve and challenge themselves and most important of all interact with others, being valued as part of the group. 
+
+This book is available on Overdrive at: 
+[https://nlb.overdrive.com/media/1752554](https://nlb.overdrive.com/media/1752554)
+
+**Tips for Parents**
+
+In the kampong days, games were created purely from imagination and using random items lying around. Children, as well as adults, invented a lot of fun games to play. That was how traditional games came about. Why not come up with your own games with things found at home or try out some of these  other traditional games.
+
+Source:[https://www.roots.gov.sg/stories-landing/stories/traditional-kampong-games/story](https://www.roots.gov.sg/stories-landing/stories/traditional-kampong-games/story)(Last accessed on 6 May 2021)
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Create a Lava Lamp**
 
@@ -48,6 +107,7 @@ Publisher: Quarry Books
 
 This engaging guide offers a series of snapshots of 25 scientists famous for their work with chemistry, from ancient history through today. A step-by-step illustrated experiment paired with each story offers kids a hands-on opportunity for exploring concepts the scientists pursued, or are working on today.
 
+This book is available on Overdrive at: 
 [https://nlb.overdrive.com/media/5387274 ](https://nlb.overdrive.com/media/5387274)
 
 <img src="/images/diyresources/primary/Kate-the-Chemist-The-Big-Book-of-Experiments.jpg" alt="Kate the chemist" style="width: 40%;">
@@ -57,8 +117,9 @@ This engaging guide offers a series of snapshots of 25 scientists famous for the
 by Kate Biberdorf<br>
 Publisher: Penguin Young Readers Group
 
-With 25 kid-friendly science experiments, and stunning full-color photographs, Kate the Chemist's big book of experiments, shows kids just how fun and easy to be a scientist. Learn how to make slime, edible snot and more! 
+With 25 kid-friendly science experiments, and stunning full-color photographs, Kate the Chemist's big book of experiments, shows kids just how fun and easy to be a scientist. Learn how to make slime, edible snot and more!
 
+This book is available on Overdrive at: 
 [https://nlb.overdrive.com/media/5005011](https://nlb.overdrive.com/media/5005011)
 
 **Tips for Parents**
@@ -102,6 +163,7 @@ by Bobbi Conner<br>
 Publisher: Workman Publishing Company
 
 There are more than 200 screen-free games and activities to help kids enjoy the wholesome, old-fashioned experience of playing creatively and freely without technology. There are outdoor games and indoor games, games to play solo and games to play with others.
+
 This book is available on Overdrive at: 
 [https://nlb.overdrive.com/media/4906061]( https://nlb.overdrive.com/media/4906061) 
 

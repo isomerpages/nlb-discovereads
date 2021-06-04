@@ -106,7 +106,7 @@ Maybe you have always aspired to be a farmer, or at the least, have green finger
  
 You can also go a step further to experiment with hydroponics, like this Singaporean teenager Hanna Joe did. Click on the image to visit YouTube, and learn how she created her own mini urban farm at home:
 
-<a href="https://www.youtube.com/embed/57HBTpEn7KQ"><img src="/images/diyresources/secondary/tt-uf-vid1.png" alt="YouTube screenshot hyperlinked to Teen grows sustainable hydroponics farm at home video" style="width: 60%;">
+<a href="https://www.youtube.com/watch?v=57HBTpEn7KQ&ab_channel=TheStraitsTimes"><img src="/images/diyresources/secondary/tt-uf-vid1.png" alt="YouTube screenshot hyperlinked to Teen grows sustainable hydroponics farm at home video" style="width: 60%;">
 <p style="text-align: center;"><sup>Image source: <a href="https://www.youtube.com/watch?v=57HBTpEn7KQ&ab_channel=TheStraitsTimes">Teen grows sustainable hydroponic farm at home, The Straits Times</a>.</sup></p>
 
 <a href="https://www.verticalroots.com/the-what-and-why-of-hydroponic-farming/"><img src="/images/diyresources/secondary/tt-uf-hydroponics.png" alt="Hydroponics are a method of growing plants without soil. Plants are submerged in nutrient-rich water and their roots are supported by other materials that retain moisture, like coconut fibre." style="width: 60%;"></a> 

@@ -33,7 +33,7 @@ However, the hobby can be expensive – a single boardgame in Singapore often co
 <img src="/images/diyresources/secondary/tt-pnp-materials.png" alt="All you will need is: a computer and a printer, paper, scissors, glue, cardboard, [optional] Card sleeves and a set of dice (You can get these from a local boardgame store!)" style="width: 70%;">
 
 Once you have the materials above, all you need to do then is pick a game, print it out, and follow the instructions to assemble the boardgame. The assembly process can make for a fun time of social bonding if you ask your friends or family to help as well. Before long, you will have a completely assembled boardgame that’s ready to play!
- 
+
 Here are some websites that provide great Print-and-Play boardgames:
 
 **Asmodee Print & Play**<br>

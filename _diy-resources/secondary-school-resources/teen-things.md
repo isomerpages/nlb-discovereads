@@ -20,9 +20,9 @@ third_nav_title: Secondary School Resources
 #### **Print-and-Play Boardgames**
 
 “Boardgaming” has become an increasingly popular hobby in recent years, often seen as a throwback to the days before online gaming. While they may not be as fast-paced as videogames, boardgames can provide a more rounded social experience, as friends, and even family members, can meet up to play a game together.
- 
+
 Through boardgames, we can also expand our worldview and learn about different cultures and customs. One such example is the popular game “Settlers of Catan”, which was inspired by the history of Icelandic Vikings.
- 
+
 Learn more about the history of “Settlers of Catan” in this video:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/niTSTcZkriA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

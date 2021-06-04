@@ -26,7 +26,7 @@ Through boardgames, we can also expand our worldview and learn about different c
 Learn more about the history of “Settlers of Catan” in this video:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/niTSTcZkriA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=niTSTcZkriA&ab_channel=GreatBigStory">The Man Who Created Settles of Catan, A Great Big Story</a>.</sup></p>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=niTSTcZkriA&ab_channel=GreatBigStory">The Man Who Created Settlers of Catan, A Great Big Story</a>.</sup></p>
 
 However, the hobby can be expensive – a single boardgame in Singapore often costs more than $20 per game. One great alternative is Print-and-Play boardgames. As its name suggests, Print-and-Play boardgames are games that can be printed and assembled at home. Many boardgame companies put up Print-and-Play versions of their boardgames online for public use, and the best part is that it is completely free!
 

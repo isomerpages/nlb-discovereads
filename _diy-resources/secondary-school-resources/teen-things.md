@@ -93,7 +93,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 (All websites were last accessed on 4 Jun 2021.)
 
 <b><a href="#top">Back to top</a></b>
-	
+
 
 <a name="id1">![Urban Farming header](/images/diyresources/secondary/tt21-header-uf.png)</a>
 #### **Urban Farming: Back to Our Roots**

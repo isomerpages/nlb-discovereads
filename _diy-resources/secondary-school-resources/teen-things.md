@@ -73,7 +73,7 @@ So gather up some friends, pick a game from this book, and start playing! You'll
 Synopsis from [Simon and Schuster](https://www.simonandschuster.com/).
 
 
-<a href="https://nlb.overdrive.com/library/teens/media/3273187"><img src="/images/diyresources/secondary/tt-pnp-book1.jpg" alt="Otherworld cover" style="width: 30%;"></a><br>
+<a href="https://nlb.overdrive.com/library/teens/media/3273187"><img src="/images/diyresources/secondary/tt-pnp-book2.jpg" alt="Otherworld cover" style="width: 30%;"></a><br>
 **Otherworld**<br>
 Authors: Jason Segel and Kirsten Miller<br>
 Call No: Y SEG<br>

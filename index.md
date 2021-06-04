@@ -28,7 +28,7 @@ sections:
       description: "Welcome to Book Bugs: Explorers of Stories Past! It’s time to
         scale new heights. Join us to prepare for your journey now!"
       button: Explore more!
-      url: https://childrenandteens.nlb.gov.sg/events/bookbugsx/
+      url: /events/bookbugsx/
       image: /images/homepage/bbx-homepage-header.png
       alt: BBX image
   - infobar:
@@ -48,7 +48,7 @@ sections:
       title: School Holiday Special Videos
       description: Check out our School Holiday Special Videos with librarians here!
       button: Watch now!
-      url: https://childrenandteens.nlb.gov.sg/diy-resources/primary/shs-videos
+      url: /diy-resources/primary/shs-videos
       image: /images/diyresources/shs-videos-button.png
       alt: Holiday specials image
 ---

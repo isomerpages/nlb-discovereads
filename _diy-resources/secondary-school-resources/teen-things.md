@@ -30,7 +30,7 @@ Learn more about the history of “Settlers of Catan” in this video:
 
 However, the hobby can be expensive – a single boardgame in Singapore often costs more than $20 per game. One great alternative is Print-and-Play boardgames. As its name suggests, Print-and-Play boardgames are games that can be printed and assembled at home. Many boardgame companies put up Print-and-Play versions of their boardgames online for public use, and the best part is that it is completely free!
 
-<img src="/images/diyresources/secondary/tt-pnp-materials.png" alt="All you will need is: a computer and a printer, paper, scissors, glue, cardboard, [optional] Card sleeves and a set of dice (You can get these from a local boardgame store!)" style="width: 60%;">
+<img src="/images/diyresources/secondary/tt-pnp-materials.png" alt="All you will need is: a computer and a printer, paper, scissors, glue, cardboard, [optional] Card sleeves and a set of dice (You can get these from a local boardgame store!)" style="width: 70%;">
 
 Once you have the materials above, all you need to do then is pick a game, print it out, and follow the instructions to assemble the boardgame. The assembly process can make for a fun time of social bonding if you ask your friends or family to help as well. Before long, you will have a completely assembled boardgame that’s ready to play!
  

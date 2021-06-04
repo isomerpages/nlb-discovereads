@@ -11,7 +11,7 @@ third_nav_title: Secondary School Resources
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Print-and-Play Boardgames](/images/diyresources/secondary/tt21-button-boardgames.png)](#id2) | [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) |
+| [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | [![Print-and-Play Boardgames](/images/diyresources/secondary/tt21-button-boardgames.png)](#id2) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) |
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)](/diy-resources/secondary/teen-things-archive)
 
@@ -19,42 +19,50 @@ third_nav_title: Secondary School Resources
 <a name="id2">![Print-and-Play Boardgames header](/images/diyresources/secondary/tt21-header-pnp.png)</a>
 #### **Print-and-Play Boardgames**
 
-“Boardgaming” has become an increasingly popular hobby in recent years, often seen as a throwback to the days before online gaming. While they may not be as fast-paced as videogames, boardgames can provide a more rounded social experience, as friends, and even family members, can meet up to play a game together.
+“Boardgaming” has become an increasingly popular hobby in recent years, often seen as a throwback to the days before online gaming.
 
-Through boardgames, we can also expand our worldview and learn about different cultures and customs. One such example is the popular game “Settlers of Catan”, which was inspired by the history of Icelandic Vikings.
+While they may not be as fast-paced as videogames, boardgames can provide a more rounded social experience, as friends, and even family members, can meet up to play a game together.
 
-Learn more about the history of “Settlers of Catan” in this video:
+Through boardgames, we can also expand our worldview and learn about different cultures and customs. 
+
+One such example is the popular game “Settlers of Catan”, which was inspired by the history of Icelandic Vikings. Learn more about the history of “Settlers of Catan” in this video:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/niTSTcZkriA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=niTSTcZkriA&ab_channel=GreatBigStory">The Man Who Created Settlers of Catan, A Great Big Story</a>.</sup></p>
 
-However, the hobby can be expensive – a single boardgame in Singapore often costs more than $20 per game. One great alternative is Print-and-Play boardgames. As its name suggests, Print-and-Play boardgames are games that can be printed and assembled at home. Many boardgame companies put up Print-and-Play versions of their boardgames online for public use, and the best part is that it is completely free!
+However, the hobby can be expensive – a single boardgame in Singapore often costs more than $20 per game. 
+
+One great alternative is Print-and-Play boardgames. As its name suggests, Print-and-Play boardgames are games that can be printed and assembled at home. 
+
+Many boardgame companies put up Print-and-Play versions of their boardgames online for public use, and the best part is that it is completely free!
 
 <img src="/images/diyresources/secondary/tt-pnp-materials.png" alt="All you will need is: a computer and a printer, paper, scissors, glue, cardboard, [optional] Card sleeves and a set of dice (You can get these from a local boardgame store!)" style="width: 70%;">
 
-Once you have the materials above, all you need to do then is pick a game, print it out, and follow the instructions to assemble the boardgame. The assembling process can make for a fun time of social bonding if you ask your friends or family to help as well. Before long, you will have a completely assembled boardgame that’s ready to play!
+Once you have the materials above, all you need to do then is pick a game, print it out, and follow the instructions to assemble the boardgame. 
 
-Here are some websites that provide great Print-and-Play boardgames:
+The assembling process can make for a fun time of social bonding if you ask your friends or family to help as well. Before long, you will have a completely assembled boardgame that’s ready to play!
 
-**Asmodee Print & Play**<br>
-[Asmodee](https://print-and-play.asmodee.fun) is a renowned French boardgames company that has made and owns many award winning boardgames such as Ticket to Ride, Settlers of Catan and Dixit! Try out a whole roster of games here!
+Here are 3 websites that provide great Print-and-Play boardgames:
+
+**1) Asmodee Print & Play**<br>
+[Asmodee](https://print-and-play.asmodee.fun) is a renowned French boardgames company that has made and owns many award winning boardgames such as Ticket to Ride, Settlers of Catan and Dixit! Try out a whole roster of free games here!
 
 <a href="https://print-and-play.asmodee.fun"><img src="/images/diyresources/secondary/tt-pnpsite1.png" alt="Asmodee screenshot" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://print-and-play.asmodee.fun">Asmodee</a>.</sup></p>
 
-**PNP Arcade**<br>
+**2) PNP Arcade**<br>
 [PNP Arcade](https://www.pnparcade.com/collections/free-games) is a website where small and independent boardgame developers can submit and sell their boardgames to be printed and played. There is a free games section that you can check out.
 
 <a href="https://www.pnparcade.com/collections/free-games"><img src="/images/diyresources/secondary/tt-pnpsite2.png" alt="PNP Arcade screenshot" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://www.pnparcade.com/collections/free-games">PNP Arcade</a>.</sup></p>
 
-**goodlittlegames**<br>
+**3) goodlittlegames**<br>
 Similar to PNP Arcade, [goodlittlegames](http://www.goodlittlegames.co.uk/index.htm) is a website that features boardgames created by independent developers. So far they have a small collection of 16 games, but all are free to print and play!
 
 <a href="http://www.goodlittlegames.co.uk/index.html"><img src="/images/diyresources/secondary/tt-pnpsite3.png" alt="goodlittlegames screenshot" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="http://www.goodlittlegames.co.uk/index.html">goodlittlegames</a>.</sup></p>
 
-Game on! Take it to the next level with these books!
+**Game on! Take it to the next level with these books!**
  
 <a href="https://nlb.overdrive.com/media/4501170"><img src="/images/diyresources/secondary/tt-pnp-book1.jpg" alt="The Everything Tabletop Games Book cover" style="width: 30%;"></a><br>
 **The Everything Tabletop Games Book**<br>

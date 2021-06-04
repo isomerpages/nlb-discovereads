@@ -32,7 +32,7 @@ However, the hobby can be expensive – a single boardgame in Singapore often co
 
 <img src="/images/diyresources/secondary/tt-pnp-materials.png" alt="All you will need is: a computer and a printer, paper, scissors, glue, cardboard, [optional] Card sleeves and a set of dice (You can get these from a local boardgame store!)" style="width: 70%;">
 
-Once you have the materials above, all you need to do then is pick a game, print it out, and follow the instructions to assemble the boardgame. The assembly process can make for a fun time of social bonding if you ask your friends or family to help as well. Before long, you will have a completely assembled boardgame that’s ready to play!
+Once you have the materials above, all you need to do then is pick a game, print it out, and follow the instructions to assemble the boardgame. The assembling process can make for a fun time of social bonding if you ask your friends or family to help as well. Before long, you will have a completely assembled boardgame that’s ready to play!
 
 Here are some websites that provide great Print-and-Play boardgames:
 
@@ -54,7 +54,7 @@ Similar to PNP Arcade, [goodlittlegames](http://www.goodlittlegames.co.uk/index.
 <a href="http://www.goodlittlegames.co.uk/index.html"><img src="/images/diyresources/secondary/tt-pnpsite3.png" alt="goodlittlegames screenshot" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="http://www.goodlittlegames.co.uk/index.html">goodlittlegames</a>.</sup></p>
 
-Game On! Take it to the next level with these books!
+Game on! Take it to the next level with these books!
  
 <a href="https://nlb.overdrive.com/media/4501170"><img src="/images/diyresources/secondary/tt-pnp-book1.jpg" alt="The Everything Tabletop Games Book cover" style="width: 30%;"></a><br>
 **The Everything Tabletop Games Book**<br>

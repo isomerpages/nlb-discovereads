@@ -104,10 +104,10 @@ A small country like Singapore imports over 90% of its food from other countries
  
 Maybe you have always aspired to be a farmer, or at the least, have green fingers. If you want to grow your own food, you can always start at home with your own spice garden.
  
-You can also go a step further to experiment with hydroponics, like this Singaporean teenager Hanna Joe did. Check out how she created her own mini urban farm at home with this video:
+You can also go a step further to experiment with hydroponics, like this Singaporean teenager Hanna Joe did. Click on the image to visit YouTube, and learn how she created her own mini urban farm at home:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/57HBTpEn7KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=57HBTpEn7KQ&ab_channel=TheStraitsTimes">Teen grows sustainable hydroponic farm at home, The Straits Times</a>.</sup></p>
+<a href="https://www.youtube.com/embed/57HBTpEn7KQ"><img src="/images/diyresources/secondary/tt-uf-vid1.png" alt="YouTube screenshot hyperlinked to Teen grows sustainable hydroponics farm at home video" style="width: 60%;">
+<p style="text-align: center;"><sup>Image source: <a href="https://www.youtube.com/watch?v=57HBTpEn7KQ&ab_channel=TheStraitsTimes">Teen grows sustainable hydroponic farm at home, The Straits Times</a>.</sup></p>
 
 <a href="https://www.verticalroots.com/the-what-and-why-of-hydroponic-farming/"><img src="/images/diyresources/secondary/tt-uf-hydroponics.png" alt="Hydroponics are a method of growing plants without soil. Plants are submerged in nutrient-rich water and their roots are supported by other materials that retain moisture, like coconut fibre." style="width: 60%;"></a> 
 <p style="text-align: center;"><sup>Adapted from: <a href="https://www.verticalroots.com/the-what-and-why-of-hydroponic-farming/">"The What and Why of Hydroponic Farming", Vertical Roots</a>.</sup></p>

@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - events.md
-      - posb-nlb-kids-lit-quiztm-singapore-2020.md
       - a-book-a-day.md
       - information-session-for-educators-2020-virtual.md
       - book-bugs-ii/.keep

@@ -25,19 +25,18 @@ Follow the instructions below to receive special rewards.
 
 **Step 1**: Download and print this week's activity sheet below.
 
-**1 June 2021 to 6 June 2021**
+**7 June 2021 to 13 June 2021**
 
-|Chinese-English|Malay-English|Tamil-English|
-|:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.png" alt="Tamil-English Worksheet"></a>|
+| <img src="/images/events/bookbugsx/Where did the Book Bug go.png" alt="Where did the Book Bug go"> | <a href="/images/events/bookbugsx/files/March Pop-up Create Your Own Bug.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Create Your Own Bug Thumbnail.png" alt="Create your own bug PDF"></a> |
 
 **Step 2**: Harness your creativity and complete the activity sheet! If you need help, ask your parents and make it a fun family activity!
 
 **Step 3**: Either take a photo of your completed masterpiece or scan it, and upload the image (in .png, .jpg, .jpeg, or .pdf formats) to the form  below:
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loading, you can also click <a href="https://form.gov.sg/60af49360ba86b00113f1261">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/60b44d6f0ae04100136b7b28">here</a>.</div>
 
-<iframe id="iframe" src="https://form.gov.sg/60af49360ba86b00113f1261" style="width:100%;height:500px"></iframe>
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://form.gov.sg/60b44d6f0ae04100136b7b28" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 

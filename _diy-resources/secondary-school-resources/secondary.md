@@ -4,7 +4,6 @@ permalink: /diy-resources/secondary/secondary-main
 collection_name: diy-resources
 third_nav_title: Secondary School Resources
 ---
-
 ### **Secondary**
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
@@ -49,17 +48,6 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 Up your reading game by completing our very own Reading Challenge.
 
 <a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.PDF"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
-
-
-**POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
-
-Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
-
-Sec 1
-
-| **Survival Kit** | **Literary Boot Camp** |
-| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
-
 
 <b><a href="#top">Back to top</a></b>
 
@@ -249,5 +237,3 @@ For more great information literacy resources, click [here](/services/other-serv
 
 
 <b><a href="#top">Back to top</a></b>
-
-

@@ -4,7 +4,6 @@ permalink: /events/kidslitquiz
 breadcrumb: POSB-NLB Kids' Lit Quiz™ Singapore 2020
 collection_name: events
 ---
-
 ## **POSB-NLB Kids' Lit Quiz™ Singapore 2020**
 
 ### **About**

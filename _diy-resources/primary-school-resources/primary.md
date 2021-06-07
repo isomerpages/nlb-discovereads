@@ -74,17 +74,6 @@ Level up your reading game by completing our very own reading challenge:
 
 <a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.PDF"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
 
-
-**POSB-NLB Kids’ Lit Quiz(TM) Survival Kit and Literary Boot Camp Booklet (30 mins)**
-
-Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
-
-P4-P6
-
-| **Survival Kit** | **Literary Boot Camp** |
-| [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.PDF) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.PDF) |
-
-
 <b><a href="#top">Back to top</a></b>
 
 

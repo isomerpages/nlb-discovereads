@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/discoveReadsbanner3-min.png
-
 links:
   - title: Services
     collection: services
@@ -23,8 +16,6 @@ links:
   - title: Events
     url: /events/main
     sublinks:
-      - title: POSB-NLB Kids' Lit Quiz™ Singapore 2020
-        url: /events/kidslitquiz
       - title: A Book A Day
         url: /events/abookaday
       - title: Information Session for Educators 2020
@@ -35,6 +26,3 @@ links:
         url: /events/bookbugsx/
   - title: Contact Us
     url: https://www.nlb.gov.sg/ContactUs.aspx
-  # - title: unsorted(temp)
-  #   collection: unsorted
-

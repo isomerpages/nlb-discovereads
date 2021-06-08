@@ -24,11 +24,15 @@ Materials needed:
 
 ### **Recommended Books**
 
+<img src="/images/diyresources/preschool/platypuses.jpg" alt="platypuses" style="width:50%">
+
 **Title:** [Platypuses](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203180907) <br>
 **Author:** Sara Louise Kras <br>
 **Publisher:** Capstone Press, 2019 <br>
 
 Platypuses live only in Australia. Learn all about these unusual, duck billed divers and their habitats in Platypuses. Bring augmented reality to your students by downloading the free Capstone 4D app and scanning for access to an online article, video, and discussion questions. This item is a Capstone Duo and includes both a hardcover and Capstone Interactive eBook edition of the title.
+
+<img src="/images/diyresources/preschool/10%20reasons%20to%20love%20a%20penguin.jpg" alt="10 reasons to love a penguin" style="width:40%">
 
 **Title:** [10 Reasons To Love a Penguin](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203163242) <br>
 **Author:** Catherine Barr <br>
@@ -37,11 +41,15 @@ Platypuses live only in Australia. Learn all about these unusual, duck billed di
 
 Penguins are the cutest birds! Did you know that they go on incredible journeys? Or that they toboggan on their stomachs? Discover ten reasons why penguins are amazing and five ways you can show they love them in this gorgeous picture book. A must for any young animal enthusiast and a fantastic introduction to environmental issues.
 
+<img src="/images/diyresources/preschool/Emperor%20Penguins.jpg" alt="emperor penguins" style="width:40%">
+
 **Title:** [Emperor Penguins](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203976820) <br>
 **Author:** Jody S. Rake<br>
 **Publisher:** Pebble, a Capstone imprint, 2020 <br>
 
 Emperor penguins are known as the largest of all penguins. Find out more about this flightless, but quick swimming bird.
+
+<img src="/images/diyresources/preschool/Snowy%20Owls.jpg" alt="snowy owls" style="width:40%">
 
 **Title:** [Snowy Owls](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094041) <br>
 **Author:** Rita Santos<br>

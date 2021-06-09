@@ -24,11 +24,11 @@ Podcasts can be a novel way to introduce educational and engaging content to you
 1. Tumble Science Podcast for Kids
 The Tumble Science podcast features interviews with scientists that cover a whole range of topics from how physics can improve your basketball skills to whether or not trees fart. Each episode is under 20 minutes long and is sure to make both kids and adults laugh while learning interesting facts about the world.
 
-Listen to this podcast on their website [here] (https://www.sciencepodcastforkids.com). 
+Listen to this podcast on their website [here](https://www.sciencepodcastforkids.com). 
 
 This podcast is available on Spotify and Apple Podcasts. (Last accessed on 19 May 2021) 
 
-2. Brains on!
+2.  Brains on!
 How can we be sure that dinosaurs did not meow like cats? And why do siblings annoy each other? Brains On! answers questions sent in by children, and each episode is co-hosted by a child so you can be sure that each podcast episode answers big scientific questions in an age-appropriate way.
 
 Listen to this podcast on their website [here](https://www.brainson.org). 

@@ -9,7 +9,7 @@ third_nav_title: Storytime
 <img src="/images/diyresources/dR banner final.png" alt="Early READ Storytime Banner" style="width: 70%;">
 
 Early READ brings you livestream Storytime sessions featuring our very own staff. Join us for wonderful stories, songs and games. 
-Want to be notified so you never miss our livestream? Subscribe to our newsletter [here] or click [here](https://go.gov.sg/nlbstorytime-livestreamed) to add these dates to your Google Calendar.
+Want to be notified so you never miss our livestream? Subscribe to our newsletter [here](https://go.gov.sg/subscribe) or click [here](https://go.gov.sg/nlbstorytime-livestreamed) to add these dates to your Google Calendar.
 
 For the upcoming Early READ Storytime livestream session, please click here (link to be updated soon).
 Enjoy storytelling videos anytime, anywhere!

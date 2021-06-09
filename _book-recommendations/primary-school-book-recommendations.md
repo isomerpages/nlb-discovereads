@@ -3,7 +3,6 @@ title: Primary School Book Recommendations
 permalink: /book-recommendations/recommend-primary
 collection_name: book-recommendations
 ---
-
 ## **Primary**
 
 This page is best viewed on your desktop.
@@ -41,7 +40,9 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
-	<div class="image-container" style="margin: auto;">
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i></b><a href="/documents/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>
+	</div><div class="image-container" style="margin: auto;">
 		<a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
@@ -52,4 +53,3 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 	</div>
 </div>
 </div>
-

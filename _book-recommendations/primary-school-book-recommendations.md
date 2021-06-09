@@ -26,6 +26,9 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 | --------- | ---------------- |
 | [![Primary 6 Suggested Reads Image](/images/recommendationsprimary/p6-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6-FA-VER-300320.PDF) | [![Primary 6 Basic Suggested Reads Image](/images/recommendationsprimary/p6-Basic-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6F-FA-VER-300320.PDF) |
 
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
+
+
 **Easy-to-Read Booklist**
 
 <a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>
@@ -34,6 +37,8 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 | ***New!*** AFCC 2021 | AFCC 2020 |
 | <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
+
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
 
 
 **Mother Tongue Reading Lists**
@@ -53,3 +58,5 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 	</div>
 </div>
 </div>
+
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

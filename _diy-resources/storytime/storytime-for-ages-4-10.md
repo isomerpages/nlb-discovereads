@@ -4,6 +4,7 @@ permalink: /diy-resources/storytime/storytime-main
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
+Looking for Early READ Storytime livestream sessions? Please visit this [page](/diy-resources/storytime/early-read-storytime.md). 
 
 ## **Storytime (For ages 4 -10)**
 

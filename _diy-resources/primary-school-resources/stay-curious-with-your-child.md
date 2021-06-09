@@ -10,12 +10,71 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 31 May 2021)_
+_(Updated on 9 June 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+***new!**[Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **Listening to Podcasts**
+
+Podcasts can be a novel way to introduce educational and engaging content to your children, while reducing their screen time. Try these podcasts made for kids that are sure to spark their curiosity about the world around them.
+
+**Tumble Science Podcast for Kids**<br>
+The Tumble Science podcast features interviews with scientists that cover a whole range of topics from how physics can improve your basketball skills to whether or not trees fart. Each episode is under 20 minutes long and is sure to make both kids and adults laugh while learning interesting facts about the world.
+
+Listen to this podcast on their website [here](https://www.sciencepodcastforkids.com). 
+
+This podcast is available on Spotify and Apple Podcasts. (Last accessed on 19 May 2021) 
+
+
+ **Brains on!**<br>
+How can we be sure that dinosaurs did not meow like cats? And why do siblings annoy each other? Brains On! answers questions sent in by children, and each episode is co-hosted by a child so you can be sure that each podcast episode answers big scientific questions in an age-appropriate way.
+
+Listen to this podcast on their website [here](https://www.brainson.org). 
+
+This podcast is available on Spotify and Apple Podcasts. (Last accessed on 19 May 2021)
+
+Enjoyed these podcasts? Tag us on Facebook and Instagram @publiclibrarysg with #librarysg
+
+**Be Curious!**
+
+Encourage curiosity and scientific thinking in your child through these eBooks!
+
+<img src="/images/diyresources/primary/think-for-yourself.png" alt="Think for yourself" style="width: 40%;">
+
+**Think for Yourself**
+
+by Andrea Debbink<br>
+Publisher: duopress
+
+This unique and timely book won’t tell you what to think—that’s up to you!—but it will show you how to think more deeply about your own life and current events. Each chapter of the book covers one key step in the critical thinking process.
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/4906056](https://nlb.overdrive.com/media/4906056)
+
+
+<img src="/images/diyresources/primary/whats-the-big-idea.png" alt="What's The Big Idea" style="width: 40%;">
+
+**What's the BIG Idea?**
+
+by Vicki Cobb<br>
+Publisher: Sky Pony
+
+Scientists learn by asking questions. And this book is designed to make young readers stop and think about each of the thirty-five questions before reading what scientists have learned about each question. Readers will build their own scientific knowledge in the process. 
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/585779](https://nlb.overdrive.com/media/585779)
+
+**Tips for Parents**
+
+There are many benefits to podcasts that help to support children’s learning in an entertaining and educational way. When listening to podcasts, children’s imaginations are more actively engaged compared to watching a video as children have to create the images in their minds, rather than simply processing visual stimuli presented to them. Podcasts can also accelerate learning by improving their comprehension ability beyond what they are able to read on the page. Learn more about the benefits of podcasts and how to select the right one for your kids.
+
+Source: [https://ptaourchildren.org/5-reasons-your-child-should-listen-to-podcasts](https://ptaourchildren.org/5-reasons-your-child-should-listen-to-podcasts) (Last accessed on 19 May 2021) 
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
+
 
 ### **DIY Batu Seremban**
 

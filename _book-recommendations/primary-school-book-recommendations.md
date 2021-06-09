@@ -3,7 +3,6 @@ title: Primary School Book Recommendations
 permalink: /book-recommendations/recommend-primary
 collection_name: book-recommendations
 ---
-
 ## **Primary**
 
 This page is best viewed on your desktop.
@@ -27,6 +26,9 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 | --------- | ---------------- |
 | [![Primary 6 Suggested Reads Image](/images/recommendationsprimary/p6-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6-FA-VER-300320.PDF) | [![Primary 6 Basic Suggested Reads Image](/images/recommendationsprimary/p6-Basic-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6F-FA-VER-300320.PDF) |
 
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
+
+
 **Easy-to-Read Booklist**
 
 <a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>
@@ -36,20 +38,25 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 | ***New!*** AFCC 2021 | AFCC 2020 |
 | <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
 
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
+
 
 **Mother Tongue Reading Lists**
 
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
-	<div class="image-container" style="margin: auto;">
-		<a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Children's Reading Guide 2021</b><a href="/files/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div><div class="image-container" style="margin: auto;">
+	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-		<a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
+		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-		<a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>
+		<b>Past Tamil Graded Reading List</b><a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>
 	</div>
 </div>
 </div>
 
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

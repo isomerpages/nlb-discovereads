@@ -158,8 +158,8 @@ Print out and put up these eye-catching posters and entertaining activities!
 **Posters (5 mins)**
 
 | ***New!* 2021 Posters for Secondary Schools** | 
-| <a href="/images/diyresources/secondary/Secondary-Poster-21-ebooks.PDF"><img src="/images/diyresources/secondary/secposter-ebooks.png" alt="eBooks poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Literary-Genres.pdf"><img src="/images/diyresources/secondary/secposter-genres.png" alt="Know Your Book poster" style="width: 50%;"></a> |
-| <a href="/images/diyresources/secondary/Secondary-Poster-21-DDC.PDF"><img src="/images/diyresources/secondary/secposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Etiquette.pdf"><img src="/images/diyresources/secondary/secposter-etiquette.png" alt="Etiquette poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Secondary-Poster-21-ebooks.PDF"><img src="/images/diyresources/secondary/secposter-ebooks.png" alt="eBooks poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Literary-Genres.PDF"><img src="/images/diyresources/secondary/secposter-genres.png" alt="Know Your Book poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Secondary-Poster-21-DDC.PDF"><img src="/images/diyresources/secondary/secposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Etiquette.PDF"><img src="/images/diyresources/secondary/secposter-etiquette.png" alt="Etiquette poster" style="width: 50%;"></a> |
 | <a href="/images/diyresources/secondary/Secondary-Poster-21-YA-Quotes.PDF"><img src="/images/diyresources/secondary/secposter-quotes.png" alt="YA quotes poster" style="width: 50%;"></a> |
 
 

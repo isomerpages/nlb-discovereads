@@ -3,7 +3,6 @@ title: Secondary School Book Recommendations
 permalink: /book-recommendations/recommend-secondary
 collection_name: book-recommendations
 ---
-
 ## **Secondary**
 
 This page is best viewed on your desktop.
@@ -17,3 +16,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 | **Lower Secondary** | **Upper Secondary** |
 | ------------------- | ------------------- |
 | [![Lower Secondary cover](/images/recommendationssecondary/Lower-Sec-GRLs.png)](/images/recommendationssecondary/NLB-Suggested-Reads-Lower-Sec-Revised-Final-Draft_03042020.pdf) | [![Upper Secondary cover](/images/recommendationssecondary/Upper-Sec-GRLs.png)](/images/recommendationssecondary/NLB-Suggested-Reads-Upper-Sec-Revised-Final-Draft_03042020.pdf) |
+
+**Easy-to-Read Booklist**
+
+<a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>

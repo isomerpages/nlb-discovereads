@@ -46,7 +46,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Children's Reading Guide 2021</b><a href="/files/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a><br>
+			<b><i>*New!</i> Tamil Children's Reading Guide 2021</b><a href="/files/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a><br><br>
 	</div><div class="image-container" style="margin: auto;">
 	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>

@@ -53,6 +53,7 @@ This unique and timely book won’t tell you what to think—that’s up to yo
 
 This book is available on Overdrive at: [https://nlb.overdrive.com/media/4906056](https://nlb.overdrive.com/media/4906056)
 
+
 <img src="/images/diyresources/primary/whats-the-big-idea.png" alt="What's The Big Idea" style="width: 40%;">
 
 **What's the BIG Idea?**

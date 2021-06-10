@@ -56,9 +56,9 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 
 These were the top two works:
 
-| Teo Rui Cheng | Chong Yu |
+| Chong Yu | Teo Rui Cheng |
 |:---|:---:|
-|  ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png) | ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) |
+| ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) | ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png)  |
 
 **Chong Yu** won with 55% of the votes! Congratulations!
 

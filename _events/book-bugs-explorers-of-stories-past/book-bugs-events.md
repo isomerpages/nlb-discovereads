@@ -52,7 +52,13 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 |Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
 |Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
 
-**Week 1 is now over.** If you would still like to do the activity, please click (<a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>). Don't forget to vote for your favourite work! Check out the Public Libraries' Instagram Story  (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 8 June 2021 for the top two works chosen by the Navigators. 
+**Week 1 is now over.** If you would still like to do the activity, please click (<a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>).
+
+These were the top two works:
+| Teo Rui Cheng | Chong Yu|
+|  ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png) | ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) |
+
+**Chong Yu** won with 55% of the votes! Congratulations!
 
 ##### Terms and Conditions
 * Only one submission per participant per week. Submissions of both the English and Mother Tongue versions of the activity sheets are considered one submission.

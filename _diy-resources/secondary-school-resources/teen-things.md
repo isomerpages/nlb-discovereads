@@ -19,7 +19,9 @@ third_nav_title: Secondary School Resources
 <a name="id3">![D.I.Y. Blackout Poetry header](/images/diyresources/secondary/tt21-header-bp.png)</a>
 #### **D.I.Y. Blackout Poetry**
 
-Blackout poetry is a form of poetry where an author picks an existing piece of written text to repurpose into a new poem. This is done by keeping a selection of words, and blacking out the remaining words you do not want. The result gives the written text a different meaning than it had before.
+Blackout poetry is a form of poetry where an author picks an existing piece of written text to repurpose into a new poem. 
+
+This is done by keeping a selection of words, and blacking out the remaining words you do not want. The result gives the written text a different meaning than it had before.
 
 There are various ways you can craft a blackout poem, from simply using a single black marker to creating a vibrant and colourful work of art using paint.
 

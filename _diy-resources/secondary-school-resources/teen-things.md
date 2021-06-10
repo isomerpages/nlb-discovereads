@@ -7,13 +7,70 @@ third_nav_title: Secondary School Resources
 ## **Teen•Things**
 
 <img src="/images/diyresources/secondary/tt21-header.png" alt="Teen Things header" style="width: 100%;">
-<p style="text-align: center;"><i>(Updated on 4 Jun 2021)</i></p>
+<p style="text-align: center;"><i>(Updated on 11 Jun 2021)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | [![Print-and-Play Boardgames](/images/diyresources/secondary/tt21-button-boardgames.png)](#id2) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) |
+| [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | [![Print-and-Play Boardgames](/images/diyresources/secondary/tt21-button-boardgames.png)](#id2) | [![D.I.Y. Blackout Poetry](/images/diyresources/secondary/tt21-button-poetry.png)](#id3) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) |
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)](/diy-resources/secondary/teen-things-archive)
+
+
+<a name="id3">![D.I.Y. Blackout Poetry header](/images/diyresources/secondary/tt21-header-bp.png)</a>
+#### **D.I.Y. Blackout Poetry**
+
+Blackout poetry is a form of poetry where an author picks an existing piece of written text to repurpose into a new poem. 
+
+This is done by keeping a selection of words, and blacking out the remaining words you do not want. The result gives the written text a different meaning than it had before.
+
+There are various ways you can craft a blackout poem, from simply using a single black marker to creating a vibrant and colourful work of art using paint.
+
+<img src="/images/diyresources/secondary/tt-bp-materials.png" alt="Use any printed resource available, including excerpts of books, and newspaper and magazine clippings." style="width: 70%;">
+
+Check these videos out to get started!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wKpVgoGr6kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=wKpVgoGr6kE">How To Make A Newspaper Blackout Poem, Austin Kleon</a>.</sup></p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/CeFwRVpGWoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=CeFwRVpGWoc">Blackout Poetry, Art with Armstrong</a>.</sup></p>
+
+You can make blackout poems online too! Click on the image below to test out this interactive blackout poetry module via the New York Times website.
+<img src="/images/diyresources/secondary/tt-bp-interactive.png" alt="Use any printed resource available, including excerpts of books, and newspaper and magazine clippings." style="width: 80%;">
+<p style="text-align: center;"><sup>Image source: <a href="https://www.nytimes.com/interactive/2014/multimedia/blackout-poetry.html">Searching for Poetry in Prose, New York Times</a>.</sup></p>
+
+**Can’t get enough of poems? Check out these related reads for more!**
+
+<a href="https://nlb.overdrive.com/library/teens/media/4728737?cid=1013726"><img src="/images/diyresources/secondary/tt-bp-book1.jpg" alt="Turtle Under Ice cover" style="width: 30%;"></a><br>
+**Cast Away**<br>
+Author: Naomi Shihab Nye<br>
+Call No.: J 811 NYE<br>
+Publisher: Harper Collins, 2020<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/4728737?cid=1013726).
+
+With poems about food wrappers, lost mittens, plastic straws, refugee children, trashy talk, the environment, connection, community, responsibility to the planet, politics, immigration, time, junk mail, trash collectors, garbage trucks, all that we carry and all that we discard, this is a rich, engaging, moving, and sometimes humorous collection for readers ages twelve to adult.
+
+Synopsis from [Harper Collins](https://www.harpercollins.com/).
+
+
+<a href="https://nlb.overdrive.com/library/teens/media/4815595?cid=1183118"><img src="/images/diyresources/secondary/tt-bp-book2.jpg" alt="Turtle Under ice cover" style="width: 30%;"></a><br>
+**Turtle Under Ice**<br>
+Author: Juleah del Rosario<br>
+Call No.: Y DEL<br>
+Publisher: Simon Pulse, 2020<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/4815595?cid=1183118).
+
+Rowena feels like her family is a frayed string of lights that someone needs to fix with electrical tape. After her mother died a few years ago, she and her sister, Ariana, drifted into their own corners of the world, each figuring out in their own separate ways how to exist in a world in which their mother is no longer alive.
+
+But then Ariana disappears under the cover of night in the middle of a snowstorm, leaving no trace or tracks. When Row wakes up to a world of snow and her sister’s empty bedroom, she is left to piece together the mystery behind where Ariana went and why, realizing along the way that she might be part of the reason Ariana is gone.
+
+Synopsis from [Simon Pulse](http://simonandschusterpublishing.com/simonpulse/).
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 11 Jun 2021.)
+
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id2">![Print-and-Play Boardgames header](/images/diyresources/secondary/tt21-header-pnp.png)</a>

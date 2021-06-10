@@ -55,6 +55,7 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 **Week 1 is now over.** If you would still like to do the activity, please click (<a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>).
 
 These were the top two works:
+
 | Teo Rui Cheng | Chong Yu|
 |  ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png) | ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) |
 

@@ -28,15 +28,14 @@ There are various ways you can craft a blackout poem, from simply using a single
 Check these videos out to get started!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wKpVgoGr6kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p style="text-align: center;"><sup>Source: <a href=“https://www.youtube.com/watch?v=wKpVgoGr6kE”>How To Make A Newspaper Blackout Poem, Austin Kleon</a>.</sup></p>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=wKpVgoGr6kE">How To Make A Newspaper Blackout Poem, Austin Kleon</a>.</sup></p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/CeFwRVpGWoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p style="text-align: center;"><sup>Source: <a href=“https://www.youtube.com/watch?v=CeFwRVpGWoc”>Blackout Poetry, Art with Armstrong</a>.</sup></p>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=CeFwRVpGWoc">Blackout Poetry, Art with Armstrong</a>.</sup></p>
 
-You can make blackout poems online too! Test out this interactive blackout poetry module via the New York Times website.
-
-<img src="/images/diyresources/secondary/tt-bp-interactive.png" alt="Use any printed resource available, including excerpts of books, and newspaper and magazine clippings." style="width: 70%;">
-<p style="text-align: center;"><sup>Image source: <a href=“https://www.nytimes.com/interactive/2014/multimedia/blackout-poetry.html”>Searching for Poetry in Prose, New York Times</a>.</sup></p>
+You can make blackout poems online too! Click on the image below to test out this interactive blackout poetry module via the New York Times website.
+<img src="/images/diyresources/secondary/tt-bp-interactive.png" alt="Use any printed resource available, including excerpts of books, and newspaper and magazine clippings." style="width: 80%;">
+<p style="text-align: center;"><sup>Image source: <a href="https://www.nytimes.com/interactive/2014/multimedia/blackout-poetry.html">Searching for Poetry in Prose, New York Times</a>.</sup></p>
 
 **Can’t get enough of poems? Check out these related reads for more!**
 

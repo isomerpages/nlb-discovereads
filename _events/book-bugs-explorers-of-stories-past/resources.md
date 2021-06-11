@@ -248,7 +248,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 
 |Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
 |:---:| :----| :--- | :----| :--- | :----| 
-| 55 | Ayuella | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202482249" target="_blank" rel="noopener noreferrer">Island of Legends</a> | Don Bosco | Singapore: Marshall Cavendish International (Asia) Pte Ltd., 2016. | English J SING 398.2095957 BOS -[FOL] |
+| 65 | Areeda | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202482249" target="_blank" rel="noopener noreferrer">The Girl Who Wore Too Much: A Folktale from Thailand</a> | Margaret Read McDonald | Arkansas: August House Littlefolk, 1998. | English JP 398.2 MAC -[FOL] |
 | 56 | Chipper  | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200945322" target="_blank" rel="noopener noreferrer">The Unhappy Stonecutter: A Japanese Folktale</a> | Charlotte Guillain | Illinois: Heinemann Library, 2015. | English JP 398.2 GUI -[FOL] |
 | 57 | Monkey Kong | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14519655" target="_blank" rel="noopener noreferrer">The Little Monkey King's Journey</a> | Li Jian | New York: Better Link Press, 2013 | English JP 895.13 LI |
 | 58 | Ol' Sage | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200131210" target="_blank" rel="noopener noreferrer">Yu gong yi shan/愚公移山</a> | Wang Yu/王玉 | Nanchang Shi: Er shi yi shi ji chu ban she, 2013. | Chinese JP 398.2 WY -[FOL] |

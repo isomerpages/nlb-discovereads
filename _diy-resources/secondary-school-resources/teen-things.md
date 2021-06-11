@@ -39,6 +39,7 @@ You can make blackout poems online too! Click on the image below to test out thi
 <a href="https://blackoutpoetry.glitch.me/"><img src="/images/diyresources/secondary/tt-bp-blackoutinteractive.png" alt="Make blackout poetry on Blackout Poetry Maker." style="width: 90%;"></a>
 <p style="text-align: center;"><sup>Image source: <a href="https://blackoutpoetry.glitch.me/">Blackout Poetry Maker</a>.</sup></p>
 
+
 **Can’t get enough of poems? Check out these related reads for more!**
 
 <a href="https://nlb.overdrive.com/library/teens/media/4728737?cid=1013726"><img src="/images/diyresources/secondary/tt-bp-book1.jpg" alt="Turtle Under Ice cover" style="width: 30%;"></a><br>

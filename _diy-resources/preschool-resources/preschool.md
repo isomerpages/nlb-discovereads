@@ -4,7 +4,6 @@ permalink: /diy-resources/preschool/preschool-main
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-
 # **Preschool**
 
 **Explore our DIY resources to foster the love of reading and learning at home!**
@@ -66,7 +65,7 @@ Click on the icons to find out more about literacy practices that help develop e
 
 ### **Holiday Specials with Librarians!**
 
-<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool//images/diyresources/preschool/lion-crown-preview.jpg" style="width: 30%;"></a>
+<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/lion-crown-preview.jpg" style="width: 30%;"></a>
 
 <center>Make your own Lion Paper Crown!</center>
 

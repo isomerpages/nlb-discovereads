@@ -35,9 +35,10 @@ Check these videos out to get started!
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/CeFwRVpGWoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=CeFwRVpGWoc">Blackout Poetry, Art with Armstrong</a>.</sup></p>
 
-You can make blackout poems online too! Click on the image below to test out this interactive blackout poetry module via the New York Times website.
-<img src="/images/diyresources/secondary/tt-bp-interactive.png" alt="Use any printed resource available, including excerpts of books, and newspaper and magazine clippings." style="width: 80%;">
-<p style="text-align: center;"><sup>Image source: <a href="https://www.nytimes.com/interactive/2014/multimedia/blackout-poetry.html">Searching for Poetry in Prose, New York Times</a>.</sup></p>
+You can make blackout poems online too! Click on the image below to test out this interactive blackout poetry module on Blackout Poetry Maker.
+<a href="https://blackoutpoetry.glitch.me/"><img src="/images/diyresources/secondary/tt-bp-blackoutinteractive.png" alt="Make blackout poetry on Blackout Poetry Maker." style="width: 90%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://blackoutpoetry.glitch.me/">Blackout Poetry Maker</a>.</sup></p>
+
 
 **Can’t get enough of poems? Check out these related reads for more!**
 
@@ -179,7 +180,7 @@ You can also go a step further to experiment with hydroponics, like this Singapo
 
 If you’re hesitant to take care of real plants, why not try your hand at virtual farming first with this game by National Geographic:
 
-<a href="https://www.nationalgeographic.org/interactive/top-crop/"><img src="/images/diyresources/secondary/tt-uf-topcrop.png" alt="National Geographic, Top Crop" style="width: 70%;"></a>
+<a href="https://www.nationalgeographic.org/interactive/top-crop/"><img src="/images/diyresources/secondary/tt-uf-topcrop.png" alt="National Geographic, Top Crop" style="width: 90%;"></a>
 <p style="text-align: center;"><sup>Image source: <a href="https://www.nationalgeographic.org/interactive/top-crop/">Top Crop, an interactive game by National Geographic</a>.</sup></p>
 
 Of course, the best place to go for advice on farming is to those with experience themselves. Why not stop by one of Singapore’s farms with your friends and have a chat with an urban farmer or even attend a masterclass on organic farming? Head down to one of Singapore’s best farms as listed in TimeOut’s article:

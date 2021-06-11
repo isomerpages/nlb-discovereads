@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 #### 14June 2021
-[<img src="/images/events/bookbugsx/14 Jun 2021 Update.png" alt="New Land released" style="width: 100%" align="left">](/events/bookbugsx/events/)
+[<img src="/images/events/bookbugsx/14 Jun 2021 Update.png" alt="New Land released" style="width: 100%" align="left">](/events/bookbugsx/story/)
 
 #### 1 June 2021
 [<img src="/images/events/bookbugsx/1 Jun 2021 Update.png" alt="May Quiz Closed. Click for Bonanza" style="width: 100%" align="left">](/events/bookbugsx/events/)

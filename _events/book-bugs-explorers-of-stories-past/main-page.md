@@ -6,15 +6,15 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past
-[<img src="/images/events/bookbugsx/BBX June Banner.png" alt="Launch of Marvellous Homes Delayed" style="width: 100%">](/events/bookbugsx/events)
+[<img src="/images/events/bookbugsx/Bonanza Banner Main.png" alt="Join the Book Bugs Bonanza" style="width: 100%">](/events/bookbugsx/events)
 
 [<img src="/images/events/bookbugsx/button_Updates.png" alt="Updates" style="width: 25%" align="left">](/events/bookbugsx/Updates/)[<img src="/images/events/bookbugsx/button_Redeem.png" alt="How to Redeem" style="width: 25%" align="left">](/events/bookbugsx/redeem/)[<img src="/images/events/bookbugsx/button_bugathon.png" alt="Bug-a-thon" style="width: 25%" align="left">](/events/bookbugsx/bugathon/)[<img src="/images/events/bookbugsx/button_quiz.png" alt="Quizzes" style="width: 25%" align="left">](/events/bookbugsx/quiz/)[<img src="/images/events/bookbugsx/button_Story.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/story/)[<img src="/images/events/bookbugsx/button_Play.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/play/)[<img src="/images/events/bookbugsx/button_Bug List.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/buglist/)[<img src="/images/events/bookbugsx/button_Resources.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/resources/)
 
-Welcome to Book Bugs: Explorers of Stories Past! It's time to scale new heights. Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
+Welcome to Book Bugs: Explorers of Stories Past! Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
 
-In the past 4 months, you've gained wisdom from all the Bugs residing in the lush greenery of the Magical Forests and under the waves of the Mysterious Seas. Now, facing the Mystical Mountains, you'll find yourself searching for the secrets hidden amongst the peaks and valleys. 10 new Bugs to discover, go on! 
+In the past six months, you've gained wisdom from all the Bugs residing in the lush greenery of the Magical Forests, under the waves of the Mysterious Seas, and amongst the peaks and valleys of the Mystical Mountains. You're ready to settle down in the Marvellous Homes and experience some Book Bugs hospitality! 10 new Bugs to discover under these roofs, go on! 
 
-Oh, did you say you still have not encountered all 54 Magical Forests and Mysterious Seas Bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
+Oh, did you say you still have not encountered all 64 Magical Forests, Mysterious Seas and Mystical Mountains Bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
 
 Need to track your adventure? Use page 32-33 in the Bug-o-pedia to help you! You'll find in it other tips to help you in your journey.
 

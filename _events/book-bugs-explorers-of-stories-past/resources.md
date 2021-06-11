@@ -5,7 +5,6 @@ breadcrumb: Resources
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-
 Welcome to our resources page! Click on the buttons below to navigate the page.
 
 [<img src="/images/events/bookbugsx/Resources_Digital.png" alt="Digital Resources" style="width: 25%" align="left">](#digital-resources)[<img src="/images/events/bookbugsx/Resources_Printables.png" alt="Printables" style="width: 25%" align="left">](#printables)[<img src="/images/events/bookbugsx/Resources_Book Lists.png" alt="Book Lists" style="width: 25%" align="left">](#book-lists)[<img src="/images/events/bookbugsx/Resources_Links.png" alt="Useful Links" style="width: 25%" align="left">](#useful-links)
@@ -42,10 +41,25 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) |
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) | [June 2021](#jun) |
+
+<a name="jun"></a>
+**June 2021**
+
+This month, we challenge you to some Bug riddles! Some Book Bugs have decided to hide behind different doors - can you decipher the puzzles and figure out which Bug lies behind each door?
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jun 2021 Which Bug am I (Malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Tamil).png" alt="Tamil-English Worksheet"></a>|
+
+Still can't get enough of our Book Bugs activities? Remember all the different versions of Cinderella that you learnt about in this month's quiz? Have a go at looking for their names in this word search! Can you find them just like the prince found them in the stories?
+
+|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Cinderella Word Search.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Cinderella Word Search.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
 
 <a name="may"></a>
 **May 2021**
+
+*Click [here](/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze answer.pdf) for the answers to the February 2021 crossword puzzles.*
 
 This month, we have an exciting activity for you! You get to paint your very own journey. If you've done Foxy Roxy's quiz for the month, you would have learnt all about The Magic Paintbrush, the story that inspired an upcoming Book Bug (which you might have spotted in the quiz!). Now that you have read the story, you get to use the magic paintbrush on your very own journey up the Mystical Mountains!
 

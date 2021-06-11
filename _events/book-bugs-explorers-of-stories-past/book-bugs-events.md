@@ -25,9 +25,11 @@ Follow the instructions below to receive special rewards.
 
 **Step 1**: Download and print this week's activity sheet below.
 
-**7 June 2021 to 13 June 2021**
+**14 June 2021 to 20 June 2021**
 
-| <img src="/images/events/bookbugsx/Where did the Book Bug go.png" alt="Where did the Book Bug go"> | <a href="/images/events/bookbugsx/files/March Pop-up Create Your Own Bug.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Create Your Own Bug Thumbnail.png" alt="Create your own bug PDF"></a> |
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Tamil.png" alt="Tamil-English Worksheet"></a>|
 
 **Step 2**: Harness your creativity and complete the activity sheet! If you need help, ask your parents and make it a fun family activity!
 
@@ -52,7 +54,7 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 |Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
 |Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
 
-**Week 1 and 2 are now over.** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 15 June 2021 to vote for your favourite Week 2 submission!
+**Week 1 and 2 are now over.** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 15 June 2021 to **vote for your favourite Week 2 submission!**
 
 **Week 1**
 

@@ -34,7 +34,7 @@ A little girl finds the end of a pencil line and her adventure begins . . .
 
 <img src="/images/diyresources/preschool/follow%20that%20unicorn.jpg" alt="follow the unicorn" style="width:40%">
 
-**Title:** [Follow that Unicorn!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205257161)<br>
+**Title:** [Follow That Unicorn!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205257161)<br>
 **Author:** Georgie Taylor<br>
 **Publisher:** Woodbridge: Imagine That, [2020]<br>
 **Location:** Early Literacy Sense & Sensations <br>
@@ -53,7 +53,7 @@ What's on the other side of the door? There's only one way to find out: You'll h
 
 <img src="/images/diyresources/preschool/i-walk-with-vanessa.jpg" alt="walk with vanessa" style="width:40%">
 
-**Title:** [I Walk with Vanessa](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=203121437) <br>
+**Title:** [I Walk With Vanessa](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=203121437) <br>
 **Author:** Kerascoët <br>
 **Publisher:** New York : Schwartz & Wade Books, [2018]<br>
 **Location:** Early Literacy Picture Books <br>

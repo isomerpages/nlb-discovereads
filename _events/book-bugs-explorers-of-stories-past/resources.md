@@ -59,7 +59,7 @@ Still can't get enough of our Book Bugs activities? Remember all the different v
 <a name="may"></a>
 **May 2021**
 
-*Click [here](/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze answer.pdf) for the answers to the February 2021 crossword puzzles.*
+*Click <a href="/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to Chipper's Maze.*
 
 This month, we have an exciting activity for you! You get to paint your very own journey. If you've done Foxy Roxy's quiz for the month, you would have learnt all about The Magic Paintbrush, the story that inspired an upcoming Book Bug (which you might have spotted in the quiz!). Now that you have read the story, you get to use the magic paintbrush on your very own journey up the Mystical Mountains!
 
@@ -114,7 +114,7 @@ Still can't get enough of our Book Bugs activities? Why not try a simple craft a
 <a name="feb"></a>
 **February 2021**
 
-*Click [here](/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Answer Key.pdf) for the answers to the February 2021 crossword puzzles.*
+*Click <a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Answer Key.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the February 2021 crossword puzzles.*
 
 This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? Don't forget, if you're ever stuck, you can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
 

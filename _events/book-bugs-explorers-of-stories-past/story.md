@@ -34,3 +34,5 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ![Book Bugs: Explorers of Stories Past Comic 4 page 1](/images/events/bookbugsx/Comic 4_1.png/)
 ![Book Bugs: Explorers of Stories Past Comic 4 page 2](/images/events/bookbugsx/Comic 4_2.png/)
+
+Skorpius' journey in Book Bugs: Explorers of Stories Past ends here for now. But why don't you check out the stories behind the other Book Bugs? Our handy [book list](/events/bookbugsx/resources#book-lists) should help you find these stories.

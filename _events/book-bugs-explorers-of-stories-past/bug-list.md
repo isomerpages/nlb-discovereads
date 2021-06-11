@@ -5,7 +5,6 @@ breadcrumb: Bug List
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-
 Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired by local and regional folktale and trivia? Scroll down to find out what served as the inspiration for each Bug! If you want to read the stories that inspired our Bugs, refer to the book list on our [Resources page](/events/bookbugsx/resources). You will find that some popular folktales and fairy tales, such as Cinderella and Little Red Riding Hood, actually have their Asian equivalents too!
 
 P.S. Cards from all Lands will be available for redemption from their release date till 30 September 2021. Don't worry if you haven't collected all the cards from each Land before the launch of the next Land - you'll have plenty of time to collect all the cards! To find out how to redeem, click [here](/events/bookbugsx/redeem).
@@ -62,7 +61,7 @@ P.S. Cards from all Lands will be available for redemption from their release da
 | 41 | Atlanta | Atlas Moth |
 | 42 | Unidragan | Qi Lin (Chinese mythological creature) |
 | 43 | Toothy | Buaya (Crocodile) from Sang Kancil stories |
-| 44 | Many-eyes | Eecha Poocha (Malayalam Folktale) |
+| 44 | Many-eyes | Poocha the fly from Eecha Poocha (Malayalam Folktale) |
 
 #### Mysterious Seas
 
@@ -100,4 +99,17 @@ P.S. Cards from all Lands will be available for redemption from their release da
 
 #### Marvellous Homes
 
-<img src="/images/events/bookbugsx/hatching soon_Homes.png" alt="Marvellous Homes Hatching Soon in June 2021" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/Bug List Homes.png" alt="List of Marvellous Homes Bugs" style="width: 100%" align="centre">
+
+|Bug number|Bug Name|Inspired by|
+|:---:| :----| :--- |
+| 65 | Areeda | Aree from The Girl Who Wore Too Much |
+| 66 | Shadow | Wayang Kulit (Indonesian puppet-shadow play) |
+| 67 | Tameria | Tam from Tam and Cam (Vietnamese Cinderella folktale) |
+| 68 | Mu-Lice | Mulan |
+| 69 | Nojum | Nujum Pak Belalang |
+| 70 | Ginger | Poocha the cat from Eecha Poocha (Malayalam Folktale) |
+| 71 | Neeann | Nian monster (Chinese New Year legend) |
+| 72 | Brushy | Ma Liang and the Magic Paintbrush |
+| 73 | Lucky | Hang Tuah (legendary warrior of Melaka) |
+| 74 | Charmer | Tenali Raman |

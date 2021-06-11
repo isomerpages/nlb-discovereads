@@ -52,7 +52,11 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 |Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
 |Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
 
-**Week 1 is now over.** If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>.
+**Week 1 and 2 are now over.** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 15 June 2021 to vote for your favourite Week 2 submission!
+
+**Week 1**
+
+If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>.
 
 These were the top two works:
 
@@ -61,6 +65,10 @@ These were the top two works:
 | ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) | ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png)  |
 
 **Chong Yu** won with 55% of the votes! Congratulations!
+
+**Week 2**
+
+If you would still like to do the activity, please click [here](#w2).
 
 ##### Terms and Conditions
 * Only one submission per participant per week. Submissions of both the English and Mother Tongue versions of the activity sheets are considered one submission.
@@ -80,6 +88,7 @@ These were the top two works:
 
 <img src="/images/events/bookbugsx/BBX Mar Pop-up Collage.png" alt="Book Bugs Pop-up Event Collage" style="width: 100%">
 
+<a name="w2"></a>
 Feel free to still download our Create Your Own Book Bug and Book Review templates below.
 
 | <img src="/images/events/bookbugsx/Where did the Book Bug go.png" alt="Where did the Book Bug go"> | <a href="/images/events/bookbugsx/files/March Pop-up Create Your Own Bug.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Create Your Own Bug Thumbnail.png" alt="Create your own bug PDF"></a> |

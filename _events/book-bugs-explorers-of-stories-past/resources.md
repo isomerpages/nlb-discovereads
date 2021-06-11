@@ -257,7 +257,7 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 71 | Neeann | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202706165" target="_blank" rel="noopener noreferrer">The Nian Monster</a> | Andrea Wang | Illinois: Albert Whitman & Company, 2016. | English JP WAN |
 | 72 | Brushy | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14571449" target="_blank" rel="noopener noreferrer">The Magic Paintbrush: A Chinese Folktale</a> | M.J. York | Minnesota: The Child's World Inc., 2013. | English JP 398.2 YOR -[FOL] |
 | 73 | Lucky | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201056690" target="_blank" rel="noopener noreferrer">Hang Tuah Pahlawan Handal</a> | Nir Shahmer | Selangor: Kiddibird, 2012. | Malay JP 398.2 NIR -[FOL] |
-| 74 | Charmer | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200144160" target="_blank" rel="noopener noreferrer">தெனாலி ராமனும் ஏமாந்த திருடர்களும்/Tenali raman outwits the thieves</a> |	Sheila Gandhi |	Chennai: Karadi Tales Company Pvt. Ltd., 2010. | English JP 398.240954 GAN -[FOL] |
+| 74 | Charmer | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13071336" target="_blank" rel="noopener noreferrer">தெனாலி ராமனும் ஏமாந்த திருடர்களும்/Tenali raman outwits the thieves</a> |	Sheila S. Jayaramannai: Karadi Tales Company Pvt. Ltd., 2010. | English JP 398.240954 GAN -[FOL] |
 
 ### Useful Links
 

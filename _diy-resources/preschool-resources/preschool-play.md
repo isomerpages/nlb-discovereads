@@ -27,7 +27,7 @@ Free play or unstructured play helps exercise your child’s creativity and prob
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Pet this book.JPG" alt="Pet" style="width:40%">
+<img src="/images/diyresources/preschool/MrsPeanucklesFruitAlphabet.jpg" alt="fruit alphabet" style="width:40%">
 
 **Title:** Mrs Peanuckle’s Fruit Alphabet <br>
 **Author:** Mrs Peanuckle <br>
@@ -37,7 +37,7 @@ Free play or unstructured play helps exercise your child’s creativity and prob
 
 Mrs. Peanuckle's Fruit Alphabet introduces babies and toddlers to the colorful foods that will help them grow up to be healthy and strong. Children and parents alike will want to devour the fun facts and charming illustrations of fruits from the familiar banana to the not as familiar yumberry. Mrs. Peanuckle's Fruit Alphabet is the second in a series of board books celebrating the joy nature brings to young children at home and in the backyard, from fresh fruits and vegetables to birds, bugs, flowers, and trees.
 
-<img src="/images/diyresources/preschool/Imagination vacation.jpg" alt="Imagination Vacation" style="width:40%">
+<img src="/images/diyresources/preschool/Thebodybook.jpg" alt="the body book" style="width:40%">
 
 **Title:** [The Body Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205393230)<br>
 **Author:** Alice Hannah<br>
@@ -49,20 +49,20 @@ What’s going on inside the human body? How do we move, eat, think, sleep and b
 
 From pumping blood to breathing air, The Body Book is an exciting way to explore all the amazing things our body can do.
 
-<img src="/images/diyresources/preschool/The runaway shirt.jpg" alt="Runaway shirt" style="width:40%">
+<img src="/images/diyresources/preschool/birthdayonmars.jpg" alt="Runaway shirt" style="width:40%">
 
 **Title:** [Birthday On Mars!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203892467) <br>
 **Author:** Sara Schonfeld<br>
 **Illustrator:** Andrew J. Ross <br>
 **Publisher:** New York : Penguin Workshop, 2019.<br>
 **Location:** Early Literacy Picture Books <br>
-**Call Number:** English SCH
+**Call Number:** English SCH <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/4373086](https://nlb.overdrive.com/media/4373086) <br>
 
 Mars is our closest neighbor, and a little robot named Curiosity is investigating the planet for us. Join for a tour of the place this rover calls home. Get to know Mars through eye-catching illustrations of an alien landscape and the adorable robot in charge of exploring it all. And this rover's birthday is a perfect time to celebrate curiosity. For nerdy parents, fans of space, or those who are just curious, relive the moment when the Curiosity rover sang itself happy birthday in 2013 after one year on Mars.
 
-<img src="/images/diyresources/preschool/100 things to recycle and make.jpg" alt="100 things" style="width:40%">
-
+<img src="/images/diyresources/preschool/youchooseinspace.jpg" alt="100 things" style="width:40%">
+	
 **Title:** [You Choose In Space ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203018534)<br>
 **Author:** Pippa Goodheart<br>
 **Illustrator:** Nick Sharatt<br>

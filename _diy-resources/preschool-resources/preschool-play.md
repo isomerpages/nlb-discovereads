@@ -4,7 +4,6 @@ permalink: /diy-resources/preschool/preschool-play
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-
 ## **Play**
 
 ### **Introduction**
@@ -13,75 +12,69 @@ Play enables children to develop their language, social-emotional and cognitive 
 
 ### **Recommended Activities**
 
-**Mystery Bag** <br>
-Place a few small items into a bag. You can use items that your child is familiar with such as toys, pieces of clothing and stationery. Get your child to place their hands into the bag and identify the object just by using their sense of touch. For a variety of textures, you can also use items from nature such as leaves, grass, sticks and pebbles. 
+**The Human Body** <br>
+This simple activity helps your child learn about body parts through play. Prepare pictures of various body parts. Randomly show a picture of a body part and get your child to point to the same part on their body. You can make the activity challenging by getting your child to name or spell the body part. 
 
-To make this activity more challenging for older children, use items which have one thing in common or those that fall under the same category. For instance, you can place a few items which begin with the same letter. Get your child to name the objects and guess what they have in common.
+During this activity, you could share one or two facts about the body part.
 
-**Lacing Cards** <br>
-This simple activity helps develop fine motor skills. You will need some foam sheets or cardboard, a paper puncher and colourful shoelaces. Cut out simple shapes such as a circle, square or star from the foam sheets. Punch holes along the edges of the shapes and get et your child to string the shoelaces through the holes of each shape.
+**Colourful Fruits and Vegetables** <br>
+A trip to the supermarket can be a fun family activity. Prepare a set of missions for your child to identify different fruits and vegetables by colours. For example, “Find and name three green fruits”. 
 
-Make this activity more challenging by cutting the outlines of objects or animals. The completed lacing cards are also great for decorating your child’s room.
+Make this activity more challenging by mixing up colours and produce. For example, “Find and name one purple vegetable and one red fruit.” 
 
-**The Magic Box** <br>
-Free play or unstructured play helps exercise your child’s creativity and problem-solving skills. A simple way to encourage free play at home is to create a magic box. 
-
-Fill a box with materials that can be used in different ways for free play such as balls, scarves, small plushies and wooden blocks. You may include modelling clay, sheets of recycled paper and other safe craft materials for older children so that they can make their own props.
+**Let’s Travel to Space!** <br>
+Free play or unstructured play helps exercise your child’s creativity and problem-solving skills. Create a spaceship with an old cardboard box or any box that your child can sit in. Get your child to talk to you about what they will need while travelling in space for a week. For any items that cannot be found at home, draw or make them from recyclable materials with your child. 
 
 ### **Recommended Books**
 
 <img src="/images/diyresources/preschool/Pet this book.JPG" alt="Pet" style="width:40%">
 
-**Title:** [Pet This Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203140572) <br>
-**Author:** Jessica Young <br>
-**Illustrator:** Daniel Wiseman <br>
-**Publisher:** New York : Bloomsbury Children's Books, 2018. <br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English 636.88 YOU <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/4010289](https://nlb.overdrive.com/media/4010289) <br>
+**Title:** Mrs Peanuckle’s Fruit Alphabet <br>
+**Author:** Mrs Peanuckle <br>
+**Illustratir:** Jessie Ford <br>
+**Publisher:** Random House Children's Books, 2020.<br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3387140](https://nlb.overdrive.com/media/3387140) <br>
 
-_Hello, friend! It's time to play! We're taking care of pets today._
-
-There are lots of ways little hands can care for animals. Each page of this book invites readers to pet the cat, wash the puppy, brush the horse's mane, and more--no animals required! With a delightful rhyming text and engaging illustrations, this book is full of pets who can't wait to play. The only thing they need is YOU! Just use your imagination, turn the pages, and _Pet This Book_!
-
-Pair with _Play This Book_, another title by author Jessica Young and illustrator Daniel Wiseman that comes printed on heavy-duty card stock pages to stand up to all kinds of play!
+Mrs. Peanuckle's Fruit Alphabet introduces babies and toddlers to the colorful foods that will help them grow up to be healthy and strong. Children and parents alike will want to devour the fun facts and charming illustrations of fruits from the familiar banana to the not as familiar yumberry. Mrs. Peanuckle's Fruit Alphabet is the second in a series of board books celebrating the joy nature brings to young children at home and in the backyard, from fresh fruits and vegetables to birds, bugs, flowers, and trees.
 
 <img src="/images/diyresources/preschool/Imagination vacation.jpg" alt="Imagination Vacation" style="width:40%">
 
-**Title:** Imagination Vacation <br>
-**Author:** Jami Gigot <br>
-**Publisher:** Albert Whitman & Company, 2019. <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/4888276](https://nlb.overdrive.com/media/4888276) <br>
+**Title:** [The Body Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205393230)<br>
+**Author:** Alice Hannah<br>
+**Publisher:** London : Nosy Crow, 2020.<br>
+**Location:** Early Literacy Picture Books<br>
+**Call Number:** English 612 ALI<br>
 
-Sam has a very busy family. Mom works late, Dad’s projects pile up. Even Sam’s younger sister Marla is always doing something. Everyone in Sam’s family has their own idea of what the perfect vacation would look like. But there’s one thing they all agree on: they just can’t get away right now. So Sam comes up with a different kind of getaway. With a little planning, a few supplies, and a touch of creativity, she finds that her family’s dream vacation wasn’t so far away after all.
+What’s going on inside the human body? How do we move, eat, think, sleep and breathe? Children will love looking inside to discover the answers with amazing see-through pages and clear, friendly text. With labelled acetate diagrams of the muscular, skeletal, respiratory, circulatory, digestive, excretory and nervous systems, this is a fantastic first look at human anatomy for curious children everywhere.
+
+From pumping blood to breathing air, The Body Book is an exciting way to explore all the amazing things our body can do.
 
 <img src="/images/diyresources/preschool/The runaway shirt.jpg" alt="Runaway shirt" style="width:40%">
 
-**Title:** [The Runaway Shirt](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205261685) <br>
-**Author:** Kathy MacMillan <br>
-**Illustrator:** Julia Castaño <br>
-**Publisher:** CSanger, CA : Familius LLC, 2020. <br>
+**Title:** [Birthday On Mars!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203892467) <br>
+**Author:** Sara Schonfeld<br>
+**Illustrator:** Andrew J. Ross <br>
+**Publisher:** New York : Penguin Workshop, 2019.<br>
 **Location:** Early Literacy Picture Books <br>
-**Call Number:** English MAC
-**OverDrive Link:** [https://nlb.overdrive.com/media/5303144](https://nlb.overdrive.com/media/5303144) <br>
+**Call Number:** English SCH
+**OverDrive Link:** [https://nlb.overdrive.com/media/4373086](https://nlb.overdrive.com/media/4373086) <br>
 
-Laundry is a chore, but when a child climbs in the basket, everything becomes a game. Follow along as this mother takes a break from folding clothes to join her child in the delightful laughter of imagination. In The Runaway Shirt, housework and pretend play come together to transport readers to a kid’s world of wonder and excitement. Each page of charming illustration is a work in joy and mirth. Who knew folding laundry could be so fun
+Mars is our closest neighbor, and a little robot named Curiosity is investigating the planet for us. Join for a tour of the place this rover calls home. Get to know Mars through eye-catching illustrations of an alien landscape and the adorable robot in charge of exploring it all. And this rover's birthday is a perfect time to celebrate curiosity. For nerdy parents, fans of space, or those who are just curious, relive the moment when the Curiosity rover sang itself happy birthday in 2013 after one year on Mars.
 
 <img src="/images/diyresources/preschool/100 things to recycle and make.jpg" alt="100 things" style="width:40%">
 
-**Title:** 100 Things to Recycle and Make <br>
-**Author:** Fiona Hayes <br>
-**Publisher:** QEB Publishing, 2019. <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/4811739](https://nlb.overdrive.com/media/4811739) <br>
+**Title:** [You Choose In Space ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203018534)<br>
+**Author:** Pippa Goodheart<br>
+**Illustrator:** Nick Sharatt<br>
+**Publisher:** London : Puffin, 2017.<br>
+**Location:** Early Literacy Picture Books<br>
+**Call Number:** English GOO<br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3562760](https://nlb.overdrive.com/media/3562760) <br>
 
-Everyday materials are transformed into all kinds of stunning and practical projects, from toy animals and vehicles to dressing-up props, decorations, games, and even fun storage solutions. Bringing together the best projects from the popular Crafty Makes series, each section is dedicated to a different base object: cardboard boxes; paper plates; cardboard tubes; materials from nature; and egg cartons. With twenty projects per section to choose from, and 100 projects overall, this book will appeal to a wide range of ages and interests. 
+Zoom off into space for an adventure where YOU CHOOSE what happens next. Which alien would you most like to be friends with? And what fantastically freaky food will you decide to much for lunch?
 
-Simple cardboard tubes become a set of pirate skittles, a friendly octopus, and an entire castle. Plain cardboard boxes are turned into a pirate ship, a money box, and a robot; twigs, leaves and other outdoors materials become picture frames, masks, and a dinosaur. Paper plates make a great bug or flower hat, a dotty frog, and a cute panda, while egg cartons are turned into a fire engine, a pencil holder, and a Christmas tree. 
+The possibilities are infinite in this mesmerising creative toolkit which will inspire children from 3 up to make their own stories time and again - a spectacular sequel to the bestselling You Choose - it's out of this world!
 
-Children will be entertained for hours with this invaluable collection of crafty makes, and even the whole family can be involved in recycling everyday objects and turning them into exciting projects. Create entire animal kingdoms and alien worlds, or simply a new favourite toy or mascot. 
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-With such a huge range of exciting projects to make from the simplest of objects, 100 Things to Recycle and Make is the ultimate craft inspiration for creative children.
-
-_All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
-
-### **For more activities and book recommendations, click [here](/images/diyresources/preschool/ELPractices_Compiled01.pdf).**
+### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

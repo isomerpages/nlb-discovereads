@@ -159,7 +159,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 ### Book Lists
 Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug! Click on the title of each book to find out where you can borrow a copy.
 
-|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) | [Mystical Mountains](#MMbooks) | Marvellous Homes (Coming soon!) |
+|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) | [Mystical Mountains](#MMbooks) | [Marvellous Homes](#MHbooks) |
 
 <a name="MFbooks"></a>
 **Magical Forests**
@@ -229,6 +229,22 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 
 <a name="MMbooks"></a>
 **Mystical Mountains**
+
+|Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
+|:---:| :----| :--- | :----| :--- | :----| 
+| 55 | Ayuella | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202482249" target="_blank" rel="noopener noreferrer">Island of Legends</a> | Don Bosco | Singapore: Marshall Cavendish International (Asia) Pte Ltd., 2016. | English J SING 398.2095957 BOS -[FOL] |
+| 56 | Chipper  | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200945322" target="_blank" rel="noopener noreferrer">The Unhappy Stonecutter: A Japanese Folktale</a> | Charlotte Guillain | Illinois: Heinemann Library, 2015. | English JP 398.2 GUI -[FOL] |
+| 57 | Monkey Kong | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14519655" target="_blank" rel="noopener noreferrer">The Little Monkey King's Journey</a> | Li Jian | New York: Better Link Press, 2013 | English JP 895.13 LI |
+| 58 | Ol' Sage | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200131210" target="_blank" rel="noopener noreferrer">Yu gong yi shan/愚公移山</a> | Wang Yu/王玉 | Nanchang Shi: Er shi yi shi ji chu ban she, 2013. | Chinese JP 398.2 WY -[FOL] |
+| 59 | Midan | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12543303" target="_blank" rel="noopener noreferrer">Attack of the Swordfish and Other Singapore Tales</a> | Charlotte Lim | Singapore: National Heritage Board, 2005. | English J SING 398.2 LIM -[FOL] |
+| 60 | Digex | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203011408" target="_blank" rel="noopener noreferrer">Manjhi Moves a Mountain</a> | Nancy Churnin | California: Creston Books, 2017 | English JP 625.7 CHU |
+| 61 | Spikey | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12543303" target="_blank" rel="noopener noreferrer">Attack of the Swordfish and Other Singapore Tales</a> | Charlotte Lim | Singapore: National Heritage Board, 2005. | English J SING 398.2 LIM -[FOL] |
+| 62 | Queen Fenix | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200165351" target="_blank" rel="noopener noreferrer">All Birds Paying Homage to the Phoenix/百鸟朝凤</a> | Duan Lixin/段立欣 |	 Beijing: Xue xi chu ban she, 2012. | Chinese J DLX |
+| 63 | Tiara | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203088399" target="_blank" rel="noopener noreferrer">Puteri Gunung Ledang</a> | Emila Yusof | Kuala Lumpur: Oyez!Books, 2017 | Malay JP 398.2 EMI -[FOL] |
+| 64 | Kawkaw | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200144160" target="_blank" rel="noopener noreferrer">The Foolish Crow and the Talking Cave</a> |	Sheila Gandhi |	Chennai: Karadi Tales Company Pvt. Ltd., 2010. | English JP 398.240954 GAN -[FOL] |
+
+<a name="MHbooks"></a>
+**Marvellous Homes**
 
 |Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
 |:---:| :----| :--- | :----| :--- | :----| 

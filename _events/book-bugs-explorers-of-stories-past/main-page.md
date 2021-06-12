@@ -16,7 +16,7 @@ In the past six months, you've gained wisdom from all the Bugs residing in the l
 
 Did you say you still have not encountered all 64 Magical Forests, Mysterious Seas and Mystical Mountains Bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
 
-Need to track your adventure? Use page 32-33 in the Bug-o-pedia to help you! You'll find in it other tips to help you wit your journey.
+Need to track your adventure? Use page 32-33 in the Bug-o-pedia to help you! You'll find in it other tips to help you with your journey.
 
 P.S. Want the latest Bug news? Go to Tattler's Updates page using the button above or the navigation bar!
 

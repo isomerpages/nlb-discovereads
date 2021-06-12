@@ -1,8 +1,9 @@
 ---
 title: Preschool Write
-permalink: /diy-resources/preschool-resources/permalink
+permalink: /diy-resources/preschool-resources/preschool-write
 third_nav_title: Preschool Resources
 ---
+
 ## **Write**
 
 ### **Introduction**

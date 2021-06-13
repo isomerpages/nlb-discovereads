@@ -4,7 +4,6 @@ permalink: /diy-resources/preschool/preschool-read
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-
 ## **Read**
 
 ### **Introduction**
@@ -15,81 +14,69 @@ Reading books to children teaches them how to handle books as well as how text f
  
 ### **Recommended Activities**
 
-**Label Away!** <br>
-Label everything around your house that your child may use. This can include boxes, chairs, boxes and even toys. Each time you mention the item or when your child uses it, point to the label and say the word clearly. Over time, you child will learn to read the labels and learn the names of these items. This activity is suitable for toddlers aged 0-2 years old.
+**Alphabet Scrapbook** <br>
+An alphabet scrapbook is a simple way to make reading and learning fun for your child. While it may be convenient to buy a book directly from a store, your child will better appreciate an alphabet scrapbook that the two of you have created together. Make a simple booklet from colourful pieces of paper stapled together. Label each page with an alphabet or draw the outline of each letter and ask your child to colour it. Then ask them to fill each page with pictures cut from old magazines, newspapers, photos or drawings of things starting with that letter. Spend some quality bonding time reading through the pages of the alphabet scrapbook that you and your child have created together!
 
-**Read A Book A Day** <br>
-There’s no better way to learn reading than by reading! Read a book with your child today. Ensure that they can see the words and illustrations as you are reading the book together. You can even get them to read some of the words or a repeated phrase from the story. Talk about the story (What did you like about it? What would you do if it happened to you?). The reading can begin even when you are choosing books from the library to read together. Browse different books and read the front and back covers with them to see which they would like to borrow. Go through some of the pages, if it helps to make the choosing easier! This activity is great for young children of all ages.
+Adapted from [*Early Literacy Activities for Learning Letters. Helping Your Child Become a Successful Reader!*](http://www.childrens-books-and-reading.com/early-literacy-activities.html)
+
+**Cookbooking** <br>
+Cooking is always a delightful activity for children, especially when they are given a free pass to make a small mess and of course, when they can eat the results!
+
+Get easy-to-read recipes available from the internet or from cookbooks. Select a recipe that is easy to follow and does not require too many ingredients or complicated steps. Show your child the recipe and go over it together. Ask your child to read the recipe to you as you work. Explain that each step must be done in the stated order. For younger children who are not able to read independently, you can read the recipe for them instead. Engage your child in the preparation by letting them do the simple steps such as help mixing the ingredients, using the cookie cutter or adding sprinkles.
+
+For older children, allow your child to write down other recipes from the cookbook that they would like to make together.
+
+Adapted from [*25 Activities for Reading and Writing Fun. Launching Young Readers*](https://www.readingrockets.org/article/25-activities-reading-and-writing-fun).
 
 **Let's Go Shopping!** <br>
-Bring your child to the supermarket with you! Have them gather the items you need to buy and take the opportunity to point out the product labels and aisle signs. You can also play fun activities such as only buying snacks they can spell or read. For example, crackers or  mint chocolate chip ice-cream. You can also create more reading opportunities by writing a shopping list in advance and have them check items off the list for you. Suitable for all young children.
+This is the easiest literacy activity ever! Write out the alphabet on a piece of paper. Sit down with a familiar book. Instead of reading the book, you will just be using it to find letters. Look for each letter and turn the page from time to time for a new search area. You can adjust the difficulty level for this activity by looking only for 5-10 letters instead of the whole alphabet. For older children, look for sight words instead of letters.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Do Not Bring Your Dragon To The Library.jpg" style="width:40%">
+<img src="/images/diyresources/preschool/mommy.PNG" style="width:40%">
 
-**Title:** [Do Not Bring Your Dragon To The Library](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=202678037) <br>
-**Author:** Julie Gassman <br>
-**Illustrator:** Andy Elkerton <br>
-**Publisher:** North Mankato: Picture Window Books, 2020. <br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English GAS <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/5404898](https://nlb.overdrive.com/media/5404898)
+**Title:** [Can You See My Mommy?	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205397487)<br>
+**Author:** Becky Davies <br>
+**Illustrator:** Mel Armstrong <br>
+**Publisher:** New York, New York : Random House, 2021.<br>
+**Location:** Early Literacy Sense & Sensations  <br>
+**Call Number:** English DAV <br>
 
-Have you ever thought about bringing your dragon to the library? Don't do it! You might have the best intentions, but that dragon will cause nothing but trouble. Using rhyming text and a diverse cast of characters, this charming picture book will provide some important—and some not so important—library etiquette in a very entertaining way.
+Peek through the pages to help each baby critter find their mommy! Little critters such as a butterfly, snail, and ladybug tell readers what they love about their mommies. Filled with gorgeous artwork that camouflages the moms, the pages are die-cut so that the found mom is a raised piece that kids can touch. With sweet, rhyming text that details what the babies love about their mommies, this is an ideal read-aloud for parents and children to share!
 
-<img src="/images/diyresources/preschool/Heroes Wear Masks.jpg" style=width:40%">
+<img src="/images/diyresources/preschool/bedtime%20rhymes.png" style="width:40%">
+																																								
+**Title:** [Bedtime Rhymes	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402447) <br>
+**Author:** Joel Selby<br>
+**Illustrator:** Ashley Selby <br>
+**Publisher:** London: Campbell Books, 2021.<br>
+**Location:** Early Literacy Sense & Sensations <br>
+**Call Number:** English 398.8 SEL<br>
 
-**Title:** [Heroes Wear Masks: Elmo's Super Adventure](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205222395) <br>
-**Author:** Lillian Jane <br>
-**Illustrator:** Ernie Kwiat <br>
-**Publisher:** Naperville, Illinois: Sourcebooks Wonderland, 2020. <br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English JAN <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/5660987](https://nlb.overdrive.com/media/5660987) <br>
+Read about how the cow jump over the moon, rock the baby's cradle and gaze at all the twinkly stars in the night sky before bed in Bedtime Rhymes. Toddlers will love using the chunky push, pull and slide mechanisms to bring these classic playtime rhymes to life. Scan the QR code to sing along together too! With bright, bold illustrations from Joel and Ashley Selby, this is the perfect bedtime read for little ones.
 
-Superheroes wear masks! Come along in this Elmo book as he gets ready to go off to school and be a mask hero!
+<img src="/images/diyresources/preschool/doctorsaurus.PNG" style="width:40%">
 
-Today is going to be a SUPER day! Elmo is heading to school, and he wants to be a school superhero! Young children will join Elmo as he gets ready like a hero and learns about wearing masks and washing hands. With the help of Elmo and his mommy, this all new story from world-renowned education brand Sesame Workshop will help children calm school anxiety and understand new and different routines they may experience, such as
+**Title:** [Doctorsaurus!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205400745) <br>
+**Author:** Emi-Lou May<br>
+**Illustrator:** Leire Martin<br>
+**Publisher:** London: Little Tiger Press, 2021.<br>
+**Location:** Early Literacy Picture Books  <br>
+**Call Number:** English MAY <br>
 
- •Wearing a kids face mask <br>
- •Anxiety about leaving home <br>
- •Washing hands frequently <br>
- •Social distancing <br>
- •Not being able to give hugs or high-fives to friends <br>
- •Staggered schedules <br>
- •Why some friends may not be at school <br>
- •Temperature checks <br>
- •New classroom seating arrangements <br>
+Thumping head? Tummy ache? Nose all sore and sniffy? Then call for Doctorsaurus and she’ll fix you in a jiffy! A rhyming prehistoric romp – just the tonic for poorly toddlers!
 
-Heroes Wear Masks is a sweet and educational mask book for kids that reminds readers it's super to help everyone stay healthy and safe! It's the perfect pandemic book with tools to discuss important topics as kids go back to school, preschool, daycare, or out in any public setting where they'd need a face mask.
+<img src="/images/diyresources/preschool/meet%20the%20oceans.png" style="width:40%">
 
-Plus, this Sesame Street book includes bonus tips for grown-ups in the back with language parents, caregivers, and educators can use with young children to talk about staying healthy!
+**Title:** [Meet The Oceans](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205400845) <br>
+**Author:** Caryl Hart  <br>
+**Illustrator:** Bethany Woollvin<br>
+**Publisher:** London : Bloomsbury Children's Books, \[2021\] ©2021. <br>
+**Location:** Early Literacy Picture Books  <br>
+**Call Number:** English HAR
 
-<img src="/images/diyresources/preschool/Dogs Say Bau.jpg" style=width:40%">
+Let's dive through a world full of mystery and go visit the oceans and seas on a submarine epic adventure... All aboard -- take your seats if you please! Join in with the fun rhymes as we go on an underwater expedition to say hello to the oceans and seas of our world. The ocean is a vast treasure-house, threatened by plastic waste and pollution, and this picture book is the ideal introduction to the importance of caring for it. It's perfect for all would-be explorers!
 
-**Title:** [Dogs Say Bau](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205222821) <br>
-**Author:** Philip Bunting <br>
-**Publisher:** London : Red Shed, 2020. <br>
-**Location:** Early Literacy Emergent Readers <br>
-**Call Number:** English 591.59 BUN <br>
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-An onomatopoeic adventure around the world of familiar (and not so familiar) animal sounds.
-When an animal makes its call, we all hear exactly the same noise. But depending on the language you speak, the way you translate that noise can be very different!
-
-Where in the world do dogs say 'bau'? Or pigs say 'boo boo'? Or sheep say 'meh'? Take a hilarious trip around the world to find out how we translate animal noises in different languages.
-
-<img src="/images/diyresources/preschool/Yoga Bunny.jpg" style="width:40%">
-
-**Title:** [Yoga Bunny: Simple Poses For Little Ones](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205244411) <br>
-**Author:** Sarah Jane Hinder <br>
-**Publisher:** Boulder, CO: Sounds True, Inc., 2020. <br>
-**Location:** Early Literacy Emergent Readers <br>
-**Call Number:** English HIN
-
-A delightful new board book teaches babies and toddlers 10 yoga poses inspired by woodland creatures
-Yoga Bunny invites you and your little one on a woodland yoga adventure with 10 adorable forest critters. Bunny, raccoon, owl, and deer―the gang’s all here! From Hero and Half Lotus to Cat and Cow, Yoga Bunny leads babies and toddlers through these authentic poses and more, with guidance from some of their favorite animal friends.
-
-_All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
-
-### **For more activities and book recommendations, click [here](/images/diyresources/preschool/ELPractices_Compiled01.pdf).**
+### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

@@ -25,18 +25,20 @@ Follow the instructions below to receive special rewards.
 
 **Step 1**: Download and print this week's activity sheet below.
 
-**7 June 2021 to 13 June 2021**
+**14 June 2021 to 20 June 2021**
 
-| <img src="/images/events/bookbugsx/Where did the Book Bug go.png" alt="Where did the Book Bug go"> | <a href="/images/events/bookbugsx/files/March Pop-up Create Your Own Bug.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Create Your Own Bug Thumbnail.png" alt="Create your own bug PDF"></a> |
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Tamil.png" alt="Tamil-English Worksheet"></a>|
 
 **Step 2**: Harness your creativity and complete the activity sheet! If you need help, ask your parents and make it a fun family activity!
 
 **Step 3**: Either take a photo of your completed masterpiece or scan it, and upload the image (in .png, .jpg, .jpeg, or .pdf formats) to the form  below:
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/60b44d6f0ae04100136b7b28">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/60b44f241f455b00122775ea" target="_blank" rel="noopener noreferrer">here</a>.</div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/60b44d6f0ae04100136b7b28" style="width:100%;height:500px"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/60b44f241f455b00122775ea" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
@@ -52,7 +54,11 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 |Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
 |Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
 
-**Week 1 is now over.** If you would still like to do the activity, please click (<a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>).
+**Week 1 and 2 are now over.** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 15 June 2021 to **vote for your favourite Week 2 submission!**
+
+**Week 1**
+
+If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>.
 
 These were the top two works:
 
@@ -61,6 +67,10 @@ These were the top two works:
 | ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) | ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png)  |
 
 **Chong Yu** won with 55% of the votes! Congratulations!
+
+**Week 2**
+
+If you would still like to do the activity, please click [here](#w2).
 
 ##### Terms and Conditions
 * Only one submission per participant per week. Submissions of both the English and Mother Tongue versions of the activity sheets are considered one submission.
@@ -80,6 +90,7 @@ These were the top two works:
 
 <img src="/images/events/bookbugsx/BBX Mar Pop-up Collage.png" alt="Book Bugs Pop-up Event Collage" style="width: 100%">
 
+<a name="w2"></a>
 Feel free to still download our Create Your Own Book Bug and Book Review templates below.
 
 | <img src="/images/events/bookbugsx/Where did the Book Bug go.png" alt="Where did the Book Bug go"> | <a href="/images/events/bookbugsx/files/March Pop-up Create Your Own Bug.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/March Pop-up Create Your Own Bug Thumbnail.png" alt="Create your own bug PDF"></a> |

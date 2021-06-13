@@ -14,7 +14,7 @@ What do you want to do today?
 
 ## **Early Literacy Practices**
 
-_(Updated in March 2021)_
+_(Updated in June 2021)_
 
 Research shows that there are early literacy skills that children need to pick up on their way to becoming fluent readers:
 

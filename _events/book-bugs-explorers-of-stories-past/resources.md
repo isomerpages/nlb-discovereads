@@ -5,7 +5,6 @@ breadcrumb: Resources
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-
 Welcome to our resources page! Click on the buttons below to navigate the page.
 
 [<img src="/images/events/bookbugsx/Resources_Digital.png" alt="Digital Resources" style="width: 25%" align="left">](#digital-resources)[<img src="/images/events/bookbugsx/Resources_Printables.png" alt="Printables" style="width: 25%" align="left">](#printables)[<img src="/images/events/bookbugsx/Resources_Book Lists.png" alt="Book Lists" style="width: 25%" align="left">](#book-lists)[<img src="/images/events/bookbugsx/Resources_Links.png" alt="Useful Links" style="width: 25%" align="left">](#useful-links)
@@ -42,10 +41,25 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) |
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) | [June 2021](#jun) |
+
+<a name="jun"></a>
+**June 2021**
+
+This month, we challenge you to some Bug riddles! Some Book Bugs have decided to hide behind different doors - can you decipher the puzzles and figure out which Bug lies behind each door?
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Tamil).png" alt="Tamil-English Worksheet"></a>|
+
+Still can't get enough of our Book Bugs activities? Remember all the different versions of Cinderella that you learnt about in this month's quiz? Have a go at looking for their names in this word search! Can you find them just like the prince found them in the stories?
+
+|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Cinderella Word Search.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Cinderella Word Search.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
 
 <a name="may"></a>
 **May 2021**
+
+*Click <a href="/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to Chipper's Maze.*
 
 This month, we have an exciting activity for you! You get to paint your very own journey. If you've done Foxy Roxy's quiz for the month, you would have learnt all about The Magic Paintbrush, the story that inspired an upcoming Book Bug (which you might have spotted in the quiz!). Now that you have read the story, you get to use the magic paintbrush on your very own journey up the Mystical Mountains!
 
@@ -100,7 +114,7 @@ Still can't get enough of our Book Bugs activities? Why not try a simple craft a
 <a name="feb"></a>
 **February 2021**
 
-*Click [here](/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Answer Key.pdf) for the answers to the February 2021 crossword puzzles.*
+*Click <a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Answer Key.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the February 2021 crossword puzzles.*
 
 This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? Don't forget, if you're ever stuck, you can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
 
@@ -145,7 +159,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 ### Book Lists
 Want to read the stories behind each Book Bug? Pick up these books at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug! Click on the title of each book to find out where you can borrow a copy.
 
-|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) | [Mystical Mountains](#MMbooks) | Marvellous Homes (Coming soon!) |
+|[Magical Forests](#MFbooks) | [Mysterious Seas](#MSbooks) | [Mystical Mountains](#MMbooks) | [Marvellous Homes](#MHbooks) |
 
 <a name="MFbooks"></a>
 **Magical Forests**
@@ -226,8 +240,24 @@ Want to read the stories behind each Book Bug? Pick up these books at the public
 | 60 | Digex | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203011408" target="_blank" rel="noopener noreferrer">Manjhi Moves a Mountain</a> | Nancy Churnin | California: Creston Books, 2017 | English JP 625.7 CHU |
 | 61 | Spikey | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12543303" target="_blank" rel="noopener noreferrer">Attack of the Swordfish and Other Singapore Tales</a> | Charlotte Lim | Singapore: National Heritage Board, 2005. | English J SING 398.2 LIM -[FOL] |
 | 62 | Queen Fenix | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200165351" target="_blank" rel="noopener noreferrer">All Birds Paying Homage to the Phoenix/百鸟朝凤</a> | Duan Lixin/段立欣 |	 Beijing: Xue xi chu ban she, 2012. | Chinese J DLX |
-| 63 | Tiara | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203088399" target="_blank" rel="noopener noreferrer">Puteri Gunung Ledang</a> | Emila Yusof | Kuala Lumpur: Oyez!Books, 2017 | Malay JP 398.2 EMI -[FOL] |
+| 63 | Tiara | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203088399" target="_blank" rel="noopener noreferrer">Puteri Gunung Ledang</a> | Emila Yusof | Kuala Lumpur: Oyez!Books, 2017. | Malay JP 398.2 EMI -[FOL] |
 | 64 | Kawkaw | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200144160" target="_blank" rel="noopener noreferrer">The Foolish Crow and the Talking Cave</a> |	Sheila Gandhi |	Chennai: Karadi Tales Company Pvt. Ltd., 2010. | English JP 398.240954 GAN -[FOL] |
+
+<a name="MHbooks"></a>
+**Marvellous Homes**
+
+|Bug number|Bug Name|Book Title|Author|Publisher|Call Number|
+|:---:| :----| :--- | :----| :--- | :----| 
+| 65 | Areeda | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8873570" target="_blank" rel="noopener noreferrer">The Girl Who Wore Too Much: A Folktale from Thailand</a> | Margaret Read MacDonald | Arkansas: August House Littlefolk, 1998. | English JP 398.2 MAC -[FOL] |
+| 66 | Shadow  | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203165115" target="_blank" rel="noopener noreferrer">Juara cilik wayang kulit</a> | Farizan Md Amin | Singapore : Kementerian Pendidikan, 2018. | Malay J SING FAR |
+| 67 | Tameria | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202027715" target="_blank" rel="noopener noreferrer">Vietnamese children's favorite stories</a> | TranThi Minh Phuoc | Tokyo: Tuttle Publishing, 2015 | English J398.209597 TRA -[FOL] |
+| 68 | Mu-Lice | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202983645" target="_blank" rel="noopener noreferrer">Mu lan cong jun/木兰从军</a> | Jiang Youxiong/酱油熊 | Beijing Shi: Zhongguo hua bao chu ban she, 2017. | Chinese JP JYX -[BIL] |
+| 69 | Nojum | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13352915" target="_blank" rel="noopener noreferrer">Nujum Pak Belalang</a> | Muhibah Ayob | Kuala Lumpur: Dewan Bahasa dan Pustaka, 2009. | Malay JP 398.2 MUH -[FOL] |
+| 70 | Ginger | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12613561" target="_blank" rel="noopener noreferrer">ஈச்சா பூச்சா</a>	| Kala Sashikumar	| Chennai: Tulika Publishers, 2004.	| Tamil JP SAS |
+| 71 | Neeann | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202706165" target="_blank" rel="noopener noreferrer">The Nian Monster</a> | Andrea Wang | Illinois: Albert Whitman & Company, 2016. | English JP WAN |
+| 72 | Brushy | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14571449" target="_blank" rel="noopener noreferrer">The Magic Paintbrush: A Chinese Folktale</a> | M.J. York | Minnesota: The Child's World Inc., 2013. | English JP 398.2 YOR -[FOL] |
+| 73 | Lucky | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201056690" target="_blank" rel="noopener noreferrer">Hang Tuah Pahlawan Handal</a> | Nir Shahmer | Selangor: Kiddibird, 2012. | Malay JP 398.2 NIR -[FOL] |
+| 74 | Charmer | <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13071336" target="_blank" rel="noopener noreferrer">தெனாலி ராமனும் ஏமாந்த திருடர்களும்/Tenali raman outwits the thieves</a> |	S. Jayaraman | India: Media Fusion, 200-? | Tamil JP 398.2 TEN -[FOL] |
 
 ### Useful Links
 

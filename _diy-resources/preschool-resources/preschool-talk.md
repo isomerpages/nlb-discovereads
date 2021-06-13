@@ -4,7 +4,6 @@ permalink: /diy-resources/preschool/preschool-talk
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-
 ## **Talk**
 
 ### **Introduction**
@@ -15,87 +14,96 @@ Read aloud and encourage your child to read along with you. You can initiate con
 
 ## **Recommended Activities**
 
-**Animal Sounds** <br>
-Making animal sounds is a great way for children to develop their speech.  Place some animal toys in a bag and get your child to pull out one animal toy at a time. As your child pulls out an animal toy, they will have to name the animal and make its sound.  Alternatively, you can use animal books or pictures of animals. 
+**What Is the Weather Today?** <br>
+Make a simple “Weather Chart” and get your child to fill the chart as you talk about the weather daily. Talk about the activities they can or cannot do and what they need to wear or bring depending on the weather that day. For example, “It is sunny today. We can play outside!” or “It will rain today. You need to carry an umbrella.” 
 
-Make the activity more fun by incorporating the song “When Cows Wake up in the Morning” into the activity or get your child to combine the sounds of two animals. . For example, “If a sheep says baa and a cat goes meow, what does a sheep-cat say? Baa-ow, Baa-ow!” If you have older children participating in the activity, get them to guess where the animal lives or what it eats.
+If you have older children, use picture books to talk about the different weathers and seasons in other countries. Engage in pretend play by getting your child to imagine that they live in a different country. Ask questions like, “What would you wear during winter?” or “What would you eat or drink on a snowy day?” You can also talk about the science behind each weather or season.. Complement the discussion with fun experiments like creating your own rainfall, lightning, and rainbow!
 
-**Yummy Food!** <br>
-Mealtimes are great opportunities for families to communicate. During mealtimes, name and describe the taste, colour and texture of food that the family is having. For example, “Today, we are having some strawberries. Strawberries are red, soft and sweet.”
+Adapted from: 
+* [https://www.zerotothree.org/resources/1090-a-year-of-play](https://www.zerotothree.org/resources/1090-a-year-of-play)
+* [http://www.guruparents.com/weather-chart-2/ ](http://www.guruparents.com/weather-chart-2/ )
 
-If you have older children, engage in pretend play and get them to imagine having a meal with their favourite book or movie character. Ask questions like, “What would you eat with your favourite character?” and “What do you think your favourite character likes to eat?”
+**I am Thankful** <br>
+Talking about the things that one is thankful for is a great way to instil and cultivate gratitude in our children. Explain to your child what gratitude means and provide simple examples. For a start, encourage your child to say “Thank you”. You will probably need to prompt your child in the beginning. For instance, “What do you say to your sister/brother for sharing their toys with you?” 
 
-**Vroom I Spot a Truck!** <br>
-While taking a walk or a bus ride with your child, point to each vehicle that passes by and say its name.  To help your child learn how to make sentences, use descriptive words and verbs as you talk about the vehicle. For example, “Look at the blue car. It goes very fast.” Or “The red motorcycle stops at the traffic light.”
+As your child grows older, you can get your child to create a “Gratitude Tree or Flower” by writing down or drawing the things and people that they are thankful for on each flower petal or leaf. Alternatively, you can get your child to take photos of what they are grateful for. Spend some time to read what they have written and look at the photos together and talk about them. Ask questions like, “How do you feel when you receive this gift?” and “What else can we do to show our gratitude to someone?” 
 
-As your child gets older, you can introduce other vehicles that are more challenging to pronounce such as cranes, forklifts and bulldozers. Make learning more fun by engaging in a game of “I Spy” and get them to spot the correct vehicle. For example, “I spy a vehicle which begins with T.”
+Adapted from:
+* [https://www.verywellfamily.com/raising-a-thankful-child-2765058 ](https://www.verywellfamily.com/raising-a-thankful-child-2765058 )
+* [https://blissfulkids.com/5-awesome-mindful-gratitude-activities-for-kids ](https://blissfulkids.com/5-awesome-mindful-gratitude-activities-for-kids )
+
+**When I Grow Up** <br>
+Discover your child’s interests by talking about jobs.. As your child’s biggest role model, begin by sharing what you do at home and work! Introduce your child to other jobs in the community. Talk about how each job requires people to work at different places and use different tools and skills. For instance, “The cashier at the supermarket helps you to check out your groceries. He uses a cash register.” Or “The artist creates an artwork by painting on a canvas.” Make learning more fun by playing dress-up. Get your child to put on different clothes for the different jobs. You can also incorporate a treasure hunt by hiding the tools related to the different jobs and getting your child to find the items. 
+
+For older children, get them to name and talk about a job that begins with a letter of your choice. For instance, “Name a job that begins with A and tell me what you know about it.” Most importantly, ask your child about their aspirations and dreams! 
+
+[https://myfuture.edu.au/career-articles/details/9-activities-to-help-children-understand-careers](https://myfuture.edu.au/career-articles/details/9-activities-to-help-children-understand-careers) 
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/the box turtle.jpg" alt="The Box Turtle" style="width:40%">
+<img src="/images/diyresources/preschool/the%20thank%20you%20book.jpg" alt="The Thank You Book" style="width:40%">
 
-**Title:** [The Box Turtle](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204389671) <br>
-**Author:** Vanessa Roeder <br>
-**Publisher:** New York: Dial Books for Young Readers, \[2020\] <br>
-**Location：** Early Literacy Picture Books <br>
-**Call Number：** English ROE <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/4815945](https://nlb.overdrive.com/media/4815945) <br>
+**Title:** The Thank You Book<br>
+**Author:** Mary Lyn Ray <br>
+**Publisher:** Houghton Mifflin Harcourt <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/4027341](https://nlb.overdrive.com/media/4027341 ) <br>
 
-An irresistibly cute story about finding the confidence to be yourself, starring a turtle in search of the perfect shell.
+*Thank you isn't just for learning manners.* <br>
+*It's also for when something wakes a* <br>
+*little hum—a little happy hum—inside you*<br>
+*and you want to answer back.*<br>
 
-Terrance the turtle was born without a shell, so he uses a cardboard box instead. Terrance loves his box. It keeps him dry on soggy days, safe from snooping strangers, and is big enough to cozy up with a friend. But when another turtle points out that Terrance’s shell is, well, weird, he begins to wonder whether there might be a better shell out there…
+The *Thank You Book* explores the many ways we can be thankful for the pleasures great and small that await us every day. Tender and poetic, it reflects on the role gratitude can play in our lives and celebrates the powerful impact it can have.
 
-Eventually, and through much trial and error, Terrance learns that there’s nothing wrong with being different–especially when it comes to being yourself.
+<img src="/images/diyresources/preschool/benjamin%20bear%20says%20thank%20u.jpg" alt="benjamin bear says thank you" style="width:40%">
 
-<img src="/images/diyresources/preschool/what sound is morning.jpg" alt="What sound is morning" style="width:40%">
+**Title:** Benjamin Bear Says Thank You <br>
+**Author:** Claire Freedman & Steve Smallman<br>
+**Publisher:** Lion Hudson LTD<br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/2537553](https://nlb.overdrive.com/media/2537553 ) <br>
 
-**Title:** What Sound Is Morning? <br>
-**Author:** Grant Snider <br>
-**Publisher:** San Francisco: Chronicle Books, \[2020\] <br>
+Here comes Benjamin Bear - always full of bounce. He loves playing with his friends, but somehow he keeps hurting their feelings. He never says thank you. In this charming story Benjamin Bear learns to say thank you - and how much those little words mean.
+
+<img src="/images/diyresources/preschool/hellorain.jpg" alt="Hello Rain" style="width:40%">
+
+**Title:** [Hello, Rain!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205431404) <br>
+**Author:** Kyo Maclear<br>
+**Publisher:** San Francisco: Chronicle Books, \[2021\] <br>
 **Location:** Early Literacy Picture Books <br>
-**Call Number:** English SNI <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/5282423](https://nlb.overdrive.com/media/5282423) <br>
+**Call Number:** English MAC <br>
 
-This beautiful companion to What Color Is Night? helps children explore and celebrate their morning routines.
+A picture book celebrating all the reasons to love the rain! Flowers bloom in the garden. Umbrellas bloom on the streets. There are puddles for jumping and, later, a cozy home for hot chocolate and books.
 
-At the first morning light, everything is quiet. Or is it?
+* The ultimate rainy day read!
+* Full of bright, eye-catching illustrations
+* From international acclaimed writer Kyo Maclear and printmaker Chris Turnham
 
-Listen.
+*The air is full of waiting. The sky is full of breeze. The trees gust and billow. All before it rains.*
 
-Welcome the day by exploring the subtle wonders—and exciting sounds—of the morning with this lyrical and picturesque story.
+*Rumble, rumble. Distant thunder. Rain is coming, rain is coming.*
 
-In the first morning light, all might seem quiet. In this companion to What Color Is Night? Grant Snider explores the sounds—and silences—of morning. Ending in an inspiring call to action—to toss off the covers, throw open the window, and fill the world with your song—this uplifting book is sure to help families feel ready to face the day. With bright art as exuberant as the rooster's crow, and humorous text celebrating the chipper alarm, the rumbling stomach, and the clanking garbage truck, What Sound Is Morning? is a moving and timeless look at the way each of us begins every day.
+No matter what kind of weather you prefer, Hello, Rain! is a great reminder of the natural beauty all around us.
 
-• A perfect book to help children establish healthy sleeping and waking habits and morning routines. <br>
-• A morning read-aloud book! Help start the day right with this exuberant and positive tale. <br>
-• Grant Snider, the creator of Incidental Comics, has over 35,000 fans on Instagram. <br>
+* Children's books for kids age 3-5
+* Great read aloud picture book
+* Ideal for nature lovers
 
-For fans of lyrical, beautiful picture books like Today, Good Morning, City, and Before Morning, What Sound Is Morning? will appeal to children who wish to see their world from a new perspective.
+<img src="/images/diyresources/preschool/vet.jpg" alt="Roar" style="width:40%">
 
-<img src="/images/diyresources/preschool/dandelion's dream.jpg" alt="Dandelion's dream" style="width:40%">
+**Title:** [Vet: An Action Play Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204379263) <br>
+**Author:** Dan Green <br>
+**Publisher:** London : Ladybird Books, 2020.<br>
+**Location:** Early Literacy Sense & Sensations <br>
+**Call Number:** English GRE<br>
 
-**Title:** [Dandelion's Dream](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204242090) <br>
-**Author:** Yoko Tanaka <br>
-**Publisher:** London: Walker Books and Subsidiaries, 2020. <br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English TAN <br>
+Join in and help the busy vet in this playful, interactive flap book!
 
-What if a dandelion became a dandy lion? With enchanting, ethereal art, this is a wordless story where reality is transformed by imagination.
+It's another busy day! Join in and use the flaps to help the vet as she listens to the dog's heart, gives the chameleon her medicine and X-rays the cat's leg. With interactive action-flaps, you can do it, too!
 
-In a meadow filled with dandelion buds just about to flower, one dandelion blooms into a real lion. Roots and leaves unfurl into four tiny paws and a long tail with a fluffy yellow tuft. What a great, wide world there is to explore when you have paws instead of roots! There are fast trains to ride, regal ships to sail, and cities with lights as bright as Dandelion’s field in full bloom. But will a real lion ever be content to go back to being a rooted dandelion?
+Each clever flap provides an action or scene-change to encourage children to actively engage and explore. The playful flaps are perfect for little hands to help develop fine motor skills and hand-eye coordination.
 
-<img src="/images/diyresources/preschool/Roar!.jpg" alt="Roar" style="width:40%">
+Original concept and illustration by Dan Green.
 
-**Title:** [Roar!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205261751) <br>
-**Author:** Katerina Kerouli <br>
-**Publisher:** London: Bloomsbury Children’s Books, 2020. <br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English KER <br>
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-Crocodile lurks in the water, Tiger and Lion prowl through the jungle, Monkey swings through the trees and Snake slithers through the undergrowth in this beautifully illustrated, stylish picture book. Lift the giant flaps to reveal those strong, wide jaws, sharp teeth – and a flicky tongue! – and join in as the animals SNAP, ROAR and HISS.
-
-A larger-than-life look at wild jungle animals, this visually stunning book is a work of art.
-
-_All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies._
-
-### **For more activities and book recommendations, click [here](/images/diyresources/preschool/ELPractices_Compiled01.pdf).**
+### **For more activities and book recommendations, click [here](https://childrenandteens.nlb.gov.sg/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

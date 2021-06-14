@@ -8,6 +8,6 @@ Table of Contents
 
 Links to the Toolkits (PDF)
 
-N1/N2 Toolkit 
+Activities for N1/N2
 
-K1/K2 Toolkit 
+Activities for K1/K2

@@ -4,7 +4,7 @@ permalink: /earlylit-play
 ---
 | [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) <br>
 
-<p style="text-align: center;">Return to main</p>
+<p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
 
 ## **Play**
 

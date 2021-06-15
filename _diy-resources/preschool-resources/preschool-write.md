@@ -3,7 +3,6 @@ title: Preschool Write
 permalink: /diy-resources/preschool-resources/preschool-write
 third_nav_title: Preschool Resources
 ---
-
 ## **Write**
 
 ### **Introduction**
@@ -65,4 +64,4 @@ An elementary school girl witnesses the bullying of another girl, but she is not
 
 *All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

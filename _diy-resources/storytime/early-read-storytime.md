@@ -13,4 +13,4 @@ Want to be notified so you never miss our livestream session? Subscribe to our n
 
 For the upcoming Early READ Storytime livestream session, please click [here](https://www.facebook.com/events/195103315726812/).
 
-<img src="/images/diyresources/Schedule.png" alt="Early READ Storytime Schedule" style="width: 70%;">
+<img src="/images/diyresources/Early Read Storytime Schedule Final.png" alt="Early READ Storytime Schedule" style="width: 70%;">

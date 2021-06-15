@@ -28,7 +28,7 @@ Upcoming workshops:
 
 These packages provide Tweens with the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
 
-| [![Afterimage image](/images/unsorted/tweenkerama/Tweens%20Afterimages.JPG)](/images/unsorted/tweenkerama/Tweens-Afterimages.pdf)[![Secret Message image](/images/unsorted/tweenkerama/Tweens%20Secret%20Message.JPG)](/images/unsorted/tweenkerama/Tweens-Secret%20Messages.pdf) |
+| [![Afterimage image](/images/unsorted/tweenkerama/Tweens%20Afterimages.JPG)](/images/unsorted/tweenkerama/Tweens-Afterimages.pdf) | [![Secret Message image](/images/unsorted/tweenkerama/Tweens%20Secret%20Message.JPG)](/images/unsorted/tweenkerama/Tweens-Secret%20Messages.pdf) |
 
 <a href="/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter" style="width: 50%;"></a>
 

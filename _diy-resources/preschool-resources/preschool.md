@@ -4,7 +4,6 @@ permalink: /diy-resources/preschool/preschool-main
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-
 ## **Early Literacy Practices**
 
 _(Updated in June 2021)_
@@ -29,13 +28,6 @@ Knowing the names of things, feelings and concepts.
 Click on the icons to find out more about literacy practices that help develop early literacy skills.
 
 | [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/diy-resources/preschool/preschool-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/diy-resources/preschool/preschool-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/diy-resources/preschool/preschool-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/diy-resources/preschool/preschool-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/diy-resources/preschool/preschool-read) |
-
-### **Storytime with our Librarians!**
-
-<img src="/images/diyresources/preschool/Happy-or-Grumpy-Make-Your-Own-Puppet.png" style="width: 30%" alt="Make your own puppet image">
-
-<center>Happy or Grumpy – Make Your Own Puppet! <br>
-A special storytelling activity for parent and child.</center>
 
 ## **Activity Sheets**
 

@@ -37,12 +37,6 @@ Click on the icons to find out more about literacy practices that help develop e
 
 | [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/diy-resources/preschool/preschool-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/diy-resources/preschool/preschool-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/diy-resources/preschool/preschool-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/diy-resources/preschool/preschool-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/diy-resources/preschool/preschool-read) |
 
-## **Booklists**
-
-<a href="/images/diyresources/preschool/Sharity-NLB-list-kids.pdf"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:40%"></a>
-
-<a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.pdf"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:40%"></a>
-
 ## **Creative Conversations**
 
 ### **October Issue**

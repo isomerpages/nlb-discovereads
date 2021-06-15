@@ -26,8 +26,9 @@ Upcoming workshops:
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 
-These packages provide Tweens the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
+These packages provide Tweens with the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
 
+| [![Afterimage image](/images/unsorted/tweenkerama/Tweens%20Afterimages.JPG)](/images/unsorted/tweenkerama/Tweens-Afterimages.pdf)
 <a href="/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter" style="width: 50%;"></a>
 
 Grab your printable template for the paper helicopter [here](/images/unsorted/tweenkerama/PopUp_copter_printing_templates_0615_001.pdf)!

@@ -106,4 +106,4 @@ Original concept and illustration by Dan Green.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](https://childrenandteens.nlb.gov.sg/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](https://childrenandteens.nlb.gov.sg/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

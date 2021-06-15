@@ -79,4 +79,4 @@ Let's dive through a world full of mystery and go visit the oceans and seas on a
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

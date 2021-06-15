@@ -1,9 +1,11 @@
 ---
-title: Preschool Play
-permalink: /diy-resources/preschool/preschool-play
-collection_name: diy-resources
-third_nav_title: Preschool Resources
+title: Early Literacy Practices (Play)
+permalink: /earlylit-play
 ---
+| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) <br>
+
+<p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
+
 ## **Play**
 
 ### **Introduction**
@@ -31,7 +33,7 @@ Free play or unstructured play helps exercise your child’s creativity and prob
 
 **Title:** Mrs Peanuckle’s Fruit Alphabet <br>
 **Author:** Mrs Peanuckle <br>
-**Illustratir:** Jessie Ford <br>
+**Illustrator:** Jessie Ford <br>
 **Publisher:** Random House Children's Books, 2020.<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3387140](https://nlb.overdrive.com/media/3387140) <br>
 
@@ -77,4 +79,4 @@ The possibilities are infinite in this mesmerising creative toolkit which will i
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+ **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

@@ -1,8 +1,10 @@
 ---
-title: Preschool Write
-permalink: /diy-resources/preschool-resources/preschool-write
-third_nav_title: Preschool Resources
+title: Early Literacy Practices (Write)
+permalink: /earlylit-write
 ---
+| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) |
+
+<p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
 
 ## **Write**
 
@@ -65,4 +67,4 @@ An elementary school girl witnesses the bullying of another girl, but she is not
 
 *All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

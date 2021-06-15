@@ -1,9 +1,11 @@
 ---
-title: Preschool Sing
-permalink: /diy-resources/preschool/preschool-sing
-collection_name: diy-resources
-third_nav_title: Preschool Resources
+title: Early Literacy Practices (Sing)
+permalink: /earlylit-sing
 ---
+| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) | 
+
+<p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
+
 ## **Sing**
 
 ### **Introduction**
@@ -74,4 +76,4 @@ Five little ducks went out to play, with one cool cat leading the way. Sing alon
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

@@ -1,10 +1,10 @@
 ---
-title: Preschool Holiday Special
+title: School Holiday Specials
 permalink: /diy-resources/preschool/preschool-holiday-special
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-## **Holiday Specials with Librarians! (Preschool)**
+## **School Holiday Specials with Librarians!**
 
 ### **Amazing Animals**
 

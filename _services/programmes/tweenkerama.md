@@ -5,7 +5,6 @@ breadcrumb: Tweenkerama
 collection_name: services
 third_nav_title: Programmes
 ---
-
 ## **Tweenkerama**
 
 <img src="images/unsorted/tweenkerama/Banner_Tweenkerama_workshops2.png" alt="Tweenkerama Workshops banner" style="width: 100%;">
@@ -14,13 +13,24 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
 
-## *Please note that Tweenkerama sessions from 31 May - 13 June 2021 have been cancelled.*
+Upcoming workshops:
+* Gear Up! @ Bedok Public Library
+* The 3D Art Imaginarium @ Woodlands Regional Library
+* The 3D Art Imaginarium @ library@harbourfront
+* Perfecting Paper Prototyping @ Sengkang Public Library
+* Gear Up! @ Geylang East Public Library
+* Can You Build a Skyscraper? @ Ang Mo Kio Public Library
+*  The 3D Art Imaginarium @ Jurong Regional Library
+
+*Dates will be released soon!*
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 
-These packages provide Tweens the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
+These packages provide Tweens with the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
 
-<a href="/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter" style="width: 50%;"></a>
+
+| [![Afterimage image](/images/unsorted/tweenkerama/Tweens%20Afterimages.JPG)](/images/unsorted/tweenkerama/Tweens-Afterimages.pdf)      |  [![Secret Message image](/images/unsorted/tweenkerama/Tweens%20Secret%20Message.JPG)](/images/unsorted/tweenkerama/Tweens-Secret%20Messages.pdf)     | [![Paper Helicopter image](/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf) 
+| 
 
 Grab your printable template for the paper helicopter [here](/images/unsorted/tweenkerama/PopUp_copter_printing_templates_0615_001.pdf)!
 

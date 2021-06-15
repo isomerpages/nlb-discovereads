@@ -4,7 +4,7 @@ permalink: /diy-resources/preschool-resources/cc-ecda
 third_nav_title: Preschool Resources
 ---
 ## **Creative Conversations**
-A newsletter by ECDA that touches on various themes for children. Includes a craft activity and book recommendations.
+A monthly newsletter by ECDA that touches on various themes. Includes craft activities and book recommendations for children.
 
 ### **October 2020 Issue**
 

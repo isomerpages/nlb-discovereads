@@ -5,7 +5,6 @@ breadcrumb: Tweenkerama
 collection_name: services
 third_nav_title: Programmes
 ---
-
 ## **Tweenkerama**
 
 <img src="images/unsorted/tweenkerama/Banner_Tweenkerama_workshops2.png" alt="Tweenkerama Workshops banner" style="width: 100%;">
@@ -14,7 +13,16 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
 
-## *Please note that Tweenkerama sessions from 31 May - 13 June 2021 have been cancelled.*
+Upcoming workshops:
+* Gear Up! | Tweenkerama @ Bedok Public Library
+* The 3D Art Imaginarium | Tweenkerama @ Woodlands Regional Library
+* The 3D Art Imaginarium | Tweenkerama @ library@harbourfront
+* Perfecting Paper Prototyping | Tweenkerama @ Sengkang Public Library
+* Gear Up! | Tweenkerama @ Geylang East Public Library
+* Can You Build a Skyscraper? | Tweenkerama @ Ang Mo Kio Public Library
+*  The 3D Art Imaginarium | Tweenkerama @ Jurong Regional Library
+
+*Dates will be released soon!*
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 

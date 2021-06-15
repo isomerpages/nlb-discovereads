@@ -4,13 +4,6 @@ permalink: /diy-resources/preschool/preschool-main
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
-# **Preschool**
-
-**Explore our DIY resources to foster the love of reading and learning at home!**
-
-What do you want to do today?
-
-| [Early Literacy Practices](#early-literacy-practices) | [Creative Conversations](#creative-conversations) | [Crafts](#crafts) | [Activity Sheets](#activity-sheets) | [Holiday Specials with Librarians (Preschool)](#holiday-specials-with-librarians-preschool) | [Booklists](#booklists) |
 
 ## **Early Literacy Practices**
 
@@ -36,27 +29,6 @@ Knowing the names of things, feelings and concepts.
 Click on the icons to find out more about literacy practices that help develop early literacy skills.
 
 | [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/diy-resources/preschool/preschool-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/diy-resources/preschool/preschool-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/diy-resources/preschool/preschool-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/diy-resources/preschool/preschool-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/diy-resources/preschool/preschool-read) |
-
-## **Crafts**
-
-### **Holiday Specials with Librarians!**
-
-<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/lion-crown-preview.jpg" style="width: 30%;"></a>
-
-<center>Make your own Lion Paper Crown!</center>
-
-<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/Vegetable-Garden_small-pic.jpg" style="width: 30%;"></a>
-
-<center>Make your own colourful vegetable garden!</center>
-
-
-<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/Solar-System-Mobile.jpg" style="width: 30%;"></a>
-
-<center>Zoom into space with your own Solar System mobile!</center>
-
-<a href="/diy-resources/preschool/preschool-holiday-special"><img src="/images/diyresources/preschool/dragonbookcorner.jpg" style="width: 30%;"></a>
-
-<center> Enter the magical world of dragons with your own special book corner!</center>
 
 ### **Storytime with our Librarians!**
 

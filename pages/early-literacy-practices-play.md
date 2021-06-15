@@ -1,7 +1,8 @@
 ---
-title: Early Literacy Practices - Play
+title: Early Literacy Practices (Play)
 permalink: /earlylit-play
 ---
+
 ## **Play**
 
 ### **Introduction**

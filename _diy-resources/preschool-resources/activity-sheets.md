@@ -4,8 +4,8 @@ permalink: /diy-resources/preschool-resources/activity-sheets
 third_nav_title: Preschool Resources
 ---
 ## **Activity Sheets**
-Simple activities for children! <br>
-Click on the images to download.
+Simple activities for children to do at home or in school! <br>
+Click on the images to download and print.
 
 <a href="/images/diyresources/preschool/Early-Read_Classroom.pdf"><img src="/images/diyresources/preschool/Classroom_4May.jpg" style="width: 30%;"></a>
 

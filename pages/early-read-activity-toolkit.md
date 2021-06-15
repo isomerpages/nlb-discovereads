@@ -21,3 +21,4 @@ permalink: /activitytoolkit
 
 ![Alt text for image on Isomer site](/images/diyresources/preschool/Shark%20in%20the%20Park%20Book%20Cover.jpg)
 [Can you find all the "S" words in the Park?](/files/preschool/Activity%20Toolkit%20K1-K2%20Sample%202.pdf)
+

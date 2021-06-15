@@ -77,4 +77,4 @@ The possibilities are infinite in this mesmerising creative toolkit which will i
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-### **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+ **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

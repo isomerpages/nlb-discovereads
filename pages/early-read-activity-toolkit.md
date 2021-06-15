@@ -13,6 +13,8 @@ Get the book! Call no. JSING English QUE
 
 [Find the Items in The Book that Was Handed Down!](/files/preschool/Activity%20Toolkit%20N1-N2%20Sample%201.pdf)
 
+[Want to try a Challenge?](https://sprw.io/stt-da7137)
+
 ![Alt text for image on Isomer site](/images/diyresources/preschool/The%20Grouchy%20Ladybug%20Book%20Cover.jpg)
 Get the book! Call no. Emergent Readers English CAR
 

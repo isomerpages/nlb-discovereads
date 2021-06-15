@@ -31,7 +31,7 @@ Free play or unstructured play helps exercise your child’s creativity and prob
 
 **Title:** Mrs Peanuckle’s Fruit Alphabet <br>
 **Author:** Mrs Peanuckle <br>
-**Illustratir:** Jessie Ford <br>
+**Illustrator:** Jessie Ford <br>
 **Publisher:** Random House Children's Books, 2020.<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3387140](https://nlb.overdrive.com/media/3387140) <br>
 

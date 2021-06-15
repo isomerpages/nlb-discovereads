@@ -30,7 +30,7 @@ These packages provide Tweens with the opportunity to problem solve through a do
 
 
 | [![Afterimage image](/images/unsorted/tweenkerama/Tweens%20Afterimages.JPG)](/images/unsorted/tweenkerama/Tweens-Afterimages.pdf)      |  [![Secret Message image](/images/unsorted/tweenkerama/Tweens%20Secret%20Message.JPG)](/images/unsorted/tweenkerama/Tweens-Secret%20Messages.pdf)     | [![Paper Helicopter image](/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf) 
-Grab your printable template for the paper helicopter [here](/images/unsorted/tweenkerama/PopUp_copter_printing_templates_0615_001.pdf)!|
+| Grab your printable template for the paper helicopter [here](/images/unsorted/tweenkerama/PopUp_copter_printing_templates_0615_001.pdf)!
 
 
 

@@ -14,7 +14,7 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
 
 Upcoming workshops:
-* Gear Up! | Tweenkerama @ Bedok Public Library
+* Gear Up! Tweenkerama @ Bedok Public Library
 * The 3D Art Imaginarium | Tweenkerama @ Woodlands Regional Library
 * The 3D Art Imaginarium | Tweenkerama @ library@harbourfront
 * Perfecting Paper Prototyping | Tweenkerama @ Sengkang Public Library

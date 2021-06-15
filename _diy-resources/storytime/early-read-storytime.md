@@ -3,7 +3,6 @@ title: Early READ Storytime
 permalink: /diy-resources/storytime/early-read-storytime
 third_nav_title: Storytime
 ---
-
 ## **Early READ Storytime**
 
 <img src="/images/diyresources/Early Read Storytime Banner Final.png" alt="Early READ Storytime Banner" style="width: 70%;">

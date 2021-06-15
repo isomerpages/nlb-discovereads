@@ -4,7 +4,7 @@ collections:
     order:
       - d-i-y-resources.md
       - preschool-resources/.keep
-      - preschool-resources/preschool.md
+      - preschool-resources/early-literacy-practices.md
       - preschool-resources/preschool-play.md
       - preschool-resources/preschool-talk.md
       - preschool-resources/preschool-sing.md

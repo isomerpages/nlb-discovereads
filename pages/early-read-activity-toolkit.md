@@ -6,19 +6,26 @@ permalink: /activitytoolkit
 
 ##### These sheets are printable for educational fun for your little ones! 
 
-**Activities for N1/N2**
+**Books & Activities for N1/N2**
 
 ![Alt text for image on Isomer site](/images/diyresources/preschool/The%20Book%20that%20Was%20Handed%20Down%20Book%20Cover.jpg)
+Get the book! Call no. JSING English QUE 
+
 [Find the Items in The Book that Was Handed Down!](/files/preschool/Activity%20Toolkit%20N1-N2%20Sample%201.pdf)
 
 ![Alt text for image on Isomer site](/images/diyresources/preschool/The%20Grouchy%20Ladybug%20Book%20Cover.jpg)
+Get the book! Call no. Emergent Readers English CAR
+
 [Tell Time with the Grouchy Ladybug!](/files/preschool/Activity%20Toolkit%20N1-N2%20Sample%202.pdf)
 
-**Activities for K1/K2**
+**Books & Activities for K1/K2**
 
 ![Alt text for image on Isomer site](/images/diyresources/preschool/The%20Grouchy%20Ladybug%20Book%20Cover.jpg)
+Get the book! Call no. Emergent Readers English CAR
+
 [Let's Make our Very Own Ladybug!](/files/preschool/Activity%20Toolkit%20K1-K2%20Sample%201.pdf)
 
 ![Alt text for image on Isomer site](/images/diyresources/preschool/Shark%20in%20the%20Park%20Book%20Cover.jpg)
-[Can you find all the "S" words in the Park?](/files/preschool/Activity%20Toolkit%20K1-K2%20Sample%202.pdf)
+Get the Book! Call no. JP English SHA
 
+[Can you find all the "S" words in the Park?](/files/preschool/Activity%20Toolkit%20K1-K2%20Sample%202.pdf)

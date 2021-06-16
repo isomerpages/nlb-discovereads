@@ -54,7 +54,7 @@ Each week, the top two submissions will be featured on the Public Libraries' Ins
 |Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
 |Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
 
-**Week 1 and 2 are now over.** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 15 June 2021 to **vote for your favourite Week 2 submission!**
+**Week 1 and 2 are now over - find out who won below!** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 22 June 2021 to **vote for your favourite Week 3 submission!**
 
 **Week 1**
 
@@ -71,6 +71,12 @@ These were the top two works:
 **Week 2**
 
 If you would still like to do the activity, please click [here](#w2).
+
+| Yap Zhuo Xun | Rashmika Anand |
+|:---:|:---:|
+| ![Yap Zhuo Xun  Bug](/images/events/bookbugsx/Bonanza Week 2A.jpg) | ![Rashmika Anand Bug](/images/events/bookbugsx/Bonanza Week 2B.jpg)  |
+
+**Rashmika Anand** won with 52% of the votes! Congratulations!
 
 ##### Terms and Conditions
 * Only one submission per participant per week. Submissions of both the English and Mother Tongue versions of the activity sheets are considered one submission.

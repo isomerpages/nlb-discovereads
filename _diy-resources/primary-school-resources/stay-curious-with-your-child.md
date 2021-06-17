@@ -21,16 +21,17 @@ _(Updated on 17 June 2021)_
 
 Can you “see” sound? Rhythm, beats and melodies can make us feel different emotions, so why not try drawing them out? Get your child inspired to create an artwork that is uniquely their own!
 
-**You’ll need:**<br> 
-Drawing Paper<br> 
-Pen/Marker<br> 
-Colour Pencils/Crayons<br> 
+**You’ll need:** 
+
+* Drawing Paper
+* Pen/Marker
+* Colour Pencils/Crayons
 
 Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg! 
 
 <iframe class="center-youtube" width="560" height="315" src="https://www.youtube.com/embed/aOGSykgrYwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p style="text-align: center;"><sup><a href="https://www.youtube.com/watch?v=aOGSykgrYwk">Source: ART and MUSIC VIDEO: A guided drawing activity by listening to SOUND with Kerri Bevis.</a> <br>(Last accessed on 22 May 2021)</sup></p>
+<p style="text-align: center;"><sup><a href="https://www.youtube.com/watch?v=aOGSykgrYwk">Source: ART and MUSIC VIDEO: A guided drawing activity by listening to SOUND with Kerri Bevis.</a><br>(Last accessed on 22 May 2021)</sup></p>
 
 Learn more about abstract art and embark on a creative journey with these eBooks! 
 
@@ -54,7 +55,7 @@ Publisher:  Quarry Books
 
 Art Lab for Kids is a refreshing source of wonderful ideas for creating fine art with children. This step-by-step book offers 52 fun and creative art projects set into weekly lessons, beginning with drawing, moving through painting and printmaking, and then building to paper collage and mixed media.
 
-This book is available on Overdrive at: https://nlb.overdrive.com/media/792220 
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/792220]
 
 **Tips for Parents**
 
@@ -66,6 +67,7 @@ Source: [https://kidspacemuseum.org/for-families-at-home/abstract-painting/](htt
 The book covers and synopses are the copyright of the respective publishing companies.
 
 <b><a href="#top">Back to top</a></b>
+
 
 ### **Listening to Podcasts**
 

@@ -10,12 +10,34 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 9 June 2021)_
+_(Updated on 17 June 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
 ***new!**[Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **Draw Your Music**
+
+Can you “see” sound? Rhythm, beats and melodies can make us feel different emotions, so why not try drawing them out? Get your child inspired to create an artwork that is uniquely their own!
+
+**You’ll need:**<br> 
+Drawing Paper<br> 
+Pen/Marker<br> 
+Colour Pencils/Crayons<br> 
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg! 
+
+<iframe class="center-youtube" width="560" height="315" src="https://www.youtube.com/embed/aOGSykgrYwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><sup>Source: ART and MUSIC VIDEO: A guided drawing activity by listening to SOUND with Kerri Bevis. (Last accessed on 22 May 2021)</sup></p>
+
+Learn more about abstract art and embark on a creative journey with these eBooks! 
+
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 ### **Listening to Podcasts**
 

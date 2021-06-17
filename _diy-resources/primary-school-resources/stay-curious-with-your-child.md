@@ -10,12 +10,62 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 9 June 2021)_
+_(Updated on 17 June 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-***new!**[Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **Draw Your Music**
+
+Can you “see” sound? Rhythm, beats and melodies can make us feel different emotions, so why not try drawing them out? Get your child inspired to create an artwork that is uniquely their own!
+
+**You’ll need:**<br> 
+Drawing Paper<br> 
+Pen/Marker<br> 
+Colour Pencils/Crayons<br> 
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg! 
+
+<iframe class="center-youtube" width="560" height="315" src="https://www.youtube.com/embed/aOGSykgrYwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;"><sup><a href="https://www.youtube.com/watch?v=aOGSykgrYwk">Source: ART and MUSIC VIDEO: A guided drawing activity by listening to SOUND with Kerri Bevis.</a> <br>(Last accessed on 22 May 2021)</sup></p>
+
+Learn more about abstract art and embark on a creative journey with these eBooks! 
+
+<img src="/images/diyresources/primary/The%20Noisy%20Paintbox.png" alt="What's The Big Idea" style="width: 40%;">
+
+
+**The Noisy Paint Box: The Colors and Sounds of Kandinsky's Abstract Art**<br>
+by Barb Rosenstock<br>
+Publisher: Random House Children's Books
+
+In this exuberant celebration of creativity, Barb Rosenstock and Mary GrandPré tell the fascinating story of Vasily Kandinsky, one of the very first painters of abstract art. Throughout his life, Kandinsky experienced colors as sounds, and sounds as colors—and bold, groundbreaking works burst forth from his noisy paint box.
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/1381713](https://nlb.overdrive.com/media/1381713)
+
+
+<img src="/images/diyresources/primary/Art%20lab%20for%20kids.png" alt="What's The Big Idea" style="width: 40%;">
+
+**Art Lab for Kids**<br>
+by Susan Schwake<br>
+Publisher:  Quarry Books
+
+Art Lab for Kids is a refreshing source of wonderful ideas for creating fine art with children. This step-by-step book offers 52 fun and creative art projects set into weekly lessons, beginning with drawing, moving through painting and printmaking, and then building to paper collage and mixed media.
+
+This book is available on Overdrive at: https://nlb.overdrive.com/media/792220 
+
+**Tips for Parents**
+
+The value of art for children has been commonly articulated, but abstract art is particularly beneficial for them as it allows children to directly express what they see, feel, and experience.
+For parents, engaging in conversations with your child about their artwork allows them to develop communication and cognitive skills. Ask them questions about the colours and shapes used and their feelings when creating it. These conversations will help your child build up their vocabulary and better identify their emotions.
+
+Source: [https://kidspacemuseum.org/for-families-at-home/abstract-painting/](https://kidspacemuseum.org/for-families-at-home/abstract-painting/) (Last accessed on 23 May 2021) 
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+<b><a href="#top">Back to top</a></b>
 
 ### **Listening to Podcasts**
 

@@ -14,15 +14,14 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
 
 Upcoming workshops:
-* Gear Up! @ Bedok Public Library
-* The 3D Art Imaginarium @ Woodlands Regional Library
-* The 3D Art Imaginarium @ library@harbourfront
-* Perfecting Paper Prototyping @ Sengkang Public Library
-* Gear Up! @ Geylang East Public Library
-* Can You Build a Skyscraper? @ Ang Mo Kio Public Library
-*  The 3D Art Imaginarium @ Jurong Regional Library
+* Gear Up! @ Bedok Public Library, 25 June 2021, 2pm-4pm
+* The 3D Art Imaginarium @ Woodlands Regional Library, 25 June 2021, 2pm-4pm
+* The 3D Art Imaginarium @ library@harbourfront, 26 June 2021, 2pm-4pm
+* Perfecting Paper Prototyping @ Sengkang Public Library, 5 July 2021, 2pm-4pm
+* Gear Up! @ Geylang East Public Library, 5 July 2021, 2pm-4pm
+* Can You Build a Skyscraper? @ Ang Mo Kio Public Library, 5 July 2021, 2pm-4pm
+*  The 3D Art Imaginarium @ Jurong Regional Library, 5 July 2021, 2pm-4pm
 
-*Dates will be released soon!*
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 

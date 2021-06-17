@@ -34,15 +34,33 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Learn more about abstract art and embark on a creative journey with these eBooks! 
 
+<img src="/images/diyresources/primary/The%20Noisy%20Paintbox.png" alt="What's The Big Idea" style="width: 40%;">
 
 
-
-**The Noisy Paint Box: The Colors and Sounds of Kandinsky's Abstract Art**
-by Barb Rosenstock
+**The Noisy Paint Box: The Colors and Sounds of Kandinsky's Abstract Art**<br>
+by Barb Rosenstock<br>
 Publisher: Random House Children's Books
 
+In this exuberant celebration of creativity, Barb Rosenstock and Mary GrandPré tell the fascinating story of Vasily Kandinsky, one of the very first painters of abstract art. Throughout his life, Kandinsky experienced colors as sounds, and sounds as colors—and bold, groundbreaking works burst forth from his noisy paint box.
 
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/1381713](https://nlb.overdrive.com/media/1381713)
 
+<img src="/images/diyresources/primary/Art%20lab%20for%20kids.png" alt="What's The Big Idea" style="width: 40%;">
+
+**Art Lab for Kids**<br>
+by Susan Schwake<br>
+Publisher:  Quarry Books
+
+Art Lab for Kids is a refreshing source of wonderful ideas for creating fine art with children. This step-by-step book offers 52 fun and creative art projects set into weekly lessons, beginning with drawing, moving through painting and printmaking, and then building to paper collage and mixed media.
+
+This book is available on Overdrive at: https://nlb.overdrive.com/media/792220 
+
+**Tip for parents:**
+
+The value of art for children has been commonly articulated, but abstract art is particularly beneficial for them as it allows children to directly express what they see, feel, and experience.
+For parents, engaging in conversations with your child about their artwork allows them to develop communication and cognitive skills. Ask them questions about the colours and shapes used and their feelings when creating it. These conversations will help your child build up their vocabulary and better identify their emotions.
+
+Source: [https://kidspacemuseum.org/for-families-at-home/abstract-painting/] (https://kidspacemuseum.org/for-families-at-home/abstract-painting/) (Last accessed on 23 May 2021) 
 
 The book covers and synopses are the copyright of the respective publishing companies.
 

@@ -55,7 +55,7 @@ Publisher:  Quarry Books
 
 Art Lab for Kids is a refreshing source of wonderful ideas for creating fine art with children. This step-by-step book offers 52 fun and creative art projects set into weekly lessons, beginning with drawing, moving through painting and printmaking, and then building to paper collage and mixed media.
 
-This book is available on Overdrive at: [https://nlb.overdrive.com/media/792220]
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/792220](https://nlb.overdrive.com/media/792220)
 
 **Tips for Parents**
 

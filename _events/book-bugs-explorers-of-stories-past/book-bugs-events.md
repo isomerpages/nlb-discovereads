@@ -7,7 +7,9 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past Events
 
-### Ongoing Events
+### Upcoming Events
+
+Keep an eye on this page for future events to redeem exclusive Book Bugs tokens!
 
 #### Book Bugs Bonanza
 
@@ -85,14 +87,46 @@ If you would still like to do the activity, please click [here](#w2).
 * NLB may at its sole discretion vary these terms and conditions, or discontinue the programme at any time without any notice or liability to any party.
 * Participants agree and consent to being contacted by NLB to obtain feedback about the programme or for publicity purposes.
 * The winners and participants or, in the case of children, their parents or guardians agree to photography and filming of the receipt by winners of their prizes and on any other separate occasion (if agreed to by the participant and NLB) for publicity purposes. NLB shall have the perpetual right to use, exhibit, present, publish and archive such photographs or videos for any purposes without the payment of any fee.
+* 
 
 ### Past Events
+
+#### Book Bugs June Bonanza
+
+<img src="/images/events/bookbugsx/Bonanza Banner Events.png" alt="Book Bugs Bonanza June 2021" style="width: 100%">
+
+**The Book Bugs June Bonanza is now over.** Here are the results and activity sheets for each week. We hope you are inspired by these amazing masterpieces, and will submit your very own for our future events!
+
+**Week 1**
+
+If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>.
+
+These were the top two works:
+
+| Chong Yu | Teo Rui Cheng |
+|:---:|:---:|
+| ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) | ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png)  |
+
+**Chong Yu** won with 55% of the votes! Congratulations!
+
+**Week 2**
+
+If you would still like to do the activity, please click <a href="#w2" target="_blank" rel="noopener noreferrer">here</a>.
+
+| Yap Zhuo Xun | Rashmika Anand |
+|:---:|:---:|
+| ![Yap Zhuo Xun  Bug](/images/events/bookbugsx/Bonanza Week 2A.jpg) | ![Rashmika Anand Bug](/images/events/bookbugsx/Bonanza Week 2B.jpg)  |
+
+**Rashmika Anand** won with 52% of the votes! Congratulations!
+
+**Week 3**
+If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>
 
 #### Book Bugs March Pop-up Event
 
 <img src="/images/events/bookbugsx/Pop-up Banner v2.png" alt="Book Bugs Pop-up Event" style="width: 100%">
 
-**The March Book Bugs: Explorers of Stories Past Pop-up Event is now over**. Keep an eye out for more pop-up events in future to redeem other exclusive Book Bugs tokens! Here is a glimpse of how our Explorers unleashed their creativity at the redemption booths.
+**The March Book Bugs: Explorers of Stories Past Pop-up Event is now over**. Here is a glimpse of how our Explorers unleashed their creativity at the redemption booths.
 
 <img src="/images/events/bookbugsx/BBX Mar Pop-up Collage.png" alt="Book Bugs Pop-up Event Collage" style="width: 100%">
 

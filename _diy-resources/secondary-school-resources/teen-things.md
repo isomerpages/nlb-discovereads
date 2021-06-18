@@ -11,9 +11,23 @@ third_nav_title: Secondary School Resources
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | [![Print-and-Play Boardgames](/images/diyresources/secondary/tt21-button-boardgames.png)](#id2) | [![D.I.Y. Blackout Poetry](/images/diyresources/secondary/tt21-button-poetry.png)](#id3) | ![Coming soon](/images/diyresources/secondary/tt21-button-comingsoon.png) |
+| [![Urban Farming](/images/diyresources/secondary/tt21-button-uf.png)](#id1) | [![Print-and-Play Boardgames](/images/diyresources/secondary/tt21-button-boardgames.png)](#id2) | [![D.I.Y. Blackout Poetry](/images/diyresources/secondary/tt21-button-poetry.png)](#id3) | [![K-Drama Book Recs](/images/diyresources/secondary/tt21-button-kdrama.png)](#id4) |
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)](/diy-resources/secondary/teen-things-archive)
+
+
+<a name="id4">![K-Drama Book Recommendations header](/images/diyresources/secondary/tt21-header-kdb.png)</a>
+#### **K-Drama Book Recommendations**
+
+Annyeong! We’ve all ridden the crest of the K-drama wave late into the night and spent the next day discussing all the details with our friends in fervour. It’s just that exciting. We understand.
+
+As you wait for the next episode to be released, why not dive into some reading? 
+
+Pick your favourite K-drama tropes and get matched with books containing the same heart-pounding thrills and swoons of your OTPs (that’s One True Pairing and not One-Time Password)!
+
+<a href="https://docs.google.com/forms/d/1cmuzHPP9YqmoWPbeDtigqsgtOh6tG-qS4gis9fRPXnA/edit?usp=sharing"><img src="/images/diyresources/secondary/tt-kdb-quiz.png" alt="Link to the K-Drama Book Recommendations quiz." style="width: 80%;"></a><p style="text-align: center;"><sup>Click on the image to access the K-Drama Book Recommendations Quiz!</sup></p>
+
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id3">![D.I.Y. Blackout Poetry header](/images/diyresources/secondary/tt21-header-bp.png)</a>

@@ -11,91 +11,13 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 Keep an eye on this page for future events to redeem exclusive Book Bugs tokens!
 
-#### Book Bugs Bonanza
-
-<img src="/images/events/bookbugsx/Bonanza Banner Events.png" alt="Book Bugs Bonanza June 2021" style="width: 100%">
-
-**Calling All Explorers!**
-
-The Book Bugs Bonanza is happening online over three weeks this June holidays! Do you want exciting Book Bugs rewards like these?
-
-<img src="/images/events/bookbugsx/Bonanza Rewards.png" alt="Book Bugs Bonanza Rewards" style="width: 100%">
-
-Follow the instructions below to receive special rewards.
-
-##### Instructions
-
-**Step 1**: Download and print this week's activity sheet below.
-
-**14 June 2021 to 20 June 2021**
-
-|Chinese-English|Malay-English|Tamil-English|
-|:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Tamil.png" alt="Tamil-English Worksheet"></a>|
-
-**Step 2**: Harness your creativity and complete the activity sheet! If you need help, ask your parents and make it a fun family activity!
-
-**Step 3**: Either take a photo of your completed masterpiece or scan it, and upload the image (in .png, .jpg, .jpeg, or .pdf formats) to the form  below:
-
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/60b44f241f455b00122775ea" target="_blank" rel="noopener noreferrer">here</a>.</div>
-
-<!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/60b44f241f455b00122775ea" style="width:100%;height:500px"></iframe>
-
-<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
-
-All submissions will receive a reward. You must complete the English version to receive a reward. **Bonus rewards will be given to Explorers who also submit the completed Mother Tongue options.**
-
-Each week, the top two submissions will be featured on the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) for public voting for 24 hours. **The public's favourite work will receive extra Book Bugs rewards and a book prize!**
-
-##### Timeline
-
-|**Week** | **Submission Begins** | **Submission Deadline** | **Start of Voting**|
-|:---|:---:|:---:|:---:|
-|Week 1 | 1 June 2021, 0000h | 6 June 2021, 2359h | 8 June 2021 |
-|Week 2 | 7 June 2021, 0000h | 13 June 2021, 2359h | 15 June 2021 |
-|Week 3 | 14 June 2021, 0000h | 20 June 2021, 2359h | 22 June 2021 |
-
-**Week 1 and 2 are now over - find out who won below!** Make sure you check out the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 22 June 2021 to **vote for your favourite Week 3 submission!**
-
-**Week 1**
-
-If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>.
-
-These were the top two works:
-
-| Chong Yu | Teo Rui Cheng |
-|:---:|:---:|
-| ![Chong Yu Bug Tale](/images/events/bookbugsx/Bonanza Week 1A.png) | ![Teo Rui Cheng Bug Tale](/images/events/bookbugsx/Bonanza Week 1B.png)  |
-
-**Chong Yu** won with 55% of the votes! Congratulations!
-
-**Week 2**
-
-If you would still like to do the activity, please click [here](#w2).
-
-| Yap Zhuo Xun | Rashmika Anand |
-|:---:|:---:|
-| ![Yap Zhuo Xun  Bug](/images/events/bookbugsx/Bonanza Week 2A.jpg) | ![Rashmika Anand Bug](/images/events/bookbugsx/Bonanza Week 2B.jpg)  |
-
-**Rashmika Anand** won with 52% of the votes! Congratulations!
-
-##### Terms and Conditions
-* Only one submission per participant per week. Submissions of both the English and Mother Tongue versions of the activity sheets are considered one submission.
-* There will be one winner of the social media contest every week. The winner is selected based on the votes on the Instagram Story poll in the 24 hours that the story is available for viewing.
-* Only entries submitted with personal information will be eligible for the rewards.
-* NLB may at its sole discretion vary these terms and conditions, or discontinue the programme at any time without any notice or liability to any party.
-* Participants agree and consent to being contacted by NLB to obtain feedback about the programme or for publicity purposes.
-* The winners and participants or, in the case of children, their parents or guardians agree to photography and filming of the receipt by winners of their prizes and on any other separate occasion (if agreed to by the participant and NLB) for publicity purposes. NLB shall have the perpetual right to use, exhibit, present, publish and archive such photographs or videos for any purposes without the payment of any fee.
-* 
-
 ### Past Events
 
 #### Book Bugs June Bonanza
 
 <img src="/images/events/bookbugsx/Bonanza Banner Events.png" alt="Book Bugs Bonanza June 2021" style="width: 100%">
 
-**The Book Bugs June Bonanza is now over.** Here are the results and activity sheets for each week. We hope you are inspired by these amazing masterpieces, and will submit your very own for our future events!
+**The Book Bugs June Bonanza is now over, but you can still vote for the Week 3 winner at the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 22 June 2021.** Here are the results and activity sheets for each week. We hope you are inspired by these amazing masterpieces, and will submit your very own for our future events!
 
 **Week 1**
 
@@ -120,7 +42,10 @@ If you would still like to do the activity, please click <a href="#w2" target="_
 **Rashmika Anand** won with 52% of the votes! Congratulations!
 
 **Week 3**
-If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#apr" target="_blank" rel="noopener noreferrer">here</a>
+
+If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#may" target="_blank" rel="noopener noreferrer">here</a>
+
+The submission deadline might be over for Week 3, but you can still vote for the winner! Head over to the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 22 June 2021 to **vote for your favourite Week 3 submission!**
 
 #### Book Bugs March Pop-up Event
 

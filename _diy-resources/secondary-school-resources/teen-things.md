@@ -25,9 +25,8 @@ As you wait for the next episode to be released, why not dive into some reading?
 
 Pick your favourite K-drama tropes and get matched with books containing the same heart-pounding thrills and swoons of your OTPs (that’s One True Pairing and not One-Time Password)!
 
-<a href="https://docs.google.com/forms/d/1cmuzHPP9YqmoWPbeDtigqsgtOh6tG-qS4gis9fRPXnA/edit?usp=sharing"><img src="/images/diyresources/secondary/tt-kdb-quiz.png" alt="Link to the K-Drama Book Recommendations quiz." style="width: 80%;"></a><p style="text-align: center;"><sup>Click on the image to access the K-Drama Book Recommendations Quiz!</sup></p>
-
-<p style="align: left;"><a href="#top"><img src="/images/diyresources/secondary/ttarrowtop.png" alt="Back to top" style="width: 30%;"></a></p>
+<a href="https://docs.google.com/forms/d/1cmuzHPP9YqmoWPbeDtigqsgtOh6tG-qS4gis9fRPXnA/edit?usp=sharing"><img src="/images/diyresources/secondary/tt-kdb-quiz.png" alt="Link to the K-Drama Book Recommendations quiz." style="width: 80%;"></a>
+<p style="text-align: center;"><sup>Click on the image to access the K-Drama Book Recommendations Quiz!</sup></p>
 
 <b><a href="#top">Back to top</a></b>
 

@@ -17,7 +17,7 @@ Keep an eye on this page for future events to redeem exclusive Book Bugs tokens!
 
 <img src="/images/events/bookbugsx/Bonanza Banner Events.png" alt="Book Bugs Bonanza June 2021" style="width: 100%">
 
-**The Book Bugs June Bonanza is now over, but you can still vote for the Week 3 winner at the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 22 June 2021.** Here are the results and activity sheets for each week. We hope you are inspired by these amazing masterpieces, and will submit your very own for our future events!
+**The Book Bugs June Bonanza is now over, but you can still do the activity sheets!** Here are the results and activity sheets for each week. We hope you are inspired by these amazing masterpieces, and will submit your very own for our future events!
 
 **Week 1**
 
@@ -45,7 +45,11 @@ If you would still like to do the activity, please click <a href="#w2" target="_
 
 If you would still like to do the activity, please click <a href="/events/bookbugsx/resources#may" target="_blank" rel="noopener noreferrer">here</a>
 
-The submission deadline might be over for Week 3, but you can still vote for the winner! Head over to the Public Libraries' Instagram Story (<a href="https://www.instagram.com/publiclibrarysg/" target="_blank" rel="noopener noreferrer">@publiclibrarysg</a>) on 22 June 2021 to **vote for your favourite Week 3 submission!**
+| Yap Zhuo Xun | Angad Soni |
+|:---:|:---:|
+| ![Yap Zhuo Xun  Bug](/images/events/bookbugsx/Bonanza Week 3A.jpg) | ![Rashmika Anand Bug](/images/events/bookbugsx/Bonanza Week 3B.jpg)  |
+
+**Yap Zhuo Xun** won with 54% of the votes! Congratulations!
 
 #### Book Bugs March Pop-up Event
 

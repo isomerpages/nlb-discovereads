@@ -12,7 +12,7 @@ third_nav_title: Programmes
 
 | [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
 
-<img src="images/unsorted/teenstakeover/teens-updates.png" alt="updates header" style="width: 50%;">
+<img src="images/unsorted/teenstakeover/teens-updates.png" alt="updates header" style="width: 100%;">
 
 Check out our upcoming **Teens Takeover Libraries Online** sessions [here](/services/programmes/teenstakeover#teenstakeoverlibraries), and look out for our future slate of **Teens Takeover Workshops** [here](/services/programmes/teenstakeover#workshops)!
 

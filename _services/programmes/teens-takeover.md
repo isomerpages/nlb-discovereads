@@ -8,13 +8,17 @@ third_nav_title: Programmes
 ## **Teens Takeover**
 <a href=""><img src="/images/unsorted/teenstakeover/teens-takeover-header-mar21.png" alt="Teens Takeover header" style="width: 100%;"></a>
 
+<img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
+
+**What's on in July 2021!**<br>
+Explore our upcoming sessions for these programmes:
+* [Teens Takeover Libraries](/services/programmes/teenstakeover#teenstakeoverlibraries)
+* [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)
+
+
 **Click on a button to find out more.**
 
 | [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
-
-<img src="images/unsorted/teenstakeover/teens-updates.png" alt="updates header" style="width: 100%;">
-
-Check out our upcoming **Teens Takeover Libraries Online** sessions [here](/services/programmes/teenstakeover#teenstakeoverlibraries), and look out for our future slate of **Teens Takeover Workshops** [here](/services/programmes/teenstakeover#workshops)!
 
 <a name="programmetracks">![Programme Tracks header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!

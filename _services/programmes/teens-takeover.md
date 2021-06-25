@@ -34,13 +34,14 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
 
-* <s>[24 Mar] Conversational Korean, Zoom, 3-4pm [Register now!]</s>
-* <s> [5 May] Conversational Japanese, Zoom, 3-4pm [Register now!]</s>
+* <s>[24 Mar] Conversational Korean, Zoom, Wednesday 3-4pm [Register now!]</s>
+* <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
+*  [17 Jul] Bullet Journalling, Zoom, Saturday 2-3.30pm [Registration TBC]
 
 <img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 30%;">
 
-* <s>[21 Apr] Interview Skills, Zoom, 3-4pm [Register now!]</s>
-* <s>[16 Jun] Interview Skills, Zoom, 3-4pm  [Register now!]</s> 
+* <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
+* <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 

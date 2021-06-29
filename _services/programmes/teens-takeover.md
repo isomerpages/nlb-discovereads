@@ -8,10 +8,17 @@ third_nav_title: Programmes
 ## **Teens Takeover**
 <a href=""><img src="/images/unsorted/teenstakeover/teens-takeover-header-mar21.png" alt="Teens Takeover header" style="width: 100%;"></a>
 
+<img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
+
+**What's on in July 2021!**<br>
+Explore our upcoming sessions for these programmes:
+* [Teens Takeover Libraries](/services/programmes/teenstakeover#teenstakeoverlibraries)
+* [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)
+
+
 **Click on a button to find out more.**
 
 | [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
-
 
 <a name="programmetracks">![Programme Tracks header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!
@@ -27,16 +34,18 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
 
-* <s>[24 March] Conversational Korean, Zoom, 3-4pm [Register now!]</s>
-* <s> [5 May] Conversational Japanese, Zoom, 3-4pm [Register now!]</s>
+* <s>[24 Mar] Conversational Korean, Zoom, Wednesday 3-4pm [Register now!]</s>
+* <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
+*  [17 Jul] Bullet Journalling, Zoom, Saturday 2-3.30pm [Registration TBC]
 
 <img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 30%;">
 
-* <s>[21 April] Interview Skills, Zoom, 3-4pm [Register now!]</s>
-* [16 June] Interview Skills, Zoom, 3-4pm  [Register now!](https://www.eventbrite.sg/e/interview-skills-teens-takeover-workshops-registration-147974719369?aff=ebdsoporgprofile)
+* <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
+* <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
-<p style="text-align: center;">Keep a look out for more programmes under this track!</p>
+
+* [21 Jul] Digital Photography, Zoom, 2-5pm [Registration TBC]
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 <p style="text-align: center;">Keep a look out for more programmes under this track!</p>
@@ -55,8 +64,18 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 
 
 <a name="teenstakeoverlibraries">![Teens Takeover Libraries header](/images/unsorted/teenstakeover/teensheader-ttl.png)</a>
-Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](https://go.gov.sg/teenstakeover-pl).
+<img src="/images/unsorted/teenstakeover/ttl-study-online.png" alt="TTL study online" style="width: 70%;">
 
+* [16 Jul] Study with Me Online, Zoom, Friday 4-6pm [Register here!](https://www.eventbrite.sg/e/study-with-me-online-teens-takeover-libraries-registration-159296900317?aff=ebdsoporgprofile)
+* [17 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here!](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160178964595?aff=ebdssbonlinesearch)
+* [24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here!](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160182380813?aff=ebdssbonlinesearch)
+
+<img src="/images/unsorted/teenstakeover/ttl-downtime-online.png" alt="TTL downtime online" style="width: 70%;">
+
+* [24 Jul] Downtime Online, Zoom, Saturday 2-4pm  [Register here!](https://www.eventbrite.sg/e/downtime-online-teens-takeover-libraries-registration-159297106935?aff=ebdsoporgprofile)
+* [4 Sep] Downtime Online, Zoom, Saturday 2-4pm [Register here!](https://www.eventbrite.sg/e/teens-takeover-libraries-downtime-online-registration-160181498173?aff=ebdssbonlinesearch)
+
+Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](https://www.eventbrite.sg/d/online/teenstakeover/).
 <p style="text-align: center;"><b>NOTE: Exclusively for teens aged 13 to 17, registration is required.</b></p>
 
 <b><a href="#top">Back to top</a></b>

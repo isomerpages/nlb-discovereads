@@ -11,7 +11,21 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 
-#### June 2021 - Asian Cinderellas
+#### July 2021 - Human Tricksters
+
+**English Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgOnwl2xbQML9FyQmJadBXM34Ipki6r_-wypLm1oRJ5ZX4MQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnT3DriQ0QkA0tJn-gqurLM596NChhMrl0HTj5j6B6svRJMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+**Mother Tongue Languages (Chinese, Malay, Tamil) Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3g3ZZmDsUumno10Av8m99uCjaiurODLqf1M3UYgrLT1zifg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiw8ekrThJchxo6fqkIE4VwbA2-VoLx2yr7vwHrDN72gpnLQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+#### June 2021 - Asian Cinderellas (CLOSED)
+
+This quiz has now closed. Points will be awarded by 7 July 2021, Wednesday. All entries received after 30 June 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 
 **English Quiz**
 
@@ -25,7 +39,7 @@ P.S. When you're done with the quizzes and want more Book Bugs-related activitie
 
 #### May 2021 - Magical Objects (CLOSED)
 
-This quiz has now closed. Points will be awarded by 7 June 2021, Monday. All entries received after 31 Ma 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
+This quiz has now closed. Points will be awarded by 7 June 2021, Monday. All entries received after 31 May 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 
 **English Quiz**
 

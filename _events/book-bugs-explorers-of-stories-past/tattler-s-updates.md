@@ -5,7 +5,10 @@ breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-#### 14June 2021
+#### 1 July 2021
+[<img src="/images/events/bookbugsx/1 July 2021 Update.png" alt="June Quiz Closed. Click for July quiz" style="width: 100%" align="left">](/events/bookbugsx/quiz/)
+
+#### 14 June 2021
 [<img src="/images/events/bookbugsx/14 Jun 2021 Update.png" alt="New Land released" style="width: 100%" align="left">](/events/bookbugsx/story/)
 
 #### 1 June 2021

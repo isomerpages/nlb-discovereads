@@ -4,6 +4,7 @@ collections:
     order:
       - a-book-a-day/.keep
       - a-book-a-day/a-book-a-day.md
+      - a-book-a-day/about.md
       - events.md
       - information-session-for-educators-2020-virtual.md
       - book-bugs-ii/.keep

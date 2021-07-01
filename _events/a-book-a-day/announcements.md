@@ -21,10 +21,10 @@ Congratulations to the winners of the “A Book A Day” quarterly lucky draw!
 
 <p style="text-align: center;">January to March 2020</p>
 
-<img src="/images/events/abookaday/Y1%20Q1%20Winner%20Poster.png" style="width:80%"></a>
+<img src="/images/events/abookaday/Y1%20Q1%20Winner%20Poster.png" style="width:40%"></a>
 [January to March 2020 Winners](/files/preschool/Winner%20Poster_updated%2029%20Sept_v2.pdf)
 
 <p style="text-align: center;">January to March 2021</p>
 
-<img src="images/events/abookaday/Y2%20Q1%20Winner%20Poster.png" style="width:80%"></a>
+<img src="/images/events/abookaday/Y2%20Q1%20Winner%20Poster.png" style="width:40%"></a>
 [January to March 2021 Winners](/files/preschool/Y2Q1_Winner%20Poster_4June.pdf)

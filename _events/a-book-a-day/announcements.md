@@ -5,7 +5,6 @@ breadcrumb: A Book A Day
 collection_name: events
 third_nav_title: A Book A Day
 ---
-
 ## **A Book A Day**
 
 ### **Help Us Make it Better!**
@@ -16,4 +15,16 @@ We would like to hear from you on how we can make the “A Book A Day” program
 
 <hr>
 
+### **A Book A Day Lucky Draw Winners**
 
+Congratulations to the winners of the “A Book A Day” quarterly lucky draw!
+
+**<p style="text-align: center;">January to March 2020</p>**
+
+![Alt text for image on Isomer site](/images/events/abookaday/Y1%20Q1%20Winner%20Poster.png)
+[January to March 2020 Winners](/files/preschool/Winner%20Poster_updated%2029%20Sept_v2.pdf)
+
+**<p style="text-align: center;">January to March 2021</p>**
+
+![Alt text for image on Isomer site](/images/events/abookaday/Y2%20Q1%20Winner%20Poster.png)
+[January to March 2021 Winners](/files/preschool/Y2Q1_Winner%20Poster_4June.pdf)

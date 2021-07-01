@@ -12,6 +12,8 @@ We would like to hear from you on how we can make the “A Book A Day” program
 
 <a href="https://go.gov.sg/abookadaysurvey"><img src="/images/events/abookaday/Feedback%20for%20dR.jpg" style="width:40%"></a>
 
+<hr>
+
 ### **About**
 
 <img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">

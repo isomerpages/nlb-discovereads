@@ -64,3 +64,8 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 * [2018](https://drive.google.com/drive/folders/1FIVaxK1siyLMZjHbQ8dA9jzOUsuqnaOY?usp=sharing)
 * [2017](https://drive.google.com/drive/folders/1RCY54rDwkH-e5EtcKZFsoijbPK_fDmDn?usp=sharing)
 * [2016](https://drive.google.com/drive/folders/19puD-lILPJy3ILnI_WYNyeXCvMTrgKzs?usp=sharing)
+
+## Contact Us
+If you have any enquiries, please do not hesitate to drop us an email at earlyread@nlb.gov.sg. 
+
+We hope you enjoy the Activity Toolkits!

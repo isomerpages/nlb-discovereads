@@ -31,9 +31,33 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 
 ### English Inserts 
 
+![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021EnglishCleanandHealthy.PNG)
+
 [Clean and Healthy Me!](/files/preschool/ActivityToolkit2021EnglishCleanandHealthyMe.pdf)
+
+![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021FunLearningOutdoors.PNG)
+
 [Fun Learning Outdoors!](/files/preschool/ActivityToolkit2021EnglishFunLearningOutdoors.pdf)
 
+### Chinese Inserts
+
+![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021ChineseCleanAndHealthyMe.PNG)
+
+[Clean and Healthy Me! Page 1](/files/preschool/ActivityToolkit2021ChineseInsert1Page1.pdf)
+[Clean and Healthy Me! Page 2](/files/preschool/ActivityToolkit2021ChineseInsert1Page2.pdf)
+[Clean and Healthy Me! Page 3](/files/preschool/ActivityToolkit2021ChineseInsert1Page3.pdf)
+[Clean and Healthy Me! Page 4-6](/files/preschool/ActivityToolkit2021ChineseInsert2.pdf)
+
+### Malay Inserts
+![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021MalayAlamdanKejiranan.PNG)
+[Environment and Neighborhood!](/files/preschool/ActivityToolkit2021MalayAlamdanKejiranan.pdf)
+
+### Tamil Inserts
+![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021TamilFunLearningOutdoors.PNG)
+
+[Fun Learning Outdoors!](/files/preschool/ActivityToolkit2021TamilInsert.pdf)
+
+## Archived Activity Toolkits
 
 
 

@@ -222,7 +222,7 @@ Read these dedicated guides for parents and educators.
 
 This guide provides information on how parents can instill a love of reading in their children. 
 
-<a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 40%;"></a>
+<a href="https://drive.google.com/file/d/1Xs9ZJzDQ2Ugex7n4qvIQhRKJNIBtFI34/view"><img src="/images/diyresources/primary/raisingreaders2021.png" alt="Raising readers image" style="width: 40%;"></a>
 
 Topics covered include:
 

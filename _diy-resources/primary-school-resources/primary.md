@@ -10,12 +10,12 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 4 May 2021)_
+_(Updated on 3 Jul 2021)_
 
 **What do you want to do today?**
 
 | [School Holiday Special](#school-holiday-special) | [Storytime](#storytime) | [Quizzes](#quizzes) | [***New!*** Literary Trivia](#literary-trivia) | [Learn About S.T.E.A.M.](#learn-about-steam) |
-| [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
+| [***New!*** Read and Craft](#read-and-craft) | [Read and Share](#read-and-share) | [***New!*** Decorate My Space](#decorate-my-space) | [***New!*** Engage My Child in Reading](#engage-my-child-in-reading) | [Learn to Be S.U.R.E.](#learn-to-be-sure) |
 
 ### **School Holiday Special**
 Click on the icons to find out more!
@@ -218,11 +218,11 @@ Suggested activities to liven up reading corners everywhere!
 ### **Engage My Child in Reading**
 Read these dedicated guides for parents and educators.
 
-**Raising Readers**
+***New!* Raising Readers**
 
 This guide provides information on how parents can instill a love of reading in their children. 
 
-<a href="/images/diyresources/primary/Raising-Readers.PDF"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 40%;"></a>
+<a href="https://drive.google.com/file/d/1Xs9ZJzDQ2Ugex7n4qvIQhRKJNIBtFI34/view"><img src="/images/diyresources/primary/raisingreaders2021.png" alt="Raising readers image" style="width: 40%;"></a>
 
 Topics covered include:
 

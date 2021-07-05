@@ -50,13 +50,13 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 ### **English**
 
-**8 May 2021**
-**A Blue Cat's Tale**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QyMI2OGesRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**22 May 2021**
+**Beverly and the Peranakan Feast**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMY9ePgcq10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**24 Apr 2021**
-**The One and Only Inuka**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5kxQ43WYIpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**16 Jun 2021**
+**Ryan, the Playground Expert**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eO0MBNGpa7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 

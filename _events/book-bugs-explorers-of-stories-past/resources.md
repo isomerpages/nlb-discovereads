@@ -46,7 +46,7 @@ Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related 
 <a name="jul"></a>
 **July 2021**
 
-*Click <a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Word Search Answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to  the June 2021 wordsearch*
+*Click  <a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 What Bug am I Answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the June 2021 What Bug am I activity, and <a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Word Search Answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to  the June 2021 wordsearch.*
 
 This month, we have an exciting activity for you! As you learnt in the quiz, Charmer uses his wit to help catch burglars and solve other problems. This time, he needs your help to decipher a mysterious code left behind by the burglars... 
 

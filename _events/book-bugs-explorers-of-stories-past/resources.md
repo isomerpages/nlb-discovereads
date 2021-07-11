@@ -41,7 +41,22 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) | [June 2021](#jun) |
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) | [June 2021](#jun) | [July 2021](#jul) |
+
+<a name="jul"></a>
+**July 2021**
+
+*Click <a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Word Search Answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to  the June 2021 wordsearch*
+
+This month, we have an exciting activity for you! As you learnt in the quiz, Charmer uses his wit to help catch burglars and solve other problems. This time, he needs your help to decipher a mysterious code left behind by the burglars... 
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji (Chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jul 2021 Decode the Emoji (Chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji (Malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jul 2021 Decode the Emoji (Malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji (Tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jul 2021 Decode the Emoji (Tamil).png" alt="Tamil-English Worksheet"></a>|
+
+Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of the final Land, Marvellous Homes, that you can download! Print it out and unleash your creativity - what colours will you use to bring the Book Bugs to life?
+
+|<a href="/images/events/bookbugsx/files/BBX Marvellous Homes Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX Marvellous Homes Colouring Page A4.png" alt="Marvellous Homes Colouring Sheet" style="width: 50%" align="left"></a>|
 
 <a name="jun"></a>
 **June 2021**

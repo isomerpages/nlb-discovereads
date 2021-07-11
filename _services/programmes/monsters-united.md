@@ -5,7 +5,6 @@ breadcrumb: Monsters United
 collection_name: services
 third_nav_title: Programmes
 ---
-
 ## **Monsters United!**
 
 ![Celebrating HCA image](/images/unsorted/monstersunited/ISOMER-header-HCA.png)
@@ -87,7 +86,7 @@ Click on the images below to start your fang-tastic journey. Have a spook-tacula
 | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts) |
 
 #### **Stories and Tales** <br>
-| [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads) |
+| [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads) |
 
 
 <a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
@@ -95,13 +94,6 @@ Use your wits and help the monsters escape a mysterious library!
 _(Click on the image to begin)_
 
 <a href="https://www.opinionstage.com/content-717/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
-
-
-<a name="the-story-of-king-midas">**The Story of King Midas**</a> <br>
-Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling. <br>
-_(Click on the image to watch the storytelling video)_
-
-<a href="https://www.facebook.com/publiclibrarysg/videos/814990779285352"><img src="/images/unsorted/monstersunited/Rooktober-Storytime.png" alt="Rooktober storytime image" style="width: 60%;"></a>
 
 
 <a name="diy-halloween-wings">**DIY Halloween Wings with Rooky!**</a>  <br>
@@ -178,4 +170,3 @@ Download your very own Adventure Booklets by clicking on the images below! Each 
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
 | <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
-

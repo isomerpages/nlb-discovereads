@@ -5,6 +5,9 @@ breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
+#### 12 July 2021
+[<img src="/images/events/bookbugsx/12 July 2021 Update.png" alt="July resources uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources#printab/)
+
 #### 1 July 2021
 [<img src="/images/events/bookbugsx/1 July 2021 Update.png" alt="June Quiz Closed. Click for July quiz" style="width: 100%" align="left">](/events/bookbugsx/quiz/)
 

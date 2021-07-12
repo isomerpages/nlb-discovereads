@@ -57,7 +57,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
 <p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
-Keep a look out for more NLB's Teens Takeover workshop registration openings [here](https://go.gov.sg/teenstakeover-pl). See you there! 🙂 
+Keep a look out for more NLB's Teens Takeover workshop registration openings [here](https://www.eventbrite.sg/d/online/teenstakeover/). See you there! 🙂 
 
 <p style="text-align: center;"><b>NOTE: Programmes are only for teens aged 13-17 years old.</b></p>
 

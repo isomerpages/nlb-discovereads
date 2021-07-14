@@ -34,8 +34,9 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
 
-* <s>[24 Mar] Conversational Korean, Zoom, Wednesday 3-4pm [Register now!]</s>
+* <s>[24 Mar] Conversational Korean,  Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
+* [14 Aug] Conversational Malay,  Zoom, Saturday 2-3.30pm [Registration TBC]
 
 <img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 30%;">
 
@@ -43,8 +44,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 * <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
-
-* [21 Jul] Digital Photography, Zoom, 2-5pm [Registration TBC]
+<p style="text-align: center;">Keep a look out for more programmes under this track!</p>
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 <p style="text-align: center;">Keep a look out for more programmes under this track!</p>

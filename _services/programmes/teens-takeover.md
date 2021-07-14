@@ -45,7 +45,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 
-* [28 Jul] Digital Photography, Zoom, Wednesday 2-5pm [Registration TBC]
+* [21 Jul] Digital Photography, Zoom, Wednesday 2-5pm [Registration TBC]
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 <p style="text-align: center;">Keep a look out for more programmes under this track!</p>

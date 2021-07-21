@@ -10,7 +10,7 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 3 Jul 2021)_
+_(Updated on 21 Jul 2021)_
 
 **What do you want to do today?**
 

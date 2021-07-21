@@ -49,6 +49,12 @@ _(Click on the icon to find out more!)_
 ### **Literary Trivia**
 Uncover your reading interest and challenge your lit knowledge!
 
+***New!* Librarian's Challenge**<br>
+The Librarian's Challenge is a guide specially created for children to learn more about our public libraries!
+
+| Lower Primary | Upper Primary |
+| <a href="https://drive.google.com/file/d/1voZezvf3VxE8njXGbLBLNjAm7ehSRA8u/view?usp=sharing"><img src="/images/diyresources/primary/lc21-lowerpri.png" alt="Lower Primary Librarian's Challenge 2021" style="width: 60%;"> |  <a href="https://drive.google.com/file/d/13Qgh7D_UjkB4qVjsYfTsLzKKsahJ_R1s/view?usp=sharing"><img src="/images/diyresources/primary/lc21-upperpri.png" alt="Upper Primary Librarian's Challenge 2021" style="width: 60%;"> |
+
 **Reading Interest Profile (15 mins)**
 
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!

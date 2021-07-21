@@ -29,8 +29,10 @@ Click on the icon to find out more!
 ### **Literary Trivia**
 Uncover your reading interest and challenge your lit knowledge!
 
-**Reading Interest Profile (15 mins)**
+***New!* Book of Secrets**
+<a href="https://drive.google.com/file/d/1_rKI-Nf232jufHtPtp_uCMHHKPrSZoRt/view?usp=sharing"><img src="/images/diyresources/secondary/bos21-secondary.png" alt="Book of Secrets 2021" style="width: 60%;"> 
 
+**Reading Interest Profile (15 mins)**<br>
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 |***New!* 2021 Reading Interest Profile Booklets**|

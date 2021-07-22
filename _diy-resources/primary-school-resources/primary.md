@@ -10,7 +10,7 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 3 Jul 2021)_
+_(Updated on 21 Jul 2021)_
 
 **What do you want to do today?**
 
@@ -49,8 +49,13 @@ _(Click on the icon to find out more!)_
 ### **Literary Trivia**
 Uncover your reading interest and challenge your lit knowledge!
 
-**Reading Interest Profile (15 mins)**
+***New!* Librarian's Challenge**<br>
+The Librarian's Challenge is a guide specially created for children to learn more about our public libraries!
 
+| Lower Primary | Upper Primary |
+| <a href="https://drive.google.com/file/d/1voZezvf3VxE8njXGbLBLNjAm7ehSRA8u/view?usp=sharing"><img src="/images/diyresources/primary/lc21-lowerpri.png" alt="Lower Primary Librarian's Challenge 2021" style="width: 60%;"> |  <a href="https://drive.google.com/file/d/13Qgh7D_UjkB4qVjsYfTsLzKKsahJ_R1s/view?usp=sharing"><img src="/images/diyresources/primary/lc21-upperpri.png" alt="Upper Primary Librarian's Challenge 2021" style="width: 60%;"> |
+
+**Reading Interest Profile (15 mins)**<br>
 Not sure which type of books you enjoy reading most? Complete the Reading Interest Profile to find out!
 
 |***New!* 2021 Reading Interest Profile Booklets**|
@@ -68,8 +73,7 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 | <a href="/images/diyresources/primary/RIP_LowerPri_FA.PDF"><img src="/images/diyresources/primary/RIP.png" alt="RIP 2020 Lower Primary" style="width: 50%;"></a> | <a href="/images/diyresources/primary/RIP_UpperPri_FA.PDF"><img src="/images/diyresources/primary/RIPUP.png" alt="RIP 2020 Upper Primary" style="width: 60%;"></a> |
 
 
-**Reading Challenge**
-
+**Reading Challenge**<br>
 Level up your reading game by completing our very own reading challenge:
 
 <a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.PDF"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">

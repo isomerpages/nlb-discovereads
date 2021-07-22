@@ -10,7 +10,7 @@ third_nav_title: Secondary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 4 May 2021)_
+_(Updated on 21 Jul 2021)_
 
 **What do you want to do today?**
 
@@ -29,8 +29,12 @@ Click on the icon to find out more!
 ### **Literary Trivia**
 Uncover your reading interest and challenge your lit knowledge!
 
-**Reading Interest Profile (15 mins)**
+***New!* Book of Secrets**<br>
+Book of Secrets is a guide specially created for teens to learn more about our public libraries.
 
+<a href="https://drive.google.com/file/d/1_rKI-Nf232jufHtPtp_uCMHHKPrSZoRt/view?usp=sharing"><img src="/images/diyresources/secondary/bos21-secondary.png" alt="Book of Secrets 2021" style="width: 40%;"> 
+
+**Reading Interest Profile (15 mins)**<br>
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 |***New!* 2021 Reading Interest Profile Booklets**|

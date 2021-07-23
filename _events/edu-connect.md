@@ -2,6 +2,7 @@
 title: Edu-Connect
 permalink: /events/edu-connect
 ---
+
 ##  Edu-Connect - Information Session for Preschool Educators
 
 Find out all about the services we offer preschools and pick up useful tips on engaging young children. (The following is a recording of an event in May 2021.)

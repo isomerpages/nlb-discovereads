@@ -2,59 +2,56 @@
 title: Early Read Activity Toolkit
 permalink: /activity-toolkit/permalink
 ---
-![Alt text for image on Isomer site](/images/diyresources/preschool/ActivityToolkitThumbnail.png)
+![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Activity%20Toolkit%20Thumbnail.png)
 
 ## About the Activity Toolkit
 
-The Activity Toolkit is a teaching aide designed and curated by the National Library Board's Early Read librarians. It aims to help preschool educators as well as parents educate their children from N1/N2 to K1/K2 on essential reading and writing skills, which will continue to develop as they grow older. 
+The Activity Toolkit is a resource kit for preschool educators developed by the National Library Board. It includes a selection of books and activities chosen to help children develop pre-reading skills and an enjoyment of books and reading. 
 
-The toolkit was first introduced in 2016 and as years pass, our librarians have been working diligently to continually update and improve its contents. 
+The Activity Toolkit is designed to complement preschool curriculum. Preschool educators have the flexibility to share these books at any point during their centres’ curriculum as there is no fixed format in the use of these materials.
 
-The toolkit comes with the following materials:
-1.  Selected English and MTL Books
-2.  English and MTL Lesson Plan Inserts for Guided Learning
-3.  Booklets with Fun Activities to Supplement Learning
+The Activity Toolkit consists of theme-based lesson plans. Six of these themes are based on the pre-reading skills from Every Child Ready to Read Kit, developed by the American Public Library Association and Association for Library Service to Children. Other themes include Children’s Classics, Singapore Stories, Values & Character Building, Growing Up, Information Books and Storytelling. 
 
-The toolkit nurtures your children by developing them according to the [Early Literacy Practices](https://childrenandteens.nlb.gov.sg/diy-resources/preschool/preschool-main):
+Teachers can use these stories to teach universal values, highlight social and emotional developmental milestones, and inculcate a sense of belonging.
+
+The Activity Toolkit comes with the following materials:
+1.	Selected English and MTL books
+2.	English and MTL lesson plans 
+3.	Activity Booklets to supplement learning
+
+We have created this repository of our current and past Activity Toolkits. Preschool educators can download these resources for use at their centres.  The recommended activities are curated based on the  [Early Literacy Practices](https://childrenandteens.nlb.gov.sg/diy-resources/preschool/preschool-main):
 * [Play](https://childrenandteens.nlb.gov.sg/earlylit-play)
 * [Write](https://childrenandteens.nlb.gov.sg/earlylit-write)
 * [Talk](https://childrenandteens.nlb.gov.sg/earlylit-talk)
 * [Sing](https://childrenandteens.nlb.gov.sg/earlylit-sing)
 * [Read](https://childrenandteens.nlb.gov.sg/earlylit-read)
 
-We have created this page specifically for our preschool educators as a repository of all our current and past Activity Toolkits to download as they wish. 
-
 As this is an **unlisted** page specifically for you, please do not **share the link outside of your organization** and **move or delete the files in the Google Drive folders**. 
-
 
 ##    Activity Toolkit 2021
 
 ### English Inserts 
 
-![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021EnglishCleanandHealthy.PNG)
-
+![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/English%20Clean%20and%20Healthy%20Me.PNG)
 [Clean and Healthy Me!](/files/preschool/ActivityToolkit2021EnglishCleanandHealthyMe.pdf)
 
-![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021FunLearningOutdoors.PNG)
-
+![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Fun%20Learning%20Outdoors%20Thumbnail.PNG)
 [Fun Learning Outdoors!](/files/preschool/ActivityToolkit2021EnglishFunLearningOutdoors.pdf)
 
 ### Chinese Inserts
 
-![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021ChineseCleanAndHealthyMe.PNG)
-
+![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Clean%20and%20Healthy%20Me%20Chinese.PNG)
 [Clean and Healthy Me! Page 1](/files/preschool/ActivityToolkit2021ChineseInsert1Page1.pdf)
 [Clean and Healthy Me! Page 2](/files/preschool/ActivityToolkit2021ChineseInsert1Page2.pdf)
 [Clean and Healthy Me! Page 3](/files/preschool/ActivityToolkit2021ChineseInsert1Page3.pdf)
 [Clean and Healthy Me! Page 4-6](/files/preschool/ActivityToolkit2021ChineseInsert2.pdf)
 
 ### Malay Inserts
-![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021MalayAlamdanKejiranan.PNG)
+![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Malay%20Alam%20dan%20Kejiranan.PNG)
 [Environment and Neighborhood!](/files/preschool/ActivityToolkit2021MalayAlamdanKejiranan.pdf)
 
 ### Tamil Inserts
-![Alt text for image on Isomer site](/images/diyresources/preschool/Toolkit2021TamilFunLearningOutdoors.PNG)
-
+![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Tamil%20Fun%20Learning%20Outdoors.PNG)
 [Fun Learning Outdoors!](/files/preschool/ActivityToolkit2021TamilInsert.pdf)
 
 ## Archived Activity Toolkits

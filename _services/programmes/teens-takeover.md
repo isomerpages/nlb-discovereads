@@ -51,7 +51,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
 
-*  [17 Jul] Bullet Journalling, Zoom, Saturday 2-3.30pm [Register now!](https://www.eventbrite.sg/e/bullet-journaling-mind-body-teens-takeover-workshop-online-registration-162530604413?aff=ebdssbonlinesearch)
+*  <s>[17 Jul] Bullet Journalling, Zoom, Saturday 2-3.30pm [Register now!]</s>
 
 
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
@@ -67,13 +67,13 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 <a name="teenstakeoverlibraries">![Teens Takeover Libraries header](/images/unsorted/teenstakeover/teensheader-ttl.png)</a>
 <img src="/images/unsorted/teenstakeover/ttl-study-online.png" alt="TTL study online" style="width: 70%;">
 
-* [16 Jul] Study with Me Online, Zoom, Friday 4-6pm [Register now!](https://www.eventbrite.sg/e/study-with-me-online-teens-takeover-libraries-registration-159296900317?aff=ebdsoporgprofile)
+* <s>[16 Jul] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
 * [17 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160178964595?aff=ebdssbonlinesearch)
 * [24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160182380813?aff=ebdssbonlinesearch)
 
 <img src="/images/unsorted/teenstakeover/ttl-downtime-online.png" alt="TTL downtime online" style="width: 70%;">
 
-* [24 Jul] Downtime Online, Zoom, Saturday 2-4pm  [Register now!](https://www.eventbrite.sg/e/downtime-online-teens-takeover-libraries-registration-159297106935?aff=ebdsoporgprofile)
+* <s>[24 Jul] Downtime Online, Zoom, Saturday 2-4pm  [Register now!]</s>
 * [4 Sep] Downtime Online, Zoom, Saturday 2-4pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-downtime-online-registration-160181498173?aff=ebdssbonlinesearch)
 
 Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](https://www.eventbrite.sg/d/online/teenstakeover/).

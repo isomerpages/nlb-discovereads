@@ -11,7 +11,23 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 
-#### July 2021 - Human Tricksters
+#### August 2021 - Sang Nila Utama
+
+This is the **final quest** and your **last chance** to earn bonus points. Make sure you submit your answers by 31 August 2021, 2359h!
+
+**English Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8z-0WiUBIFysJM8Rx6O01VXoYR7tlS6fneUM0DvbwIky5Ag/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLScApdwPp_tuRRniShk2uNnQ69QbDNE7Y7vclr5UMWtHuz2TLA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+**Mother Tongue Languages (Chinese, Malay, Tamil) Quiz**
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLScPrgyX1at9lPV6RFc10gJd5Pypfr989thaVa_7wDyWDpO3Og/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Basic Quiz (Recommended for Explorers ages 8 and below)</a>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_f30dIKdLXbbsFMCEXixA2u6JRZiePSHmRUZsBhpqEwhy4A/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer">Advanced Quiz (Recommended for Explorers ages 9 and above)</a>
+
+#### July 2021 - Human Tricksters (CLOSED)
+
+This quiz has now closed. Points will be awarded by 6 August 2021, Friday. All entries received after 31 July 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month's quiz to earn bonus reward points!
 
 **English Quiz**
 

@@ -27,6 +27,8 @@ Make this activity more challenging by mixing up colours and produce. For exampl
 **Let’s Travel to Space!** <br>
 Free play or unstructured play helps exercise your child’s creativity and problem-solving skills. Create a spaceship with an old cardboard box or any box that your child can sit in. Get your child to talk to you about what they will need while travelling in space for a week. For any items that cannot be found at home, draw or make them from recyclable materials with your child. 
 
+For more recommended activities, you may check out this article: [Sensory Play For Toddlers Using Household Items](https://porch.com/advice/sensory-play-using-household-items).
+
 ### **Recommended Books**
 
 <img src="/images/diyresources/preschool/MrsPeanucklesFruitAlphabet.jpg" alt="fruit alphabet" style="width:40%">

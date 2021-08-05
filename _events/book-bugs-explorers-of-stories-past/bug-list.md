@@ -99,7 +99,7 @@ P.S. Cards from all Lands will be available for redemption from their release da
 
 #### Marvellous Homes
 
-<img src="/images/events/bookbugsx/Bug List Homes.png" alt="List of Marvellous Homes Bugs" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/Bug List Homes Aug21.png" alt="List of Marvellous Homes Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name|Inspired by|
 |:---:| :----| :--- |
@@ -113,3 +113,4 @@ P.S. Cards from all Lands will be available for redemption from their release da
 | 72 | Brushy | Ma Liang and the Magic Paintbrush |
 | 73 | Lucky | Hang Tuah (legendary warrior of Melaka) |
 | 74 | Charmer | Tenali Raman |
+| NDP21 | August | NDP 2021 mascot |

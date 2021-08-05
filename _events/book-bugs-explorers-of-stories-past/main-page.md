@@ -12,7 +12,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 Welcome to Book Bugs: Explorers of Stories Past! Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
 
-In the past six months, you've gained wisdom from all the Bugs residing in the lush greenery of the Magical Forests, under the waves of the Mysterious Seas, and amongst the peaks and valleys of the Mystical Mountains. You're ready to settle down in the Marvellous Homes and experience some Book Bugs hospitality! 10 new Bugs to discover under these roofs, go on! Oh, and who might that strangely familiar visitor be?
+In the past six months, you've gained wisdom from all the Bugs residing in the lush greenery of the Magical Forests, under the waves of the Mysterious Seas, and amongst the peaks and valleys of the Mystical Mountains. You're ready to settle down in the Marvellous Homes and experience some Book Bugs hospitality! 10 new Bugs to discover under these roofs, go on! You can even collect one of their visitors.
 
 Did you say you still have not encountered all 64 Magical Forests, Mysterious Seas and Mystical Mountains Bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
 

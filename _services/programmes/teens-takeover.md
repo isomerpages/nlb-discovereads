@@ -10,7 +10,12 @@ third_nav_title: Programmes
 
 <img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
 
-**What's on in July 2021!**<br>
+**What's on in August 2021!**<br>
+
+<a href="https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch"><img src="/images/unsorted/teenstakeover/tt-humanlibrary21.png" alt="" style=""></a>
+Register for our very first **Teens Takeover Human Library** [here](https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch)!
+
+
 Explore our upcoming sessions for these programmes:
 * [Teens Takeover Libraries](/services/programmes/teenstakeover#teenstakeoverlibraries)
 * [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)

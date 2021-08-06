@@ -13,7 +13,7 @@ breadcrumb: Our FAQs
 
 You can borrow a whole spectrum of recommended eBooks for Primary and Secondary school students right here. The titles are specially curated by the Read@School team and supplied by OverDrive, a provider of eBooks and Audiobooks.
 
-First, you’ll need a myLibrary User Account to borrow eBooks. Not a registered user? Watch the video for a step-by-step guide and click [here](https://account.nlb.gov.sg/Request) to register.
+First, you’ll need a myLibrary username to borrow eBooks. Not a registered user? Watch the video for a step-by-step guide and click [here](https://account.nlb.gov.sg/Request) to register.
 
 <iframe class="center-youtube" width="880" height="495" src="https://www.youtube.com/embed/glRq4Ndxdy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

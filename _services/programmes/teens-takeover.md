@@ -13,7 +13,7 @@ third_nav_title: Programmes
 **What's on in August 2021!**<br>
 
 <a href="https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch"><img src="/images/unsorted/teenstakeover/tt-humanlibrary21.png" alt="" style=""></a>
-Register for our very first **Teens Takeover Human Library** [here](https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch)!
+<p style="text-align: center;">Register for our very first <b>Teens Takeover Human Library</b> <a href="https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch">here!</a></p>
 
 
 Explore our upcoming sessions for these programmes:

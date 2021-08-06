@@ -73,7 +73,7 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 <img src="/images/unsorted/teenstakeover/ttl-study-online.png" alt="TTL study online" style="width: 70%;">
 
 * <s>[16 Jul] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
-* [6 Aug] Study with Me Online, Zoom, Friday, 4-6pm [Register now!](https://www.eventbrite.sg/e/study-with-me-online-teens-takeover-libraries-registration-162377600775?aff=ebdssbonlinesearch) 
+* <s>[6 Aug] Study with Me Online, Zoom, Friday, 4-6pm [Register now!]</s>
 * [17 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160178964595?aff=ebdssbonlinesearch)
 * [24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160182380813?aff=ebdssbonlinesearch)
 

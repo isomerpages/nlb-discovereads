@@ -32,7 +32,7 @@ The National Archives of Singapore (NAS) is the keeper of records of national or
 
 ### eBooks
 
-OverDrive contains popular English eBooks, audiobooks, music and video titles from a variety of genres and subjects. These eBooks can be downloaded using your myLibrary ID. Check out the FAQs for a step-by-step guide.
+OverDrive contains popular English eBooks, audiobooks, music and video titles from a variety of genres and subjects. These eBooks can be downloaded using your myLibrary username. Check out the FAQs for a step-by-step guide.
 
 TumbleBook Library is a collection of English picture books that comes with animation, music, and narration. These stories are accompanied by quizzes, games and lesson plans. Flash Player is required to read TumbleBooks. Suitable for children aged 4-12 years.
 

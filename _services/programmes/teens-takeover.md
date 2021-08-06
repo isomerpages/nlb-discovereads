@@ -10,7 +10,12 @@ third_nav_title: Programmes
 
 <img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
 
-**What's on in July 2021!**<br>
+**What's on in August 2021!**<br>
+
+<a href="https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch"><img src="/images/unsorted/teenstakeover/tt-humanlibrary21.png" alt="" style=""></a>
+<p style="text-align: center;">Register for our very first <b>Teens Takeover Human Library</b> <a href="https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch">here!</a></p>
+
+
 Explore our upcoming sessions for these programmes:
 * [Teens Takeover Libraries](/services/programmes/teenstakeover#teenstakeoverlibraries)
 * [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)
@@ -68,7 +73,7 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 <img src="/images/unsorted/teenstakeover/ttl-study-online.png" alt="TTL study online" style="width: 70%;">
 
 * <s>[16 Jul] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
-* [6 Aug] Study with Me Online, Zoom, Friday, 4-6pm [Register now!](https://www.eventbrite.sg/e/study-with-me-online-teens-takeover-libraries-registration-162377600775?aff=ebdssbonlinesearch) 
+* <s>[6 Aug] Study with Me Online, Zoom, Friday, 4-6pm [Register now!]</s>
 * [17 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160178964595?aff=ebdssbonlinesearch)
 * [24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register here](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160182380813?aff=ebdssbonlinesearch)
 

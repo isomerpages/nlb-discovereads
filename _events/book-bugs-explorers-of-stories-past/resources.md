@@ -48,7 +48,7 @@ Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related 
 
 *Click  <a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji Answers.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the July 2021 Decode the Emoji activity.*
 
-It's the month of National Day! Have you met the NDP mascot, August, in the Marvellous Homes yet? He has a task for you: and you're going to need the knowledge you have gained from this month's quiz. Can you recreate the discovery of Singapore?
+It's the month of National Day! Have you met the NDP mascot, August, in the Marvellous Homes yet? He has a task for you, and you're going to need the knowledge you have gained from this month's quiz. Can you recreate the discovery of Singapore?
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|

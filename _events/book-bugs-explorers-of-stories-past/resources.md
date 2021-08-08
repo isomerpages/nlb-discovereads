@@ -41,7 +41,18 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
 
-| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) | [June 2021](#jun) | [July 2021](#jul) |
+| [December 2020](#dec) | [January 2021](#jan) | [February 2021](#feb) | [March 2021](#mar) | [April 2021](#apr) | [May 2021](#may) | [June 2021](#jun) | [July 2021](#jul) | [August 2021](#aug) |
+
+<a name="aug"></a>
+**August 2021**
+
+*Click  <a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji Answers.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the July 2021 Decode the Emoji activity.*
+
+It's the month of National Day! Have you met the NDP mascot, August, in the Marvellous Homes yet? He has a task for you: and you're going to need the knowledge you have gained from this month's quiz. Can you recreate the discovery of Singapore?
+
+|Chinese-English|Malay-English|Tamil-English|
+|:---:|:---:|:---:|
+|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Chinese .pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/Aug 2021 Sang Nila Utama Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Tamil.png" alt="Tamil-English Worksheet"></a>|
 
 <a name="jul"></a>
 **July 2021**

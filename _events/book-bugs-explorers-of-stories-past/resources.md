@@ -48,11 +48,11 @@ Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related 
 
 *Click  <a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji Answers.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the July 2021 Decode the Emoji activity.*
 
-It's the month of National Day! Have you met the NDP mascot, August, in the Marvellous Homes yet? He has a task for you: and you're going to need the knowledge you have gained from this month's quiz. Can you recreate the discovery of Singapore?
+It's the month of National Day! Have you met the NDP mascot, August, in the Marvellous Homes yet? He has a task for you, and you're going to need the knowledge you have gained from this month's quiz. Can you recreate the discovery of Singapore?
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Chinese .pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/Aug 2021 Sang Nila Utama Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Tamil.png" alt="Tamil-English Worksheet"></a>|
+|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Tamil.png" alt="Tamil-English Worksheet"></a>|
 
 Why not try a simple craft activity and make your own version of one of the Marvellous Homes Bugs? Shadow was inspired by the traditional form of shadow puppetry, Wayang Kulit. Make your own shadow puppet by following this video!
 

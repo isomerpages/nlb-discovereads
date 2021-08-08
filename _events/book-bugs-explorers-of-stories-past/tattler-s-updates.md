@@ -6,7 +6,7 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 #### 9 August 2021
-[<img src="/images/events/bookbugsx/9 August 2021 Update.png" alt="August resources uploaded" style="width: 100%" align="left">](/events/bookbugsx/redeem/)
+[<img src="/images/events/bookbugsx/9 August 2021 Update.png" alt="August resources uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources#printables/)
 
 #### 6 August 2021
 [<img src="/images/events/bookbugsx/6 August 2021 Update.png" alt="August card available from 6 August" style="width: 100%" align="left">](/events/bookbugsx/redeem/)

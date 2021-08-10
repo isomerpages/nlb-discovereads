@@ -24,7 +24,7 @@ Materials needed:
 * Glue
 * Balloon
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.pdf) full instructions for this craft.
+[Download](/files/preschool/SHS%20Craft%20Instructions_Flutter%20Butterfly.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -72,7 +72,7 @@ Materials needed:
 * Coloured markers
 * Pencil
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.pdf) full instructions for this craft.
+[Download](/files/preschool/SHS%20Craft%20Instructions_Butterfly%20Pencil%20Holder.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -123,6 +123,8 @@ Materials needed:
 * Scissors
 * Coloured marker
 * Coloured paper
+
+[Download](/files/preschool/SHS%20Craft%20Instructions_Paper%20Jellyfish.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 

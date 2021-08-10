@@ -6,6 +6,62 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### **Flutter Butterfly**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWEJHeStci8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Making a butterfly pencil holder!**
+
+Materials needed:
+
+* Coloured paper
+* Toilet roll
+* Scissors
+* Glue
+* Googly eyes
+* Coloured markers
+* Pencil
+
+[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.pdf) full instructions for this craft.
+
+### **Recommended Books**
+
+**Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
+**Author:** Dr Dominic Walliman, Ben Newman <br>
+**Publisher:** Flying Eye Books, 2020. <br>
+
+Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 
+
+**Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
+**Author:** Anne-Marie Pace <br>
+**Publisher:** Beach Lane Books, \[2018\] <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/3441443 <br>
+
+There are so many intriguing eyes out in the world…and so many amazing things for those eyes to see! From a big-eyed bug and a stalk-eyed slug to a side-eyed frog and a wide-eyed dog, the family in this book doesn’t miss a single sight during their busy-eyed day the park.
+
+This rhyming and richly illustrated picture book is a clever and unusual celebration of being observant and keeping an eye out for magic in the everyday world that surrounds us.
+
+**Title:** [Let's Recycle!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203907428) <br>
+**Author:** Jenna Lee Gleisner <br>
+**Publisher:** Jump!, \[2019\] <br>
+
+Reduce. Reuse. Recycle. We hear it all the time, but what does it mean, and how can we do it? Let’s Recycle! shows early fluent readers why it’s important to produce less waste with fun and easy ways they can do it every day. 
+
+Vibrant, full-color photos and carefully leveled text will engage young readers as they learn specific ways they can be environmentally friendly. An activity provides step-by-step instructions for a specific, larger project. Children can learn more about recycling using our safe search engine that provides relevant, age-appropriate websites. Let’s Recycle! also features reading tips for teachers and parents, a table of contents, glossary, and index.
+
+**Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
+**Author:** Nanette Heffernan  <br>
+**Publisher:** Charlesbridge, \[2020\] <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/4857429 <br>
+
+Click flashlights, light lanterns, and get ready to turn electric lights out to celebrate Earth Hour! Wherever you are, you can help our planet.
+
+Kids around the world use electric energy to do all kinds of things–adults do, too! From cleaning the clothes we play in, to lighting up our dinner tables, to keeping us warm and toasty when the weather is cold, electricity is a huge part of our lives. Unfortunately, it can also have a big impact on our planet.
+
+Earth Hour–a worldwide movement in support of energy conservation and sustainability–takes place each March and is sponsored by the World Wildlife Fund for Nature (WWF). During Earth Hour, individuals, communities, and businesses in more than 7,000 cities turn off nonessential electric lights for one hour. Across each continent–from the Eiffel Tower to the Great Wall of China to the Statue of Liberty–one small act reminds all of us of our enormous impact on planet Earth.
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
 ### **Love Our Home**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWEJHeStci8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,12 +97,24 @@ There are so many intriguing eyes out in the world…and so many amazing things 
 
 This rhyming and richly illustrated picture book is a clever and unusual celebration of being observant and keeping an eye out for magic in the everyday world that surrounds us.
 
-**Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
-**Author:** Sandra Markle & Howard Mcwilliam <br>
-**Publisher:** Scholastic Press, 2020. <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/5437531 <br>
+**Title:** [Let's Recycle!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203907428) <br>
+**Author:** Jenna Lee Gleisner <br>
+**Publisher:** Jump!, \[2019\] <br>
 
-What if you woke up one morning, and you suddenly had the superpower of an ocean animal? With zany illustrations and amazing true facts, What If You Could Sniff Like a Shark? Launches a brand-new series from bestselling creators Sandra Markle and Howard McWilliam. 
+Reduce. Reuse. Recycle. We hear it all the time, but what does it mean, and how can we do it? Let’s Recycle! shows early fluent readers why it’s important to produce less waste with fun and easy ways they can do it every day. 
+
+Vibrant, full-color photos and carefully leveled text will engage young readers as they learn specific ways they can be environmentally friendly. An activity provides step-by-step instructions for a specific, larger project. Children can learn more about recycling using our safe search engine that provides relevant, age-appropriate websites. Let’s Recycle! also features reading tips for teachers and parents, a table of contents, glossary, and index.
+
+**Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
+**Author:** Nanette Heffernan  <br>
+**Publisher:** Charlesbridge, \[2020\] <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/4857429 <br>
+
+Click flashlights, light lanterns, and get ready to turn electric lights out to celebrate Earth Hour! Wherever you are, you can help our planet.
+
+Kids around the world use electric energy to do all kinds of things–adults do, too! From cleaning the clothes we play in, to lighting up our dinner tables, to keeping us warm and toasty when the weather is cold, electricity is a huge part of our lives. Unfortunately, it can also have a big impact on our planet.
+
+Earth Hour–a worldwide movement in support of energy conservation and sustainability–takes place each March and is sponsored by the World Wildlife Fund for Nature (WWF). During Earth Hour, individuals, communities, and businesses in more than 7,000 cities turn off nonessential electric lights for one hour. Across each continent–from the Eiffel Tower to the Great Wall of China to the Statue of Liberty–one small act reminds all of us of our enormous impact on planet Earth.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

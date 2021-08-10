@@ -8,57 +8,51 @@ third_nav_title: Preschool Resources
 
 ### **Flutter Butterfly**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWEJHeStci8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FRa8KuhA7Bg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Making a butterfly pencil holder!**
+### **Making a flutter butterfly!**
 
 Materials needed:
 
-* Coloured paper
-* Toilet roll
-* Scissors
-* Glue
-* Googly eyes
-* Coloured markers
+* A piece of cardbord
+* A piece of coloured tissue paper
+* A piece of coloured paper
 * Pencil
+* Scissors
+* A pair of googly eyes
+* Pipe cleaners
+* Glue
+* Balloon
 
 [Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
-**Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
-**Author:** Dr Dominic Walliman, Ben Newman <br>
-**Publisher:** Flying Eye Books, 2020. <br>
+**Title:** [The Truth About Butterflies](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205262074) <br>
+**Author:** Maxwell Eaton III <br>
+**Publisher:** Roaring Brook Press, 2020. <br>
 
-Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 
+This guide to the majestic butterfly walks you through its unique lifecycle and offers anything you ever wanted to know about the colourful insect.
 
-**Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
-**Author:** Anne-Marie Pace <br>
-**Publisher:** Beach Lane Books, \[2018\] <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/3441443 <br>
+**Title:** [A Butterfly Is Patient](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13948388) <br>
+**Author:** Dianna Hutts Aston <br>
+**Publisher:** Chronicle Books, 2011. <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/1377064 <br>
 
-There are so many intriguing eyes out in the world…and so many amazing things for those eyes to see! From a big-eyed bug and a stalk-eyed slug to a side-eyed frog and a wide-eyed dog, the family in this book doesn’t miss a single sight during their busy-eyed day the park.
+The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have teamed up again to create this gorgeous and informative introduction to the world of butterflies. From iridescent blue swallowtails and brilliant orange monarchs to the worlds tiniest butterfly (Western Pygmy Blue) and the largest (Queen Alexandra's Birdwing), an incredible variety of butterflies are celebrated here in all of their beauty and wonder. Perfect for a child's bedroom bookshelf or for a classroom reading circle!
 
-This rhyming and richly illustrated picture book is a clever and unusual celebration of being observant and keeping an eye out for magic in the everyday world that surrounds us.
+**Title:** [My Butterfly Bouquet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205256895) <br>
+**Author:** Nicola Davies <br>
+**Publisher:** Wren & Rook, an imprint of Hachette Children's Group, 2020. <br>
 
-**Title:** [Let's Recycle!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203907428) <br>
-**Author:** Jenna Lee Gleisner <br>
-**Publisher:** Jump!, \[2019\] <br>
+With breath-taking illustrations and a touching story, this dazzling picture book introduces young readers to one of nature's most magnificent and essential insects: the butterfly. See how a little girl recovering from poor health finds wonder in nature and delights in planting a garden with her father to attract a fascinating array of butterflies. Exploring the life stages of butterflies, their importance to our ecosystems and the revitalising power of nature, this book is a heart-warming information story for children who love the outdoors and all its incredible creatures. At the back of the book, discover tips on how to create your own wildlife garden to attract butterflies!
 
-Reduce. Reuse. Recycle. We hear it all the time, but what does it mean, and how can we do it? Let’s Recycle! shows early fluent readers why it’s important to produce less waste with fun and easy ways they can do it every day. 
+**Title:** Señorita Mariposa <br>
+**Author:** Ben Gundersheimer <br>
+**Publisher:** Penguin Young Readers Group, 2019. <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/4470769 <br>
 
-Vibrant, full-color photos and carefully leveled text will engage young readers as they learn specific ways they can be environmentally friendly. An activity provides step-by-step instructions for a specific, larger project. Children can learn more about recycling using our safe search engine that provides relevant, age-appropriate websites. Let’s Recycle! also features reading tips for teachers and parents, a table of contents, glossary, and index.
-
-**Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
-**Author:** Nanette Heffernan  <br>
-**Publisher:** Charlesbridge, \[2020\] <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/4857429 <br>
-
-Click flashlights, light lanterns, and get ready to turn electric lights out to celebrate Earth Hour! Wherever you are, you can help our planet.
-
-Kids around the world use electric energy to do all kinds of things–adults do, too! From cleaning the clothes we play in, to lighting up our dinner tables, to keeping us warm and toasty when the weather is cold, electricity is a huge part of our lives. Unfortunately, it can also have a big impact on our planet.
-
-Earth Hour–a worldwide movement in support of energy conservation and sustainability–takes place each March and is sponsored by the World Wildlife Fund for Nature (WWF). During Earth Hour, individuals, communities, and businesses in more than 7,000 cities turn off nonessential electric lights for one hour. Across each continent–from the Eiffel Tower to the Great Wall of China to the Statue of Liberty–one small act reminds all of us of our enormous impact on planet Earth.
+A captivating and child-friendly look at the extraordinary journey that monarch butterflies take each year from Canada to Mexico; with a text in both English and Spanish. Rhyming text and lively illustrations showcase the epic trip taken by the monarch butterflies. At the end of each summer, these international travelers leave Canada to fly south to Mexico for the winter—and now readers can come along for the ride! Over mountains capped with snow, to the deserts down below. Children will be delighted to share in the fascinating journey of the monarchs and be introduced to the people and places they pass before they finally arrive in the forests that their ancestors called home.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
@@ -83,7 +77,7 @@ Materials needed:
 ### **Recommended Books**
 
 **Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
-**Author:** Dr Dominic Walliman, Ben Newman <br>
+**Author:** Dr Dominic Walliman <br>
 **Publisher:** Flying Eye Books, 2020. <br>
 
 Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 

@@ -6,6 +6,86 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### **Love Our Home**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWEJHeStci8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Making a butterfly pencil holder!**
+
+Materials needed:
+
+* Coloured paper
+* Toilet roll
+* Scissors
+* Glue
+* Googly eyes
+* Coloured markers
+* Pencil
+
+[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.pdf) full instructions for this craft.
+
+### **Recommended Books**
+
+**Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
+**Author:** Dr Dominic Walliman, Ben Newman <br>
+**Publisher:** Flying Eye Books, 2020. <br>
+
+Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 
+
+**Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
+**Author:** Anne-Marie Pace <br>
+**Publisher:** Beach Lane Books, \[2018\] <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/3441443 <br>
+
+There are so many intriguing eyes out in the world…and so many amazing things for those eyes to see! From a big-eyed bug and a stalk-eyed slug to a side-eyed frog and a wide-eyed dog, the family in this book doesn’t miss a single sight during their busy-eyed day the park.
+
+This rhyming and richly illustrated picture book is a clever and unusual celebration of being observant and keeping an eye out for magic in the everyday world that surrounds us.
+
+**Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
+**Author:** Sandra Markle & Howard Mcwilliam <br>
+**Publisher:** Scholastic Press, 2020. <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/5437531 <br>
+
+What if you woke up one morning, and you suddenly had the superpower of an ocean animal? With zany illustrations and amazing true facts, What If You Could Sniff Like a Shark? Launches a brand-new series from bestselling creators Sandra Markle and Howard McWilliam. 
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
+### **Under the Sea Adventure**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYBYwhCamOk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Making a paper jellyfish!**
+
+Materials needed:
+
+* Scissors
+* Coloured marker
+* Coloured paper
+
+### **Recommended Books**
+
+**Title:** [The Pout-Pout Fish and the Bully-Bully Shark](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203978039) <br>
+**Author:** Deborah Diesen <br>
+**Publisher:** Farrar, Straus and Giroux, 2019. 
+**OverDrive Link:** https://nlb.overdrive.com/media/3338352 <br>
+
+Oh no! There's a misbehaving shark at the playground! Swim along with the pout-pout fish as he confronts the challenge of bullying. He just might discover the strength of his community--and the power of his own voice. 
+
+**Title:** [Samson: The Piranha Who Went to Dinner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202800881) <br>
+**Author:** Tadgh Bentley <br>
+**Publisher:** Harpercollins Publisher, 2017.<br>
+
+Wanting to try new things, Samson aspires to sample fine cuisine at fancy restaurants before discovering that the new restaurants in his corner of the sea are not exactly welcoming to customers with big teeth and scary smiles.
+
+**Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
+**Author:** Sandra Markle & Howard Mcwilliam <br>
+**Publisher:** Scholastic Press, 2020. <br>
+**OverDrive Link:** https://nlb.overdrive.com/media/5437531 <br>
+
+What if you woke up one morning, and you suddenly had the superpower of an ocean animal? With zany illustrations and amazing true facts, What If You Could Sniff Like a Shark? Launches a brand-new series from bestselling creators Sandra Markle and Howard McWilliam. 
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
 ### **Amazing Animals**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KZ7SgbNJtO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

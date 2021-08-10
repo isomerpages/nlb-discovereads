@@ -41,7 +41,7 @@ This guide to the majestic butterfly walks you through its unique lifecycle and 
 **Title:** [A Butterfly Is Patient](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13948388) <br>
 **Author:** Dianna Hutts Aston <br>
 **Publisher:** Chronicle Books, 2011. <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/1377064 <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/1377064](https://nlb.overdrive.com/media/1377064) <br>
 
 The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have teamed up again to create this gorgeous and informative introduction to the world of butterflies. From iridescent blue swallowtails and brilliant orange monarchs to the worlds tiniest butterfly (Western Pygmy Blue) and the largest (Queen Alexandra's Birdwing), an incredible variety of butterflies are celebrated here in all of their beauty and wonder. Perfect for a child's bedroom bookshelf or for a classroom reading circle!
 
@@ -58,7 +58,7 @@ With breath-taking illustrations and a touching story, this dazzling picture boo
 **Title:** Señorita Mariposa <br>
 **Author:** Ben Gundersheimer <br>
 **Publisher:** Penguin Young Readers Group, 2019. <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/4470769 <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/4470769](https://nlb.overdrive.com/media/4470769) <br>
 
 A captivating and child-friendly look at the extraordinary journey that monarch butterflies take each year from Canada to Mexico; with a text in both English and Spanish. Rhyming text and lively illustrations showcase the epic trip taken by the monarch butterflies. At the end of each summer, these international travelers leave Canada to fly south to Mexico for the winter—and now readers can come along for the ride! Over mountains capped with snow, to the deserts down below. Children will be delighted to share in the fascinating journey of the monarchs and be introduced to the people and places they pass before they finally arrive in the forests that their ancestors called home.
 
@@ -97,7 +97,7 @@ Despite covering over 70% of the Earth’s surface, the ocean is still roughly 9
 **Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
 **Author:** Anne-Marie Pace <br>
 **Publisher:** Beach Lane Books, \[2018\] <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/3441443 <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3441443](https://nlb.overdrive.com/media/3441443) <br>
 
 There are so many intriguing eyes out in the world…and so many amazing things for those eyes to see! From a big-eyed bug and a stalk-eyed slug to a side-eyed frog and a wide-eyed dog, the family in this book doesn’t miss a single sight during their busy-eyed day the park.
 
@@ -118,7 +118,7 @@ Vibrant, full-color photos and carefully leveled text will engage young readers 
 **Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
 **Author:** Nanette Heffernan  <br>
 **Publisher:** Charlesbridge, \[2020\] <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/4857429 <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/4857429](https://nlb.overdrive.com/media/4857429) <br>
 
 Click flashlights, light lanterns, and get ready to turn electric lights out to celebrate Earth Hour! Wherever you are, you can help our planet.
 
@@ -148,8 +148,8 @@ Materials needed:
 
 **Title:** [The Pout-Pout Fish and the Bully-Bully Shark](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203978039) <br>
 **Author:** Deborah Diesen <br>
-**Publisher:** Farrar, Straus and Giroux, 2019. 
-**OverDrive Link:** https://nlb.overdrive.com/media/3338352 <br>
+**Publisher:** Farrar, Straus and Giroux, 2019. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3338352](https://nlb.overdrive.com/media/3338352) <br>
 
 Oh no! There's a misbehaving shark at the playground! Swim along with the pout-pout fish as he confronts the challenge of bullying. He just might discover the strength of his community--and the power of his own voice. 
 
@@ -166,7 +166,7 @@ Wanting to try new things, Samson aspires to sample fine cuisine at fancy restau
 **Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
 **Author:** Sandra Markle & Howard Mcwilliam <br>
 **Publisher:** Scholastic Press, 2020. <br>
-**OverDrive Link:** https://nlb.overdrive.com/media/5437531 <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5437531](https://nlb.overdrive.com/media/5437531) <br>
 
 What if you woke up one morning, and you suddenly had the superpower of an ocean animal? With zany illustrations and amazing true facts, What If You Could Sniff Like a Shark? Launches a brand-new series from bestselling creators Sandra Markle and Howard McWilliam. 
 
@@ -194,7 +194,7 @@ Materials needed:
 
 **Title:** [Platypuses](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203180907) <br>
 **Author:** Sara Louise Kras <br>
-**Publisher:** Capstone Press, 2019 <br>
+**Publisher:** Capstone Press, 2019. <br>
 
 Platypuses live only in Australia. Learn all about these unusual, duck billed divers and their habitats in Platypuses. Bring augmented reality to your students by downloading the free Capstone 4D app and scanning for access to an online article, video, and discussion questions. This item is a Capstone Duo and includes both a hardcover and Capstone Interactive eBook edition of the title.
 
@@ -203,7 +203,7 @@ Platypuses live only in Australia. Learn all about these unusual, duck billed di
 **Title:** [10 Reasons To Love a Penguin](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203163242) <br>
 **Author:** Catherine Barr <br>
 **Illustrator:** Hanako Clulow <br>
-**Publisher:** Lincoln Children's Books, 2018 <br>
+**Publisher:** Lincoln Children's Books, 2018. <br>
 
 Penguins are the cutest birds! Did you know that they go on incredible journeys? Or that they toboggan on their stomachs? Discover ten reasons why penguins are amazing and five ways you can show they love them in this gorgeous picture book. A must for any young animal enthusiast and a fantastic introduction to environmental issues.
 
@@ -211,7 +211,7 @@ Penguins are the cutest birds! Did you know that they go on incredible journeys?
 
 **Title:** [Emperor Penguins](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203976820) <br>
 **Author:** Jody S. Rake<br>
-**Publisher:** Pebble, a Capstone imprint, 2020 <br>
+**Publisher:** Pebble, a Capstone imprint, 2020. <br>
 
 Emperor penguins are known as the largest of all penguins. Find out more about this flightless, but quick swimming bird.
 
@@ -219,7 +219,7 @@ Emperor penguins are known as the largest of all penguins. Find out more about t
 
 **Title:** [Snowy Owls](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094041) <br>
 **Author:** Rita Santos<br>
-**Publisher:** Enslow Publishing, 2020 <br>
+**Publisher:** Enslow Publishing, 2020. <br>
 
 The nomadic snowy owl is among the Arctic's most graceful predators. It makes its home in the frigid north, relying on its heavy feathers and snowy white appearance for survival in the subzero temperatures. With full-color photographs and accessible text, this book examines how the snowy owl's life cycle, body structure, and behaviors have adapted to its challenging environment. Fun facts will engage young readers, and a final activity encourages them to use what they've learned to create a food web based on the snowy owl.
 
@@ -246,7 +246,7 @@ Materials needed:
 
 **Title:** [A Trip to The Top of The Volcano With Mouse: A Toon Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203938138) <br>
 **Author:** Frank Viva <br>
-**Publisher:** Toon Books, 2019 <br>
+**Publisher:** Toon Books, 2019. <br>
 
 A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar landscapes and snow-capped peaks, then return to the ancient city at the bottom.
 
@@ -254,7 +254,7 @@ A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar l
 
 **Title:** [Old Rock (Is Not Boring)](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204382095) <br>
 **Author:** Deb Pilutti <br>
-**Publisher:** G.P. Putnam's Sons, 2020 <br>
+**Publisher:** G.P. Putnam's Sons, 2020. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/4716401](https://nlb.overdrive.com/media/4716401) <br>
 
 Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is boring until Old Rock shares what he has seen and done since he first flew out of a volcano.
@@ -263,7 +263,7 @@ Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is bori
 
 **Title:** [Spenser And The Rocks](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201153144) <br>
 **Author:** Lawrence F Lowery <br>
-**Publisher:** NSTA Kids, National Science Teachers Association, 2013 <br>
+**Publisher:** NSTA Kids, National Science Teachers Association, 2013. <br>
 
 The heart of the story is a young boy named Spenser and his interests, curiosity, and thoughts. Through the story, the reader is introduced to scientific procedures such as classification, research, and reclassification. Spenser's interest in rocks increases as he learns more about them by sorting the rocks, asking questions, and reading reference books.
 
@@ -271,7 +271,7 @@ The heart of the story is a young boy named Spenser and his interests, curiosity
 
 **Title:** [A Rock Can Be...](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202612456) <br>
 **Author:** Laura Purdie Salas and Violeta Dabija <br>
-**Publisher:** Millbrook Press, 2015 <br>
+**Publisher:** Millbrook Press, 2015. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/2077338](https://nlb.overdrive.com/media/2077338) <br>
 
 Rocks may seem like boring, static objects--until you discover that a rock can spark a fire, glow in the dark, and provide shelters of all shapes and size. Learn how rocks decorate and strengthen the world around them.
@@ -302,7 +302,7 @@ Materials needed:
 
 **Title:** [Oh, No!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14645478) <br>
 **Author:** Candace Fleming & Eric Rohmann <br>
-**Publisher:** Schwartz & Wade Books, c2012 <br>
+**Publisher:** Schwartz & Wade Books, c2012. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3015120](https://nlb.overdrive.com/media/3015120)<br>
 
 Young children will delight in repeating the refrain “OH NO!” as one animal after another falls into a deep, deep hole in this lively read-aloud. This simple and irresistible picture book by hugely popular picture book creators – Candace Fleming and Caldecott medallist Eric Rohmann – feels like a classic-in-the-making. Fans of Rohmann’s Caldecott Medal-winning My Friend Rabbit will be thrilled to see a new book created in the same expressive and comical style.
@@ -311,7 +311,7 @@ Young children will delight in repeating the refrain “OH NO!” as one animal 
 
 **Title:** [My Book of Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203786772) <br>
 **Author:** Nik Afia <br>
-**Publisher:** Windmill Books, 2019 <br>
+**Publisher:** Windmill Books, 2019. <br>
 
 The Animal Kingdom is a wild place. It’s home to enormous blue whales and fluttery butterflies, spotty leopards, and wriggly jellyfish. In this engaging book, readers will meet a menageries of adorable creatures in all shapes and sizes. They’ll explore pages of stunning illustrations as they learn basic animal words. Fun, simple questions engage readers and foster confidence. Learning will feel like a game as beginning readers peruse his zoo of animals. This high-interest topic and playful design will intrigue even reluctant readers, making it a valuable addition to any library or classroom.
 
@@ -350,7 +350,7 @@ Takes a close look at a garden, describing the plants, insects, and birds and th
 
 **Title:** [Caterpillar and Bean](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203878309) <br>
 **Author:** Martin Jenkins <br>
-**Publisher:** Candlewick Press, 2019 <br>
+**Publisher:** Candlewick Press, 2019. <br>
 
 What’s that wedged in a crack in the ground, small and hard and wrinkly and brown? A bean seed! Soon it develops roots and leaves. And what’s that on the leaf? An egg! The egg hatches a caterpillar, and the caterpillar eats the leaves, getting bigger and bigger until it forms a chrysalis. Meanwhile, the plant is growing, too: it develops flowers, then bean pods, as it reaches up toward the sun. Side by side, plant and insect grow . . . and grow . . . and grow throughout the year, until they come full circle.
 

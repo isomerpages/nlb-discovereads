@@ -28,11 +28,15 @@ Materials needed:
 
 ### **Recommended Books**
 
+<img src="/images/diyresources/preschool/The%20Truth%20About%20Butterflies.jpg" alt="the truth about butterflies" style="width:40%">
+
 **Title:** [The Truth About Butterflies](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205262074) <br>
 **Author:** Maxwell Eaton III <br>
 **Publisher:** Roaring Brook Press, 2020. <br>
 
 This guide to the majestic butterfly walks you through its unique lifecycle and offers anything you ever wanted to know about the colourful insect.
+
+<img src="/images/diyresources/preschool/A%20Butterfly%20Is%20Patient.jpg" alt="a butterfly is patient" style="width:40%">
 
 **Title:** [A Butterfly Is Patient](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13948388) <br>
 **Author:** Dianna Hutts Aston <br>
@@ -41,11 +45,15 @@ This guide to the majestic butterfly walks you through its unique lifecycle and 
 
 The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have teamed up again to create this gorgeous and informative introduction to the world of butterflies. From iridescent blue swallowtails and brilliant orange monarchs to the worlds tiniest butterfly (Western Pygmy Blue) and the largest (Queen Alexandra's Birdwing), an incredible variety of butterflies are celebrated here in all of their beauty and wonder. Perfect for a child's bedroom bookshelf or for a classroom reading circle!
 
+<img src="/images/diyresources/preschool/My%20Butterfly%20Bouquet.jpg" alt="my butterfuly bouquet" style="width:40%">
+
 **Title:** [My Butterfly Bouquet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205256895) <br>
 **Author:** Nicola Davies <br>
 **Publisher:** Wren & Rook, an imprint of Hachette Children's Group, 2020. <br>
 
 With breath-taking illustrations and a touching story, this dazzling picture book introduces young readers to one of nature's most magnificent and essential insects: the butterfly. See how a little girl recovering from poor health finds wonder in nature and delights in planting a garden with her father to attract a fascinating array of butterflies. Exploring the life stages of butterflies, their importance to our ecosystems and the revitalising power of nature, this book is a heart-warming information story for children who love the outdoors and all its incredible creatures. At the back of the book, discover tips on how to create your own wildlife garden to attract butterflies!
+
+<img src="/images/diyresources/preschool/Senorita%20Mariposa.jpg" alt="Señorita Mariposa" style="width:40%">
 
 **Title:** Señorita Mariposa <br>
 **Author:** Ben Gundersheimer <br>
@@ -76,11 +84,15 @@ Materials needed:
 
 ### **Recommended Books**
 
+<img src="/images/diyresources/preschool/Deep%20Sea%20Voyage.jpg" alt="deep sea voyage" style="width:40%">
+
 **Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
 **Author:** Dr Dominic Walliman <br>
 **Publisher:** Flying Eye Books, 2020. <br>
 
 Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 
+
+<img src="/images/diyresources/preschool/Busy%20Eyed%20Day.jpg" alt="busy eyed day" style="width:40%">
 
 **Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
 **Author:** Anne-Marie Pace <br>
@@ -91,6 +103,8 @@ There are so many intriguing eyes out in the world…and so many amazing things 
 
 This rhyming and richly illustrated picture book is a clever and unusual celebration of being observant and keeping an eye out for magic in the everyday world that surrounds us.
 
+<img src="/images/diyresources/preschool/Lets%20Recycle.jpg" alt="lets recycle" style="width:40%">
+
 **Title:** [Let's Recycle!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203907428) <br>
 **Author:** Jenna Lee Gleisner <br>
 **Publisher:** Jump!, \[2019\] <br>
@@ -98,6 +112,8 @@ This rhyming and richly illustrated picture book is a clever and unusual celebra
 Reduce. Reuse. Recycle. We hear it all the time, but what does it mean, and how can we do it? Let’s Recycle! shows early fluent readers why it’s important to produce less waste with fun and easy ways they can do it every day. 
 
 Vibrant, full-color photos and carefully leveled text will engage young readers as they learn specific ways they can be environmentally friendly. An activity provides step-by-step instructions for a specific, larger project. Children can learn more about recycling using our safe search engine that provides relevant, age-appropriate websites. Let’s Recycle! also features reading tips for teachers and parents, a table of contents, glossary, and index.
+
+<img src="/images/diyresources/preschool/Earth%20Hour.jpg" alt="earth hour" style="width:55%">
 
 **Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
 **Author:** Nanette Heffernan  <br>
@@ -128,6 +144,8 @@ Materials needed:
 
 ### **Recommended Books**
 
+<img src="/images/diyresources/preschool/The%20Pout%20Pout%20Fish.jpg" alt="pout pout fish and bully bully shark" style="width:40%">
+
 **Title:** [The Pout-Pout Fish and the Bully-Bully Shark](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203978039) <br>
 **Author:** Deborah Diesen <br>
 **Publisher:** Farrar, Straus and Giroux, 2019. 
@@ -135,11 +153,15 @@ Materials needed:
 
 Oh no! There's a misbehaving shark at the playground! Swim along with the pout-pout fish as he confronts the challenge of bullying. He just might discover the strength of his community--and the power of his own voice. 
 
+<img src="/images/diyresources/preschool/Samson.jpg" alt="samson the piranha" style="width:40%">
+
 **Title:** [Samson: The Piranha Who Went to Dinner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202800881) <br>
 **Author:** Tadgh Bentley <br>
 **Publisher:** Harpercollins Publisher, 2017.<br>
 
 Wanting to try new things, Samson aspires to sample fine cuisine at fancy restaurants before discovering that the new restaurants in his corner of the sea are not exactly welcoming to customers with big teeth and scary smiles.
+
+<img src="/images/diyresources/preschool/What%20if%20you%20could%20sniff%20like%20a%20shark.jpg" alt="Sniff like shark" style="width:40%">
 
 **Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
 **Author:** Sandra Markle & Howard Mcwilliam <br>

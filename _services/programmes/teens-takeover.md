@@ -41,7 +41,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * <s>[24 Mar] Conversational Korean,  Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
-* [14 Aug] Conversational Malay,  Zoom, Saturday 2-3.30pm [Registration TBC]
+* [14 Aug] Conversational Malay,  Zoom, Saturday 3-4.30pm [Register now!](https://www.eventbrite.sg/e/conversational-malay-rewrite-teens-takeover-registration-166588595975?aff=ebdssbonlinesearch)
 
 <img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 30%;">
 

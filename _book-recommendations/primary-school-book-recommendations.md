@@ -71,13 +71,13 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 			<b><i>*New!</i> Tamil Reading Posters</b><a href="https://drive.google.com/file/d/12l215dOzaYIr_KpumoKPM765VUfeh2mq/view?usp=drivesdk"><img src="/images/mtl-tamil/Tamil_ReadingPosters.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Activities Primary 1 & 2</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP1_P2.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP1_P2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b><i>*New!</i> Tamil Reading Activities (Primary 1 & 2)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP1_P2.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP1_P2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Activities Primary 3 & 4</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP3_P4.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP3_P4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b><i>*New!</i> Tamil Reading Activities (Primary 3 & 4)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP3_P4.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP3_P4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 		<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Activities Primary 5 & 6</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP5_P6.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP5_P6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b><i>*New!</i> Tamil Reading Activities (Primary 5 & 6)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP5_P6.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP5_P6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
 			<b><i>*New!</i> Tamil Read Swap Share Booklet</b><a href="/files/mtl-tamil/Tamil_ReadSwapShareBooklet.PDF"><img src="/images/mtl-tamil/Tamil_ReadSwapShare.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>

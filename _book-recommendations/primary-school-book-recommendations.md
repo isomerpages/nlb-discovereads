@@ -7,10 +7,9 @@ collection_name: book-recommendations
 
 This page is best viewed on your desktop.
 
-| **[English](#english-reading-lists) | [Chinese](#chinese) |
-| [Malay](#malay) | [Tamil](#tamil)** |
+| [English](#english-reading-lists) | [Chinese](#chinese) | [Malay](#malay) | [Tamil](#tamil) |
 
-##### English Reading Lists
+#### **English Reading Lists**
 **Suggested Reads (Updated: April 2020)**
 
 Click on the thumbnail to download the latest Suggested Reads.
@@ -44,8 +43,8 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
 
 
-##### Mother Tongue Reading Lists
-**Chinese**
+#### Mother Tongue Reading Lists
+##### **Chinese**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 </div><div class="image-container" style="margin: auto;">
@@ -53,7 +52,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 	</div>
 	</div></div>
 	
-**Malay**
+##### **Malay**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">
@@ -61,7 +60,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 	</div>
 	</div></div>
 
-**Tamil**
+##### **Tamil**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">

@@ -7,7 +7,8 @@ collection_name: book-recommendations
 
 This page is best viewed on your desktop.
 
-| [English](#english-reading-lists) | [Chinese](#chinese) | [Malay](#malay) | [Tamil](#tamil) |
+| **[English](#english-reading-lists) | [Chinese](#chinese) |
+| [Malay](#malay) | [Tamil](#tamil)** |
 
 ##### English Reading Lists
 **Suggested Reads (Updated: April 2020)**
@@ -44,25 +45,23 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 
 ##### Mother Tongue Reading Lists
-**Chinese Reading Lists**
+**Chinese**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 </div><div class="image-container" style="margin: auto;">
 	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
-	</div>
-	</div>
+	</div></div>
 	
-**Malay Reading Lists**
+**Malay**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">
 		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
 	</div>
-	</div>
-	</div>
+	</div></div>
 
-**Tamil Reading Lists**
+**Tamil**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">

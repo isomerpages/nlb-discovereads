@@ -1,5 +1,5 @@
 ---
-title: Teens Takeover
+title: Teens Takeover 
 permalink: services/programmes/teenstakeover
 breadcrumb: Teens Takeover
 collection_name: services
@@ -23,7 +23,7 @@ Explore our upcoming sessions for these programmes:
 
 **Click on a button to find out more.**
 
-| [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](#teenthings) |
+| [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](/diy-resources/secondary/teen-things) |
 
 <a name="programmetracks">![Programme Tracks header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!
@@ -88,8 +88,3 @@ Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](https
 
 <b><a href="#top">Back to top</a></b>
 
-
-<a name="teenthings">[![Teen.Things header](/images/unsorted/teenstakeover/teensheader-tt.png)](/diy-resources/secondary/teen-things)</a>
-<p style="text-align: center;">Click on the image to check out our school holiday content packages!</p>
-
-<b><a href="#top">Back to top</a></b>

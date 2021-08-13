@@ -7,6 +7,9 @@ collection_name: book-recommendations
 
 This page is best viewed on your desktop.
 
+| [English](#english-reading-lists) | [Chinese](#chinese) | [Malay](#malay) | [Tamil](#tamil) |
+
+##### English Reading Lists
 **Suggested Reads (Updated: April 2020)**
 
 Click on the thumbnail to download the latest Suggested Reads.
@@ -30,8 +33,7 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 
 **Easy-to-Read Booklist**
-
-<a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717" style="width: 40%;"></a>
+<a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
 
 **Asian Festival for Children’s Content (AFCC) Reading List**
 
@@ -41,22 +43,50 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
 
 
-**Mother Tongue Reading Lists**
+##### Mother Tongue Reading Lists
+**Chinese Reading Lists**
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
+</div><div class="image-container" style="margin: auto;">
+	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
+	</div>
+	</div>
+	</div>
+	
+**Malay Reading Lists**
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
+<div class="image-container" style="margin: auto;">
+		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
+	</div>
+	</div>
+	</div>
 
+**Tamil Reading Lists**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">
 			<b><i>*New!</i> Tamil Children's Reading Guide 2021</b><a href="/files/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div><div class="image-container" style="margin: auto;">
-	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
+			<b><i>*New!</i> Tamil Reading Posters</b><a href="https://drive.google.com/file/d/12l215dOzaYIr_KpumoKPM765VUfeh2mq/view?usp=drivesdk"><img src="/images/mtl-tamil/Tamil_ReadingPosters.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Activities Primary 1 & 2</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP1_P2.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP1_P2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Activities Primary 3 & 4</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP3_P4.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP3_P4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Activities Primary 5 & 6</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP5_P6.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP5_P6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Read Swap Share Booklet</b><a href="/files/mtl-tamil/Tamil_ReadSwapShareBooklet.PDF"><img src="/images/mtl-tamil/Tamil_ReadSwapShare.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
 		<b>Past Tamil Graded Reading List</b><a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>
 	</div>
-</div>
-</div>
+	</div>
+	</div>
 
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

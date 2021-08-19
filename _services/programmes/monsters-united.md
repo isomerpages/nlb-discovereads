@@ -31,26 +31,26 @@ For more trivia, fun facts and book recommendations, follow our Instagram page, 
 Enjoy Hans Christian Andersen's classic fairy tales at our Public Libraries! Join us in these exclusive storytelling sessions for 4-6 year olds, and Super Storytastic sessions for 7-10 year olds. <br>
 _(Click on the image to find a session.)_
 
-<a href="https://go.gov.sg/hcastorytelling"><img src="/images/unsorted/monstersunited/HCA-ST-SST.png" alt="HCA Storytelling" style="width: 60%;"></a>
+<a href="https://go.gov.sg/hcastorytelling"><img style="width: 60%;" alt="HCA Storytelling" src="/images/unsorted/monstersunited/HCA-ST-SST.png"></a>
 
 
 <a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
 _(Click on the image to watch the video.)_
 
-<a href="https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png" alt="Intro to HCA thumbnail" style="width: 60%;"></a>
+<a href="https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img style="width: 60%;" alt="Intro to HCA thumbnail" src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png"></a>
 
 <a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
 Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
 _(Click on the image to watch the video.)_
 
-<a href="https://www.facebook.com/350031092062650/videos/275941697452300/"><img src="/images/unsorted/monstersunited/HCA Storytime title card.png" alt="HCA storytime thumbnail" style="width: 60%;"></a>
+<a href="https://www.facebook.com/350031092062650/videos/275941697452300/"><img style="width: 60%;" alt="HCA storytime thumbnail" src="/images/unsorted/monstersunited/HCA Storytime title card.png"></a>
 
 <a name="fantasy-reads">**Fantasy Reads**</a> <br>
 Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>
 _(Click on the image.)_
 
-<a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.pdf"><img src="/images/unsorted/monstersunited/HCA-Booklist-cover.png" alt="Fantasy eReads" style="width: 60%;" /></a>
+<a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.pdf"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
 
 
 <a name="activity-packages">**Activity Packages**</a> <br>
@@ -86,14 +86,14 @@ Click on the images below to start your fang-tastic journey. Have a spook-tacula
 | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts) |
 
 #### **Stories and Tales** <br>
-| [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads) |
+| [Gods &amp; Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads) |
 
 
 <a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
 Use your wits and help the monsters escape a mysterious library!
 _(Click on the image to begin)_
 
-<a href="https://www.opinionstage.com/content-717/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
+<a href="https://www.opinionstage.com/content-717/rooktober-fest-the-great-library-escape"><img style="width: 60%;" alt="Rooktober escape room image" src="/images/unsorted/monstersunited/00.png"></a>
 
 
 <a name="diy-halloween-wings">**DIY Halloween Wings with Rooky!**</a>  <br>
@@ -110,7 +110,7 @@ You will need:
 * A piece of paper and pen/pencil
 * Any other crafts materials for decorations
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/01744B7EH_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center></center>
 
 Click on the links below to borrow Rooky’s eBook picks:
 
@@ -119,39 +119,39 @@ Click on the links below to borrow Rooky’s eBook picks:
 * [The Monsters’ Monster](http://go.gov.sg/uoijyc) by Patrick McDonnell
 
 
-<a name="gods-mythologies">**Gods & Mythologies From Around the World**</a>  <br>
+<a name="gods-mythologies">**Gods &amp; Mythologies From Around the World**</a>  <br>
 Find out about interesting myths and stories from around the world.  <br>
 _(Click on the image to begin)_
 
-<a href="https://go.gov.sg/nlb-rooktober2020-myths"><img src="/images/unsorted/monstersunited/Gods-and-Myths.png" alt="Gods & myths around the world image" style="width: 60%;"></a>
+<a href="https://go.gov.sg/nlb-rooktober2020-myths"><img style="width: 60%;" alt="Gods &amp; myths around the world image" src="/images/unsorted/monstersunited/Gods-and-Myths.png"></a>
 
 
 <a name="mythical-creatures">**Mythical Creatures From Around the World**</a> <br>
 Come delve into the wonderful, weird, and sometimes wacky world of monsters. <br>
 _(Click on the image to begin)_
 
-<a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img src="/images/unsorted/monstersunited/Mythical-Creatures.png" alt="Mythical creatures image" style="width: 60%;"></a>
+<a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img style="width: 60%;" alt="Mythical creatures image" src="/images/unsorted/monstersunited/Mythical-Creatures.png"></a>
 
 
 <a name="halloween-jokes">**Halloween Jokes to Share!**</a> <br>
 Tickle your funny bone and keep your spirits high with these Halloween-themed jokes.  <br>
 _(Click on the image to begin)_
 
-<a href="https://go.gov.sg/nlb-rooktoberfest2020-jokes"><img src="/images/unsorted/monstersunited/Jokes.png" alt="Halloween jokes image" style="width: 60%;"></a>
+<a href="https://go.gov.sg/nlb-rooktoberfest2020-jokes"><img style="width: 60%;" alt="Halloween jokes image" src="/images/unsorted/monstersunited/Jokes.png"></a>
 
 
 <a name="halloween-fun-facts">**Fun Facts About “Halloween” From Around the World**</a>  <br>
 Find out more about how “Halloween” is experienced by different cultures around the world.  <br>
 _(Click on the image to begin)_
 
-<a href="https://go.gov.sg/rf-halloweenfacts2020"><img src="/images/unsorted/monstersunited/Fun-Facts.png" alt="Fun facts image" style="width: 60%;"></a>
+<a href="https://go.gov.sg/rf-halloweenfacts2020"><img style="width: 60%;" alt="Fun facts image" src="/images/unsorted/monstersunited/Fun-Facts.png"></a>
 
 
 <a name="spooky-ereads">**Rooky’s Spooky eBOOklist**</a> <br>
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
-<a href="/images/unsorted/monstersunited/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
+<a href="/images/unsorted/monstersunited/Rooktober-eBooklist.pdf"><img style="width: 70%;" alt="Rooktober ebooks image" src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png"></a>
 
 _(Last updated on 15 October 2020)_
 
@@ -159,14 +159,14 @@ _(Last updated on 15 October 2020)_
 
 Monsters United is a quartet of loveable monsters that aims to ignite the joy of reading and learning in children aged 7 to 9. Comprising adventurous Hutsy, fantastical Camy, techy Zecky and spooky Rooky, Monsters United expands children’s reading appetites by introducing them to different genres, and engages children and their communities with library programmes and experiences.
 
-<center><iframe class="center-youtube" width="560" height="315" src="https://www.youtube.com/embed/Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center></center>
 
 ## **Monsters United Adventure Booklets**
 
 Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img style="width: 50%;" alt="Zecky image" src="/images/unsorted/monstersunited/mu-zecky-cover.png"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img style="width: 50%;" alt="Rooky image" src="/images/unsorted/monstersunited/mu-rooky-cover.png"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img style="width: 50%;" alt="Camy image" src="/images/unsorted/monstersunited/mu-camy-cover.png"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img style="width: 50%;" alt="Hutsy image" src="/images/unsorted/monstersunited/mu-hutsy-cover.png"></a> |

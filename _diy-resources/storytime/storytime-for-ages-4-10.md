@@ -8,7 +8,7 @@ Looking for Early READ Storytime livestream sessions? Please visit this [page](/
 
 ## **Storytime (For ages 4 -10)**
 
-<img src="/images/diyresources/storytime_banner.png" alt="Storytime Banner" style="width: 100%;">
+<img style="width: 100%;" alt="Storytime Banner" src="/images/diyresources/storytime_banner.png">
 
 Enjoy storytelling videos anytime, anywhere!
 
@@ -30,19 +30,19 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 **听故事·识世界:**
 
 * [Storytime (Chinese) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTN7lmmtlbh5LTEIxeCI4XjM)
-* [Chinese Library Services (中文图书馆服务)](https://www.facebook.com/groups/1814517521928294/?fref=mentions&__xts__[0]=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ)
+* [Chinese Library Services (中文图书馆服务)](https://www.facebook.com/groups/1814517521928294/?fref=mentions&amp;__xts__[0]=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ)
 
 **Masa Bercerita:**
 
 * [Storytime (Malay) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTMAMABlRITusVPa3-WcvI4t)
-* [Malay Library Services (Perkhidmatan Perpustakaan Bahasa Melayu)](https://www.facebook.com/groups/659925104348354/?fref=mentions&__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&__tn__=K-R)
+* [Malay Library Services (Perkhidmatan Perpustakaan Bahasa Melayu)](https://www.facebook.com/groups/659925104348354/?fref=mentions&amp;__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&amp;__tn__=K-R)
 
 **கதை நேரம்:** 
 
 * [Storytime (Tamil) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTPLk3tIcit65cvabHlQbA5W)
-* [Tamil Library Services (தமிழ் நூலகச் சேவைகள்)](https://www.facebook.com/groups/598526033854488/?fref=mentions&__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&__tn__=K-R)
+* [Tamil Library Services (தமிழ் நூலகச் சேவைகள்)](https://www.facebook.com/groups/598526033854488/?fref=mentions&amp;__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&amp;__tn__=K-R)
 
-<img src="/images/diyresources/storytime_schedule.png" alt="Storytime Schedule" class="center" style="width: 70%;">
+<img style="width: 70%;" class="center" alt="Storytime Schedule" src="/images/diyresources/storytime_schedule.png">
 
 Storytelling Videos (Updated on 22 Feb 2021)
 
@@ -50,13 +50,13 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 ### **English**
 
-**22 May 2021**
-**Beverly and the Peranakan Feast**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMY9ePgcq10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**14 Aug 2021**
+**One Tiny Wish**
+
 
 **16 Jun 2021**
 **Ryan, the Playground Expert**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eO0MBNGpa7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
@@ -64,11 +64,11 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 **19 Feb 2021**
 **独一无二的伊努卡**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o8N98F6nms4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **9 Feb 2021**
 **伊伊, 春节快乐!**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SfzalaiK48k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 (For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
 
@@ -76,11 +76,11 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 **17 Apr 2021**
 **Capal Samsudin**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TB2yY4cJVBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **20 Mar 2021**
 **Untuk Siapakah Buah Zaitun Ini?**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mC_lygBepwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 (For more videos in Malay, click [here](/diy-resources/storytime/storytime-archives-malay))
 
@@ -88,10 +88,10 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 **7 May 2021**
 **The Tree My Aunty Grew**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nb2lV-tChus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **1 Apr 2021**
 **எண்ணங்கள் வண்ணங்கள**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OOGF3wHQ4PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 (For more videos in Tamil, click [here](/diy-resources/storytime/storytime-archives-tamil))

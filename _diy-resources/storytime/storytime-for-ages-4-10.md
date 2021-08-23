@@ -75,13 +75,13 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 ### **Malay**
 
-**17 Apr 2021**
-**Capal Samsudin**
+**10 Aug 2021**
+**Saya Kesal!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQBopAhG7iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-**20 Mar 2021**
-**Untuk Siapakah Buah Zaitun Ini?**
-
+**1 Jul 2021**
+**Saya Terburu-buru!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oY3wJqc5g6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Malay, click [here](/diy-resources/storytime/storytime-archives-malay))
 

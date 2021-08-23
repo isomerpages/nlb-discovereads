@@ -55,9 +55,9 @@ Storytelling Videos (Updated on 22 Feb 2021)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GfyLTx1R12w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**16 Jun 2021**
-**Ryan, the Playground Expert**
-
+**24 Jul 2021**
+**The FAST Heroes 995 Storybook**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZoJ2e7xBKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 

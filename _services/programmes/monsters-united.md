@@ -50,7 +50,7 @@ _(Click on the image to watch the video.)_
 Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>
 _(Click on the image.)_
 
-<a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.pdf"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
+<a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.PDF"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
 
 
 <a name="activity-packages">**Activity Packages**</a> <br>

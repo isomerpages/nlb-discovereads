@@ -6,7 +6,7 @@ permalink: /diy-resources/cyla
 
 Choose Your Library Adventure is an interactive video where you go on a virtual quest to learn about public library spaces and services.<br>
 
-**Sign up [here](https://go.gov.sg/nlb-CYLA-form) to get notified when Choose Your Library Adventure launches. <br>**
+**Sign up [here](https://go.gov.sg/nlb-CYLA-form) or scan the QR code to get notified when Choose Your Library Adventure launches. <br>**
 	
 <img src="/images/diyresources/CYLA Interest QR.png" style="width: 30%;">
 	

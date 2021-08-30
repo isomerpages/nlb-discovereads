@@ -10,7 +10,7 @@ Choose Your Library Adventure is an interactive video where you go on a virtual 
 	
 <img src="/images/diyresources/CYLA Interest QR.png" style="width: 30%;"> <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QEGim3PpXAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/QEGim3PpXAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
 
 *Watch this space for more activities soon!*
 

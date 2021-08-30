@@ -8,6 +8,9 @@ Choose Your Library Adventure is an interactive video where you go on a virtual 
 
 **Sign up [here](https://go.gov.sg/nlb-CYLA-form) or scan the QR code to get notified when Choose Your Library Adventure launches. <br>**
 	
-<img src="/images/diyresources/CYLA Interest QR.png" style="width: 30%;">
-	
-*Stay tuned for our trailer!*
+<img src="/images/diyresources/CYLA Interest QR.png" style="width: 30%;"> <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEGim3PpXAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+*Watch this space for more activities soon!*
+

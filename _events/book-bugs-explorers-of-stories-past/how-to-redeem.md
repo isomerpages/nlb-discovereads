@@ -9,6 +9,8 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 Cards from all Lands will be available for redemption from their release date till 30 September 2021. Don't worry if you haven't collected all the cards from each Land before the launch of the next Land - you'll have plenty of time to collect all the cards! To check out what cards are available for collection, go to our [Bug List](/events/bookbugsx/buglist).
 
+We have entered the final month of Book Bugs: Explorers of Stories Past. Make sure you borrow your books to earn points by 28 September 2021, and redeem these points for cards by 30 September 2021, as **all points will expire after 30 September 2021!**
+
 To register for myLibrary ID, click <a href="https://account.nlb.gov.sg" target="_blank" rel="noopener noreferrer">here</a>.
 
 To log in to your myLibrary ID, click <a href="https://nlb.gov.sg/mylibrary" target="_blank" rel="noopener noreferrer">here</a>.

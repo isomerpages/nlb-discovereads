@@ -5,6 +5,9 @@ breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
+#### 1 September 2021
+[<img src="/images/events/bookbugsx/1 Sept 2021 Update.png" alt="August quiz closed, points earning ends on 28 September, card redemption ends on 30 September" style="width: 100%" align="left">](/events/bookbugsx/redeem)
+
 #### 9 August 2021
 [<img src="/images/events/bookbugsx/9 August 2021 Update.png" alt="August resources uploaded" style="width: 100%" align="left">](/events/bookbugsx/resources#printables)
 

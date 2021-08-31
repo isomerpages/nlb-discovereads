@@ -5,13 +5,9 @@ breadcrumb: Lil Deer's Bug-a-thon
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-
 ### Lil' Deer's Bug-a-thon Reading Challenge
 
-**Registration for the Bug-a-thon has begun!**<br>
-
-Click <a href="http://nlb.gov.sg/mylibrary" target="_blank" rel="noopener noreferrer">here</a> to log in to your myLibrary ID and register for the challenge!<br>
-If you don't have a myLibrary ID, click <a href="http://account.nlb.gov.sg/" target="_blank" rel="noopener noreferrer">here</a> to register for one.
+**The Bug-a-thon has now ended!** The list of winners and photos of them and their prizes will be uploaded soon. Stay tuned!
 
 ![Lil Deer's Bug-a-thon Reading Challenge](/images/events/bookbugsx/Bugathon instructions.png/)
 

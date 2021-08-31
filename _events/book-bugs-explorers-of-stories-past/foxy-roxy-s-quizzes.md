@@ -7,13 +7,15 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ### Foxy Roxy's Quest
 
+**Congratulations to all Explorers for completing Foxy Roxy's quests! You have exceeded her expectations, and could possibly even outsmart her if she's not careful!** You can still scroll down to do each month's quiz, but you will not earn points for any of your attempts. Make sure you borrow physical books and eBooks to earn reward points by 28 September 2021, and collect your cards by 30 September 2021!
+
 ![Foxy Roxy has a Quest for you](/images/events/bookbugsx/Quizzes instructions.png)
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 
-#### August 2021 - Sang Nila Utama
+#### August 2021 - Sang Nila Utama (CLOSED)
 
-This is the **final quest** and your **last chance** to earn bonus points. Make sure you submit your answers by 31 August 2021, 2359h!
+This quiz has now closed. Points will be awarded by 7 September 2021, Tuesday. All entries received after 31 August 2021, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you borrow books to earn points before 28 September!
 
 **English Quiz**
 

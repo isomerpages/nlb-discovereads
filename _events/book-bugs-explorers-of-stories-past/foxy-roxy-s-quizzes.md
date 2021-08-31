@@ -7,9 +7,9 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ### Foxy Roxy's Quest
 
-![Foxy Roxy has a Quest for you](/images/events/bookbugsx/Quizzes instructions.png)
-
 Foxy Roxy has doled out her last quest, and there will be no more future quests. You can still scroll down to do each month's quiz, but you will not earn points for any of your attempts. Make sure you borrow physical books and eBooks to earn reward points by 28 September 2021, and collect your cards by 30 September 2021!
+
+![Foxy Roxy has a Quest for you](/images/events/bookbugsx/Quizzes instructions.png)
 
 P.S. When you're done with the quizzes and want more Book Bugs-related activities, head over to download the [printables on our resources page](/events/bookbugsx/resources#printables).
 

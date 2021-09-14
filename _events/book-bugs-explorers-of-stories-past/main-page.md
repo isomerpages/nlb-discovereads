@@ -28,7 +28,7 @@ Oh no! The Book Bugs have been snapped up. Please check this page for updates on
 
 * Bukit Panjang Public Library
 * Central Public Library
-* Chengsan Public Library
+* Cheng San Public Library
 * Geylang East Public Library
 * Jurong Regional Library
 * Pasir Ris Public Library

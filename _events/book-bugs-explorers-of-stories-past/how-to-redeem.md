@@ -5,9 +5,9 @@ breadcrumb: How to Redeem
 collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
-### The fourth Land, Marvellous Homes, has now been released! You can also collect the bonus August card in celebration of NDP 2021.
+### Cards are getting snapped up! For a list of libraries with cards available, click [here](/events/bookbugsx).
 
-Cards from all Lands will be available for redemption from their release date till 30 September 2021. Don't worry if you haven't collected all the cards from each Land before the launch of the next Land - you'll have plenty of time to collect all the cards! To check out what cards are available for collection, go to our [Bug List](/events/bookbugsx/buglist).
+Don't worry if you haven't collected all the cards from each Land before the launch of the next Land - cards from the previous Lands will still be available for collection! To check out what cards are available for collection, go to our [Bug List](/events/bookbugsx/buglist).
 
 We have entered the final month of Book Bugs: Explorers of Stories Past. Make sure you borrow your books to earn points by 28 September 2021, and redeem these points for cards by 30 September 2021, as **all points will expire after 30 September 2021!**
 

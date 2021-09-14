@@ -7,7 +7,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past
 
-Oh no! The Book Bugs have been snapped up. Please check this page for updates on branches with available cards. This page is kept as up to date as possible, but do note that it is not live.
+Oh no! The Book Bugs have been snapped up. Please check this page for updates on branches with available cards. This page is kept as up-to-date as possible, but do note that it is not live.
 
 **Branches with cards available**
 

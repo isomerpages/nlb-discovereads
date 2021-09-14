@@ -6,6 +6,38 @@ collection_name: events
 third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past
+
+Oh no! The Book Bugs have been snapped up. Please check this page for updates on branches with available cards. This page is kept as up to date as possible, but do note that it is not live.
+
+**Branches with cards available**
+
+* Ang Mo Kio Public Library: Available
+* Bishan Public Library: Limited Stock
+* Bukit Batok Public Library: Limited Stock
+* Clementi Public Library: Limited Stock
+* library@harbourfront: Limted Stock
+* Jurong West Public Library: Available
+* Marine Parade Public Library: Available
+* Pasir Ris Public Library: Limited Stock
+* Sembawang Public Library: Limited Stock
+* Sengkang Public Library: Available
+* Woodlands Regional Library: Available
+* Yishun Public Library: Available
+
+**Branches that are currently out of stock**
+
+* Bukit Panjang Public Library
+* Central Public Library
+* Chengsan Public Library
+* Geylang East Public Library
+* Jurong Regional Library
+* Pasir Ris Public Library
+* Queenstown Public Library
+* Serangoon Public Library
+* Tampines Regional Library
+* Toa Payoh Public Library
+
+
 <img src="/images/events/bookbugsx/Book Bugs Banner_Homes.png" alt="Welcome to the Marvellous Homes" style="width: 100%">
 
 [<img src="/images/events/bookbugsx/button_Updates.png" alt="Updates" style="width: 25%" align="left">](/events/bookbugsx/Updates/)[<img src="/images/events/bookbugsx/button_Redeem.png" alt="How to Redeem" style="width: 25%" align="left">](/events/bookbugsx/redeem/)[<img src="/images/events/bookbugsx/button_bugathon.png" alt="Bug-a-thon" style="width: 25%" align="left">](/events/bookbugsx/bugathon/)[<img src="/images/events/bookbugsx/button_quiz.png" alt="Quizzes" style="width: 25%" align="left">](/events/bookbugsx/quiz/)[<img src="/images/events/bookbugsx/button_Story.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/story/)[<img src="/images/events/bookbugsx/button_Play.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/play/)[<img src="/images/events/bookbugsx/button_Bug List.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/buglist/)[<img src="/images/events/bookbugsx/button_Resources.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/resources/)
@@ -13,8 +45,6 @@ third_nav_title: Book Bugs Explorers of Stories Past
 Welcome to Book Bugs: Explorers of Stories Past! Click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it and prepare for your journey!
 
 In the past six months, you've gained wisdom from all the Bugs residing in the lush greenery of the Magical Forests, under the waves of the Mysterious Seas, and amongst the peaks and valleys of the Mystical Mountains. You're ready to settle down in the Marvellous Homes and experience some Book Bugs hospitality! 10 new Bugs to discover under these roofs, go on! You can even collect one of their visitors.
-
-Did you say you still have not encountered all 64 Magical Forests, Mysterious Seas and Mystical Mountains Bugs? Fret not, you still have a chance to get them! All cards are available for collection till 30 September 2021. 
 
 Need to track your adventure? Use page 32-33 in the Bug-o-pedia to help you! You'll find in it other tips to help you with your journey.
 

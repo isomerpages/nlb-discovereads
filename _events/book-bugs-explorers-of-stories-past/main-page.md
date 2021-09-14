@@ -11,18 +11,18 @@ Oh no! The Book Bugs have been snapped up. Please check this page for updates on
 
 **Branches with cards available**
 
-* Ang Mo Kio Public Library: Available
-* Bishan Public Library: Limited Stock
-* Bukit Batok Public Library: Limited Stock
-* Clementi Public Library: Limited Stock
-* library@harbourfront: Limted Stock
-* Jurong West Public Library: Available
-* Marine Parade Public Library: Available
-* Pasir Ris Public Library: Limited Stock
-* Sembawang Public Library: Limited Stock
-* Sengkang Public Library: Available
-* Woodlands Regional Library: Available
-* Yishun Public Library: Available
+* Ang Mo Kio Public Library: *Available*
+* Bishan Public Library: *Limited Stock*
+* Bukit Batok Public Library: *Limited Stock*
+* Clementi Public Library: *Limited Stock*
+* library@harbourfront: *Limited Stock*
+* Jurong West Public Library: *Available*
+* Marine Parade Public Library: *Available*
+* Pasir Ris Public Library: *Limited Stock*
+* Sembawang Public Library: *Limited Stock*
+* Sengkang Public Library: *Available*
+* Woodlands Regional Library: *Available*
+* Yishun Public Library: *Available*
 
 **Branches that are currently out of stock**
 

@@ -16,6 +16,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Bukit Batok Public Library: *Limited Stock*
 * Clementi Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
+* Jurong Regional Library: *Available*
 * Jurong West Public Library: *Available*
 * Marine Parade Public Library: *Available*
 * Pasir Ris Public Library: *Limited Stock*
@@ -30,7 +31,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Central Public Library
 * Cheng San Public Library
 * Geylang East Public Library
-* Jurong Regional Library
 * Pasir Ris Public Library
 * Queenstown Public Library
 * Serangoon Public Library

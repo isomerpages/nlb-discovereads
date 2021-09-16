@@ -13,7 +13,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 
 * Ang Mo Kio Public Library: *Available*
 * Bishan Public Library: *Available*
-* Bukit Batok Public Library: *Limited Stock*
 * Clementi Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
 * Jurong Regional Library: *Available*
@@ -23,11 +22,12 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Sembawang Public Library: *Limited Stock*
 * Sengkang Public Library: *Available*
 * Woodlands Regional Library: *Available*
-* Yishun Public Library: *Available*
+* Yishun Public Library: *Limited Stock*
 
 **Branches that are currently out of stock**
 
 * Bukit Panjang Public Library
+* Bukit Batok Public Library
 * Central Public Library
 * Cheng San Public Library
 * Geylang East Public Library

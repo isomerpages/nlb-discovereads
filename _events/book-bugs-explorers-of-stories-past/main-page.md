@@ -20,7 +20,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Jurong West Public Library: *Available*
 * Marine Parade Public Library: *Available*
 * Pasir Ris Public Library: *Limited Stock*
-* Sembawang Public Library: *Limited Stock*
 * Sengkang Public Library: *Available*
 * Toa Payoh Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
@@ -35,6 +34,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Geylang East Public Library
 * Pasir Ris Public Library
 * Queenstown Public Library
+* Sembawang Public Library
 * Serangoon Public Library
 * Tampines Regional Library
 

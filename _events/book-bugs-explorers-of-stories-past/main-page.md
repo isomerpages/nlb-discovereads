@@ -20,7 +20,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Marine Parade Public Library: *Available*
 * Pasir Ris Public Library: *Limited Stock*
 * Sengkang Public Library: *Available*
-* Toa Payoh Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
 * Yishun Public Library: *Limited Stock*
 
@@ -37,6 +36,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Sembawang Public Library
 * Serangoon Public Library
 * Tampines Regional Library
+* Toa Payoh Public Library
 
 
 <img src="/images/events/bookbugsx/Book Bugs Banner_Homes.png" alt="Welcome to the Marvellous Homes" style="width: 100%">

@@ -23,7 +23,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Sembawang Public Library: *Limited Stock*
 * Sengkang Public Library: *Available*
 * Woodlands Regional Library: *Available*
-* Yishun Public Library: *Available*
+* Yishun Public Library: *Limited Stock*
 
 **Branches that are currently out of stock**
 

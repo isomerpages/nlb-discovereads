@@ -31,7 +31,7 @@ Books have genres, programmes have tracks. To make things easier for you, we've 
 
 
 <a name="humanlibrary">![Teens Takeover Human Library header](/images/unsorted/teenstakeover/teensheader-humanlibrary.png)</a>
-<a href="https://www.eventbrite.sg/e/teens-takeover-human-library-tickets-166011162857?aff=ebdssbonlinesearch"><img src="/images/unsorted/teenstakeover/tt-humanlibrary21.png" alt="" style=""></a>
+<img src="/images/unsorted/teenstakeover/tt-humanlibrary21.png" alt="" style="">
 <p style="text-align: center;">Thank you for attending our very first <b>Teens Takeover Human Library</b> on 21 August 2021! </p>
 
 <b><a href="#top">Back to top</a></b>
@@ -68,7 +68,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * **Upcoming!** [16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Registration TBC]
 
-Keep a look out for more NLB's Teens Takeover workshop registration openings [here](http://go.gov.sg/teensprogs). See you there! 🙂 
+Keep a look out for more NLB's Teens Takeover workshop registration openings [here](http://go.gov.sg/nlb-teensprogs). See you there! 🙂 
 
 <p style="text-align: center;"><b>NOTE: Programmes are only for teens aged 13-17 years old.</b></p>
 
@@ -89,7 +89,7 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 * <s>[28 Aug] Downtime Online, Zoom, Saturday 2-4pm [Register now!]</s>
 * <s>[4 Sep] Downtime Online, Zoom, Saturday 2-4pm [Register now!]</s>
 
-Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](http://go.gov.sg/teensprogs).
+Keep a look out for more sessions of NLB's Teens Takeover Libraries [here](http://go.gov.sg/nlb-teensprogs).
 <p style="text-align: center;"><b>NOTE: Exclusively for teens aged 13 to 17, registration is required.</b></p>
 
 <b><a href="#top">Back to top</a></b>

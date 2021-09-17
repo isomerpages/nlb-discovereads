@@ -12,21 +12,19 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 **Branches with cards available**
 
 * Ang Mo Kio Public Library: *Limited Stock*
-* Bishan Public Library: *Available*
+* Bukit Panjang Public Library: *Available*
 * Clementi Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
 * Jurong Regional Library: *Available*
 * Jurong West Public Library: *Available*
 * Marine Parade Public Library: *Available*
 * Pasir Ris Public Library: *Limited Stock*
-* Sengkang Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
-* Yishun Public Library: *Limited Stock*
 
 **Branches that are currently out of stock**
 
 * Bedok Public Library
-* Bukit Panjang Public Library
+* Bishan Public Library
 * Bukit Batok Public Library
 * Central Public Library
 * Cheng San Public Library
@@ -34,9 +32,11 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Pasir Ris Public Library
 * Queenstown Public Library
 * Sembawang Public Library
+* Sengkang Public Library
 * Serangoon Public Library
 * Tampines Regional Library
 * Toa Payoh Public Library
+* Yishun Public Library
 
 
 <img src="/images/events/bookbugsx/Book Bugs Banner_Homes.png" alt="Welcome to the Marvellous Homes" style="width: 100%">

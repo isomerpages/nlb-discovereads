@@ -21,7 +21,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Pasir Ris Public Library: *Limited Stock*
 * Sengkang Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
-* Yishun Public Library: *Limited Stock*
 
 **Branches that are currently out of stock**
 
@@ -37,6 +36,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Serangoon Public Library
 * Tampines Regional Library
 * Toa Payoh Public Library
+* Yishun Public Library
 
 
 <img src="/images/events/bookbugsx/Book Bugs Banner_Homes.png" alt="Welcome to the Marvellous Homes" style="width: 100%">

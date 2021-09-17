@@ -12,7 +12,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 **Branches with cards available**
 
 * Ang Mo Kio Public Library: *Limited Stock*
-* Bishan Public Library: *Available*
 * Bukit Panjang Public Library: *Available*
 * Clementi Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
@@ -25,6 +24,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 **Branches that are currently out of stock**
 
 * Bedok Public Library
+* Bishan Public Library
 * Bukit Batok Public Library
 * Central Public Library
 * Cheng San Public Library

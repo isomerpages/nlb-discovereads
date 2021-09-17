@@ -19,7 +19,7 @@ Explore our upcoming sessions for these programmes:
 
 **Click on a button to find out more.**
 
-| [![Themed Programmes](/images/unsorted/teenstakeover/teensbutton-programmetracks.png)](#programmetracks) | [![Teens Takeover Human Library](/images/unsorted/teenstakeover/teensbutton-humanlibrary.png)](#humanlibrary) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](/diy-resources/secondary/teen-things) |
+| [![Teens Takeover Human Library](/images/unsorted/teenstakeover/teensbutton-humanlibrary.png)](#humanlibrary) | [![Teens Takeover Workshops](/images/unsorted/teenstakeover/teensbutton-workshops.png)](#workshops) | [![Teens Takeover Libraries](/images/unsorted/teenstakeover/teensbutton-ttl.png)](#teenstakeoverlibraries) | [![Teen.Things](/images/unsorted/teenstakeover/teensbutton-tt.png)](/diy-resources/secondary/teen-things) |
 
 <a name="programmetracks">![Programme Tracks header](/images/unsorted/teenstakeover/teensheader-themes.png)</a>
 Books have genres, programmes have tracks. To make things easier for you, we've sorted them out into six tracks below. Pick your favourite, and get started from there!

@@ -19,7 +19,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Jurong West Public Library: *Available*
 * Marine Parade Public Library: *Available*
 * Pasir Ris Public Library: *Limited Stock*
-* Sengkang Public Library: *Available*
+* Sengkang Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
 * Yishun Public Library: *Limited Stock*
 

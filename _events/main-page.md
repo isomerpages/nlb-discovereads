@@ -11,7 +11,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 
 **Branches with cards available**
 
-* Bukit Panjang Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
 * Woodlands Regional Library: *Available*
 
@@ -21,6 +20,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Bedok Public Library
 * Bishan Public Library
 * Bukit Batok Public Library
+* Bukit Panjang Public Library
 * Central Public Library
 * Cheng San Public Library
 * Clementi Public Library

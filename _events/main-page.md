@@ -16,7 +16,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * library@harbourfront: *Limited Stock*
 * Jurong Regional Library: *Limited Stock*
 * Jurong West Public Library: *Available*
-* Pasir Ris Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
 
 **Branches that are currently out of stock**

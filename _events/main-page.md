@@ -11,18 +11,17 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 
 **Branches with cards available**
 
+* Bedok Public Library: *Limited Stock*
 * Bukit Panjang Public Library: *Available*
 * Clementi Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
 * Jurong Regional Library: *Limited Stock*
 * Jurong West Public Library: *Available*
-* Pasir Ris Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
 
 **Branches that are currently out of stock**
 
 * Ang Mo Kio Public Library
-* Bedok Public Library
 * Bishan Public Library
 * Bukit Batok Public Library
 * Central Public Library

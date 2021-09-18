@@ -13,7 +13,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 
 * Bukit Panjang Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
-* Jurong West Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
 
 **Branches that are currently out of stock**
@@ -26,6 +25,8 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Cheng San Public Library
 * Clementi Public Library
 * Geylang East Public Library
+* Jurong Regional Library
+* Jurong West Public Library
 * Marine Parade Public Library
 * Pasir Ris Public Library
 * Queenstown Public Library

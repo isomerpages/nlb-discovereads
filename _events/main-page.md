@@ -14,7 +14,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Bedok Public Library: *Limited Stock*
 * Bukit Panjang Public Library: *Limited Stock*
 * library@harbourfront: *Limited Stock*
-* Jurong West Public Library: *Available*
+* Jurong West Public Library: *Limited Stock*
 * Woodlands Regional Library: *Available*
 
 **Branches that are currently out of stock**

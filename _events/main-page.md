@@ -25,6 +25,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Bukit Batok Public Library
 * Central Public Library
 * Cheng San Public Library
+* Clementi Public Library
 * Geylang East Public Library
 * Marine Parade Public Library
 * Pasir Ris Public Library

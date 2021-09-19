@@ -7,38 +7,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past
 
-Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Please check this page for updates on branches with available cards. This page is kept as up-to-date as possible, but do note that it is not live.
-
-**Branches with cards available**
-
-* library@harbourfront: *Limited Stock*
-
-**Branches that are currently out of stock**
-
-* Ang Mo Kio Public Library
-* Bedok Public Library
-* Bishan Public Library
-* Bukit Batok Public Library
-* Bukit Panjang Public Library
-* Central Public Library
-* Cheng San Public Library
-* Clementi Public Library
-* Geylang East Public Library
-* Jurong Regional Library
-* Jurong West Public Library
-* Marine Parade Public Library
-* Pasir Ris Public Library
-* Queenstown Public Library
-* Sembawang Public Library
-* Sengkang Public Library
-* Serangoon Public Library
-* Tampines Regional Library
-* Toa Payoh Public Library
-* Woodlands Regional Library
-* Yishun Public Library
-
-
-<img src="/images/events/bookbugsx/Book Bugs Banner_Homes.png" alt="Welcome to the Marvellous Homes" style="width: 100%">
+<img src="/images/events/bookbugsx/BBX OOS Banner.png" alt="Book Bugs cards are out of stock" style="width: 100%">
 
 [<img src="/images/events/bookbugsx/button_Updates.png" alt="Updates" style="width: 25%" align="left">](/events/bookbugsx/Updates/)[<img src="/images/events/bookbugsx/button_Redeem.png" alt="How to Redeem" style="width: 25%" align="left">](/events/bookbugsx/redeem/)[<img src="/images/events/bookbugsx/button_bugathon.png" alt="Bug-a-thon" style="width: 25%" align="left">](/events/bookbugsx/bugathon/)[<img src="/images/events/bookbugsx/button_quiz.png" alt="Quizzes" style="width: 25%" align="left">](/events/bookbugsx/quiz/)[<img src="/images/events/bookbugsx/button_Story.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/story/)[<img src="/images/events/bookbugsx/button_Play.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/play/)[<img src="/images/events/bookbugsx/button_Bug List.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/buglist/)[<img src="/images/events/bookbugsx/button_Resources.png" alt="Story" style="width: 25%" align="left">](/events/bookbugsx/resources/)
 

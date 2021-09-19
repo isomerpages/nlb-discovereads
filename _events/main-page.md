@@ -12,7 +12,6 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 **Branches with cards available**
 
 * library@harbourfront: *Limited Stock*
-* Woodlands Regional Library: *Available*
 
 **Branches that are currently out of stock**
 
@@ -35,6 +34,7 @@ Oh no! The Book Bugs have been snapped up by Explorers all around Singapore! Ple
 * Serangoon Public Library
 * Tampines Regional Library
 * Toa Payoh Public Library
+* Woodlands Regional Library
 * Yishun Public Library
 
 

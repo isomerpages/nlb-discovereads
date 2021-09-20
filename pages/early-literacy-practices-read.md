@@ -37,11 +37,11 @@ This is the easiest literacy activity ever! Write out the alphabet on a piece of
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/mommy.PNG" style="width:40%">
+<img src="/images/diyresources/preschool/ABC.png" style="width:50%">
 
-**Title:** [Can You See My Mommy?	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205397487) <br>
-**Author:** Becky Davies <br>
-**Illustrator:** Mel Armstrong <br>
+**Title:** [A B C](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205491295)	<br>
+**Author:** Lemon Ribbon Studio <br>
+**Illustrator:** Lemon Ribbon Studio <br>
 **Publisher:** New York, New York : Random House, 2021.<br>
 **Location:** Early Literacy Sense & Sensations  <br>
 **Call Number:** English DAV <br>

@@ -16,95 +16,86 @@ Read aloud and encourage your child to read along with you. You can initiate con
 
 ## **Recommended Activities**
 
-**What Is the Weather Today?** <br>
-Make a simple “Weather Chart” and get your child to fill the chart as you talk about the weather daily. Talk about the activities they can or cannot do and what they need to wear or bring depending on the weather that day. For example, “It is sunny today. We can play outside!” or “It will rain today. You need to carry an umbrella.” 
+**Dollars and Sense** <br>
+Talking about the value of money is a great way to instil good  financial habits in young children. Take the opportunity to introduce your child to important money concepts during your daily activities. For example, "I am going to pay $5 for the milk and bread." Or "I have some extra coins here and I am going to save them in my piggy bank." 
 
-If you have older children, use picture books to talk about the different weathers and seasons in other countries. Engage in pretend play by getting your child to imagine that they live in a different country. Ask questions like, “What would you wear during winter?” or “What would you eat or drink on a snowy day?” You can also talk about the science behind each weather or season.. Complement the discussion with fun experiments like creating your own rainfall, lightning, and rainbow!
+Introduce younger children to the different coin denominations through a coin colouring activity. Place different coins under a piece of white paper and get your child to colour over them. Name and describe the coins as your child creates colourful coin impressions. Make the activity more challenging for older children by getting them to match a new set of coins to the correct impressions.
 
-Adapted from: 
-* [https://www.zerotothree.org/resources/1090-a-year-of-play](https://www.zerotothree.org/resources/1090-a-year-of-play)
-* [http://www.guruparents.com/weather-chart-2/ ](http://www.guruparents.com/weather-chart-2/ )
+Create pretend money and engage in a role play with your child to introduce them to the basics of buying and selling. Set up an imaginary store with their toys and label them with a price tag. Take turns to be the customer and shop owner and use related words such as "price", "expensive", "cheap", "more," "less", "pay", "buy" or “sell".
 
-**I am Thankful** <br>
-Talking about the things that one is thankful for is a great way to instil and cultivate gratitude in our children. Explain to your child what gratitude means and provide simple examples. For a start, encourage your child to say “Thank you”. You will probably need to prompt your child in the beginning. For instance, “What do you say to your sister/brother for sharing their toys with you?” 
+Adapted from [Teaching Kids About Money: An Age-by-Age Guide ](https://www.parents.com/parenting/money/family-finances/teaching-kids-about-money-an-age-by-age-guide/)
 
-As your child grows older, you can get your child to create a “Gratitude Tree or Flower” by writing down or drawing the things and people that they are thankful for on each flower petal or leaf. Alternatively, you can get your child to take photos of what they are grateful for. Spend some time to read what they have written and look at the photos together and talk about them. Ask questions like, “How do you feel when you receive this gift?” and “What else can we do to show our gratitude to someone?” 
+**I Can Go Green!** <br>
+How can you go green? Help your child to understand that they have a part to play in protecting the environment by talking to them about conservation and the impact we have on the environment.  Describe the different ways to go green during their daily lives. For example, “Turn off the tap when you are brushing your teeth.” or “Let’s bring a reusable bag for grocery shopping so that we can reduce the use of plastic.”
 
-Adapted from:
-* [https://www.verywellfamily.com/raising-a-thankful-child-2765058 ](https://www.verywellfamily.com/raising-a-thankful-child-2765058 )
-* [https://blissfulkids.com/5-awesome-mindful-gratitude-activities-for-kids ](https://blissfulkids.com/5-awesome-mindful-gratitude-activities-for-kids )
+As your child grows older, you can get them involved in sorting the trash at home into the different types of recyclables. Get them to create and decorate their own small recycling bins to keep them committed to the recycling activity. Make recycling more fun by going on a scavenger hunt in the park or beach and see how  many recyclables you can collect.
 
-**When I Grow Up** <br>
-Discover your child’s interests by talking about jobs.. As your child’s biggest role model, begin by sharing what you do at home and work! Introduce your child to other jobs in the community. Talk about how each job requires people to work at different places and use different tools and skills. For instance, “The cashier at the supermarket helps you to check out your groceries. He uses a cash register.” Or “The artist creates an artwork by painting on a canvas.” Make learning more fun by playing dress-up. Get your child to put on different clothes for the different jobs. You can also incorporate a treasure hunt by hiding the tools related to the different jobs and getting your child to find the items. 
+Adapted from [19 Activities for Kids To Learn About Recycling](https://www.naturespath.com/en-us/blog/19-activities-kids-learn-recycling/)
 
-For older children, get them to name and talk about a job that begins with a letter of your choice. For instance, “Name a job that begins with A and tell me what you know about it.” Most importantly, ask your child about their aspirations and dreams! 
+**Safety and Me** <br>
+Talk about personal safety early, regularly and clearly with your child. Use the appropriate language about safe and unsafe behaviours, people and situations. For example, “The pot is hot and you will get hurt if you touch it. Move over here.” or “The floor is wet. I do not want you to slip so please hold my hand.” Introduce the different safety precautions through discussions and fun activities. 
 
-[https://myfuture.edu.au/career-articles/details/9-activities-to-help-children-understand-careers](https://myfuture.edu.au/career-articles/details/9-activities-to-help-children-understand-careers) 
+Get started by filling a bag with safety props such as toy road signs, a toy phone and a plaster. Include pictures of safety workers such as a firefighter, a policeman and a paramedic. Take out one object or picture at a time and get your child to talk about it. You may ask, “How does this tool protect us?” Or “What does this safety worker do to help us?”. You can expand the activity by asking your child to match the safety workers to the tools they use.
+
+For older children, create a giant map of a neighbourhood on a big piece of paper together. Include roads, pavements, crossings, safety signs, traffic lights and buildings you typically see in a neighbourhood such as a police station and a school. Get your child to place their toy vehicles and people at the correct place and explain their decisions. Spend some time talking about road safety, the different dangerous situations that can happen in a neighbourhood and the safety measures they can take.
+
+Adapted from [Activities That Teach Safety](https://www.scholastic.com/teachers/articles/teaching-content/activities-teach-safety/) and [Introduction to Teaching Road Safety and Lesson Ideas](http://roadsafetyweek.org/schools-colleges/2-uncategorised/69-road-safety-lesson-plans)
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/the%20thank%20you%20book.jpg" alt="The Thank You Book" style="width:40%">
+<img src="/images/diyresources/preschool/Give%20it.jpg" alt="give it moneybunny" style="width:40%">
 
-**Title:** The Thank You Book<br>
-**Author:** Mary Lyn Ray <br>
-**Publisher:** Houghton Mifflin Harcourt <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/4027341](https://nlb.overdrive.com/media/4027341 ) <br>
-
-*Thank you isn't just for learning manners.* <br>
-*It's also for when something wakes a* <br>
-*little hum—a little happy hum—inside you*<br>
-*and you want to answer back.*<br>
-
-The *Thank You Book* explores the many ways we can be thankful for the pleasures great and small that await us every day. Tender and poetic, it reflects on the role gratitude can play in our lives and celebrates the powerful impact it can have.
-
-<img src="/images/diyresources/preschool/benjamin%20bear%20says%20thank%20u.jpg" alt="benjamin bear says thank you" style="width:40%">
-
-**Title:** Benjamin Bear Says Thank You <br>
-**Author:** Claire Freedman & Steve Smallman<br>
-**Publisher:** Lion Hudson LTD<br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/2537553](https://nlb.overdrive.com/media/2537553 ) <br>
-
-Here comes Benjamin Bear - always full of bounce. He loves playing with his friends, but somehow he keeps hurting their feelings. He never says thank you. In this charming story Benjamin Bear learns to say thank you - and how much those little words mean.
-
-<img src="/images/diyresources/preschool/hellorain.jpg" alt="Hello Rain" style="width:40%">
-
-**Title:** [Hello, Rain!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205431404) <br>
-**Author:** Kyo Maclear<br>
-**Publisher:** San Francisco: Chronicle Books, \[2021\] <br>
+**Title:** [Give It!: A Moneybunny Book ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205243838)<br>
+**Author:** Cinders McLeod <br>
+**Publisher:** New York : Nancy Paulsen Books, \[2020\] <br>
 **Location:** Early Literacy Picture Books <br>
-**Call Number:** English MAC <br>
+**Call No.:**  English MAC <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5153403](https://nlb.overdrive.com/media/5153403) <br>
 
-A picture book celebrating all the reasons to love the rain! Flowers bloom in the garden. Umbrellas bloom on the streets. There are puddles for jumping and, later, a cozy home for hot chocolate and books.
+In this delightful introduction to simple money concepts, an enthusiastic young bunny discovers how good it feels to use his allowance to help others.
 
-* The ultimate rainy day read!
-* Full of bright, eye-catching illustrations
-* From international acclaimed writer Kyo Maclear and printmaker Chris Turnham
+Chummy longs to be a superhero. He wants to save the world--or at least Bunnyland--from dragons, so spending his carrots on a superhero costume seems like a great plan! When his grandma reminds him that there aren't any dragons in Bunnyland, but that there are creatures that could use help, Chummy starts reconsidering the best way to spend his wad. This is the fourth book in the internationally acclaimed Moneybunny Books series that also includes Earn It!, Spend It!, and Save It!
 
-*The air is full of waiting. The sky is full of breeze. The trees gust and billow. All before it rains.*
+<img src="/images/diyresources/preschool/abc%20earth%20friendly%20me.jpg" alt="abc earth friendly" style="width:40%">
 
-*Rumble, rumble. Distant thunder. Rain is coming, rain is coming.*
+**Title:** ABC Earth Friendly Me <br>
+**Author:** Christiane Engel <br>
+**Publisher:** Walter Foster JR <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5567777](https://nlb.overdrive.com/media/5567777) <br>
 
-No matter what kind of weather you prefer, Hello, Rain! is a great reminder of the natural beauty all around us.
+ABC Earth-Friendly Me presents 26 things—from Action to Zero waste and everything in between—that eco-conscious kids and their families can do to help care for the Earth.
 
-* Children's books for kids age 3-5
-* Great read aloud picture book
-* Ideal for nature lovers
+Pairing aspects of eco-friendly living with each letter of the alphabet, this durable board book is not only perfect for teaching young children their ABCs, but also for encouraging them to be aware of the impact they have on the environment.
 
-<img src="/images/diyresources/preschool/vet.jpg" alt="Roar" style="width:40%">
+The content empowers young children, showing them that even their small choices make a big difference. The engaging illustrations, fun rhyming text, and simple concepts introduce children to an eco-friendly lifestyle. To help, kids can plant flowers for pollinating bees, eat more fruits and vegetables, share or swap old toys, help their parents air-dry laundry, and learn about animals and their habitats.
 
-**Title:** [Vet: An Action Play Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204379263) <br>
-**Author:** Dan Green <br>
-**Publisher:** London : Ladybird Books, 2020.<br>
-**Location:** Early Literacy Sense & Sensations <br>
-**Call Number:** English GRE<br>
+Environmental terms throughout, such as "pollination," "biodegradable," "pollution," and "preservation," have easy-to-understand, kid-friendly definitions in the back of the book. A spread elaborating on additional things kids can do, such as riding a bike, creating a new toy from old stuff, and hunting for a unique pre-owned item at the thrift store, shows easy and fun ways to help out!
 
-Join in and help the busy vet in this playful, interactive flap book!
+ABC Earth-Friendly Me shows that every member of the family—even the smallest one—can protect our planet Earth. This is the perfect book to inspire the next generation of eco-conscious kids, while teaching them the alphabet at the same time. Learning the ABCs has never been so green and so much fun!
 
-It's another busy day! Join in and use the flaps to help the vet as she listens to the dog's heart, gives the chameleon her medicine and X-rays the cat's leg. With interactive action-flaps, you can do it, too!
+With endearing illustrations and mindful concepts, the ABC for Me series pairs each letter of the alphabet with words that promote big dreams and healthy living.
 
-Each clever flap provides an action or scene-change to encourage children to actively engage and explore. The playful flaps are perfect for little hands to help develop fine motor skills and hand-eye coordination.
+<img src="/images/diyresources/preschool/rocket%20says%20clean%20up.jpg" alt="rocket says clean up" style="width:40%">
 
-Original concept and illustration by Dan Green.
+**Title:** [Rocket Says Clean Up! ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205245235)<br>
+**Author:** Nathan Bryon <br>
+**Publisher:** New York : Random House, \[2020\]<br>
+**Location:** Early Literacy Picture Books <br>
+**Call Number:** English BRY<br>
+**OverDrive Link:** https://nlb.overdrive.com/media/5275016 <br>
+
+Plucky science-lover Rocket returns in another inspiring picture book about getting a community to notice the world around them, and, in this book, to CLEAN UP! their shoreline.
+
+Rocket, is off to the islands to visit her grandparents. Her family loves nothing better than to beach comb and surf together...but the beach is clogged with trash! When she finds a turtle tangled in a net, Rocket decides that something must be done! Like a mini Greta Thunberg, our young activist's enthusiasm brings everyone together...to clean up the beach and prevent plastics from spoiling nature. Perfect for fans of Rocket Says Look Up! and Ada Twist, Scientist, this book is for any youngster concerned about our environment. Rocket Says Clean Up! will inspire readers of all ages to dream big and tackle problems head-on.
+
+<img src="/images/diyresources/preschool/be%20careful%20and%20stay%20safe.jpg" alt="Roar" style="width:40%">
+
+**Title:** Be Careful and Stay Safe <br>
+**Author:** Cheri J. Meiners <br>
+**Publisher:** Free Spirit Publishing <br>
+**Overdrive link:** https://nlb.overdrive.com/media/657933 <br>
+
+The world can seem so perilous, especially where our children are concerned. But even very young children can learn basic skills for staying safe in ordinary situations and preparing for emergencies. Without scaring kids (or alarming adults), this book teaches little ones how to avoid potentially dangerous situations, ask for help, follow directions, use things carefully, and plan ahead. Includes questions, activities, and safety games that reinforce the ideas being taught.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

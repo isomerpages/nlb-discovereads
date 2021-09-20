@@ -51,7 +51,7 @@ With textured patches to touch, feel and explore, this bright and sturdy board b
 
 A perfect first alphabet book for all babies and toddlers.
 
-<img src="/images/diyresources/preschool/bedtime%20rhymes.png" style="width:40%">
+<img src="/images/diyresources/preschool/babys%20first%20spot%20and%20see.png" style="width:40%">
 
 **Title:** [Baby's First Spot & See](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205494990)  <br>
 **Author:** Kate Lockwood<br>

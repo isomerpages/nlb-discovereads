@@ -69,9 +69,9 @@ Who's that hiding under the flap? Is it a ginormous giraffe or a friendly giant?
 
 With iconic illustrations from Quentin Blake, this sturdy, colourful lift-the-flap book is the perfect way to introduce the youngest chiddlers to the wonderful world of Roald Dahl.
 
-<img src="/images/diyresources/preschool/birthdayonmars.jpg" alt="Runaway shirt" style="width:40%">
+<img src="/images/diyresources/preschool/Lets%20look%20at%20numbers.jpg" alt="let's look at numbers" style="width:40%">
 
-**Title:** [Let’s Look at Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 205501398) <br>
+**Title:** [Let’s Look at Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205501398) <br>
 **Author:** Marion Deuchars <br>
 **Illustrator:** Marion Deuchars <br>
 **Publisher:** London: Laurence King Publishing, 2021. <br>
@@ -82,19 +82,18 @@ Introduce numbers from 1 to 10 with this stunning board book, perfect for sharin
 
 Part of a brand-new series of board books Let's Look At... and with beautiful artwork from bestselling author and illustrator Marion Deuchars, this book is the perfect introduction to counting. Make learning fun and stimulating as you go through the pages of this gorgeous book for young readers.
 
-<img src="/images/diyresources/preschool/youchooseinspace.jpg" alt="100 things" style="width:40%">
+<img src="/images/diyresources/preschool/Can%20you%20guess%20animals.jpg" alt="can you guess animals" style="width:50%">
 	
-**Title:** Can You Guess? Animals: With the Very Hungry Caterpillar	<br>
+**Title:** [Can You Guess? Animals: With the Very Hungry Caterpillar](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=204383151 )	<br>
 **Author:** Eric Carle <br>
 **Illustrator:** Eric Carle <br>
 **Publisher:** New York: World of Eric Carle, 2020. <br>
 **Location:** Early Literacy Emergent Readers  <br>
-**Call Number:** English GOO<br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3562760](https://nlb.overdrive.com/media/3562760) <br>
+**Call Number:** English 590 CAR <br>
 
-Zoom off into space for an adventure where YOU CHOOSE what happens next. Which alien would you most like to be friends with? And what fantastically freaky food will you decide to much for lunch?
+Spot the animals in this guessing-game board book featuring The Very Hungry Caterpillar!
 
-The possibilities are infinite in this mesmerising creative toolkit which will inspire children from 3 up to make their own stories time and again - a spectacular sequel to the bestselling You Choose - it's out of this world!
+Which animal has wrinkly gray skin and a long trunk? It's an elephant! Try to guess which animal will appear on the next page from the colorful close-ups and clever clues from The Very Hungry Caterpillar. Eric Carle's beautiful classic illustrations bring the animals to life on the page! 
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

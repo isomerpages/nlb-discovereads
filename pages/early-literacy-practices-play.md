@@ -14,70 +14,86 @@ Play enables children to develop their language, social-emotional and cognitive 
 
 ### **Recommended Activities**
 
-**The Human Body** <br>
-This simple activity helps your child learn about body parts through play. Prepare pictures of various body parts. Randomly show a picture of a body part and get your child to point to the same part on their body. You can make the activity challenging by getting your child to name or spell the body part. 
+**Hide-and-Seek** <br>
+Have fun with your child by playing the good, old game of hide-and-seek. You can have different themes such as finding the hidden animals, specific objects, photos of family members, or simply seeking each other from hidden areas within the house. 
 
-During this activity, you could share one or two facts about the body part.
+You can make the game more challenging for older children by asking them to find sight words, providing a treasure map, or giving verbal clues to describe the location. 
 
-**Colourful Fruits and Vegetables** <br>
-A trip to the supermarket can be a fun family activity. Prepare a set of missions for your child to identify different fruits and vegetables by colours. For example, “Find and name three green fruits”. 
+**Can You Do This With Me?** <br>
+Engage your child in learning by encouraging them to mimic your actions! Point and identify different parts of the body, emphasise the pronunciation of the letters and simple words, or even explore emotions using facial expressions. 
 
-Make this activity more challenging by mixing up colours and produce. For example, “Find and name one purple vegetable and one red fruit.” 
+You can challenge your older child to pronounce words with more syllables, trying out different action words or even counting with fingers. Take turns with your child and be prepared to be challenged as well. 
 
-**Let’s Travel to Space!** <br>
-Free play or unstructured play helps exercise your child’s creativity and problem-solving skills. Create a spaceship with an old cardboard box or any box that your child can sit in. Get your child to talk to you about what they will need while travelling in space for a week. For any items that cannot be found at home, draw or make them from recyclable materials with your child. 
+**Sensory Play** <br>
+Sensory play stimulates your child’s senses and develops their sensory processing capabilities. It also encourages your child to create, investigate and discover! 
+
+Regular household items can be used for sensory play too. Here are some examples:
+* Explore textures of tissue paper, kitchen paper, and writing paper
+* Sort toys by colours
+* Locate household items of different shapes 
+* Discover smells and tastes of different fruits/ food items
+* Compare sounds by tapping a spoon on different objects
+
+Older children can also engage in sensory play such as playing with play dough, creating musical instruments with recycled materials, or even baking!
+ 
 
 For more recommended activities, you may check out this article: [Sensory Play For Toddlers Using Household Items](https://porch.com/advice/sensory-play-using-household-items).
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/MrsPeanucklesFruitAlphabet.jpg" alt="fruit alphabet" style="width:40%">
+<img src="/images/diyresources/preschool/Gruffalo%20Where%20Are%20You.jpg" alt="gruffalo where are you" style="width:40%">
 
-**Title:** Mrs Peanuckle’s Fruit Alphabet <br>
-**Author:** Mrs Peanuckle <br>
-**Illustrator:** Jessie Ford <br>
-**Publisher:** Random House Children's Books, 2020.<br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3387140](https://nlb.overdrive.com/media/3387140) <br>
+**Title:** [Gruffalo, Where Are You?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=204390894)	 <br>
+**Author:** Julia Donaldson <br>
+**Illustrator:** Axel Scheffler <br>
+**Publisher:** London: Macmillan Children's Books, 2020. <br>
+**Location:** Early Literacy Sense & Sensations <br>
+**Call Number:** English DON <br>
 
-Mrs. Peanuckle's Fruit Alphabet introduces babies and toddlers to the colorful foods that will help them grow up to be healthy and strong. Children and parents alike will want to devour the fun facts and charming illustrations of fruits from the familiar banana to the not as familiar yumberry. Mrs. Peanuckle's Fruit Alphabet is the second in a series of board books celebrating the joy nature brings to young children at home and in the backyard, from fresh fruits and vegetables to birds, bugs, flowers, and trees.
+You're never too young to meet a Gruffalo! Lift the soft felt flaps on every page to meet all your favourite characters from the deep dark wood.
 
-<img src="/images/diyresources/preschool/Thebodybook.jpg" alt="the body book" style="width:40%">
+With soft fabric flaps which are easy to lift and help develop fine motor skills, this felt flaps book is perfect for sharing with babies. Designed to appeal to even the youngest child, simple patterns and bright colours combine with Axel Scheffler's instantly recognizable artwork to keep babies entertained for hours. Perfect for tiny Gruffalo fans, Gruffalo, Where Are You? is part of a charming range of books specially created for babies featuring Julia Donaldson and Axel Scheffler's iconic creation, the Gruffalo.
 
-**Title:** [The Body Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205393230)<br>
-**Author:** Alice Hannah<br>
-**Publisher:** London : Nosy Crow, 2020.<br>
-**Location:** Early Literacy Picture Books<br>
-**Call Number:** English 612 ALI<br>
+<img src="/images/diyresources/preschool/Hide%20and%20Seek.jpg" alt="the body book" style="width:40%">
 
-What’s going on inside the human body? How do we move, eat, think, sleep and breathe? Children will love looking inside to discover the answers with amazing see-through pages and clear, friendly text. With labelled acetate diagrams of the muscular, skeletal, respiratory, circulatory, digestive, excretory and nervous systems, this is a fantastic first look at human anatomy for curious children everywhere.
+**Title:** [Hide and Seek: Lift-the-Flap](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205501904) <br>
+**Author:** Roald Dahl <br>
+**Illustrator:** Quentin Blake <br>
+**Publisher:** London: Puffin Books, 2021. <br>
+**Location:** Early Literacy Sense & Sensations <br>
+**Call Number:** English DAH <br>
 
-From pumping blood to breathing air, The Body Book is an exciting way to explore all the amazing things our body can do.
+It's time for a gloriumptious game of hide and seek with Roald Dahl!
 
-<img src="/images/diyresources/preschool/birthdayonmars.jpg" alt="Runaway shirt" style="width:40%">
+Who's that hiding under the flap? Is it a ginormous giraffe or a friendly giant? Just watch out for the enormous crocodile...
 
-**Title:** [Birthday On Mars!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203892467) <br>
-**Author:** Sara Schonfeld<br>
-**Illustrator:** Andrew J. Ross <br>
-**Publisher:** New York : Penguin Workshop, 2019.<br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English SCH <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/4373086](https://nlb.overdrive.com/media/4373086) <br>
+With iconic illustrations from Quentin Blake, this sturdy, colourful lift-the-flap book is the perfect way to introduce the youngest chiddlers to the wonderful world of Roald Dahl.
 
-Mars is our closest neighbor, and a little robot named Curiosity is investigating the planet for us. Join for a tour of the place this rover calls home. Get to know Mars through eye-catching illustrations of an alien landscape and the adorable robot in charge of exploring it all. And this rover's birthday is a perfect time to celebrate curiosity. For nerdy parents, fans of space, or those who are just curious, relive the moment when the Curiosity rover sang itself happy birthday in 2013 after one year on Mars.
+<img src="/images/diyresources/preschool/Lets%20look%20at%20numbers.jpg" alt="let's look at numbers" style="width:40%">
 
-<img src="/images/diyresources/preschool/youchooseinspace.jpg" alt="100 things" style="width:40%">
+**Title:** [Let’s Look at Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205501398) <br>
+**Author:** Marion Deuchars <br>
+**Illustrator:** Marion Deuchars <br>
+**Publisher:** London: Laurence King Publishing, 2021. <br>
+**Location:** Early Literacy Concepts <br>
+**Call Number:** English 513.2 DEU <br>
+
+Introduce numbers from 1 to 10 with this stunning board book, perfect for sharing with your baby or toddler.
+
+Part of a brand-new series of board books Let's Look At... and with beautiful artwork from bestselling author and illustrator Marion Deuchars, this book is the perfect introduction to counting. Make learning fun and stimulating as you go through the pages of this gorgeous book for young readers.
+
+<img src="/images/diyresources/preschool/Can%20you%20guess%20animals.jpg" alt="can you guess animals" style="width:50%">
 	
-**Title:** [You Choose In Space ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203018534)<br>
-**Author:** Pippa Goodheart<br>
-**Illustrator:** Nick Sharatt<br>
-**Publisher:** London : Puffin, 2017.<br>
-**Location:** Early Literacy Picture Books<br>
-**Call Number:** English GOO<br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3562760](https://nlb.overdrive.com/media/3562760) <br>
+**Title:** [Can You Guess? Animals: With the Very Hungry Caterpillar](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=204383151 )	<br>
+**Author:** Eric Carle <br>
+**Illustrator:** Eric Carle <br>
+**Publisher:** New York: World of Eric Carle, 2020. <br>
+**Location:** Early Literacy Emergent Readers  <br>
+**Call Number:** English 590 CAR <br>
 
-Zoom off into space for an adventure where YOU CHOOSE what happens next. Which alien would you most like to be friends with? And what fantastically freaky food will you decide to much for lunch?
+Spot the animals in this guessing-game board book featuring The Very Hungry Caterpillar!
 
-The possibilities are infinite in this mesmerising creative toolkit which will inspire children from 3 up to make their own stories time and again - a spectacular sequel to the bestselling You Choose - it's out of this world!
+Which animal has wrinkly gray skin and a long trunk? It's an elephant! Try to guess which animal will appear on the next page from the colorful close-ups and clever clues from The Very Hungry Caterpillar. Eric Carle's beautiful classic illustrations bring the animals to life on the page! 
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

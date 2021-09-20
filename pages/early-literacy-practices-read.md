@@ -16,68 +16,79 @@ Reading books to children teaches them how to handle books as well as how text f
  
 ### **Recommended Activities**
 
-**Alphabet Scrapbook** <br>
-An alphabet scrapbook is a simple way to make reading and learning fun for your child. While it may be convenient to buy a book directly from a store, your child will better appreciate an alphabet scrapbook that the two of you have created together. Make a simple booklet from colourful pieces of paper stapled together. Label each page with an alphabet or draw the outline of each letter and ask your child to colour it. Then ask them to fill each page with pictures cut from old magazines, newspapers, photos or drawings of things starting with that letter. Spend some quality bonding time reading through the pages of the alphabet scrapbook that you and your child have created together!
+**Alphabet Smash** <br>
+Are you ready for a smashing good time with your child? All you need for this activity is a piece of paper, writing materials or any alphabet toys and modelling clay. Write the alphabet or lay out alphabet toys on the piece of paper. Mould the modelling clay into balls. Say out a letter and guide your young child to smash the letter on the paper with the clay ball. Not only will they learn the letters, but they will also develop their sensory skills as they touch and feel the modelling clay. 
 
-Adapted from [*Early Literacy Activities for Learning Letters. Helping Your Child Become a Successful Reader!*](http://www.childrens-books-and-reading.com/early-literacy-activities.html)
+For older children, you can prepare simple words or images for them to smash. If images are used, it can even be a sorting game where they use a different modelling clay colour to smash the odd images.
 
-**Cookbooking** <br>
-Cooking is always a delightful activity for children, especially when they are given a free pass to make a small mess and of course, when they can eat the results!
+Adapted from: [How I Teach With Smash Mats](https://kcummingsslp.blogspot.com/2017/09/how-i-teach-with-smash-mats.html)
 
-Get easy-to-read recipes available from the internet or from cookbooks. Select a recipe that is easy to follow and does not require too many ingredients or complicated steps. Show your child the recipe and go over it together. Ask your child to read the recipe to you as you work. Explain that each step must be done in the stated order. For younger children who are not able to read independently, you can read the recipe for them instead. Engage your child in the preparation by letting them do the simple steps such as help mixing the ingredients, using the cookie cutter or adding sprinkles.
+**Tell Me a Story** <br>
+Sharing stories is a nice way to bond with your child. Besides reading books, you can also create your own story with your child. You just need to choose some items available in your house and tell a story to your child based on the items. For younger children, this helps them develop their vocabulary as they make connections between the word and the object it represents. Try getting them to touch and feel the objects and describe to them the features of the objects.
 
-For older children, allow your child to write down other recipes from the cookbook that they would like to make together.
+For older children, you can take turns to tell a story with your child by saying a line based on an object. This can be done repeatedly as the story can be retold by changing the order of the objects.
 
-Adapted from [*25 Activities for Reading and Writing Fun. Launching Young Readers*](https://www.readingrockets.org/article/25-activities-reading-and-writing-fun).
+**Read on the Go** <br>
+Reading is an activity that can take place everywhere. Have some fun looking for reading opportunities when you spend time with your child outside. Point to words you see on signages and buildings and say it out clearly. Younger children would try to imitate your speech or if they cannot do so yet, you are helping them internalise new words. Children can also develop print awareness through this activity as they learn that functions of print rely on the context it occurs, for example, words on signages and words in food menus.
 
-**Let's Go Shopping!** <br>
-This is the easiest literacy activity ever! Write out the alphabet on a piece of paper. Sit down with a familiar book. Instead of reading the book, you will just be using it to find letters. Look for each letter and turn the page from time to time for a new search area. You can adjust the difficulty level for this activity by looking only for 5-10 letters instead of the whole alphabet. For older children, look for sight words instead of letters.
+For older children, you can make it more exciting by getting them to spot words that begin with a letter or recall words that rhyme with words they see outside.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/mommy.PNG" style="width:40%">
+<img src="/images/diyresources/preschool/ABC.png" style="width:50%">
 
-**Title:** [Can You See My Mommy?	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205397487)<br>
-**Author:** Becky Davies <br>
-**Illustrator:** Mel Armstrong <br>
-**Publisher:** New York, New York : Random House, 2021.<br>
+**Title:** [A B C](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205491295)	<br>
+**Author:** Lemon Ribbon Studio <br>
+**Illustrator:** Lemon Ribbon Studio <br>
+**Publisher:** London, UK: Ladybird Books, 2021. <br>
 **Location:** Early Literacy Sense & Sensations  <br>
-**Call Number:** English DAV <br>
+**Call Number:** English 421 A <br>
 
-Peek through the pages to help each baby critter find their mommy! Little critters such as a butterfly, snail, and ladybug tell readers what they love about their mommies. Filled with gorgeous artwork that camouflages the moms, the pages are die-cut so that the found mom is a raised piece that kids can touch. With sweet, rhyming text that details what the babies love about their mommies, this is an ideal read-aloud for parents and children to share!
+Introduce your baby to their first letters with this large touch-and-feel playbook. 
 
-<img src="/images/diyresources/preschool/bedtime%20rhymes.png" style="width:40%">
-																																								
-**Title:** [Bedtime Rhymes	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402447) <br>
-**Author:** Joel Selby<br>
-**Illustrator:** Ashley Selby <br>
-**Publisher:** London: Campbell Books, 2021.<br>
-**Location:** Early Literacy Sense & Sensations <br>
-**Call Number:** English 398.8 SEL<br>
+Say and touch the alphabet, from A for aeroplane to Z for zebra. 
+With textured patches to touch, feel and explore, this bright and sturdy board book will engage young children from birth upwards. High-contrast colours and touch-and-feels stimulate a baby's senses, while encouraging interaction and play.
+
+A perfect first alphabet book for all babies and toddlers.
+
+<img src="/images/diyresources/preschool/babys%20first%20spot%20and%20see.png" style="width:40%">
+
+**Title:** [Baby's First Spot & See](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205494990)  <br>
+**Author:** Kate Lockwood<br>
+**Illustrator:** Joel and Ashley Selby <br>
+**Publisher:** San Diego, CA: Silver Dolphin Books, an imprint of Printers Row Publishing Group, 2021. <br>
+**Location:** Early Literacy Emergent Readers <br>
+**Call Number:** English LOC <br>
 
 Read about how the cow jump over the moon, rock the baby's cradle and gaze at all the twinkly stars in the night sky before bed in Bedtime Rhymes. Toddlers will love using the chunky push, pull and slide mechanisms to bring these classic playtime rhymes to life. Scan the QR code to sing along together too! With bright, bold illustrations from Joel and Ashley Selby, this is the perfect bedtime read for little ones.
 
-<img src="/images/diyresources/preschool/doctorsaurus.PNG" style="width:40%">
+<img src="/images/diyresources/preschool/daisys%20dragons.png" style="width:40%">
 
-**Title:** [Doctorsaurus!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205400745) <br>
-**Author:** Emi-Lou May<br>
-**Illustrator:** Leire Martin<br>
-**Publisher:** London: Little Tiger Press, 2021.<br>
+**Title:** [Daisy's Dragons: A Story About Feelings](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205506600)	<br>
+**Author:** Frances Stickley <br>
+**Illustrator:** Annabel Tempest <br>
+**Publisher:** London: Studio Press, 2021. <br>
 **Location:** Early Literacy Picture Books  <br>
-**Call Number:** English MAY <br>
+**Call Number:** English STI <br>
 
-Thumping head? Tummy ache? Nose all sore and sniffy? Then call for Doctorsaurus and she’ll fix you in a jiffy! A rhyming prehistoric romp – just the tonic for poorly toddlers!
+Warning! Contains dragons.
 
-<img src="/images/diyresources/preschool/meet%20the%20oceans.png" style="width:40%">
+Nobody but Daisy can see her dragons. And usually, they all get along in their own wonderful chaotic way, but Daisy's dragons aren't like ordinary dragons; Daisy's dragons are her feelings. So when Daisy has a very tricky day, suddenly, all is not harmonious amongst the dragons. Sad keeps growing and growing, and Angry is breathing fire at everyone and everything he sees while Scared's screaming is driving everybody to distraction. Suddenly, some of Daisy's dragons feel bad. And Daisy doesn't want bad dragons.
 
-**Title:** [Meet The Oceans](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205400845) <br>
-**Author:** Caryl Hart  <br>
-**Illustrator:** Bethany Woollvin<br>
-**Publisher:** London : Bloomsbury Children's Books, \[2021\] ©2021. <br>
+But Daisy soon discovers that without Angry, Sad and Scared, her other dragons are nowhere to be seen either. Could it be that to feel truly happy, calm and brave, Daisy needs all of her dragons together?
+
+Daisy's Dragons is a mindful metaphor that helps children understand the importance of all their emotions - even the negative ones. It addresses the necessity of difficult feelings and celebrates their capacity for self-preservation, self-esteem and reflection. After all, you can't be brave if you're not frightened first.
+
+<img src="/images/diyresources/preschool/ergo.png" style="width:40%">
+
+**Title:** [Ergo ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205499584)<br>
+**Author:** Alexis Deacon <br>
+**Illustrator:** Viviane Schwarz <br>
+**Publisher:** London, England: Walker Books, 2021. <br>
 **Location:** Early Literacy Picture Books  <br>
-**Call Number:** English HAR
+**Call Number:** English DEA <br>
 
-Let's dive through a world full of mystery and go visit the oceans and seas on a submarine epic adventure... All aboard -- take your seats if you please! Join in with the fun rhymes as we go on an underwater expedition to say hello to the oceans and seas of our world. The ocean is a vast treasure-house, threatened by plastic waste and pollution, and this picture book is the ideal introduction to the importance of caring for it. It's perfect for all would-be explorers!
+Ergo wakes up and sets off to explore the world. The first things she discovers are her toes. Wiggle, wiggle. Then she finds her wings. Flap, flap. Then her beak. And her legs. She has discovered everything! I am the world and the world is me, she thinks. Until she considers the wall around her. Is that part of her, too? And is that noise from beyond the wall . . . something else? At once humorous and inspirational, this light-hearted foray by Alexis Deacon and Viviane Schwarz is for dreamers and philosophers, the foolish and the enlightened—a picture book experience told with simplicity and style.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

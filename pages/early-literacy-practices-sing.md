@@ -23,6 +23,8 @@ Use an empty square tissue box and fill it with recycled paper. It will be bette
 
 For example, “Itsy Bitsy Spider” is represented by a clipart of a spider and the word “Spider”;  “Twinkle, Twinkle Little Star” is represented by a clipart of a star and the word “Star”. Your completed nursery rhymes and songs cube should look something like the image below. Do ensure that all six sides of the cube are represented by a rhyme or song.
 
+<img src="/images/diyresources/preschool/nursery%20rhymes%20cube.png" style="width:60%">
+
 Change the nursery rhymes or make a new cube with 6 different nursery rhymes or songs to add some variety.
 
 Adapted from: http://melissa.depperfamily.net/blog/early-literacy-storytime-song-cube/
@@ -46,6 +48,8 @@ Adapted from: https://sightwords.com/phonemic-awareness/rhyming/i-spy-a-rhyme/
 
 **Matching Rhyme Time!** <br>
 This is a fun and easy rhyming card game for the whole family! Prepare a set of picture cards. Each picture card will have its matching card that rhymes with it. For example, a card with an image of a cat and another card with an image of a hat as seen below. Other examples can include, “fox” and “box”, “dog” and “log”, “slug” and “jug” etc.
+
+<img src="/images/diyresources/preschool/matching%20rhyme%20time.png" style="width:90%">
 
 To play the game, separate the pairs of rhyming cards into two separate stacks and face both stacks down on a flat surface. Take turns with your child to flip over one picture card from each stack and name the picture seen on the card.
 

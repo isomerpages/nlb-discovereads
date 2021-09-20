@@ -16,10 +16,12 @@ Reading books to children teaches them how to handle books as well as how text f
  
 ### **Recommended Activities**
 
-**Alphabet Scrapbook** <br>
-An alphabet scrapbook is a simple way to make reading and learning fun for your child. While it may be convenient to buy a book directly from a store, your child will better appreciate an alphabet scrapbook that the two of you have created together. Make a simple booklet from colourful pieces of paper stapled together. Label each page with an alphabet or draw the outline of each letter and ask your child to colour it. Then ask them to fill each page with pictures cut from old magazines, newspapers, photos or drawings of things starting with that letter. Spend some quality bonding time reading through the pages of the alphabet scrapbook that you and your child have created together!
+**Alphabet Smash** <br>
+Are you ready for a smashing good time with your child? All you need for this activity is a piece of paper, writing materials or any alphabet toys and modelling clay. Write the alphabet or lay out alphabet toys on the piece of paper. Mould the modelling clay into balls. Say out a letter and guide your young child to smash the letter on the paper with the clay ball. Not only will they learn the letters, but they will also develop their sensory skills as they touch and feel the modelling clay. 
 
-Adapted from [*Early Literacy Activities for Learning Letters. Helping Your Child Become a Successful Reader!*](http://www.childrens-books-and-reading.com/early-literacy-activities.html)
+For older children, you can prepare simple words or images for them to smash. If images are used, it can even be a sorting game where they use a different modelling clay colour to smash the odd images.
+
+Adapted from: https://kcummingsslp.blogspot.com/2017/09/how-i-teach-with-smash-mats.html
 
 **Cookbooking** <br>
 Cooking is always a delightful activity for children, especially when they are given a free pass to make a small mess and of course, when they can eat the results!
@@ -37,7 +39,7 @@ This is the easiest literacy activity ever! Write out the alphabet on a piece of
 
 <img src="/images/diyresources/preschool/mommy.PNG" style="width:40%">
 
-**Title:** [Can You See My Mommy?	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205397487)<br>
+**Title:** [Can You See My Mommy?	](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205397487) <br>
 **Author:** Becky Davies <br>
 **Illustrator:** Mel Armstrong <br>
 **Publisher:** New York, New York : Random House, 2021.<br>

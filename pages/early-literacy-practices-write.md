@@ -14,51 +14,60 @@ Writing helps children develop motor skills and understand that written words re
 
 ### **Recommended Activities**
 
-**Shapes and Numbers** <br>
-Shapes and numbers are simple concepts that children aged 2-3 can learn. When they practise  drawing shapes and writing numbers, they are learning that writing represent concepts or ideas. Here is a fun way to combine shapes and numbers in an activity. Using cutouts or toys, have various numbers jumbled up across a page. Invite your child to draw a different shape around certain numbers. For example, “Draw a circle around all 5s and 8s. Draw a square around all 2s and 3s.” 
+**Connect the Dots** <br>
+If your child is just starting to learn how to write, it would be useful for them to learn basic writing patterns such as zigzags, curves and diagonals. What is great about this activity is that writing pattern worksheets are easily available online for you to print and share with your child. Make the activity fun by experimenting with different types of writing surfaces and materials.
 
-**What’s the Missing Letter?** <br>
-Letter knowledge is one of the pre-reading skills that your child needs to become a fluent reader. It means being able to recognise the letters in the alphabet and the sounds they make. One way that you can help your child to develop this skill is to have your child fill in a series of words that contain certain letters. Example: “F_ _E (Fire); E_ _S (Eggs); S_ _T (Spot); T_ _E (Time)”.
+**Rhymes** <br>
+Rhymes are great for building vocabulary. For this activity, you will need to gather some words that rhyme. Print out images that represent these words and group them together based on how they rhyme. Explain to your child the different groups. For example, “These words are grouped together because they end with -ime.” Ask your child to guess the word that corresponds with the image. For older children, you may get them to write down the word on a piece of paper. 
 
-**Clay Modelling** <br>
-Learning to write is not limited to using pencils. Inject more fun in writing activities by using modelling clay. Read a story together with your child and form letter or words used in the story using modelling clay. Your child can also form the objects that the words stand for as well. For younger children, you may guide them to form the items.
+This activity can be expanded to introduce words that begin with the same letters. For example, words that begin with the letters “ch-”, such as chair, child, chime, chore, etc.
+
+**Finger Painting** <br>
+This simple activity helps children get used to writing as it closely replicates writing with a pencil. All you need are pieces of paper and child-friendly non-toxic paints in various vibrant colours. Write out your child’s name or any word on a piece of paper. Make sure the letters are well-spaced out as the paint will bleed into the paper. Get your child to trace over what you have written with their fingers dipped in paint. 
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/the%20pencil.jpg" alt="the pencil" style="width:40%">
+<img style="width:40%" alt="the pencil" src="/images/diyresources/preschool/the%20pencil.jpg">
 
-**Title:** [The Pencil](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202458221) <br>
-**Author:** Paula Bossio <br>
-**Publisher:** Wellington, New Zealand: Gecko Press, 2016.<br>
-**Location:** Early Literacy Emergent Readers<br>
-**Call Number:** English BOS<br>
+**Title:** [The Cows on The Bus: a Sing-along Action Rhyme!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205384382) <br>
+**Author:** Georgiana Deutsch <br>
+**Illustrator:** Valerie Sindelar <br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021. ©2021 <br>
+**Location:** Early Literacy Sense &amp; Sensations <br>
+**Call Number:** English DEU <br>
 
-A little girl finds the end of a pencil line and her adventure begins . . .
+Join the cows on the bus in this hilarious mixed-up rhyme! With sturdy tabs to pull that reveal a surprise on every page, this is the perfect book to make little learners giggle!
 
-<img src="/images/diyresources/preschool/follow%20that%20unicorn.jpg" alt="follow the unicorn" style="width:40%">
+<img style="width:40%" alt="follow the unicorn" src="/images/diyresources/preschool/follow%20that%20unicorn.jpg">
 
-**Title:** [Follow That Unicorn!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205257161)<br>
-**Author:** Georgie Taylor<br>
-**Publisher:** Woodbridge: Imagine That, [2020]<br>
-**Location:** Early Literacy Sense & Sensations <br>
-**Call Number:** English 793.73 TAY <br>
+**Title:** [Theo Thesaurus: The Dinosaur Who Loved Big Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205471252 ) <br>
+**Author:** Shelli R. Johannes <br>
+**Illustrator:** Michael Moran <br>
+**Publisher:** New York : Philomel Books, 2021. <br>
+**Location:** Early Literacy Picture Books <br>
+**Call Number:** English JOH <br>
 
-Discover finger-tracing fun as you trace the trails and follow that unicorn through the magical fairyland pictures! Explore the colorful illustrations as you trace the grooved trails on each page with your fingers and follow the unicorn through the five different magical scenes. There's lots of neighing, twinkling, and magical unicorns to spot along the way! There are die-cuts to find and feel, plus holes lead you through the pages as you follow that unicorn and find out where she is going!
+Theo TheSaurus is a little dino who loves words--the bigger the better! And he's determined to share that love with his new classmates in his new school, no matter that they don't understand him at first. But when a trip to the athenaeum (also known as the library) becomes a visit to the auditorium instead, and a suggestion to play conceal-and-search (or hide-and-seek) only earns him looks of confusion, Theo realizes that misinterpretations can actually just be plain confusing! It's only when his newfound friends find a way to show they care that Theo learns that sometimes, there are things more important than words.
 
-<img src="/images/diyresources/preschool/Door.jpg" alt="door" style="width:40%">
+In this sweet and funny book filled with bright art, a brand-new dino character, and a full glossary of big words at the end, readers have tons of fun--and learn some new words along the way! It's FANCY NANCY for the dino-loving set!
 
-**Title:** Door<br>
-**Author:** JiHyeon Lee<br>
-**Publisher:** San Francisco : Chronicle Books LLC, 2018. <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3960656](https://nlb.overdrive.com/media/3960656) <br>
+<img style="width:40%" alt="door" src="/images/diyresources/preschool/Door.jpg">
 
-What's on the other side of the door? There's only one way to find out: You'll have to go through it. JiHyeon Lee's debut book, Pool, was lauded as a wordless masterpiece. Here she takes readers on another journey into an unexpected world. Delicate drawings transform from grays to vivid color as a curious child goes through a mysterious door and discovers that open-mindedness is the key to adventure and friendship.
+**Title:** [Every Little Letter](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205242819) <br>
+**Author:** Deborah Underwood <br>
+**Illustrator:** Joy Hwang  <br>
+**Publisher:** New York : Dial Books for Young Readers, \[2020\] ©2020 <br>
+**Location:** Early Literacy Picture Books <br>
+**Call Number:** English UND <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5091890 ](https://nlb.overdrive.com/media/5091890) <br>
 
-<img src="/images/diyresources/preschool/i-walk-with-vanessa.jpg" alt="walk with vanessa" style="width:40%">
+Small h has always lived with the other H’s in a city surrounded by walls that keep them safe. At least, that’s what the big H’s say. But one day, a hole in the wall reveals someone new on the other side. When little h and little i meet, they make a small word with big meaning: “hi!” The other H’s find out, though. They fill the hole. But it won’t be enough to keep these little letters apart–or twenty-four of their newest friends. Every Little Letter shows how even the smallest among us can make a big impact, and how a single act of friendship can inspire whole communities to come together. How do you tear down walls? With words, at first. Then brick by brick.
 
-**Title:** [I Walk With Vanessa](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=203121437) <br>
+<img style="width:40%" alt="walk with vanessa" src="/images/diyresources/preschool/i-walk-with-vanessa.jpg">
+
+**Title:** [I Walk With Vanessa](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=203121437) <br>
 **Author:** Kerascoët <br>
-**Publisher:** New York : Schwartz & Wade Books, [2018]<br>
+**Publisher:** New York : Schwartz &amp; Wade Books, [2018]<br>
 **Location:** Early Literacy Picture Books <br>
 **Call Number:** English KER<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3779087](https://nlb.overdrive.com/media/3779087) <br>

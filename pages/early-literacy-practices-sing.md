@@ -27,13 +27,13 @@ For example, “Itsy Bitsy Spider” is represented by a clipart of a spider and
 
 Change the nursery rhymes or make a new cube with 6 different nursery rhymes or songs to add some variety.
 
-Adapted from: http://melissa.depperfamily.net/blog/early-literacy-storytime-song-cube/
+Adapted from: [Storytime Cube](http://melissa.depperfamily.net/blog/early-literacy-storytime-song-cube/)
 
 **I Spy... Rhyme** <br>
 Play the classic game of I Spy. First, explain to your child that there are rhyming things all around us. Second, provide your child with a clue word and guide them to find an item in the room that rhymes with the clue word. The clue should be a one-syllable word such as ball, cat, mouse, duck etc. To play the game, you can follow the example given below and adapt accordingly.
 
 Parent: I spy, with my little eye. Something that rhymes with hook.<br>
-Child: [looking around] … I don’t know. <br>
+Child: \[looking around\] … I don’t know. <br>
 Parent: Hmm, what is on the shelf over there? <br>
 Child: A book? <br>
 Parent: Yes, a book. Does that rhyme with hook? Say the two words together. <br>
@@ -44,7 +44,7 @@ Parent: Yes, hook rhymes with book. <br>
 
 If the child is not able to find something that rhymes, you may provide more clues and narrow the search area to help them. 
 
-Adapted from: https://sightwords.com/phonemic-awareness/rhyming/i-spy-a-rhyme/ 
+Adapted from: [I Spy a Rhyme](https://sightwords.com/phonemic-awareness/rhyming/i-spy-a-rhyme/ )
 
 **Matching Rhyme Time!** <br>
 This is a fun and easy rhyming card game for the whole family! Prepare a set of picture cards. Each picture card will have its matching card that rhymes with it. For example, a card with an image of a cat and another card with an image of a hat as seen below. Other examples can include, “fox” and “box”, “dog” and “log”, “slug” and “jug” etc.

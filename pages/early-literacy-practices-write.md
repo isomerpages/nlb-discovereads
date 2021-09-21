@@ -27,7 +27,18 @@ This simple activity helps children get used to writing as it closely replicates
 
 ### **Recommended Books**
 
-<img style="width:40%" alt="the pencil" src="/images/diyresources/preschool/the%20pencil.jpg">
+<img src="/images/diyresources/preschool/touch%20and%20trace%20abc.jpeg" style="width:40%">
+
+**Title:** [Touch and Trace ABC](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205528241) <br>
+**Author:** Harriet Evans <br>
+**Illustrator:** Jordan Wray <br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021. <br>
+**Location:** Early Literacy Concepts <br>
+**Call Number:** English 421 EVA<br>
+
+Using their finger, children can trace each grooved letter and explore its shape. With each letter in the alphabet to trace and words to learn, this book has plenty for little ones to discover and learn. An exciting and tactile introduction to the world of writing!
+
+<img src="/images/diyresources/preschool/the%20cows%20on%20the%20bus.jpeg" style="width:40%">
 
 **Title:** [The Cows on The Bus: a Sing-along Action Rhyme!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205384382) <br>
 **Author:** Georgiana Deutsch <br>
@@ -38,9 +49,9 @@ This simple activity helps children get used to writing as it closely replicates
 
 Join the cows on the bus in this hilarious mixed-up rhyme! With sturdy tabs to pull that reveal a surprise on every page, this is the perfect book to make little learners giggle!
 
-<img style="width:40%" alt="follow the unicorn" src="/images/diyresources/preschool/follow%20that%20unicorn.jpg">
+<img src="/images/diyresources/preschool/theo%20thesaurus.jpeg" alt="theo thesaurus" style="width:40%">
 
-**Title:** [Theo Thesaurus: The Dinosaur Who Loved Big Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205471252 ) <br>
+**Title:** [Theo Thesaurus: The Dinosaur Who Loved Big Words](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205471252) <br>
 **Author:** Shelli R. Johannes <br>
 **Illustrator:** Michael Moran <br>
 **Publisher:** New York : Philomel Books, 2021. <br>
@@ -51,7 +62,7 @@ Theo TheSaurus is a little dino who loves words--the bigger the better! And he's
 
 In this sweet and funny book filled with bright art, a brand-new dino character, and a full glossary of big words at the end, readers have tons of fun--and learn some new words along the way! It's FANCY NANCY for the dino-loving set!
 
-<img style="width:40%" alt="door" src="/images/diyresources/preschool/Door.jpg">
+<img src="/images/diyresources/preschool/every%20little%20letter.jpeg" alt="every little letter" style="width:40%">
 
 **Title:** [Every Little Letter](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=205242819) <br>
 **Author:** Deborah Underwood <br>
@@ -59,21 +70,10 @@ In this sweet and funny book filled with bright art, a brand-new dino character,
 **Publisher:** New York : Dial Books for Young Readers, \[2020\] ©2020 <br>
 **Location:** Early Literacy Picture Books <br>
 **Call Number:** English UND <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/5091890 ](https://nlb.overdrive.com/media/5091890) <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5091890](https://nlb.overdrive.com/media/5091890) <br>
 
 Small h has always lived with the other H’s in a city surrounded by walls that keep them safe. At least, that’s what the big H’s say. But one day, a hole in the wall reveals someone new on the other side. When little h and little i meet, they make a small word with big meaning: “hi!” The other H’s find out, though. They fill the hole. But it won’t be enough to keep these little letters apart–or twenty-four of their newest friends. Every Little Letter shows how even the smallest among us can make a big impact, and how a single act of friendship can inspire whole communities to come together. How do you tear down walls? With words, at first. Then brick by brick.
 
-<img style="width:40%" alt="walk with vanessa" src="/images/diyresources/preschool/i-walk-with-vanessa.jpg">
-
-**Title:** [I Walk With Vanessa](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&amp;BRN=203121437) <br>
-**Author:** Kerascoët <br>
-**Publisher:** New York : Schwartz &amp; Wade Books, [2018]<br>
-**Location:** Early Literacy Picture Books <br>
-**Call Number:** English KER<br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3779087](https://nlb.overdrive.com/media/3779087) <br>
-
-An elementary school girl witnesses the bullying of another girl, but she is not sure how to help.
-
-*All synopsis taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
 **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**

@@ -35,7 +35,7 @@ For older children, you can make it more exciting by getting them to spot words 
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/ABC.png" style="width:50%">
+<img src="/images/diyresources/preschool/baby%20touch%20abc%2002.jpeg" style="width:40%">
 
 **Title:** [A B C](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205491295)	<br>
 **Author:** Lemon Ribbon Studio <br>
@@ -51,7 +51,7 @@ With textured patches to touch, feel and explore, this bright and sturdy board b
 
 A perfect first alphabet book for all babies and toddlers.
 
-<img src="/images/diyresources/preschool/babys%20first%20spot%20and%20see.png" style="width:40%">
+<img src="/images/diyresources/preschool/babys%20first%20spot%20and%20see.jpeg" style="width:40%">
 
 **Title:** [Baby's First Spot & See](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205494990)  <br>
 **Author:** Kate Lockwood<br>
@@ -62,7 +62,7 @@ A perfect first alphabet book for all babies and toddlers.
 
 Read about how the cow jump over the moon, rock the baby's cradle and gaze at all the twinkly stars in the night sky before bed in Bedtime Rhymes. Toddlers will love using the chunky push, pull and slide mechanisms to bring these classic playtime rhymes to life. Scan the QR code to sing along together too! With bright, bold illustrations from Joel and Ashley Selby, this is the perfect bedtime read for little ones.
 
-<img src="/images/diyresources/preschool/daisys%20dragons.png" style="width:40%">
+<img src="/images/diyresources/preschool/daisys%20dragons%2002.jpg" style="width:40%">
 
 **Title:** [Daisy's Dragons: A Story About Feelings](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205506600)	<br>
 **Author:** Frances Stickley <br>
@@ -79,7 +79,7 @@ But Daisy soon discovers that without Angry, Sad and Scared, her other dragons a
 
 Daisy's Dragons is a mindful metaphor that helps children understand the importance of all their emotions - even the negative ones. It addresses the necessity of difficult feelings and celebrates their capacity for self-preservation, self-esteem and reflection. After all, you can't be brave if you're not frightened first.
 
-<img src="/images/diyresources/preschool/ergo.png" style="width:40%">
+<img src="/images/diyresources/preschool/ergo%2002.jpeg" style="width:40%">
 
 **Title:** [Ergo ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205499584)<br>
 **Author:** Alexis Deacon <br>

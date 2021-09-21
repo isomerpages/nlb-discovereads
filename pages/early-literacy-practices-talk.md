@@ -82,7 +82,7 @@ With endearing illustrations and mindful concepts, the ABC for Me series pairs e
 **Publisher:** New York : Random House, \[2020\]<br>
 **Location:** Early Literacy Picture Books <br>
 **Call Number:** English BRY<br>
-**OverDrive Link:** https://nlb.overdrive.com/media/5275016 <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/5275016](https://nlb.overdrive.com/media/5275016) <br>
 
 Plucky science-lover Rocket returns in another inspiring picture book about getting a community to notice the world around them, and, in this book, to CLEAN UP! their shoreline.
 
@@ -93,7 +93,7 @@ Rocket, is off to the islands to visit her grandparents. Her family loves nothin
 **Title:** Be Careful and Stay Safe <br>
 **Author:** Cheri J. Meiners <br>
 **Publisher:** Free Spirit Publishing <br>
-**Overdrive link:** https://nlb.overdrive.com/media/657933 <br>
+**Overdrive link:** [https://nlb.overdrive.com/media/657933](https://nlb.overdrive.com/media/657933) <br>
 
 The world can seem so perilous, especially where our children are concerned. But even very young children can learn basic skills for staying safe in ordinary situations and preparing for emergencies. Without scaring kids (or alarming adults), this book teaches little ones how to avoid potentially dangerous situations, ask for help, follow directions, use things carefully, and plan ahead. Includes questions, activities, and safety games that reinforce the ideas being taught.
 

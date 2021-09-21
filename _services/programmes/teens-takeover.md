@@ -57,7 +57,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 
-* **Upcoming!** [29 Oct] D.I.Y. Fabric Cupholder Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Friday 3-4.30pm  [Registration TBC]
+* [29 Oct] D.I.Y. Fabric Cupholder Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Friday 3-4.30pm  [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-diy-fabric-cup-holder-greenhouse-tickets-173959255817?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
 
@@ -66,7 +66,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
 
-* **Upcoming!** [16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Registration TBC]
+* [16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!](https://www.eventbrite.com/e/medical-myths-debunked-workshop-scienti-fx-teens-takeover-tickets-173951151577?aff=ebcollection&keep_tld=1)
 
 Keep a look out for more NLB's Teens Takeover workshop registration openings [here](http://go.gov.sg/nlb-teensprogs). See you there! 🙂 
 
@@ -82,6 +82,7 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 * <s>[6 Aug] Study with Me Online, Zoom, Friday, 4-6pm [Register now!]</s>
 * <s>[17 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
 * [24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register now!](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160182380813?aff=ebdssbonlinesearch)
+* [8 Oct] Study with Me Online, Zoom, Friday 4-6pm [Register now!](https://www.eventbrite.com/e/teens-takeover-libraries-study-with-me-online-tickets-169250580041?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/ttl-downtime-online.png" alt="TTL downtime online" style="width: 70%;">
 

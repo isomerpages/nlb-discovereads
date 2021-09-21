@@ -6,7 +6,7 @@ third_nav_title: Preschool Resources
 ---
 ## **Early Literacy Practices**
 
-_(Updated in June 2021)_
+_(Updated in September 2021)_
 
 Research shows that there are early literacy skills that children need to pick up on their way to becoming fluent readers:
 

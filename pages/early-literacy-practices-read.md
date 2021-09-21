@@ -35,7 +35,7 @@ For older children, you can make it more exciting by getting them to spot words 
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/ABC.png" style="width:40%">
+<img src="/images/diyresources/preschool/baby%20touch%20abc%2002.jpeg" style="width:40%">
 
 **Title:** [A B C](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205491295)	<br>
 **Author:** Lemon Ribbon Studio <br>

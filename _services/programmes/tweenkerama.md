@@ -16,11 +16,11 @@ Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an
 Please note that the Tweenkerama workshops in October 2021 have been cancelled.
 
 ~~Upcoming workshops:~~
-~~* Perfecting Paper Prototyping @  library@harbourfront, 8 October 2021, 2pm-4pm~~
-~~* Perfecting Paper Prototyping @  Jurong Regional Library, 9 October 2021, 2pm-4pm~~
-~~* Can You Build a Skyscraper? @ Toa Payoh Public Library, 9 October 2021, 2pm-4pm~~
-~~* Gear Up! @ Bishan Public Library, 10 October 2021, 2pm-4pm~~
-~~* Can You Build a Skyscraper? @ Geylang East Public Library, 10 October 2021, 2pm-4pm~~
+*~~Perfecting Paper Prototyping @  library@harbourfront, 8 October 2021, 2pm-4pm~~
+*~~Perfecting Paper Prototyping @  Jurong Regional Library, 9 October 2021, 2pm-4pm~~
+*~~Can You Build a Skyscraper? @ Toa Payoh Public Library, 9 October 2021, 2pm-4pm~~
+*~~Gear Up! @ Bishan Public Library, 10 October 2021, 2pm-4pm~~
+*~~Can You Build a Skyscraper? @ Geylang East Public Library, 10 October 2021, 2pm-4pm~~
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 

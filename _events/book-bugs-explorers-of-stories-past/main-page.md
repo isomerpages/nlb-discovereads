@@ -7,7 +7,6 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past
 
-
 ### Book Bugs cards have been fully redeemed!
 
 <img src="/images/events/bookbugsx/BBX OOS Banner.png" alt="Book Bugs cards are out of stock" style="width: 100%">

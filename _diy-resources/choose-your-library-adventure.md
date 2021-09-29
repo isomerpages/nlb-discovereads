@@ -11,7 +11,7 @@ _(Updated on 29 September 2021)_
 **Sign up [here](https://go.gov.sg/nlb-CYLA-form) or scan the QR code to get notified when Choose Your Library Adventure launches.**
 <img src="/images/diyresources/CYLA Interest QR.png" style="width: 30%;">
 
-**Click on a button to find out more.**
+**Click on a link to find out more.**
 
 | [Trailer](#trailer) | [***New!*** Quiz](#quiz) |
 

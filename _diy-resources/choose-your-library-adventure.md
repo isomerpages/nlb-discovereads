@@ -12,6 +12,7 @@ _(Updated on 29 September 2021)_
 <img src="/images/diyresources/CYLA Interest QR.png" style="width: 30%;">
 
 **Click on a link to find out more.**
+
 | [Trailer](#trailer) | [***New!*** Quiz](#quiz) |
 
 

@@ -22,7 +22,7 @@ _(Updated on 29 September 2021)_
 <b><a href="#top">Back to top</a></b>
 
 ### **Quiz**
-<a href="https://nlb-childrenandteens.surveysparrow.com/s/Find-out-your-library-superpower-now/tt-3f0718"><img src="/images/diyresources/CYLA Quiz Link.png" style="width:50%"></a>
+<a href="https://nlb-childrenandteens.surveysparrow.com/s/Find-out-your-library-superpower-now/tt-3f0718"><img src="/images/diyresources/CYLA Quiz Link.png" style="width:50%;"></a>
 
 <b><a href="#top">Back to top</a></b>
 

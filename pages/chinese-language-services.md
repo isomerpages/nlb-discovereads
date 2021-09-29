@@ -4,6 +4,11 @@ permalink: /chinese-language
 ---
 # **Chinese Programmes for Primary Schools**
 
+Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
+
+
+### Programmes
+
 **Parenting Talk Series**
 
 The parenting talk series shares tips and information on education and parenting challenges commonly faced by parents with children aged 7 years old and above.
@@ -14,7 +19,7 @@ Held on a monthly basis, the Junior Avid Readers Reading Club aims to promote th
 
 Find out more and register for the talks and reading clubs at www.nlb.gov.sg/golibrary
 
-# Chinese Programmes for Secondary Schools
+#### Chinese Programmes for Secondary Schools
 
 **Book Buzz**
 
@@ -25,3 +30,6 @@ We offer one Book Buzz session per school at the school premises each year. Our 
 This programme series aims to encourage teens to rediscover the joy of reading through curated programmes such as comic- and fiction-writing workshops and explores games adapted from books.
 
 Teachers will send and accompany the students to the selected public libraries to attend the programme. Interested teachers may email us 2 months in advance at READSingapore@nlb.gov.sg to make arrangement for the programmes.
+
+### Contact Us
+For more information on the programmes listed here, please email the following at readchinese@nlb.gov.sg.

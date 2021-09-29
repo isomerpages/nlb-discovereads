@@ -15,7 +15,7 @@ _(Updated on 29 September 2021)_
 
 | [CYLA Trailer](#trailer) | [***New!*** Quiz](#quiz) |
 
-<a name="trailer">![Trailer header](/images/diyresources/CYLA Trailer.png)</a>
+### **Trailer**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEGim3PpXAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 <b><a href="#top">Back to top</a></b>

@@ -62,6 +62,22 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 * [2017](https://drive.google.com/drive/folders/1RCY54rDwkH-e5EtcKZFsoijbPK_fDmDn?usp=sharing)
 * [2016](https://drive.google.com/drive/folders/19puD-lILPJy3ILnI_WYNyeXCvMTrgKzs?usp=sharing)
 
+## Activity Toolkit Instructional Videos
+
+As a way to ease our educators into using the Activity Toolkit, NLB's Early Read team has produced a series of videos to introduce the contents of the toolkit to educators and how they can be used to develop their students' literacy skills as well as their interest and proficiency in reading in English, Chinese, Malay and Tamil. 
+
+**Why You Should Use the Activity Toolkit**
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PykFtd8rIws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+**Early Read Activity Toolkit Lesson Plan**
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UN_8Lc_w5fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
 ## Contact Us
 If you have any enquiries, please do not hesitate to drop us an email at earlyread@nlb.gov.sg. 
 

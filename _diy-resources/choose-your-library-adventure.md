@@ -13,6 +13,8 @@ _(Updated on 29 September 2021)_
 
 **Click on a link to find out more.**
 
+| [![Quiz](/images/diyresources/CYLA Quiz Button.png)](#quiz) |
+
 | [Trailer](#trailer) | [***New!*** Quiz](#quiz) |
 
 

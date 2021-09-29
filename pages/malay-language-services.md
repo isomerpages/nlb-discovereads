@@ -1,7 +1,8 @@
 ---
 title: Malay Language Services
-permalink: /malay-language-services
+permalink: /malay-language
 ---
+
 # Malay Programmes for Primary Schools
 Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
 

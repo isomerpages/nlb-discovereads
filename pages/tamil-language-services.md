@@ -1,7 +1,8 @@
 ---
 title: Tamil Language Services
-permalink: /tamil-language-services
+permalink: /tamil-language
 ---
+
 # Tamil Programmes for Primary Schools
 
 **Raise-A-Reader Workshop (Tamil)**

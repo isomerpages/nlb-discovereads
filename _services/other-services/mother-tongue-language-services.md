@@ -13,3 +13,4 @@ Click on the icons to find out more!
 [![Alt text for image on Isomer site](/images/mother-tongue-services/Chinese%20Logo.png)](https://childrenandteens.nlb.gov.sg/chinese-language)
 [Chinese Language](https://childrenandteens.nlb.gov.sg/chinese-language)
 
+![Alt text for image on Isomer site](/images/mother-tongue-services/Malay%20Logo.png)

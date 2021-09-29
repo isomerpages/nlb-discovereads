@@ -2,8 +2,10 @@
 title: Tamil Language Services
 permalink: /tamil-language
 ---
-
 # Tamil Programmes for Primary Schools
+Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
+
+#### Programmes
 
 **Raise-A-Reader Workshop (Tamil)**
 

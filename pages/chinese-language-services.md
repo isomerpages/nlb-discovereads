@@ -4,8 +4,6 @@ permalink: /chinese-language
 ---
 # **Chinese Language Services**
 
-Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
-
 
 ### Programmes
 

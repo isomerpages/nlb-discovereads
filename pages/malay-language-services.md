@@ -3,7 +3,6 @@ title: Malay Language Services
 permalink: /malay-language
 ---
 # Malay Programmes for Primary Schools
-Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
 
 ### Programmes
 **Storytelling Session Duration: 30 – 45 minutes**

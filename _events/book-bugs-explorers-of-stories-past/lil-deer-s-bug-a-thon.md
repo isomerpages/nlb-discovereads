@@ -7,7 +7,45 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ### Lil' Deer's Bug-a-thon Reading Challenge
 
-**The Bug-a-thon has now ended!** The list of winners and photos of them and their prizes will be uploaded soon. Stay tuned!
+**The Bug-a-thon has now ended!** 
+
+Here are the winners from each round:
+
+| Round 1 | Round 2 | Round 3 |
+|----|----|----|
+|Ding Zhen Xin|
+|Pong Hoong Buo|
+|Teng Wee Keng|
+|Pang Chin Keat, Kevin|
+|Yang Jia Yue|
+|Chua Rong Chian, Daniel|
+|Lim En Ting, Emma|
+|Wesley Peh Kiat Kai|
+|Moh Moi|
+|Wang Yujie|
+|Aaron Sim Lihong|
+|Shamimah Begum Mujtaba|
+|Ng Swee Lian|
+|Tang Zihan|
+|Wang Kang Jun|
+|Fung Wen Li|
+|Kwek Hwee Meng|
+|Lin Yutong, Serena|
+|Wong You Ting|
+|Yin Ying|
+|Karine Ow Rui Yun|
+|Natasha Teo Siok Hui|
+|Joey Wang Zi Ee|
+|Fiona Yap|
+|Wong Liang Ern Milton|
+|Renee Lin Yuancheng|
+|Koo Siaw Huey|
+|Lee Kah Sin|
+|Guan Ci Yin Shanice|
+|Jovan Wong Bo Yang|
+|Lim Man Zi|
+|Kiew Hui Shan|
+|Faith Leong Pui Teng
 
 ![Lil Deer's Bug-a-thon Reading Challenge](/images/events/bookbugsx/Bugathon instructions.png/)
 

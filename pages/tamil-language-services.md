@@ -5,6 +5,32 @@ permalink: /tamil-language
 # Tamil Programmes for Primary Schools
 Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
 
+#### Resources
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Children's Reading Guide 2021</b><a href="/files/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Posters</b><a href="https://drive.google.com/file/d/12l215dOzaYIr_KpumoKPM765VUfeh2mq/view?usp=drivesdk"><img src="/images/mtl-tamil/Tamil_ReadingPosters.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Activities (Primary 1 & 2)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP1_P2.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP1_P2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Activities (Primary 3 & 4)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP3_P4.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP3_P4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Reading Activities (Primary 5 & 6)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP5_P6.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP5_P6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Tamil Read Swap Share Booklet</b><a href="/files/mtl-tamil/Tamil_ReadSwapShareBooklet.PDF"><img src="/images/mtl-tamil/Tamil_ReadSwapShare.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+		</div>
+	</div>
+	</div>
+		
 #### Programmes
 
 **Raise-A-Reader Workshop (Tamil)**
@@ -33,24 +59,6 @@ This series aims to develop appreciation for Tamil literature by exposing teens 
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Children's Reading Guide 2021</b><a href="/files/primary-book-recommendations/Tamil-Childrens-Reading-Guide-2021-compressed.PDF"><img src="/images/recommendationsprimary/tamil-childrens-reading-guide-21.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Posters</b><a href="https://drive.google.com/file/d/12l215dOzaYIr_KpumoKPM765VUfeh2mq/view?usp=drivesdk"><img src="/images/mtl-tamil/Tamil_ReadingPosters.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Activities (Primary 1 & 2)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP1_P2.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP1_P2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Activities (Primary 3 & 4)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP3_P4.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP3_P4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-		<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Reading Activities (Primary 5 & 6)</b><a href="/files/mtl-tamil/Tamil_ReadingActivitiesP5_P6.PDF"><img src="/images/mtl-tamil/Tamil_ReadingActivitiesP5_P6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Tamil Read Swap Share Booklet</b><a href="/files/mtl-tamil/Tamil_ReadSwapShareBooklet.PDF"><img src="/images/mtl-tamil/Tamil_ReadSwapShare.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
 		<b>Past Tamil Graded Reading List</b><a href="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Tamil-Graded-Reading-List-cover.png" style="max-width: 25.2rem; padding: 10px; margin:auto;"></a>
 	</div>
 	</div>

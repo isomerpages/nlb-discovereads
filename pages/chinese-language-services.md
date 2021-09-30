@@ -2,7 +2,7 @@
 title: Chinese Language Services
 permalink: /chinese-language
 ---
-# **Chinese Programmes for Primary Schools**
+# **Chinese Language Services**
 
 Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
 
@@ -38,6 +38,9 @@ Teachers will send and accompany the students to the selected public libraries t
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">
 	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
+	</div>
+	</div>
+	</div>
 
 <b><a href="#top">Back to top</a></b>	
 	

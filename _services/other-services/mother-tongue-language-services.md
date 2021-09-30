@@ -14,4 +14,4 @@ Click on the icons to find out more!
 
 | [![Alt text for image on Isomer site](/images/mother-tongue-services/Chinese%20Logo.png)](https://childrenandteens.nlb.gov.sg/chinese-language) | [![Alt text for image on Isomer site](/images/mother-tongue-services/Malay%20Logo.png)](https://childrenandteens.nlb.gov.sg/malay-language) | [![Alt text for image on Isomer site](/images/mother-tongue-services/Tamil%20Logo.png)](https://childrenandteens.nlb.gov.sg/tamil-language) |
 | -------- | -------- | -------- |
-| [Chinese Language](https://childrenandteens.nlb.gov.sg/chinese-language) | [Malay Language](https://childrenandteens.nlb.gov.sg/malay-language)     | [Tamil Language](https://childrenandteens.nlb.gov.sg/tamil-language)    |
+| <p style ="text align center;">[Chinese Language](https://childrenandteens.nlb.gov.sg/chinese-language) </p>| <p style ="text align center;">[Malay Language](https://childrenandteens.nlb.gov.sg/malay-language) </p>| <p style ="text align center;"> [Tamil Language](https://childrenandteens.nlb.gov.sg/tamil-language)  </p> |

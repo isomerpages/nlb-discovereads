@@ -32,11 +32,6 @@ sections:
       image: /images/homepage/bbx-homepage-header.png
       alt: BBX image
   - infobar:
-      title: Resources for Parents & Educators
-      description: Engage children with reading using tips from these dedicated guides.
-      button: Read more!
-      url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
-  - infobar:
       title: Storytime (For ages 4-10)
       description: Enjoy storytelling videos anytime, anywhere! Spark your reading joy
         with our online storytelling videos in the four official languages.
@@ -51,4 +46,10 @@ sections:
       url: /diy-resources/primary/shs-videos
       image: /images/diyresources/shs-videos-button.png
       alt: Holiday specials image
+  - infobar:
+      title: Mother Tongue Language Services
+      description: "Explore programmes, recommended reads and book-related activities
+        in the various Mother Tongue  languages. "
+      button: Read more!
+      url: https://childrensg/services/other-services/mother-tongue-language-services/
 ---

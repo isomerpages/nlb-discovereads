@@ -13,7 +13,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### Thank you, Explorers, for your ardent support! Book Bugs: Explorers of Stories Past has now ended. 
 
-You can still click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it, and access all the resources on our various pages. Some of our libraries still have exciting Book Bugs tokens available for redemption, so head down to pick them up!
+You can still click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it, and access all the resources on our various pages. Some of our libraries still have exciting Book Bugs tokens available for collection, so head down to pick them up!
 
 Keep an eye on this space - we just might have more exciting *Book Bugs: Explorers of Stories Past* content coming to you in the public libraries and online as an eBook.
 

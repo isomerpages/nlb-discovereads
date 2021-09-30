@@ -7,10 +7,6 @@ third_nav_title: Book Bugs Explorers of Stories Past
 ---
 ## Book Bugs: Explorers of Stories Past Events
 
-### Upcoming Events
-
-Keep an eye on this page for future events to redeem exclusive Book Bugs tokens!
-
 ### Past Events
 
 #### Book Bugs June Bonanza

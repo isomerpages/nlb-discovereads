@@ -55,5 +55,7 @@ This series aims to develop appreciation for Tamil literature by exposing teens 
 	</div>
 	</div>
 	</div>
-
+	
+#### Contact Us
+For more information, please email us at readtamil@nlb.gov.sg.
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

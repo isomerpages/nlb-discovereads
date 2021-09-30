@@ -2,7 +2,6 @@
 title: Malay Language Services
 permalink: /malay-language
 ---
-
 # Malay Programmes for Primary Schools
 Resources | Digital Offerings | Book Recommendations | Programmes | Contact Us
 
@@ -59,3 +58,12 @@ Gig Puisi is a platform for poets and poetry enthusiasts to come together to per
 
 #### Contact Us
 For more information, please email us at readmalay@nlb.gov.sg.
+
+##### **Book Recommendations**
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
+<div class="image-container" style="margin: auto;">
+		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
+	</div>
+	</div></div>
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

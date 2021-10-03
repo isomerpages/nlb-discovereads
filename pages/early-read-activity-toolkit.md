@@ -68,15 +68,15 @@ As a way to ease our educators into using the Activity Toolkit, NLB's Early Read
 
 **Why You Should Use the Activity Toolkit**
 
-```
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PykFtd8rIws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
 
 **Early Read Activity Toolkit Lesson Plan**
 
-```
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UN_8Lc_w5fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+
 
 ## Contact Us
 If you have any enquiries, please do not hesitate to drop us an email at earlyread@nlb.gov.sg. 

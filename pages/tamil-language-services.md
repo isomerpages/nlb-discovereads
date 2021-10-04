@@ -2,7 +2,7 @@
 title: Tamil Language Services
 permalink: /tamil-language
 ---
-# Tamil Programmes for Primary Schools
+# **Tamil Language Services**
 
 #### Resources
 <div class="wrapper" style="width: 100%;">

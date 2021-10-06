@@ -28,4 +28,3 @@ Click the thumbnail to take the quiz:
 Not sure which title to start reading? Take this simple quiz to find your next great read!
 <a href="/images/diyresources/CYLAbooklist.png"><img src="/images/diyresources/CYLAbooklist.png" alt="Booklist" style="width: 50%;"></a>
 <b><a href="#top">Back to top</a></b>
-

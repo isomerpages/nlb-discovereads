@@ -33,7 +33,12 @@ If you are looking for past reading lists, click [here](/book-recommendations/ar
 
 
 **Easy-to-Read Booklist**
+
 <a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
+
+<a href="/images/recommendationsprimary/Making-Books-Accessible.pdf"><img src="/images/recommendationsprimary/Making-Books-Accessible.jpg" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
+
+
 
 **Asian Festival for Children’s Content (AFCC) Reading List**
 

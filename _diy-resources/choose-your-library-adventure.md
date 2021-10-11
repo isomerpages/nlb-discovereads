@@ -10,7 +10,7 @@ _(Updated on 11 October 2021)_
 
 **Click on a button to find out more.**
 
-| [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="diy-resources/primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
+| [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
 
 <a name="trailer">![Trailer header](/images/diyresources/CYLAtrailerbanner.png)</a>
 In Choose Your Library Adventure, YOU decide how the story unfolds. 

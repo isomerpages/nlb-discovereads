@@ -6,11 +6,23 @@ permalink: /diy-resources/cyla
 
 **Choose Your Library Adventure is an interactive video where you go on a virtual quest to learn about public library spaces and services.** 
 
-_(Updated on 11 October 2021)_
+_(Updated on 12 October 2021)_
 
 **Click on a button to find out more.**
 
-| [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
+| [![Video](/images/diyresources/CYLAvideobutton.png)](#video) | [![Learning Checklist](/images/diyresources/CYLAchecklistbutton.png)](#checklist) | [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
+
+<a name="video">![Video header](/images/diyresources/CYLAvideobanner.png)</a>
+The fate of the library is in your hands! Join our mysterious and magical Guide as you embark on a quest to save the library from being closed… FOREVER! 
+
+Start your Choose Your Library Adventure here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RDTiF3h5LyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<b><a href="#top">Back to top</a></b>
+
+<a name="checklist">![Learning Checklist header](/images/diyresources/CYLAchecklistbanner.png)</a>
+Did you catch these library collections and spaces mentioned on the adventure? Watch the video again and choose a different path if you’ve missed any!
+<a href="/images/diyresources/CYLAchecklist.png"><img src="/images/diyresources/CYLAchecklist.png" alt="Learning Checklist" style="width: 50%;"></a>
+<b><a href="#top">Back to top</a></b>
 
 <a name="trailer">![Trailer header](/images/diyresources/CYLAtrailerbanner.png)</a>
 In Choose Your Library Adventure, YOU decide how the story unfolds. 

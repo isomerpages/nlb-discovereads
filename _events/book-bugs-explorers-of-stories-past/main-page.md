@@ -13,9 +13,12 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### Thank you, Explorers, for your ardent support! Book Bugs: Explorers of Stories Past has now ended. 
 
-You can still click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it, and access all the resources on our various pages. Some of our libraries still have exciting Book Bugs tokens available for collection, so head down to pick them up!
+[<img src="/images/events/bookbugsx/BBX book.png" alt="Borrow An Explorer's Guide to Book Bugs: Explorers of Stories Past at the public libraries under the call number J SING 398.2 ONG!" style="width: 100%">](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205500256)
 
-Keep an eye on this space - we just might have more exciting *Book Bugs: Explorers of Stories Past* content coming to you in the public libraries and online as an eBook.
+Are you suffering from a case of the Book Bugs Blues? Don't worry - we've got your back! Our Navigators have put together a book to take you back on your Book Bugs journey. An Explorer's Guide to Book Bugs: Explorer's of Stories Past will take you through how the Bugs were designed and tell the stories that inspired the creation of each Bug! Find it in our public libraries under the call number J SING 398.2 ONG-[FOL] - check the availability of the book in your nearest library by clicking the image above.
+
+
+You can still click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it, and access all the resources on our various pages.
 
 <a href="/images/events/bookbugsx/files/Bug-o-pedia.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Bug-o-pedia thumbnail.png" alt="Bug-o-pedia" style="width: 90%" align="centre"></a>
 

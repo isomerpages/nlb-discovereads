@@ -13,7 +13,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### Thank you, Explorers, for your ardent support! Book Bugs: Explorers of Stories Past has now ended. 
 
-[<img src="/images/events/bookbugsx/BBX book.png" alt="Borrow An Explorer's Guide to Book Bugs: Explorers of Stories Past at the public libraries under the call number J SING 398.2 ONG!" style="width: 100%">](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205500256)
+<a href="http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205500256" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX book.png" alt="Borrow An Explorer's Guide to Book Bugs: Explorers of Stories Past at the public libraries under the call number J SING 398.2 ONG!" style="width: 100%"></a>
 
 Are you suffering from a case of the Book Bugs Blues? Don't worry - we've got your back! Our Navigators have put together a book to take you back on your Book Bugs journey. *An Explorer's Guide to Book Bugs: Explorers of Stories Past* will take you through how the Bugs were designed and tell the stories that inspired the creation of each Bug! Find it in our public libraries under the call number J SING 398.2 ONG-[FOL]. You can check the availability of the book in your nearest library by clicking on the image above.
 

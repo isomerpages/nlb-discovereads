@@ -10,10 +10,9 @@ third_nav_title: Programmes
 
 <img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
 
-**What's on in September and October 2021!**<br>
-
+**What's on in  Oct-Dec 2021!**<br>
 Explore our upcoming sessions for these programmes:
-* [Teens Takeover Libraries](/services/programmes/teenstakeover#teenstakeoverlibraries)
+
 * [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)
 
 
@@ -50,15 +49,18 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
+* [18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register here](https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-portfolio-tickets-176075315007?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 
 * <s>[8 Sep] Mobile Phone Photography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
+* [15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register here](https://www.eventbrite.com/e/mobile-phone-videography-workshop-digilit-teens-takeover-tickets-176074693147?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 
 * [29 Oct] D.I.Y. Fabric Cupholder Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Friday 3-4.30pm  [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-diy-fabric-cup-holder-greenhouse-tickets-173959255817?aff=ebcollection&keep_tld=1)
-
+* [11 Nov] Build Your Own Terrarium Workshop, Choa Chu Kang Public Library, Programme Zone 1, Thursday 3-4pm [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-build-your-own-terrarium-greenhouse-registration-185383827017?aff=ebcollection&keep_tld=1)
+ 
 <img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
 
 *  <s>[17 Jul] Bullet Journalling, Zoom, Saturday 2-3.30pm [Register now!]</s>
@@ -66,7 +68,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
 
-* [16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!](https://www.eventbrite.com/e/medical-myths-debunked-workshop-scienti-fx-teens-takeover-tickets-173951151577?aff=ebcollection&keep_tld=1)
+* <s>[16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!]</s>
 
 Keep a look out for more NLB's Teens Takeover workshop registration openings [here](http://go.gov.sg/nlb-teensprogs). See you there! 🙂 
 
@@ -81,8 +83,8 @@ Keep a look out for more NLB's Teens Takeover workshop registration openings [he
 * <s>[16 Jul] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
 * <s>[6 Aug] Study with Me Online, Zoom, Friday, 4-6pm [Register now!]</s>
 * <s>[17 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
-* [24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register now!](https://www.eventbrite.sg/e/teens-takeover-libraries-study-with-me-online-registration-160182380813?aff=ebdssbonlinesearch)
-* [8 Oct] Study with Me Online, Zoom, Friday 4-6pm [Register now!](https://www.eventbrite.com/e/teens-takeover-libraries-study-with-me-online-tickets-169250580041?aff=ebcollection&keep_tld=1)
+* <s>[24 Sep] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
+* <s>[8 Oct] Study with Me Online, Zoom, Friday 4-6pm [Register now!]</s>
 
 <img src="/images/unsorted/teenstakeover/ttl-downtime-online.png" alt="TTL downtime online" style="width: 70%;">
 

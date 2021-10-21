@@ -2,7 +2,7 @@
 title: Babies Can Be Members Too
 permalink: /events/babies-can-be-members-too
 ---
-### Babies Can Be Members Too
+### **Babies Can Be Members Too**
 
 <img src="/images/events/baby/BCBMT.png" style="width:100%">
 

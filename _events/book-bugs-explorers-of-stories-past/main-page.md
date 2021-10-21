@@ -17,7 +17,7 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 Are you suffering from a case of the Book Bugs Blues? Don't worry - we've got your back! Our Navigators have put together a book to take you back on your Book Bugs journey. *An Explorer's Guide to Book Bugs: Explorers of Stories Past* will take you through how the Bugs were designed and tell the stories that inspired the creation of each Bug! Click on the image above to borrow the eBook, or find the physical book in our public libraries under the call number J SING 398.2 ONG-[FOL].
 
-We also have a surprise for you! Collect limited edition Book Bugs postcards that represent each initiative in at LAB25 - NLB's five-year blueprint of innovation and experimentation. These will be available at the installations in our mall nodes. Click on the image below to find out more.
+We also have a surprise for you! Collect limited edition Book Bugs postcards that represent each initiative in LAB25 - NLB's five-year blueprint of innovation and experimentation. These will be available at the installations in our mall nodes. Click on the image below to find out more.
 
 <a href="https://medium.com/publiclibrarysg/3a7a194ae13b" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Postcard Designs.png" alt="Click for limited edition Book Bugs postcards." style="width: 100%"></a>
 

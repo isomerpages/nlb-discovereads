@@ -2,8 +2,6 @@
 title: babiescanbememberstoo
 permalink: /events/babies-can-be-members-too
 ---
-
-
 ### Babies Can Be Members Too
 
 <img src="/images/events/baby/BCBMT.png" style="width:100%">
@@ -24,4 +22,3 @@ The Baby Gift Pack contains**: <br>
 •	A Book A Day reading journal <br>
 
 **The NLB reserves the right to replace the contents in the Baby Gift Pack without prior notice.
-*

@@ -24,6 +24,6 @@ Do check out these books curated by our Early Read librarians which will help yo
 
 <a href="/files/preschool/ranger-buddies/rangerbooklist3.PDF"><img src="/images/events/ranger-buddies/rangerbooklist3.JPG" style="width: 100%;"></a>
 
-If you are keen to subscribe to Early Read’s monthly eDMs where we’ll feature upcoming programmes specifically for children aged 0 to 6 yrs old, do sign up below by scanning the QR code or clicking on it.
+If you are keen to subscribe to Early Read’s monthly eDMs where we’ll feature upcoming programmes specifically for children aged 0 to 6 yrs old,  scan or click on the QR code.
 
 <a href="https://go.gov.sg/earlyread-subscribe"><img src="/images/events/ranger-buddies/earlyreadsubscribe.png" style="width: 40%;"></a>

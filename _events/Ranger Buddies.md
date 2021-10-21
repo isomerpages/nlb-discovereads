@@ -4,7 +4,7 @@ permalink: /events/ranger-buddies
 ---
 ### Ranger Buddies <br> In collaboration with Mandai Wildlife Reserve
 
-img
+![Ranger Buddies](/images/events/ranger-buddies/rangerbuddies.JPG)
 
 ##### BE A HERO EVERY DAY WITH KHANSA  
 Ranger Buddies is a programme filled with fun missions every day that teaches children how daily small actions can benefit themselves, others, and help save the world.
@@ -18,9 +18,11 @@ Ranger Buddies is brought to you by Mandai Wildlife Reserve, a unique nature and
 #### Ranger Buddies Booklists
 Do check out these books curated by our Early Read librarians which will help your child to discover and appreciate our Earth’s rainforests!
 
-img
-img
-img
+<a href="/files/preschool/ranger-buddies/rangerbooklist1.PDF"><img src="/images/events/ranger-buddies/rangerbooklist1.JPG" style="width: 100%;"></a>
+
+<a href="/files/preschool/ranger-buddies/rangerbooklist2.PDF"><img src="/images/events/ranger-buddies/rangerbooklist2.JPG" style="width: 100%;"></a>
+
+<a href="/files/preschool/ranger-buddies/rangerbooklist3.PDF"><img src="/images/events/ranger-buddies/rangerbooklist3.JPG" style="width: 100%;"></a>
 
 If you are keen to subscribe to Early Read’s monthly eDMs where we’ll feature upcoming programmes specifically for children aged 0 to 6 yrs old, do sign up below:
 

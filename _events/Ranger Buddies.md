@@ -6,7 +6,7 @@ permalink: /events/ranger-buddies
 
 <img src="/images/events/ranger-buddies/rangerbuddies.JPG" style="width: 70%;">
 
-##### BE A HERO EVERY DAY WITH KHANSA  
+#### BE A HERO EVERY DAY WITH KHANSA  
 Ranger Buddies is a programme filled with fun missions every day that teaches children how daily small actions can benefit themselves, others, and help save the world.
 
 From 5 Nov to 31 Dec 2021, join Khansa on a mission to fight deforestation. You can start your mission by finding Khansa amongst the bookshelves on Level 2 at Marine Parade Public Library!

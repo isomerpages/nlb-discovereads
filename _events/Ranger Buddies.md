@@ -4,12 +4,10 @@ permalink: /events/ranger-buddies
 ---
 ### Ranger Buddies <br> In collaboration with Mandai Wildlife Reserve
 
-<img src="/images/events/ranger-buddies/rangerbuddies.JPG" style="width: 70%;">
 
-#### Be a Hero Every Day With Khansa
+
+
 Ranger Buddies is a programme filled with fun missions every day that teaches children how daily small actions can benefit themselves, others, and help save the world.
-
-From 5 Nov to 31 Dec 2021, join Khansa on a mission to fight deforestation. You can start your mission by finding Khansa amongst the bookshelves on Level 2 at Marine Parade Public Library!
 
 Learn more at [rangerbuddies.com](https://mab.wrs.com.sg/ranger-buddies.html). 
 

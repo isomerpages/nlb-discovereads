@@ -11,7 +11,7 @@ Ranger Buddies is a programme filled with fun missions every day that teaches ch
 
 From 5 Nov to 31 Dec 2021, join Khansa on a mission to fight deforestation. You can start your mission by finding Khansa amongst the bookshelves on Level 2 at Marine Parade Public Library!
 
-Learn more at rangerbuddies.com. 
+Learn more at [rangerbuddies.com](https://mab.wrs.com.sg/ranger-buddies.html). 
 
 Ranger Buddies is brought to you by Mandai Wildlife Reserve, a unique nature and wildlife destination. 
 

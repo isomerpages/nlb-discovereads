@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Babies Can Be Members.md
       - events.md
       - information-session-for-educators-2020-virtual.md
       - book-bugs-ii/.keep

@@ -13,9 +13,13 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ### Thank you, Explorers, for your ardent support! Book Bugs: Explorers of Stories Past has now ended. 
 
-<a href="http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205500256" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX book.png" alt="Borrow An Explorer's Guide to Book Bugs: Explorers of Stories Past at the public libraries under the call number J SING 398.2 ONG!" style="width: 100%"></a>
+<a href="https://go.gov.sg/bb-guide" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX book.png" alt="Borrow An Explorer's Guide to Book Bugs: Explorers of Stories Past at the public libraries under the call number J SING 398.2 ONG!" style="width: 100%"></a>
 
-Are you suffering from a case of the Book Bugs Blues? Don't worry - we've got your back! Our Navigators have put together a book to take you back on your Book Bugs journey. *An Explorer's Guide to Book Bugs: Explorers of Stories Past* will take you through how the Bugs were designed and tell the stories that inspired the creation of each Bug! Find it in our public libraries under the call number J SING 398.2 ONG-[FOL]. You can check the availability of the book in your nearest library by clicking on the image above.
+Are you suffering from a case of the Book Bugs Blues? Don't worry - we've got your back! Our Navigators have put together a book to take you back on your Book Bugs journey. *An Explorer's Guide to Book Bugs: Explorers of Stories Past* will take you through how the Bugs were designed and tell the stories that inspired the creation of each Bug! Click on the image above to borrow the eBook, or find the physical book in our public libraries under the call number J SING 398.2 ONG-[FOL].
+
+We also have a surprise for you! Collect limited-edition Book Bugs postcards that represent each initiative in LAB25 - NLB's five-year blueprint of innovation and experimentation. These will be available at the installations in our mall nodes. Click on the image below to find out more.
+
+<a href="https://medium.com/publiclibrarysg/3a7a194ae13b" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Postcard Designs.png" alt="Click for limited edition Book Bugs postcards." style="width: 100%"></a>
 
 You can still click on the Bug-o-pedia (the guide to all things Book Bugs) below to download it, and access all the resources on our various pages.
 

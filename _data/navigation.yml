@@ -16,14 +16,18 @@ links:
   - title: Events
     url: /events/main
     sublinks:
-      - title: A Book A Day
-        url: /events/abookaday
       - title: Information Session for Educators 2020
         url: /events/infosessionforeducators
       - title: Book Bugs II
         url: /events/bookbugs2/bookbugs-main
       - title: Book Bugs Explorers of Stories Past
         url: /events/bookbugsx/
+      - title: Ranger Buddies
+        url: /events/ranger-buddies
+      - title: Babies Can Be Members Too
+        url: /events/babies-can-be-members-too
+      - title: A Book A Day
+        url: /events/abookaday
       - title: Edu-Connect
         url: /events/edu-connect
   - title: Contact Us

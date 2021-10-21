@@ -59,7 +59,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 
 * [29 Oct] D.I.Y. Fabric Cupholder Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Friday 3-4.30pm  [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-diy-fabric-cup-holder-greenhouse-tickets-173959255817?aff=ebcollection&keep_tld=1)
-* [11 Nov] Build Your Own Terrarium Workshop, Choa Chu Kang Public Library, Programme Zone 1, Thursday 3-4pm [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-build-your-own-terrarium-greenhouse-registration-185383827017?aff=ebcollection&keep_tld=1)
+* [11 Nov] Build Your Own Terrarium Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Thursday 3-5pm [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-build-your-own-terrarium-greenhouse-registration-185383827017?aff=ebcollection&keep_tld=1)
  
 <img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
 

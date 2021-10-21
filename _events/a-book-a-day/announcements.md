@@ -19,13 +19,11 @@ We would like to hear from you on how we can make the “A Book A Day” program
 
 Congratulations to the winners of the “A Book A Day” quarterly lucky draw!
 
-<a href="/files/preschool/Winner%20Poster_updated%2029%20Sept_v2.pdf"><img src="/images/events/abookaday/Y1%20Q1%20Winner%20Poster.png" style="width:40%"></a>
+<a href="/files/preschool/Winner%20Poster_updated%2029%20Sept_v2.PDF"><img src="/images/events/abookaday/Y1%20Q1%20Winner%20Poster.png" style="width:40%"></a>
 
-<br>
+<a href="/files/preschool/Y2Q1_Winner%20Poster_4June.PDF"><img src="/images/events/abookaday/Y2%20Q1%20Winner%20Poster.png" style="width:40%"></a>
 
-<a href="/files/preschool/Y2Q1_Winner%20Poster_4June.pdf"><img src="/images/events/abookaday/Y2%20Q1%20Winner%20Poster.png" style="width:40%"></a>
-
-<a href="/files/preschool/Y2Q2_Winner%20Poster_final_edited.pdf"><img src="/images/events/abookaday/Y2%20Q2%20Poster%20Screenshot.png" style="width:40%"></a>
+<a href="/files/preschool/Y2Q2_Winner%20Poster_final_edited.PDF"><img src="/images/events/abookaday/Y2%20Q2%20Poster%20Screenshot.png" style="width:40%"></a>
 
 
 

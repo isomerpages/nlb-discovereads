@@ -4,7 +4,7 @@ permalink: /events/babies-can-be-members-too
 ---
 ### Babies Can Be Members Too
 
-<img src="/images/events/Baby/BCBMT.png" style="width:80%">
+<img src="/images/events/baby/BCBMT.png" style="width:100%">
 
 This programme aims to reach out to parents to register their babies as library members, and encourage bonding through reading at an early age. Parents can apply for the NLB membership* via the LifeSG app or register online (applicable to Singaporeans and PRs – requires Singpass login).
 

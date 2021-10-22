@@ -5,3 +5,7 @@ third_nav_title: Preschool Resources
 ---
 ## Raise A Reader
 
+### **Activity Sheets**
+Simple activities for children to do at home or in school! Click on the images to download and print.
+
+

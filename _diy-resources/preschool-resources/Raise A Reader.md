@@ -16,7 +16,7 @@ Simple activities for children to do at home or in school! Click on the images t
 <b><a href="#top">Back to top</a></b>
 
 ### **Booklists**
-Check out these thematic booklists by librarians and partners. Click on the images to download and print.
+*(Click on the images to download and print)*
 
 ##### For Budding Scientists and Engineers
 

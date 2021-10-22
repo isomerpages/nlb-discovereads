@@ -9,18 +9,25 @@ third_nav_title: Preschool Resources
 ### **Activity Sheets**
 Simple activities for children to do at home or in school! Click on the images to download and print.
 
-| <a href="/images/diyresources/preschool/Early-Read_Classroom.PDF"><img src="/images/diyresources/preschool/Classroom_4May.jpg" style="width: 30%;"></a> | <a href="/images/diyresources/preschool/NLB_PAGE21_FA.PDF"><img src="/images/diyresources/preschool/Snakes-and-Ladders.png" style="width: 30%;"></a> | <a href="/images/diyresources/preschool/NLB_PAGE20_FA.PDF"><img src="/images/diyresources/preschool/The-Very-Busy-Spider.png" style="width: 30%;"></a> | <a href="/images/diyresources/preschool/Early-READ_Counting-Activity.PDF"><img src="/images/diyresources/preschool/Counting_2.jpg" style="width: 30%;"></a> |
+| <a href="/images/diyresources/preschool/Early-Read_Classroom.PDF"><img src="/images/diyresources/preschool/Classroom_4May.jpg" style="width: 60%;"></a> | <a href="/images/diyresources/preschool/NLB_PAGE21_FA.PDF"><img src="/images/diyresources/preschool/Snakes-and-Ladders.png" style="width: 60%;"></a> | 
+|<a href="/images/diyresources/preschool/NLB_PAGE20_FA.PDF"><img src="/images/diyresources/preschool/The-Very-Busy-Spider.png" style="width: 60%;"></a> | <a href="/images/diyresources/preschool/Early-READ_Counting-Activity.PDF"><img src="/images/diyresources/preschool/Counting_2.jpg" style="width: 60%;"></a> |
+
+<b><a href="#top">Back to top</a></b>
 
 ### **Booklists**
 Check out these thematic booklists by librarians and partners. Click in the images to download and print.
 
-| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:40%"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:40%"></a> |
+| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:80%"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:80%"></a> |
 
 Science LFA
 
+<b><a href="#top">Back to top</a></b>
 
 ### **Creative Conversations**
 A monthly newsletter by ECDA that touches on various themes. Includes craft activities and book recommendations for children.
 
-| <a href="/images/diyresources/preschool/Creative-Conversations-Oct-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-Oct-preview.jpg" style="width: 30%;"></a> | <a href="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-thumbnail-1.jpg" style="width: 30%;"></a> | <a href="/images/diyresources/preschool/Creative-Conversations-June-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations_June-Issue.jpg" style="width: 30%;"></a> |
-<a href="/images/diyresources/preschool/Creative-Conversations-April-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/ECDA-Newsletter_April-Issue.jpg" style="width: 30%;"></a> |
+| <a href="/images/diyresources/preschool/Creative-Conversations-Oct-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-Oct-preview.jpg" style="width: 60%;"></a> | <a href="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-thumbnail-1.jpg" style="width: 60%;"></a> | 
+|<a href="/images/diyresources/preschool/Creative-Conversations-June-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations_June-Issue.jpg" style="width: 60%;"></a> |
+<a href="/images/diyresources/preschool/Creative-Conversations-April-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/ECDA-Newsletter_April-Issue.jpg" style="width: 60%;"></a> |
+
+<b><a href="#top">Back to top</a></b>

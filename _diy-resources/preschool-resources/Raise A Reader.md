@@ -25,9 +25,7 @@ Take a look at some wonderful books curated by our Early Read librarians to grow
 |<a href="/files/preschool/booklists-for-science-lfa/STEAM%20FEST_TRANSFORM%20PLASTIC%20BOOK%20LIST.PDF"><img src="/images/diyresources/preschool/Mardhiah%20Book%20List.PNG" style="width:50%"></a> | 
 
 ##### Sharity & Friends
-| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:40%"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:40%"></a> |
-
-Science LFA
+| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width: 40%;"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width: 40%;"></a> | 
 
 <b><a href="#top">Back to top</a></b>
 

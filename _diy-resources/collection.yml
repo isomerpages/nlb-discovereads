@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - d-i-y-resources.md
-      - preschool-resources/Raise A Reader.md
       - preschool-resources/.keep
       - preschool-resources/early-literacy-practices.md
       - preschool-resources/school-holiday-specials.md
+      - preschool-resources/Raise A Reader.md
       - preschool-resources/activity-sheets.md
       - preschool-resources/book-recommendations.md
       - preschool-resources/creative-conversations.md

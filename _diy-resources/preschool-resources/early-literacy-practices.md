@@ -10,7 +10,7 @@ _(Updated in September 2021)_
 
 Research shows that there are six early literacy skills that children need to pick up on their way to becoming fluent readers:
 
-![Alt text for image on Isomer site](/images/earlyliteracyskills.png)
+<img src="images/earlyliteracyskills.png" alt="the truth about butterflies" style="width:80%">
 
 Click on the icons to find out more about literacy practices that help develop early literacy skills.
 

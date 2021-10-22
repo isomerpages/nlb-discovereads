@@ -9,3 +9,13 @@ third_nav_title: Preschool Resources
 Simple activities for children to do at home or in school! Click on the images to download and print.
 
 
+
+### **Booklists**
+Check out these thematic booklists by librarians and partners. Click in the images to download and print.
+
+Sharity
+
+Science LFA
+
+### **Creative Conversations (ECDA)**
+Check out these thematic booklists by librarians and partners. Click in the images to download and print.

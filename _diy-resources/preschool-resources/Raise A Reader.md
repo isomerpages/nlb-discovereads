@@ -14,7 +14,7 @@ Simple activities for children to do at home or in school! Click on the images t
 ### **Booklists**
 Check out these thematic booklists by librarians and partners. Click in the images to download and print.
 
-Sharity
+|<a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:40%"></a>|<a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:40%"></a>|
 
 Science LFA
 

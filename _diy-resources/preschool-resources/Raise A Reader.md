@@ -17,5 +17,6 @@ Sharity
 
 Science LFA
 
+
 ### **Creative Conversations (ECDA)**
-Check out these thematic booklists by librarians and partners. Click in the images to download and print.
+A monthly newsletter by ECDA that touches on various themes. Includes craft activities and book recommendations for children.

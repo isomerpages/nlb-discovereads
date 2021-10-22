@@ -17,6 +17,14 @@ Simple activities for children to do at home or in school! Click on the images t
 ### **Booklists**
 Check out these thematic booklists by librarians and partners. Click in the images to download and print.
 
+##### For Budding Scientists and Engineers
+
+Take a look at some wonderful books curated by our Early Read librarians to grow the love of Science and want to discover in your children! 
+
+|<a href="/files/preschool/Bite%20Science%20Booklist%20-%20DIY%20COMPOST_final.PDF"><img src="/images/diyresources/preschool/Wan%20Ting%20Booklist.PNG" style="width:80%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Lisa%20Booklist.PNG" style="width:80%"></a> |
+|<a href="/files/preschool/booklists-for-science-lfa/STEAM%20FEST_TRANSFORM%20PLASTIC%20BOOK%20LIST.PDF"><img src="/images/diyresources/preschool/Mardhiah%20Book%20List.PNG" style="width:80%"></a> | 
+
+##### Sharity & Friends
 | <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width:80%"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width:80%"></a> |
 
 Science LFA

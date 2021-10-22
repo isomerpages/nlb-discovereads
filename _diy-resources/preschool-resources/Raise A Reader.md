@@ -4,6 +4,7 @@ permalink: /diy-resources/preschool-resources/raise-a-reader
 third_nav_title: Preschool Resources
 ---
 ## Raise A Reader
+
 | [Activity Sheets](#activty-sheets) | [**New!*** Booklists](#booklists) | [Creative Conversations](#creative-conversations) |
 
 ### **Activity Sheets**
@@ -33,7 +34,9 @@ Take a look at some wonderful books curated by our Early Read librarians to grow
 ### **Creative Conversations**
 A monthly newsletter by ECDA that touches on various themes. Includes craft activities and book recommendations for children.
 
-| <a href="/images/diyresources/preschool/Creative-Conversations-Oct-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-Oct-preview.jpg" style="width: 50%;"></a> | <a href="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-thumbnail-1.jpg" style="width: 50%;"></a> | | <a href="/images/diyresources/preschool/Creative-Conversations-June-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations_June-Issue.jpg" style="width: 50%;"></a> |
+| <a href="/images/diyresources/preschool/Creative-Conversations-Oct-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-Oct-preview.jpg" style="width: 50%;"></a> | <a href="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-thumbnail-1.jpg" style="width: 50%;"></a> | 
+
+| <a href="/images/diyresources/preschool/Creative-Conversations-June-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/Creative-Conversations_June-Issue.jpg" style="width: 50%;"></a> |
 <a href="/images/diyresources/preschool/Creative-Conversations-April-Newsletter-eDM_A4.PDF"><img src="/images/diyresources/preschool/ECDA-Newsletter_April-Issue.jpg" style="width: 50%;"></a> |
 
 <b><a href="#top">Back to top</a></b>

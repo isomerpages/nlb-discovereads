@@ -27,7 +27,7 @@ Take a look at some wonderful books curated by our Early Read librarians to grow
 
 ##### Sharity & Friends
 
-| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width: 40%;"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width: 40%;"></a> | 
+| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width: 50%;"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width: 50%;"></a> | 
 
 <b><a href="#top">Back to top</a></b>
 

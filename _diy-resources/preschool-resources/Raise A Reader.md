@@ -10,6 +10,13 @@ third_nav_title: Preschool Resources
 ### **Activity Sheets**
 Simple activities for children to do at home or in school! Click on the images to download and print.
 
+##### For N1 - N2 
+
+| <a href="/images/diyresources/preschool/Early-Read_Classroom.PDF"><img src="/images/diyresources/preschool/Classroom_4May.jpg" style="width: 40%;"></a> | <a href="/images/diyresources/preschool/NLB_PAGE21_FA.PDF"><img src="/images/diyresources/preschool/Snakes-and-Ladders.png" style="width: 60%;"></a> | 
+|<a href="/images/diyresources/preschool/NLB_PAGE20_FA.PDF"><img src="/images/diyresources/preschool/The-Very-Busy-Spider.png" style="width: 40%;"></a> | <a href="/images/diyresources/preschool/Early-READ_Counting-Activity.PDF"><img src="/images/diyresources/preschool/Counting_2.jpg" style="width: 70%;"></a> |
+
+##### For K1 - K2
+
 | <a href="/images/diyresources/preschool/Early-Read_Classroom.PDF"><img src="/images/diyresources/preschool/Classroom_4May.jpg" style="width: 40%;"></a> | <a href="/images/diyresources/preschool/NLB_PAGE21_FA.PDF"><img src="/images/diyresources/preschool/Snakes-and-Ladders.png" style="width: 60%;"></a> | 
 |<a href="/images/diyresources/preschool/NLB_PAGE20_FA.PDF"><img src="/images/diyresources/preschool/The-Very-Busy-Spider.png" style="width: 40%;"></a> | <a href="/images/diyresources/preschool/Early-READ_Counting-Activity.PDF"><img src="/images/diyresources/preschool/Counting_2.jpg" style="width: 70%;"></a> |
 

@@ -8,22 +8,9 @@ third_nav_title: Preschool Resources
 
 _(Updated in September 2021)_
 
-Research shows that there are early literacy skills that children need to pick up on their way to becoming fluent readers:
+Research shows that there are six early literacy skills that children need to pick up on their way to becoming fluent readers:
 
-**Letter Knowledge** <br>
-Recognising letters and knowing their names and sounds.
-
-**Narrative Skills** <br>
-Being able to describe objects and events.
-
-**Phonological Awareness** <br>
-Understanding that words are made of smaller sounds and being able to hear and play with these smaller sounds.
-
-**Print Awareness** <br>
-Understanding that the print on a page represent words and knowing how to follow the words on a page and use a book.
-
-**Vocabulary** <br>
-Knowing the names of things, feelings and concepts.
+<img src="images/earlyliteracyskills.png" alt="the truth about butterflies" style="width:80%">
 
 Click on the icons to find out more about literacy practices that help develop early literacy skills.
 

@@ -6,6 +6,60 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### **Emotions**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_PPC5jN-kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Making emotions masks!**
+
+Materials needed:
+
+* Paper plates
+* Ice cream sticks
+* Crayons
+* Tape
+* Scissors
+
+[Download](/files/preschool/SHS%20Craft%20Instructions%20-%20Emotions.PDF) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/whatarefeelings.jpeg" alt="what are feelings" style="width:45%">
+
+**Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
+**Author:** Katie Daynes & Christine Pym<br>
+**Publisher:** London : Usborne Publishing, 2019.<br>
+
+This thoughtful book explores happiness, sadness, anger, fear and worry in a friendly and approachable way. Adorable animal characters experience different emotions, while imaginative flaps answer important questions such as 'Why don't I feel happy all the time?' and 'How can I cheer up my friend?' Introduces useful ways to counter stress and anxiety. The flaps are perfect for inquisitive young children. Other titles in the series include Why do we need bees?, How do flowers grow?, How do I see?, Why does the sun shine? and How do animals talk?
+
+<img src="/images/diyresources/preschool/Im-Happy-Sad-Today-1.jpeg" alt="im happy sad today" style="width:45%">
+
+**Title:** [I’m Happy-Sad Today!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204007445) <br>
+**Author:** Lory Britain, Ph.D.  <br>
+**Illustrator:** Matthew Rivera <br>
+**Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
+
+Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined. With gentle messaging and charming illustrations, a little girl talks about her many layered feelings, ultimately concluding, "When I have more than one feeling inside me, I don't have to choose just one. I know that all my feelings are okay at the same time." A special section for adults presents ideas for helping children explore their emotions, build a vocabulary of feeling words, know what to do if they feel overwhelmed, and more.
+
+<img src="/images/diyresources/preschool/fergalisfuming.jpeg" alt="fergal is fuming" style="width:40%">
+
+**Title:** [Fergal is Fuming!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202961071) <br>
+**Author:** Robert Starling <br>
+**Publisher:** London : Andersen Press, 2017. <br>
+
+A dragon with a short temper is not a good combination, as Fergal's family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game. It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way.
+
+<img src="/images/diyresources/preschool/afterthefall-humptydumpty.jpeg" alt="after the fall humpty dumpty" style="width:40%">
+
+**Title:** [After the Fall: How Humpty Dumpty Got Back Up](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203076694) <br>
+**Author:** Dan Santat <br>
+**Publisher:** New York, New York : Roaring Brook Press, 2017. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3375799](https://nlb.overdrive.com/media/3375799) <br>
+
+From the New York Times –bestselling creator of The Adventures of Beekle: The Unimaginary Friend comes the inspiring epilogue to the beloved classic nursery rhyme Humpty Dumpty. Everyone knows that when Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. But what happened after? Caldecott Medalist Dan Santat's poignant tale follows Humpty Dumpty, an avid bird watcher whose favorite place to be is high up on the city wall—that is, until after his famous fall. Now terrified of heights, Humpty can longer do many of the things he loves most. Will he summon the courage to face his fear? After the Fall (How Humpty Dumpty Got Back Up Again) is a masterful picture book that will remind readers of all ages that Life begins when you get back up.
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
 ### **Flutter Butterfly**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FRa8KuhA7Bg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,7 +78,7 @@ Materials needed:
 * Glue
 * Balloon
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Flutter%20Butterfly.pdf) full instructions for this craft.
+[Download](/files/preschool/SHS%20Craft%20Instructions_Flutter%20Butterfly.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -32,7 +86,8 @@ Materials needed:
 
 **Title:** [The Truth About Butterflies](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205262074) <br>
 **Author:** Maxwell Eaton III <br>
-**Publisher:** Roaring Brook Press, 2020. <br>
+**Publisher:** New York : Roaring Brook Press, 2020.
+©2020<br>
 
 This guide to the majestic butterfly walks you through its unique lifecycle and offers anything you ever wanted to know about the colourful insect.
 
@@ -40,7 +95,8 @@ This guide to the majestic butterfly walks you through its unique lifecycle and 
 
 **Title:** [A Butterfly Is Patient](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13948388) <br>
 **Author:** Dianna Hutts Aston <br>
-**Publisher:** Chronicle Books, 2011. <br>
+**Publisher:** San Francisco, Calif. : Chronicle Books, 2011.
+©2011.<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/1377064](https://nlb.overdrive.com/media/1377064) <br>
 
 The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have teamed up again to create this gorgeous and informative introduction to the world of butterflies. From iridescent blue swallowtails and brilliant orange monarchs to the worlds tiniest butterfly (Western Pygmy Blue) and the largest (Queen Alexandra's Birdwing), an incredible variety of butterflies are celebrated here in all of their beauty and wonder. Perfect for a child's bedroom bookshelf or for a classroom reading circle!
@@ -49,7 +105,8 @@ The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have team
 
 **Title:** [My Butterfly Bouquet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205256895) <br>
 **Author:** Nicola Davies <br>
-**Publisher:** Wren & Rook, an imprint of Hachette Children's Group, 2020. <br>
+**Publisher:** London : Wren & Rook, an imprint of Hachette Children's Group, 2020.
+©2020.<br>
 
 With breath-taking illustrations and a touching story, this dazzling picture book introduces young readers to one of nature's most magnificent and essential insects: the butterfly. See how a little girl recovering from poor health finds wonder in nature and delights in planting a garden with her father to attract a fascinating array of butterflies. Exploring the life stages of butterflies, their importance to our ecosystems and the revitalising power of nature, this book is a heart-warming information story for children who love the outdoors and all its incredible creatures. At the back of the book, discover tips on how to create your own wildlife garden to attract butterflies!
 
@@ -80,7 +137,7 @@ Materials needed:
 * Coloured markers
 * Pencil
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Butterfly%20Pencil%20Holder.pdf) full instructions for this craft.
+[Download](/files/preschool/SHS%20Craft%20Instructions_Butterfly%20Pencil%20Holder.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -88,7 +145,7 @@ Materials needed:
 
 **Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
 **Author:** Dr Dominic Walliman <br>
-**Publisher:** Flying Eye Books, 2020. <br>
+**Publisher:** London ; New York : Flying Eye Books, 2020.<br>
 
 Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 
 
@@ -96,7 +153,8 @@ Despite covering over 70% of the Earth’s surface, the ocean is still roughly 9
 
 **Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
 **Author:** Anne-Marie Pace <br>
-**Publisher:** Beach Lane Books, \[2018\] <br>
+**Publisher:** New York : Beach Lane Books, \[2018\]
+©2018<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3441443](https://nlb.overdrive.com/media/3441443) <br>
 
 There are so many intriguing eyes out in the world…and so many amazing things for those eyes to see! From a big-eyed bug and a stalk-eyed slug to a side-eyed frog and a wide-eyed dog, the family in this book doesn’t miss a single sight during their busy-eyed day the park.
@@ -107,7 +165,8 @@ This rhyming and richly illustrated picture book is a clever and unusual celebra
 
 **Title:** [Let's Recycle!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203907428) <br>
 **Author:** Jenna Lee Gleisner <br>
-**Publisher:** Jump!, \[2019\] <br>
+**Publisher:** North Mankato, Minnesota : Jump!, \[2019\]
+©2019<br>
 
 Reduce. Reuse. Recycle. We hear it all the time, but what does it mean, and how can we do it? Let’s Recycle! shows early fluent readers why it’s important to produce less waste with fun and easy ways they can do it every day. 
 
@@ -117,7 +176,7 @@ Vibrant, full-color photos and carefully leveled text will engage young readers 
 
 **Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
 **Author:** Nanette Heffernan  <br>
-**Publisher:** Charlesbridge, \[2020\] <br>
+**Publisher:** Watertown, MA : Charlesbridge, \[2020\] <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/4857429](https://nlb.overdrive.com/media/4857429) <br>
 
 Click flashlights, light lanterns, and get ready to turn electric lights out to celebrate Earth Hour! Wherever you are, you can help our planet.
@@ -140,7 +199,7 @@ Materials needed:
 * Coloured marker
 * Coloured paper
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Paper%20Jellyfish.pdf) full instructions for this craft.
+[Download](/files/preschool/SHS%20Craft%20Instructions_Paper%20Jellyfish.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -148,7 +207,8 @@ Materials needed:
 
 **Title:** [The Pout-Pout Fish and the Bully-Bully Shark](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203978039) <br>
 **Author:** Deborah Diesen <br>
-**Publisher:** Farrar, Straus and Giroux, 2019. <br>
+**Publisher:** New York : Farrar, Straus and Giroux, 2019.
+©2017. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3338352](https://nlb.overdrive.com/media/3338352) <br>
 
 Oh no! There's a misbehaving shark at the playground! Swim along with the pout-pout fish as he confronts the challenge of bullying. He just might discover the strength of his community--and the power of his own voice. 
@@ -157,7 +217,7 @@ Oh no! There's a misbehaving shark at the playground! Swim along with the pout-p
 
 **Title:** [Samson: The Piranha Who Went to Dinner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202800881) <br>
 **Author:** Tadgh Bentley <br>
-**Publisher:** Harpercollins Publisher, 2017.<br>
+**Publisher:** New York, NY : Balzer + Bray, An Imprint of HarperCollinsPublishers, \[2017\]<br>
 
 Wanting to try new things, Samson aspires to sample fine cuisine at fancy restaurants before discovering that the new restaurants in his corner of the sea are not exactly welcoming to customers with big teeth and scary smiles.
 
@@ -165,7 +225,8 @@ Wanting to try new things, Samson aspires to sample fine cuisine at fancy restau
 
 **Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
 **Author:** Sandra Markle & Howard Mcwilliam <br>
-**Publisher:** Scholastic Press, 2020. <br>
+**Publisher:** New York : Scholastic Press, 2020.
+©2020. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/5437531](https://nlb.overdrive.com/media/5437531) <br>
 
 What if you woke up one morning, and you suddenly had the superpower of an ocean animal? With zany illustrations and amazing true facts, What If You Could Sniff Like a Shark? Launches a brand-new series from bestselling creators Sandra Markle and Howard McWilliam. 
@@ -186,7 +247,7 @@ Materials needed:
 * Googly eyes
 * Marker
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.pdf) full instructions for this craft.
+[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -194,7 +255,8 @@ Materials needed:
 
 **Title:** [Platypuses](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203180907) <br>
 **Author:** Sara Louise Kras <br>
-**Publisher:** Capstone Press, 2019. <br>
+**Publisher:** Mankato, Minn. : Capstone Press, [2019]
+©2019. <br>
 
 Platypuses live only in Australia. Learn all about these unusual, duck billed divers and their habitats in Platypuses. Bring augmented reality to your students by downloading the free Capstone 4D app and scanning for access to an online article, video, and discussion questions. This item is a Capstone Duo and includes both a hardcover and Capstone Interactive eBook edition of the title.
 
@@ -203,7 +265,7 @@ Platypuses live only in Australia. Learn all about these unusual, duck billed di
 **Title:** [10 Reasons To Love a Penguin](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203163242) <br>
 **Author:** Catherine Barr <br>
 **Illustrator:** Hanako Clulow <br>
-**Publisher:** Lincoln Children's Books, 2018. <br>
+**Publisher:** London, England : Lincoln Children's Books, \[2018\] ©2018.<br>
 
 Penguins are the cutest birds! Did you know that they go on incredible journeys? Or that they toboggan on their stomachs? Discover ten reasons why penguins are amazing and five ways you can show they love them in this gorgeous picture book. A must for any young animal enthusiast and a fantastic introduction to environmental issues.
 
@@ -211,7 +273,7 @@ Penguins are the cutest birds! Did you know that they go on incredible journeys?
 
 **Title:** [Emperor Penguins](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203976820) <br>
 **Author:** Jody S. Rake<br>
-**Publisher:** Pebble, a Capstone imprint, 2020. <br>
+**Publisher:** North Mankato, Minnesota : Pebble, a Capstone imprint, \[2020\] ©2020. <br>
 
 Emperor penguins are known as the largest of all penguins. Find out more about this flightless, but quick swimming bird.
 
@@ -219,7 +281,7 @@ Emperor penguins are known as the largest of all penguins. Find out more about t
 
 **Title:** [Snowy Owls](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094041) <br>
 **Author:** Rita Santos<br>
-**Publisher:** Enslow Publishing, 2020. <br>
+**Publisher:** New York : Enslow Publishing, 2020.<br>
 
 The nomadic snowy owl is among the Arctic's most graceful predators. It makes its home in the frigid north, relying on its heavy feathers and snowy white appearance for survival in the subzero temperatures. With full-color photographs and accessible text, this book examines how the snowy owl's life cycle, body structure, and behaviors have adapted to its challenging environment. Fun facts will engage young readers, and a final activity encourages them to use what they've learned to create a food web based on the snowy owl.
 
@@ -238,7 +300,7 @@ Materials needed:
 * Paintbrush
 * Markers
 
-[Download](/images/diyresources/preschool/I%20Lava%20Reading%20Card%20instructions.pdf) full instructions for this craft.
+[Download](/images/diyresources/preschool/I%20Lava%20Reading%20Card%20instructions.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -246,7 +308,8 @@ Materials needed:
 
 **Title:** [A Trip to The Top of The Volcano With Mouse: A Toon Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203938138) <br>
 **Author:** Frank Viva <br>
-**Publisher:** Toon Books, 2019. <br>
+**Publisher:** New York, NY : TOON Books, \[2019\]
+©2019. <br>
 
 A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar landscapes and snow-capped peaks, then return to the ancient city at the bottom.
 
@@ -254,7 +317,8 @@ A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar l
 
 **Title:** [Old Rock (Is Not Boring)](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204382095) <br>
 **Author:** Deb Pilutti <br>
-**Publisher:** G.P. Putnam's Sons, 2020. <br>
+**Publisher:** New York, NY : G.P. Putnam's Sons, \[2020\]
+©2020. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/4716401](https://nlb.overdrive.com/media/4716401) <br>
 
 Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is boring until Old Rock shares what he has seen and done since he first flew out of a volcano.
@@ -263,7 +327,8 @@ Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is bori
 
 **Title:** [Spenser And The Rocks](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201153144) <br>
 **Author:** Lawrence F Lowery <br>
-**Publisher:** NSTA Kids, National Science Teachers Association, 2013. <br>
+**Publisher:** Arlington, Virginia : NSTA Kids, National Science Teachers Association, \[2013\]
+©2013.<br>
 
 The heart of the story is a young boy named Spenser and his interests, curiosity, and thoughts. Through the story, the reader is introduced to scientific procedures such as classification, research, and reclassification. Spenser's interest in rocks increases as he learns more about them by sorting the rocks, asking questions, and reading reference books.
 
@@ -271,7 +336,7 @@ The heart of the story is a young boy named Spenser and his interests, curiosity
 
 **Title:** [A Rock Can Be...](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202612456) <br>
 **Author:** Laura Purdie Salas and Violeta Dabija <br>
-**Publisher:** Millbrook Press, 2015. <br>
+**Publisher:** Minneapolis : Millbrook Press, \[2015\] <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/2077338](https://nlb.overdrive.com/media/2077338) <br>
 
 Rocks may seem like boring, static objects--until you discover that a rock can spark a fire, glow in the dark, and provide shelters of all shapes and size. Learn how rocks decorate and strengthen the world around them.
@@ -292,7 +357,7 @@ Materials needed:
 * Pencil
 * Double-sided tape
  
-[Download](/images/diyresources/preschool/Lion-paper-crown-instructions.pdf) full instructions for this craft.
+[Download](/images/diyresources/preschool/Lion-paper-crown-instructions.PDF) full instructions for this craft.
 
 **Try this**: Make paper crowns of your favourite animals!
 
@@ -302,7 +367,8 @@ Materials needed:
 
 **Title:** [Oh, No!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14645478) <br>
 **Author:** Candace Fleming & Eric Rohmann <br>
-**Publisher:** Schwartz & Wade Books, c2012. <br>
+**Publisher:** New York : Schwartz & Wade Books, 2012.
+©2012. <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3015120](https://nlb.overdrive.com/media/3015120)<br>
 
 Young children will delight in repeating the refrain “OH NO!” as one animal after another falls into a deep, deep hole in this lively read-aloud. This simple and irresistible picture book by hugely popular picture book creators – Candace Fleming and Caldecott medallist Eric Rohmann – feels like a classic-in-the-making. Fans of Rohmann’s Caldecott Medal-winning My Friend Rabbit will be thrilled to see a new book created in the same expressive and comical style.
@@ -311,7 +377,8 @@ Young children will delight in repeating the refrain “OH NO!” as one animal 
 
 **Title:** [My Book of Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203786772) <br>
 **Author:** Nik Afia <br>
-**Publisher:** Windmill Books, 2019. <br>
+**Publisher:** New York, NY : Windmill Books, 2019.
+©2019.<br>
 
 The Animal Kingdom is a wild place. It’s home to enormous blue whales and fluttery butterflies, spotty leopards, and wriggly jellyfish. In this engaging book, readers will meet a menageries of adorable creatures in all shapes and sizes. They’ll explore pages of stunning illustrations as they learn basic animal words. Fun, simple questions engage readers and foster confidence. Learning will feel like a game as beginning readers peruse his zoo of animals. This high-interest topic and playful design will intrigue even reluctant readers, making it a valuable addition to any library or classroom.
 
@@ -334,7 +401,7 @@ Materials needed:
 * Hole punch
 * Brown yarn
 
-[Download](/images/diyresources/preschool/Colourful-Garden-Instructions.pdf) full instructions for this craft.
+[Download](/images/diyresources/preschool/Colourful-Garden-Instructions.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -342,7 +409,7 @@ Materials needed:
 
 **Title:** [My Busy Green Garden](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202781044) <br>
 **Author:** Terry Pierce <br>
-**Publisher:** Tilbury House Publishers, \[2017\] <br>
+**Publisher:** Thomaston, Maine : Tilbury House Publishers, \[2017\]<br>
 
 Takes a close look at a garden, describing the plants, insects, and birds and their activities throughout the day.
 
@@ -350,7 +417,7 @@ Takes a close look at a garden, describing the plants, insects, and birds and th
 
 **Title:** [Caterpillar and Bean](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203878309) <br>
 **Author:** Martin Jenkins <br>
-**Publisher:** Candlewick Press, 2019. <br>
+**Publisher:** Somerville, Massachusetts : Candlewick Press, 2019. ©2018.<br>
 
 What’s that wedged in a crack in the ground, small and hard and wrinkly and brown? A bean seed! Soon it develops roots and leaves. And what’s that on the leaf? An egg! The egg hatches a caterpillar, and the caterpillar eats the leaves, getting bigger and bigger until it forms a chrysalis. Meanwhile, the plant is growing, too: it develops flowers, then bean pods, as it reaches up toward the sun. Side by side, plant and insect grow . . . and grow . . . and grow throughout the year, until they come full circle.
 
@@ -371,7 +438,7 @@ Materials needed:
 * Colouring materials
 * Scissors
 
-[Download](/images/diyresources/preschool/Zoom-into-Space-Instructions.pdf) full instructions for this craft.
+[Download](/images/diyresources/preschool/Zoom-into-Space-Instructions.PDF) full instructions for this craft.
 
 **Try this**: Replace the planets with stars in different sizes and you’ve got a star mobile!
 
@@ -381,7 +448,7 @@ Materials needed:
 
 **Title:** [Aliens Love Underpants ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202829779)<br>
 **Author:** Claire Freedman <br>
-**Publisher:** Barron’s Educational Series, 2017. <br>
+**Publisher:** London Simon & Schuster, 2017. ©2007.<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/3303412](https://nlb.overdrive.com/media/3303412) <br>
 
 With wacky illustrations and hilarious rhyming text, Aliens Love Underpants is already a favorite among toddlers, beginning readers, teachers, parents, big brothers, big sisters, grandparents, and essentially anyone else who cracks open this super-silly book. When little aliens fly down to Earth, they’re not visiting because they want to meet the Earthlings. They simply want to steal everybody’s underpants!
@@ -410,7 +477,7 @@ Materials needed:
 * Glue or tape
 * Colouring materials
 
-[Download](/images/diyresources/preschool/Magical-World_discovereads.pdf) full instructions for this craft.
+[Download](/images/diyresources/preschool/Magical-World_discovereads.PDF) full instructions for this craft.
 
 **Try this**: Make book corners based on your favourite magical creatures!
 
@@ -420,7 +487,7 @@ Materials needed:
 
 **Title:** [I’m Casting a Spell! : Meet a Fairy-Tale Witch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200943178) <br>
 **Author:** Lisa Bullard <br>
-**Publisher:** Millbrook Press, 2014. <br>
+**Publisher:** Minneapolis : Millbrook Press, \[2015\]<br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/1907919](https://nlb.overdrive.com/media/1907919) <br>
 
 Meet Hex. She’s a fairy-tale witch! Hex has magic powers. She likes to fly around and play tricks on people. But don’t worry. Hex is not real. She’s one of the monsters you meet in stories. She just wants to tell you about fairy-tale witches. Learn how a witch scares villagers. Meet different kinds of witches around the world. And find out where witch tales come from. You’ll have a creepy time with this monster buddy!
@@ -429,7 +496,7 @@ Meet Hex. She’s a fairy-tale witch! Hex has magic powers. She likes to fly aro
 
 **Title:** [The Paper Bag Princess](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204438263) <br>
 **Author:** Robert Munsch <br>
-**Publisher:** Annick Press, 2019. <br>
+**Publisher:** Toronto ; Berkeley : Annick Press, \[2018\] ©2018 <br>
 **OverDrive Link:** [https://nlb.overdrive.com/media/965094](https://nlb.overdrive.com/media/965094) <br>
 
 Princess Elizabeth is excited to marry dreamy Prince Ronald, but then a dragon attacks the castle, kidnaps her prince, and burns all her clothes. In resourceful and humorous fashion, Elizabeth dons a paper bag, finds and outsmarts the dragon, and recues Ronald – who is less than pleased at her unprincesslike appearance. What’s a modern-day princess to do? Read this delightful tale to find out.

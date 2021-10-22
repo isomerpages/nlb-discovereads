@@ -24,7 +24,7 @@ Materials needed:
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/The%20Truth%20About%20Butterflies.jpg" alt="the truth about butterflies" style="width:40%">
+<img src="/images/diyresources/preschool/whatarefeelings.jpeg" alt="what are feelings" style="width:45%">
 
 **Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
 **Author:** Katie Daynes & Christine Pym<br>
@@ -32,7 +32,7 @@ Materials needed:
 
 This thoughtful book explores happiness, sadness, anger, fear and worry in a friendly and approachable way. Adorable animal characters experience different emotions, while imaginative flaps answer important questions such as 'Why don't I feel happy all the time?' and 'How can I cheer up my friend?' Introduces useful ways to counter stress and anxiety. The flaps are perfect for inquisitive young children. Other titles in the series include Why do we need bees?, How do flowers grow?, How do I see?, Why does the sun shine? and How do animals talk?
 
-<img src="/images/diyresources/preschool/A%20Butterfly%20Is%20Patient.jpg" alt="a butterfly is patient" style="width:40%">
+<img src="/images/diyresources/preschool/Im-Happy-Sad-Today-1.jpeg" alt="im happy sad today" style="width:45%">
 
 **Title:** [I’m Happy-Sad Today!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204007445) <br>
 **Author:** Lory Britain, Ph.D.  <br>
@@ -41,7 +41,7 @@ This thoughtful book explores happiness, sadness, anger, fear and worry in a fri
 
 Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined. With gentle messaging and charming illustrations, a little girl talks about her many layered feelings, ultimately concluding, "When I have more than one feeling inside me, I don't have to choose just one. I know that all my feelings are okay at the same time." A special section for adults presents ideas for helping children explore their emotions, build a vocabulary of feeling words, know what to do if they feel overwhelmed, and more.
 
-<img src="/images/diyresources/preschool/My%20Butterfly%20Bouquet.jpg" alt="my butterfuly bouquet" style="width:40%">
+<img src="/images/diyresources/preschool/fergalisfuming.jpeg" alt="fergal is fuming" style="width:40%">
 
 **Title:** [Fergal is Fuming!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202961071) <br>
 **Author:** Robert Starling <br>
@@ -49,7 +49,7 @@ Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little s
 
 A dragon with a short temper is not a good combination, as Fergal's family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game. It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way.
 
-<img src="/images/diyresources/preschool/Senorita%20Mariposa.jpg" alt="Señorita Mariposa" style="width:40%">
+<img src="/images/diyresources/preschool/afterthefall-humptydumpty.jpeg" alt="after the fall humpty dumpty" style="width:40%">
 
 **Title:** [After the Fall: How Humpty Dumpty Got Back Up](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203076694) <br>
 **Author:** Dan Santat <br>

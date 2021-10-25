@@ -6,6 +6,8 @@ third_nav_title: Secondary School Resources
 ---
 ## **Teen•Things**
 
+***Look out for new weekly topics during the school holidays, from 22 November 2021!***
+
 <img src="/images/diyresources/secondary/tt21-header.png" alt="Teen Things header" style="width: 100%;">
 <p style="text-align: center;"><i>(Updated on 18 Jun 2021)</i></p>
 

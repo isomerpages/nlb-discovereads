@@ -4,7 +4,7 @@ permalink: /events/ranger-buddies
 ---
 ### Ranger Buddies <br> In collaboration with Mandai Wildlife Reserve
 
-#### Ranger Buddies Booklists
+#### Booklists
 Do check out these books curated by our Early Read librarians which will help your child to discover and appreciate our Earth’s rainforests!
 
 <a href="/files/preschool/ranger-buddies/rangerbooklist1.PDF"><img src="/images/events/ranger-buddies/rangerbooklist1.JPG" style="width: 55%;"></a>

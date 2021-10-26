@@ -4,16 +4,7 @@ permalink: /events/ranger-buddies
 ---
 ### Ranger Buddies <br> In collaboration with Mandai Wildlife Reserve
 
-
-
-
-Ranger Buddies is a programme filled with fun missions every day that teaches children how daily small actions can benefit themselves, others, and help save the world.
-
-Learn more at [rangerbuddies.com](https://mab.wrs.com.sg/ranger-buddies.html). 
-
-Ranger Buddies is brought to you by Mandai Wildlife Reserve, a unique nature and wildlife destination. 
-
-#### Ranger Buddies Booklists
+#### Booklists
 Do check out these books curated by our Early Read librarians which will help your child to discover and appreciate our Earth’s rainforests!
 
 <a href="/files/preschool/ranger-buddies/rangerbooklist1.PDF"><img src="/images/events/ranger-buddies/rangerbooklist1.JPG" style="width: 55%;"></a>
@@ -24,4 +15,4 @@ Do check out these books curated by our Early Read librarians which will help yo
 
 If you are keen to subscribe to Early Read’s monthly eDMs where we’ll feature upcoming programmes specifically for children aged 0 to 6 yrs old,  scan or click on the QR code.
 
-<a href="https://go.gov.sg/earlyread-subscribe"><img src="/images/events/ranger-buddies/earlyreadsubscribe.png" style="width: 20%;"></a>
+<a href="https://go.gov.sg/earlyread-subscribe"><img src="/images/events/ranger-buddies/earlyreadsubscribe.png" style="width: 30%;"></a>

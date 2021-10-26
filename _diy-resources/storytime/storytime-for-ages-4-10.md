@@ -44,20 +44,19 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 
 <img src="/images/diyresources/storytime_schedule.png" alt="Storytime Schedule" class="center" style="width: 70%;">
 
-Storytelling Videos (Updated on 22 Feb 2021)
+Storytelling Videos (Updated on 26 Oct 2021)
 
 | [English](/diy-resources/storytime/storytime-archives-english) | [Chinese](/diy-resources/storytime/storytime-archives-chinese) | [Malay](/diy-resources/storytime/storytime-archives-malay) | [Tamil](/diy-resources/storytime/storytime-archives-tamil) |
 
 ### **English**
 
-**14 Aug 2021**
-**One Tiny Wish**
+**9 Oct 2021**
+**Bunny Finds the Right Stuff**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stYvcQ166Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GfyLTx1R12w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**24 Jul 2021**
-**The FAST Heroes 995 Storybook**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZoJ2e7xBKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**23 Oct 2021**
+**The Dressmaker**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbTXbHDU6Wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 

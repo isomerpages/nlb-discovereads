@@ -15,4 +15,4 @@ Do check out these books curated by our Early Read librarians which will help yo
 
 If you are keen to subscribe to Early Read’s monthly eDMs where we’ll feature upcoming programmes specifically for children aged 0 to 6 yrs old,  scan or click on the QR code.
 
-<a href="https://go.gov.sg/earlyread-subscribe"><img src="/images/events/ranger-buddies/earlyreadsubscribe.png" style="width: 20%;"></a>
+<a href="https://go.gov.sg/earlyread-subscribe"><img src="/images/events/ranger-buddies/earlyreadsubscribe.png" style="width: 30%;"></a>

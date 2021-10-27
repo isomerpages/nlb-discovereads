@@ -2,9 +2,6 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-
-
-
 | ![Alt text for image on Isomer site](/images/mother-tongue-services/Digital%20Offerings_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Resources_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png) |
 ![Alt text for image on Isomer site](/images/mother-tongue-services/Programme%20Information_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Contact%20Us_Chinese%20.png) |
 

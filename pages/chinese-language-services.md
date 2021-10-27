@@ -2,7 +2,7 @@
 title: Chinese Language Services
 permalink: /chinese-language
 ---
-# **Chinese Language Services**
+# **华文**
 
 
 ### Programmes

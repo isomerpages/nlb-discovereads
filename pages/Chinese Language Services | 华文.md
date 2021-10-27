@@ -9,7 +9,7 @@ permalink: /chinese-language
 
 ### Programmes
 
-**Parenting Talk Series**
+<a name="digitalofferings">**Parenting Talk Series**</a>
 
 The parenting talk series shares tips and information on education and parenting challenges commonly faced by parents with children aged 7 years old and above.
 

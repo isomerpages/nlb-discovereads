@@ -1,8 +1,9 @@
 ---
-title: Tamil Language Services
+title: "Tamil Language Services | தமிழ் மொழி "
 permalink: /tamil-language
 ---
-# **Tamil Language Services**
+
+# **தமிழ் மொழி **
 
 #### Resources
 <div class="wrapper" style="width: 100%;">

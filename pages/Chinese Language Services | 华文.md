@@ -1,13 +1,15 @@
 ---
-title: Chinese Language Services
+title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-# **Chinese Language Services**
+| ![Alt text for image on Isomer site](/images/mother-tongue-services/Digital%20Offerings_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Resources_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png) |
+![Alt text for image on Isomer site](/images/mother-tongue-services/Programme%20Information_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Contact%20Us_Chinese%20.png) |
+
 
 
 ### Programmes
 
-**Parenting Talk Series**
+<a name="digitalofferings">**Parenting Talk Series**</a>
 
 The parenting talk series shares tips and information on education and parenting challenges commonly faced by parents with children aged 7 years old and above.
 

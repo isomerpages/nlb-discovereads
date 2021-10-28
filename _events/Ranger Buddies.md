@@ -2,7 +2,11 @@
 title: Ranger Buddies
 permalink: /events/ranger-buddies
 ---
-### Ranger Buddies <br> In collaboration with Mandai Wildlife Reserve
+### Ranger Buddies <br> 
+
+#### Be A Hero Every Day with Ranger Buddies<br>
+Every child can be a hero every day. Ranger Buddies is a programme brought to you by the wildlife parks at Mandai Wildlife Reserve that brings children on exciting missions together with their animal buddies and teaches them how daily small actions can benefit themselves, others, and help save the world. <br>
+[Learn more](mab.link/rbweb-nlb-discover)
 
 #### Booklists
 Do check out these books curated by our Early Read librarians which will help your child to discover and appreciate our Earth’s rainforests!

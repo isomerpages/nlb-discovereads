@@ -6,7 +6,7 @@ permalink: /tamil-language
 [![reading recommendations](/images/mother-tongue-services/tamil-icons/Reading%20Recommendations_Tamil.png)](#reading-recommendations)|[![Contact us tamil](/images/mother-tongue-services/tamil-icons/Contact%20Us_Tamil.png)](#contact-us)
 
 		
-#### Programmes
+#### Programme Information
 
 **Raise-A-Reader Workshop (Tamil)**
 
@@ -24,17 +24,19 @@ Ang Mo Kio Public Library, Bedok Public Library,
 
 Jurong Regional Library, Woodlands Regional Library
 
-#### Tamil Programmes for Secondary Schools
+##### Tamil Programmes for Secondary Schools
 
 **Youth Reading Series (Tamil)**
 
 This series aims to develop appreciation for Tamil literature by exposing teens to different types of writing and inspiring them to bring these literary works to life through oratorical, performing and theatre arts.
 
+<b><a href="#top">Back to top</a></b>	
+
 ### Digital Offerings
 
 <b><a href="#top">Back to top</a></b>	
 
-#### Resources
+### Resources
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">
@@ -60,6 +62,7 @@ This series aims to develop appreciation for Tamil literature by exposing teens 
 	</div>
 	</div>
 
+<b><a href="#top">Back to top</a></b>	
 
 #### **Book Recommendations**
 <div class="wrapper" style="width: 100%;">
@@ -69,7 +72,10 @@ This series aims to develop appreciation for Tamil literature by exposing teens 
 	</div>
 	</div>
 	</div>
+
+<b><a href="#top">Back to top</a></b>	
 	
 #### Contact Us
 For more information, please email us at readtamil@nlb.gov.sg.
-<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
+
+<b><a href="#top">Back to top</a></b>	

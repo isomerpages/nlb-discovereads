@@ -2,11 +2,8 @@
 title: Malay Language Services | Bahasa Ibunda
 permalink: /malay-language
 ---
+[![programme information malay](/images/mother-tongue-services/malay-icons/Programme%20Information_Malay.png)](#programme-information) | [![digital offerings malay](/images/mother-tongue-services/malay-icons/Digital%20Offerings_Malay.png)](#digital-offerings) |[![resources malay](/images/mother-tongue-services/malay-icons/Resources%20_Malay.png)](#resources) | [![reading recommendations malay](/images/mother-tongue-services/malay-icons/Reading%20Recommendations_Malay.png)](#reading-recommendations)| ![Alt text for image on Isomer site](/images/mother-tongue-services/malay-icons/Contact%20Us%20Icon_Malay.png)|
 
-
-|  | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 
 

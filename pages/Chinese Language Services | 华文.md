@@ -2,11 +2,13 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-| [![Alt text for image on Isomer site](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)|![Alt text for image on Isomer site](/images/mother-tongue-services/Resources_Chinese.png)](#digitalofferings)| [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) |[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)|
+
+
+[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)|
 
 
 
-### Programmes
+### Programme Information
 
 <a name="digitalofferings">**Parenting Talk Series**</a>
 
@@ -31,6 +33,14 @@ This programme series aims to encourage teens to rediscover the joy of reading t
 Teachers will send and accompany the students to the selected public libraries to attend the programme. Interested teachers may email us 2 months in advance at READSingapore@nlb.gov.sg to make arrangement for the programmes.
 
 <b><a href="#top">Back to top</a></b>
+
+### Digital Offerings
+
+<b><a href="#top">Back to top</a></b>	
+
+### Resources
+
+<b><a href="#top">Back to top</a></b>	
 
 ### Reading Recommendations
 <div class="wrapper" style="width: 100%;">

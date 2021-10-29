@@ -2,12 +2,12 @@
 title: Malay Language Services | Bahasa Ibunda
 permalink: /malay-language
 ---
-[![programme information malay](/images/mother-tongue-services/malay-icons/Programme%20Information_Malay.png)](#programme-information) | [![digital offerings malay](/images/mother-tongue-services/malay-icons/Digital%20Offerings_Malay.png)](#digital-offerings) |[![resources malay](/images/mother-tongue-services/malay-icons/Resources%20_Malay.png)](#resources) | [![reading recommendations malay](/images/mother-tongue-services/malay-icons/Reading%20Recommendations_Malay.png)](#reading-recommendations)| ![Alt text for image on Isomer site](/images/mother-tongue-services/malay-icons/Contact%20Us%20Icon_Malay.png)|
+[![programme information malay](/images/mother-tongue-services/malay-icons/Programme%20Information_Malay.png)](#programme-information) | [![digital offerings malay](/images/mother-tongue-services/malay-icons/Digital%20Offerings_Malay.png)](#digital-offerings) |[![resources malay](/images/mother-tongue-services/malay-icons/Resources%20_Malay.png)](#resources) | [![reading recommendations malay](/images/mother-tongue-services/malay-icons/Reading%20Recommendations_Malay.png)](#reading-recommendations)| [![contact us malay](/images/mother-tongue-services/malay-icons/Contact%20Us%20Icon_Malay.png)](#contact-us)|
 
 
 
 
-### Programmes
+### Programme Information
 **Storytelling Session Duration: 30 – 45 minutes**
 
 Our librarian will entertain students with engaging stories. Suitable for Primary 1 – 3.
@@ -19,6 +19,14 @@ In this classroom activity, students swap and share books with one another. They
 **Book Buzz Duration: 30 minutes**
 
 Our librarian will share recommended books written in the Malay language. Students will learn about authors and their works as well as various themes, issues, moral values, language creativity and genres in Malay literature.
+
+### Digital Offerings
+
+<b><a href="#top">Back to top</a></b>	
+
+### Resources
+
+<b><a href="#top">Back to top</a></b>	
 
 #### Malay Programmes held in Public Libraries (Suitable for primary school students)
 
@@ -58,7 +66,7 @@ A love for knowledge and lifelong learning among teens go beyond book-based acti
 
 Gig Puisi is a platform for poets and poetry enthusiasts to come together to perform various original and published works. Organised on a quarterly basis, it celebrates our local authors and their works, as well as provides a valuable opportunity for students and members of the public to develop knowledge and appreciation of Malay poetry.
 
-##### **Book Recommendations**
+##### **Reading Recommendations**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">

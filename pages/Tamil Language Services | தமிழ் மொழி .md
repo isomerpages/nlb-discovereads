@@ -2,7 +2,7 @@
 title: "Tamil Language Services | தமிழ் மொழி "
 permalink: /tamil-language
 ---
-|[![programme information tamil](/images/mother-tongue-services/tamil-icons/Programme%20Information_Tamil.png)](#programme-information)| [![Alt text for image on Isomer site](/images/mother-tongue-services/tamil-icons/Digital%20Offerings_Tamil.png)](#digital-offerings) | -------- |
+[![programme information tamil](/images/mother-tongue-services/tamil-icons/Programme%20Information_Tamil.png)](#programme-information)| [![digital offerings tamil](/images/mother-tongue-services/tamil-icons/Digital%20Offerings_Tamil.png)](#digital-offerings) |[![resources tamil](/images/mother-tongue-services/tamil-icons/Resources_Tamil.png)](#resources)|
 | Text     | Text     | Text     |
 
 

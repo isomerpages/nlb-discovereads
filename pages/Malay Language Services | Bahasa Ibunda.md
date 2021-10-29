@@ -20,6 +20,8 @@ In this classroom activity, students swap and share books with one another. They
 
 Our librarian will share recommended books written in the Malay language. Students will learn about authors and their works as well as various themes, issues, moral values, language creativity and genres in Malay literature.
 
+<a href="#top">Back to top</a></b></p>
+
 ### Digital Offerings
 
 <b><a href="#top">Back to top</a></b>	
@@ -66,7 +68,9 @@ A love for knowledge and lifelong learning among teens go beyond book-based acti
 
 Gig Puisi is a platform for poets and poetry enthusiasts to come together to perform various original and published works. Organised on a quarterly basis, it celebrates our local authors and their works, as well as provides a valuable opportunity for students and members of the public to develop knowledge and appreciation of Malay poetry.
 
-##### **Reading Recommendations**
+<a href="#top">Back to top</a></b></p>
+
+### **Reading Recommendations**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">
@@ -74,7 +78,9 @@ Gig Puisi is a platform for poets and poetry enthusiasts to come together to per
 	</div>
 	</div></div>
 
-#### Contact Us
+<a href="#top">Back to top</a></b></p>
+
+### Contact Us
 For more information, please email us at readmalay@nlb.gov.sg.
 
-<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
+<a href="#top">Back to top</a></b></p>

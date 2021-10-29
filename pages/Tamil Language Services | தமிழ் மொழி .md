@@ -2,8 +2,37 @@
 title: "Tamil Language Services | தமிழ் மொழி "
 permalink: /tamil-language
 ---
+[![programme information tamil](/images/mother-tongue-services/tamil-icons/Programme%20Information_Tamil.png)](#programme-information)| [![digital offerings tamil](/images/mother-tongue-services/tamil-icons/Digital%20Offerings_Tamil.png)](#digital-offerings) |[![resources tamil](/images/mother-tongue-services/tamil-icons/Resources_Tamil.png)](#resources)|
+[![reading recommendations](/images/mother-tongue-services/tamil-icons/Reading%20Recommendations_Tamil.png)](#reading-recommendations)|[![Contact us tamil](/images/mother-tongue-services/tamil-icons/Contact%20Us_Tamil.png)](#contact-us)
 
-# **தமிழ் மொழி **
+		
+#### Programmes
+
+**Raise-A-Reader Workshop (Tamil)**
+
+The Raise-A-Reader Workshop Series aims to encourage parents and educators to cultivate literacy skills in children aged 8 and below. The workshop promotes the importance of reading in the Mother Tongue languages and provide tips on choosing appropriate books.
+
+**Book Rangers Club**
+
+Held twice a year for 8 consecutive weeks, the Book Rangers Club aims to instil the love of reading Tamil junior books via comprehensive lesson plans which include reading and writing exercises, story discussions, book crafts and more.
+
+8 Saturdays in March and July
+
+10.15am–11.15am or 11.30am-12.30pm
+
+Ang Mo Kio Public Library, Bedok Public Library,
+
+Jurong Regional Library, Woodlands Regional Library
+
+#### Tamil Programmes for Secondary Schools
+
+**Youth Reading Series (Tamil)**
+
+This series aims to develop appreciation for Tamil literature by exposing teens to different types of writing and inspiring them to bring these literary works to life through oratorical, performing and theatre arts.
+
+### Digital Offerings
+
+<b><a href="#top">Back to top</a></b>	
 
 #### Resources
 <div class="wrapper" style="width: 100%;">
@@ -30,32 +59,9 @@ permalink: /tamil-language
 		</div>
 	</div>
 	</div>
-		
-#### Programmes
 
-**Raise-A-Reader Workshop (Tamil)**
 
-The Raise-A-Reader Workshop Series aims to encourage parents and educators to cultivate literacy skills in children aged 8 and below. The workshop promotes the importance of reading in the Mother Tongue languages and provide tips on choosing appropriate books.
-
-**Book Rangers Club**
-
-Held twice a year for 8 consecutive weeks, the Book Rangers Club aims to instil the love of reading Tamil junior books via comprehensive lesson plans which include reading and writing exercises, story discussions, book crafts and more.
-
-8 Saturdays in March and July
-
-10.15am–11.15am or 11.30am-12.30pm
-
-Ang Mo Kio Public Library, Bedok Public Library,
-
-Jurong Regional Library, Woodlands Regional Library
-
-#### Tamil Programmes for Secondary Schools
-
-**Youth Reading Series (Tamil)**
-
-This series aims to develop appreciation for Tamil literature by exposing teens to different types of writing and inspiring them to bring these literary works to life through oratorical, performing and theatre arts.
-
-##### **Book Recommendations**
+#### **Book Recommendations**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 		<div class="image-container" style="margin: auto;">

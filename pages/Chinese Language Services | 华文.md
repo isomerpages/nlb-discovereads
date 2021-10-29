@@ -2,12 +2,13 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-| ![Alt text for image on Isomer site](/images/mother-tongue-services/Digital%20Offerings_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Resources_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png) |
-![Alt text for image on Isomer site](/images/mother-tongue-services/Programme%20Information_Chinese.png) | ![Alt text for image on Isomer site](/images/mother-tongue-services/Contact%20Us_Chinese%20.png) |
+
+
+[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)|
 
 
 
-### Programmes
+### Programme Information
 
 <a name="digitalofferings">**Parenting Talk Series**</a>
 
@@ -33,7 +34,15 @@ Teachers will send and accompany the students to the selected public libraries t
 
 <b><a href="#top">Back to top</a></b>
 
-### Book Recommendation
+### Digital Offerings
+
+<b><a href="#top">Back to top</a></b>	
+
+### Resources
+
+<b><a href="#top">Back to top</a></b>	
+
+### Reading Recommendations
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">

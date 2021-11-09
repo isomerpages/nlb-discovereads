@@ -77,7 +77,6 @@ Discover Esplanade Offstage, an online repository of interesting art-related res
 
 
 #### **Uncover Hidden Gems: MTL, NAS, and Volunteer with Us!**
-**NLB**
 
 Check out the services and resources from our Mother Tongue Language Services (MTL), National Archives of Singapore (NAS), and Friends of the Library and Archieves Progamme. 
 

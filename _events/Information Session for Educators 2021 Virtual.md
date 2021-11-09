@@ -1,7 +1,7 @@
 ---
 title: Information Session for Educators 2021 Virtual
 permalink: /events/infosessionforeducators
-breadcrumb: Information Session for Educators 2020 Virtual
+breadcrumb: Information Session for Educators 2021 Virtual
 collection_name: events
 description: ""
 ---

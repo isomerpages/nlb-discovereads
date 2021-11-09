@@ -83,7 +83,7 @@ Check out the services and resources from our Mother Tongue Language Services (M
 
 
 #### **Read@School Services**
-Refer to the brochure for all Read@School related services.
+Refer to [the brochure](/images/events/informationsession/informationsession2021-brochure.jpg) for all Read@School related services.
 
 Check out [2020's Information Session for Educators Virtual](/events/infosessionforeducators2020)!
 

@@ -1,9 +1,9 @@
 ---
 title: Information Session for Educators 2020 Virtual
-permalink: events/infosessionforeducators
-breadcrumb: Information Session for Educators 2020 Virtual
-collection_name: events
+permalink: /events/infosessionforeducators2020
+description: ""
 ---
+
 
 ![Banner img](/images/events/informationsession/INFORMATION-SESSION-FOR-EDUCATORS-2020-VIRTUAL.png)
 

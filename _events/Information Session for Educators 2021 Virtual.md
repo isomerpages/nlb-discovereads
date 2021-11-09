@@ -78,11 +78,15 @@ Discover Esplanade Offstage, an online repository of interesting art-related res
 
 #### **Uncover Hidden Gems: MTL, NAS, and Volunteer with Us!**
 
-Check out the services and resources from our Mother Tongue Language Services (MTL), National Archives of Singapore (NAS), and Friends of the Library and Archieves Progamme. 
+Check out the services and resources from our Mother Tongue Language Services (MTL), National Archives of Singapore (NAS), and Friends of the Library and Archives Programme. 
 
+
+<b><a href="#top">Back to top</a></b>
 
 #### **Read@School Services**
-Refer to [the brochure](/images/events/informationsession/informationsession2021-brochure.jpg) for all Read@School related services.
+Refer to the brochure for all Read@School related services.
+
+<img src="/images/events/informationsession/informationsession2021-brochure.jpg">
 
 Check out [2020's Information Session for Educators Virtual](/events/infosessionforeducators2020)!
 

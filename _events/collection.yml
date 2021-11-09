@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Information Session for Educators 2020 Virtual.md
       - events.md
       - Information Session for Educators 2021 Virtual.md
       - book-bugs-ii/.keep

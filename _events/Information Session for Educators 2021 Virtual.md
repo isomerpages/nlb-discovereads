@@ -11,7 +11,7 @@ Looking for inspiration on how to make reading and learning exciting in your sch
 
 Stay informed and be inspired by 9 pre-recorded presentations in our virtual Information Session. 
 
-Glean insights on how technology impacts reading and learning, discover new children and young adult non-fiction tiles that hit the library shelves, hear inspiring stories on promoting reading among your community, pick up tips in refreshing your school’s reading culture and many more!
+Glean insights on how technology impacts reading and learning, discover new children and young adult non-fiction titles that hit the library shelves, hear inspiring stories on promoting reading among your community, pick up tips in refreshing your school’s reading culture and many more!
 
 ####  **The Impact of Technology on Reading and Learning**
 **Professor Lily Kong, President, Singapore Management University**

@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - events.md
-      - information-session-for-educators-2020-virtual.md
+      - Information Session for Educators 2020 Virtual.md
       - book-bugs-ii/.keep
       - book-bugs-ii/main-page.md
       - book-bugs-ii/story.md

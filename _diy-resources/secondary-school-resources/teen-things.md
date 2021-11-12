@@ -17,6 +17,41 @@ third_nav_title: Secondary School Resources
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)](/diy-resources/secondary/teen-things-archive)
 
+#### Emailing 101
+So you’ve just been assigned to send an email to an organisation for a school project or a Values in Action (VIA) programme, or maybe you have to apply for an internship. 
+
+You might have crafted a couple of emails to your friends or teachers before, but you aren’t quite sure what exactly goes into such formal emails. 
+
+Well, don’t worry - we’re here to help you out! Here are some tips and tricks on writing effective emails that are sure to impress.
+
+##### **Part 1: Email Subject**
+**Why it should be done well**<br>
+This tells people what your email is about at a quick glance. Don’t underestimate it’s importance - spam filters in your inbox also use this to determine if the email is spam or not!
+![email 1](/images/diyresources/secondary/tt-email1.png)
+
+##### **Part 2: To/Cc/Bcc**
+**Why it should be done well**<br>
+This is the most important part – your emails need to be sent successfully to the correct recipients! 
+![email 2](/images/diyresources/secondary/tt-email2.png)
+
+##### **Part 3: Salutation**
+**Why it should be done well**<br>
+Always greet your recipient politely – if you sound rude from the start, your recipient may treat your email as spam.  
+
+If your recipient signs off with a particular name, do take note to address them with their preferred name in future correspondences. 
+![email 3](/images/diyresources/secondary/tt-email3.png)
+
+##### **Part 4: Introduction**
+**Why it should be done well**<br>
+Put yourself in your recipient’s shoes - if you receive an anonymous email, it is likely that you would only spare it a cursory glance, or worse, delete it.
+![email 4](/images/diyresources/secondary/tt-email4.png)
+
+Finally, there are a couple of things to take note of:
+
+* Re-read your email before sending it. If it helps, get another person to look at your email to catch any errors.
+* Avoid using emojis in your initial email. While using emojis is the norm in your group chats, it may be seen as unprofessional and may cause your recipient to think you are not serious. 
+
+
 
 <a name="id4">![K-Drama Book Recommendations header](/images/diyresources/secondary/tt21-header-kdb.png)</a>
 #### **K-Drama Book Recommendations**

@@ -17,7 +17,6 @@ third_nav_title: Secondary School Resources
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive.png)](/diy-resources/secondary/teen-things-archive)
 
-
 <a name="id4">![K-Drama Book Recommendations header](/images/diyresources/secondary/tt21-header-kdb.png)</a>
 #### **K-Drama Book Recommendations**
 

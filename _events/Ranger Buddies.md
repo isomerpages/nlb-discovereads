@@ -11,6 +11,10 @@ Do check out these books curated by our Early Read librarians which will help yo
 
 <a href="/files/preschool/ranger-buddies/rangerbooklist1.PDF"><img src="/images/events/ranger-buddies/rangerbooklist1.JPG" style="width: 55%;"></a>
 
+<a href="/files/preschool/ranger-buddies/rangerbooklist4.PDF"><img src="/images/events/ranger-buddies/rangerbooklist4.JPG" style="width: 55%;"></a>
+
+<a href="/files/preschool/ranger-buddies/rangerbooklist5.PDF"><img src="/images/events/ranger-buddies/rangerbooklist5.JPG" style="width: 55%;"></a>
+
 <a href="/files/preschool/ranger-buddies/rangerbooklist2.PDF"><img src="/images/events/ranger-buddies/rangerbooklist2.JPG" style="width: 55%;"></a>
 
 <a href="/files/preschool/ranger-buddies/rangerbooklist3.PDF"><img src="/images/events/ranger-buddies/rangerbooklist3.JPG" style="width: 55%;"></a>

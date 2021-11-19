@@ -6,42 +6,11 @@ permalink: /diy-resources/cyla
 
 **Choose Your Library Adventure is an interactive video where you go on a virtual quest to learn about public library spaces and services.** 
 
-_(Updated on 19 November 2021)_
+_(Updated on 12 October 2021)_
 
 **Click on a button to find out more.**
 
-[![MysteryHunt](/images/diyresources/CYLAmysteryhuntbutton.png)](#mysteryhunt) | [![Video](/images/diyresources/CYLAvideobutton.png)](#video) | [![Learning Checklist](/images/diyresources/CYLAchecklistbutton.png)](#checklist) | [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
-
-<a name="mysteryhunt">![MysteryHunt header](/images/diyresources/CYLAmysteryhuntbanner.png)</a>
-Check out our self-guided mystery hunt happening from 1 December 2021 to 31 December 2021 in our public libraries. Solve 3 puzzles hidden in the library to find the missing treasure. 
-
-**List of Participating Libraries**
-* [Ang Mo Kio Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/332/Default.aspx?branch=Ang+Mo+Kio+Public+Library)
-* Bedok Public Library
-* Bishan Public Library
-* Bukit Batok Public Library
-* Bukit Panjang Public Library
-* Central Public Library
-* Cheng San Public Library
-* Choa Chu Kang Public Library
-* Clementi Public Library
-* Geylang East Public Library
-* Jurong Regional Library
-* Jurong West Public Library
-* library@harbourfront
-* Marine Parade Public Library
-* Pasir Ris Public Library
-* Queenstown Public Library
-* Sembawang Public Library
-* Sengkang Public Library
-* Serangoon Public Library
-* Tampines Regional Library
-* Toa Payoh Public Library
-* Woodlands Regional Library
-* Yishun Public Library
-
-<b><a href="#top">Back to top</a></b>
-
+| [![Video](/images/diyresources/CYLAvideobutton.png)](#video) | [![Learning Checklist](/images/diyresources/CYLAchecklistbutton.png)](#checklist) | [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
 
 <a name="video">![Video header](/images/diyresources/CYLAvideobanner.png)</a>
 The fate of the library is in your hands! Join our mysterious and magical Guide as you embark on a quest to save the library from being closed… FOREVER! 

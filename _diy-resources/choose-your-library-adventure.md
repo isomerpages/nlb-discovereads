@@ -16,7 +16,7 @@ _(Updated on 19 November 2021)_
 Check out our self-guided mystery hunt happening from 1 December 2021 to 31 December 2021 in our public libraries. Solve 3 puzzles hidden in the library to find the missing treasure. 
 
 **List of Participating Libraries**
-* Ang Mo Kio Public Library
+* [Ang Mo Kio Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/332/Default.aspx?branch=Ang+Mo+Kio+Public+Library)
 * Bedok Public Library
 * Bishan Public Library
 * Bukit Batok Public Library

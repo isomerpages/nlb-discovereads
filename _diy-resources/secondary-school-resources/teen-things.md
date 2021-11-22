@@ -78,7 +78,7 @@ The site provides a canvas for users to create and export illustrations for use,
 
 <img src="/images/diyresources/secondary/tt-gd-5b.png" alt="Gallery with pre-made stamps available for use. Resizing your image after you already completed it. Community-created pixel art tutorials to guide fellow users." style="width: 70%;">
 
-**Learn more**
+**Learn more**<br>
 Library members have free access to the electronic database, [LinkedIn Learning for Library](https://eresources.nlb.gov.sg/main/linkedin.html). This is an online learning platform that helps users learn skills in creative design, business, software, etc. through video courses taught by recognised industry experts. 
 
 <a href="https://eresources.nlb.gov.sg/main/linkedin.html"><img src="/images/diyresources/secondary/tt-gd-6.png" alt="LinkedIn Learning for Library site screenshot." style="width: 80%;"></a>

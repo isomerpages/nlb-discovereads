@@ -38,6 +38,9 @@ Source: [Grow New Plants with Food Scraps](https://www.youtube.com/watch?v=6QtoA
 
 **Recycle and Remake: Creative Project for Eco Kids**<br>
 edited by: Hélène Hilton<br>
+Publisher: Dorling Kindersley Ltd<br>
+
+
 Kids are on a mission to save the Earth! Recycle and Remake is the hands-on, practical guide you need to get started. This gentle, but empowering book is full of creative making activities, information, and ideas that give young eco-warriors (like you!) the know-how to really help the environment.
 
 Each of the activities directly relates to an environmental topic, such as plastic pollution, food waste, or deforestation. Budding environmentalists all over the world are feeling inspired to do their bit for our unique planet.
@@ -45,7 +48,30 @@ Each of the activities directly relates to an environmental topic, such as plast
 This eBook is available on Overdrive at [https://nlb.overdrive.com/media/5225438]
 (https://nlb.overdrive.com/media/5225438)
 
-<img src=/images/the_food_we_eat.png" alt="Food we eat" style="width: 40%;">
+<img src="/images/the_food_we_eat.png" alt="The food we eat" style="width: 40%;">
+
+**The Food We Eat**<br>
+by Georgia Amson-Bradshaw<br>
+Publisher: Cavendish Square Publishing, LLC<br>
+
+Through full-color photographs, interesting spotlight facts, and subjects related to current events about food, this book will engage readers by piquing their curiosity and creativity. After learning about these issues, students are encouraged by "Test It!" and "Solve It!" activities to think critically and consider potential environmentally friendly, sustainable solutions for the future.
+
+This eBook is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/4886354](https://nlb.overdrive.com/library/kids/media/4886354)
+
+**Tip for parents**
+
+Gardening allows children to engage their senses and connect with nature. Through a variety of fun projects and activities, parents can easily introduce and help children understand topics of sustainability and ecology.
+
+Source: [https://www.montessorinature.com/importance-benefits-gardening-children-toddlers-preschoolers/ 
+https://www.montessorinature.com/indoor-gardening-with-kids/ ](https://www.montessorinature.com/indoor-gardening-with-kids/) (Last accessed 20 October 2021)
+
+
+
+
+
+
+
+
 
 
 ### **Draw Your Music**

@@ -13,20 +13,9 @@ third_nav_title: Secondary School Resources
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-<div class="wrapper" style="width: 100%;">
-<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
-<div class="image-container" style="margin: auto;">
-	<a href="/diy-resources/secondary/teen-things#id1"><img src="/images/diyresources/secondary/tt21-button-graphic.png" style="max-width: 10rem; padding: 10px; margin: auto;"></a>
-	<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" style="max-width: 10rem; padding: 10px; margin: auto;"></a>
-	<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" style="max-width: 10rem; padding: 10px; margin: auto;"></a>
-		<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" style="max-width: 10rem; padding: 10px; margin: auto;"></a>
-		<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" style="max-width: 10rem; padding: 10px; margin: auto;"></a>
-		<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" style="max-width: 10rem; padding: 10px; margin: auto;"></a>
-	</div>
-	</div>
-	</div>
-| [![Graphic Design is My Passion](/images/diyresources/secondary/tt21-button-graphic.png)](#id1) | [![Coming soon!](/images/diyresources/secondary/tt21-button-comingsoon2.png)](#id2) | [![Coming soon!](/images/diyresources/secondary/tt21-button-comingsoon2.png)](#id3) | 
-| [![Coming soon!](/images/diyresources/secondary/tt21-button-comingsoon2.png)](#id4) | [![Coming soon!](/images/diyresources/secondary/tt21-button-comingsoon2.png)](#id5) | [![Coming soon!](/images/diyresources/secondary/tt21-button-comingsoon2.png)](#id6) |
+|<a href="/diy-resources/secondary/teen-things#id1"><img src="/images/diyresources/secondary/tt21-button-graphic.png" alt="Graphic Design is My Passion button" style="width: 30%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 30%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 30%;"></a>|
+<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 30%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 30%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 30%;"></a>|
+
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive2.png)](/diy-resources/secondary/teen-things-archive)
 

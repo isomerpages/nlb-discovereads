@@ -31,7 +31,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6QtoAbSzk5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Source: [Grow New Plants with Food Scraps](https://www.youtube.com/watch?v=6QtoAbSzk5E)(Last accessed 22 November 2021)
+Source: [Grow New Plants with Food Scraps](https://www.youtube.com/watch?v=6QtoAbSzk5E) (Last accessed 22 November 2021)
 
 <img src="/images/Remake_and_recycle.png" alt="Recycle and Remake" style="width: 40%;">
 
@@ -45,8 +45,7 @@ Kids are on a mission to save the Earth! Recycle and Remake is the hands-on, pra
 
 Each of the activities directly relates to an environmental topic, such as plastic pollution, food waste, or deforestation. Budding environmentalists all over the world are feeling inspired to do their bit for our unique planet.
 
-This eBook is available on Overdrive at [https://nlb.overdrive.com/media/5225438]
-(https://nlb.overdrive.com/media/5225438)
+This eBook is available on Overdrive at [https://nlb.overdrive.com/media/5225438](https://nlb.overdrive.com/media/5225438)
 
 <img src="/images/the_food_we_eat.png" alt="The food we eat" style="width: 40%;">
 

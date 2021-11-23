@@ -15,7 +15,57 @@ _(Updated on 17 June 2021)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | ***new!** [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+ ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | ***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **Home  Gardening for Kids**
+
+Eat homegrown veggies and reduce waste at the same time!  You can do so with your child by repurposing takeaway containers and vegetable scraps.
+
+**You'll need:**
+
+* Recycled container or cup<br>
+* Vegetable cuttings (such as celery, spring onion, or lettuce heads)<br>
+* Water<br>
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6QtoAbSzk5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: [Grow New Plants with Food Scraps](https://www.youtube.com/watch?v=6QtoAbSzk5E)(Last accessed 22 November 2021)
+
+<img src="/images/Remake_and_recycle.png" alt="Recycle and Remake" style="width: 40%;">
+
+
+**Recycle and Remake: Creative Project for Eco Kids**<br>
+edited by: Hélène Hilton<br>
+Publisher: Dorling Kindersley Ltd<br>
+
+
+Kids are on a mission to save the Earth! Recycle and Remake is the hands-on, practical guide you need to get started. This gentle, but empowering book is full of creative making activities, information, and ideas that give young eco-warriors (like you!) the know-how to really help the environment.
+
+Each of the activities directly relates to an environmental topic, such as plastic pollution, food waste, or deforestation. Budding environmentalists all over the world are feeling inspired to do their bit for our unique planet.
+
+This eBook is available on Overdrive at [https://nlb.overdrive.com/media/5225438]
+(https://nlb.overdrive.com/media/5225438)
+
+<img src="/images/the_food_we_eat.png" alt="The food we eat" style="width: 40%;">
+
+**The Food We Eat**<br>
+by Georgia Amson-Bradshaw<br>
+Publisher: Cavendish Square Publishing, LLC<br>
+
+Through full-color photographs, interesting spotlight facts, and subjects related to current events about food, this book will engage readers by piquing their curiosity and creativity. After learning about these issues, students are encouraged by "Test It!" and "Solve It!" activities to think critically and consider potential environmentally friendly, sustainable solutions for the future.
+
+This eBook is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/4886354](https://nlb.overdrive.com/library/kids/media/4886354)
+
+**Tip for parents**
+
+Gardening allows children to engage their senses and connect with nature. Through a variety of fun projects and activities, parents can easily introduce and help children understand topics of sustainability and ecology.
+
+Source: [https://www.montessorinature.com/importance-benefits-gardening-children-toddlers-preschoolers/ 
+https://www.montessorinature.com/indoor-gardening-with-kids/ ](https://www.montessorinature.com/indoor-gardening-with-kids/) (Last accessed 20 October 2021)<br>
+<b><a href="#top">Back to top</a></b>
+
 
 ### **Draw Your Music**
 

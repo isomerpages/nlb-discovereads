@@ -49,17 +49,17 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
-* [18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register here](https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-portfolio-tickets-176075315007?aff=ebcollection&keep_tld=1)
+* [18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-portfolio-tickets-176075315007?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 
 * <s>[8 Sep] Mobile Phone Photography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
-* [15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register here](https://www.eventbrite.com/e/mobile-phone-videography-workshop-digilit-teens-takeover-tickets-176074693147?aff=ebcollection&keep_tld=1)
+* [15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register now!](https://www.eventbrite.com/e/mobile-phone-videography-workshop-digilit-teens-takeover-tickets-176074693147?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 
 * <s>[29 Oct] D.I.Y. Fabric Cupholder Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Friday 3-4.30pm  [Register now!]</s>
-* [11 Nov] Build Your Own Terrarium Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Thursday 3-5pm [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-workshops-build-your-own-terrarium-greenhouse-registration-185383827017?aff=ebcollection&keep_tld=1)
+* <s>[11 Nov] Build Your Own Terrarium Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Thursday 3-5pm [Register now!]</s>
  
 <img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
 

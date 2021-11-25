@@ -20,3 +20,4 @@ Our library services and resources are centered on early literacy practices that
 
 Click [here](/diy-resources/preschool/preschool-main) to learn more.
 
+<img src="/images/header.jpg">

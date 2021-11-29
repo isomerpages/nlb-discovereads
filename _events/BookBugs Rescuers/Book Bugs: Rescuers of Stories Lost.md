@@ -5,7 +5,6 @@ description: ""
 third_nav_title: BookBugs Rescuers
 ---
 
-## Book Bugs: Rescuers of Stories Lost
 
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
 

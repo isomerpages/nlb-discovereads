@@ -4,7 +4,6 @@ permalink: /events/bookbugsr/
 description: ""
 third_nav_title: BookBugs Rescuers
 ---
-
 ## Book Bugs: Rescuers of Stories Lost
 
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
@@ -14,5 +13,6 @@ third_nav_title: BookBugs Rescuers
 
 [<img src="/images/events/bookbugsr/Buglist-button.png" alt="Buglist" style="width: 25%" align="left">](/events/bookbugsr/buglist/)[<img src="/images/events/bookbugsr/quiz-button.png" alt="Quiz" style="width: 25%" align="left">](/events/bookbugsr/quiz/)[<img src="/images/events/bookbugsr/rescuersquests.png" alt="Quests" style="width: 25%" align="left">](/events/bookbugsr/quests/)[<img src="/images/events/bookbugsr/Jointhecommunity-button.png" alt="Community" style="width: 25%" align="left">](/events/bookbugsr/community/)<br>
 
+<br>
 
-<br>By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions)
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions)

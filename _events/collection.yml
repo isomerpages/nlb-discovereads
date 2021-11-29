@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Main Page.md
       - events.md
       - Information Session for Educators 2021 Virtual.md
       - book-bugs-ii/.keep

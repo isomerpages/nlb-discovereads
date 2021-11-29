@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - BookBugs Rescuers/Updates.md
-      - BookBugs Rescuers/Main Page.md
       - BookBugs Rescuers/.keep
+      - BookBugs Rescuers/Main Page.md
+      - BookBugs Rescuers/Updates.md
       - events.md
       - Information Session for Educators 2021 Virtual.md
       - book-bugs-ii/.keep

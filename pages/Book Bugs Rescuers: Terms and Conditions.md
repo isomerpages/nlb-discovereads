@@ -5,6 +5,7 @@ description: ""
 ---
 **Terms and Conditions**
 
+
 **1.  Only individuals who have their own NLB library membership and with a myLibrary username are eligible to participate in this promotion.  Anyone without a myLibrary username can sign up here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/)**<br>
 
 This means that non-individual membership types, such as the following, are excluded:
@@ -12,6 +13,7 @@ This means that non-individual membership types, such as the following, are excl
 (i)	DEAR Organisations;<br>
 (ii)	DIYREAD@Community;<br>
 (iii)	Institutional Borrowers.<br>
+
 
 **2.  “Physical book” refers to any physical library material, including magazines and audiovisual materials.**
 
@@ -23,6 +25,7 @@ This means that non-individual membership types, such as the following, are excl
 (iii)	[nlb.overdrive.com](https://nlb.overdrive.com/) or Overdrive app (NLB Collection only);<br>
 (iv)	[libbyapp.com/library/nlb](https://libbyapp.com/library/nlb) or Libby app by Overdrive (NLB Collection only).<br>
 
+
 **4.  Points from borrowing Physical Books and eBooks**
  
  (a) Maximum daily points each patron may earn:
@@ -33,6 +36,7 @@ This means that non-individual membership types, such as the following, are excl
 | Both Physcial and eBooks  | 24 points / day |
 
 (b)	Points from all borrowed items will be credited within 24 hours from the time of borrowing (and not immediately upon borrowing).
+
 
 **5.  Points from Online Quizzes**
 
@@ -57,6 +61,7 @@ Minimum monthly points each patron may earn:
 (d)	Points will be awarded based only on scores for the first attempt by each patron in the monthly English quiz and/or the Mother Tongue Language quiz.<br>
 
 (e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>
+
 
 **6.   Redemption of points for Book Bugs Cards**
 

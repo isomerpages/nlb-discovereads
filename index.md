@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Book Bugs R
       description: "Welcome to Book Bugs: Rescuers of Stories Lost! Are you ready to
-        help save Bugtopia? Join us to prepare for your journey now!"
+        help save Bugtopia? Start your journey now!"
       button: Explore more!
       url: /events/bookbugsr/
       image: /images/events/bookbugsr/BBR-trailer.png

@@ -4,4 +4,6 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers
 ---
+1 December 2021 
+
 <img src="/images/events/Bookbugsr_update_1.png" alt="Update1" style="width: 100%">

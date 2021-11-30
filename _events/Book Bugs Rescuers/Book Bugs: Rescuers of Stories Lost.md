@@ -13,4 +13,4 @@ third_nav_title: Book Bugs Rescuers
 
 <br>
 
-By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](/)
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](/bookbusgr/termsandconditions)

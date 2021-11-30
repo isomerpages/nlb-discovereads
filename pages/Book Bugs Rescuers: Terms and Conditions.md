@@ -26,11 +26,8 @@ This means that non-individual membership types, such as the following, are excl
 4. Points from borrowing Physical Books and eBooks
  
  (a) Maximum daily points each patron may earn:
- 
-| Physical Books | 16 points / day |<br>
-| eBooks | 8 points / day | <br> 
-| Both Physical and eBooks | 24 points / day |<br>
 
-
-
-
+| Physical Books | 16 points / day | 
+| -------- | -------- | 
+| eBooks    | 8 point / day    | 
+| Both Physcial and eBooks  | 24 points / day | 

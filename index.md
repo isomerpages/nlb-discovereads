@@ -24,12 +24,12 @@ sections:
           description: null
           url: /services/programmes/teenstakeover
   - infopic:
-      title: Book Bugs X
-      description: "Welcome to Book Bugs: Explorers of Stories Past! It’s time to
-        scale new heights. Join us to prepare for your journey now!"
+      title: Book Bugs R
+      description: "Welcome to Book Bugs: Rescuers of Stories Lost! Are you ready to
+        help save Bugtopia? Join us to prepare for your journey now!"
       button: Explore more!
-      url: /events/bookbugsx/
-      image: /images/homepage/bbx-homepage-header.png
+      url: /events/bookbugsr/
+      image: /images/events/bookbugsr/BBR-trailer.png
       alt: BBX image
   - infobar:
       title: Storytime (For ages 4-10)

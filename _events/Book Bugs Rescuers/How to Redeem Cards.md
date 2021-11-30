@@ -9,3 +9,5 @@ third_nav_title: Book Bugs Rescuers
 <br>
 
 <a href="/files/bookbugsr/How_to_redeem_cards.pdf"><img src="/images/events/bookbugsr/How-to-redeem-cards.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 70%;"></a>
+
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)

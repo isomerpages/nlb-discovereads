@@ -68,4 +68,3 @@ Minimum monthly points each patron may earn:
 (c)	Patrons are to use the QR code(s) or 8-digit code(s) to collect their card(s) from the Book Bugs card machines located at all public libraries (except library@chinatown, library@esplanade and library@orchard) from January 2022 to September 2022, during library operating hours.<br>
 
 (d)	All card redemptions at the libraries are while stocks last.
-

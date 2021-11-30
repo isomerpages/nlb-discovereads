@@ -10,6 +10,7 @@ third_nav_title: Book Bugs Rescuers
 [<img src="/images/events/bookbugsr/Buglist-button.png" alt="Buglist" style="width: 25%" align="left">](/events/bookbugsr/buglist/)[<img src="/images/events/bookbugsr/quiz-button.png" alt="Quiz" style="width: 25%" align="left">](/events/bookbugsr/quiz/)[<img src="/images/events/bookbugsr/rescuersquests.png" alt="Quests" style="width: 25%" align="left">](/events/bookbugsr/quests/)[<img src="/images/events/bookbugsr/Jointhecommunity-button.png" alt="Community" style="width: 25%" align="left">](/events/bookbugsr/community/)<br>
 
 <br>
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SVA7KqesoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

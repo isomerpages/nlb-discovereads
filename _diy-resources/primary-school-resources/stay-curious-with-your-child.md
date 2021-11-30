@@ -59,8 +59,10 @@ Did you know that one of the skills that coding imparts is logical thinking? The
 
 Check out the links below to find out the skill sets your child will develop through coding, and explore other coding platforms too!
 
-Source: [https://www.raisesmartkid.com/6-to-10-years-old/5-articles/benefits-learning-code-kids]( https://www.raisesmartkid.com/6-to-10-years-old/5-articles/benefits-learning-code-kids)<br>
-[https://www.raisesmartkid.com/6-to-10-years-old/coding-for-kids-a-parents-guide]( https://www.raisesmartkid.com/6-to-10-years-old/coding-for-kids-a-parents-guide)<br> 
+Source: 
+* [14 Benefits of Coding for Kids and Students]( https://www.raisesmartkid.com/6-to-10-years-old/5-articles/benefits-learning-code-kids)<br>
+* [Teach Kids To Code: A Parent’s Comprehensive Guide]( https://www.raisesmartkid.com/6-to-10-years-old/coding-for-kids-a-parents-guide)<br> 
+
 (Last accessed 12 November 2021)<br>
 
 The book covers and synopses are the copyright of the respective publishing companies.<br>

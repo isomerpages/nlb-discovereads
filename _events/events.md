@@ -10,6 +10,8 @@ collection_name: events
 
 Click [here](/events/bookbugsx) for Book Bugs: Explorers of Stories Past updates
 
+Click [here](/events/bookbugsr) for Book Bugs: Rescuers of Stories Lost updates
+
 Click [here](http://www.nlb.gov.sg/discovereads/abookaday/) for A Book a Day updates
 
 Click [here](http://www.nlb.gov.sg/discovereads/jra-recruitment-2020/) for Junior Reading Ambassador Recruitment updates

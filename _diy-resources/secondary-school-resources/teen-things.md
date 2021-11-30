@@ -26,7 +26,7 @@ third_nav_title: Secondary School Resources
 
 We’ve put together some resources to help you understand how biodiversity is intimately related to our daily lives and learn how we can continue to care for the world around us.
 
-<b><u>**Part 1: Explore biodiversity from your bedroom**</u></b><br>
+<b><u>Part 1: Explore biodiversity from your bedroom</u></b><br>
 Watch this animation by the Natural History Museum of London to learn what biodiversity is about.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XTC4qiXd36Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -40,40 +40,34 @@ As you can see, biodiversity can be quite broad! Let’s take a closer look at c
 For a deeper dive into more information, events, and projects on biodiversity in Singapore, check out [wildsingapore's website](http://www.wildsingapore.com/).
 
 
-<b><u>**Part 2: Immerse yourself in nature and get inspired**</u></b><br>
+<b><u>Part 2: Immerse yourself in nature and get inspired</u></b><br>
 Grab a friend and take a walk along a coastal trail in Singapore! Here are some suggestions for where you can go:
 
-<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/changi-point-coastal-walk.pdf?la=en&hash=24026CABD752E12D4CAC96C8DB6C171E34BCB4F5"><img src="/images/diyresources/secondary/tt-mb2.png" alt="If a relaxing stroll sounds good… Changi Point Coastal Walk (45 min). Walk on the eastern side of Singapore, where you can spot coastal plants and trees, or even the occasional coastal bird if you’re lucky! After that, fuel up with food from the Changi Village hawker centre." style="width: 80%;"></a>
+<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/changi-point-coastal-walk.pdf?la=en&hash=24026CABD752E12D4CAC96C8DB6C171E34BCB4F5"><img src="/images/diyresources/secondary/tt-mb2.png" alt="If a relaxing stroll sounds good… Changi Point Coastal Walk (45 min). Walk on the eastern side of Singapore, where you can spot coastal plants and trees, or even the occasional coastal bird if you’re lucky! After that, fuel up with food from the Changi Village hawker centre." style="width: 85%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/changi-point-coastal-walk.pdf?la=en&hash=24026CABD752E12D4CAC96C8DB6C171E34BCB4F5">Changi Point Coastal Walk, NParks Singapore</a>.</sup></p>
 
-<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/learning/learning-journeys/guided-walks/diy-guided-walks/sungei-buloh/diy-trail-guide.pdf?la=en&hash=3CD91A2ED33241399655C2E01BD51C83D0EF0CDB"><img src="/images/diyresources/secondary/tt-mb3.png" alt="For the avid animal spotters… Sungei Buloh Wetland Reserve is an especially important hub for migratory birds, nestled in the north of Singapore. Look out for them and other wildlife such as fish, mudskippers, and tree-climbing crabs during the 1–2-hour walk." style="width: 80%;"></a>
+<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/learning/learning-journeys/guided-walks/diy-guided-walks/sungei-buloh/diy-trail-guide.pdf?la=en&hash=3CD91A2ED33241399655C2E01BD51C83D0EF0CDB"><img src="/images/diyresources/secondary/tt-mb3.png" alt="For the avid animal spotters… Sungei Buloh Wetland Reserve is an especially important hub for migratory birds, nestled in the north of Singapore. Look out for them and other wildlife such as fish, mudskippers, and tree-climbing crabs during the 1–2-hour walk." style="width: 85%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/learning/learning-journeys/guided-walks/diy-guided-walks/sungei-buloh/diy-trail-guide.pdf?la=en&hash=3CD91A2ED33241399655C2E01BD51C83D0EF0CDB">Sungei Buloh Trail, NParks Singapore</a>.</sup></p>
 
-<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/labradornaturecoastalwalkfinal.pdf?la=en&hash=DC1B0A7595BE323FAC585ADD03400F295595D81C"><img src="/images/diyresources/secondary/tt-mb4.png" alt="What’s that in the water? Labrador Coastal Walk (45 min). Catch a breath-taking view of the sea and neighbouring Sentosa along the Bukit Chermin Boardwalk. Look out for crustaceans and seagrass in the intertidal zones, especially during low tide." style="width: 80%;"></a>
+<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/labradornaturecoastalwalkfinal.pdf?la=en&hash=DC1B0A7595BE323FAC585ADD03400F295595D81C"><img src="/images/diyresources/secondary/tt-mb4.png" alt="What’s that in the water? Labrador Coastal Walk (45 min). Catch a breath-taking view of the sea and neighbouring Sentosa along the Bukit Chermin Boardwalk. Look out for crustaceans and seagrass in the intertidal zones, especially during low tide." style="width: 85%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/labradornaturecoastalwalkfinal.pdf?la=en&hash=DC1B0A7595BE323FAC585ADD03400F295595D81C">Labrador Park, NParks Singapore</a>.</sup></p>
 
-<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/c2c-trail.pdf?la=en&hash=B5707D82983BD4E9AC71E03B8E3D664A07D738C6"><img src="/images/diyresources/secondary/tt-mb5.png" alt="The all-in-one. Coast-to-Coast Trail (a day or more). If you’re up for a challenge, embark on this 36km-long trail from Jurong Lake Gardens to Coney Island in Punggol. Plan ahead on how much ground you’d like to cover at a go! The walk also takes you to the Botanic Gardens and Bukit Timah Park, bringing the diversity of flora and fauna you will see to a whole new level." style="width: 80%;"></a>
+<a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/c2c-trail.pdf?la=en&hash=B5707D82983BD4E9AC71E03B8E3D664A07D738C6"><img src="/images/diyresources/secondary/tt-mb5.png" alt="The all-in-one. Coast-to-Coast Trail (a day or more). If you’re up for a challenge, embark on this 36km-long trail from Jurong Lake Gardens to Coney Island in Punggol. Plan ahead on how much ground you’d like to cover at a go! The walk also takes you to the Botanic Gardens and Bukit Timah Park, bringing the diversity of flora and fauna you will see to a whole new level." style="width: 85%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/c2c-trail.pdf?la=en&hash=B5707D82983BD4E9AC71E03B8E3D664A07D738C6">Coast-to-Coast Trail, NParks Singapore</a>.</sup></p>
 
-**Tips for a comfortable coastal walk**<br>
-**A) Do your research**<br>
-Before heading off, double-check the location, opening hours, and entrance fees (if any). Bring water and an umbrella, and always inform an adult of your whereabouts.
+**Tips for a comfortable coastal walk**
 
-**B) Be present and stay alert**<br>
-Keep an eye on your surroundings – take in the ground, vegetation, and water bodies around you. 
-
-Listen for any sounds too! We often rely on our sight but the most surprising finds can come from your other senses. 
-
-**C) Observe the details**<br>
-If you pay attention, the small things will reveal themselves – from flowers and fruit in the bushes, the salty smell of the sea and seaweed, to even animals moving around in the trees or in the water. 
-
-All of these form Singapore’s biodiversity in one way or another!
-
-**D) Reflect and clean up**<br>
-After your walk, take some time to think, discuss your observations with a friend, or take to journaling. Make sure to dispose of any trash properly before leaving. 
+* **Do your research** - Before heading off, double-check the location, opening hours, and entrance fees (if any). Bring water and an umbrella, and always inform an adult of your whereabouts.
 
 
-<u>**Part 3: Get involved!**</u><br>
+* **Be present and stay alert** - Keep an eye on your surroundings – take in the ground, vegetation, and water bodies around you. Listen for any sounds too! We often rely on our sight but the most surprising finds can come from your other senses. 
+
+* **Observe the details** - If you pay attention, the small things will reveal themselves – from flowers and fruit in the bushes, the salty smell of the sea and seaweed, to even animals moving around in the trees or in the water. All of these form Singapore’s biodiversity in one way or another!
+
+* **Reflect and clean up** - After your walk, take some time to think, discuss your observations with a friend, or take to journaling. Make sure to dispose of any trash properly before leaving. 
+
+
+<b><u>Part 3: Get involved!</u></b><br>
 Now that you’ve learnt a bit more, get further involved and updated with biodiversity matters! 
 
 Here are some ways you can do so:
@@ -81,15 +75,15 @@ Here are some ways you can do so:
 * Volunteer with non-profits. Put your skills towards a good cause with non-profit organisations that might need help with graphic design, copywriting, or running events. Some organisations you can check out are [International Coastal Cleanup Singapore](coastalcleanup.nus.edu.sg/) and [Waterways Watch Society](https://www.wws.org.sg/). 
 * Reduce plastic use. Plastic pollution is a big threat to biodiversity. In the oceans, plastic poses a danger to unsuspecting wildlife. If you’re able to, bring your own reusable bags and containers, and take small steps to ensure that plastic waste is recycled or disposed of responsibly. 
 
-<b><u>**Part 4: Stay updated!**</u></b><br>
+<b><u>Part 4: Stay updated!</u></b><br>
 **Social media**<br>
 Here are some Instagram accounts that aren’t just about cute animals or breath-taking natural scenery – they also provide some food for thought on how we can better appreciate and help biodiversity around us, both local and globally:
 
-| <a href="https://www.instagram.com/coastalnatives.sg"><img src="/images/diyresources/secondary/tt-mb-ig1.png" alt="@coastalnatives.sg on Instagram" style="width: 50%;"></a> | <a href="https://www.instagram.com/naturesocietysingapore"><img src="/images/diyresources/secondary/tt-mb-ig2.png" alt="@naturesocietysingapore on Instagram" style="width: 50%;"></a> | <a href="https://www.instagram.com/bbcearth"><img src="/images/diyresources/secondary/tt-mb-ig3.png" alt="@bbcearth on Instagram" style="width: 50%;"></a> | 
+| <a href="https://www.instagram.com/coastalnatives.sg"><img src="/images/diyresources/secondary/tt-mb-ig1.png" alt="@coastalnatives.sg on Instagram" style="width: 80%;"></a> | <a href="https://www.instagram.com/naturesocietysingapore"><img src="/images/diyresources/secondary/tt-mb-ig2.png" alt="@naturesocietysingapore on Instagram" style="width: 80%;"></a> | <a href="https://www.instagram.com/bbcearth"><img src="/images/diyresources/secondary/tt-mb-ig3.png" alt="@bbcearth on Instagram" style="width: 80%;"></a> | 
 
 If you’re interested to further engage with sustainability and local conservation efforts, these Instagram accounts may just provide that extra green on your feed:
 
-| <a href="https://www.instagram.com/sgbeachwarriors"><img src="/images/diyresources/secondary/tt-mb-ig4.png" alt="@sgbeachwarriors on Instagram" style="width: 50%;"></a> | <a href="https://www.instagram.com/theweirdandwild"><img src="/images/diyresources/secondary/tt-mb-ig5.png" alt="@theweirdandwild on Instagram" style="width: 50%;"></a> | <a href="https://www.instagram.com/tabaogirl"><img src="/images/diyresources/secondary/tt-mb-ig6.png" alt="@tabaogirl on Instagram" style="width: 50%;"></a> | 
+| <a href="https://www.instagram.com/sgbeachwarriors"><img src="/images/diyresources/secondary/tt-mb-ig4.png" alt="@sgbeachwarriors on Instagram" style="width: 80%;"></a> | <a href="https://www.instagram.com/theweirdandwild"><img src="/images/diyresources/secondary/tt-mb-ig5.png" alt="@theweirdandwild on Instagram" style="width: 80%;"></a> | <a href="https://www.instagram.com/tabaogirl"><img src="/images/diyresources/secondary/tt-mb-ig6.png" alt="@tabaogirl on Instagram" style="width: 80%;"></a> | 
 
 **Read more**<br>
 Finally, check out these books on nature and biodiversity!

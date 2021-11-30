@@ -5,7 +5,7 @@ description: ""
 ---
 **Terms and Conditions**
 
-1.	Only individuals who have their own NLB library membership and with a myLibrary username are eligible to participate in this promotion.  Anyone without a myLibrary username can sign up here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/)<br>
+**1.  Only individuals who have their own NLB library membership and with a myLibrary username are eligible to participate in this promotion.  Anyone without a myLibrary username can sign up here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/)**<br>
 
 This means that non-individual membership types, such as the following, are excluded:
 
@@ -13,18 +13,17 @@ This means that non-individual membership types, such as the following, are excl
 (ii)	DIYREAD@Community;<br>
 (iii)	Institutional Borrowers.<br>
 
+**2.  “Physical book” refers to any physical library material, including magazines and audiovisual materials.**
 
-2. “Physical book” refers to any physical library material, including magazines and audiovisual materials. 
 
-
-3. “eBook” refers to eBooks, eMagazines and eAudiobooks borrowed via one of these websites or apps:
+**3.  “eBook” refers to eBooks, eMagazines and eAudiobooks borrowed via one of these websites or apps:**
 
 (i)	[NLB Mobile app](https://mobileapp.nlb.gov.sg/);<br>
 (ii)	[catalogue.nlb.gov.sg](https://catalogue.nlb.gov.sg/);<br>
 (iii)	[nlb.overdrive.com](https://nlb.overdrive.com/) or Overdrive app (NLB Collection only);<br>
 (iv)	[libbyapp.com/library/nlb](https://libbyapp.com/library/nlb) or Libby app by Overdrive (NLB Collection only).<br>
 
-**4. Points from borrowing Physical Books and eBooks**
+**4.  Points from borrowing Physical Books and eBooks**
  
  (a) Maximum daily points each patron may earn:
 
@@ -35,7 +34,7 @@ This means that non-individual membership types, such as the following, are excl
 
 (b)	Points from all borrowed items will be credited within 24 hours from the time of borrowing (and not immediately upon borrowing).
 
-**5. Points from Online Quizzes**
+**5.  Points from Online Quizzes**
 
 (a)	There will be a monthly online quiz available on [www.go.gov.sg/bookbugs](www.go.gov.sg/bookbugs) from January 2022 to September 2022. 
 
@@ -59,7 +58,7 @@ Minimum monthly points each patron may earn:
 
 (e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>
 
-**6. Redemption of points for Book Bugs Cards**
+**6.   Redemption of points for Book Bugs Cards**
 
 (a) 	Patrons redeem their points via the NLB Mobile app.  Please note that a QR code and 8-digit code (for those without a QR code reader) will be generated under “Points and Rewards” on your account page as well as sent to the email address registered with your account.<br>
 

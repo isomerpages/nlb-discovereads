@@ -31,7 +31,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RtXzJ2WLjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Source: [Fuzzy Fall Harvest | Unplugged Coding Activity | Kodable]( https://www.youtube.com/watch?v=6RtXzJ2WLjM)
+Source: [Fuzzy Fall Harvest](https://www.youtube.com/watch?v=6RtXzJ2WLjM)
 
 (Last accessed 30 November 2021)
 

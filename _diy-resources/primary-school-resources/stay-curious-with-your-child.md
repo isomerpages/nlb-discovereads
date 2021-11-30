@@ -10,12 +10,62 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 23 November 2021)_
+_(Updated on 30 November 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
- ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | ***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+ ***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | ***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### ** Unplugged Coding Ideas for Kids**
+
+New to coding? Get started with your child by navigating through a simple corn maze and help the character Fuzz move in a logical and sequential manner to the finish line. 
+This is a printable offline activity that helps children experience and understand the basics of coding.
+
+** All you need are:**
+
+* Fuzzy Fall Harvest Worksheet from Kodable → [https://bit.ly/3lGrFVr](https://bit.ly/3lGrFVr)<br>
+* Stationery: drawing materials, glue, scissors<br>
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RtXzJ2WLjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: [Fuzzy Fall Harvest | Unplugged Coding Activity | Kodable]( https://www.youtube.com/watch?v=6RtXzJ2WLjM) (Last accessed 30 November 2021)
+
+<img src="/images/diyresources/primary/this_python_is_not_a_snake.png" alt=" This Python isn’t a Snake " style="width: 40%;">
+
+**This Python Isn't a Snake: What Are Coding Languages and Syntax?**<br>
+by: Brian P. Clearly<br>
+Publisher: Lerner Publishing Group<br>
+Cats can code? These cats sure can! Playful rhyming verse and goofy illustrations introduce coding languages and syntax. Readers will learn why we need special languages for coding and see examples from a number of languages. And they'll quickly find out why correct syntax is key for avoiding up-mixes mix-ups! Author Brian P. Cleary, illustrator Martin Goneau, and the enthusiastic CATegorical cats offer a fun and accessible introduction to these key coding concepts.
+
+Audisee® eBooks with Audio combine professional narration and text highlighting to engage reluctant readers!
+This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4616204](https://nlb.overdrive.com/media/4616204)
+
+<img src="/images/diyresources/primary/loopy_logic.jpg" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
+**Code Academy and the Loopy Logic (Code Academy)**<br>
+by Kirsty Holmes<br>
+Publisher: Booklife Publishing Ltd<br>
+
+Enroll in Code Academy and kick off your first term with Ro-Bud, your computerized classmate! Learn about logic, discover debugging, and find out what happens when Ro-Bud loses her memory – and on the way, build the basics of coding and computers.
+
+This book is available in our libraries at JP 005.1 HOL.
+
+**Tip for parents**
+
+Did you know that one of the skills that coding imparts is logical thinking? The activity above guides children to creatively come up with a logical sequence of steps to complete a task, thereby encouraging logical thinking. 
+
+Check out the links below to find out the skill sets your child will develop through coding, and explore other coding platforms too!
+
+Source: [https://www.raisesmartkid.com/6-to-10-years-old/5-articles/benefits-learning-code-kids]( https://www.raisesmartkid.com/6-to-10-years-old/5-articles/benefits-learning-code-kids)<br>
+[https://www.raisesmartkid.com/6-to-10-years-old/coding-for-kids-a-parents-guide]( https://www.raisesmartkid.com/6-to-10-years-old/coding-for-kids-a-parents-guide)<br> 
+(Last accessed 12 November 2021)<br>
+
+The book covers and synopses are the copyright of the respective publishing companies.<br>
+
+<b><a href="#top">Back to top</a></b>
 
 ### **Home  Gardening for Kids**
 

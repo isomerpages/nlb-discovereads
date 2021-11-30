@@ -14,11 +14,9 @@ This means that non-individual membership types, such as the following, are excl
 (ii)	DIYREAD@Community;<br>
 (iii)	Institutional Borrowers.<br>
 
-<br>
 
 **2.  “Physical book” refers to any physical library material, including magazines and audiovisual materials.**
 
-<br>
 
 **3.  “eBook” refers to eBooks, eMagazines and eAudiobooks borrowed via one of these websites or apps:**
 
@@ -27,7 +25,6 @@ This means that non-individual membership types, such as the following, are excl
 (iii)	[nlb.overdrive.com](https://nlb.overdrive.com/) or Overdrive app (NLB Collection only);<br>
 (iv)	[libbyapp.com/library/nlb](https://libbyapp.com/library/nlb) or Libby app by Overdrive (NLB Collection only).<br>
 
-<br>
 
 **4.  Points from borrowing Physical Books and eBooks**
  
@@ -40,7 +37,6 @@ This means that non-individual membership types, such as the following, are excl
 
 (b)	Points from all borrowed items will be credited within 24 hours from the time of borrowing (and not immediately upon borrowing).
 
-<br>
 
 **5.  Points from Online Quizzes**
 
@@ -66,7 +62,6 @@ Minimum monthly points each patron may earn:
 
 (e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>
 
-<br>
 
 **6.   Redemption of points for Book Bugs Cards**
 

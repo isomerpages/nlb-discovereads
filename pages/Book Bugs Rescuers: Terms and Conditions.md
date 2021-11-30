@@ -44,6 +44,16 @@ This means that non-individual membership types, such as the following, are excl
 
 | Quiz in English   | 6 points/month for score of 7 and above. | 
 | -------- | -------- | 
-|Quiz in Mother Tongue language in Chinese, Malay or Tamil   | 6 points/month for score of 7 and above.   | 
+|Quiz in Mother Tongue language in Chinese, Malay or Tamil   | 6 points/month for score of 7 and above.   |
 
+Minimum monthly points each patron may earn:
 
+| Quiz in English   | 3 points/month for score of 6 and below. | 
+| -------- | -------- | 
+|Quiz in Mother Tongue language in Chinese, Malay or Tamil   | 3 points/month for score of 6 and below.   |
+
+(c)	Patrons can participate in a maximum of 2 quizzes per month: one in English and one in a Mother Tongue language (i.e. Chinese, Malay or Tamil). <br>
+
+(d)	Points will be awarded based only on scores for the first attempt by each patron in the monthly English quiz and/or the Mother Tongue Language quiz.<br>
+
+(e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>

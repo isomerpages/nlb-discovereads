@@ -3,7 +3,7 @@ title: "Book Bugs Rescuers: Terms and Conditions"
 permalink: /bookbusgr/termsandconditions
 description: ""
 ---
-Terms and Conditions
+**Terms and Conditions**
 
 1.	Only individuals who have their own NLB library membership and with a myLibrary username are eligible to participate in this promotion.  Anyone without a myLibrary username can sign up here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/)<br>
 
@@ -15,6 +15,7 @@ This means that non-individual membership types, such as the following, are excl
 
 
 2.	“Physical book” refers to any physical library material, including magazines and audiovisual materials. 
+
 
 3.	“eBook” refers to eBooks, eMagazines and eAudiobooks borrowed via one of these websites or apps:
 
@@ -57,3 +58,5 @@ Minimum monthly points each patron may earn:
 (d)	Points will be awarded based only on scores for the first attempt by each patron in the monthly English quiz and/or the Mother Tongue Language quiz.<br>
 
 (e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>
+
+6.

@@ -3,9 +3,6 @@ title: "Book Bugs Rescuers: Terms and Conditions"
 permalink: /bookbusgr/termsandconditions
 description: ""
 ---
-
-
-
 **Terms and Conditions**
 
 1.	Only individuals who have their own NLB library membership and with a myLibrary username are eligible to participate in this promotion.  Anyone without a myLibrary username can sign up here: [https://account.nlb.gov.sg/](https://account.nlb.gov.sg/)<br>

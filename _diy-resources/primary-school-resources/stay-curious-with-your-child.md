@@ -17,7 +17,7 @@ _(Updated on 30 November 2021)_
 
  ***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | ***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
 
-### ** Unplugged Coding Ideas for Kids**
+### **Unplugged Coding Ideas for Kids**
 
 New to coding? Get started with your child by navigating through a simple corn maze and help the character Fuzz move in a logical and sequential manner to the finish line. 
 This is a printable offline activity that helps children experience and understand the basics of coding.
@@ -67,7 +67,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <b><a href="#top">Back to top</a></b>
 
-### **Home  Gardening for Kids**
+### **Home Gardening for Kids**
 
 Eat homegrown veggies and reduce waste at the same time!  You can do so with your child by repurposing takeaway containers and vegetable scraps.
 

@@ -26,7 +26,7 @@ third_nav_title: Secondary School Resources
 
 We’ve put together some resources to help you understand how biodiversity is intimately related to our daily lives and learn how we can continue to care for the world around us.
 
-<u>**Part 1: Explore biodiversity from your bedroom**</u><br>
+<b><u>**Part 1: Explore biodiversity from your bedroom**</u></b><br>
 Watch this animation by the Natural History Museum of London to learn what biodiversity is about.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/XTC4qiXd36Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -40,7 +40,7 @@ As you can see, biodiversity can be quite broad! Let’s take a closer look at c
 For a deeper dive into more information, events, and projects on biodiversity in Singapore, check out [wildsingapore's website](http://www.wildsingapore.com/).
 
 
-<u>**Part 2: Immerse yourself in nature and get inspired**</u><br>
+<b><u>**Part 2: Immerse yourself in nature and get inspired**</u></b><br>
 Grab a friend and take a walk along a coastal trail in Singapore! Here are some suggestions for where you can go:
 
 <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/changi-point-coastal-walk.pdf?la=en&hash=24026CABD752E12D4CAC96C8DB6C171E34BCB4F5"><img src="/images/diyresources/secondary/tt-mb2.png" alt="If a relaxing stroll sounds good… Changi Point Coastal Walk (45 min). Walk on the eastern side of Singapore, where you can spot coastal plants and trees, or even the occasional coastal bird if you’re lucky! After that, fuel up with food from the Changi Village hawker centre." style="width: 80%;"></a>
@@ -81,7 +81,7 @@ Here are some ways you can do so:
 * Volunteer with non-profits. Put your skills towards a good cause with non-profit organisations that might need help with graphic design, copywriting, or running events. Some organisations you can check out are [International Coastal Cleanup Singapore](coastalcleanup.nus.edu.sg/) and [Waterways Watch Society](https://www.wws.org.sg/). 
 * Reduce plastic use. Plastic pollution is a big threat to biodiversity. In the oceans, plastic poses a danger to unsuspecting wildlife. If you’re able to, bring your own reusable bags and containers, and take small steps to ensure that plastic waste is recycled or disposed of responsibly. 
 
-<u>**Part 4: Stay updated!**</u><br>
+<b><u>**Part 4: Stay updated!**</u></b><br>
 **Social media**<br>
 Here are some Instagram accounts that aren’t just about cute animals or breath-taking natural scenery – they also provide some food for thought on how we can better appreciate and help biodiversity around us, both local and globally:
 

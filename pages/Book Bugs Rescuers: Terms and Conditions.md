@@ -59,4 +59,13 @@ Minimum monthly points each patron may earn:
 
 (e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>
 
-6.
+**6. Redemption of points for Book Bugs Cards**
+
+(a) 	Patrons redeem their points via the NLB Mobile app.  Please note that a QR code and 8-digit code (for those without a QR code reader) will be generated under “Points and Rewards” on your account page as well as sent to the email address registered with your account.<br>
+
+(b)	Redemption for 1 card requires 4 points. Once you have clicked “Redeem”, 4 points will be deducted from your account.<br>
+
+(c)	Patrons are to use the QR code(s) or 8-digit code(s) to collect their card(s) from the Book Bugs card machines located at all public libraries (except library@chinatown, library@esplanade and library@orchard) from January 2022 to September 2022, during library operating hours.<br>
+
+(d)	All card redemptions at the libraries are while stocks last.
+

@@ -57,14 +57,22 @@ Grab a friend and take a walk along a coastal trail in Singapore! Here are some 
 
 **Tips for a comfortable coastal walk**
 
-* **Do your research** - Before heading off, double-check the location, opening hours, and entrance fees (if any). Bring water and an umbrella, and always inform an adult of your whereabouts.
+**Tip 1: Do your research**<br>
+Before heading off, double-check the location, opening hours, and entrance fees (if any). Bring water and an umbrella, and always inform an adult of your whereabouts.
 
 
-* **Be present and stay alert** - Keep an eye on your surroundings – take in the ground, vegetation, and water bodies around you. Listen for any sounds too! We often rely on our sight but the most surprising finds can come from your other senses. 
+**Tip 2: Be present and stay alert**<br>
+Keep an eye on your surroundings – take in the ground, vegetation, and water bodies around you. 
 
-* **Observe the details** - If you pay attention, the small things will reveal themselves – from flowers and fruit in the bushes, the salty smell of the sea and seaweed, to even animals moving around in the trees or in the water. All of these form Singapore’s biodiversity in one way or another!
+Listen for any sounds too! We often rely on our sight but the most surprising finds can come from your other senses. 
 
-* **Reflect and clean up** - After your walk, take some time to think, discuss your observations with a friend, or take to journaling. Make sure to dispose of any trash properly before leaving. 
+**Tip 3: Observe the details**<br>
+If you pay attention, the small things will reveal themselves – from flowers and fruit in the bushes, the salty smell of the sea and seaweed, to even animals moving around in the trees or in the water. 
+
+All of these form Singapore’s biodiversity in one way or another!
+
+**Tip 4: Reflect and clean up**<br>
+After your walk, take some time to think, discuss your observations with a friend, or take to journaling. Make sure to dispose of any trash properly before leaving. 
 
 
 <b><u>Part 3: Get involved!</u></b><br>

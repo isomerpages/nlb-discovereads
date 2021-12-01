@@ -43,3 +43,23 @@ This guide to the majestic butterfly walks you through its unique lifecycle and 
 **Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
 
 Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined.
+
+<br>
+<img src="/images/diyresources/preschool/Im-Happy-Sad-Today-1.jpeg" alt="im happy sad today" style="width:45%">
+
+**Title:** [I’m Happy-Sad Today!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204007445) <br>
+**Author:** Lory Britain, Ph.D.  <br>
+**Illustrator:** Matthew Rivera <br>
+**Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
+
+Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined.
+<br> 
+
+<img src="/images/diyresources/preschool/Im-Happy-Sad-Today-1.jpeg" alt="im happy sad today" style="width:45%">
+
+**Title:** [I’m Happy-Sad Today!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204007445) <br>
+**Author:** Lory Britain, Ph.D.  <br>
+**Illustrator:** Matthew Rivera <br>
+**Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
+
+Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined.

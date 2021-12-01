@@ -7,8 +7,7 @@ third_nav_title: Preschool Resources
 ## **I CAN READ!**
 
  ###  For 0 to 1 years old
-
-<br>
+ <br>
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
 <br> **What is Early Literacy?**
@@ -16,6 +15,7 @@ third_nav_title: Preschool Resources
 <img src="/images/owltips.png" style="width:70%">
 
 <br> **Watch a Video!**
+<br>
 Learning to read starts from infancy. Help your child develop the the love of reading through books, songs and daily experiences that are vital in the development of your baby’s early literacy skills.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

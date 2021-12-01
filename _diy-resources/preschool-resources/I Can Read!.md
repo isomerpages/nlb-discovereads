@@ -15,6 +15,8 @@ third_nav_title: Preschool Resources
 <img src="/images/owltips.png" style="width:90%">
 
 <br> **Watch a Video!**
+
+Learning to read starts from infancy. Help your child develop the the love of reading through books, songs and daily experiences that are vital in the development of your baby’s early literacy skills.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Learning to read starts from infancy. Help you child develop the the love of reading through books, songs and daily experiences that are vital in the development of your baby’s early literacy skills.
 

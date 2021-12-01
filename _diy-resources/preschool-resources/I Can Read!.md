@@ -11,7 +11,7 @@ third_nav_title: Preschool Resources
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
 <br> **What is Early Literacy?**
-<br>
+<br><br>
 <img src="/images/owltips.png" style="width:70%">
 
 <br> **Watch a Video!**

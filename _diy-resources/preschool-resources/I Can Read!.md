@@ -6,4 +6,8 @@ third_nav_title: Preschool Resources
 ---
 ## **I CAN READ!**
 
-<img src="/images/diyresources/preschool/earlyliteracy.png" style="width:90%">
+ #### **For 0 to 1 years old**
+<img src="/images/diyresources/preschool/owl.png" style="width:90%">
+
+
+<img src="/images/diyresources/preschool/owl.png" style="width:90%">

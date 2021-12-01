@@ -9,5 +9,6 @@ third_nav_title: Preschool Resources
  #### **For 0 to 1 years old**
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
+<br>
 
-<img src="/images/diyresources/preschool/owl.png" style="width:90%">
+<img src="/images/diyresources/preschool/owltips.png" style="width:90%">

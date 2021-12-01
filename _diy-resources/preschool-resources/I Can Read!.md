@@ -6,12 +6,32 @@ third_nav_title: Preschool Resources
 ---
 ## **I CAN READ!**
 
-** For 0 to 1 years old**
- <br><br>
+
+ <br>
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
-<br> **What is Early Literacy?**
+**1. What is Early Literacy?**
+<br>
+Early Literacy is what children know about reading or writing before they actually learn to read and write. There are 6 pre-reading skills that a child needs to develop to become a reader. These skills are in turn supported by the 5 Early Literacy Practices which are READ, WRITE, SING, TALK AND PLAY!
+
+**2. Tips for Selecting books (ages 0 to 12 months)**
+
+•	Books with bright and bold illustrations set against a contrasting background.
+
+•	Flip-a-flap and pop-up books to delight and attract baby’s attention.
+
+•	Touch and feel books to help your baby explore the sense of touch and learn how different things feel.
 <br><br>
+**3. Early Literacy activities **
+
+•	Sing to your baby everyday and fill your rhymes with funny sound effects and different voices.
+
+•	Name body parts during bath time or diaper change time.
+
+•	Build with blocks. Babies learn about spatial relationship and problem solving when they play with blocks.
+
+
+
 <img src="/images/owltips.png" style="width:70%">
 
 <br> **Watch a Video!**

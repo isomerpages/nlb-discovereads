@@ -12,10 +12,9 @@ third_nav_title: Preschool Resources
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
 <br> **What is Early Literacy?**
-
 <img src="/images/owltips.png" style="width:90%">
 
-<br>   **Watch a Video!**
+<br> **Watch a Video!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 Learning to read starts from infancy. Help you child develop the the love of reading through books, songs and daily experiences that are vital in the development of your baby’s early literacy skills.
@@ -63,5 +62,9 @@ Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little s
 **Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
 
 Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined.
+<br>
 
-<img src="/images/diyresources/preschool/owl.png" style="width:90%">
+**Try this activity with your child!**
+<img src="/images/owlactivity.png" style="width:90%">
+<br>
+Click here to download the learning package for 0 to 1 years old

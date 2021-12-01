@@ -15,7 +15,7 @@ third_nav_title: Preschool Resources
 <img src="/images/owltips.png" style="width:70%">
 
 <br> **Watch a Video!**
-<br>
+<br><br>
 Learning to read starts from infancy. Help your child develop the the love of reading through books, songs and daily experiences that are vital in the development of your baby’s early literacy skills.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little s
 <br>
 
 **Try this activity with your child!**
-<br>
+<br><br>
 <img src="/images/owlactivity.png" style="width:90%">
 <br>
 Click [here](/files/preschool/owlfull.PDF) to download the learning package for 0 to 1 years old.

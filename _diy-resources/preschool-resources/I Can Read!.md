@@ -4,9 +4,6 @@ permalink: /diy-resources/preschool-resources/icanread
 description: ""
 third_nav_title: Preschool Resources
 ---
-## **I CAN READ!**
-
-
  <br>
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
@@ -21,8 +18,8 @@ Early Literacy is what children know about reading or writing before they actual
 •	Flip-a-flap and pop-up books to delight and attract baby’s attention.
 
 •	Touch and feel books to help your baby explore the sense of touch and learn how different things feel.
-<br><br>
-**3. Early Literacy activities **
+
+**3. Early Literacy Activities**
 
 •	Sing to your baby everyday and fill your rhymes with funny sound effects and different voices.
 

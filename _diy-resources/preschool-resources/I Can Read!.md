@@ -4,7 +4,7 @@ permalink: /diy-resources/preschool-resources/icanread
 description: ""
 third_nav_title: Preschool Resources
 ---
- <br>
+<br>
 <img src="/images/diyresources/preschool/owl.png" style="width:90%">
 
 **1. What is Early Literacy?**
@@ -27,9 +27,7 @@ Early Literacy is what children know about reading or writing before they actual
 
 •	Build with blocks. Babies learn about spatial relationship and problem solving when they play with blocks.
 
-
-
-<img src="/images/owltips.png" style="width:70%">
+<img src="/images/infants.png" style="width:100%">
 
 <br> **Watch a Video!**
 <br><br>

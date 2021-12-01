@@ -67,4 +67,4 @@ Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little s
 **Try this activity with your child!**
 <img src="/images/owlactivity.png" style="width:90%">
 <br>
-Click [here ](/files/preschool/owlfull.PDF)to download the learning package for 0 to 1 years old.
+Click [here](/files/preschool/owlfull.PDF) to download the learning package for 0 to 1 years old.

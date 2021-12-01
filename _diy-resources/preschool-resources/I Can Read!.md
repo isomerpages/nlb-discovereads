@@ -64,3 +64,4 @@ Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little s
 
 Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined.
 
+<img src="/images/diyresources/preschool/owl.png" style="width:90%">

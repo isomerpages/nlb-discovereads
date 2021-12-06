@@ -9,14 +9,131 @@ third_nav_title: Secondary School Resources
 ***Look out for new weekly topics during the school holidays, from 22 November 2021!***
 
 <img src="/images/diyresources/secondary/tt21-header2.png" alt="Teen Things header" style="width: 100%;">
-<p style="text-align: center;"><i>(Updated on 30 Nov 2021)</i></p>
+<p style="text-align: center;"><i>(Updated on 6 Dec 2021)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-|<a href="/diy-resources/secondary/teen-things#id1"><img src="/images/diyresources/secondary/tt21-button-graphic.png" alt="Graphic Design is My Passion button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things#id2"><img src="/images/diyresources/secondary/tt21-button-biodiversity.png" alt="Deep Dive into Marine Biodiversity button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|
+|<a href="/diy-resources/secondary/teen-things#id1"><img src="/images/diyresources/secondary/tt21-button-graphic.png" alt="Graphic Design is My Passion button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things#id2"><img src="/images/diyresources/secondary/tt21-button-biodiversity.png" alt="Deep Dive into Marine Biodiversity button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things#id3"><img src="/images/diyresources/secondary/tt21-button-email.png" alt="Emailing 101 button" style="width: 50%;"></a>|
 <a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive2.png)](/diy-resources/secondary/teen-things-archive)
+
+
+<a name="id3">![Emailing 101 header](/images/diyresources/secondary/tt21-header-email.png)</a>
+#### **Emailing 101**
+So you’ve just been assigned to send an email to an organisation for a school project or a Values in Action (VIA) programme, or maybe you have to apply for an internship. 
+
+You might have crafted a couple of emails to your friends or teachers before, but you aren’t quite sure what exactly goes into such formal emails. 
+
+Well, don’t worry—we’re here to help you out! Here are some tips and tricks on writing effective emails that are sure to impress.
+
+**Part 1: Email Subject**<br>
+<u>Why it should be done well</u><br>
+This tells people what your email is about at a quick glance. Don’t underestimate its importance—spam filters in your inbox also use this to determine if the email is spam or not!
+
+<img src="/images/diyresources/secondary/tt-e3.png" alt="Tips: Clearly indicate and specify your objective. Refrain from having a long email subject, as the end may get cut off. Example: Collaboration with NLB." style="width: 70%;">
+
+**Part 2: To/Cc/Bcc**<br>
+<u>Why it should be done well</u><br>
+This is the most important part—your emails need to be sent successfully to the correct recipients! 
+
+<img src="/images/diyresources/secondary/tt-e1.png" alt="Tips: Double-check that all email addresses are correct! The To field is where your recipient’s email address should be. Use the CC field to keep your teachers and groupmates in the loop. If you have sensitive contact details that you do not wish to share with others in the email, use the “BCC” field to keep them unseen." style="width: 70%;">
+
+**Part 3: Salutation**<br>
+<u>Why it should be done well</u><br>
+Always greet your recipient politely—if you sound rude from the start, your recipient may treat your email as spam.  
+
+If your recipient signs off with a particular name, do take note to address them with their preferred name in future correspondences. 
+
+<img src="/images/diyresources/secondary/tt-e2.png" alt="Tips: Address your email’s recipient if you know their identity. If you do not know the identity of your email’s recipient, feel free to address them with Dear Sir/Mdm. Check that the recipient’s name is spelt correctly before sending your email to avoid offending them. Example: Dear Sir/Mdm," style="width: 70%;">
+
+**Part 4: Introduction**<br>
+<u>Why it should be done well</u><br>
+Put yourself in your recipient’s shoes—if you receive an anonymous email, it is likely that you would only spare it a cursory glance, or worse, delete it.
+
+<img src="/images/diyresources/secondary/tt-e4.png" alt="Tips: Provide a brief introduction about yourself and the objective(s) of writing the email. Example: I am Jayden from Teens Takeover Secondary School, and I am writing on behalf of my project team regarding a collaboration with the library." style="width: 70%;">
+
+**Part 5: Body**<br>
+<u>Why it should be done well</u><br>
+This forms the bulk of your email. Here is where you tell people the details of what you need, and how you’re proposing for it to happen. 
+
+<img src="/images/diyresources/secondary/tt-e5.png" alt="Tips: Keep your email simple and to the point. Many people are busy and don’t have the time to read long essays about your proposal. Consider using bullet points for easy reading. Write all abbreviations in full the first time it’s being mentioned in the email e.g. National Library Board (NLB). Use paragraphs to space out dense emails. You may use headers to section your email. Example: My team and I would like to set up a display in the library about hydroponics. Here are the details: Date of set-up: 31 October 2021. Date of tear-down: 30 November 2021. Preferred library: Jurong West Public Library. Target audience: Teens 13-19 years old. What we will be putting up: 4 A3-sized posterboards. The content of our posters include the history of hydroponics in Singapore, a how-to set-up guide, as well as a photo feature of local spaces with hydroponics." style="width: 70%;">
+
+**Part 6: Conclusion**<br>
+<u>Why it should be done well</u><br>
+Summarise your request so that the recipient is reminded about what they can assist you with. 
+Use this opportunity to let the recipient know how to get in touch with you if they need further details.
+
+<img src="/images/diyresources/secondary/tt-e6.png" alt="Tips: Briefly summarise your request, and include your deadline where necessary. Emphasise any details of note by bolding or underlining the text so it stands out from the rest of the paragraph. (But don’t bold and underline too much! Just one or two keywords will do). Example: We would appreciate being able to put up this display in the library. As our project deadline is approaching, please let us know if this collaboration will be possible by 30 January 2022. Do let us know if there is more information we can provide. Otherwise, we hope to hear from you soon! Thank you." style="width: 70%;">
+
+**Part 7: Signing off**<br>
+<u>Why it should be done well</u><br>
+End your email politely. Some sign-offs you may use include phrases such as “**Thank you**”, “**Regards**”, “**Warmest Regards**”, and “**Best Wishes**”.
+
+The sign off also reiterates to your recipient your preferred name to be addressed by, even if you have introduced yourself earlier.
+
+<img src="/images/diyresources/secondary/tt-e7.png" alt="Tips: A standard email signature can be useful for adding formality to your email. This can be easily set up in your email account. Differentiate your first and last name so your recipient won’t be confused. You may underline your preferred name too. Avoid including personal information that you do not want to share with others. Example: Regards, Jayden. Jayden Lim. Teens Takeover Secondary School. Secondary 3A." style="width: 70%;">
+
+**Part 8: Attachments**<br>
+<u>Why it should be done well</u><br>
+Sending in a preview of your content as an attachment will help your recipient visualise your request better.
+
+<img src="/images/diyresources/secondary/tt-e8.png" alt="Tips: Indicate in the email that you’ve added an attachment and what it is for. Check that the attachment is correct. Try to compress your files to prevent overly large emails that would take up your recipient’s inbox space. Some email clients may not be able to deliver oversized files. Example: I’ve attached a sample of the poster in this email for your reference." style="width: 70%;">
+
+Finally, there are a couple of things to take note of:
+* Re-read your email before sending it. If it helps, get another person to look at your email to catch any errors.
+* Avoid using emojis in your initial email. While using emojis is the norm in your group chats, it may be seen as unprofessional and may cause your recipient to think you are not serious. 
+
+Once you’re done, click send! 
+<img src="/images/diyresources/secondary/tt-e9.png" alt="Send" style="width: 30%;">
+
+While you’re waiting for a reply, check out these books from the library:
+<a href="https://nlb.overdrive.com/media/4264951"><img src="/images/diyresources/secondary/tt-e-book1.jpg" alt="100 Ways to Improve Your Writing book cover." style="width: 30%;"></a><br>
+**100 Ways to Improve Your Writing**<br>
+Author: Gary Provost<br>
+Publisher: Berkley Books, 2019<br>
+Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4264951). 
+
+This is the one guide that anyone who writes—whether student, businessperson, or professional writer—should keep on his or her desk. Filled with professional tips and a wealth of instructive examples, 100 Ways to Improve Your Writing can help solve any writing problem.
+
+In this compact, easy-to-use volume you'll find the eternal building blocks of good writing—from grammar and punctuation to topic sentences—as well as advice on challenges such as writer's block and creating a strong title. It is a must-have resource—perfect for reading cover to cover, or just for keeping on hand for instant reference—now updated and refreshed for the first time.
+
+Synopsis from [Penguin](http://www.penguin.com.au/).
+
+
+<a href="https://nlb.overdrive.com/media/3336356"><img src="/images/diyresources/secondary/tt-e-book2.jpg" alt="Getting Your First Job book cover." style="width: 30%;"></a><br>
+**Getting Your First Job**<br>
+Author: Roberto Angulo<br>
+Call No.: English 650.14 ANG -[BIZ]<br>
+Publisher: John Wiley & Sons, 2018<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/3336356).
+
+Find—and land—your first job! Finding a job can seem daunting, especially when it's a brand new experience. There's a lot to know, and often a lot of pressure. In this book, you'll discover how to identify your talents and strengths, use your network to your advantage, interview with confidence, and evaluate an offer. 
+
+Written in plain English and packed with step-by-step instructions, it'll have you writing customized resumes, conducting company research, and utilizing online job search sites, faster than you can say 'I got the job!'
+
+Synopsis from [John Wiley & Sons](http://www.wiley.com/).
+
+
+<a href="https://nlb.overdrive.com/library/teens/media/2948046"><img src="/images/diyresources/secondary/tt-e-book3.jpg" alt="Eliza and Her Monsters book cover." style="width: 30%;"></a><br>
+**Eliza and Her Monsters**<br>
+Author: Francesca Zappia<br>
+Call No.: Y ZAP<br>
+Publisher: Greenwillow Books, 2017<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/2948046).
+
+In the real world, Eliza Mirk is shy, weird, and friendless. Online, Eliza is LadyConstellation, anonymous creator of a popular webcomic called Monstrous Sea. With millions of followers and fans throughout the world, Eliza's persona is popular. Eliza can't imagine enjoying the real world as much as she loves her digital community.
+
+Then Wallace Warland transfers to her school and Eliza begins to wonder if a life offline might be worthwhile. But when Eliza's secret is accidentally shared with the world, everything she's built—her story, her relationship with Wallace, and even her sanity—begins to fall apart.
+
+Synopsis from [Harper Collins](http://www.harpercollins.com/).
+
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 8 October 2021.)
+
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id2">![Deep Dive into Marine Biodiversity header](/images/diyresources/secondary/tt21-header-mb.png)</a>
@@ -62,12 +179,12 @@ Before heading off, double-check the location, opening hours, and entrance fees 
 
 
 **Tip 2: Be present and stay alert**<br>
-Keep an eye on your surroundings – take in the ground, vegetation, and water bodies around you. 
+Keep an eye on your surroundings—take in the ground, vegetation, and water bodies around you. 
 
 Listen for any sounds too! We often rely on our sight but the most surprising finds can come from your other senses. 
 
 **Tip 3: Observe the details**<br>
-If you pay attention, the small things will reveal themselves – from flowers and fruit in the bushes, the salty smell of the sea and seaweed, to even animals moving around in the trees or in the water. 
+If you pay attention, the small things will reveal themselves—from flowers and fruit in the bushes, the salty smell of the sea and seaweed, to even animals moving around in the trees or in the water. 
 
 All of these form Singapore’s biodiversity in one way or another!
 

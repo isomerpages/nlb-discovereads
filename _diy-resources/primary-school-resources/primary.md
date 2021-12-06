@@ -65,7 +65,7 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 
 |**Reading Interest Profile Quizzes**|
 | Lower Primary | Upper Primary |
-| [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary) |
+| [![Reading interest lower primary profile image](/images/diyresources/primary/reading-interest-profile.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-primary2) | [![Reading interest upper primary profile image](/images/diyresources/primary/RIP-Upper-Pri.jpg)](https://www.opinionstage.com/content-717/reading-interest-profile-upper-primary2) |
 
 
 |**Past Reading Interest Profile Booklets**|

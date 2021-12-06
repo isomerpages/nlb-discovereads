@@ -85,6 +85,7 @@ Finally, there are a couple of things to take note of:
 * Avoid using emojis in your initial email. While using emojis is the norm in your group chats, it may be seen as unprofessional and may cause your recipient to think you are not serious. 
 
 Once you’re done, click send! 
+<img src="/images/diyresources/secondary/tt-e9.png" alt="Send" style="width: 40%;">
 
 While you’re waiting for a reply, check out these books from the library:
 <a href="https://nlb.overdrive.com/media/4264951"><img src="/images/diyresources/secondary/tt-e-book1.jpg" alt="100 Ways to Improve Your Writing book cover." style="width: 30%;"></a><br>
@@ -107,7 +108,9 @@ Call No.: English 650.14 ANG -[BIZ]<br>
 Publisher: John Wiley & Sons, 2018<br>
 Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/3336356).
 
-Find—and land—your first job! Finding a job can seem daunting, especially when it's a brand new experience. There's a lot to know, and often a lot of pressure. In this book, you'll discover how to identify your talents and strengths, use your network to your advantage, interview with confidence, and evaluate an offer. Written in plain English and packed with step-by-step instructions, it'll have you writing customized resumes, conducting company research, and utilizing online job search sites, faster than you can say 'I got the job!'
+Find—and land—your first job! Finding a job can seem daunting, especially when it's a brand new experience. There's a lot to know, and often a lot of pressure. In this book, you'll discover how to identify your talents and strengths, use your network to your advantage, interview with confidence, and evaluate an offer. 
+
+Written in plain English and packed with step-by-step instructions, it'll have you writing customized resumes, conducting company research, and utilizing online job search sites, faster than you can say 'I got the job!'
 
 Synopsis from [John Wiley & Sons](http://www.wiley.com/).
 

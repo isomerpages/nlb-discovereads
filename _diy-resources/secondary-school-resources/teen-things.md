@@ -29,7 +29,7 @@ Well, don’t worry—we’re here to help you out! Here are some tips and trick
 
 **Part 1: Email Subject**<br>
 <u>Why it should be done well</u><br>
-This tells people what your email is about at a quick glance. Don’t underestimate it’s importance—spam filters in your inbox also use this to determine if the email is spam or not!
+This tells people what your email is about at a quick glance. Don’t underestimate its importance—spam filters in your inbox also use this to determine if the email is spam or not!
 
 <img src="/images/diyresources/secondary/tt-e3.png" alt="Tips: Clearly indicate and specify your objective. Refrain from having a long email subject, as the end may get cut off. Example: Collaboration with NLB." style="width: 70%;">
 

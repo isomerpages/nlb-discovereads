@@ -85,7 +85,7 @@ Finally, there are a couple of things to take note of:
 * Avoid using emojis in your initial email. While using emojis is the norm in your group chats, it may be seen as unprofessional and may cause your recipient to think you are not serious. 
 
 Once you’re done, click send! 
-<img src="/images/diyresources/secondary/tt-e9.png" alt="Send" style="width: 40%;">
+<img src="/images/diyresources/secondary/tt-e9.png" alt="Send" style="width: 30%;">
 
 While you’re waiting for a reply, check out these books from the library:
 <a href="https://nlb.overdrive.com/media/4264951"><img src="/images/diyresources/secondary/tt-e-book1.jpg" alt="100 Ways to Improve Your Writing book cover." style="width: 30%;"></a><br>

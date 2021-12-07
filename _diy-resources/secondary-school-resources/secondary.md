@@ -42,7 +42,8 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 | <a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
 	
 
-|**Reading Interest Profile Quizzes**|| Lower Secondary | Upper Secondary |
+|**Reading Interest Profile Quizzes**|
+	| Lower Secondary | Upper Secondary |
 
 | [![Reading interest lower secondary profile image](/images/diyresources/secondary/RIP-LowerSec-2.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-secondary) | [![Reading interest upper primary profile image](/images/diyresources/secondary/UpperSec-RIP-Quiz.png)](https://nlb-childrenandteens.surveysparrow.com/s/RIP-Upper-Secondary/tt-7e3be433d9 ) |
 	

@@ -4,7 +4,7 @@ permalink: /diy-resources/primary/stay-curious-with-your-child
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
-# **Stay Curious with Your Child**
+## **Stay Curious with Your Child**
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
 
@@ -32,8 +32,7 @@ Make chemistry come alive at home by trying out this hands-on baking experiment 
 * 1 ½ tsp baking soda
 * ¼ salt
 * cooking oil
-
-Parents to make necessary substitutes for ingredients as per child’s dietary needs/restrictions
+<br>*Parents to make necessary substitutes for ingredients as per child’s dietary needs/restrictions*
 
 Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
 
@@ -124,7 +123,7 @@ This book is available on Overdrive at: https://nlb.overdrive.com/media/5528927
 **Tips for Parents**
 <br>Children are natural scientists. They are curious, love to explore, and ask a lot of questions. Help your child develop the skills needed to allow him or her to understand the increasingly complex science concepts. Parents can support science learning at home by engaging your children with kid-friendly experiments. Here are some ways to do that:   
 * Encourage your child to explain why they think a certain way.
-*  Promote observation skills by getting your child to compare and contrast things they see. 
+*  Promote observational skills by getting your child to compare and contrast things they see. 
 
 Source: https://www.naeyc.org/our-work/families/nurturing-scientist-your-child
 <br>(Last accessed on 4 December 2021)

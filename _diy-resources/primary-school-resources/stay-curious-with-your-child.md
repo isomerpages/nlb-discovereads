@@ -4,7 +4,7 @@ permalink: /diy-resources/primary/stay-curious-with-your-child
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
-*# **Stay Curious with Your Child**
+# **Stay Curious with Your Child**
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
 
@@ -42,13 +42,20 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 Source: [Science o'Clock | Yummy Buttermilk Donuts!](https://youtu.be/h6sQHMpy2_g)
 (Last accessed 7 December 2021)
 
+**Be Curious!**
+<br>Read these eBooks for more exciting kitchen chemistry!
+
+<img src="/images/Kitchen%20Science.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
 **The Kitchen Science Lab for Kids**
 <br>by Liz Lee Heinecke<br>
-Publisher: Quarry Books, 2019
+Publisher: Quarry Books
 
 When you step into your kitchen to cook or bake, you put science to work. Physics and chemistry come into play each time you simmer, steam, bake, freeze, boil, puree, saute, or ferment food. Knowing something about the physics, biology, and chemistry of food will give you the basic tools to be the best chef you can be.
 
 This book is available on Overdrive at: https://nlb.overdrive.com/media/4811751
+
+<img src="/images/ediblescience.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
 
 **30-Minute Edible Science Projects**
 <br>by Anna Leigh
@@ -89,6 +96,11 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 Source:[ DIY Activity for Kids: Let’s Make Oobleck!](https://youtu.be/kHNarOMnPd8)
 <br>(Last accessed 7 December 2021)
 
+<br>**Be Curious!**
+<br>Read these eBooks for more exciting chemistry for kids! 
+
+<img src="/images/chemistryforkids.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
 **The Kitchen Pantry Scientist Chemistry for Kids**
 <br>by Liz Lee Heinecke, Kelly Anne Dalton
 <br>Publisher: Quarry Books
@@ -96,6 +108,8 @@ Source:[ DIY Activity for Kids: Let’s Make Oobleck!](https://youtu.be/kHNarOMn
 Replicate a chemical reaction similar to one Marie Curie used to purify radioactive elements. Distill perfume using a method created in ancient Mesopotamia by a woman named Tapputi. This engaging guide offers a series of snapshots of 25 scientists famous for their work with chemistry, from ancient history through today. Each lab tells the story of a scientist along with some background about the importance of their work, and a description of where it is still being used or reflected in today's world.
 
 This book is available on Overdrive at: https://nlb.overdrive.com/media/5387274
+
+<img src="/images/letsgetmoving.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
 
 **Let’s Get Moving! Speeding into the Science of Motion with Newtonian Physics**
 <br>by Chris Ferrie

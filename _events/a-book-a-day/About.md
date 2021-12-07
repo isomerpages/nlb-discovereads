@@ -2,7 +2,9 @@
 title: About
 permalink: /events/a-book-a-day/about
 third_nav_title: A Book A Day
+description: ""
 ---
+
 ### **About**
 
 <img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">

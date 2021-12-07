@@ -1,8 +1,10 @@
 ---
-title: Participation Eligibility
+title: Lucky Draw
 permalink: /events/a-book-a-day/participation
 third_nav_title: A Book A Day
+description: ""
 ---
+
 ### **Participation Eligibility**
 
 Parents can register their children for “A Book A Day” programme at [https://go.gov.sg/abookaday](https://go.gov.sg/abookaday) or through the NLB Mobile app from 1 January 2020 onwards.

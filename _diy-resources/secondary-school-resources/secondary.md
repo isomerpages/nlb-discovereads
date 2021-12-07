@@ -43,7 +43,7 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 	
 
 |**Reading Interest Profile Quizzes**|
-	| Lower Secondary | Upper Secondary |
+	| Lower Secondary | Upper Secondary |<br>
 
 | [![Reading interest lower secondary profile image](/images/diyresources/secondary/RIP-LowerSec-2.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-secondary) | [![Reading interest upper primary profile image](/images/diyresources/secondary/UpperSec-RIP-Quiz.png)](https://nlb-childrenandteens.surveysparrow.com/s/RIP-Upper-Secondary/tt-7e3be433d9 ) |
 	

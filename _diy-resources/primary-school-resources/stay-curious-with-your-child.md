@@ -4,7 +4,7 @@ permalink: /diy-resources/primary/stay-curious-with-your-child
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
-# **Stay Curious with Your Child**
+## **Stay Curious with Your Child**
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
 
@@ -15,7 +15,122 @@ _(Updated on 30 November 2021)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
- ***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | ***new!** [Draw Your Music](#draw-your-music) | ***new!** [Listening  to Podcasts](#listening-to-podcasts) | ***new!** [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own Oobleck](#make-your-own-oobleck) |***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | [Draw Your Music](#draw-your-music) |  [Listening  to Podcasts](#listening-to-podcasts) | [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **Baking Chemistry**
+Make chemistry come alive at home by trying out this hands-on baking experiment with your child!
+
+**You'll need:**
+
+* 2 tbsp Lemon juice
+* ¼ cup milk
+* 60g butter
+* ½ cupwhite sugar
+* 1 egg
+* 1 ½ tsp vanilla extract
+* 2 cups cake flour
+* 1 ½ tsp baking soda
+* ¼ salt
+* cooking oil
+<br>*Parents to make necessary substitutes for ingredients as per child’s dietary needs/restrictions*
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h6sQHMpy2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: [Science o'Clock | Yummy Buttermilk Donuts!](https://youtu.be/h6sQHMpy2_g)
+(Last accessed 7 December 2021)
+
+**Be Curious!**
+<br>Read these eBooks for more exciting kitchen chemistry!
+
+<img src="/images/Kitchen%20Science.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
+**The Kitchen Science Lab for Kids**
+<br>by Liz Lee Heinecke<br>
+Publisher: Quarry Books
+
+When you step into your kitchen to cook or bake, you put science to work. Physics and chemistry come into play each time you simmer, steam, bake, freeze, boil, puree, saute, or ferment food. Knowing something about the physics, biology, and chemistry of food will give you the basic tools to be the best chef you can be.
+
+This book is available on Overdrive at: https://nlb.overdrive.com/media/4811751
+
+<img src="/images/ediblescience.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
+**30-Minute Edible Science Projects**
+<br>by Anna Leigh
+<br>Publisher: Lerner Publications
+
+Step-by-step instructions and photos guide readers through projects that introduce them to the science of food. While shaking up butter and cooking candy, readers will learn about molecules, matter, and taste with these fast and fun projects.
+
+This book is available on Overdrive at: https://nlb.overdrive.com/media/4475878
+
+**Tips for Parents**
+
+Baking is an activity that relies on chemistry! Baking motivates curious young foodies to try out hands-on experiments where they get to explore Science beyond the classroom. 
+You can encourage your child to experiment during baking with these simple steps:
+
+1.	Try out recipes with different ingredient variables. For example, some cakes might use vegetable oil instead of butter.
+2.	Test the results and record it down! What is the texture and taste like? Ask your child if the results meet their expectations. 
+3.	Ask your child questions and find out the answers together through online research! Why are some cakes fluffy and airy compared to others? Why does too much baking soda make a cake taste soapy?
+
+Source: https://www.nationalgeographic.com/culture/article/experimental-cookie-science
+<br>(Last accessed on 3 Dec 2021)
+
+<b><a href="#top">Back to top</a></b>
+
+### **Make Your Own Oobleck**
+What do you call a liquid that isn’t a liquid, at least all the time? The technical term is a non-Newtonian fluid, but a lot of people call it “oobleck” – in reference Dr Seuss’s book,  “Batholomew and the Oobleck”.  Why not make your very own “oobleck”?
+
+**You’ll need:**
+* Bowl 
+* Spoon 
+* Measuring Cup 
+* Corn Starch 
+* Water
+
+Try this out and tag us at @publiclibrarysg with #librarysg 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kHNarOMnPd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source:[ DIY Activity for Kids: Let’s Make Oobleck!](https://youtu.be/kHNarOMnPd8)
+<br>(Last accessed 7 December 2021)
+
+<br>**Be Curious!**
+<br>Read these eBooks for more exciting chemistry for kids! 
+
+<img src="/images/chemistryforkids.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
+**The Kitchen Pantry Scientist Chemistry for Kids**
+<br>by Liz Lee Heinecke, Kelly Anne Dalton
+<br>Publisher: Quarry Books
+
+Replicate a chemical reaction similar to one Marie Curie used to purify radioactive elements. Distill perfume using a method created in ancient Mesopotamia by a woman named Tapputi. This engaging guide offers a series of snapshots of 25 scientists famous for their work with chemistry, from ancient history through today. Each lab tells the story of a scientist along with some background about the importance of their work, and a description of where it is still being used or reflected in today's world.
+
+This book is available on Overdrive at: https://nlb.overdrive.com/media/5387274
+
+<img src="/images/letsgetmoving.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+
+**Let’s Get Moving! Speeding into the Science of Motion with Newtonian Physics**
+<br>by Chris Ferrie
+<br>Publisher: Sourcebook
+
+Red Kangaroo is playing with her favorite ball—she throws it into the air and it comes back down. But what makes this happen? She knows that Dr. Chris will have the answer! Soon, Red Kangaroo learns about force, mass, and acceleration—and that Newton's Laws are at work anytime anything moves!
+
+Chris Ferrie offers a kid-friendly introduction to Newtonian physics in this installment of his new Everyday Science Academy series. Written by an expert, with real-world and practical examples, young readers will have a firm grasp of scientific and mathematical concepts to help answer many of their "why" questions.
+
+This book is available on Overdrive at: https://nlb.overdrive.com/media/5528927
+
+**Tips for Parents**
+<br>Children are natural scientists. They are curious, love to explore, and ask a lot of questions. Help your child develop the skills needed to allow him or her to understand the increasingly complex science concepts. Parents can support science learning at home by engaging your children with kid-friendly experiments. Here are some ways to do that:   
+* Encourage your child to explain why they think a certain way.
+*  Promote observational skills by getting your child to compare and contrast things they see. 
+
+Source: https://www.naeyc.org/our-work/families/nurturing-scientist-your-child
+<br>(Last accessed on 4 December 2021)
+
+<b><a href="#top">Back to top</a></b>
+
+
 
 ### **Unplugged Coding Ideas for Kids**
 

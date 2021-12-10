@@ -31,8 +31,7 @@ Early Literacy is what children know about reading or writing before they actual
 **Watch Me!**
 <br>Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.
 
 **Book Recommendations**
 <br>

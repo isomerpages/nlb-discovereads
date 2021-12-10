@@ -94,13 +94,12 @@ Wichita Public Library. Retrieved 2021, November 5.
 **Recommended Books**
 <br>
 
-<img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:40%">
+<img src="/images/diyresources/preschool/i-can-read/redhousemouse.png" alt="little farm animals" style="width:40%">
 
-**Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
-**Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
-**Publisher:** London: Walker Books Ltd, 2021.<br>
-
-Enjoy and encourage imaginative play with your baby in this joyful finger wiggle book! Poke your fingers through the holes of this brilliant board book to make wiggly legs for eight adorable animals as they go about their day on the farm! The little hen lays eggs, the little goat chews socks, the little duck goes for a paddle and the horse jumps over a wall - all with a little bit of help from you and your baby as you share the joy of reading together.
+**Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
+**Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
+**Publisher:** New York : Dial Books for Young Readers, [2019].<br>
+A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
 <br>
 <br>
 

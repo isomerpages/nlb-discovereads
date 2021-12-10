@@ -35,3 +35,12 @@ Early Literacy is what children know about reading or writing before they actual
 Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.
 
 **Book Recommendations**
+<br>
+
+<img src="/images/diyresources/preschool/whatarefeelings.jpeg" alt="what are feelings" style="width:45%">
+
+**Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
+**Author:** Katie Daynes & Christine Pym<br>
+**Publisher:** London : Usborne Publishing, 2019.<br>
+
+This thoughtful book explores happiness, sadness, anger, fear and worry in a friendly and approachable way. Adorable animal characters experience different emotions, while imaginative flaps answer important questions such as 'Why don't I feel happy all the time?' and 'How can I cheer up my friend?' Introduces useful ways to counter stress and anxiety. The flaps are perfect for inquisitive young children. Other titles in the series include Why do we need bees?, How do flowers grow?, How do I see?, Why does the sun shine? and How do animals talk?

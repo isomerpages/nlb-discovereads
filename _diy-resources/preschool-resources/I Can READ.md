@@ -88,8 +88,7 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 **Watch Me!**
 <br>Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w756YPhVPIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Build early literacy skills by reading to your child YouTube (2017, Oct 25). 
-Wichita Public Library. Retrieved 2021, November 5.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w756YPhVPIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Build early literacy skills by reading to your child YouTube (2017, Oct 25). Wichita Public Library. Retrieved 2021, November 5.
 
 **Recommended Books**
 <br>

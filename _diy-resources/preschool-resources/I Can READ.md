@@ -26,4 +26,4 @@ Early Literacy is what children know about reading or writing before they actual
 <br>
 •	Build with blocks. Babies learn about spatial relationship and problem solving when they play with blocks.
 
-
+<img src="/images/diyresources/preschool/i-can-read/tip0to12.png" style="width:100%">

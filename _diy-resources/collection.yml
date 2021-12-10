@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - d-i-y-resources.md
-      - preschool-resources/I Can READ.md
       - preschool-resources/.keep
       - preschool-resources/early-literacy-practices.md
       - preschool-resources/school-holiday-specials.md
       - preschool-resources/Raise A Reader.md
+      - preschool-resources/I Can READ.md
       - primary-school-resources/.keep
       - primary-school-resources/primary.md
       - primary-school-resources/stay-curious-with-your-child.md

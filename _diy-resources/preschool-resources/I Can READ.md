@@ -47,10 +47,10 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 <br>
 <br>
 
-<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row your boat" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:45%">
 
-**Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
-**Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
-**Publisher:** London: Walker Books Ltd, 2021.<br>
+**Title:** Row, Row, Row Your Boat : A lift-the-flap, sing-along book<br>
+**Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
+**Publisher:** London : Pat-a-Cake, 2018.<br>
 
-Enjoy and encourage imaginative play with your baby in this joyful finger wiggle book! Poke your fingers through the holes of this brilliant board book to make wiggly legs for eight adorable animals as they go about their day on the farm! The little hen lays eggs, the little goat chews socks, the little duck goes for a paddle and the horse jumps over a wall - all with a little bit of help from you and your baby as you share the joy of reading together.
+Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found!

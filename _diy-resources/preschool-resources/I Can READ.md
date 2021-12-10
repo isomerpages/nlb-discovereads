@@ -47,7 +47,7 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 <br>
 <br>
 
-<img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row your boat" style="width:45%">
 
 **Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
 **Author:** Sally Symes & Nick Sharratt (Illustrator)<br>

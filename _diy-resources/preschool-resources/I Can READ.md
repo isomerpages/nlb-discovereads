@@ -91,6 +91,19 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w756YPhVPIs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Build early literacy skills by reading to your child YouTube (2017, Oct 25). 
 Wichita Public Library. Retrieved 2021, November 5.
 
+**Recommended Books**
+<br>
+
+<img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:40%">
+
+**Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
+**Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
+**Publisher:** London: Walker Books Ltd, 2021.<br>
+
+Enjoy and encourage imaginative play with your baby in this joyful finger wiggle book! Poke your fingers through the holes of this brilliant board book to make wiggly legs for eight adorable animals as they go about their day on the farm! The little hen lays eggs, the little goat chews socks, the little duck goes for a paddle and the horse jumps over a wall - all with a little bit of help from you and your baby as you share the joy of reading together.
+<br>
+<br>
+
 References: 
 Early literacy: Early literacy skills. Info Guides. (n.d.). Retrieved November 6, 2021, from https://guides.wpl.winnipeg.ca/earlyliteracy/skills. 
 

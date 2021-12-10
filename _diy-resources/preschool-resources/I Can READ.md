@@ -39,8 +39,9 @@ Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). 
 
 <img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:45%">
 
-**Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
-**Author:** Katie Daynes & Christine Pym<br>
-**Publisher:** London : Usborne Publishing, 2019.<br>
+**Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
+**Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
+**Publisher:** London: Walker Books Ltd, 2021.<br>
 
-This thoughtful book explores happiness, sadness, anger, fear and worry in a friendly and approachable way. Adorable animal characters experience different emotions, while imaginative flaps answer important questions such as 'Why don't I feel happy all the time?' and 'How can I cheer up my friend?' Introduces useful ways to counter stress and anxiety. The flaps are perfect for inquisitive young children. Other titles in the series include Why do we need bees?, How do flowers grow?, How do I see?, Why does the sun shine? and How do animals talk?
+Enjoy and encourage imaginative play with your baby in this joyful finger wiggle book! Poke your fingers through the holes of this brilliant board book to make wiggly legs for eight adorable animals as they go about their day on the farm! The little hen lays eggs, the little goat chews socks, the little duck goes for a paddle and the horse jumps over a wall - all with a little bit of help from you and your baby as you share the joy of reading together.
+

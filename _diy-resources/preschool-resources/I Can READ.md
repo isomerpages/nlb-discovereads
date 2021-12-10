@@ -49,7 +49,7 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 
 <img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:45%">
 
-**Title:** Row, Row, Row Your Boat : A lift-the-flap, sing-along book<br>
+**Title:** [Row, Row, Row Your Boat : A lift-the-flap, sing-along book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273684786/241232875,3)<br>
 **Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
 **Publisher:** London : Pat-a-Cake, 2018.<br>
 
@@ -57,7 +57,7 @@ Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's eas
 <br><br>
 <img src="/images/diyresources/preschool/i-can-read/shapesofspring.jpg" alt="the shapes of spring" style="width:45%">
 
-**Title:** The Shapes of Spring<br>
+**Title:** [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273686231/324476716,2)<br>
 **Author:** Jill Hoarth<br>
 **Publisher:** New York, NY : Running Press Kids, an imprint of Running Press Books, LLC, a subsidiary of Hachette Book Group, Inc., [2020]<br>
 

@@ -13,7 +13,7 @@ third_nav_title: Preschool Resources
 <img src="/images/diyresources/preschool/i-can-read/0to12banner.jpg" style="width:80%">
 
 **What is Early Literacy?**<br>
-Early Literacy is what children know about reading or writing before they actually learn to read and write. There are 6 pre-reading skills that a child needs to develop to become a reader. These skills are in turn supported by the 5 Early Literacy Practices which are **READ, PLAY, SING, TALK, WRITE!**
+Early Literacy is what children know about reading or writing before they actually learn to read and write. There are six pre-reading skills that a child needs to develop to become a reader. These skills are in turn supported by the five Early Literacy Practices which are **READ, PLAY, SING, TALK, WRITE!**
 
 **Tips for Selecting books**<br>
 •	Books with bright and bold illustrations set against a contrasting background. <br>

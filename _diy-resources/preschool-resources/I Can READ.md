@@ -69,6 +69,8 @@ A spring-themed board book that includes Easter eggs, bunnies, chicks, and more 
 
 Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activity sheet.
 
+<b><a href="#top">Back to top</a></b>
+
 #### For Ages 1 to 3 Years
 <br>
 <img src="/images/diyresources/preschool/i-can-read/1to3banner.png" style="width:80%">

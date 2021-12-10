@@ -55,10 +55,10 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 
 Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found!
 <br><br>
-<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/shapesofspring.jpg" alt="the shapes of spring" style="width:45%">
 
-**Title:** Row, Row, Row Your Boat : A lift-the-flap, sing-along book<br>
-**Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
-**Publisher:** London : Pat-a-Cake, 2018.<br>
+**Title:** The Shapes of Spring<br>
+**Author:** Jill Hoarth<br>
+**Publisher:** New York, NY : Running Press Kids, an imprint of Running Press Books, LLC, a subsidiary of Hachette Book Group, Inc., [2020]<br>
 
-Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found!
+A spring-themed board book that includes Easter eggs, bunnies, chicks, and more while teaching toddlers about basic shapes. Oval painted eggs hidden in the yard. Circular chicks bouncing in spring meadows. Rectangular teeth on a fluffy white bunny, spreading spring-time cheer to all. Help little ones identify basic shapes while spreading some joy this spring!

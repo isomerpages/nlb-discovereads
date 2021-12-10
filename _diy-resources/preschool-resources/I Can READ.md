@@ -6,7 +6,7 @@ third_nav_title: Preschool Resources
 ---
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 
-
+| **New!** For Ages 0 to 12 Months | [**New!*** Booklists](#booklists) | [Creative Conversations](#creative-conversations) |
 
 #### For Ages 0 to 12 Months
 

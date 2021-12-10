@@ -81,3 +81,5 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 •Get your child to make the letters of the alphabet or numbers using playdough <br>
 •	Play ‘I Spy’ game. For example, ‘I spy with my little eye, something that is blue. What is something blue I might be looking at?’.<br>
 •	Play rhyming games by asking your child to come up with pairs of words that sound similar.
+
+<img src="/images/diyresources/preschool/i-can-read/tip1to3.png" style="width:80%">

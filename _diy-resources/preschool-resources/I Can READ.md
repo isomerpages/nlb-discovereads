@@ -62,3 +62,4 @@ Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's eas
 **Publisher:** New York, NY : Running Press Kids, an imprint of Running Press Books, LLC, a subsidiary of Hachette Book Group, Inc., [2020]<br>
 
 A spring-themed board book that includes Easter eggs, bunnies, chicks, and more while teaching toddlers about basic shapes. Oval painted eggs hidden in the yard. Circular chicks bouncing in spring meadows. Rectangular teeth on a fluffy white bunny, spreading spring-time cheer to all. Help little ones identify basic shapes while spreading some joy this spring!
+

@@ -24,7 +24,7 @@ sections:
           description: null
           url: /services/programmes/teenstakeover
   - infopic:
-      title: Book Bugs R
+      title: Book Bugs Rescuers
       description: "Welcome to Book Bugs: Rescuers of Stories Lost! Are you ready to
         help save Bugtopia? Start your journey now!"
       button: Explore more!

@@ -33,7 +33,7 @@ Early Literacy is what children know about reading or writing before they actual
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.
 
-**Book Recommendations**
+**Recommended Books**
 <br>
 
 <img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:40%">

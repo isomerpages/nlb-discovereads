@@ -101,7 +101,7 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
 <br>
 <br>
-<img src="/images/diyresources/preschool/i-can-read/redhousemouse.png" alt="little farm animals" style="width:40%">
+<img src="/images/diyresources/preschool/i-can-read/" alt="little farm animals" style="width:40%">
 **Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
 **Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
 **Publisher:** New York : Dial Books for Young Readers, [2019].<br>

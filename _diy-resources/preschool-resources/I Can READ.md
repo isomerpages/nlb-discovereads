@@ -63,3 +63,6 @@ Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's eas
 
 A spring-themed board book that includes Easter eggs, bunnies, chicks, and more while teaching toddlers about basic shapes. Oval painted eggs hidden in the yard. Circular chicks bouncing in spring meadows. Rectangular teeth on a fluffy white bunny, spreading spring-time cheer to all. Help little ones identify basic shapes while spreading some joy this spring!
 
+**Try this!**
+
+<img src="/images/diyresources/preschool/i-can-read/0to12activity.png" style="width:100%">

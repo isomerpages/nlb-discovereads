@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-| **[New! For Ages 0 to 12 Months (https://cms.isomer.gov.sg/sites/nlb-dr/folders/diy-resources/subfolders/preschool-resources/editPage/I%20Can%20READ.md#for-ages-0-to-12-months)| [**New!* For Ages 1 to 3 Years](https://cms.isomer.gov.sg/sites/nlb-dr/folders/diy-resources/subfolders/preschool-resources/editPage/I%20Can%20READ.md#for-ages-1-to-3-years) 
+
 
 #### For Ages 0 to 12 Months
 

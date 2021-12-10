@@ -27,3 +27,6 @@ Early Literacy is what children know about reading or writing before they actual
 •	Build with blocks. Babies learn about spatial relationship and problem solving when they play with blocks.
 
 <img src="/images/diyresources/preschool/i-can-read/tip0to12.png" style="width:100%">
+
+**Watch Me!**
+<br>Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.

@@ -37,7 +37,7 @@ Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). 
 **Book Recommendations**
 <br>
 
-<img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:40%">
 
 **Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
 **Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
@@ -47,7 +47,7 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 <br>
 <br>
 
-<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:40%">
 
 **Title:** [Row, Row, Row Your Boat : A lift-the-flap, sing-along book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273684786/241232875,3)<br>
 **Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
@@ -55,7 +55,7 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 
 Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found!
 <br><br>
-<img src="/images/diyresources/preschool/i-can-read/shapesofspring.jpg" alt="the shapes of spring" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/shapesofspring.jpg" alt="the shapes of spring" style="width:40%">
 
 **Title:** [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273686231/324476716,2)<br>
 **Author:** Jill Hoarth<br>

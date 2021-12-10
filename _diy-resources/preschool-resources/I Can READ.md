@@ -115,7 +115,11 @@ This tactile touch-and-feel book introduces emotions to even the youngest child,
 **Publisher:** Sywell [UK] : Autumn Publishing, an imprint of Igloo Books Group, [2019]<br>
 Trace along the trail with your finger as you enjoy beloved nursery rhymes with the Fisher-Price animal friends! 
 
+**Try this at Home!**
 
+<img src="/images/diyresources/preschool/i-can-read/0to12activity.png" style="width:70%">
+
+Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activity sheet.
 
 
 References: 

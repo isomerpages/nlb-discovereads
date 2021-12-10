@@ -120,12 +120,12 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 <img src="/images/diyresources/preschool/i-can-read/1to3activity.png" style="width:70%">
 
 Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of the activity sheet.
+<br><br><br><br>
 
-
-References: 
+**References:**
+<br>
 Early literacy: Early literacy skills. Info Guides. (n.d.). Retrieved November 6, 2021, from https://guides.wpl.winnipeg.ca/earlyliteracy/skills. 
-
 
 National Center for Family Literacy. (2018). Tips for Parents: Choosing Books for Infants and Toddlers. Early Childhood Learning and Knowledge Centre. Retrieved October 15, 2021, from https://eclkc.ohs.acf.hhs.gov/parenting/article/tips-parents-choosing-books-infants-toddlers
 
-Ministry of Social and Family Development, Singapore. (2018, March 28). Literacy Activities for Children. Parenting Resources for You. Retrieved October 15, 2021, from https://www.babybonus.msf.gov.sg/parentingresources/web/Babies/BabiesPlay_and_Learning/BabiesActivities/Babies_Literacy_Activities
+Ministry of Social and Family Development, Singapore. (2018, March 28). Literacy Activities for Children. Parenting Resources for You. Retrieved October 15, 2021, from https://www.babybonus.msf.gov.sg/parentingresources/web/Babies/BabiesPlayandLearning/BabiesActivities/BabiesLiteracyActivities

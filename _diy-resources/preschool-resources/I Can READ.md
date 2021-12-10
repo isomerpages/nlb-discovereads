@@ -9,8 +9,8 @@ third_nav_title: Preschool Resources
 
 
 #### For Ages 0 to 12 Months
-<br>
-<img src="/images/diyresources/preschool/i-can-read/0to12banner.jpg" style="width:100%">
+
+<img src="/images/diyresources/preschool/i-can-read/0to12banner.jpg" style="width:80%">
 
 **What is Early Literacy?**<br>
 Early Literacy is what children know about reading or writing before they actually learn to read and write. There are 6 pre-reading skills that a child needs to develop to become a reader. These skills are in turn supported by the 5 Early Literacy Practices which are **READ, PLAY, SING, TALK, WRITE!**

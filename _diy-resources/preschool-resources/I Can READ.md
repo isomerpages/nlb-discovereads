@@ -101,11 +101,17 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
 <br>
 <br>
-<img src="/images/diyresources/preschool/i-can-read/" alt="little farm animals" style="width:40%">
-**Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
-**Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
-**Publisher:** New York : Dial Books for Young Readers, [2019].<br>
-A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
+<img src="/images/diyresources/preschool/i-can-read/angrybear.png" alt="little farm animals" style="width:40%">
+
+**Title:** [Angry Bear](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273751594/335015445,1)<br>
+**Author:** Naira Wilson & David Creighton-Pester(Illustrator)<br>
+**Publisher:** London : Little Tiger Press Ltd, 2021.<br>
+This tactile touch-and-feel book introduces emotions to even the youngest child, with a particular focus on being angry. Written by a child psychologist who specialises in children's emotions, this is a hugely helpful tool for parents and kids alike - and a lot of fun! 
+
+
+
+
+
 
 References: 
 Early literacy: Early literacy skills. Info Guides. (n.d.). Retrieved November 6, 2021, from https://guides.wpl.winnipeg.ca/earlyliteracy/skills. 

@@ -8,7 +8,7 @@ third_nav_title: Preschool Resources
 
 
 
-### For Ages 0 to 12 Months
+#### For Ages 0 to 12 Months
 <br>
 <img src="/images/diyresources/preschool/i-can-read/0to12banner.jpg" style="width:100%">
 

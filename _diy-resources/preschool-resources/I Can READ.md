@@ -121,7 +121,7 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 
 Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of the activity sheet.
 <br><br>
-** (Coming Soon! For Ages 4 to 6 Years**)
+***(Coming Soon! For Ages 4 to 6 Years)***
 <br><br>
 
 **References:**

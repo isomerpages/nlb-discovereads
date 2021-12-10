@@ -54,3 +54,11 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 **Publisher:** London : Pat-a-Cake, 2018.<br>
 
 Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found!
+<br><br>
+<img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:45%">
+
+**Title:** Row, Row, Row Your Boat : A lift-the-flap, sing-along book<br>
+**Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
+**Publisher:** London : Pat-a-Cake, 2018.<br>
+
+Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's easy for parents and carers to recognise and recite. Young children will adore searching the page for flaps to open while singing along. The spotting game at the end is a great incentive to go through the pages once again until each tiny thing is found!

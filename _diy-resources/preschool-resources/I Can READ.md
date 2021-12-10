@@ -107,13 +107,13 @@ A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is decep
 **Author:** Naira Wilson & David Creighton-Pester(Illustrator)<br>
 **Publisher:** London : Little Tiger Press Ltd, 2021.<br>
 This tactile touch-and-feel book introduces emotions to even the youngest child, with a particular focus on being angry. Written by a child psychologist who specialises in children's emotions, this is a hugely helpful tool for parents and kids alike - and a lot of fun! 
+<br><br>
 
-<img src="/images/diyresources/preschool/i-can-read/angrybear.png" alt="little farm animals" style="width:40%">
+<img src="/images/diyresources/preschool/i-can-read/rainforestrhymes.jpg" alt="rainforest rhymes" style="width:40%">
 
-**Title:** [Angry Bear](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273751594/335015445,1)<br>
-**Author:** Naira Wilson & David Creighton-Pester(Illustrator)<br>
-**Publisher:** London : Little Tiger Press Ltd, 2021.<br>
-This tactile touch-and-feel book introduces emotions to even the youngest child, with a particular focus on being angry. Written by a child psychologist who specialises in children's emotions, this is a hugely helpful tool for parents and kids alike - and a lot of fun! 
+**Title:** [Rainforest Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273754651/296199539,1)<br>
+**Publisher:** Sywell [UK] : Autumn Publishing, an imprint of Igloo Books Group, [2019]<br>
+Trace along the trail with your finger as you enjoy beloved nursery rhymes with the Fisher-Price animal friends! 
 
 
 

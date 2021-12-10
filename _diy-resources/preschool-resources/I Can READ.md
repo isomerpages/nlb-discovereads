@@ -65,6 +65,6 @@ A spring-themed board book that includes Easter eggs, bunnies, chicks, and more 
 
 **Try this!**
 
-<img src="/images/diyresources/preschool/i-can-read/0to12activity.png" style="width:100%">
+<img src="/images/diyresources/preschool/i-can-read/0to12activity.png" style="width:70%">
 
 Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activity sheet.

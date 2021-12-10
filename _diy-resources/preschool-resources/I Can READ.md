@@ -71,3 +71,13 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 #### For Ages 1 to 3 Years
 <br>
 <img src="/images/diyresources/preschool/i-can-read/1to3banner.png" style="width:80%">
+
+**Tips for Selecting books**<br>
+•		Choose books that feature objects that are part of their everyday lives.  For example, familiar situation such as going to school, running around the playground and visiting the supermarket.<br>
+•	Try rhyming or books with repetitive verses. This helps them to predict what comes next. <br>
+•	Choose books with simple story line and stories with familiar characters.
+
+**Early Literacy Activities**<br>
+•Get your child to make the letters of the alphabet or numbers using playdough <br>
+•	Play ‘I Spy’ game. For example, ‘I spy with my little eye, something that is blue. What is something blue I might be looking at?’.<br>
+•	Play rhyming games by asking your child to come up with pairs of words that sound similar.

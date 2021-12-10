@@ -37,7 +37,7 @@ Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). 
 **Book Recommendations**
 <br>
 
-<img src="/images/diyresources/preschool/whatarefeelings.jpeg" alt="what are feelings" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:45%">
 
 **Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
 **Author:** Katie Daynes & Christine Pym<br>

@@ -26,13 +26,13 @@ Mould, yeast, and bacteria—three must-have ingredients to create a delicious m
 
 Whether it’s that fragrant egg and onion *thosai* (savoury thin pancake) you had for supper, or a mouth-watering bowl of *suan cai yu* (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. 
 
-Fortunately, these foods are perfectly safe. They’ve simply undergone a biochemical process known as fermentation. 
+Fortunately, these foods are perfectly safe. They’ve simply undergone a biochemical process known as **fermentation**. 
 
 Fermentation occurs when microorganisms react with carbohydrate sources in an oxygen-free (or anaerobic) environment (Source: [Cravings of a Food Scientist, 2019](https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/)). 
 
 Mould, yeast, and bacteria break sugars and starches down into acids or alcohols, creating fermented foods which have a particular taste and texture.
 
-**Fermentation**<br>
+<p style="text-align: center;"><b>Process of Fermentation</b></p><br>
 <img src="/images/diyresources/secondary/tt-f1.png" alt="Glucose + Microorganisms in an environment without oxygen and acid/alcohol + carbon dioxide” style=“width: 70%;">
 <p style="text-align: center;"><sup><i>Carbohydrate Source + Microorganism - Oxygen = Acid/Alcohol + Carbon Dioxide</i><br>Adapted from: <a href="https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/">"How Fermentation Makes Food Delicious", Cravings of a Food Scientist</a>.</sup></p>
 

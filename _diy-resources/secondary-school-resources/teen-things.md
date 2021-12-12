@@ -14,9 +14,99 @@ third_nav_title: Secondary School Resources
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
 |<a href="/diy-resources/secondary/teen-things#id1"><img src="/images/diyresources/secondary/tt21-button-graphic.png" alt="Graphic Design is My Passion button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things#id2"><img src="/images/diyresources/secondary/tt21-button-biodiversity.png" alt="Deep Dive into Marine Biodiversity button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things#id3"><img src="/images/diyresources/secondary/tt21-button-email.png" alt="Emailing 101 button" style="width: 50%;"></a>|
-<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|
+<a href="/diy-resources/secondary/teen-things#id4"><img src="/images/diyresources/secondary/tt21-button-fermentation.png" alt="Fermentation Station button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/secondary/tt21-button-comingsoon2.png" alt="Coming soon button" style="width: 50%;"></a>|
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive2.png)](/diy-resources/secondary/teen-things-archive)
+
+
+<a name="id4">![Fermentation Station header](/images/diyresources/secondary/tt21-header-ferm.png)</a>
+#### **Fermentation Station: Food Around Us**
+
+Mould, yeast, and bacteria—three must-have ingredients to create a delicious meal! 
+
+Whether it’s that fragrant egg and onion *thosai* (savoury thin pancake) you had for supper, or a mouth-watering bowl of *suan cai yu* (pickled fish stew) from your favourite stall, many things we consume daily are made with the help of microorganisms. 
+
+Fortunately, these foods are perfectly safe. They’ve simply undergone a biochemical process known as fermentation. 
+
+Fermentation occurs when microorganisms react with carbohydrate sources in an oxygen-free (or anaerobic) environment (Source: [Cravings of a Food Scientist, 2019](https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/)). 
+
+Mould, yeast, and bacteria break sugars and starches down into acids or alcohols, creating fermented foods which have a particular taste and texture.
+
+**Fermentation**<br>
+<img src="/images/diyresources/secondary/tt-f1.png" alt="Glucose + Microorganisms in an environment without oxygen and acid/alcohol + carbon dioxide” style=“width: 70%;">
+<p style="text-align: center;"><sup><i>Carbohydrate Source + Microorganism - Oxygen = Acid/Alcohol + Carbon Dioxide</i><br>Adapted from: <a href="https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/">"How Fermentation Makes Food Delicious", Cravings of a Food Scientist</a>.</sup></p>
+
+Kimchi, a popular Korean side dish, is one of such foods. In particular, it’s created through a common type of fermentation known as lacto-fermentation (Source: [Healthline, 2019](https://www.healthline.com/nutrition/lacto-fermentation#how-it-works)). 
+
+With lactic acid as a byproduct, food becomes increasingly acidic, and the surrounding air more anaerobic.
+
+Take a look at how this tangy dish is made, and try identifying the elements involved in the chemical reaction. Which microorganisms are present? What are the carbohydrate sources being broken down?
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DG4afs7C1XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=DG4afs7C1XI&ab_channel=Reactions">How is Kimchi Made?, Reactions</a>.</sup></p>
+
+You’ve probably seen many other fermented foods like kombucha and sourdough popping up on your feed. But fermentation isn’t just a fad—it’s been around since the Neolithic period, which spanned 10,000 to 4,500 BCE. (Source: [Tamang, 2020](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12520)).
+
+Kombucha, for example, was first brewed by a physician in Northeast China! Popularised for its supposed medicinal benefits, the drink quickly made its way across the globe. (Source: [Forbes, 2017](https://www.forbes.com/sites/christinatroitino/2017/02/01/kombucha-101-demystifying-the-past-present-and-future-of-the-fermented-tea-drink/?sh=2a8148644ae2)).
+
+Delve into the history of fermentation with this video. Discover how our tastebuds evolved through centuries to enjoy the sour and umami flavours of fermented foods.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/-ntbeRiQ0cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href=“https://www.youtube.com/watch?v=-ntbeRiQ0cg&feature=emb_title&ab_channel=PBSEons”>How We Figured Out Fermentation, PBS Eons</a>.</sup></p>
+
+These days, the online fermentation community is huge. From the trending fermented honey garlic recipe on TikTok, to people showing off their [SCOBY hotels](https://vt.tiktok.com/ZSeypbC7Y/) (SCOBY stands for “symbiotic culture of bacteria and yeast”, a fundamental ingredient in making fermented foods like kombucha!), the experimentation with food never stops. 
+
+**Ferm Friends**<br>
+Brew your food knowledge with these content creators! 
+
+| <a href="https://www.instagram.com/fermental_state/"><img src="/images/diyresources/secondary/tt-f-ig1.png" alt="@fermental_state on Instagram" style="width: 60%;"></a> | <a href="https://www.instagram.com/sourdough_librarian"><img src="/images/diyresources/secondary/tt-f-ig2.png" alt="@sourdough_librarian on Instagram" style="width: 60%;"></a> | 
+
+| <a href="https://www.tiktok.com/@fermentexperiment?"><img src="/images/diyresources/secondary/tt-f-tt1.png" alt="@fermentexperiment on TikTok" style="width: 60%;"></a> | <a href="https://www.tiktok.com/@johnnykyunghwo?"><img src="/images/diyresources/secondary/tt-f-tt2.png" alt="@johnnykyunghwo on TikTok" style="width: 60%;"></a> | 
+
+If you’re hungry for more, explore these food reads at the library!
+
+<a href="https://nlb.overdrive.com/library/teens/media/4625657"><img src="/images/diyresources/secondary/tt-f-book1.jpg" alt="Science You Can Eat book cover." style="width: 30%;"></a><br>
+**Science You Can Eat**<br>
+Author: Stefan Gates<br>
+Call No.: J 641.3 GAT<br>
+Publisher: Doring Kindersley, 2019<br> 
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/4625657).
+This exciting kids' book tackles all the tasty science questions you have about food, plus plenty more that you hadn't even thought of! Science You Can Eat will transform your kitchen into an awesome lab through 20 fun food experiments.
+
+This quest of gastronomic wonder is so much more than just another science book for kids! It explores the science of food by asking questions you're hungry to know the answers to and putting them to the test through fun experiments. The proof is in the pudding.
+
+Cooking is just delicious chemistry, and the science experiments in this adorable kids cookbook will prove it. Once you understand science, you understand food. Find out why popcorn goes "pop" as you test it out for yourself. Explore how taste is affected by smell, know if carrots really can turn you orange, and finally discover whether eating insects is the future of food.
+
+Enjoy the delightful weirdness of tricking your taste buds, making slime taste delicious, investigating some of the strangest flavours around and extracting iron from your cereal!
+
+Synopsis from [Dorling Kindersley](www.dk.com/).
+
+
+<a href="https://nlb.overdrive.com/library/teens/media/5573975"><img src="/images/diyresources/secondary/tt-f-book2.jpg" alt="A Pho Love Story book cover." style="width: 30%;"></a><br>
+**A Pho Love Story**<br>
+Author: Loan Le<br>
+Call No.: Y LEL<br>
+Publisher: Simon & Schuster, 2021<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/5573975).
+
+If Bao Nguyen had to describe himself, he’d say he was a rock. Steady and strong, but not particularly interesting. His grades are average, his social status unremarkable. He works at his parents’ pho restaurant, and even there, he is his parents’ fifth favourite employee. Not ideal.
+
+If Linh Mai had to describe herself, she’d say she was a firecracker. Stable when unlit, but full of potential for joy and fire. She loves art and dreams pursuing a career in it. The only problem? Her parents rely on her in ways they’re not willing to admit, including working practically full-time at her family’s pho restaurant.
+
+For years, the Mais and the Nguyens have been at odds, having owned competing, neighboring pho restaurants. Bao and Linh, who’ve avoided each other for most of their lives, both suspect that the feud stems from feelings much deeper than friendly competition.
+
+But then a chance encounter brings Linh and Bao in the same vicinity despite their best efforts and sparks fly, leading them both to wonder what took so long for them to connect. But then, of course, they immediately remember.
+
+Can Linh and Bao find love in the midst of feuding families and complicated histories?
+
+Synopsis from [Simon & Schuster](https://www.simonandschuster.com/).
+
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 8 October 2021.)
+
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id3">![Emailing 101 header](/images/diyresources/secondary/tt21-header-email.png)</a>

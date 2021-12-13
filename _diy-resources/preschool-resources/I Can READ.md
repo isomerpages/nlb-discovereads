@@ -100,7 +100,7 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 
 <img src="/images/diyresources/preschool/i-can-read/redhousemouse.png" alt="red house tree house" style="width:40%">
 
-**Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
+**Title:** [Red House, Three House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203962322)<br>
 **Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
 **Publisher:** New York : Dial Books for Young Readers, [2019].<br>
 A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
@@ -108,7 +108,7 @@ A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is decep
 <br>
 <img src="/images/diyresources/preschool/i-can-read/angrybear.png" alt="angry bear" style="width:40%">
 
-**Title:** [Angry Bear](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273751594/335015445,1)<br>
+**Title:** [Angry Bear](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205466487)<br>
 **Author:** Naira Wilson & David Creighton-Pester(Illustrator)<br>
 **Publisher:** London : Little Tiger Press Ltd, 2021.<br>
 This tactile touch-and-feel book introduces emotions to even the youngest child, with a particular focus on being angry. Written by a child psychologist who specialises in children's emotions, this is a hugely helpful tool for parents and kids alike - and a lot of fun! 
@@ -116,7 +116,7 @@ This tactile touch-and-feel book introduces emotions to even the youngest child,
 
 <img src="/images/diyresources/preschool/i-can-read/rainforestrhymes.jpg" alt="rainforest rhymes" style="width:40%">
 
-**Title:** [Rainforest Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273754651/296199539,1)<br>
+**Title:** [Rainforest Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203935145)<br>
 **Publisher:** Sywell [UK] : Autumn Publishing, an imprint of Igloo Books Group, [2019]<br>
 Trace along the trail with your finger as you enjoy beloved nursery rhymes with the Fisher-Price animal friends! 
 
@@ -155,7 +155,7 @@ This video explains the building blocks of early literacy and ways on how parent
 	
 <img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="gruff the grump" style="width:40%">
 
-**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/275016293/367823554,1)<br>
+**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205571494)<br>
 **Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
 **Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
 Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.
@@ -163,7 +163,7 @@ Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's s
 <br>
 <img src="/images/diyresources/preschool/i-can-read/crunch.jpg" alt="crunch, the shy dinosaur" style="width:40%">
 <br>
-**Title:** [Crunch, The Shy Dinosur](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/275017304/335024489,1)<br>
+**Title:** [Crunch, The Shy Dinosaur](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205475533)<br>
 **Author:** Cirocco Dunlap & Greg Pizzoli (Illustrator)<br>
 **Publisher:** New York : Random House Studio, an imprint of Random House Children's Books, [2021].<br>
 Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubbery and is rather shy. He would like to play, but it will require some gentle coaxing from you! If you are patient and encouraging, you will find yourself with a new friend! This picture book is a warm, funny example of how to engage with someone new, who is perhaps a bit different from you.
@@ -171,7 +171,7 @@ Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubber
 	
 <img src="/images/diyresources/preschool/i-can-read/lazyladybug.jpg" alt="the very lazy ladybird" style="width:40%">
 
-**Title:** [The Very Lazy Ladybird](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273927234/360727319,1)<br>
+**Title:** [The Very Lazy Ladybird](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205486681)<br>
 **Author:** Isobel Finn & Jack Tickle (Illustrator)<br>
 **Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
 Ladybug is so lazy that she doesn't know how to fly. She wants to find a new place to sleep and decides to ride on passing animals. But Kangaroo's pouch is too bumpy, and Crocodile's tail is too wet. When she hops onto Elephant's trunk, she gets a big surprise!

@@ -127,9 +127,38 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
-<br><br>
-***(Coming Soon! For Ages 4 to 6 Years)***
-<br><br>
+<br>
+### For Ages 4 to 6 Years
+
+![Alt text for image on Isomer site](/images/diyresources/preschool/i-can-read/4to6banner.png)
+
+**Tips for Selecting Books**<br>
+•	Choose books with longer storylines. Try choosing contemporary realistic fiction titles that describe situations that children can overcome and relate too.<BR>
+•	Choose books where the main character is the same age as your child.<BR>
+•	Choose wordless books that allow your child to describe or narrate the actions and events in the story.
+	
+**Early Literacy Activities**<br>
+•	Talk about the stories you have read with your child. ‘What was the story about?’. ‘If you are the author, how would you end the story?’.<BR>
+•	Ask your child to come up with words that start with the same letter as the word you are reading.<BR>
+•	Spend time with your child to make a storybook using their own drawings.
+
+**Watch Me!**<br>
+This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.
+	
+**Early Literacy Skills - Everything Parents Need to Know**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KS5q9n2Pur0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Source: The Institute of Reading Development [Reading Programs]. (2019, March 2). Early Literacy Skills - Everything Parents Need to Know [Video]. YouTube. https://www.youtube.com/watch?v=KS5q9n2Pur0
+	
+
+**Recommended Books**
+	
+<img src="/images/diyresources/preschool/i-can-read/redhousemouse.png" alt="red house tree house" style="width:40%">
+
+**Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
+**Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
+**Publisher:** New York : Dial Books for Young Readers, [2019].<br>
+A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
+<br>
+
 
 **References:**
 <br>

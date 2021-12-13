@@ -151,12 +151,20 @@ This video explains the building blocks of early literacy and ways on how parent
 
 **Recommended Books**
 	
-<img src="/images/diyresources/preschool/i-can-read/redhousemouse.png" alt="red house tree house" style="width:40%">
+<img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="red house tree house" style="width:40%">
 
-**Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
-**Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
-**Publisher:** New York : Dial Books for Young Readers, [2019].<br>
-A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
+**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273925276/367823554,1)<br>
+**Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
+Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.
+<br>
+<br>
+<img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="red house tree house" style="width:40%">
+
+**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273925276/367823554,1)<br>
+**Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
+Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.
 <br>
 
 

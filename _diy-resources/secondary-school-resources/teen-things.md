@@ -33,7 +33,7 @@ Fermentation occurs when microorganisms react with carbohydrate sources in an ox
 Mould, yeast, and bacteria break sugars and starches down into acids or alcohols, creating fermented foods which have a particular taste and texture.
 
 <p style="text-align: center;"><b>Process of Fermentation</b></p><br>
-<img src="/images/diyresources/secondary/tt-f1.png" alt="Glucose + Microorganisms in an environment without oxygen and acid/alcohol + carbon dioxide” style=“width: 60%;">
+<img src="/images/diyresources/secondary/tt-f1.png" alt="Glucose + Microorganisms in an environment without oxygen and acid/alcohol + carbon dioxide" style="width: 70%;">
 <p style="text-align: center;"><sup><i>Carbohydrate Source + Microorganism - Oxygen = Acid/Alcohol + Carbon Dioxide</i><br>Adapted from: <a href="https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/">"How Fermentation Makes Food Delicious", Cravings of a Food Scientist</a>.</sup></p>
 
 Kimchi, a popular Korean side dish, is one of such foods. In particular, it’s created through a common type of fermentation known as lacto-fermentation (Source: [Healthline, 2019](https://www.healthline.com/nutrition/lacto-fermentation#how-it-works)). 

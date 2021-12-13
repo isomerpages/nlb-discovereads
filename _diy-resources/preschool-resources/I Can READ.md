@@ -40,7 +40,7 @@ Early Literacy is what children know about reading or writing before they actual
 
 <img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:40%">
 
-**Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
+**Title:** [Little Farm Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205480976)<br>
 **Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
 **Publisher:** London: Walker Books Ltd, 2021.<br>
 
@@ -50,7 +50,7 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 
 <img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:40%">
 
-**Title:** [Row, Row, Row Your Boat : A lift-the-flap, sing-along book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273684786/241232875,3)<br>
+**Title:** [Row, Row, Row Your Boat: A lift-the-flap, sing-along book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203110840)<br>
 **Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
 **Publisher:** London : Pat-a-Cake, 2018.<br>
 

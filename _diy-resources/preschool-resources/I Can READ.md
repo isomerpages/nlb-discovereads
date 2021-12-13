@@ -151,7 +151,7 @@ This video explains the building blocks of early literacy and ways on how parent
 
 **Recommended Books**
 	
-<img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="red house tree house" style="width:40%">
+<img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="gruff the grump" style="width:40%">
 
 **Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273925276/367823554,1)<br>
 **Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
@@ -159,13 +159,22 @@ This video explains the building blocks of early literacy and ways on how parent
 Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.
 <br>
 <br>
-<img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="red house tree house" style="width:40%">
-
-**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273925276/367823554,1)<br>
-**Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
-**Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
-Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.
+<img src="/images/diyresources/preschool/i-can-read/crunch.jpg" alt="crunch, the shy dinosaur" style="width:40%">
 <br>
+**Title:** [Crunch, The Shy Dinosaur](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273926086/335024489,1)<br>
+**Author:** Cirocco Dunlap & Greg Pizzoli (Illustrator)<br>
+**Publisher:** New York : Random House Studio, an imprint of Random House Children's Books, [2021].<br>
+Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubbery and is rather shy. He would like to play, but it will require some gentle coaxing from you! If you are patient and encouraging, you will find yourself with a new friend! This picture book is a warm, funny example of how to engage with someone new, who is perhaps a bit different from you.
+<br>
+	
+<img src="/images/diyresources/preschool/i-can-read/crunch.jpg" alt="red house tree house" style="width:40%">
+
+**Title:** [Crunch, The Shy Dinosaur](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273926086/335024489,1)<br>
+**Author:** Cirocco Dunlap & Greg Pizzoli (Illustrator)<br>
+**Publisher:** New York : Random House Studio, an imprint of Random House Children's Books, [2021].<br>
+Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubbery and is rather shy. He would like to play, but it will require some gentle coaxing from you! If you are patient and encouraging, you will find yourself with a new friend! This picture book is a warm, funny example of how to engage with someone new, who is perhaps a bit different from you.
+<br>
+	
 
 
 **References:**

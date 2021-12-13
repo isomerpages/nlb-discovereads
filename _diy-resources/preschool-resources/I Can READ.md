@@ -130,7 +130,7 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 <br>
 ### For Ages 4 to 6 Years
 
-<img src="/images/diyresources/preschool/i-can-read/4to6banner.jpg" style="width:80%">
+<img src="/images/diyresources/preschool/i-can-read/4to6banner.png" style="width:80%">
 
 **Tips for Selecting Books**<br>
 •	Choose books with longer storylines. Try choosing contemporary realistic fiction titles that describe situations that children can overcome and relate too.<BR>

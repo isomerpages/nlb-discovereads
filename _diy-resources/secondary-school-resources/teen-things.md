@@ -51,7 +51,7 @@ Kombucha, for example, was first brewed by a physician in Northeast China! Popul
 Delve into the history of fermentation with this video. Discover how our tastebuds evolved through centuries to enjoy the sour and umami flavours of fermented foods.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/-ntbeRiQ0cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p style="text-align: center;"><sup>Source: <a href=“https://www.youtube.com/watch?v=-ntbeRiQ0cg&feature=emb_title&ab_channel=PBSEons”>How We Figured Out Fermentation, PBS Eons</a>.</sup></p>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=-ntbeRiQ0cg&feature=emb_title&ab_channel=PBSEons">How We Figured Out Fermentation, PBS Eons</a>.</sup></p>
 
 These days, the online fermentation community is huge. From the trending fermented honey garlic recipe on TikTok, to people showing off their [SCOBY hotels](https://vt.tiktok.com/ZSeypbC7Y/) (SCOBY stands for “symbiotic culture of bacteria and yeast”, a fundamental ingredient in making fermented foods like kombucha!), the experimentation with food never stops. 
 

@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| Coming Soon! - For Ages 4 to 6 Years |
+##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| 
 
 #### For Ages 0 to 12 Months
 
@@ -178,7 +178,7 @@ Ladybug is so lazy that she doesn't know how to fly. She wants to find a new pla
 **Try this at Home!**
 <img src="/images/diyresources/preschool/i-can-read/4to6activity.PNG" style="width:70%">
 
-Click here to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/4to6activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 	

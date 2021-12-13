@@ -176,7 +176,11 @@ Ladybug is so lazy that she doesn't know how to fly. She wants to find a new pla
 <br>
 <br>
 **Try this at Home!**
-	
+<img src="/images/diyresources/preschool/i-can-read/4to6activity.PNG" style="width:70%">
+
+Click here to download a copy of the activity sheet.
+
+<b><a href="#top">Back to top</a></b>
 	
 	
 

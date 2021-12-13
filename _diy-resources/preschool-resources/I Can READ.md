@@ -141,6 +141,8 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 •	Talk about the stories you have read with your child. ‘What was the story about?’. ‘If you are the author, how would you end the story?’.<BR>
 •	Ask your child to come up with words that start with the same letter as the word you are reading.<BR>
 •	Spend time with your child to make a storybook using their own drawings.
+	
+<img src="/images/diyresources/preschool/i-can-read/4to6tip.png" style="width:80%">
 
 **Watch Me!**<br>
 This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.

@@ -58,7 +58,7 @@ Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's eas
 <br><br>
 <img src="/images/diyresources/preschool/i-can-read/shapesofspring.jpg" alt="the shapes of spring" style="width:40%">
 
-**Title:** [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273686231/324476716,2)<br>
+**Title:** [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394445) <br>
 **Author:** Jill Hoarth<br>
 **Publisher:** New York, NY : Running Press Kids, an imprint of Running Press Books, LLC, a subsidiary of Hachette Book Group, Inc., [2020]<br>
 

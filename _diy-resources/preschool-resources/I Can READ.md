@@ -167,15 +167,18 @@ Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's s
 Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubbery and is rather shy. He would like to play, but it will require some gentle coaxing from you! If you are patient and encouraging, you will find yourself with a new friend! This picture book is a warm, funny example of how to engage with someone new, who is perhaps a bit different from you.
 <br>
 	
-<img src="/images/diyresources/preschool/i-can-read/crunch.jpg" alt="red house tree house" style="width:40%">
+<img src="/images/diyresources/preschool/i-can-read/lazyladybug.jpg" alt="the very lazy ladybird" style="width:40%">
 
-**Title:** [Crunch, The Shy Dinosaur](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273926086/335024489,1)<br>
-**Author:** Cirocco Dunlap & Greg Pizzoli (Illustrator)<br>
-**Publisher:** New York : Random House Studio, an imprint of Random House Children's Books, [2021].<br>
-Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubbery and is rather shy. He would like to play, but it will require some gentle coaxing from you! If you are patient and encouraging, you will find yourself with a new friend! This picture book is a warm, funny example of how to engage with someone new, who is perhaps a bit different from you.
+**Title:** The Very Lazy Ladybird<br>
+**Author:** Isobel Finn & Jack Tickle (Illustrator)<br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
+Ladybug is so lazy that she doesn't know how to fly. She wants to find a new place to sleep and decides to ride on passing animals. But Kangaroo's pouch is too bumpy, and Crocodile's tail is too wet. When she hops onto Elephant's trunk, she gets a big surprise!
 <br>
+<br>
+**Try this at Home!**
 	
-
+	
+	
 
 **References:**
 <br>
@@ -184,3 +187,5 @@ Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubber
 2. National Center for Family Literacy. (2018). Tips for Parents: Choosing Books for Infants and Toddlers. Early Childhood Learning and Knowledge Centre. Retrieved October 15, 2021, from https://eclkc.ohs.acf.hhs.gov/parenting/article/tips-parents-choosing-books-infants-toddlers
 
 3. Ministry of Social and Family Development, Singapore. (2018, March 28). Literacy Activities for Children. Parenting Resources for You. Retrieved October 15, 2021, from https://www.babybonus.msf.gov.sg/parentingresources/web/Babies/BabiesPlayandLearning/BabiesActivities/BabiesLiteracyActivities
+	
+4. Children’s Trust of Massachusetts. (n.d.). Choosing Books for Your Child: Preschoolers 3–5 Years. Onetoughjob a Children’s Trust Programme. Retrieved October 15, 2021, from https://www.onetoughjob.org/articles/choosing-books-for-your-child-preschoolers-3-5-years

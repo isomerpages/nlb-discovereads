@@ -70,11 +70,10 @@ Author: Stefan Gates<br>
 Call No.: J 641.3 GAT<br>
 Publisher: Doring Kindersley, 2019<br> 
 Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/library/teens/media/4625657).
-This exciting kids' book tackles all the tasty science questions you have about food, plus plenty more that you hadn't even thought of! Science You Can Eat will transform your kitchen into an awesome lab through 20 fun food experiments.
+
+This exciting kids' book tackles all the tasty science questions you have about food, plus plenty more that you hadn't even thought of! *Science You Can Eat* will transform your kitchen into an awesome lab through 20 fun food experiments.
 
 This quest of gastronomic wonder is so much more than just another science book for kids! It explores the science of food by asking questions you're hungry to know the answers to and putting them to the test through fun experiments. The proof is in the pudding.
-
-Cooking is just delicious chemistry, and the science experiments in this adorable kids cookbook will prove it. Once you understand science, you understand food. Find out why popcorn goes "pop" as you test it out for yourself. Explore how taste is affected by smell, know if carrots really can turn you orange, and finally discover whether eating insects is the future of food.
 
 Enjoy the delightful weirdness of tricking your taste buds, making slime taste delicious, investigating some of the strangest flavours around and extracting iron from your cereal!
 

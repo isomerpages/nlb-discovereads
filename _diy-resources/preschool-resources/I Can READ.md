@@ -171,7 +171,7 @@ Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubber
 	
 <img src="/images/diyresources/preschool/i-can-read/lazyladybug.jpg" alt="the very lazy ladybird" style="width:40%">
 
-**Title:** The Very Lazy Ladybird<br>
+**Title:** [The Very Lazy Ladybird](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273927234/360727319,1)<br>
 **Author:** Isobel Finn & Jack Tickle (Illustrator)<br>
 **Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
 Ladybug is so lazy that she doesn't know how to fly. She wants to find a new place to sleep and decides to ride on passing animals. But Kangaroo's pouch is too bumpy, and Crocodile's tail is too wet. When she hops onto Elephant's trunk, she gets a big surprise!

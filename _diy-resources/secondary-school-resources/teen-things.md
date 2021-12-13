@@ -35,7 +35,7 @@ Mould, yeast, and bacteria break sugars and starches down into acids or alcohols
 <img src="/images/diyresources/secondary/tt-f1.png" alt="Glucose + Microorganisms in an environment without oxygen and acid/alcohol + carbon dioxide" style="width: 70%;">
 <p style="text-align: center;"><sup><i>Fermentation: Carbohydrate Source + Microorganism - Oxygen = Acid/Alcohol + Carbon Dioxide</i><br>Adapted from: <a href="https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/">"How Fermentation Makes Food Delicious", Cravings of a Food Scientist</a>.</sup></p>
 
-Kimchi, a popular Korean side dish, is one of such foods. In particular, it’s created through a common type of fermentation known as lacto-fermentation (Source: [Healthline, 2019](https://www.healthline.com/nutrition/lacto-fermentation#how-it-works)). 
+Kimchi, a popular Korean side dish, is one of such foods. In particular, it’s created through a common type of fermentation known as lacto-fermentation (Source: [Healthline](https://www.healthline.com/nutrition/lacto-fermentation#how-it-works), 2019). 
 
 With lactic acid as a byproduct, food becomes increasingly acidic, and the surrounding air more anaerobic.
 
@@ -44,9 +44,9 @@ Take a look at how this tangy dish is made, and try identifying the elements inv
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/DG4afs7C1XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=DG4afs7C1XI&ab_channel=Reactions">How is Kimchi Made?, Reactions</a>.</sup></p>
 
-You’ve probably seen many other fermented foods like kombucha and sourdough popping up on your feed. But fermentation isn’t just a fad—it’s been around since the Neolithic period, which spanned 10,000 to 4,500 BCE. (Source: [Tamang, 2020](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12520)).
+You’ve probably seen many other fermented foods like kombucha and sourdough popping up on your feed. But fermentation isn’t just a fad—it’s been around since the Neolithic period, which spanned 10,000 to 4,500 BCE. (Source: [Tamang](https://ift.onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12520), 2020).
 
-Kombucha, for example, was first brewed by a physician in Northeast China! Popularised for its supposed medicinal benefits, the drink quickly made its way across the globe. (Source: [Forbes, 2017](https://www.forbes.com/sites/christinatroitino/2017/02/01/kombucha-101-demystifying-the-past-present-and-future-of-the-fermented-tea-drink/?sh=2a8148644ae2)).
+Kombucha, for example, was first brewed by a physician in Northeast China! Popularised for its supposed medicinal benefits, the drink quickly made its way across the globe. (Source: [Forbes](https://www.forbes.com/sites/christinatroitino/2017/02/01/kombucha-101-demystifying-the-past-present-and-future-of-the-fermented-tea-drink/?sh=2a8148644ae2), 2017).
 
 Delve into the history of fermentation with this video. Discover how our tastebuds evolved through centuries to enjoy the sour and umami flavours of fermented foods.
 

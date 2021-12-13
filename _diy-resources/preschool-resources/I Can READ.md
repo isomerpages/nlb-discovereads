@@ -155,7 +155,7 @@ This video explains the building blocks of early literacy and ways on how parent
 	
 <img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="gruff the grump" style="width:40%">
 
-**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273925276/367823554,1)<br>
+**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/275016293/367823554,1)<br>
 **Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
 **Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
 Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.

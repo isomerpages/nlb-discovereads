@@ -28,7 +28,7 @@ Whether it’s that fragrant egg and onion *thosai* (savoury thin pancake) you h
 
 Fortunately, these foods are perfectly safe. They’ve simply undergone a biochemical process known as **fermentation**. 
 
-Fermentation occurs when microorganisms react with carbohydrate sources in an oxygen-free (or anaerobic) environment (Source: [Cravings of a Food Scientist, 2019](https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/)). 
+Fermentation occurs when microorganisms react with carbohydrate sources in an oxygen-free (or anaerobic) environment (Source: [Cravings of a Food Scientist](https://cravingsofafoodscientist.com/2019/04/30/how-fermentation-makes-food-delicious/), 2019). 
 
 Mould, yeast, and bacteria break sugars and starches down into acids or alcohols, creating fermented foods which have a particular taste and texture.
 

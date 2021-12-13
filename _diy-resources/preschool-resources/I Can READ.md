@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| Coming Soon! - For Ages 4 to 6 Years |
+##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [New!* For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
 
 #### For Ages 0 to 12 Months
 
@@ -40,7 +40,7 @@ Early Literacy is what children know about reading or writing before they actual
 
 <img src="/images/diyresources/preschool/i-can-read/littlefarm.png" alt="little farm animals" style="width:40%">
 
-**Title:** [Little Farm Animals : A Finger Wiggle Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273683412/360721614,1) <br>
+**Title:** [Little Farm Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205480976)<br>
 **Author:** Sally Symes & Nick Sharratt (Illustrator)<br>
 **Publisher:** London: Walker Books Ltd, 2021.<br>
 
@@ -50,7 +50,7 @@ Enjoy and encourage imaginative play with your baby in this joyful finger wiggle
 
 <img src="/images/diyresources/preschool/i-can-read/rowrow.jpg" alt="row row row your boat" style="width:40%">
 
-**Title:** [Row, Row, Row Your Boat : A lift-the-flap, sing-along book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273684786/241232875,3)<br>
+**Title:** [Row, Row, Row Your Boat: A lift-the-flap, sing-along book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203110840)<br>
 **Author:** Pat-a-Cake & Richard Merritt (Illustrator)<br>
 **Publisher:** London : Pat-a-Cake, 2018.<br>
 
@@ -58,7 +58,7 @@ Row, Row, Row Your Boat combines lively pictures with a classic rhyme that's eas
 <br><br>
 <img src="/images/diyresources/preschool/i-can-read/shapesofspring.jpg" alt="the shapes of spring" style="width:40%">
 
-**Title:** [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273686231/324476716,2)<br>
+**Title:** [The Shapes of Spring](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394445) <br>
 **Author:** Jill Hoarth<br>
 **Publisher:** New York, NY : Running Press Kids, an imprint of Running Press Books, LLC, a subsidiary of Hachette Book Group, Inc., [2020]<br>
 
@@ -100,7 +100,7 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 
 <img src="/images/diyresources/preschool/i-can-read/redhousemouse.png" alt="red house tree house" style="width:40%">
 
-**Title:** [Red House, Tree House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273748500/302352220,3)<br>
+**Title:** [Red House, Three House, Little Bitty Brown Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203962322)<br>
 **Author:** Jane Godwin & Blanca Gomez (Illustrator)<br>
 **Publisher:** New York : Dial Books for Young Readers, [2019].<br>
 A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is deceptively simple yet packed with delights for the very young--a preschool standout deserving of modern-classic status.
@@ -108,7 +108,7 @@ A bit *Each Peach Pear Plum*, a bit *Go, Dog, Go!*, this read-aloud joy is decep
 <br>
 <img src="/images/diyresources/preschool/i-can-read/angrybear.png" alt="angry bear" style="width:40%">
 
-**Title:** [Angry Bear](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273751594/335015445,1)<br>
+**Title:** [Angry Bear](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205466487)<br>
 **Author:** Naira Wilson & David Creighton-Pester(Illustrator)<br>
 **Publisher:** London : Little Tiger Press Ltd, 2021.<br>
 This tactile touch-and-feel book introduces emotions to even the youngest child, with a particular focus on being angry. Written by a child psychologist who specialises in children's emotions, this is a hugely helpful tool for parents and kids alike - and a lot of fun! 
@@ -116,7 +116,7 @@ This tactile touch-and-feel book introduces emotions to even the youngest child,
 
 <img src="/images/diyresources/preschool/i-can-read/rainforestrhymes.jpg" alt="rainforest rhymes" style="width:40%">
 
-**Title:** [Rainforest Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/273754651/296199539,1)<br>
+**Title:** [Rainforest Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203935145)<br>
 **Publisher:** Sywell [UK] : Autumn Publishing, an imprint of Igloo Books Group, [2019]<br>
 Trace along the trail with your finger as you enjoy beloved nursery rhymes with the Fisher-Price animal friends! 
 
@@ -127,9 +127,65 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
-<br><br>
-***(Coming Soon! For Ages 4 to 6 Years)***
-<br><br>
+<br>
+### For Ages 4 to 6 Years
+
+<img src="/images/diyresources/preschool/i-can-read/4to6banner.png" style="width:80%">
+
+**Tips for Selecting Books**<br>
+•	Choose books with longer storylines. Try choosing contemporary realistic fiction titles that describe situations that children can overcome and relate too.<BR>
+•	Choose books where the main character is the same age as your child.<BR>
+•	Choose wordless books that allow your child to describe or narrate the actions and events in the story.
+	
+**Early Literacy Activities**<br>
+•	Talk about the stories you have read with your child. ‘What was the story about?’. ‘If you are the author, how would you end the story?’.<BR>
+•	Ask your child to come up with words that start with the same letter as the word you are reading.<BR>
+•	Spend time with your child to make a storybook using their own drawings.
+	
+<img src="/images/diyresources/preschool/i-can-read/4to6tip.png" style="width:80%">
+
+**Watch Me!**<br>
+This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.
+	
+**Early Literacy Skills - Everything Parents Need to Know**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KS5q9n2Pur0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Source: The Institute of Reading Development [Reading Programs]. (2019, March 2). Early Literacy Skills - Everything Parents Need to Know [Video]. YouTube. https://www.youtube.com/watch?v=KS5q9n2Pur0
+	
+
+**Recommended Books**
+	
+<img src="/images/diyresources/preschool/i-can-read/gruff.jpg" alt="gruff the grump" style="width:40%">
+
+**Title:** [Gruff the Grump](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205571494)<br>
+**Author:** Steve Smallman & Cee Biscoe (Illustrator)<br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
+Gruff is one great, big, scowly, growly grizzly grump of a bear. In fact, he's so grumpy that all the forest animals call him Gruff the Grump. But Gruff doesn't care. Plus, his grumpy reputation is perfect for keeping the other forest animals out of his way. Except, that is, for one disarmingly-earnest little rabbit, whose winning ways find in Gruff a big, kind friend.
+<br>
+<br>
+<img src="/images/diyresources/preschool/i-can-read/crunch.jpg" alt="crunch, the shy dinosaur" style="width:40%">
+<br>
+**Title:** [Crunch, The Shy Dinosaur](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205475533)<br>
+**Author:** Cirocco Dunlap & Greg Pizzoli (Illustrator)<br>
+**Publisher:** New York : Random House Studio, an imprint of Random House Children's Books, [2021].<br>
+Crunch is a lovely and quiet brontosaurus who has hidden himself in some shubbery and is rather shy. He would like to play, but it will require some gentle coaxing from you! If you are patient and encouraging, you will find yourself with a new friend! This picture book is a warm, funny example of how to engage with someone new, who is perhaps a bit different from you.
+<br>
+	
+<img src="/images/diyresources/preschool/i-can-read/lazyladybug.jpg" alt="the very lazy ladybird" style="width:40%">
+
+**Title:** [The Very Lazy Ladybird](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205486681)<br>
+**Author:** Isobel Finn & Jack Tickle (Illustrator)<br>
+**Publisher:** Wilton, CT : Tiger Tales, 2021.<br>
+Ladybug is so lazy that she doesn't know how to fly. She wants to find a new place to sleep and decides to ride on passing animals. But Kangaroo's pouch is too bumpy, and Crocodile's tail is too wet. When she hops onto Elephant's trunk, she gets a big surprise!
+<br>
+<br>
+**Try this at Home!**
+	<br><br>
+<img src="/images/diyresources/preschool/i-can-read/4to6activity.PNG" style="width:70%">
+
+Click [here](/files/preschool/i-can-read/4to6activity.PDF) to download a copy of the activity sheet.
+
+<b><a href="#top">Back to top</a></b>
+	
+	
 
 **References:**
 <br>
@@ -138,3 +194,5 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 2. National Center for Family Literacy. (2018). Tips for Parents: Choosing Books for Infants and Toddlers. Early Childhood Learning and Knowledge Centre. Retrieved October 15, 2021, from https://eclkc.ohs.acf.hhs.gov/parenting/article/tips-parents-choosing-books-infants-toddlers
 
 3. Ministry of Social and Family Development, Singapore. (2018, March 28). Literacy Activities for Children. Parenting Resources for You. Retrieved October 15, 2021, from https://www.babybonus.msf.gov.sg/parentingresources/web/Babies/BabiesPlayandLearning/BabiesActivities/BabiesLiteracyActivities
+	
+4. Children’s Trust of Massachusetts. (n.d.). Choosing Books for Your Child: Preschoolers 3–5 Years. Onetoughjob a Children’s Trust Programme. Retrieved October 15, 2021, from https://www.onetoughjob.org/articles/choosing-books-for-your-child-preschoolers-3-5-years

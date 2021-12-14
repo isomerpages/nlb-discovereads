@@ -36,7 +36,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 Source: 
 * [2nd Grade Map Activity with Mrs. Kozich](https://www.youtube.com/watch?v=tRi1lxhPYVE)<br>
 * [Map Skills for Elementary Students](https://www.nationalgeographic.org/education/map-skills-elementary-students/)<br>
-(Last accessed 15 December 2021)
+(Last accessed 14 December 2021)
 
 <img src="/images/diyresources/primary/mapping-and-navigation.JPG" alt="Mapping and Navigation" style="width: 40%;">
 
@@ -65,12 +65,12 @@ Develop your child’s spatial thinking skills through the reading and understan
 While maps are usually produced on paper, they can be found on scrolls, stone engravings, paper fans and even ceramics! Did you know that in the 1800s, the Japanese used maps of Japan as a decoration for porcelain ware such as plates? You can try making your own decorated plate with your child by drawing a map of your favourite places in Singapore on the back of a paper plate!
 
 Source: [https://www.pbs.org/parents/thrive/why-children-still-need-to-read-and-draw-maps](https://www.pbs.org/parents/thrive/why-children-still-need-to-read-and-draw-maps) 
-(Last accessed 15 December 2021)<br>
+(Last accessed 14 December 2021)<br>
 
 
 <img src="/images/diyresources/primary/aritaware.png" alt="Aritaware" style="width: 40%;">
 
-<p style="text-align: center;"> Map of Japan on Aritaware, courtesy of the MacLean Collection, Illinois, USA </p>
+<p style="text-align: center;"> Map of Japan on Aritaware, courtesy of the MacLean Collection, Illinois, USA</p>
 
 The item will be shown at the Mapping the World exhibition at Level 10 Gallery, National Library Building from 10 Dec 2021 to 5 May 2022. 
 Do check out the roving exhibition at Ang Mo Kio Public Library from 7 Dec 2021 to 25 Jan 2022 as well!

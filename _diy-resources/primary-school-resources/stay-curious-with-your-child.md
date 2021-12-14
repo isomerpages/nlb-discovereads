@@ -10,12 +10,76 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 30 November 2021)_
+_(Updated on 14 December 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own Oobleck](#make-your-own-oobleck) |***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | [Draw Your Music](#draw-your-music) |  [Listening  to Podcasts](#listening-to-podcasts) | [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+ ***new!** [Create Your Own Map](#create-your-own-map) |***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own Oobleck](#make-your-own-oobleck) |***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | [Draw Your Music](#draw-your-music) |  [Listening  to Podcasts](#listening-to-podcasts) | [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+
+### **Create Your Own Map**
+
+Ever wanted to teach your child how to get from point A to point B? By learning how to read a map, children not only learn how to find their way around but also improve their communication and spatial skills! Explore your neighbourhood and create a map with your child through this simple activity.
+
+**You'll need:**
+
+* Drawing Paper<br>
+* Colour Pencils/Crayons/Markers<br>
+* Ruler<br>
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRi1lxhPYVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: 
+* [2nd Grade Map Activity with Mrs. Kozich](https://www.youtube.com/watch?v=tRi1lxhPYVE)<br>
+* [Map Skills for Elementary Students](https://www.nationalgeographic.org/education/map-skills-elementary-students/)<br>
+(Last accessed 14 December 2021)
+
+<img src="/images/diyresources/primary/mapping-and-navigation.JPG" alt="Mapping and Navigation" style="width: 40%;">
+
+**Mapping and Navigation: Explore the History and Science of Finding Your Way with 20 Projects**<br>
+by: Cynthia Light Brown and Patrick McGinty<br>
+Publisher: Nomad Press<br>
+
+In Mapping and Navigation: the history and science of finding your way, kids ages 9-12 will learn the history and science behind the evolution of mapmaking, and how much is still out there for discovery. Readers will explore ideas through hands-on-experiments while learning new terminology and interesting facts. Projects include using triangulation to measure distances, creating contour lines on a mini-mountain to understand elevation changes on a map, and inventing a sundial and compass to understand the basics of navigation. Whether mapping the solar system or mapping their own backyard, all readers will be able to understand mapping technologies and see the word in new and exciting ways.
+
+This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4085924](https://nlb.overdrive.com/media/4085924)
+
+<img src="/images/diyresources/primary/reading-maps.JPG" alt="Reading Maps" style="width: 40%;">
+
+**Reading Maps**<br>
+by: Ann H. Matzke<br>
+Publisher: Rourke Educational Media<br>
+
+How do you get from one place to the next? Learn how to read a map. Social studies based leveled readers for use in guided reading and social studies instruction.
+
+This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4653183](https://nlb.overdrive.com/media/4653183)
+
+**Tip for parents**
+
+Develop your child’s spatial thinking skills through the reading and understanding of maps. Map-reading helps children visualise where objects and places are in relation to one another, and aids with the recognition of abstract symbols as representations of the real world.
+
+While maps are usually produced on paper, they can be found on scrolls, stone engravings, paper fans and even ceramics! Did you know that in the 1800s, the Japanese used maps of Japan as a decoration for porcelain ware such as plates? You can try making your own decorated plate with your child by drawing a map of your favourite places in Singapore on the back of a paper plate!
+
+Source: [https://www.pbs.org/parents/thrive/why-children-still-need-to-read-and-draw-maps](https://www.pbs.org/parents/thrive/why-children-still-need-to-read-and-draw-maps) 
+(Last accessed 14 December 2021)<br>
+
+
+<img src="/images/diyresources/primary/aritaware.png" alt="Aritaware" style="width: 40%;">
+
+<p style="text-align: center;"> Map of Japan on Aritaware, courtesy of the MacLean Collection, Illinois, USA</p>
+
+The item will be shown at the Mapping the World exhibition at Level 10 Gallery, National Library Building from 10 Dec 2021 to 5 May 2022. 
+Do check out the roving exhibition at Ang Mo Kio Public Library from 7 Dec 2021 to 25 Jan 2022 as well!
+
+Image Source: MacLean Collection, Illinois, USA.
+
+The book covers and synopses are the copyright of the respective publishing companies.<br>
+
+<b><a href="#top">Back to top</a></b>
 
 ### **Baking Chemistry**
 Make chemistry come alive at home by trying out this hands-on baking experiment with your child!

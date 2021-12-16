@@ -12,7 +12,7 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 
 ##### HOW TO PARTICIPATE?
 
-<img src="/images/events/abookaday/how%20to%20Preschools.png" style="width:100%">
+<img src="/images/events/abookaday/how%20to%20participate%20Preschools.jpg" style="width:100%">
 
 ##### POSTING GUIDELINES
 * Posts must be include the assigned hashtags and campaign title "A Book A Day".

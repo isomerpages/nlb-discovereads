@@ -12,7 +12,7 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 
 ##### HOW TO PARTICIPATE?
 
-<img src="/images/events/abookaday/how%20to%20kidsREAD%20Clubs.png" style="width:100%">
+<a href="https://go.gov.sg/readwithme-kidsread"><img src="/images/events/abookaday/how%20to%20participate%20kidsREAD%20Clubs.jpg" style="width:100%"></a>
 
 ##### POSTING GUIDELINES
 * Posts must be include the assigned hashtags and campaign title "A Book A Day".

@@ -14,6 +14,8 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 
 <a href="https://go.gov.sg/readwithme-preschool"><img src="/images/events/abookaday/how%20to%20participate%20Preschools.jpg" style="width:100%"></a>
 
+You may also click on the image to register.
+
 #### POSTING GUIDELINES
 * The post must include at least one photo or video of educator reading to at least one child.
 * Photo or video of each post can be taken from the back or at an angle where participants are not identified.

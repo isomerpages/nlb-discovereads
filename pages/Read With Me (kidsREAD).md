@@ -15,8 +15,13 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 <img src="/images/events/abookaday/how%20to%20kidsREAD%20Clubs.png" style="width:100%">
 
 ##### POSTING GUIDELINES
-* A
-* B
-* C
+* Posts must be include the assigned hashtags and campaign title "A Book A Day".
+* Posts must be made public.
+* Each photo or video must feature volunteer reading to at least one child. 
+* It is compulsory for volunteers to don the "A Book A Day" apron in the photo or video.
+* Photo or video of each post can be from single or multiple storytelling sessions. 
+* Duplicate posts will not be counted in the total tally.
+
+Sample post and caption template can be found in the T&Cs/FAQs.
 
 For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at earlyread@nlb.gov.sg

@@ -19,4 +19,4 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 * B
 * C
 
-For further enquiries about Read With Me: A Book A Day Reading Campaign, contact us at earlyread@nlb.gov.sg
+For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at earlyread@nlb.gov.sg

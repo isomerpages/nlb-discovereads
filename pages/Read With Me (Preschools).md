@@ -8,7 +8,7 @@ description: ""
 #### WHAT IS "READ WITH ME"?
 Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to children aged 6 years and below from April 2022 – June 2022. Participate in this reading campaign and stand to win prizes!
 
-<img src="/images/events/abookaday/prizes%20Preschools.png" style="width:30%">
+<img src="/images/events/abookaday/prizes%20Preschools.png" style="width:40%">
 
 #### HOW TO PARTICIPATE?
 
@@ -24,4 +24,4 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 
 Sample post and caption template can be found in the T&Cs/FAQs.
 
-For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at **earlyread@nlb.gov.sg**
+For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at earlyread@nlb.gov.sg

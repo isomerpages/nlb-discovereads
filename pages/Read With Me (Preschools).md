@@ -17,6 +17,9 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 You may also click on the image to register.
 
 #### Posting Guidelines
+
+<img src="/images/events/abookaday/insta%20sample.jpg" style="width:50%">
+
 * The post must include at least one photo or video of educator reading to at least one child.
 * Photo or video of each post can be taken from the back or at an angle where participants are not identified.
 * It is compulsory for educators to don the apron in the photo or video.

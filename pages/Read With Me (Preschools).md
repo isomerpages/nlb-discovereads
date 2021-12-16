@@ -5,12 +5,12 @@ description: ""
 ---
 <img src="/images/events/abookaday/Blue%20Web%20Banner.jpg" style="width:100%">
 
-#### What Is "Read With Me"?
+#### What is "Read With Me"?
 Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to children aged 6 years and below from April 2022 – June 2022. Participate in this reading campaign and stand to win prizes!
 
 <img src="/images/events/abookaday/preschoolprizes.jpg" style="width:50%">
 
-#### How To Participate?
+#### How to Participate?
 
 <a href="https://go.gov.sg/readwithme-preschool"><img src="/images/events/abookaday/how%20to%20participate%20Preschools.jpg" style="width:100%"></a>
 

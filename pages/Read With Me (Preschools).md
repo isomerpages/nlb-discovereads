@@ -15,12 +15,12 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 <a href="https://go.gov.sg/readwithme-preschool"><img src="/images/events/abookaday/how%20to%20participate%20Preschools.jpg" style="width:100%"></a>
 
 #### POSTING GUIDELINES
-* Posts must be include the assigned hashtags and campaign title "A Book A Day".
-* Posts must be made public.
-* Each photo or video must feature educator reading to at least one child. 
-* It is compulsory for educators to don the "A Book A Day" apron in the photo or video.
-* Photo or video of each post can be from single or multiple storytelling sessions. 
-* Duplicate posts will not be counted in the total tally.
+* The post must include at least one photo or video of educator reading to at least one child.
+* Photo or video of each post can be taken from the back or at an angle where participants are not identified.
+* It is compulsory for educators to don the apron in the photo or video.
+* The post must be made public and tagged #nlbabookaday and the assigned unique hashtag.
+* The caption of the post must include "A Book A Day".
+* Photo or video of each post can be from a single or multiple storytelling session.
 
 Sample post and caption template can be found in the T&Cs/FAQs.
 

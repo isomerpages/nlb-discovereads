@@ -24,6 +24,6 @@ You may also click on the image to register.
 * The caption of the post must include "A Book A Day".
 * Photo or video of each post can be from a single or multiple storytelling session.
 
-Each post that means the abovementioned criteria will be tallied as one valid post, regardless of the number of photos or videos in the post. Duplicate posts will not be included in the tally. NLB reserves the right to select the winners and any decision made is final.
+Each post that meets the abovementioned criteria will be tallied as one valid post, regardless of the number of photos or videos in the post. Duplicate posts will not be included in the tally. NLB reserves the right to select the winners and any decision made is final.
 
 For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at earlyread@nlb.gov.sg

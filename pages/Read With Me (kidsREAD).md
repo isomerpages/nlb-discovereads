@@ -22,6 +22,6 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 * The caption of the post must include "A Book A Day".
 * Photo or video of each post can be from a single or multiple storytelling session.
 
-Sample post and caption template can be found in the T&Cs/FAQs.
+Sample post and caption template can be found in the T&Cs.
 
 For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at earlyread@nlb.gov.sg

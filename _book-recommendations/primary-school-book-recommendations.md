@@ -16,7 +16,7 @@ Click on the thumbnail to download the latest Suggested Reads.
 
 Check out past Suggested Reads [here](/book-recommendations/archives/recommend-primary-archives).
 
-****New!* 2022 English Reading Lists** 
+***New!* 2022 English Reading Lists** 
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap"> 
 		<div class="image-container" style="margin: auto;">
@@ -35,7 +35,7 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 			<b>Primary 5</b><a href="https://drive.google.com/file/d/13stqCVp9LEm_cXS5amyx2gl4h4U0NM1Y/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-			<b>Primary 5F</b><a href="https://drive.google.com/file/d/1gSrIzRzxDIADnsxqyIaOuJKO2iOZu_q_/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Primary 5F</b><a href="https://drive.google.com/file/d/1gSrIzRzxDIADnsxqyIaOuJKO2iOZu_q_/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5f.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
 		<b>Primary 6</b><a href="https://drive.google.com/file/d/1dr_NdSfmHIdnGmtYdRECDQnjsvjlHz8G/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>

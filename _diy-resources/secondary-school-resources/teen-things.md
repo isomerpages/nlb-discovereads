@@ -49,10 +49,10 @@ This [listicle](https://interestingengineering.com/9-technologies-that-changed-t
 
 From pitch-shifting auto-tune processors to electric guitars which have pervaded modern instrumentation, these technological developments have created countless possibilities for musicians to hone their craft. 
 
+Try your hand at creating some music with technology! Loop some simple beats on this [minimal beat machine](https://martinwecke.de/108/). 
 <a href="https://martinwecke.de/108/"><img style="width: 70%;" alt="Screenshot of Martin Wecke beat machine site" src="/images/diyresources/secondary/tt-mxt2.png"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://martinwecke.de/108/">"108 Minimal Beat Machine", Martin Wecke</a>.</sup></p>
 
-Try your hand at creating some music with technology! Loop some simple beats on this [minimal beat machine](https://martinwecke.de/108/). 
 
 **Social Media and the Music Industry**<br>
 <a href="https://econsultancy.com/the-impact-of-technology-and-social-media-on-the-music-industry/"><img style="width: 70%;" alt="Screenshot of The impact of technology and social media on the music industry article" src="/images/diyresources/secondary/tt-mxt3.png"></a>

@@ -16,7 +16,7 @@ Check out Mother Tongue Reading Lists [here](/services/other-services/mother-ton
 
 Check out past reading lists [here](/book-recommendations/archives/recommend-primary-archives).
 
-***New!***
+***New!* 2022 English Reading Lists** 
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap"> 
 		<div class="image-container" style="margin: auto;">

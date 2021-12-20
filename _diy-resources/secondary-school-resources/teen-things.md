@@ -39,7 +39,7 @@ Check out this acapella mash-up tracing the evolution of music from the 11th cen
 Can you identify the shifts in sound arrangements over the eras? *(Please note that the video is only available for viewing on YouTube.)*
 
 <a href="https://youtu.be/lExW80sXsHs"><img style="width: 70%;" alt="Screenshot of Evolution of Music video by Pentatonix" src="/images/diyresources/secondary/tt-mxt7.png"></a>
-<p style="“text-align:"><sup>Source: <a href="“https://youtu.be/lExW80sXsHs”">Evolution of Music, Pentatonix</a>.</sup></p>
+<p style="“text-align: center;"><sup>Source: <a href="“https://youtu.be/lExW80sXsHs”">Evolution of Music, Pentatonix</a>.</sup></p>
 
 **Music &amp; Technology**<br>
 <a href="https://interestingengineering.com/9-technologies-that-changed-the-way-musicians-created-music-forever"><img style="width: 70%;" alt="Screenshot of 9 Technologies That Changed the Way Musicians Create Music Forever article" src="/images/diyresources/secondary/tt-mxt1.png"></a>

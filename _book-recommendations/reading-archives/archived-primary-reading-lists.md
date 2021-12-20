@@ -6,7 +6,7 @@ third_nav_title: Reading Archives
 ---
 ## **Archived Primary Reading Lists**
 
-**2020**
+**2021**
 
 | **Primary 1** | **Primary 2** |
 | --------- | --------- |

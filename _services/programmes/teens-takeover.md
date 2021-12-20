@@ -10,7 +10,7 @@ third_nav_title: Programmes
 
 <img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
 
-**What's on in  Dec 2021!**<br>
+**What's on in Dec 2021!**<br>
 Explore our upcoming sessions for these programmes:
 
 * [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)
@@ -49,12 +49,12 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
-* [18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register now!](https://www.eventbrite.com/e/cckpl-teens-takeover-a-day-in-the-life-of-portfolio-tickets-176075315007?aff=ebcollection&keep_tld=1)
+* <s>[18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register now!]</s>
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 
 * <s>[8 Sep] Mobile Phone Photography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
-* [15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register now!](https://www.eventbrite.com/e/mobile-phone-videography-workshop-digilit-teens-takeover-tickets-176074693147?aff=ebcollection&keep_tld=1)
+* <s>[15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 

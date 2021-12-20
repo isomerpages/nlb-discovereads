@@ -45,9 +45,9 @@ Can you identify the shifts in sound arrangements over the eras? *(Please note t
 <a href="https://interestingengineering.com/9-technologies-that-changed-the-way-musicians-created-music-forever"><img style="width: 70%;" alt="Screenshot of 9 Technologies That Changed the Way Musicians Create Music Forever article" src="/images/diyresources/secondary/tt-mxt1.png"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://interestingengineering.com/9-technologies-that-changed-the-way-musicians-created-music-forever">"9 Technologies That Changed the Way Musicians Create Music Forever", Interesting Engineering</a>.</sup></p>
 
-From pitch-shifting auto-tune processors to electric guitars which have pervaded modern instrumentation, these technological developments have created countless possibilities for musicians to hone their craft. 
-
 This [listicle](https://interestingengineering.com/9-technologies-that-changed-the-way-musicians-created-music-forever) introduces some of the most influential inventions to impact the world of music production.
+
+From pitch-shifting auto-tune processors to electric guitars which have pervaded modern instrumentation, these technological developments have created countless possibilities for musicians to hone their craft. 
 
 <img style="width: 70%;" alt="Screenshot of Martin Wecke beat machine site" src="/images/diyresources/secondary/tt-mxt2.png">
 <p style="text-align: center;"><sup>Source: <a href="https://martinwecke.de/108/">"108 Minimal Beat Machine", Martin Wecke</a>.</sup></p>

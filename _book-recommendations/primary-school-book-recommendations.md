@@ -16,31 +16,32 @@ Check out Mother Tongue Reading Lists [here](/services/other-services/mother-ton
 
 Check out past reading lists [here](/book-recommendations/archives/recommend-primary-archives).
 
+***New!***
 <div class="wrapper" style="width: 100%;">
-<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap"> 
 		<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Primary 1</b><a href="https://drive.google.com/file/d/1Hey2hjjjjBHi6ulJ30BSXRADJtf10EWx/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p1.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Primary 1</b><a href="https://drive.google.com/file/d/1Hey2hjjjjBHi6ulJ30BSXRADJtf10EWx/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p1.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Primary 2</b><a href="https://drive.google.com/file/d/1kPuX2da4KT6c0qK-MuTG3NaDn1qVTFgK/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Primary 2</b><a href="https://drive.google.com/file/d/1kPuX2da4KT6c0qK-MuTG3NaDn1qVTFgK/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Primary 3</b><a href="https://drive.google.com/file/d/1OmRH7IlYRYyQtGJBNFw2Mm9GeOggPMO5/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p3.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Primary 3</b><a href="https://drive.google.com/file/d/1OmRH7IlYRYyQtGJBNFw2Mm9GeOggPMO5/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p3.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Primary 4</b><a href="https://drive.google.com/file/d/13PMlpagnUC7skCSp-NWMErT5tnvW53cf/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-		<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Primary 5</b><a href="https://drive.google.com/file/d/13stqCVp9LEm_cXS5amyx2gl4h4U0NM1Y/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-			<b><i>*New!</i> Primary 5F</b><a href="https://drive.google.com/file/d/1gSrIzRzxDIADnsxqyIaOuJKO2iOZu_q_/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-		<b><i>*New!</i> Primary 6</b><a href="https://drive.google.com/file/d/1dr_NdSfmHIdnGmtYdRECDQnjsvjlHz8G/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Primary 4</b><a href="https://drive.google.com/file/d/13PMlpagnUC7skCSp-NWMErT5tnvW53cf/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 		<div class="image-container" style="margin: auto;">
-		<b><i>*New!</i> Primary 6F</b><a href="https://drive.google.com/file/d/1dTsVMLaOoIpjICdcFq3EYknCgYaO4KSh/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6f.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Primary 5</b><a href="https://drive.google.com/file/d/13stqCVp9LEm_cXS5amyx2gl4h4U0NM1Y/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b>Primary 5F</b><a href="https://drive.google.com/file/d/1gSrIzRzxDIADnsxqyIaOuJKO2iOZu_q_/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+		<b>Primary 6</b><a href="https://drive.google.com/file/d/1dr_NdSfmHIdnGmtYdRECDQnjsvjlHz8G/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+		<div class="image-container" style="margin: auto;">
+		<b>Primary 6F</b><a href="https://drive.google.com/file/d/1dTsVMLaOoIpjICdcFq3EYknCgYaO4KSh/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6f.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 	</div>
 	</div>
 	</div>

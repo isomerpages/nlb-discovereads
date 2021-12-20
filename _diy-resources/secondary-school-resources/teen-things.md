@@ -60,9 +60,9 @@ Try your hand at creating some music with technology! Loop some simple beats on 
 
 In the last decade, the boom of social media sites and music streaming platforms has made listening to music more accessible than ever before. 
 
-With a swipe or a click, we’re able to conveniently discover virtually any type of music we desire. Here are some of the notable changes that have happened:
-<img style="width: 70%;" alt="For consumers: Streaming platforms, such as Spotify and Apple Music, make use of algorithms to curate personalised playlists for their consumers. These playlists help consumers to discover new music based on their preferences and listening habits." src="/images/diyresources/secondary/tt-mxt4.png">
-<img style="width: 70%;" alt="For artists: With social media platforms connecting artists directly to their audience, artists are able to bypass music labels who traditionally manage the distribution and promotion of their music. This gives artists more freedom of control over their own craft." src="/images/diyresources/secondary/tt-mxt5.png">
+With a swipe or a click, we’re able to conveniently discover virtually any type of music we desire. Here are some of the notable changes that have happened:<br>
+<img style="width: 70%;" alt="For consumers: Streaming platforms, such as Spotify and Apple Music, make use of algorithms to curate personalised playlists for their consumers. These playlists help consumers to discover new music based on their preferences and listening habits." src="/images/diyresources/secondary/tt-mxt4.png"><br>
+<img style="width: 70%;" alt="For artists: With social media platforms connecting artists directly to their audience, artists are able to bypass music labels who traditionally manage the distribution and promotion of their music. This gives artists more freedom of control over their own craft." src="/images/diyresources/secondary/tt-mxt5.png"><br>
 <img style="width: 70%;" alt="For live performances: Tech innovations introduce new layers to live performances, turning the gig experience from a traditionally aural event to a multi-sensory one. This includes virtual reality concerts and livestreamed shows that you can watch from the comfort of your home." src="/images/diyresources/secondary/tt-mxt6.png">
 
 Check out these related reads for more on music and technology! 

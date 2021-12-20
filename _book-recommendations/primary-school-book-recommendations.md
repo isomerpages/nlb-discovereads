@@ -10,7 +10,7 @@ This page is best viewed on your desktop.
 Check out **Mother Tongue Reading Lists** [here](/services/other-services/mother-tongue-language-services/). 
 
 #### **English Reading Lists**
-**Suggested Reads (Updated: December 2021)**
+**Suggested Reads (Updated December 2021)**
 
 Click on the thumbnail to download the latest Suggested Reads.
 

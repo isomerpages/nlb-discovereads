@@ -55,6 +55,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * <s>[8 Sep] Mobile Phone Photography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
+* [15 Jan] Discover Discord Workshop, Zoom, Saturday 2-3.30pm [Register now!](https://www.eventbrite.com/e/discover-discord-workshop-digilit-teens-takeover-registration-223173837957?aff=ebcollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
 

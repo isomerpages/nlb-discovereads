@@ -16,7 +16,7 @@ Click on the thumbnail to download the latest Suggested Reads.
 
 Check out past Suggested Reads [here](/book-recommendations/archives/recommend-primary-archives).
 
-***New!* 2022 English Reading Lists** 
+**New! 2022 English Reading Lists** 
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap"> 
 		<div class="image-container" style="margin: auto;">

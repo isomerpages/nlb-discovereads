@@ -7,27 +7,43 @@ collection_name: book-recommendations
 
 This page is best viewed on your desktop.
 
-| [English](#english-reading-lists) | [Chinese](#chinese) | [Malay](#malay) | [Tamil](#tamil) |
-
 #### **English Reading Lists**
 **Suggested Reads (Updated: April 2020)**
 
 Click on the thumbnail to download the latest Suggested Reads.
 
-If you are looking for past reading lists, click [here](/book-recommendations/archives/recommend-primary-archives).
+Check out Mother Tongue Reading Lists [here](/services/other-services/mother-tongue-language-services/). 
 
-| Primary 1 | Primary 2 |
-| --------- | --------- |
-| [![Primary 1 Suggested Reads Image](/images/recommendationsprimary/p1-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P1-FA-VER-300320.PDF) | [![Primary 2 Suggested Reads Image](/images/recommendationsprimary/p2-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P2-FA-VER-300320.PDF) |
-| Primary 3 | Primary 4 | 
-| --------- | --------- |
-| [![Primary 3 Suggested Reads Image](/images/recommendationsprimary/p3-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P3-FA-VER-300320.PDF) | [![Primary 4 Suggested Reads Image](/images/recommendationsprimary/p4-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P4-FA-VER-300320.PDF) | 
-| Primary 5 | Primary 5(Basic) |
-| -------- | ---------------- |
-| [![Primary 5 Suggested Reads Image](/images/recommendationsprimary/p5-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P5-FA-VER-300320.PDF) | [![Primary 5 Basic Suggested Reads Image](/images/recommendationsprimary/p5-Basic-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P5F-FA-VER-300320.PDF)
-| Primary 6 | Primary 6(Basic) |
-| --------- | ---------------- |
-| [![Primary 6 Suggested Reads Image](/images/recommendationsprimary/p6-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6-FA-VER-300320.PDF) | [![Primary 6 Basic Suggested Reads Image](/images/recommendationsprimary/p6-Basic-GRL.jpg)](/images/recommendationsprimary/NLB-Suggested-Reads-Primary-P6F-FA-VER-300320.PDF) |
+Check out past reading lists [here](/book-recommendations/archives/recommend-primary-archives).
+
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Primary 1</b><a href="https://drive.google.com/file/d/1Hey2hjjjjBHi6ulJ30BSXRADJtf10EWx/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p1.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Primary 2</b><a href="https://drive.google.com/file/d/1kPuX2da4KT6c0qK-MuTG3NaDn1qVTFgK/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Primary 3</b><a href="https://drive.google.com/file/d/1OmRH7IlYRYyQtGJBNFw2Mm9GeOggPMO5/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p3.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Primary 4</b><a href="https://drive.google.com/file/d/13PMlpagnUC7skCSp-NWMErT5tnvW53cf/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p4.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+		<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Primary 5</b><a href="https://drive.google.com/file/d/13stqCVp9LEm_cXS5amyx2gl4h4U0NM1Y/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+			<b><i>*New!</i> Primary 5F</b><a href="https://drive.google.com/file/d/1gSrIzRzxDIADnsxqyIaOuJKO2iOZu_q_/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p5.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	<div class="image-container" style="margin: auto;">
+		<b><i>*New!</i> Primary 6</b><a href="https://drive.google.com/file/d/1dr_NdSfmHIdnGmtYdRECDQnjsvjlHz8G/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+		<div class="image-container" style="margin: auto;">
+		<b><i>*New!</i> Primary 6F</b><a href="https://drive.google.com/file/d/1dTsVMLaOoIpjICdcFq3EYknCgYaO4KSh/view?usp=sharing"><img src="/images/recommendationsprimary/prigrl22-p6f.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+	</div>
+	</div>
+	</div>
 
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
 

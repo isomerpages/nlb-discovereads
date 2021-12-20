@@ -7,14 +7,14 @@ collection_name: book-recommendations
 
 This page is best viewed on your desktop.
 
+Check out **Mother Tongue Reading Lists** [here](/services/other-services/mother-tongue-language-services/). 
+
 #### **English Reading Lists**
-**Suggested Reads (Updated: April 2020)**
+**Suggested Reads (Updated: December 2021)**
 
 Click on the thumbnail to download the latest Suggested Reads.
 
-Check out Mother Tongue Reading Lists [here](/services/other-services/mother-tongue-language-services/). 
-
-Check out past reading lists [here](/book-recommendations/archives/recommend-primary-archives).
+Check out past Suggested Reads [here](/book-recommendations/archives/recommend-primary-archives).
 
 ***New!* 2022 English Reading Lists** 
 <div class="wrapper" style="width: 100%;">

@@ -10,13 +10,66 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 14 December 2021)_
+_(Updated on 21 December 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
 
- ***new!** [Create Your Own Map](#create-your-own-map) |***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own Oobleck](#make-your-own-oobleck) |***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | [Draw Your Music](#draw-your-music) |  [Listening  to Podcasts](#listening-to-podcasts) | [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+ ***new!** [Make a Stop Motion Masterpiece!](#make-a-stop-motion-masterpiece) | ***new!** [Create Your Own Map](#create-your-own-map) |***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own Oobleck](#make-your-own-oobleck) |***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | [Draw Your Music](#draw-your-music) |  [Listening  to Podcasts](#listening-to-podcasts) | [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+
+### **Make a Stop Motion Masterpiece!**
+
+With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together! Learn how to film a simple short motion video with your child using their favourite toys as subjects! The finished product is a short video you can share with family and friends!
+
+**You'll need:**
+
+* A smart device with a camera such as a mobile phone or a tablet<br>
+* A tripod to keep your device still when taking photographs<br>
+* A stop-motion making app downloaded into your device (e.g. Stop Motion Studio)<br>
+
+Share your cinematic creations with us by tagging us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3pzivXGMfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Source: [PLAY | Stop Motion Video for KIDS](https://www.youtube.com/watch?v=J3pzivXGMfI)<br>
+(Last accessed on 21 December 2021)
+
+**Be Curious!**
+
+Read a book or watch a movie to learn more about the magic of stop motion animation!
+
+<img src="/images/diyresources/primary/create-crazy-stopmotion-videos.jpg" alt="Create Crazy Stopmotion Videos" style="width: 40%;">
+
+**Create Crazy Stop-Motion Videos: 4D An Augmented Reading Experience**<br>
+by: Thomas Kingsley Troupe<br>
+Publisher: Capstone Press<br>
+
+Do you love stop-motion animation? Try shooting a stop-motion video yourself! Learn how to plan, cast, shoot, and edit a stop-motion video. It's time to put your creativity to the test. And action!
+
+This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4830345](https://nlb.overdrive.com/media/4830345)
+
+<img src="/images/diyresources/primary/farmageddon.png" alt="Farmageddon" style="width: 40%;">
+
+**Farmageddon: A Shaun the Sheep movie**<br>
+Directed by: Richard Phelan<br>
+Publisher: StudioCanal<br>
+
+When a mischievous alien crash-lands near Mossy Bottom Farm, Shaun sets off on a thrilling rescue mission to help return her home, while a secret government UFO organisation is hot on their trail, can Shaun and the flock avert Farmageddon before it's too late?
+
+This movie is available in our libraries under the Audiovisual section at 791.4334 FAR -[ART].
+
+**Tip for parents**
+
+Empower your child to be independent and creative by giving them ownership over their own film project. Use this  opportunity to teach your child self-control and moderation when using digital devices.
+
+Source: [Stop Motion animation for Kids!](https://letslassothemoon.com/stop-motion-animation-kids/) 
+(Last accessed 21 December 2021)<br>
+
+
+The book covers and synopses are the copyright of the respective publishing companies.<br>
+
+<b><a href="#top">Back to top</a></b>
 
 
 ### **Create Your Own Map**

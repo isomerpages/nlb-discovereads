@@ -10,7 +10,7 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 21 December 2021)_
+_(Updated on 22 December 2021)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
@@ -49,19 +49,19 @@ Do you love stop-motion animation? Try shooting a stop-motion video yourself! Le
 
 This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4830345](https://nlb.overdrive.com/media/4830345)
 
-<img src="/images/diyresources/primary/farmageddon.png" alt="Farmageddon" style="width: 40%;">
+<img src="/images/diyresources/primary/animation-lab-for-kids.jpg" alt="Animation Lab For Kids" style="width: 40%;">
 
-**Farmageddon: A Shaun the Sheep movie**<br>
-Directed by: Richard Phelan<br>
-Publisher: StudioCanal<br>
+**Animation Lab for Kids: Fun Projects for Visual Storytelling and Making Art Move**<br>
+By: Laura Bellmont and Emily Brink<br>
+Publisher: Quarry Books<br>
 
-When a mischievous alien crash-lands near Mossy Bottom Farm, Shaun sets off on a thrilling rescue mission to help return her home, while a secret government UFO organisation is hot on their trail, can Shaun and the flock avert Farmageddon before it's too late?
+With the accessibility and ease of use of cameras and video-editing software, people of all ages are learning how to make stop-motion animation. In Animation Lab for Kids, artists, teachers, and authors Laura Bellmont and Emily Brink present exciting, fun, hands-on projects that teach kids a range of animation techniques. From the classic zoetrope, flip book, and cel methods (which don't require any devices or technology) to different methods of shooting, the lessons require no previous experience for either child or adult.re it's too late?
 
-This movie is available in our libraries under the Audiovisual section at 791.4334 FAR -[ART].
+This eBook is available on Overdrive at: [https://nlb.overdrive.com/media/2950683](https://nlb.overdrive.com/media/2950683)
 
 **Tip for parents**
 
-Empower your child to be independent and creative by giving them ownership over their own film project. Use this  opportunity to teach your child self-control and moderation when using digital devices.
+By teaching your child stop-motion animation, you can empower them to be more independent and creative by giving them ownership and autonomy over their own film project. This could also be a great opportunity to teach your child self-control and moderation when using digital devices, by providing your child with a fun alternative to playing games on the device.
 
 Source: [Stop Motion animation for Kids!](https://letslassothemoon.com/stop-motion-animation-kids/) 
 (Last accessed 21 December 2021)<br>

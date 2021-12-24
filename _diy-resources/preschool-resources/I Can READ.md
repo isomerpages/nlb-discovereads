@@ -93,7 +93,7 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 Set time to read daily with your child. Reading stories at bedtime is a great way to get reading into their daily routine.
 
 **Watch Me!**
-<br>Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. 
+<br>Ms. Lena, a children’s librarian from Wichita Public Library, shares ways on how to foster the love of reading in your child. 
 
 **Build early literacy skills by reading to your child**
 

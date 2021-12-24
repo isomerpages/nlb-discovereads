@@ -138,13 +138,16 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 
 **Tips for Selecting Books**<br>
 •	Choose books with longer storylines. Try choosing contemporary realistic fiction titles that describe situations that children can overcome and relate to.<BR>
-•	Choose books where the main character is the same age as your child.<BR>
-•	Choose wordless books that allow your child to describe or narrate the actions and events in the story.
+•	Choose books where the main character is the same age as your child<BR>
+•	Choose wordless books that allow your child to describe or narrate the actions and events in the story
 	
 **Early Literacy Activities**<br>
 •	Talk about the stories you have read with your child. ‘What was the story about?’. ‘If you are the author, how would you end the story?’.<BR>
 •	Ask your child to come up with words that start with the same letter as the word you are reading.<BR>
 •	Spend time with your child to make a storybook using their own drawings.
+
+**Tips for Parents:**<br>
+When reading aloud, engage your child actively by asking questions, discussing what is happening and making predictions about the plot or the ending.
 	
 <img src="/images/diyresources/preschool/i-can-read/4to6tip.png" style="width:80%">
 

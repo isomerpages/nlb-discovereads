@@ -30,8 +30,7 @@ Choose books with:<br>
 •	Play 'What's in the Bag?' game. Place 4-6 toys/household objects in a bag.  Get your baby to pull out any objects from the bag. Say out loud the name of the object. 
 
 **Tips for Parents:**
-
-Infants will enjoy looking through wordless picturebooks, or books that have just a single word alongside an eye-catching illustration.
+Infants will enjoy looking through wordless picturebooks, or books that have just a single word alongside an eye-catching illustration.
 
 <img src="/images/diyresources/preschool/i-can-read/tip0to12.png" style="width:80%">
 

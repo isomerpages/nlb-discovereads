@@ -18,9 +18,9 @@ Early Literacy is what children know about reading or writing before they actual
 
 **Tips for Selecting Books**<br>
 Choose books with:
-•	Books with bright and bold illustrations set against a contrasting background. <br>
-•	Flip-a-flap and pop-up books to delight and attract baby’s attention.<br>
-•	Touch and feel books to help your baby explore the sense of touch and learn how different things feel.
+•	bright and bold illustrations set against a contrasting background <br>
+•	lift-the-flap or pop-up features to delight and engage your baby <br>
+•	touch and feel elements to help your baby explore the sense of touch and learn how different things feel
 
 **Early Literacy Activities**<br>
 •	Sing to your baby everyday and fill your rhymes with funny sound effects and different voices.<br>

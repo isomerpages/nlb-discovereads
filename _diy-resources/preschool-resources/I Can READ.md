@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [New!* For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [**New!*** For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
 
 #### For Ages 0 to 12 Months
 
@@ -16,21 +16,24 @@ third_nav_title: Preschool Resources
 **What is Early Literacy?**<br>
 Early Literacy is what children know about reading or writing before they actually learn to read and write. There are six pre-reading skills that a child needs to develop to become a reader. These skills are in turn supported by the five Early Literacy Practices which are **READ, PLAY, SING, TALK, WRITE!**
 
-**Tips for Selecting books**<br>
-•	Books with bright and bold illustrations set against a contrasting background. <br>
-•	Flip-a-flap and pop-up books to delight and attract baby’s attention.<br>
-•	Touch and feel books to help your baby explore the sense of touch and learn how different things feel.
+**Tips for Selecting Books**<br>
+Choose books with:<br>
+•	bright and bold illustrations set against a contrasting background <br>
+•	lift-the-flap or pop-up features to delight and engage your baby <br>
+•	touch and feel elements to help your baby explore the sense of touch and learn how different things feel
 
 **Early Literacy Activities**<br>
-•	Sing to your baby everyday and fill your rhymes with funny sound effects and different voices.<br>
-•	Name body parts during bath time or diaper change time.
+•	Sing to your baby everyday and fill your rhymes with funny sound effects and different voices
 <br>
-•	Build with blocks. Babies learn about spatial relationship and problem solving when they play with blocks.
+•	Name body parts during bath time or diaper changing time
+<br>
+•	Play 'What's in the Bag?' game. Place 4-6 toys/household objects in a bag.  Get your baby to pull out any objects from the bag. Say out loud the name of the object. 
 
-<img src="/images/diyresources/preschool/i-can-read/tip0to12.png" style="width:80%">
+**Tips for Parents**<br>
+Infants will enjoy looking through wordless picture books, or books that have just a single word alongside an eye-catching illustration.
 
 **Watch Me!**
-<br>Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.
+<br>Learning to read starts from infancy. Help your child develop the love of reading through books, songs and daily experiences that are vital in the development of your baby's early literacy skills.
 
 **Read, Speak, Sing: Your baby and early literacy**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLCYNOxue04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Read, Speak, Sing: Your baby and early literacy YouTube (2015, Jan 27). Canadian Paediatric Society. Retrieved 2021, November 5.
@@ -76,20 +79,21 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 <br>
 <img src="/images/diyresources/preschool/i-can-read/1to3banner.png" style="width:80%">
 
-**Tips for Selecting books**<br>
+**Tips for Selecting Books**<br>
 •		Choose books that feature objects that are part of their everyday lives.  For example, familiar situation such as going to school, running around the playground and visiting the supermarket.<br>
-•	Try rhyming or books with repetitive verses. This helps them to predict what comes next. <br>
+•	Read rhyming books or books with repetitive phrases. This helps them to predict what comes next. <br>
 •	Choose books with simple story line and stories with familiar characters.
 
 **Early Literacy Activities**<br>
-•Get your child to make the letters of the alphabet or numbers using playdough <br>
+• Get your child to make the letters of the alphabet or numbers using playdough <br>
 •	Play ‘I Spy’ game. For example, ‘I spy with my little eye, something that is blue. What is something blue I might be looking at?’.<br>
 •	Play rhyming games by asking your child to come up with pairs of words that sound similar.
 
-<img src="/images/diyresources/preschool/i-can-read/tip1to3.png" style="width:80%">
+**Tips for Parents**<br>
+Set time to read daily with your child. Reading stories at bedtime is a great way to get reading into their daily routine.
 
 **Watch Me!**
-<br>Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. 
+<br>Ms. Lena, a children’s librarian from Wichita Public Library, shares ways on how to foster the love of reading in your child. 
 
 **Build early literacy skills by reading to your child**
 
@@ -133,19 +137,20 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 <img src="/images/diyresources/preschool/i-can-read/4to6banner.png" style="width:80%">
 
 **Tips for Selecting Books**<br>
-•	Choose books with longer storylines. Try choosing contemporary realistic fiction titles that describe situations that children can overcome and relate too.<BR>
-•	Choose books where the main character is the same age as your child.<BR>
-•	Choose wordless books that allow your child to describe or narrate the actions and events in the story.
+•	Choose books with longer storylines. Try choosing contemporary realistic fiction titles that describe situations that children can overcome and relate to.<BR>
+•	Choose books where the main character is the same age as your child<BR>
+•	Choose wordless books that allow your child to describe or narrate the actions and events in the story
 	
 **Early Literacy Activities**<br>
 •	Talk about the stories you have read with your child. ‘What was the story about?’. ‘If you are the author, how would you end the story?’.<BR>
 •	Ask your child to come up with words that start with the same letter as the word you are reading.<BR>
 •	Spend time with your child to make a storybook using their own drawings.
-	
-<img src="/images/diyresources/preschool/i-can-read/4to6tip.png" style="width:80%">
 
+**Tips for Parents**<br>
+When reading aloud, engage your child actively by asking questions, discussing what is happening and making predictions about the plot or the ending.
+	
 **Watch Me!**<br>
-This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.
+This video explains the building blocks of early literacy and ways on how parents can foster learning through simple reading related activities that can be done at home.
 	
 **Early Literacy Skills - Everything Parents Need to Know**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KS5q9n2Pur0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Source: The Institute of Reading Development [Reading Programs]. (2019, March 2). Early Literacy Skills - Everything Parents Need to Know [Video]. YouTube. https://www.youtube.com/watch?v=KS5q9n2Pur0

@@ -32,8 +32,6 @@ Choose books with:<br>
 **Tips for Parents:**
 Infants will enjoy looking through wordless picture books, or books that have just a single word alongside an eye-catching illustration.
 
-<img src="/images/diyresources/preschool/i-can-read/tip0to12.png" style="width:80%">
-
 **Watch Me!**
 <br>Learning to read starts from birth. Whether through books, words, or songs – daily language experiences help form an emotional bond with your baby and are vital to the development of your baby’s early literacy skills.
 

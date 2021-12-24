@@ -29,7 +29,7 @@ Choose books with:<br>
 <br>
 •	Play 'What's in the Bag?' game. Place 4-6 toys/household objects in a bag.  Get your baby to pull out any objects from the bag. Say out loud the name of the object. 
 
-**Tips for Parents:**<br>
+**Tips for Parents**<br>
 Infants will enjoy looking through wordless picture books, or books that have just a single word alongside an eye-catching illustration.
 
 **Watch Me!**
@@ -89,7 +89,7 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 •	Play ‘I Spy’ game. For example, ‘I spy with my little eye, something that is blue. What is something blue I might be looking at?’.<br>
 •	Play rhyming games by asking your child to come up with pairs of words that sound similar.
 
-**Tips for Parents:**<br>
+**Tips for Parents**<br>
 Set time to read daily with your child. Reading stories at bedtime is a great way to get reading into their daily routine.
 
 **Watch Me!**
@@ -146,11 +146,9 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 •	Ask your child to come up with words that start with the same letter as the word you are reading.<BR>
 •	Spend time with your child to make a storybook using their own drawings.
 
-**Tips for Parents:**<br>
+**Tips for Parents**<br>
 When reading aloud, engage your child actively by asking questions, discussing what is happening and making predictions about the plot or the ending.
 	
-<img src="/images/diyresources/preschool/i-can-read/4to6tip.png" style="width:80%">
-
 **Watch Me!**<br>
 This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.
 	

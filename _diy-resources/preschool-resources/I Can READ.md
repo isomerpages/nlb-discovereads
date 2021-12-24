@@ -79,17 +79,18 @@ Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activ
 <br>
 <img src="/images/diyresources/preschool/i-can-read/1to3banner.png" style="width:80%">
 
-**Tips for Selecting books**<br>
+**Tips for Selecting Books**<br>
 •		Choose books that feature objects that are part of their everyday lives.  For example, familiar situation such as going to school, running around the playground and visiting the supermarket.<br>
-•	Try rhyming or books with repetitive verses. This helps them to predict what comes next. <br>
+•	Read rhyming books or books with repetitive phrases. This helps them to predict what comes next. <br>
 •	Choose books with simple story line and stories with familiar characters.
 
 **Early Literacy Activities**<br>
-•Get your child to make the letters of the alphabet or numbers using playdough <br>
+• Get your child to make the letters of the alphabet or numbers using playdough <br>
 •	Play ‘I Spy’ game. For example, ‘I spy with my little eye, something that is blue. What is something blue I might be looking at?’.<br>
 •	Play rhyming games by asking your child to come up with pairs of words that sound similar.
 
-<img src="/images/diyresources/preschool/i-can-read/tip1to3.png" style="width:80%">
+**Tips for Parents:**<br>
+Set time to read daily with your child. Reading stories at bedtime is a great way to get reading into their daily routine.
 
 **Watch Me!**
 <br>Ms. Lena, a children’s librarian from Wichita Public Library, shared one of the 5 activity skills parents can do to foster the love of reading in your child. 

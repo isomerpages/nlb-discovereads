@@ -150,7 +150,7 @@ Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of
 When reading aloud, engage your child actively by asking questions, discussing what is happening and making predictions about the plot or the ending.
 	
 **Watch Me!**<br>
-This video explains the building blocks of early literacy and ways on how parents can foster learning through simple and exciting reading related activities at home.
+This video explains the building blocks of early literacy and ways on how parents can foster learning through simple reading related activities that can be done at home.
 	
 **Early Literacy Skills - Everything Parents Need to Know**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KS5q9n2Pur0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> Source: The Institute of Reading Development [Reading Programs]. (2019, March 2). Early Literacy Skills - Everything Parents Need to Know [Video]. YouTube. https://www.youtube.com/watch?v=KS5q9n2Pur0

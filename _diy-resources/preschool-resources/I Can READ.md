@@ -29,7 +29,7 @@ Choose books with:<br>
 <br>
 •	Play 'What's in the Bag?' game. Place 4-6 toys/household objects in a bag.  Get your baby to pull out any objects from the bag. Say out loud the name of the object. 
 
-**Tips for Parents:**
+**Tips for Parents:**<br>
 Infants will enjoy looking through wordless picture books, or books that have just a single word alongside an eye-catching illustration.
 
 **Watch Me!**

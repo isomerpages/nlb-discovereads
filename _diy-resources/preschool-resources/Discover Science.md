@@ -43,4 +43,52 @@ The repetitive nature of the song helps with pattern recognition and rhythm sync
 **Call Number:** English CYR
 	
 **Tips for Parents**: 
-Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading. 
+Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.
+
+![Alt text for image on Isomer site](/images/BooktalkQuestions.png)
+	
+### LET'S CRAFT!
+	
+**Crafting your own Clock!**
+	
+![Alt text for image on Isomer site](/images/ClockCraft.jpg)
+
+Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time. 
+
+This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you! 
+
+[Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
+
+**Instructions**
+
+1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face. 
+	
+2. Cut out the circles and clock hands from the template prepared. 
+
+3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you do this. 
+
+4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller! 
+	
+In case, you may be wondering what are paper fasteners, these are what we mean:
+![Alt text for image on Isomer site](/images/paperfasteners.jpg)
+
+### LET'S INVESTIGATE!
+
+**Learning with your Handmade Clock**
+	
+We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time. 
+
+![Alt text for image on Isomer site](/images/HoursandMinutes.png)
+
+[Hours and Minutes ](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
+
+Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. 
+
+### LET'S PLAY! 
+
+Play is a great way to get children excited about learning and discovering new concepts. 
+Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.
+
+The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them! 
+
+[Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)

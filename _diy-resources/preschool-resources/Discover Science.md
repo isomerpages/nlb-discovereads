@@ -32,4 +32,15 @@ The repetitive nature of the song helps with pattern recognition and rhythm sync
 ### LET'S READ!
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank">![Alt text for image on Isomer site](/images/fixthatclock.png)</a>
 
+***Fix that Clock!***
 
+**By:** Kurt Cyrus
+	
+**Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019
+
+**Section:** Early Literacy Picture Books
+
+**Call Number:** English CYR
+	
+**Tips for Parents**: 
+Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading. 

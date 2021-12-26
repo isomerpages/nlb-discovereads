@@ -150,3 +150,8 @@ Unwind with your child with these helpful videos in understanding horology, the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=3Posbu-VKxU" target="_blank">How to Tell the Time - Educational Video for Kids</a> (2020, March 23). <i>Twinkl Kids' TV.</i> Retrieved 2021, December 26
 
+<h5>Concept of Time</h5>
+<p>Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Concept of Time | What is AM & PM | Teaching Time for Kids | Introduction to Time for Kindergarten</a> (2021, May 1). <i>Neel Nation.</i> Retrieved 2021, December 26

@@ -20,7 +20,11 @@ Let’s have some fun learning about the concept of time and routine with the us
 
 **Tuning-in Song**
 
-A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later. 
-
-
-
+A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later.
+	
+![Alt text for image on Isomer site](/images/hickorydickorydock.png)
+	
+![Alt text for image on Isomer site](/images/hickorydickorydocklyrics.png)
+	
+**Tips for Parents**: 
+The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc. 

@@ -92,3 +92,38 @@ Download and print out the resources below for activities that you can do with y
 The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them! 
 
 [Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)
+
+The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity? 
+
+[Different Time Tellers!](/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf)
+
+Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time! 
+
+![Alt text for image on Isomer site](/images/Sundial.png)
+	
+### LET'S TRY THESE AT HOME!
+
+With a little bit of creativity and using objects found around you, you can create simple yet fun activities for your child to do to supplement their reading. 
+
+How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.
+
+**Activity 1: How Did People Tell Time Before Clocks?**
+	
+![Alt text for image on Isomer site](/images/TellingTimewiththeSun.png)
+
+1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter? 
+
+2. Have them write down or draw their observations. They can fill up the table appended. 
+	[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
+	
+3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. 
+
+4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived. 
+
+5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. 
+	
+**Note:** Do remind your child to take breaks as prolonged staring at the sun may damage their eyes. 
+
+**Activity 2: Analog vs Digital**
+
+![Alt text for image on Isomer site](/images/AnalogvsDigital.png)

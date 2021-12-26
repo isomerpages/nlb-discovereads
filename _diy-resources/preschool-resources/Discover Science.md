@@ -138,4 +138,15 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
 	
 4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital. 
 
-**Tips for Parents:** Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it. 
+**Tips for Parents:** Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.
+
+### LET'S WATCH! 
+
+Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!
+
+<h5>How to Tell the Time – Educational Video for Kids</h5>
+<p>In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Source: <a href="https://www.youtube.com/watch?v=3Posbu-VKxU" target="_blank">How to Tell the Time - Educational Video for Kids</a> (2020, March 23). <i>Twinkl Kids' TV.</i> Retrieved 2021, December 26
+

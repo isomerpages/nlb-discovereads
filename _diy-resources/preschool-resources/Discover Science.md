@@ -6,4 +6,21 @@ third_nav_title: Preschool Resources
 ---
 ![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
 
-### Coming Soon
+<h3><b>Learning Packages for Budding Scientists and Engineers</b></h3>
+<h5 class="margin--bottom--lg" id="lp-green-econ"><b>Applied Physics: It's Time to Learn about Time!</b></h5>
+<h6 class="margin--bottom--lg" id="lp-green-econ"><b>Suitable for K1/K2 children</b></h6>
+
+![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
+
+<p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Time helps us know when we should be doing certain, important activities. Like, when should we eat breakfast, the most important meal of the day? 
+
+Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
+
+**LET'S SING!**
+
+**Tuning-in Song**
+
+A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later. 
+
+
+

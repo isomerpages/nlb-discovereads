@@ -127,3 +127,15 @@ How about giving the two activities below a try? They will give your child a lit
 **Activity 2: Analog vs Digital**
 
 ![Alt text for image on Isomer site](/images/AnalogvsDigital.png)
+
+In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces. 
+
+1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm. 
+
+2. On another set of cards or strips, write down the same timing in digital format; e.g. 1700. 
+	
+3. Explain to your child that these are the same timings but in different formats. 
+	
+4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital. 
+
+**Tips for Parents:** Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it. 

@@ -31,19 +31,14 @@ third_nav_title: Preschool Resources
 <br>
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank">![Alt text for image on Isomer site](/images/fixthatclock.png)</a>
-
 <br>
-
 ***Title: Fix that Clock!***<br>
 ***Author: Kurt Cyrus***<br>
 	**Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
-
 <h4>Tips for Parents:</h4>
 Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.
-
 ![Alt text for image on Isomer site](/images/BooktalkQuestions.png)
-	
-<h4>LET'S CRAFT!</h4>
+	<h4>LET'S CRAFT!</h4>
 <h5>Crafting your own Clock!</h5>
 <br>
 ![Alt text for image on Isomer site](/images/ClockCraft.jpg)

@@ -54,7 +54,9 @@ This crafting activity is simple and requires materials that can be found around
 
 [Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
 
-**Instructions**
+<br>
+
+<h5>Instructions</h5>
 
 1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face. 
 	

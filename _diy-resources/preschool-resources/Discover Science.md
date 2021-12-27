@@ -83,7 +83,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
 <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
 
-<img src="/images/TellingTimewiththeSun.png" style="width:500px; text-align:left;">
+<img src="/images/TellingTimewiththeSun.png" style="width:400px; text-align:left;">
 
 <p>1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
@@ -111,13 +111,13 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
 <h5>How to Tell the Time – Educational Video for Kids</h5>
 <p>In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=3Posbu-VKxU" target="_blank">How to Tell the Time - Educational Video for Kids</a> (2020, March 23). <i>Twinkl Kids' TV.</i> Retrieved 2021, December 26
 
 <h5>Concept of Time</h5>
 <p>Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.</p>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Concept of Time | What is AM & PM | Teaching Time for Kids | Introduction to Time for Kindergarten</a> (2021, May 1). <i>Neel Nation.</i> Retrieved 2021, December 26
 
 <h4>LET'S FIND THESE AT THE LIBRARIES</h4> 

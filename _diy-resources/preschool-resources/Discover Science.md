@@ -43,12 +43,11 @@ third_nav_title: Preschool Resources
 <br>
 ![Alt text for image on Isomer site](/images/ClockCraft.jpg)
 
-Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time. 
+<p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.<p>
 
-This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you! 
-
+<p>This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you!<p>
+<br>
 [Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
-
 <br>
 
 <h5>Instructions</h5>

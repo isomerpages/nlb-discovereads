@@ -67,6 +67,7 @@ This crafting activity is simple and requires materials that can be found around
 4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller! 
 	
 In case, you may be wondering what are paper fasteners, these are what we mean:
+<br>
 ![Alt text for image on Isomer site](/images/paperfasteners.jpg)
 
 ### LET'S INVESTIGATE!

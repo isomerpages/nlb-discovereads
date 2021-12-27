@@ -28,6 +28,7 @@ third_nav_title: Preschool Resources
 <h4>LET'S READ!</h4>
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:300px; text-align:left;"></a>
+
 <p>Title: Fix that Clock!<br>
 Author: Kurt Cyrus<br>
 Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
@@ -95,20 +96,15 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <br>	
 <p>
 In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.</p> 
-
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.</p> 
 <p>2. On another set of cards or strips, write down the same timing in digital format; e.g. 1700. </p>
 <p>3. Explain to your child that these are the same timings but in different formats.</p> 
 <p>4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital.</p> 
-
 <h4>Tips for Parents:</h4>
 <p>Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.</p>
-
 <h4>LET'S WATCH!</h4>
-
 <p>Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!</p>
-	
-<h5>How to Tell the Time – Educational Video for Kids</h5>
+	<h5>How to Tell the Time – Educational Video for Kids</h5>
 <p>In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -128,9 +124,9 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 (https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
 Author: Rosie Hore and Shaw Nielsen<br>
 Publisher: London : Usborne, 2016</p>
-	
-![Alt text for image on Isomer site](/images/Measuringtime.png)
-	
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/Measuringtime.png" style="width:300px; text-align:left;"></a>
+
 <p>Title: [Measuring Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1)<br>	
 Author: Meg Gaertner<br>
 Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]</p>
@@ -141,7 +137,7 @@ Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [20
 Author: Julie Murray<br>
 Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</p>
 
-![Alt text for image on Isomer site](/images/Iknowabouttellingthetime.png)
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:300px; text-align:left;"></a>
 
 <p>Title:[I Know About Telling Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)<br>
 Author: Richard Little<br>

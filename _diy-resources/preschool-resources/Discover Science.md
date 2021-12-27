@@ -88,12 +88,11 @@ third_nav_title: Preschool Resources
 	[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
 	
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. <p>
-
-<p>4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.<P> 
+<p>4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.<p> 
 <p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. <p>	
 <p>Note: Do remind your child to take breaks as prolonged staring at the sun may damage their eyes.<p>
 
-	<h4>Activity 2: Analog vs Digita</h4>
+<h4>Activity 2: Analog vs Digita</h4>
 
 ![Alt text for image on Isomer site](/images/AnalogvsDigital.png)
 <br>	
@@ -101,17 +100,14 @@ third_nav_title: Preschool Resources
 In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.<p> 
 
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.<p> 
-
 <p>2. On another set of cards or strips, write down the same timing in digital format; e.g. 1700. <p>
-	
 <p>3. Explain to your child that these are the same timings but in different formats.<p> 
-	
 <p>4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital.<p> 
 
 <h4>Tips for Parents:</h4>
 <p>Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.<p>
 
-	<h4>LET'S WATCH!</h4>
+<h4>LET'S WATCH!</h4>
 
 <p>Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!<p>
 	
@@ -131,9 +127,8 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 ![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
 
-**Title:** [Usborne Lift-the-Flap: Telling the Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
-
-**By:** Rosie Hore and Shaw Nielsen 
+<p>Title: [Usborne Lift-the-Flap: Telling the Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
+Author: Rosie Hore and Shaw Nielsen 
 
 **Publisher:** London : Usborne, 2016
 

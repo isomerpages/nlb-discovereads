@@ -24,7 +24,7 @@ third_nav_title: Preschool Resources
 ![Alt text for image on Isomer site](/images/hickorydickorydocklyrics.png)
 	
 <h4>Tips for Parents:</h4> 
-The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.
+<p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.<p>
 	
 ### LET'S READ!
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank">![Alt text for image on Isomer site](/images/fixthatclock.png)</a>

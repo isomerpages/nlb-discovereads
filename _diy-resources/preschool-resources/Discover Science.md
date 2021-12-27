@@ -12,7 +12,7 @@ third_nav_title: Preschool Resources
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
 
-<p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
+<p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
 	
 <h4>LET'S SING</h4>
 <h5>Tuning-in Song: Hickory Dickory Dock</h5>
@@ -23,7 +23,7 @@ third_nav_title: Preschool Resources
 ![Alt text for image on Isomer site](/images/hickorydickorydocklyrics.png)
 	
 <h4>Tips for Parents:</h4> 
-<p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.<p>
+<p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
 	
 <h4>LET'S READ!</h4>
 

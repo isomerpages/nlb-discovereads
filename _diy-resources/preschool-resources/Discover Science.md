@@ -77,25 +77,24 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <img src="/images/Sundial.png" style="width:600px; text-align:left;"></img>
 <h4>LET'S TRY THESE AT HOME!</h4>
 <p>With a little bit of creativity and using objects found around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
-<br>
 <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
 <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
-![Alt text for image on Isomer site](/images/TellingTimewiththeSun.png)
+
+<img src="/images/TellingTimewiththeSun.png" style="width:500px; text-align:left;"></img>
 
 <p>1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
 	
-	[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
+[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
 	
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. </p>
 <p>4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
 <p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. <p>	
 <p>Note: Do remind your child to take breaks as prolonged staring at the sun may damage their eyes.</p>
 
-<h4>Activity 2: Analog vs Digita</h4>
+<h4>Activity 2: Analog vs Digital</h4>
 
-![Alt text for image on Isomer site](/images/AnalogvsDigital.png)
-<br>	
+<img src="/images/AnalogvsDigital.png" style="width:400px; text-align:left;"></img>
 <p>
 In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.</p> 
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.</p> 
@@ -106,7 +105,7 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
 <p>Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.</p>
 <h4>LET'S WATCH!</h4>
 <p>Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!</p>
-	<h5>How to Tell the Time – Educational Video for Kids</h5>
+<h5>How to Tell the Time – Educational Video for Kids</h5>
 <p>In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

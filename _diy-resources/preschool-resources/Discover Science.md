@@ -58,7 +58,6 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 
 [Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 
-<br>	
 <p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p>
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 

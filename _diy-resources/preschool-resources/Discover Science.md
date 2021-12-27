@@ -124,7 +124,8 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 ![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
 
-![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
+<img src=/images/TellingtheTimebook.png"alt="usborne lift-the-flap" style="width:40%">
+
 <p>Title: [Usborne Lift-the-Flap: Telling the Time]<p>
 (https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
 <p>Author: Rosie Hore and Shaw Nielsen<p>

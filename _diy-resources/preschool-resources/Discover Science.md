@@ -57,8 +57,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <br>
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;"></img>
 
-
-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
+[Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 <br>	
 <p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p>
 <h4>LET'S PLAY!</h4> 

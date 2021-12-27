@@ -98,6 +98,7 @@ third_nav_title: Preschool Resources
 	<h4>Activity 2: Analog vs Digita</h4>
 
 ![Alt text for image on Isomer site](/images/AnalogvsDigital.png)
+<br>	
 <p>
 In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.<p> 
 

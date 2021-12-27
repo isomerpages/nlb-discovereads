@@ -43,10 +43,9 @@ Asking open-ended questions during storytelling is an important and engaging way
 
 ![Alt text for image on Isomer site](/images/BooktalkQuestions.png)
 	
-### LET'S CRAFT!
-	
-**Crafting your own Clock!**
-	
+<h4>LET'S CRAFT!</h4>
+	<h5>Crafting your own Clock!</h5>
+<br>
 ![Alt text for image on Isomer site](/images/ClockCraft.jpg)
 
 Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time. 

@@ -140,7 +140,7 @@ Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [20
 ![Alt text for image on Isomer site](/images/Iknowabouttellingthetime.png)
 
 <p>Title:** [I Know About Telling Time]</p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)
-<p>Author: Richard Little</p>
-<p>Publisher: New York : Gareth Stevens Publishing, [2018]</p>
+Author: Richard Little<br>
+Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 
 [Back to top](#main-content)

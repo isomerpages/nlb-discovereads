@@ -44,7 +44,7 @@ Asking open-ended questions during storytelling is an important and engaging way
 ![Alt text for image on Isomer site](/images/BooktalkQuestions.png)
 	
 <h4>LET'S CRAFT!</h4>
-	<h5>Crafting your own Clock!</h5>
+<h5>Crafting your own Clock!</h5>
 <br>
 ![Alt text for image on Isomer site](/images/ClockCraft.jpg)
 

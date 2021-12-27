@@ -54,11 +54,10 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
-<br>
+<p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p
 
 [Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 
-<p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p>
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>

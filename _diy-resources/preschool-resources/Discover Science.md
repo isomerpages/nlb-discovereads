@@ -120,10 +120,11 @@ Source: <a href="https://www.youtube.com/watch?v=3Posbu-VKxU" target="_blank">Ho
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Concept of Time | What is AM & PM | Teaching Time for Kids | Introduction to Time for Kindergarten</a> (2021, May 1). <i>Neel Nation.</i> Retrieved 2021, December 26
 
-	<h4>LET'S FIND THESE AT THE LIBRARIES</h4> 
+<h4>LET'S FIND THESE AT THE LIBRARIES</h4> 
 
 ![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
 
+![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
 <p>Title: [Usborne Lift-the-Flap: Telling the Time]<p>
 (https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
 <p>Author: Rosie Hore and Shaw Nielsen<p>

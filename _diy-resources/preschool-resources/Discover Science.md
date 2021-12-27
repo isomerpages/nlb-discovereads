@@ -50,13 +50,15 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>2. Cut out the circles and clock hands from the template prepared.</p>
 <p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.</p> 
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>
-![Alt text for image on Isomer site](/images/paperfasteners.jpg)
+<img src="/images/paperfasteners.jpg" style="width:300px; text-align:left;"></img>
 <h4>LET'S INVESTIGATE!</h4>
 <h5>Learning with your Handmade Clock</h5>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
-![Alt text for image on Isomer site](/images/HoursandMinutes.png)
-[Hours and Minutes ](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
+<img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;"></img>
+
+
+lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 <br>	
 <p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p>
 <h4>LET'S PLAY!</h4> 

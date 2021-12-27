@@ -27,19 +27,16 @@ third_nav_title: Preschool Resources
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.<p>
 	
 <h4>LET'S READ!</h4>
+
+<br>
+
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank">![Alt text for image on Isomer site](/images/fixthatclock.png)</a>
 
-***Fix that Clock!***<br>
+***Title: Fix that Clock!***<br>
+***Author: Kurt Cyrus***<br>
+	**Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
 
-***By: Kurt Cyrus***<br>
-	
-**Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
-
-**Section:** Early Literacy Picture Books<br>
-
-**Call Number:** English CYR<br>
-	
-**Tips for Parents**: 
+<h4>**Tips for Parents**:</h4>
 Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.
 
 ![Alt text for image on Isomer site](/images/BooktalkQuestions.png)

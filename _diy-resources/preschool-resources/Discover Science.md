@@ -18,7 +18,7 @@ third_nav_title: Preschool Resources
 <h5>Tuning-in Song: Hickory Dickory Dock</h5>
 <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later. </p>
 
-<img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;"></img>
+<img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;"><img>
 
 <img src="/images/hickorydickorydocklyrics.png" style="width:600px; text-align:left;"></img>
 	

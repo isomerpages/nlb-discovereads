@@ -53,6 +53,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.</p> 
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>
 <img src="/images/paperfasteners.jpg" style="width:300px; text-align:left;">
+<br>
 <h4>LET'S INVESTIGATE!</h4>
 <h5>Learning with your Handmade Clock</h5>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 

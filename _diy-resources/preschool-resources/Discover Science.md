@@ -70,13 +70,10 @@ third_nav_title: Preschool Resources
 
 Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. 
 <br>
-
 <h4>LET'S PLAY!</h4> 
-
 <p>Play is a great way to get children excited about learning and discovering new concepts. 
 <br>
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.<p>
-
 <p>The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!<p> 
 
 [Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)

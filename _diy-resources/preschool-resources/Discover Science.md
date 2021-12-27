@@ -34,7 +34,7 @@ The repetitive nature of the song helps with pattern recognition and rhythm sync
 
 ***Fix that Clock!***
 
-**By:** Kurt Cyrus
+	***By:***Kurt Cyrus
 	
 **Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019
 

@@ -63,10 +63,8 @@ third_nav_title: Preschool Resources
 [Hours and Minutes ](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 <br>	
 <p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. <p>
-<br>
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.<p> 
-<br>
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.<p>
 <p>The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!<p> 
 <br>
@@ -94,31 +92,28 @@ third_nav_title: Preschool Resources
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. <p>
 
 <p>4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.<P> 
+<p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. <p>	
+<p>Note: Do remind your child to take breaks as prolonged staring at the sun may damage their eyes.<p>
 
-<p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. <p>
-	
-**Note:** Do remind your child to take breaks as prolonged staring at the sun may damage their eyes. 
-
-**Activity 2: Analog vs Digital**
+	<h4>Activity 2: Analog vs Digita</h4>
 
 ![Alt text for image on Isomer site](/images/AnalogvsDigital.png)
+<p>
+In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.<p> 
 
-In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces. 
+<p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.<p> 
 
-1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm. 
-
-2. On another set of cards or strips, write down the same timing in digital format; e.g. 1700. 
+<p>2. On another set of cards or strips, write down the same timing in digital format; e.g. 1700. <p>
 	
-3. Explain to your child that these are the same timings but in different formats. 
+<p>3. Explain to your child that these are the same timings but in different formats.<p> 
 	
-4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital. 
+<p>4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital.<p> 
 
-**Tips for Parents:** Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.
+<h4>Tips for Parents:** Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.</h4>
 
-### LET'S WATCH! 
+	<h4>### LET'S WATCH!</h4>
 
-Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!
-
+<p>Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!<p>
 <h5>How to Tell the Time – Educational Video for Kids</h5>
 <p>In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
 <div class="bp-youtube">

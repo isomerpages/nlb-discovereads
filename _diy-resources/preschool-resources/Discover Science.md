@@ -54,7 +54,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
-<p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p
+<p>Download the printable below and paste it up somewhere so your child will always remember the values of hours and minutes. </p
 
 [Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 

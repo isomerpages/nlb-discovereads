@@ -126,13 +126,12 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 ![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
 
-<br>Title: [Usborne Lift-the-Flap: Telling the Time]</br>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
-<br>Author: Rosie Hore and Shaw Nielsen</br> 
-Publisher: London : Usborne, 2016
-<br>
+<p>Title: [Usborne Lift-the-Flap: Telling the Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
+<p>Author: Rosie Hore and Shaw Nielsen<br></p>
+<p>Publisher: London : Usborne, 2016<br></p>
 ![Alt text for image on Isomer site](/images/Measuringtime.png)
 
-**Title:** [Measuring Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1) 
+<p>Title:** [Measuring Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1)<br></p> 
 
 **By:** Meg Gaertner
 

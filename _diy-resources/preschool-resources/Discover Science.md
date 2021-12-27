@@ -125,31 +125,23 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 ![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
 
-<p>Title: [Usborne Lift-the-Flap: Telling the Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
-<p>Author: Rosie Hore and Shaw Nielsen<br></p>
-<p>Publisher: London : Usborne, 2016<br></p>
+<p>Title: [Usborne Lift-the-Flap: Telling the Time]<p>
+(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
+<p>Author: Rosie Hore and Shaw Nielsen<p>
+<p>Publisher: London : Usborne, 2016<p>
 ![Alt text for image on Isomer site](/images/Measuringtime.png)
-
-<p>Title:** [Measuring Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1)<br></p> 
-
-**By:** Meg Gaertner
-
-**Publisher:** Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]
-
+<p>Title: [Measuring Time]<p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1)
+<p>By:Meg Gaertner<p>
+Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]<p>
 ![Alt text for image on Isomer site](/images/Time.png)
-
-**Title:** [Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279501220/329826110,2)
-
-**By:** Julie Murray
-
-**Publisher:** Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]
+<p>Title:[Time]<p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279501220/329826110,2)
+<p>AuthorBy: Julie Murray<p>
+,p>Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]<p>
 
 ![Alt text for image on Isomer site](/images/Iknowabouttellingthetime.png)
 
-**Title:** [I Know About Telling Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)
-
-**By:** Richard Little
-
-**Publisher:** New York : Gareth Stevens Publishing, [2018]
+<p>Title:** [I Know About Telling Time]<p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)
+<p>Author: Richard Little<p>
+<p>Publisher: New York : Gareth Stevens Publishing, [2018]<p>
 
 [Back to top](#main-content)

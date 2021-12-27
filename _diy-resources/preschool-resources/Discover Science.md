@@ -10,7 +10,7 @@ third_nav_title: Preschool Resources
 <h5 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h5>
 <h6 class="margin--bottom--lg" id="lp-green-econ"><b>Suitable for K1/K2 children</b></h6>
 
-<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;"></img>
+<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
 
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
 	

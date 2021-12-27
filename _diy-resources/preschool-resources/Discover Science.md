@@ -13,10 +13,8 @@ third_nav_title: Preschool Resources
 ![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
 
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
-
-	<h5>Let's Sing</h5>
 	
-#### LET'S SING!
+<p> ###  LET'S SING!<p>
 
 ****Tuning-in Song: Hickory Dickory Dock****<br>
 

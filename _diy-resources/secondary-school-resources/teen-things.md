@@ -64,7 +64,7 @@ While you may not have easy access to the papyrus plant today, you can create so
 
 **Steps:**<br>
 **1.** Using the scissors, cut up the clean paper bag into 2cm-wide strips.<br><br>
-**2.** Mix of the two tablespoons of water with the two tablespoons of white glue.<br><br>
+**2.** Mix the two tablespoons of water with the two tablespoons of white glue.<br><br>
 **3.** Dip each strip into the water and glue mixture.<br><br>
 **4.** Lay the strips down horizontally onto the baking paper or clingwrap. Make sure the strips overlap slightly. Smooth them out as you go.<br><br>
 **5.** Once the horizontal strips reach the length you want your paper to be, start laying the strips vertically on top of the horizontal strips.<br><br>

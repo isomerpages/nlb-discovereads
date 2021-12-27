@@ -124,22 +124,26 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:300px; text-align:left;"></a>
  
-<p>Title: [Usborne Lift-the-Flap: Telling the Time]</p>
+<p>Title: [Usborne Lift-the-Flap: Telling the Time]<br>
 (https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
-<p>Author: Rosie Hore and Shaw Nielsen<p>
-<p>Publisher: London : Usborne, 2016<p>
+Author: Rosie Hore and Shaw Nielsen<br>
+Publisher: London : Usborne, 2016</p>
+	
 ![Alt text for image on Isomer site](/images/Measuringtime.png)
-<p>Title: [Measuring Time]<p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1)
-<p>By:Meg Gaertner</p>
+	
+<p>Title: [Measuring Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279500028/327613284,1)<br>	
+Author: Meg Gaertner<br>
 Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]</p>
-![Alt text for image on Isomer site](/images/Time.png)
-<p>Title:[Time]<p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279501220/329826110,2)
-<p>AuthorBy: Julie Murray<p>
-,p>Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</p>
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/Time.png" style="width:300px; text-align:left;"></a>
+
+<p>Title:[Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279501220/329826110,2)
+Author: Julie Murray<br>
+Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</p>
 
 ![Alt text for image on Isomer site](/images/Iknowabouttellingthetime.png)
 
-<p>Title:** [I Know About Telling Time]</p>(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)
+<p>Title:[I Know About Telling Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)<br>
 Author: Richard Little<br>
 Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 

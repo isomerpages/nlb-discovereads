@@ -49,29 +49,23 @@ third_nav_title: Preschool Resources
 <br>
 [Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
 <br>
-
 <h5>Instructions</h5>
-
 <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.<p>
 <p>2. Cut out the circles and clock hands from the template prepared.<p>
 <p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.<p> 
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!<p>
-
-	![Alt text for image on Isomer site](/images/paperfasteners.jpg)
-
+![Alt text for image on Isomer site](/images/paperfasteners.jpg)
 <h4>LET'S INVESTIGATE!</h4>
 <h5>Learning with your Handmade Clock</h5>
-
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.<p> 
 <br>
 ![Alt text for image on Isomer site](/images/HoursandMinutes.png)
-
 [Hours and Minutes ](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
-
-Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. 
+<br>	
+<p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. <p>
 <br>
 <h4>LET'S PLAY!</h4> 
-<p>Play is a great way to get children excited about learning and discovering new concepts. 
+<p>Play is a great way to get children excited about learning and discovering new concepts.<p> 
 <br>
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.<p>
 <p>The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!<p> 
@@ -88,22 +82,20 @@ Download this printable and paste it up somewhere so your child will always reme
 <h4>LET'S TRY THESE AT HOME!</h4>
 <p>With a little bit of creativity and using objects found around you, you can create simple yet fun activities for your child to do to supplement their reading.<p>
 <br>
-<p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.
-	
+<p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.<p>
 <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
-	
 ![Alt text for image on Isomer site](/images/TellingTimewiththeSun.png)
 
-1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter? 
-
-2. Have them write down or draw their observations. They can fill up the table appended. 
+<p>1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?<p> 
+<p>2. Have them write down or draw their observations. They can fill up the table appended below.
+	
 	[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
 	
-3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. 
+<p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. <p>
 
-4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived. 
+<p>4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.<P> 
 
-5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. 
+<p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. <p>
 	
 **Note:** Do remind your child to take breaks as prolonged staring at the sun may damage their eyes. 
 

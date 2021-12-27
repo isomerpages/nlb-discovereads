@@ -51,29 +51,30 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.</p> 
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>
 <img src="/images/paperfasteners.jpg" style="width:300px; text-align:left;"></img>
-<h4>LET'S INVESTIGATE!</h4>
+<h4>LET'S INVESTIGATE!</h4r>
 <h5>Learning with your Handmade Clock</h5>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;"></img>
+<br>
 
 [Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 <br>	
 <p>Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. </p>
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 
-<p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.<p>
+<p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>
 <p>The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
-<br>
+
 [Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)
-<br>
+
 <p>The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?</p> 
-<br>
+
 [Different Time Tellers!](/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf)
 <br>
 <p>Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!</p>
 <br>
-![Alt text for image on Isomer site](/images/Sundial.png)
+<img src="/images/Sundial.png" style="width:600px; text-align:left;"></img>
 <h4>LET'S TRY THESE AT HOME!</h4>
 <p>With a little bit of creativity and using objects found around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
 <br>

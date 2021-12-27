@@ -26,13 +26,17 @@ It is easy to believe that ancient civilisations had little understanding of the
 
 However, the wonders and impressive cultural artefacts that have been left behind show a different story, and are evidence of some great thinkers who applied strong STEM principles.
  
-The Pyramids of Giza is one of the most impressive engineering marvels from Ancient Egypt. Standing proudly against the sandy backdrop of the Western Desert in the city of Giza, these massive structures of limestone were assembled almost 4,600 years ago using simple machines. 
+The Pyramids of Giza is one of the most impressive engineering marvels from Ancient Egypt. 
+
+Standing proudly against the sandy backdrop of the Western Desert in the city of Giza, these massive structures of limestone were assembled almost 4,600 years ago using simple machines. 
 
 <img src="/images/diyresources/secondary/tt-ae1.png" alt="Graphic of pyramids" style="width: 70%;">
 
 And the wonders don’t stop there; within the pyramids are passage systems leading to chambers and grottoes that house the mummified remains of royalty, as well as priceless treasures and art. 
 
-But, you don’t have to set off on an expedition to look into the pyramids. Take a guided trip through the twisting passageways of the Great Pyramid of Giza right from the comfort of your own home in this 360-degree video by the BBC. Click and drag the video around to check out every nook and cranny of the pyramid!
+But, you don’t have to set off on an expedition to look into the pyramids. 
+
+Take a guided trip through the twisting passageways of the Great Pyramid of Giza right from the comfort of your own home in this 360-degree video by the BBC. Click and drag the video around to check out every nook and cranny of the pyramid!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TMzouTzim0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=TMzouTzim0o">360° Travel inside the Great Pyramid of Giza, BBC</a>.</sup></p>

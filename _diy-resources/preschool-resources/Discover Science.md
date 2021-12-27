@@ -76,13 +76,13 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <br>
 <p>Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!</p>
 <br>
-<img src="/images/Sundial.png" style="width:600px; text-align:left;"></img>
+<img src="/images/Sundial.png" style="width:600px; text-align:left;">
 <h4>LET'S TRY THESE AT HOME!</h4>
 <p>With a little bit of creativity and using objects found around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
 <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
 <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
 
-<img src="/images/TellingTimewiththeSun.png" style="width:500px; text-align:left;"></img>
+<img src="/images/TellingTimewiththeSun.png" style="width:500px; text-align:left;">
 
 <p>1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
@@ -96,7 +96,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 
 <h4>Activity 2: Analog vs Digital</h4>
 
-<img src="/images/AnalogvsDigital.png" style="width:400px; text-align:left;"></img>
+<img src="/images/AnalogvsDigital.png" style="width:400px; text-align:left;">
 <p>
 In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.</p> 
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.</p> 
@@ -141,7 +141,7 @@ Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids,
 <br>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:300px; text-align:left;"></a>
 <br>
-<p>Title:[I Know About Telling Time](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279502591/257409917,1)<br>
+<p>Title: I Know About Telling Time)<br>
 Author: Richard Little<br>
 Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 

@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
 
 <h3><b>Learning Packages for Budding Scientists and Engineers</b></h3>
-<h5 class="margin--bottom--lg" id="lp-green-econ"><b>Applied Physics: It's Time to Learn about Time!</b></h5>
+<h5 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h5>
 <h6 class="margin--bottom--lg" id="lp-green-econ"><b>Suitable for K1/K2 children</b></h6>
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)

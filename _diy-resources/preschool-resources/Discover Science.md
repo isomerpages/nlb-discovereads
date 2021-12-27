@@ -36,7 +36,7 @@ third_nav_title: Preschool Resources
 ***Author: Kurt Cyrus***<br>
 	**Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
 
-<h4>**Tips for Parents**:</h4>
+<h4>Tips for Parents:</h4>
 Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.
 
 ![Alt text for image on Isomer site](/images/BooktalkQuestions.png)

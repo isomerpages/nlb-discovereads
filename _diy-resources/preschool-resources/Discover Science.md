@@ -14,7 +14,9 @@ third_nav_title: Preschool Resources
 
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
 
-### LET'S SING!
+	<h5>Let's Sing</h5>
+	
+#### LET'S SING!
 
 ****Tuning-in Song: Hickory Dickory Dock****<br>
 

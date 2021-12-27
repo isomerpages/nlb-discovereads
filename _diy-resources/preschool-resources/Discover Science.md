@@ -44,6 +44,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you!</p>
 
 [Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
+
 <h5>Instructions</h5>
 <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
 <p>2. Cut out the circles and clock hands from the template prepared.</p>
@@ -54,7 +55,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
-<p>Download the printable below and paste it up somewhere so your child will always remember the values of hours and minutes. </p
+<p>Download the printable below and paste it up somewhere so your child will always remember the values of hours and minutes.</p>
 
 [Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
 

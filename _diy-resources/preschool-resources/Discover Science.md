@@ -16,7 +16,7 @@ third_nav_title: Preschool Resources
 	
 <h4>LET'S SING</h4>
 <h5>Tuning-in Song: Hickory Dickory Dock</h5>
-<p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later. </p>
+<p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later.</p>
 
 <img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;">
 <br>
@@ -35,7 +35,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <h4>Tips for Parents:</h4>
 <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
 
-<img src="/images/BooktalkQuestions.png" style="width:800px; text-align:left;">
+<img src="/images/BooktalkQuestions.png" style="width:650px; text-align:left;">
 
 <h4>LET'S CRAFT!</h4>
 <h5>Crafting your own Clock!</h5>

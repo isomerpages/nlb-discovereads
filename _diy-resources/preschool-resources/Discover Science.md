@@ -57,11 +57,8 @@ third_nav_title: Preschool Resources
 <p>2. Cut out the circles and clock hands from the template prepared.<p>
 	<br>
 <p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.<p> 
-<br>
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!<p>
-<b>	
-In case, you may be wondering what are paper fasteners, these are what we mean:
-<br>
+
 ![Alt text for image on Isomer site](/images/paperfasteners.jpg)
 
 ### LET'S INVESTIGATE!

@@ -17,8 +17,7 @@ third_nav_title: Preschool Resources
 <h4>LET'S SING</h4>
 <h5>Tuning-in Song: Hickory Dickory Dock</h5>
 <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later. </p>
-	
-		
+			
 ![Alt text for image on Isomer site](/images/hickorydickorydock.png)
 	
 ![Alt text for image on Isomer site](/images/hickorydickorydocklyrics.png)
@@ -28,12 +27,10 @@ third_nav_title: Preschool Resources
 	
 <h4>LET'S READ!</h4>
 
-<br>
-
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank">![Alt text for image on Isomer site](/images/fixthatclock.png)</a>
 <br>
-<p>Title: Fix that Clock!<p>
-<p>Author: Kurt Cyrus<p>
+<p>Title: Fix that Clock!
+<p>Author: Kurt Cyrus
 <p>Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019<p>
 <br>
 <h4>Tips for Parents:</h4>

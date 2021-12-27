@@ -14,9 +14,9 @@ third_nav_title: Preschool Resources
 
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
 	
-<p> ###  LET'S SING!<p>
+ ###  LET'S SING!
 
-****Tuning-in Song: Hickory Dickory Dock****<br>
+****Tuning-in Song: Hickory Dickory Dock
 
 	
 <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later.</p>

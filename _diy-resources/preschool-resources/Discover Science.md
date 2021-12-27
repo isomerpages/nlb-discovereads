@@ -18,9 +18,9 @@ third_nav_title: Preschool Resources
 <h5>Tuning-in Song: Hickory Dickory Dock</h5>
 <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later. </p>
 
-<img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;"><img>
-
-<img src="/images/hickorydickorydocklyrics.png" style="width:600px; text-align:left;"></img>
+<img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;">
+<br>
+<img src="/images/hickorydickorydocklyrics.png" style="width:600px; text-align:left;">
 	
 <h4>Tips for Parents:</h4> 
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
@@ -35,12 +35,12 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <h4>Tips for Parents:</h4>
 <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
 
-<img src="/images/BooktalkQuestions.png" style="width:400px; text-align:left;"></img>
+<img src="/images/BooktalkQuestions.png" style="width:400px; text-align:left;">
 
 <h4>LET'S CRAFT!</h4>
 <h5>Crafting your own Clock!</h5>
 <br>
-<img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;"></img>
+<img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;">
 
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
 <p>This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you!</p>
@@ -52,12 +52,12 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <p>2. Cut out the circles and clock hands from the template prepared.</p>
 <p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.</p> 
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>
-<img src="/images/paperfasteners.jpg" style="width:300px; text-align:left;"></img>
+<img src="/images/paperfasteners.jpg" style="width:300px; text-align:left;">
 <h4>LET'S INVESTIGATE!</h4r>
 <h5>Learning with your Handmade Clock</h5>
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
-<img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;"></img>
+<img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
 <br>
 
 [Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)

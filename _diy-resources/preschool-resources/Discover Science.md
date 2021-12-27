@@ -122,8 +122,8 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 <h4>LET'S FIND THESE AT THE LIBRARIES</h4> 
 
-![Alt text for image on Isomer site](/images/TellingtheTimebook.png)
-
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:300px; text-align:left;"></a>
+ 
 <p>Title: [Usborne Lift-the-Flap: Telling the Time]</p>
 (https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279498029/192446773,1)
 <p>Author: Rosie Hore and Shaw Nielsen<p>

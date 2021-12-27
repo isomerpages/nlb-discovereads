@@ -12,9 +12,7 @@ third_nav_title: Preschool Resources
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
 
-<p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Time helps us know when we should be doing certain, important activities. Like, when should we eat breakfast, the most important meal of the day? 
-
-Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
+<p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!<p>
 
 ### LET'S SING!
 
@@ -34,7 +32,7 @@ The repetitive nature of the song helps with pattern recognition and rhythm sync
 
 ***Fix that Clock!***
 
-	***By:***Kurt Cyrus
+***By: Kurt Cyrus***
 	
 **Publisher:** Boston ; New York : Houghton Mifflin Harcourt, 2019
 
@@ -84,7 +82,8 @@ We just made a very wonderful Time Teller! Time for us to use it to teach our ch
 
 Download this printable and paste it up somewhere so your child will always remember the values of hours and minutes. 
 
-### LET'S PLAY! 
+
+	### LET'S PLAY! 
 
 Play is a great way to get children excited about learning and discovering new concepts. 
 Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.

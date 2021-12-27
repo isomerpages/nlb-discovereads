@@ -9,15 +9,97 @@ third_nav_title: Secondary School Resources
 ***Look out for new weekly topics during the school holidays, from 22 November 2021!***
 
 <img style="width: 100%;" alt="Teen Things header" src="/images/diyresources/secondary/tt21-header2.png">
-<p style="text-align: center;"><i>(Updated on 20 Dec 2021)</i></p>
+<p style="text-align: center;"><i>(Updated on 27 Dec 2021)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
 |<a href="/diy-resources/secondary/teen-things#id1"><img style="width: 50%;" alt="Graphic Design is My Passion button" src="/images/diyresources/secondary/tt21-button-graphic.png"></a>|<a href="/diy-resources/secondary/teen-things#id2"><img style="width: 50%;" alt="Deep Dive into Marine Biodiversity button" src="/images/diyresources/secondary/tt21-button-biodiversity.png"></a>|<a href="/diy-resources/secondary/teen-things#id3"><img style="width: 50%;" alt="Emailing 101 button" src="/images/diyresources/secondary/tt21-button-email.png"></a>|
-<a href="/diy-resources/secondary/teen-things#id4"><img style="width: 50%;" alt="Fermentation Station button" src="/images/diyresources/secondary/tt21-button-fermentation.png"></a>|<a href="/diy-resources/secondary/teen-things#id5"><img style="width: 50%;" alt="Music X Technology button" src="/images/diyresources/secondary/tt21-button-musictech.png"></a>|<a href="/diy-resources/secondary/teen-things"><img style="width: 50%;" alt="Coming soon button" src="/images/diyresources/secondary/tt21-button-comingsoon2.png"></a>|
+<a href="/diy-resources/secondary/teen-things#id4"><img style="width: 50%;" alt="Fermentation Station button" src="/images/diyresources/secondary/tt21-button-fermentation.png"></a>|<a href="/diy-resources/secondary/teen-things#id5"><img style="width: 50%;" alt="Music X Technology button" src="/images/diyresources/secondary/tt21-button-musictech.png"></a>|<a href="/diy-resources/secondary/teen-things#id6"><img style="width: 50%;" alt="Science in Ancient Egypt button" src="/images/diyresources/secondary/tt21-button-science.png"></a>|
 
  [![Teen.Things Archive](/images/diyresources/secondary/tt21-button-archive2.png)](/diy-resources/secondary/teen-things-archive)
 
+
+<a name="id6">![Science in Ancient Egypt header](/images/diyresources/secondary/tt21-header-ae.png)</a>
+#### **Science in Ancient Egypt**
+
+It is easy to believe that ancient civilisations had little understanding of the fields of Science, Technology, Engineering, and Mathematics (STEM), when we hear stories from their time where for example, people believed the Sun moved around the Earth. 
+
+However, the wonders and impressive cultural artefacts that have been left behind show a different story, and are evidence of some great thinkers who applied strong STEM principles.
+ 
+The Pyramids of Giza is one of the most impressive engineering marvels from Ancient Egypt. Standing proudly against the sandy backdrop of the Western Desert in the city of Giza, these massive structures of limestone were assembled almost 4,600 years ago using simple machines. 
+
+<img src="/images/diyresources/secondary/tt-ae1.png" alt="Graphic of pyramids" style="width: 70%;">
+
+And the wonders don’t stop there; within the pyramids are passage systems leading to chambers and grottoes that house the mummified remains of royalty, as well as priceless treasures and art. 
+
+But, you don’t have to set off on an expedition to look into the pyramids. Take a guided trip through the twisting passageways of the Great Pyramid of Giza right from the comfort of your own home in this 360-degree video by the BBC. Click and drag the video around to check out every nook and cranny of the pyramid!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/TMzouTzim0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=TMzouTzim0o">360° Travel inside the Great Pyramid of Giza, BBC</a>.</sup></p>
+
+Before a body could be laid to rest in these magnificent pyramids, they needed to be mummified. To do so, embalmers in Ancient Egypt used basic scientific principles of osmosis to preserve the bodies. 
+
+After removing the internal organs and setting them aside in jars, the body was packed with natron, a salt found in dried riverbeds (Source: [*How STEM Built the Egyptian Empire* by Xina M. Uhl](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204129635)). It disinfected and dried out the corpse, keeping it from decaying. 
+
+You can watch this process by conducting a similar experiment with an apple. Follow this step-by-step tutorial by Da Vinci TV to make your very own Apple Mummy.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/JGgntylifmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/watch?v=JGgntylifmE">Make an Apple Mummy | Xploration DIY SCI, Da Vinci Kids</a>.</sup></p>
+
+Ancient Egyptians also engineered irrigation canals to help grow a variety of plants like barley, onions, garlic, lettuce, and sesame (Source: [*How STEM Built the Egyptian Empire* by Xina M. Uhl](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204129635)).
+
+However, the most prized plant was the papyrus plant, whose fibres were used to create a type of paper. The stalk was peeled into long strips, and then pressed and dried into sheets. 
+
+<img src="/images/diyresources/secondary/tt-ae2.png" alt="Graphic of papyrus" style="width: 70%;">
+
+While you may not have easy access to the papyrus plant today, you can create something similar with any clean brown paper bag you might have at home, then use it in a variety of crafts. 
+
+**Make your very own sheet of papyrus!**
+<img src="/images/diyresources/secondary/tt-ae3.png" alt="1 clean brown paper bag, 1 A4-sized sheet of baking paper or clingwrap, 1 pair of scissors, 1 shallow bowl or tray, 2 tablespoons of white glue, 2 tablespoons of water" style="width: 70%;">
+<p style="text-align: center;"><sup>Adapted from: <a href="https://youtu.be/mVN86WKF_Q8">Paper Bag Papyrus, Fitchburg Art Museum</a>.</sup></p>
+
+**Steps:**<br>
+**1.** Using the scissors, cut up the clean paper bag into 2cm-wide strips.<br><br>
+**2.** Mix of the two tablespoons of water with the two tablespoons of white glue.<br><br>
+**3.** Dip each strip into the water and glue mixture.<br><br>
+**4.** Lay the strips down horizontally onto the baking paper or clingwrap. Make sure the strips overlap slightly. Smooth them out as you go.<br><br>
+**5.** Once the horizontal strips reach the length you want your paper to be, start laying the strips vertically on top of the horizontal strips.<br><br>
+**6.** Let dry overnight and the next day, you will have a beautiful papyrus-like sheet of paper!<br>
+
+**The finished product!**
+<img src="/images/diyresources/secondary/tt-ae4.png" alt="Hi friend, I will never THE NILE our friendship." style="width: 70%;">
+
+Discover more about how the Ancient Egyptians used STEM principles in their daily lives in these book recommendations!
+
+<img src="/images/diyresources/secondary/tt-ae-book1.jpg" alt="How STEM Built the Egyptian Empire book cover." style="width: 30%;"><br>
+**How STEM Built the Egyptian Empire**<br>
+Author: Xina M. Uhl<br>
+Publisher: The Rosen Publishing Book, 2020<br>
+Call No.: Y 609.32 UHL<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg)!)
+
+Majestic pyramids, frightful mummies, intricate hieroglyphics, and vivid tomb paintings carry the echoes of ancient Egypt through thousands of years into the present. Science, technology, engineering, and mathematical or STEM achievements lay at the heart of the Egyptians' grandeur. Their brilliant use of basic tools and machines in massive construction projects, the preservation of human remains, and agricultural inventions that remain useful in modern times are just some of the subjects investigated in this volume. Rich in historical context, readers are given a solid understanding of how STEM shaped one of the world's most fascinating empires.
+
+Synopsis from [Rosen Publishing](http://www.rosenpublishing.com).
+
+
+<a href="https://nlb.overdrive.com/media/3938112"><img src="/images/diyresources/secondary/tt-ae-book2.jpg" alt="Craft like the Ancient Egyptians book cover." style="width: 30%;"></a><br>
+**Craft like the Ancient Egyptians**<br>
+Author: Jillian Powell<br>
+Publisher: PowerKids Press, 2018<br>
+Call No.: J 745.5 POW<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/3938112).
+
+With a flair for fashion and a love of cats, the ancient Egyptians weren’t so different from us—except for the mummies and sarcophagi! This engaging book teaches readers about ancient Egyptian culture as they craft their way through history. Readers will love the diverse variety of activities—drawing hieroglyphics in clay, designing their own jewelry, making animal mummies, and more!
+
+Synopsis from [Rosen Publishing](http://www.rosenpublishing.com).
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 11 October 2021.)
+
+<b><a href="#top">Back to top</a></b>
+	
 
 <a name="id5">![Music X Technology header](/images/diyresources/secondary/tt21-header-mxt.png)</a>
 #### **Music X Technology**

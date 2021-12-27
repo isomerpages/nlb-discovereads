@@ -35,12 +35,12 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <h4>Tips for Parents:</h4>
 <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
 
-![Alt text for image on Isomer site](/images/BooktalkQuestions.png)
+<img src="/images/BooktalkQuestions.png" style="width:400px; text-align:left;"></img>
 
 <h4>LET'S CRAFT!</h4>
 <h5>Crafting your own Clock!</h5>
 <br>
-![Alt text for image on Isomer site](/images/ClockCraft.jpg)
+<img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;"></img>
 
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
 <p>This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you!</p>

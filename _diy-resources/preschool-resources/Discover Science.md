@@ -35,7 +35,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <h4>Tips for Parents:</h4>
 <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
 
-<img src="/images/BooktalkQuestions.png" style="width:600px; text-align:left;">
+<img src="/images/BooktalkQuestions.png" style="width:800px; text-align:left;">
 
 <h4>LET'S CRAFT!</h4>
 <h5>Crafting your own Clock!</h5>

@@ -153,6 +153,14 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 	
 <h4> LET’S LEARN</h4>
 
+![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png)
+<p>Density is a measurement that compares the amount of matter an object as to its volume.
+	<br>
+
+*Definition from https://kids.kiddle.co/Density*
+</p>
+ 
+
 Use these [printables](/files/science-lfa/density/Density_Explanation%20Printables.pdf) to further explain density to your child!
 
 <div class="horizontal-scroll margin--bottom--lg">

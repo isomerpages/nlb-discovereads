@@ -247,15 +247,16 @@ Objective: To find out how different densities affect how liquids react with one
 
 By having your child predict and record their observations, you are helping to develop their thinking process-thinking as they experiment, analyse, and draw conclusions.
 
+<h4>LET'S READ!</h4><br>
 <div class="row is-multiline margin--bottom--lg">
-	<div class="col is-half">
+	<div class="col is-two-fifths">
    <div class="image">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;">
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
 		</div></div>
-	<div class="col is-half">
+	<div class="col is-three-fifths">
     <p><b> Rosa's Big Boat Experiment</b><br>
 Author & Illustrator: Jessica Spanyol
 Publisher: Swindon: Child's Play (International), 2020
 </p>
   </div>
-  

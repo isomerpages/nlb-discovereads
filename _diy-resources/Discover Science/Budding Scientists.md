@@ -4,7 +4,7 @@ permalink: /diy-resources/Budding-Scientists/permalink
 description: ""
 third_nav_title: Discover Science
 ---
-![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 
 ****new!** <a href="#lp-time">It's Time to Learn about Time</a>****new!** <a href="#lp-density">Fireworks in a Bottle</a>
 

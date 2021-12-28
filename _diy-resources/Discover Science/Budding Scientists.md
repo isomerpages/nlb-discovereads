@@ -285,12 +285,11 @@ By having your child predict and record their observations, you are helping to d
 		</div></div>
 	<div class="col is-half">
    <div class="image">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
 		    <p><b> Why Do Ice Cubes Float?</b><br>
 					<u>Author:</u> Benjamin Proudfit<br>
 					<u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 PRO
 		</div></div>
-	

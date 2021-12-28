@@ -260,7 +260,7 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Section:</u> Early Literacy Picture Books<br>
 					<u>Call Number:</u> English SPA</p>
 		</div></div>
-<div class="col is-half">
+<div class="col">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
 		    <p><b>Will It Float or Sink?</b><br>
@@ -281,7 +281,7 @@ Objective: To find out how different densities affect how liquids react with one
 			<u>Section:</u> Early Literacy Picture Books<br>
 			<u>Call Number:</u> English ROS
 		</div></div>
-<div class="col is-half">
+<div class="col">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
 	<p><b> Why Do Ice Cubes Float?</b><br>

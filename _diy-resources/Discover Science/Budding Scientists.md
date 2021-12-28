@@ -181,7 +181,7 @@ Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.p
 </tr>
 <tr>
         <td><b>Sink</b></td>
-        <td>Try butting this coin into water. It <b>sinks</b> all the way to the bottom!</td>
+        <td>Try putting this coin into water. It <b>sinks</b> all the way to the bottom!</td>
       </tr>	
 <tr>
 <td><b>Molecules</b></td>

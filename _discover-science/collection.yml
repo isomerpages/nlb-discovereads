@@ -1,6 +1,0 @@
-collections:
-  discover-science:
-    output: true
-    order:
-      - Budding Engineers/.keep
-      - Budding Scientists/.keep

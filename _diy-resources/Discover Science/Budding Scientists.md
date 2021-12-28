@@ -227,3 +227,22 @@ Objective: To find out how different densities affect how liquids react with one
 <br><br><b>What materials do I need?</b>
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png)
+<div class="row is-multiline margin--bottom--lg">
+	<div class="col is-three-fifths">
+    <p><b> Steps</b><br>
+1.	Fill the bottle with water. <br>
+2.	In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
+3.	Pour the bowl of oil and food colouring into the bottle of water. <br>
+4.	Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!<br>
+5.	(Optional) Print out the Observations sheet to go through and record the observations with your child. 
+</p>
+  </div>
+  <div class="col is-two-fifths">
+    Step 2<div class="image">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png" style="width:400px; text-align:left;">
+    </div>
+    Step 4<div class="image">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png" style="width:400px; text-align:left;">
+    </div>
+  </div>
+</div>

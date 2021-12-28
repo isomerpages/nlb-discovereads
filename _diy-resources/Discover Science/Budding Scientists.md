@@ -248,25 +248,19 @@ Objective: To find out how different densities affect how liquids react with one
 <p>By having your child predict and record their observations, you are helping to develop their thinking process-thinking as they experiment, analyse, and draw conclusions.</p>
 
 <h4>LET'S READ!</h4><br>
-	<div class="col is-half">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
-		    <p><b> Rosa's Big Boat Experiment</b><br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-half">
+    <div class="image">
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+    </div>
+		<div class ="text">
+			<p><b> Rosa's Big Boat Experiment</b><br>
 					<u>Author & Illustrator:</u> Jessica Spanyol<br>
 					<u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
 					<u>Section:</u> Early Literacy Picture Books<br>
 					<u>Call Number:</u> English SPA</p>
-</div>
-	<div class="col is-half">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
-     <p><b> Boats Will Float</b><br>
-			<u>Author & Illustrator:</u> Andria Warmflash Rosenbaum & Brett Curzon<br>
-			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
-			<u>Section:</u> Early Literacy Picture Books<br>
-			<u>Call Number:</u> English ROS			
-</p>
-  </div>
-	<br>
-	<div class="col is-half">
+		</div></div>
+<div class="col is-half">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
 		    <p><b>Will It Float or Sink?</b><br>
@@ -274,17 +268,29 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 AMS
-	</p></div>
-	<div class="col is-half">
+	</p></div>	
+	<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-half">
+    <div class="image">
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
+    </div>
+		<div class ="text">
+			<p><b> Boats Will Float</b><br>
+			<u>Author & Illustrator:</u> Andria Warmflash Rosenbaum & Brett Curzon<br>
+			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+			<u>Section:</u> Early Literacy Picture Books<br>
+			<u>Call Number:</u> English ROS
+		</div></div>
+<div class="col is-half">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
-		    <p><b> Why Do Ice Cubes Float?</b><br>
+	<p><b> Why Do Ice Cubes Float?</b><br>
 					<u>Author:</u> Benjamin Proudfit<br>
 					<u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 PRO
-	</p></div>
-		<p>All book covers are copyright of the respectivve publishing companies.</p>
+	</p></div>	
+		<p>All book covers are copyright of the respective publishing companies.</p>
 		
 <h5>TRY THIS!</h5><br>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.

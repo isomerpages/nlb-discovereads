@@ -273,7 +273,7 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Author:</u> Lisa J. Amstutz<br>
 					<u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
 	</p></div>
-		</div>
+		</div></div>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-half">
     <div class="image">

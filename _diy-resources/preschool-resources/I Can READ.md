@@ -71,7 +71,7 @@ A spring-themed board book that includes Easter eggs, bunnies, chicks, and more 
 
 <img src="/images/diyresources/preschool/i-can-read/0-12%20months%20.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/0-12%20months%20activity.pdf) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/0-12%20months%20activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 
@@ -128,7 +128,7 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 
 <img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/1-3%20years%20old%20activity.pdf) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/1-3%20years%20old%20activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 <br>
@@ -184,9 +184,9 @@ Ladybug is so lazy that she doesn't know how to fly. She wants to find a new pla
 <br>
 **Try this at Home!**
 	<br><br>
-<img src="/images/diyresources/preschool/i-can-read/4to6activity.PNG" style="width:70%">
+<img src="/images/diyresources/preschool/i-can-read/4-6%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/4to6activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/4-6%20years%20old%20activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 	

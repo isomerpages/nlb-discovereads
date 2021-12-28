@@ -246,3 +246,6 @@ Objective: To find out how different densities affect how liquids react with one
     </div>
   </div>
 </div>
+<h5>Tip for parents:</h5>
+
+By having your child predict and record their observations, this develops their thinking process-thinking as they experiment, analyse, and draw conclusions.

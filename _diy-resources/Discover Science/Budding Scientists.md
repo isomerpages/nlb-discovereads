@@ -157,10 +157,8 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 	<br>
 
 *Definition from https://kids.kiddle.co/Density*
-</p>
- 
 
-Use these [printables](/files/science-lfa/density/Density_Explanation%20Printables.pdf) to further explain density to your child!
+Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
 
 <div class="horizontal-scroll margin--bottom--lg">
   <table class="generic-table">

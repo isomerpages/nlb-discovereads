@@ -4,8 +4,6 @@ permalink: /diy-resources/Budding-Scientists/permalink
 description: ""
 third_nav_title: Discover Science
 ---
-
-
 ![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
 
 ****new!** <a href="#lp-time">It's Time to Learn about Time</a>
@@ -121,13 +119,13 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 <h4>LET'S FIND THESE AT THE LIBRARIES</h4> 
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280240712/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:300px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=32076852" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a>
  
 <p>Title: Usborne Lift-the-Flap: Telling the Time<br>
 Author: Rosie Hore and Shaw Nielsen<br>
 Publisher: London : Usborne, 2016</p>
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280246140/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:300px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=36997756" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a>
 
 <p>Title: Measuring Time<br>	
 Author: Meg Gaertner<br>

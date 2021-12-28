@@ -165,8 +165,6 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 		<p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
   </div>
 </div>
-<br>
-<br>
 <div class="generic-table">
   <table class="generic-table">
     <thead>

@@ -6,7 +6,7 @@ third_nav_title: Discover Science
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Discover%20Science_ER%20Logo.png)
 
-<h4>Welcome Budding Scientists and Budding Engineers!</h4>
+<h3>Welcome Budding Scientists and Budding Engineers!</h3>
 
 <p>Science exists in everything around us and helps us understand the world better. The pursuit of scientific knowledge also encourages curiosity, growth, and a persevering attitude that can translate to other aspects of life. There's no such thing as an experiment that succeeds the first time round!</p>
 
@@ -14,6 +14,10 @@ third_nav_title: Discover Science
 
 <p>Click on the banners below and embark on a fun, fulfilling Science journey!</p>
 
+<h4>Budding Scientists</h4>
+
 <a href="https://childrenandteens.nlb.gov.sg/diy-resources/Budding-Scientists/permalink" target="_blank"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
+
+<h4>Budding Engineers</h4>
 
 <a href="https://childrenandteens.nlb.gov.sg/diy-resources/Budding-Engineers/permalink" target="_blank"><img src="/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png" style="width:250px; text-align:left;"></a>

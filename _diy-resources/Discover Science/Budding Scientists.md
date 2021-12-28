@@ -177,25 +177,25 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
         <td style="width: 20%; font-size:20px"><b> Liquid</b></td>
         <td style="width: 80%; font-size:20px"> <b>Liquids</b> do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are <b>liquids</b>. </td> </tr>
 <tr>
-        <td><b>Solid</b></td>
- <td> <b>Solids</b> have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a <b>solid</b>. 
+        <td style="width: 20%; font-size:20px"><b>Solid</b></td>
+ <td style="width: 80%; font-size:20px"> <b>Solids</b> have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a <b>solid</b>. 
 </td>
       </tr>
 <tr>
-        <td><b>Float</b></td>
-        <td> Let’s put this pencil into water. Do you see that it <b>floats</b> on water? </td>
+        <td style="width: 20%; font-size:20px"><b>Float</b></td>
+        <td style="width: 80%; font-size:20px"> Let’s put this pencil into water. Do you see that it <b>floats</b> on water? </td>
 </tr>
 <tr>
-        <td><b>Sink</b></td>
-        <td>Try putting this coin into water. It <b>sinks</b> all the way to the bottom!</td>
+        <td style="width: 20%; font-size:20px"><b>Sink</b></td>
+        <td style="width: 80%; font-size:20px">Try putting this coin into water. It <b>sinks</b> all the way to the bottom!</td>
       </tr>	
 <tr>
-<td><b>Molecules</b></td>
-<td> <b>Molecules</b> are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. </td>
+<td style="width: 20%; font-size:20px"><b>Molecules</b></td>
+<td style="width: 80%; font-size:20px"> <b>Molecules</b> are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. </td>
 </tr>
 <tr>
-<td><b>Density</b></td>
-<td> The <b>density</b> of an object depends on how many molecules make up the object. </td>
+<td style="width: 20%; font-size:20px"><b>Density</b></td>
+<td style="width: 80%; font-size:20px"> The <b>density</b> of an object depends on how many molecules make up the object. </td>
 			</tr></tbody></table></div>
 	
 <h5>Tips for Parents:</h5> 

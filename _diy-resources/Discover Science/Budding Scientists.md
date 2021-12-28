@@ -234,7 +234,7 @@ Objective: To find out how different densities affect how liquids react with one
 2.	In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
 3.	Pour the bowl of oil and food colouring into the bottle of water. <br>
 4.	Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!<br>
-5.	(Optional) Print out the Observations sheet to go through and record the observations with your child. 
+5.	(Optional) Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf">Observations Table</a> to go through and record the observations with your child. 
 </p>
   </div>
   <div class="col is-two-fifths">

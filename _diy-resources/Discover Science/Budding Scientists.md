@@ -6,7 +6,7 @@ third_nav_title: Discover Science
 ---
 ![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
  
-<h3 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
 <img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">

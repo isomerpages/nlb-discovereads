@@ -159,8 +159,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
     </div>
   </div>
 	<div class="col is-three-fifths">
-    <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><br>
-			<i>Definition from <a>https://kids.kiddle.co/Density</a></i>
+    <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Definition from <a>https://kids.kiddle.co/Density</a>)</i>
 </p>
 		<p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
   </div>

@@ -125,7 +125,7 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 Author: Rosie Hore and Shaw Nielsen<br>
 Publisher: London : Usborne, 2016</p>
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=35582790" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280307235/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a>
 
 <p>Title: Measuring Time<br>	
 Author: Meg Gaertner<br>

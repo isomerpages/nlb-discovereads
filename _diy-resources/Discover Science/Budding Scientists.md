@@ -140,7 +140,7 @@ Author: Julie Murray<br>
 Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</p>
 <br>
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=33554253" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280308965/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:250px; text-align:left;"></a>
 <br>
 
 <p>Title: I Know About Telling Time<br>

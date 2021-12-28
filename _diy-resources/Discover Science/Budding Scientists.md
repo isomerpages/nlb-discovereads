@@ -249,15 +249,13 @@ By having your child predict and record their observations, you are helping to d
 
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-half">
-    <p><b> Steps</b><br>
-1.	Fill the bottle with water. <br>
-2.	In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
-3.	Pour the bowl of oil and food colouring into the bottle of water. <br>
-4.	Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!<br>
-			5.	<i>(Optional)</i> Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf">Observations Table</a> to go through and record the observations with your child. 
+   <div class="image">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;">
+		</div></div>
+	<div class="col is-half">
+    <p><b> Rosa's Big Boat Experiment</b><br>
+Author & Illustrator: Jessica Spanyol
+Publisher: Swindon: Child's Play (International), 2020
 </p>
   </div>
-  <div class="col is-two-fifths">
-    Step 2<div class="image">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png" style="width:400px; text-align:left;">
-    </div>
+  

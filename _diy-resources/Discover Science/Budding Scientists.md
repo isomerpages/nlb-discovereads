@@ -254,47 +254,49 @@ Objective: To find out how different densities affect how liquids react with one
 
 <h4>LET'S READ!</h4><br>
 <div class="row is-multiline margin--bottom--lg">
-  <div class="col is-half">
-    <div class="image">
+ <div class="col is-half">
+   <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
     </div>
-		<div class="text">
-			<p><b> Rosa's Big Boat Experiment</b><br>
-					<u>Author &amp; Illustrator:</u> Jessica Spanyol<br>
-					<u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
-		</div></div>
-<div class="col">
-<div class="image">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
-	</div>
-	<div class="text">
-		    <p><b>Will It Float or Sink?</b><br>
-					<u>Author:</u> Lisa J. Amstutz<br>
-					<u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
-	</p></div>
-		</div></div>
+   <div class="text">
+      <p><b> Rosa's Big Boat Experiment</b><br>
+      <u>Author &amp; Illustrator:</u> Jessica Spanyol<br>
+      <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
+   </p></div>
+        </div>
+ <div class="col">
+   <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
+   </div>
+   <div class="text">
+       <p><b>Will It Float or Sink?</b><br>
+       <u>Author:</u> Lisa J. Amstutz<br>
+       <u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
+    </p></div>
+ </div>
+</div>
+
 <div class="row is-multiline margin--bottom--lg">
-  <div class="col is-half">
-    <div class="image">
+ <div class="col is-half">
+   <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
     </div>
-		<div class="text">
-			<p><b> Boats Will Float</b><br>
-			<u>Author &amp; Illustrator:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon<br>
-			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
-		</div></div>
-<div class="col">
-<div class="image">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
-	</div>
-	<div class="text">
-		    <p><b> Why Do Ice Cubes Float?</b><br>
-					<u>Author:</u> Benjamin Proudfit<br>
-					<u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
+   <div class="text">
+      <p><b> Boats Will Float</b><br>
+      <u>Author &amp; Illustrator:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon<br>
+      <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+      </p></div>
+  </div>
+ <div class="col">
+   <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
+   </div>
+   <p><b> Why Do Ice Cubes Float?</b><br>
+   <u>Author:</u> Benjamin Proudfit<br>
+   <u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
 	</p></div>
-	</div></div>
+ </div>
+</div>
 	<p>All book covers are copyright of the respective publishing companies.</p></div>
 <h5>TRY THIS!</h5>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.

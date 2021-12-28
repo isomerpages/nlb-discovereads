@@ -12,5 +12,4 @@ third_nav_title: Discover Science
 
 <p>Studying Science can continue beyond school. Through our curated resources and packages, join us in discovering the beauty of Science in our everyday lives. Re-discover the world around us through newfound lens while having fun along the way.</p>
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202746559" target="_blank"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
-
+<a href="https://childrenandteens.nlb.gov.sg/diy-resources/Budding-Scientists/permalink" target="_blank"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>

@@ -1,4 +1,5 @@
 collections:
   discover-science:
     output: true
-    order: []
+    order:
+      - Budding Scientists/.keep

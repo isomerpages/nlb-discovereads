@@ -142,6 +142,7 @@ Author: Richard Little<br>
 Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 
 [Back to top](#main-content)
+{: .has-text-right .margin--top--xl}
 
 <br>
 <h3 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>

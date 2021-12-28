@@ -262,17 +262,16 @@ Call Number: English SPA
 	<div class="col is-half">
 <div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
+      <img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
 </p>
   </div>
     <p><b> Boats Will Float</b><br>
-Author & Illustrator: Andria Warmflash Rosenbaum & Brett Curzon<br>
-Publisher: Ann Arbor, MI: Sleeping Bear Press, 2020<br>
-Section: Early Literacy Picture Books
-Call Number: English ROS			
+			<u>Author & Illustrator:</u> Andria Warmflash Rosenbaum & Brett Curzon<br>
+			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+			<u>Section:</u> Early Literacy Picture Books<br>
+			<u>Call Number:</u> English ROS			
 </p>
   </div>
-	
 	<div class="row is-multiline margin--bottom--lg">
 	<div class="col is-half">
    <div class="image">

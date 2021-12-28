@@ -26,7 +26,7 @@ third_nav_title: Preschool Resources
 	
 <h4>LET'S READ!</h4>
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/279479481/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280242399/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
 
 <p>Title: Fix that Clock!<br>
 Author: Kurt Cyrus<br>

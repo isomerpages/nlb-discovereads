@@ -6,7 +6,7 @@ third_nav_title: Discover Science
 ---
 ![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
 
-****new!** <a href="#lp-time">It's Time to Learn about Time</a>
+****new!** <a href="#lp-time">It's Time to Learn about Time</a>****new!** <a href="#lp-density">Fireworks in a Bottle</a>
 
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
@@ -147,7 +147,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 {: .has-text-right .margin--top--xl}
 
 <br>
-<h3 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
+<h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? In this package, introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!<p>
 <h4>Let’s Talk About:</h4>

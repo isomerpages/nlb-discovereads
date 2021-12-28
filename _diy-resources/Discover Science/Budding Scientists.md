@@ -171,31 +171,31 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
   <table class="generic-table">
     <thead>
       <tr>
-        <th class="has-weight-normal" colspan="4">Try to introduce these words to your child throughout the session! Here are some example sentences to incorporate:</th>
+        <th class="has-weight-normal" colspan="4" style=font-size:20px>Try to introduce these words to your child throughout the session! Here are some example sentences to incorporate:</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr style=font-size:20px>
         <td style="width: 20%;"><b> Liquid</b></td>
         <td style="width: 80%;"> <b>Liquids</b> do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are <b>liquids</b>. </td> </tr>
-<tr>
+<tr style=font-size:20px>
         <td><b>Solid</b></td>
  <td> <b>Solids</b> have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a <b>solid</b>. 
 </td>
       </tr>
-<tr>
+<tr style=font-size:20px>
         <td><b>Float</b></td>
         <td> Let’s put this pencil into water. Do you see that it <b>floats</b> on water? </td>
 </tr>
-<tr>
+<tr style=font-size:20px>
         <td><b>Sink</b></td>
         <td>Try putting this coin into water. It <b>sinks</b> all the way to the bottom!</td>
       </tr>	
-<tr>
+<tr style=font-size:20px>
 <td><b>Molecules</b></td>
 <td> <b>Molecules</b> are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. </td>
 </tr>
-<tr>
+<tr style=font-size:20px>
 <td><b>Density</b></td>
 <td> The <b>density</b> of an object depends on how many molecules make up the object. </td>
 			</tr></tbody></table></div>

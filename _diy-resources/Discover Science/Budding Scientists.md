@@ -220,3 +220,10 @@ In this 2-minute video, learn more about what density is and how it affects obje
 Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?</p>
   </div>
 </div>
+<h4>LET’S INVESTIGATE!</h4>
+
+<b>Experiment time!</b><br>
+Objective: To find out how different densities affect how liquids react with one another. 
+<br><br><b>What materials do I need?</b>
+
+![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png)

@@ -191,7 +191,8 @@ Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.p
 <tr>
 <td><b>Density</b></td>
 <td> The <b>density</b> of an object depends on how many molecules make up the object. </td>
-</tr></table></div>
+</tr></div>
+	
 <h5>Tips for Parents:</h5> 
 <p> Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.</p>
 <h4>LET'S WATCH!</h4><br>

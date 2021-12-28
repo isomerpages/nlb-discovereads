@@ -245,27 +245,22 @@ Objective: To find out how different densities affect how liquids react with one
 
 <h5>Tip for parents:</h5>
 
-By having your child predict and record their observations, you are helping to develop their thinking process-thinking as they experiment, analyse, and draw conclusions.
+<p>By having your child predict and record their observations, you are helping to develop their thinking process-thinking as they experiment, analyse, and draw conclusions.</p>
 
 <h4>LET'S READ!</h4><br>
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-half">
-   <div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
 		    <p><b> Rosa's Big Boat Experiment</b><br>
 					<u>Author & Illustrator:</u> Jessica Spanyol<br>
 					<u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
 					<u>Section:</u> Early Literacy Picture Books<br>
-					<u>Call Number:</u> English SPA
-		</div></div>
+					<u>Call Number:</u> English SPA</div>
 	<div class="col is-half">
-<div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank">
       <img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
-</p>
-  </div>
-    <p><b> Boats Will Float</b><br>
+     <p><b> Boats Will Float</b><br>
 			<u>Author & Illustrator:</u> Andria Warmflash Rosenbaum & Brett Curzon<br>
 			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
 			<u>Section:</u> Early Literacy Picture Books<br>

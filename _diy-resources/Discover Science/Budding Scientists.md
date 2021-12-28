@@ -150,6 +150,65 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 <h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
 <p><b>Suitable for 4 to 6 years old</b></p>
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? In this package, introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!<p>
-<h4>Let’s Talk About:</h4>
-<p><b>DENSITY</p></b>
-<p>Density is a measurement that compares the amount of matter an object as to its volume.</p>
+	
+<h4> LET’S LEARN</h4>
+
+Use these [printables](/files/science-lfa/density/Density_Explanation%20Printables.pdf) to further explain density to your child!
+
+<div class="horizontal-scroll margin--bottom--lg">
+  <table class="generic-table">
+    <thead>
+      <tr>
+        <th colspan="4" class="has-weight-normal">Try to introduce these words to your child throughout the session! Here are some example sentences to incorporate:</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 20%;"><b> Liquid</b></td>
+        <td style="width: 80%;"> <b>Liquids</b> do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are <b>liquids</b>. </td> </tr>
+<tr>
+        <td><b>Solid</b></a></td>
+ <td> <b>Solids</b> have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a <b>solid</b>. 
+</td>
+      </tr>
+<tr>
+        <td><b>Float</b></td>
+        <td> Let’s put this pencil into water. Do you see that it <b>floats</b> on water? </td>
+</tr>
+<tr>
+        <td><b>Sink</b></td>
+        <td>Try butting this coin into water. It <b>sinks</b> all the way to the bottom!</td>
+      </tr>	
+<tr>
+<td><b>Molecules</b></td>
+<td> <b>Molecules</b> are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. </td>
+</tr>
+<tr>
+<td><b>Density</b></td>
+<td> The <b>density</b> of an object depends on how many molecules make up the object. </td>
+</tr></table></div>
+<h5>Tips for Parents:</h5> 
+<p> Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.</p>
+<h4>LET'S WATCH!</h4><br>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/embed/1HJkEVOZbTM" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> What is Density? | Science for Kids (1 min 57 secs) </b><br>
+In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size!</p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/embed/GuLlRoG6ahc" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How to Make Salt or Sugar Water Density Rainbow Tower | Simple Kids Science (1 min 49 secs) </b><br>
+Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?</p>
+  </div>
+</div>

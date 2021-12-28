@@ -26,7 +26,7 @@ third_nav_title: Discover Science
 	
 <h4>LET'S READ!</h4>
 
-<a href=" https://eservice.nlb.gov.sg/item_holding.aspx?bid=202746559" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202746559" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
 
 <p>Title: Fix that Clock!<br>
 Author: Kurt Cyrus<br>

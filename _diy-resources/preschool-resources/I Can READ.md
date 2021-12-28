@@ -126,9 +126,9 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 
 **Try this at Home!**
 
-<img src="/images/diyresources/preschool/i-can-read/1to3activity.png" style="width:70%">
+<img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/1-3%20years%20old%20activity.pdf) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 <br>

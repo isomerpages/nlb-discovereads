@@ -310,4 +310,6 @@ Objective: To find out how different densities affect how liquids react with one
 <br><br>
 <i>Explanation: Air has <b>lower density</b> than water, so all the air trapped in the float helps the float to, well stay afloat!</i>
 </p><br>
-	<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+	[Back to top](#main-content)
+{: .has-text-right .margin--top--xl}

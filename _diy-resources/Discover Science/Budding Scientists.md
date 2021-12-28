@@ -132,7 +132,7 @@ Author: Meg Gaertner<br>
 Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]</p>
 <br>
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=35338639" target="_blank"><img src="/images/Time.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280307674/329826110,2" target="_blank"><img src="/images/Time.png" style="width:250px; text-align:left;"></a>
 <br>
 
 <p>Title: Time<br>

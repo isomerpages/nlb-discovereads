@@ -272,10 +272,11 @@ Section: Early Literacy Picture Books
 Call Number: English ROS			
 </p>
   </div>
+	
 	<div class="row is-multiline margin--bottom--lg">
 	<div class="col is-half">
    <div class="image">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
 		    <p><b> Rosa's Big Boat Experiment</b><br>
 Author & Illustrator: Jessica Spanyol<br>

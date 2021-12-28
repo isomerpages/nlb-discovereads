@@ -2,6 +2,7 @@ collections:
   diy-resources:
     output: true
     order:
+      - Discover Science/Discover Science.md
       - Discover Science/.keep
       - d-i-y-resources.md
       - preschool-resources/.keep

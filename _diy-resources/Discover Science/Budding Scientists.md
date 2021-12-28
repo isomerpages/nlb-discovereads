@@ -119,7 +119,7 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 
 <h4>LET'S FIND THESE AT THE LIBRARIES</h4> 
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=32076852" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280306613/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a>
  
 <p>Title: Usborne Lift-the-Flap: Telling the Time<br>
 Author: Rosie Hore and Shaw Nielsen<br>

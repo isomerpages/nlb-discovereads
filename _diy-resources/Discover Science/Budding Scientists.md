@@ -298,7 +298,7 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 PRO
 	</p></div>
-	</div>
+	</div></div>
 	<p>All book covers are copyright of the respective publishing companies.</p>
 		
 <h5>TRY THIS!</h5><br>

@@ -249,14 +249,37 @@ By having your child predict and record their observations, you are helping to d
 
 <h4>LET'S READ!</h4><br>
 <div class="row is-multiline margin--bottom--lg">
-	<div class="col is-two-fifths">
+	<div class="col is-half">
    <div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+		    <p><b> Rosa's Big Boat Experiment</b><br>
+Author & Illustrator: Jessica Spanyol<br>
+Publisher: Swindon: Child's Play (International), 2020<br>
+Section: Early Literacy Picture Books<br>
+Call Number: English SPA
 		</div></div>
-	<div class="col is-three-fifths">
-    <p><b> Rosa's Big Boat Experiment</b><br>
-Author & Illustrator: Jessica Spanyol
-Publisher: Swindon: Child's Play (International), 2020
+	<div class="col is-half">
+<div class="image">
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
 </p>
   </div>
+    <p><b> Boats Will Float</b><br>
+Author & Illustrator: Andria Warmflash Rosenbaum & Brett Curzon<br>
+Publisher: Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+Section: Early Literacy Picture Books
+Call Number: English ROS			
+</p>
+  </div>
+	<div class="row is-multiline margin--bottom--lg">
+	<div class="col is-half">
+   <div class="image">
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+		    <p><b> Rosa's Big Boat Experiment</b><br>
+Author & Illustrator: Jessica Spanyol<br>
+Publisher: Swindon: Child's Play (International), 2020<br>
+Section: Early Literacy Picture Books<br>
+Call Number: English SPA
+		</div></div>

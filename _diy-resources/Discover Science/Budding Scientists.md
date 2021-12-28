@@ -4,8 +4,6 @@ permalink: /diy-resources/preschool-resources/buddingscientists
 description: ""
 third_nav_title: Discover Science
 ---
-
-
 ![Discover Science](/images/diyresources/preschool/discover-science/Discover%20Science%20Banner.png)
  
 <h3 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h3>

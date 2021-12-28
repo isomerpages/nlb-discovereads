@@ -254,14 +254,14 @@ By having your child predict and record their observations, you are helping to d
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
 		    <p><b> Rosa's Big Boat Experiment</b><br>
-Author & Illustrator: Jessica Spanyol<br>
-Publisher: Swindon: Child's Play (International), 2020<br>
-Section: Early Literacy Picture Books<br>
-Call Number: English SPA
+					<u>Author & Illustrator:</u> Jessica Spanyol<br>
+					<u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
+					<u>Section:</u> Early Literacy Picture Books<br>
+					<u>Call Number:</u> English SPA
 		</div></div>
 	<div class="col is-half">
 <div class="image">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank">
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank">
       <img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
 </p>
   </div>

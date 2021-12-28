@@ -125,20 +125,24 @@ Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Co
 Author: Rosie Hore and Shaw Nielsen<br>
 Publisher: London : Usborne, 2016</p>
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=36997756" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=35582790" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a>
 
 <p>Title: Measuring Time<br>	
 Author: Meg Gaertner<br>
 Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]</p>
 <br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280241501/329826110,2" target="_blank"><img src="/images/Time.png" style="width:300px; text-align:left;"></a>
+
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=35338639" target="_blank"><img src="/images/Time.png" style="width:250px; text-align:left;"></a>
 <br>
+
 <p>Title: Time<br>
 Author: Julie Murray<br>
 Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</p>
 <br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280241668/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:300px; text-align:left;"></a>
+
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=33554253" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:250px; text-align:left;"></a>
 <br>
+
 <p>Title: I Know About Telling Time<br>
 Author: Richard Little<br>
 Publisher: New York : Gareth Stevens Publishing, [2018]</p>

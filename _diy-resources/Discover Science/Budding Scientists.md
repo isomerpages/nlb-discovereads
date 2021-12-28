@@ -152,8 +152,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? In this package, introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!<p>
 	
 <h4> LET’S LEARN</h4>
-
-![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png)
+<img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
 <p>Density is a measurement that compares the amount of matter an object as to its volume.
 	<br>
 
@@ -175,7 +174,7 @@ Use these [printables](/files/science-lfa/density/Density_Explanation%20Printabl
         <td style="width: 20%;"><b> Liquid</b></td>
         <td style="width: 80%;"> <b>Liquids</b> do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are <b>liquids</b>. </td> </tr>
 <tr>
-        <td><b>Solid</b></a></td>
+        <td><b>Solid</b></td>
  <td> <b>Solids</b> have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a <b>solid</b>. 
 </td>
       </tr>

@@ -269,7 +269,6 @@ Objective: To find out how different densities affect how liquids react with one
   </div>
 	<div class="row is-multiline margin--bottom--lg">
 	<div class="col is-half">
-   <div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
 		    <p><b>Will It Float or Sink?</b><br>
@@ -277,9 +276,8 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 AMS
-		</div></div>
+		</div>
 	<div class="col is-half">
-   <div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
 		    <p><b> Why Do Ice Cubes Float?</b><br>
@@ -287,4 +285,4 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 PRO
-		</div></div>
+		</div>

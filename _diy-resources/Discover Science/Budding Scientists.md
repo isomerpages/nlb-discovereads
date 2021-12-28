@@ -159,7 +159,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 
 Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
 
-<div>
+<div class="generic-table">
   <table class="generic-table">
     <thead>
       <tr>
@@ -190,7 +190,7 @@ Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.p
 <tr>
 <td><b>Density</b></td>
 <td> The <b>density</b> of an object depends on how many molecules make up the object. </td>
-			</tr></tbody>
+			</tr></tbody></div>
 	
 <h5>Tips for Parents:</h5> 
 <p> Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.</p>

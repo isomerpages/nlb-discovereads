@@ -4,8 +4,6 @@ permalink: /diy-resources/Budding-Scientists/permalink
 description: ""
 third_nav_title: Discover Science
 ---
-
-
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 
 ****new!** <a href="#lp-time">It's Time to Learn about Time</a>****new!** <a href="#lp-density">Fireworks in a Bottle</a>
@@ -30,7 +28,7 @@ third_nav_title: Discover Science
 	
 <h4>LET'S READ!</h4>
 
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202746559" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+<a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=35420935" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
 
 <p>Title: Fix that Clock!<br>
 Author: Kurt Cyrus<br>

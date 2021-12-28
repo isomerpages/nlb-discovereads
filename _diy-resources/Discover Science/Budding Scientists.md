@@ -161,7 +161,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 	<div class="col is-three-fifths">
     <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Definition from <a>https://kids.kiddle.co/Density</a>)</i>
 </p>
-		<p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
+		<p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
   </div>
 </div>
 <div class="generic-table">
@@ -235,7 +235,7 @@ Objective: To find out how different densities affect how liquids react with one
 2.	In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
 3.	Pour the bowl of oil and food colouring into the bottle of water. <br>
 4.	Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!<br>
-			5.	<i>(Optional)</i> Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf">Observations Table</a> to go through and record the observations with your child. 
+			5.	<i>(Optional)</i> Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf" target="_blank">Observations Table</a> to go through and record the observations with your child. 
 </p>
   </div>
   <div class="col is-two-fifths">

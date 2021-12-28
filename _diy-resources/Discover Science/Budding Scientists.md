@@ -152,10 +152,10 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? In this package, introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!<p>
 	
 <h4> LET’S LEARN</h4>
-<img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
+      <img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
+  
 <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><br>
-
-Definition from https://kids.kiddle.co/Density <br><br>
+	Definition from https://kids.kiddle.co/Density
 
 Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
 

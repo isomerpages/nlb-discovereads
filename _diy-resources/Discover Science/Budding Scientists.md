@@ -241,10 +241,10 @@ Objective: To find out how different densities affect how liquids react with one
   </div>
   <div class="col is-two-fifths">
     Step 2<div class="image">
-      <img style="width:400px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png">
+      <img style="width:300px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png">
     </div>
     Step 4<div class="image">
-      <img style="width:400px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png">
+      <img style="width:300px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png">
     </div>
   </div>
 </div>

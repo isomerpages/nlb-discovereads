@@ -149,7 +149,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 <br>
 <h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
 <p><b>Suitable for 4 to 6 years old</b></p>
-<p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? In this package, introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!</p><p>
+<p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!</p><p>
 	
 </p><h4> LET’S LEARN</h4>
 <div class="row is-multiline margin--bottom--lg">
@@ -159,7 +159,7 @@ Publisher: New York : Gareth Stevens Publishing, [2018]</p>
     </div>
   </div>
 	<div class="col is-three-fifths">
-    <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Definition from <a>https://kids.kiddle.co/Density</a>)</i>
+    <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
 </p>
 		<p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
   </div>
@@ -262,8 +262,6 @@ Objective: To find out how different densities affect how liquids react with one
 			<p><b> Rosa's Big Boat Experiment</b><br>
 					<u>Author &amp; Illustrator:</u> Jessica Spanyol<br>
 					<u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
-					<u>Section:</u> Early Literacy Picture Books<br>
-					<u>Call Number:</u> English SPA</p>
 		</div></div>
 <div class="col">
 <div class="image">
@@ -274,8 +272,6 @@ Objective: To find out how different densities affect how liquids react with one
 		    <p><b>Will It Float or Sink?</b><br>
 					<u>Author:</u> Lisa J. Amstutz<br>
 					<u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
-					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
-					<u>Call Number:</u> English 532 AMS
 	</p></div>
 	</div>
 	
@@ -288,8 +284,6 @@ Objective: To find out how different densities affect how liquids react with one
 			<p><b> Boats Will Float</b><br>
 			<u>Author &amp; Illustrator:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon<br>
 			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
-			<u>Section:</u> Early Literacy Picture Books<br>
-				<u>Call Number:</u> English ROS</p>
 		</div></div>
 <div class="col">
 <div class="image">
@@ -300,8 +294,6 @@ Objective: To find out how different densities affect how liquids react with one
 		    <p><b> Why Do Ice Cubes Float?</b><br>
 					<u>Author:</u> Benjamin Proudfit<br>
 					<u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
-					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
-					<u>Call Number:</u> English 532 PRO
 	</p></div>
 	</div></div>
 	<p>All book covers are copyright of the respective publishing companies.</p></div>

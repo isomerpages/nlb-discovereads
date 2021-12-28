@@ -306,7 +306,7 @@ Objective: To find out how different densities affect how liquids react with one
 	</div></div>
 	<p>All book covers are copyright of the respective publishing companies.</p>
 <br>
-<h5>TRY THIS!</h5><br>
+<h5 style="text-align:left;">TRY THIS!</h5><br>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 <br><br>
 <i>Explanation: Air has <b>lower density</b> than water, so all the air trapped in the float helps the float to, well stay afloat!</i>

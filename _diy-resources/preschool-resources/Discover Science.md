@@ -142,8 +142,10 @@ Author: Richard Little<br>
 Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 
 [Back to top](#main-content)
-
 <br>
 <h3 class="margin--bottom--lg" id="lp-green-econ"><b>ABC's of ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? In this package, introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!<p>
+<h4>Let’s Talk About:</h4>
+<p><b>DENSITY</p></b>
+<p>Density is a measurement that compares the amount of matter an object as to its volume.</p>	

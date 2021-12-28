@@ -273,7 +273,8 @@ Objective: To find out how different densities affect how liquids react with one
 					<u>Call Number:</u> English 532 AMS
 	</p></div>
 	</div>
-	<div class="row is-multiline margin--bottom--lg">
+	
+<div class="row is-multiline margin--bottom--lg">
   <div class="col is-half">
     <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
@@ -283,7 +284,7 @@ Objective: To find out how different densities affect how liquids react with one
 			<u>Author & Illustrator:</u> Andria Warmflash Rosenbaum & Brett Curzon<br>
 			<u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
 			<u>Section:</u> Early Literacy Picture Books<br>
-			<u>Call Number:</u> English ROS
+				<u>Call Number:</u> English ROS</p>
 		</div></div>
 <div class="col">
 <div class ="image">
@@ -291,14 +292,14 @@ Objective: To find out how different densities affect how liquids react with one
       <img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
 	</div>
 	<div class="text">
-	<p><b> Why Do Ice Cubes Float?</b><br>
+		    <p><b> Why Do Ice Cubes Float?</b><br>
 					<u>Author:</u> Benjamin Proudfit<br>
 					<u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
 					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
 					<u>Call Number:</u> English 532 PRO
-	</p></div>	
-		</div>
-		<p>All book covers are copyright of the respective publishing companies.</p>
+	</p></div>
+	</div>
+	<p>All book covers are copyright of the respective publishing companies.</p>
 		
 <h5>TRY THIS!</h5><br>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.

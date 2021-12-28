@@ -275,7 +275,7 @@ By having your child predict and record their observations, you are helping to d
 	<div class="row is-multiline margin--bottom--lg">
 	<div class="col is-half">
    <div class="image">
-		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank">
+		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank">
       <img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
 		    <p><b>Will It Float or Sink?</b><br>
 					<u>Author:</u> Lisa J. Amstutz<br>

@@ -276,10 +276,10 @@ By having your child predict and record their observations, you are helping to d
 	<div class="col is-half">
    <div class="image">
 		 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank">
-      <img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
-		    <p><b> Rosa's Big Boat Experiment</b><br>
-Author & Illustrator: Jessica Spanyol<br>
-Publisher: Swindon: Child's Play (International), 2020<br>
-Section: Early Literacy Picture Books<br>
-Call Number: English SPA
+      <img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
+		    <p><b>Will It Float or Sink?</b><br>
+					<u>Author:</u> Lisa J. Amstutz<br>
+					<u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
+					<u>Section:</u> Early Literacy Picture Books / Non-Fiction<br>
+					<u>Call Number:</u> English 532 AMS
 		</div></div>

@@ -9,7 +9,7 @@ third_nav_title: Discover Science
 ****new!** <a href="#lp-time">It's Time to Learn about Time</a>****new!** <a href="#lp-density">Fireworks in a Bottle</a>
 
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids: It's Time to Learn about Time!</b></h3>
-<p><b>Suitable for 4 to 6 years old children</b></p>
+<p><b>Suitable for 4 to 6 years old</b></p>
 
 <img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
 

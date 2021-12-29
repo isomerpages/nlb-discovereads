@@ -130,8 +130,9 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 </div>
 
 <h4>LET'S READ MORE!</h4><br>
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-half">
+
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
     </div>
@@ -141,7 +142,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
       <u>Publisher:</u> London : Usborne, 2016<br>
    </p></div>
         </div>
- <div class="col is-half">
+ <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
    </div>
@@ -152,8 +153,8 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
     </p></div>
  </div>
 </div>
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-half">
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
     </div>
@@ -163,7 +164,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
       <u>Publisher:</u> Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]<br>
       </p></div>
   </div>
- <div class="col">
+<div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
    </div> 
@@ -172,7 +173,8 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
      <u>Author:</u> Richard Little<br>
 		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2018<br>
 	</p></div>
- </div><p>All book covers are copyright of the respective publishing companies.</p><br>
+ </div>
+	</div><p>All book covers are copyright of the respective publishing companies.</p><br>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

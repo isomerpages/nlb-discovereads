@@ -327,7 +327,6 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 	</p></div>
  </div><p>All book covers are copyright of the respective publishing companies.</p>
 
-	
 <h5>LET'S TRY THIS AT HOME!</h5>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 <br>

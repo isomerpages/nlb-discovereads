@@ -57,7 +57,7 @@ third_nav_title: Discover Science
 <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
-<p>Download the printable below and paste it up somewhere so your child will always remember the values of hours and minutes.</p>
+<p>Download the printable below and paste it up somewhere to help your child remember the values of hours and minutes.</p>
 
 <a href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf" target="_blank">Learning With Your Handmade Clock</a><br>
 

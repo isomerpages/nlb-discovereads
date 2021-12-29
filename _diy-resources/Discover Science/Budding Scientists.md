@@ -141,7 +141,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
       <u>Publisher:</u> London : Usborne, 2016<br>
    </p></div>
         </div>
- <div class="col">
+ <div class="col is-half">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
    </div>

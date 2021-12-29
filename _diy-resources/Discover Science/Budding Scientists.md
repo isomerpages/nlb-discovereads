@@ -45,9 +45,7 @@ third_nav_title: Discover Science
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
 <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
 
-[Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
-
- <a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a>
+<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a>
 
 <h5>Instructions</h5>
 <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
@@ -61,7 +59,7 @@ third_nav_title: Discover Science
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
 <p>Download the printable below and paste it up somewhere so your child will always remember the values of hours and minutes.</p>
 
-[Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf)
+<a href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf" target="_blank">Learning With Your Handmade Clock</a>
 
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 

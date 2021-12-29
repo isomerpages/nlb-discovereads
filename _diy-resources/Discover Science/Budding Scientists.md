@@ -248,7 +248,7 @@ Objective: To find out how different densities affect how liquids react with one
   </div>
 </div>
 
-<h5>Tip for parents:</h5>
+<h5>Tip for Parents:</h5>
 
 <p>By having your child predict and record their observations, you are helping to develop their process-thinking as they experiment, analyse, and draw conclusions.</p>
 
@@ -260,7 +260,7 @@ Objective: To find out how different densities affect how liquids react with one
     </div>
    <div class="text">
       <p><b> Rosa's Big Boat Experiment</b><br>
-      <u>Author &amp; Illustrator:</u> Jessica Spanyol<br>
+      <u>Author:</u> Jessica Spanyol<br>
       <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
    </p></div>
         </div>
@@ -283,7 +283,7 @@ Objective: To find out how different densities affect how liquids react with one
     </div>
    <div class="text">
       <p><b> Boats Will Float</b><br>
-      <u>Author &amp; Illustrator:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon<br>
+      <u>Author:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon (Illustrator)<br>
       <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
       </p></div>
   </div>
@@ -296,7 +296,7 @@ Objective: To find out how different densities affect how liquids react with one
    <u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
 	</p></div>
  </div><p>All book covers are copyright of the respective publishing companies.</p>
-<h5>TRY THIS!</h5>
+<h5>LET'S TRY THIS AT HOME!</h5>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 <br><br>
 <i>Explanation: Air has <b>lower density</b> than water, so all the air trapped in the float helps the float to, well stay afloat!</i>

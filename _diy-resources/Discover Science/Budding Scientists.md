@@ -199,7 +199,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   <table class="generic-table">
     <thead>
       <tr>
-        <th style="font-size:20px" colspan="4" class="has-weight-normal">Try to introduce these words to your child throughout the session! Here are some example sentences to incorporate:</th>
+        <th style="font-size:20px" colspan="4" class="has-weight-normal">Try introducing these words to your child! Here are some example sentences to incorporate:</th>
       </tr>
     </thead>
     <tbody>

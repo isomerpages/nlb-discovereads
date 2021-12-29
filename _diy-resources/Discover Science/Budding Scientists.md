@@ -308,7 +308,7 @@ Objective: To find out how different densities affect how liquids react with one
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646187/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Boats Will Float</b><br>

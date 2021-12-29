@@ -148,8 +148,8 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
    </div>
    <div class="text">
        <p><b>Measuring Time</b><br>
-       <u>Author:</u> Lisa J. Amstutz<br>
-       <u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
+       <u>Author:</u> Meg Gaertner<br>
+       <u>Publisher:</u> Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]<br>
     </p></div>
  </div>
 </div>

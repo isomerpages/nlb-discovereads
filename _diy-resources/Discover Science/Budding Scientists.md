@@ -160,7 +160,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
    <div class="text">
       <p><b> Time</b><br>
       <u>Author:</u> Julie Murray<br>
-      <u>Publisher:</u> Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</<br>
+      <u>Publisher:</u> Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]<br>
       </p></div>
   </div>
  <div class="col">

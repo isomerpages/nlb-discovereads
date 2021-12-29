@@ -47,6 +47,8 @@ third_nav_title: Discover Science
 
 [Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
 
+ <a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a>
+
 <h5>Instructions</h5>
 <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
 <p>2. Cut out the circles and clock hands from the template prepared.</p>

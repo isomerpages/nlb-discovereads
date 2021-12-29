@@ -89,7 +89,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 	
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. </p>
 <p>4. Explain to your child that before clocks were invented, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
-<p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. </p><p>	
+<p>5. Have your child think more deeply by asking them how people told time during rainy or cloudy weather. </p><p>	
 </p><p>Note: Do remind your child to take breaks as prolonged staring at the sun may damage their eyes.</p>
 
 <h4>Activity 2: Analog vs Digital</h4>

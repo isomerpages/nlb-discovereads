@@ -50,7 +50,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <h5>Instructions</h5>
 <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
 <p>2. Cut out the circles and clock hands from the template prepared.</p>
-<p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you this. Have your child count along as you do this.</p> 
+<p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you do this.</p> 
 <p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>
 <h4>LET'S INVESTIGATE!</h4>
 <h5>Learning with your Handmade Clock</h5>

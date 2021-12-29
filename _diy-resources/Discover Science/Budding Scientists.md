@@ -45,7 +45,7 @@ third_nav_title: Discover Science
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
 <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
 
-<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a>
+<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
 
 <h5>Instructions</h5>
 <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
@@ -59,19 +59,19 @@ third_nav_title: Discover Science
 <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
 <p>Download the printable below and paste it up somewhere so your child will always remember the values of hours and minutes.</p>
 
-<a href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf" target="_blank">Learning With Your Handmade Clock</a>
+<a href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf" target="_blank">Learning With Your Handmade Clock</a><br>
 
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>
 <p>The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
 
-<a href="/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf" target="_blank">Different Times of the Day!</a>
+<a href="/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf" target="_blank">Different Times of the Day!</a><br>
 
 <p>The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?</p> 
 
-[Different Time Tellers!](/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf)
-<br>
+<a href="/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf" target="_blank">Different Time Tellers!</a><br>
+
 <p>Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!</p>
 <br>
 <img src="/images/Sundial.png" style="width:600px; text-align:left;">

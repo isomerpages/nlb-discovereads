@@ -257,7 +257,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 
 <b>Experiment time!</b></br>
 Objective: To find out how different densities affect how liquids react with one another. 
-<br><br><b>What materials do I need?</b></p>
+<p><b>What materials do I need?</b></p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-three-fifths">

@@ -43,7 +43,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;">
 
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
-<p>This crafting activity is simple and requires materials that can be found around the house. Download and print out the templates here to help you!</p>
+<p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
 
 [Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)
 

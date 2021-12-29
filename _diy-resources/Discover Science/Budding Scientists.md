@@ -172,7 +172,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
      <u>Author:</u> Richard Little<br>
 		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2018<br>
 	</p></div>
- </div><p>All book covers are copyright of the respective publishing companies.</p>
+ </div><p>All book covers are copyright of the respective publishing companies.</p><br>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

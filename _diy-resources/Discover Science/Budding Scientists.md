@@ -74,7 +74,7 @@ third_nav_title: Discover Science
 
 <p>Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!</p>
 <br>
-<img src="/images/Sundial.png" style="width:600px; text-align:left;">
+<img src="/images/Sundial.png" style="width:600px; text-align:left;"><br>
 <h4>LET'S TRY THESE AT HOME!</h4>
 <p>With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
 <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
@@ -85,8 +85,8 @@ third_nav_title: Discover Science
 <p>1. At around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
 	
-[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
-	
+<a href="/files/science-lfa/applied-physics-time/MyObservationTable.pdf" target="_blank">My Observation Table</a><br>
+
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. </p>
 <p>4. Explain to your child that before clocks were invented, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
 <p>5. Have your child think more deeply by asking them how people told time during rainy or cloudy weather. </p><p>	

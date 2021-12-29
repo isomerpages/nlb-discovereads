@@ -134,20 +134,20 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:400px; text-align:left;"></a>
     </div>
    <div class="text">
-      <p><b> Rosa's Big Boat Experiment</b><br>
-      <u>Author:</u> Jessica Spanyol<br>
-      <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
+      <p><b>Telling the Time</b><br>
+      <u>Author:</u> Rosie Hore and Shaw Nielsen (Illustrator)<br>
+      <u>Publisher:</u> London : Usborne, 2016<br>
    </p></div>
         </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:220px; text-align:left;"></a>
    </div>
    <div class="text">
-       <p><b>Will It Float or Sink?</b><br>
+       <p><b>Measuring Time</b><br>
        <u>Author:</u> Lisa J. Amstutz<br>
        <u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
     </p></div>

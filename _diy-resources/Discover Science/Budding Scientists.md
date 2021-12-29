@@ -275,7 +275,6 @@ Objective: To find out how different densities affect how liquids react with one
     </p></div>
  </div>
 </div>
-
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
@@ -290,10 +289,11 @@ Objective: To find out how different densities affect how liquids react with one
  <div class="col">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
-   </div>
-   <p><b>Why Do Ice Cubes Float?</b><br>
-   <u>Author:</u> Benjamin Proudfit<br>
-   <u>Publisher:</u> New York: Gareth Stevens Publishing, 2016<br>
+   </div> 
+   <div class="text">
+	 <p><b>Why Do Ice Cubes Float?</b><br>
+     <u>Author:</u> Benjamin Proudfit<br>
+		 <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
 	</p></div>
  </div><p>All book covers are copyright of the respective publishing companies.</p>
 <h5>LET'S TRY THIS AT HOME!</h5>

@@ -330,7 +330,7 @@ Objective: To find out how different densities affect how liquids react with one
  </div><p>All book covers are copyright of the respective publishing companies.</p>
 <h5>LET'S TRY THIS AT HOME!</h5>
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
-<br><br>
+<br>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}

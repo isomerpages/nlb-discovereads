@@ -265,7 +265,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-three-fifths">
-<br><p><b> Steps</b></br>
+<br><p><b> Steps</b><br>
 1.	Fill the bottle with water. <br>
 2.	In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
 3.	Pour the bowl of oil and food colouring into the bottle of water. <br>

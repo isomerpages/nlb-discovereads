@@ -66,7 +66,7 @@ third_nav_title: Discover Science
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>
 <p>The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
 
-[Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)
+<a href="/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf" target="_blank">Different Times of the Day!</a>
 
 <p>The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?</p> 
 

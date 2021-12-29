@@ -76,7 +76,7 @@ third_nav_title: Discover Science
 <br>
 <img src="/images/Sundial.png" style="width:600px; text-align:left;"><br>
 <h4>LET'S TRY THESE AT HOME!</h4>
-<p>With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
+<p>With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to supplement their reading.</p>
 <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
 <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
 

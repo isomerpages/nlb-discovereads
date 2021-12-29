@@ -330,6 +330,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
 	</p></div>
  </div>
+	</div>
 	<p>All book covers are copyright of the respective publishing companies.</p>
 
 <h5>LET'S TRY THIS AT HOME!</h5>

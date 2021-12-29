@@ -26,13 +26,13 @@ third_nav_title: Discover Science
 <h4>Tips for Parents:</h4> 
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
 	
-<h4>LET'S READ!</h4>
-
+<h4>LET'S READ!</h4><br>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280306378/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
 
-<p>Title: Fix that Clock!<br>
-Author: Kurt Cyrus<br>
-Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
+<p><b>Fix that Clock!</b><br>
+       <u>Author:</u> Kurt Cyrus<br>
+       <u>Publisher:</u> Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
+
 <h4>Tips for Parents:</h4>
 <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
 
@@ -129,7 +129,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   </div>
 </div>
 
-<h4>LET'S READ MORE!</h4> 
+<h4>LET'S READ MORE!</h4><br>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280306613/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a><br>
  
 <p>Title: Usborne Lift-the-Flap: Telling the Time<br>
@@ -153,6 +153,50 @@ Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids,
 <p>Title: I Know About Telling Time<br>
 Author: Richard Little<br>
 Publisher: New York : Gareth Stevens Publishing, [2018]</p>
+
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-half">
+   <div class="image">
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280367793/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+    </div>
+   <div class="text">
+      <p><b> Rosa's Big Boat Experiment</b><br>
+      <u>Author:</u> Jessica Spanyol<br>
+      <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
+   </p></div>
+        </div>
+ <div class="col">
+   <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280376480/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
+   </div>
+   <div class="text">
+       <p><b>Will It Float or Sink?</b><br>
+       <u>Author:</u> Lisa J. Amstutz<br>
+       <u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
+    </p></div>
+ </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-half">
+   <div class="image">
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280373177/334825844,2" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
+    </div>
+   <div class="text">
+      <p><b> Boats Will Float</b><br>
+      <u>Author:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon (Illustrator)<br>
+      <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+      </p></div>
+  </div>
+ <div class="col">
+   <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
+   </div> 
+   <div class="text">
+	 <p><b>Why Do Ice Cubes Float?</b><br>
+     <u>Author:</u> Benjamin Proudfit<br>
+		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
+	</p></div>
+ </div><p>All book covers are copyright of the respective publishing companies.</p>
 
 [Back to top](#main-content)
 {: .has-text-right .margin--top--xl}
@@ -313,4 +357,4 @@ Objective: To find out how different densities affect how liquids react with one
 <i>Explanation: Air has <b>lower density</b> than water, so all the air trapped in the float helps the float to, well stay afloat!</i>
 
 [Back to top](#main-content)
-{: .has-text-right .margin--top--xl} 
+{: .has-text-right .margin--top--xl}

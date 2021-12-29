@@ -64,7 +64,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>
-<p>The first activity we have will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
+<p>The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
 
 [Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)
 
@@ -76,19 +76,19 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 <br>
 <img src="/images/Sundial.png" style="width:600px; text-align:left;">
 <h4>LET'S TRY THESE AT HOME!</h4>
-<p>With a little bit of creativity and using objects found around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
+<p>With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to do to supplement their reading.</p>
 <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
 <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
 
 <img src="/images/TellingTimewiththeSun.png" style="width:400px; text-align:left;">
 
-<p>1. In the morning, at around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
+<p>1. At around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
 	
 [My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
 	
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. </p>
-<p>4. Explain to your child that before clocks, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
+<p>4. Explain to your child that before clocks were invented, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
 <p>5. Have your child think more deeply or discover more by asking them how people told time during rainy or cloudy weather. </p><p>	
 </p><p>Note: Do remind your child to take breaks as prolonged staring at the sun may damage their eyes.</p>
 

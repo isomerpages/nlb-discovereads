@@ -156,7 +156,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:400px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:300px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Time</b><br>
@@ -166,12 +166,12 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280378562/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:230px; text-align:left;"></a>
    </div> 
    <div class="text">
-	 <p><b>Why Do Ice Cubes Float?</b><br>
-     <u>Author:</u> Benjamin Proudfit<br>
-		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
+	 <p><b>I Know About Telling Time</b><br>
+     <u>Author:</u> Richard Little<br>
+		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2018<br>
 	</p></div>
  </div><p>All book covers are copyright of the respective publishing companies.</p>
 

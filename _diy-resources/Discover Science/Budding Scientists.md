@@ -133,7 +133,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b>Telling the Time</b><br>
@@ -143,7 +143,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
         </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
    </div>
    <div class="text">
        <p><b>Measuring Time</b><br>
@@ -155,7 +155,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:250px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Time</b><br>
@@ -165,7 +165,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:250px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:140px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>I Know About Telling Time</b><br>
@@ -286,7 +286,7 @@ Objective: To find out how different densities affect how liquids react with one
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280645962/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:400px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280645962/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Rosa's Big Boat Experiment</b><br>
@@ -296,7 +296,7 @@ Objective: To find out how different densities affect how liquids react with one
         </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646051/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:400px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646051/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
    </div>
    <div class="text">
        <p><b>Will It Float or Sink?</b><br>
@@ -308,7 +308,7 @@ Objective: To find out how different densities affect how liquids react with one
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646187/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:400px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646187/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Boats Will Float</b><br>
@@ -318,7 +318,7 @@ Objective: To find out how different densities affect how liquids react with one
   </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646320/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:400px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646320/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>Why Do Ice Cubes Float?</b><br>

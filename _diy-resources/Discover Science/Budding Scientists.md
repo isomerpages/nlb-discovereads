@@ -287,8 +287,8 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.</p>
 
 <h4>LET'S READ!</h4><br>
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-half">
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280645962/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
     </div>
@@ -298,7 +298,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
       <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
    </p></div>
         </div>
- <div class="col">
+  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646051/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
    </div>
@@ -309,8 +309,8 @@ Take it a step further and try this saltwater density rainbow tower with your ch
     </p></div>
  </div>
 </div>
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-half">
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646187/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
     </div>
@@ -320,7 +320,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
       <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
       </p></div>
   </div>
- <div class="col">
+ <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646320/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
    </div> 

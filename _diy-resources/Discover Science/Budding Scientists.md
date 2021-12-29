@@ -130,7 +130,6 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 </div>
 
 <h4>LET'S READ MORE!</h4><br>
-
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">

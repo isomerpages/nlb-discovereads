@@ -105,20 +105,31 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
 <p>Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.</p>
 <h4>LET'S WATCH!</h4>
 <p>Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!</p>
-<h5>How to Tell the Time – Educational Video for Kids</h5>
-<p>In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
-<div class="bp-youtube">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=3Posbu-VKxU" target="_blank">How to Tell the Time - Educational Video for Kids</a> (2020, March 23). <i>Twinkl Kids' TV.</i> Retrieved 2021, December 26
 
-<h5>Concept of Time</h5>
-<p>Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.</p>
-<div class="bp-youtube">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Concept of Time | What is AM &amp; PM | Teaching Time for Kids | Introduction to Time for Kindergarten</a> (2021, May 1). <i>Neel Nation.</i> Retrieved 2021, December 26
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/embed/3Posbu-VKxU" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> How to Tell the Time – Educational Video for Kids (3min 3 secs) </b><br>
+In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
+  </div>
+</div>
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/embed/HqkXUJ7RHEg" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Concept of Time (7 min 26 secs) </b><br>
+Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.</p>
+  </div>
+</div>
 
 <h4>LET'S READ MORE!</h4> 
-
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280306613/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a><br>
  
 <p>Title: Usborne Lift-the-Flap: Telling the Time<br>
@@ -300,5 +311,6 @@ Objective: To find out how different densities affect how liquids react with one
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 <br><br>
 <i>Explanation: Air has <b>lower density</b> than water, so all the air trapped in the float helps the float to, well stay afloat!</i>
-</p><br>[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+
+[Back to top](#main-content)
+{: .has-text-right .margin--top--xl} 

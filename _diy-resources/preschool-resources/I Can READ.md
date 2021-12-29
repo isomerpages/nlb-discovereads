@@ -30,7 +30,7 @@ Choose books with:<br>
 •	Play 'What's in the Bag?' game. Place 4-6 toys/household objects in a bag.  Get your baby to pull out any objects from the bag. Say out loud the name of the object. 
 
 **Tips for Parents**<br>
-Infants will enjoy looking through wordless picture books, or books that have just a single word alongside an eye-catching illustration.
+Infants will enjoy looking through wordless picture books or books that have just a single word alongside an eye-catching illustration. <br>
 
 **Watch Me!**
 <br>Learning to read starts from infancy. Help your child develop the love of reading through books, songs and daily experiences that are vital in the development of your baby's early literacy skills.

@@ -96,7 +96,7 @@ Publisher:  Boston ; New York : Houghton Mifflin Harcourt, 2019</p>
 
 <img src="/images/AnalogvsDigital.png" style="width:400px; text-align:left;">
 <p>
-In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will ensure your child do not get confused as they are more exposed to these advanced timepieces.</p> 
+In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will help your child be more exposed to the different timepieces.</p> 
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.</p> 
 <p>2. On another set of cards or strips, write down the same timing in digital format; e.g. 1700. </p>
 <p>3. Explain to your child that these are the same timings but in different formats.</p> 

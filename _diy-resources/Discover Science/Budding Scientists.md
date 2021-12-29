@@ -293,7 +293,7 @@ Objective: To find out how different densities affect how liquids react with one
    <div class="text">
 	 <p><b>Why Do Ice Cubes Float?</b><br>
      <u>Author:</u> Benjamin Proudfit<br>
-		 <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
 	</p></div>
  </div><p>All book covers are copyright of the respective publishing companies.</p>
 <h5>LET'S TRY THIS AT HOME!</h5>

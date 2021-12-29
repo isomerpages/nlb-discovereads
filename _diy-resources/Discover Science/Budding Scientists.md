@@ -133,7 +133,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:200px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:400px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b>Telling the Time</b><br>
@@ -143,7 +143,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
         </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:200px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:400px; text-align:left;"></a>
    </div>
    <div class="text">
        <p><b>Measuring Time</b><br>
@@ -155,7 +155,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:300px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:400px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Time</b><br>
@@ -165,7 +165,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   </div>
  <div class="col">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:230px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:400px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>I Know About Telling Time</b><br>

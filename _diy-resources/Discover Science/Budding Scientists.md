@@ -130,29 +130,6 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 </div>
 
 <h4>LET'S READ MORE!</h4><br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280306613/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a><br>
- 
-<p>Title: Usborne Lift-the-Flap: Telling the Time<br>
-Author: Rosie Hore and Shaw Nielsen<br>
-Publisher: London : Usborne, 2016</p><br>
-
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280307235/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:250px; text-align:left;"></a><br>
-
-<p>Title: Measuring Time<br>	
-Author: Meg Gaertner<br>
-Publisher: Minneapolis : Cody Koala, an imprint of Pop!, a division of ABDO, [2020]</p><br>
-
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280307674/329826110,2" target="_blank"><img src="/images/Time.png" style="width:250px; text-align:left;"></a><br>
-
-<p>Title: Time<br>
-Author: Julie Murray<br>
-Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]</p><br>
-
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280308965/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:250px; text-align:left;"></a><br>
-
-<p>Title: I Know About Telling Time<br>
-Author: Richard Little<br>
-Publisher: New York : Gareth Stevens Publishing, [2018]</p>
 
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-half">

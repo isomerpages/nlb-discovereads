@@ -30,7 +30,7 @@ Choose books with:<br>
 •	Play 'What's in the Bag?' game. Place 4-6 toys/household objects in a bag.  Get your baby to pull out any objects from the bag. Say out loud the name of the object. 
 
 **Tips for Parents**<br>
-Infants will enjoy looking through wordless picture books, or books that have just a single word alongside an eye-catching illustration.
+Infants will enjoy looking through wordless picture books or books that have just a single word alongside an eye-catching illustration. <br>
 
 **Watch Me!**
 <br>Learning to read starts from infancy. Help your child develop the love of reading through books, songs and daily experiences that are vital in the development of your baby's early literacy skills.
@@ -69,9 +69,9 @@ A spring-themed board book that includes Easter eggs, bunnies, chicks, and more 
 
 **Try this at Home!**
 
-<img src="/images/diyresources/preschool/i-can-read/0to12activity.png" style="width:70%">
+<img src="/images/diyresources/preschool/i-can-read/0-12%20months%20.png" style="width:70%">
 
-Click [here](/files/preschool/activity0to12.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/0-12%20months%20activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 
@@ -126,9 +126,9 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 
 **Try this at Home!**
 
-<img src="/images/diyresources/preschool/i-can-read/1to3activity.png" style="width:70%">
+<img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/1to3activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/1-3%20years%20old%20activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 <br>
@@ -184,14 +184,13 @@ Ladybug is so lazy that she doesn't know how to fly. She wants to find a new pla
 <br>
 **Try this at Home!**
 	<br><br>
-<img src="/images/diyresources/preschool/i-can-read/4to6activity.PNG" style="width:70%">
+<img src="/images/diyresources/preschool/i-can-read/4-6%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/4to6activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/4-6%20years%20old%20activity.PDF) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 	
 	
-
 **References:**
 <br>
 1. Early literacy: Early literacy skills. Info Guides. (n.d.). Retrieved November 6, 2021, from https://guides.wpl.winnipeg.ca/earlyliteracy/skills. 
@@ -201,3 +200,5 @@ Click [here](/files/preschool/i-can-read/4to6activity.PDF) to download a copy of
 3. Ministry of Social and Family Development, Singapore. (2018, March 28). Literacy Activities for Children. Parenting Resources for You. Retrieved October 15, 2021, from https://www.babybonus.msf.gov.sg/parentingresources/web/Babies/BabiesPlayandLearning/BabiesActivities/BabiesLiteracyActivities
 	
 4. Children’s Trust of Massachusetts. (n.d.). Choosing Books for Your Child: Preschoolers 3–5 Years. Onetoughjob a Children’s Trust Programme. Retrieved October 15, 2021, from https://www.onetoughjob.org/articles/choosing-books-for-your-child-preschoolers-3-5-years
+	
+The book covers and synopses are the copyright of the respective publishing companies.

@@ -201,3 +201,5 @@ Click [here](/files/preschool/i-can-read/4-6%20years%20old%20activity.PDF) to do
 3. Ministry of Social and Family Development, Singapore. (2018, March 28). Literacy Activities for Children. Parenting Resources for You. Retrieved October 15, 2021, from https://www.babybonus.msf.gov.sg/parentingresources/web/Babies/BabiesPlayandLearning/BabiesActivities/BabiesLiteracyActivities
 	
 4. Children’s Trust of Massachusetts. (n.d.). Choosing Books for Your Child: Preschoolers 3–5 Years. Onetoughjob a Children’s Trust Programme. Retrieved October 15, 2021, from https://www.onetoughjob.org/articles/choosing-books-for-your-child-preschoolers-3-5-years
+	
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*

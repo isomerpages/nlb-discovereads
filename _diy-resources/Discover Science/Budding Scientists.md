@@ -228,9 +228,9 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <td style="width: 80%; font-size:20px"> The <b>density</b> of an object depends on how many molecules make up the object. </td>
 			</tr></tbody></table></div>
 	
-<h5>Tips for Parents:</h5> 
+<h5>Tips for Parents:</h5>
 <p> Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.</p>
-<h4>LET'S WATCH!</h4><br>
+<h4>LET'S WATCH!</h4></br>
 <div class="row is-multiline margin--bottom--lg">
   <div class="col is-two-fifths">
     <div class="responsive-iframe-container ratio-16by9">

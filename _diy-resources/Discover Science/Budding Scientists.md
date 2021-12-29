@@ -15,7 +15,7 @@ third_nav_title: Discover Science
 
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
 	
-<h4>LET'S SING</h4>
+<h4>LET'S SING!</h4>
 <h5>Tuning-in Song: Hickory Dickory Dock</h5>
 <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later.</p>
 
@@ -117,7 +117,7 @@ Source: <a href="https://www.youtube.com/watch?v=3Posbu-VKxU" target="_blank">Ho
 <iframe width="400" height="200" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Source: <a href="https://www.youtube.com/watch?v=HqkXUJ7RHEg" target="_blank">Concept of Time | What is AM &amp; PM | Teaching Time for Kids | Introduction to Time for Kindergarten</a> (2021, May 1). <i>Neel Nation.</i> Retrieved 2021, December 26
 
-<h4>LET'S FIND THESE AT THE LIBRARIES</h4> 
+<h4>LET'S READ MORE!</h4> 
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280306613/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:250px; text-align:left;"></a><br>
  

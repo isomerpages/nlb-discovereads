@@ -8,7 +8,7 @@ third_nav_title: Discover Science
 
 <h3>Discover and Learn!</h3>
 
-<p>Science exists in everything around us and helps us understand the world better. The pursuit of scientific knowledge also encourages curiosity, growth, and a persevering attitude that can translate to other aspects of life. There's no such thing as an experiment that succeeds the first time round!</p>
+<p>Science exists in everything around us and helps us understand the world better. The pursuit of scientific knowledge also encourages curiosity, growth, and a persevering attitude that can translate to other aspects of life.</p>
 
 <p>Studying Science can continue beyond school. Through our curated resources and packages, join us in discovering the beauty of Science in our everyday lives. Re-discover the world around us through newfound lens while having fun along the way.</p>
 

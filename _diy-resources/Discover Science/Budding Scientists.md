@@ -113,7 +113,7 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How to Tell the Time – Educational Video for Kids (3min 3 secs) </b><br>
+    <p><b> How to Tell the Time – Educational Video for Kids (3 min 3 secs) </b><br>
 In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
   </div>
 </div>

@@ -27,7 +27,7 @@ third_nav_title: Discover Science
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
 	
 <h4>LET'S READ!</h4><br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646629/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281018594/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
 
 <p><b>Fix that Clock!</b><br>
        <u>Author:</u> Kurt Cyrus<br>
@@ -113,7 +113,7 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
     </div>
   </div>
   <div class="col is-three-fifths">
-    <p><b> How to Tell the Time – Educational Video for Kids (3min 3 secs) </b><br>
+    <p><b> How to Tell the Time – Educational Video for Kids (3 min 3 secs) </b><br>
 In this 3-minute video, learn more about the different parts of clocks and their many functions!</p>
   </div>
 </div>
@@ -134,7 +134,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280634594/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281018955/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b>Telling the Time</b><br>
@@ -144,7 +144,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
         </div>
  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635513/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019171/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
    </div>
    <div class="text">
        <p><b>Measuring Time</b><br>
@@ -156,7 +156,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280635958/329826110,2" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019374/329826110,2" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Time</b><br>
@@ -166,7 +166,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019594/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>I Know About Telling Time</b><br>
@@ -176,11 +176,10 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
  </div>
 	</div><p>All book covers are copyright of the respective publishing companies.</p><br>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>
-<h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
+<h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of Applied Chemistry for Kids:<br>Let’s Learn About Density</b></h3>
 <p><b>Suitable for 4 to 6 years old</b></p>
 
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!</p><p>
@@ -290,7 +289,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280645962/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019929/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Rosa's Big Boat Experiment</b><br>
@@ -300,7 +299,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
         </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646051/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020151/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
    </div>
    <div class="text">
        <p><b>Will It Float or Sink?</b><br>
@@ -312,7 +311,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646187/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020280/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Boats Will Float</b><br>
@@ -322,7 +321,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
   </div>
  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646320/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020430/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>Why Do Ice Cubes Float?</b><br>
@@ -334,8 +333,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 	<p>All book covers are copyright of the respective publishing companies.</p>
 
 <h5>LET'S TRY THIS AT HOME!</h5>
-<p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</p>
+<div><p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</p>
 <br>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

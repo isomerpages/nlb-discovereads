@@ -289,7 +289,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280645962/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019929/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Rosa's Big Boat Experiment</b><br>
@@ -299,7 +299,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
         </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280646051/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020151/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
    </div>
    <div class="text">
        <p><b>Will It Float or Sink?</b><br>

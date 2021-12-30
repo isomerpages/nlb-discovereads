@@ -176,8 +176,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
  </div>
 	</div><p>All book covers are copyright of the respective publishing companies.</p><br>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>
 <h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Density</b></h3>
@@ -337,5 +336,4 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <div><p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</div></p>
 <br>
 
-[Back to top](#main-content)
-{: .has-text-right .margin--top--xl}
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

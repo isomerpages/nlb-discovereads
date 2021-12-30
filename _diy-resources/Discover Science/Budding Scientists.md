@@ -166,7 +166,7 @@ Take it a step further and introduce your child to the concepts of AM and PM, as
   </div>
 <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/280636370/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019594/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>I Know About Telling Time</b><br>

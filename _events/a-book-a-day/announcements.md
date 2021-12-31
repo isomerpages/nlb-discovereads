@@ -9,7 +9,7 @@ third_nav_title: A Book A Day
 
 *(updated on 31 December 2021)*
 
-### **The A Book A Day Reading Programme has now ended. Thank you for your support!**
+### **The A Book A Day programme has now ended. Thank you for your support!**
 
 ### **Help Us Make it Better!**
 

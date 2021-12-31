@@ -8,7 +8,7 @@ description: ""
 
 *(updated on 31 December 2021)*
 
-### **The A Book A Day Reading Programme has now ended. Thank you for your support!**
+### **The A Book A Day programme has now ended. Thank you for your support!**
 
 Parents can register their children for “A Book A Day” programme at [https://go.gov.sg/abookaday](https://go.gov.sg/abookaday) or through the NLB Mobile app from 1 January 2020 onwards.
 

@@ -4,8 +4,11 @@ permalink: /events/a-book-a-day/about
 third_nav_title: A Book A Day
 description: ""
 ---
-
 ### **About**
+
+*(updated on 31 December 2021)*
+
+### **The A Book A Day programme has now ended. Thank you for your support!**
 
 <img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">
 

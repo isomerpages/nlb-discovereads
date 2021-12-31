@@ -280,6 +280,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png" style="width:200px; text-align:left;">
     </div>
 	</div>
+</div>
 
 <h5>Tips for Parents:</h5>
 
@@ -296,7 +297,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
       <u>Author:</u> Jessica Spanyol<br>
       <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
    </p></div>
-        </div>
+  </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020151/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
@@ -328,12 +329,10 @@ Take it a step further and try this saltwater density rainbow tower with your ch
      <u>Author:</u> Benjamin Proudfit<br>
 		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
 	</p></div>
+  </div>
  </div>
-	</div>
 	<p>All book covers are copyright of the respective publishing companies.</p>
-
-<h5>LET'S TRY THIS AT HOME!</h5>
-<div><p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</p>
-<br>
+<h5 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h5>
+<p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

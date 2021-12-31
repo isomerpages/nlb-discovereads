@@ -296,7 +296,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
       <u>Author:</u> Jessica Spanyol<br>
       <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
    </p></div>
-        </div>
+  </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020151/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>

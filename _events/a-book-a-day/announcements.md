@@ -7,6 +7,10 @@ third_nav_title: A Book A Day
 ---
 ## **A Book A Day**
 
+*(updated on 31 December 2021)*
+
+### **The A Book A Day Reading Programme has now ended. Thank you for your support!**
+
 ### **Help Us Make it Better!**
 
 We would like to hear from you on how we can make the “A Book A Day” programme more exciting for your children. Click on the banner or scan the QR code below:

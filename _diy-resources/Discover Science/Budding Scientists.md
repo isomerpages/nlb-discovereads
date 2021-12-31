@@ -280,6 +280,7 @@ Take it a step further and try this saltwater density rainbow tower with your ch
       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png" style="width:200px; text-align:left;">
     </div>
 	</div>
+</div>
 
 <h5>Tips for Parents:</h5>
 

@@ -4,8 +4,11 @@ permalink: /events/a-book-a-day/participation
 third_nav_title: A Book A Day
 description: ""
 ---
-
 ### **Participation Eligibility**
+
+*(updated on 31 December 2021)*
+
+### **The A Book A Day Reading Programme has now ended. Thank you for your support!**
 
 Parents can register their children for “A Book A Day” programme at [https://go.gov.sg/abookaday](https://go.gov.sg/abookaday) or through the NLB Mobile app from 1 January 2020 onwards.
 

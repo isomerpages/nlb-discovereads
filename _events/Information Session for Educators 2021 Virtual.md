@@ -80,6 +80,8 @@ Discover Esplanade Offstage, an online repository of interesting art-related res
 
 Check out the services and resources from our Mother Tongue Language Services (MTL), National Archives of Singapore (NAS), and Friends of the Library and Archives Programme. 
 
+<center><iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=a8eac496-eb4c-49f1-beaa-ae12007fa7dc&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></center>
+	
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0UXcj1FqtQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <b><a href="#top">Back to top</a></b>

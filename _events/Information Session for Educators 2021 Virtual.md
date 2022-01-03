@@ -26,7 +26,7 @@ Glean some insights on how technology impacts reading and learning, and explore 
 
 Keen to find out more on how to build a community of readers in your school? Partner with us to learn about the role of school libraries in cultivating a robust reading culture whilst leveraging on the existing ecosystem to support the Readers of the future.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/R7ry3T_cZDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=ee0b6a76-6c2f-43c2-96a0-ae12006b1be7&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 ####  **Read@School Programme: Recalibrated**
@@ -34,7 +34,7 @@ Keen to find out more on how to build a community of readers in your school? Par
 
 Check out NLB's latest Read@School services and resources that are recalibrated to better serve the evolving reading and learning needs of students and teachers. 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sXohJWCyiNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7cbef69d-de4d-410d-b98d-ae120050a026&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 #### **An MOE Teacher's Insider View of NLB's Children and Teens' Services and Resources**
@@ -42,7 +42,7 @@ Check out NLB's latest Read@School services and resources that are recalibrated 
 
 Hear about a Ministry of Education (MOE) teacher's internship experience at NLB and her insider views on NLB's Children and Teens' services and resources.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/f--2cmCl0yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=cf675825-118c-407b-b318-ae12006acf93&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 ####  **Promoting Reading Among Students and the Community**
@@ -50,7 +50,7 @@ Hear about a Ministry of Education (MOE) teacher's internship experience at NLB 
 
 Hear incredible stories and be inspired by ground-up reading initiatives. 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/N-DxXm8vCFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=9da47c37-e0ac-4f12-87b6-ae12006b522c&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 #### **Spark Reading Joy with Informational Books**
@@ -58,7 +58,7 @@ Hear incredible stories and be inspired by ground-up reading initiatives.
 
 Learn about recent publishing trends in children's non-fiction and interesting new non-fiction titles that can promote students' reading and learning.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uYs4C_84qkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=5098244b-ae6c-4233-b7ab-ae120050902c&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 #### **Stay Safe, Stay S.U.R.E**
@@ -66,14 +66,14 @@ Learn about recent publishing trends in children's non-fiction and interesting n
 
 Learn how to educate your students on combating fake news and information discernment with NLB's S.U.R.E (Source, Understand, Research, Evaluate) team. 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LC5G_ZThjOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=b625aae0-f11e-4c23-8df7-ae120050855d&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 #### **Esplanade Offstage**
 **Zehara Khan Sahib and Brenda Ong, Managers, Esplanade Offstage**
 
 Discover Esplanade Offstage, an online repository of interesting art-related resources and activities for students, educators, and families to enjoy anytime.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PphhnWNZ88Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=2900f932-51da-40c7-9af5-ae12006b32de&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 #### **Uncover Hidden Gems: MTL, NAS, and Volunteer with Us!**

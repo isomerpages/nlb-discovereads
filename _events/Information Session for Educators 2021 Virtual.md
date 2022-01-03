@@ -18,7 +18,7 @@ Glean insights on how technology impacts reading and learning, discover new chil
 
 Glean some insights on how technology impacts reading and learning, and explore different tools to enhance students' reading and learning journeys.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/q7WAYYCPlFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src=https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=bb0db706-608c-405a-9b99-ae12006af6b1" title="Panopto video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 #### **Building a Community of Readers: Raising an Adequate Ecosystem for Readers to Flourish in the Future** 

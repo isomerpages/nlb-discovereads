@@ -16,4 +16,4 @@ Research shows that there are six early literacy skills that children need to pi
 
 <img src="/images/diyresources/preschool/earlyliteracypractices.png" style="width:80%">
 
-Click [here](/sites/nlb-dr/Early%20Literacy%20Activities%20.md) for suggested activities and book recommendations that tie in with the early literacy practices.
+Click [here](https://childrenandteens.nlb.gov.sg/earlyliteracyactivities) for suggested activities and book recommendations that tie in with the early literacy practices.

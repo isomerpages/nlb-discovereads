@@ -16,4 +16,4 @@ Research shows that there are six early literacy skills that children need to pi
 
 <img src="/images/diyresources/preschool/earlyliteracypractices.png" style="width:80%">
 
-| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) |
+Click here for suggested activities and book recommendations that tie in with the early literacy practices.

@@ -6,12 +6,14 @@ third_nav_title: Preschool Resources
 ---
 ## **Early Literacy Practices**
 
-_(Updated in September 2021)_
+_(Updated in January 2022)_
 
-Research shows that there are six early literacy skills that children need to pick up on their way to becoming fluent readers. These early literacy skills are in turn supported by the 5 early literacy practices which are simply talk, sing, write, play and read! As long as you are singing, talking, writing, playing and reading with your child regularly, you are laying the foundation for your child's reading success.
+Research shows that there are six early literacy skills that children need to pick up on their way to becoming fluent readers. These early literacy skills are in turn supported by the five early literacy practices which are simply talk, sing, write, play and read! As long as you are singing, talking, writing, playing and reading with your child regularly, you are laying the foundation for your child's reading success.
 
 <img src="/images/diyresources/preschool/earlyliteracy.png" style="width:90%">
 
-Click on the icons to find out more about literacy practices that help develop early literacy skills.
+##### Read more about each of the five early literacy practices.
 
-| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) |
+<img src="/images/diyresources/preschool/earlyliteracypractices.png" style="width:80%">
+
+Click [here](/earlyliteracyactivities) for suggested activities and book recommendations that tie in with the five early literacy practices.

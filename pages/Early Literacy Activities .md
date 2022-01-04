@@ -7,3 +7,4 @@ description: ""
 ---
 *(Updated in January 2022)*
 
+<img src="/images/diyresources/preschool/earlylitactivities.png" style="width:90%">

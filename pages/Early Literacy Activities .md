@@ -9,6 +9,6 @@ description: ""
 
 <img src="/images/diyresources/preschool/earlylitactivities.png" style="width:90%">
 
-<br><br>
+<br>
 
 <img src="/images/diyresources/preschool/earlylitbooks.png" style="width:90%">

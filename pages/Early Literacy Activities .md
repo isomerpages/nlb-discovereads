@@ -12,3 +12,5 @@ description: ""
 <br>
 
 <img src="/images/diyresources/preschool/earlylitbooks.png" style="width:90%">
+
+Click [here](/diy-resources/preschool/preschool-main) to go back to the previous page.

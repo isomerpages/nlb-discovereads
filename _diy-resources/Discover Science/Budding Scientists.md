@@ -440,3 +440,7 @@ Watch how different marine animals swim, jump and scurry. Can you move like them
   </div>
 </div>
 
+<h4>Tips for Parents:</h4> 
+<p>As you watch the video with your child, try asking them open-ended questions about what they are seeing on screen e.g. How do fishes swim in water? <br><br> 
+By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!</p>
+

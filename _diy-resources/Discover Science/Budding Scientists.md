@@ -519,7 +519,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 </div>
 <p>Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house. 
 </p>
-<h5>The materials required are</h5>
+<h5>Materials required:</h5>
 <p>1. One paper plate<br>
 2. Crayons / colour pencils<br>
 3. Googly eyes / black marker (optional)<br>
@@ -532,7 +532,8 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <img src="/images/marine18.png" style="width:300px; text-align:left;">
 
 <p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
-	<a href="/files/marine16%20craft.jpg" target="_blank">Instructions for Paper Plate Aquarium</a><br>
+	
+	<a href="/files/Paper%20Plate%20Aquarium.pdf" target="_blank">Instructions for Paper Plate Aquarium</a><br>
 <p>The sea aquarium habitat is now ready to welcome the marine animals! </p>
 
 <h4>Tips for Parents:</h4> 

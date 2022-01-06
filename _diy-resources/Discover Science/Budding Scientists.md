@@ -449,7 +449,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/Marine10.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/Marine10.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Jellyfish are brainless!</b><br>
@@ -467,7 +467,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/marine12.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/marine12.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Octopuses</b><br>
@@ -485,7 +485,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/marine14.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/marine14.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Starfish</b><br>

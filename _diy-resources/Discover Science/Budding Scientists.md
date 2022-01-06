@@ -403,7 +403,7 @@ If you drink seawater, these salt particles will get absorbed into our blood and
   </div>
 </div>
 
-<p><br><i>Water Q&A: Why can't people drink seawater? completed. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater" target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
+<p><br><i>Water Q&A: Why can't people drink seawater?. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater" target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
  </a>)</i>
 </p>
 

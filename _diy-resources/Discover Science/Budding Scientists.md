@@ -537,8 +537,3 @@ By allowing your child to hypothesise and formulate answers based on their obser
 
 <h4>Tips for Parents:</h4> 
 <p>Do allow your child to colour the paper plate in other colours. Encourage them to use their creativity to decorate the paper plate. This activity gives your child an opportunity to express their ideas and help boost their confidence in making their own decisions.</p>
-
-
-
-
-	

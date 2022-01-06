@@ -628,9 +628,9 @@ By allowing your child to hypothesise and formulate answers based on their obser
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244390" target="_blank"><img src="/images/Marine27.png" style="width:150px; text-align:left;"></a>
    </div> 
    <div class="text">
-	 <p><b>Why Do Ice Cubes Float?</b><br>
-     <u>Author:</u> Benjamin Proudfit<br>
-		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
+	 <p><b>Yoga whale : simple poses for little ones</b><br>
+     <u>Author:</u> Sarah Jane Hinder<br>
+		 <u>Publisher:</u> Boulder, CO : Sounds True, Inc., 2019<br>
 	</p></div>
   </div>
  </div>

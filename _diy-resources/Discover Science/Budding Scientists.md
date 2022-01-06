@@ -383,5 +383,8 @@ In addition, they come in all shapes and sizes, and have developed special featu
 <p><b>Fun Facts</b><br>
 The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
 </p>
-
+<img src="/images/Marine6.png" style="width:400px; text-align:left;">
+<br>
+ <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE "target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
+</p>
 

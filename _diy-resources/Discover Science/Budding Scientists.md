@@ -444,3 +444,46 @@ Watch how different marine animals swim, jump and scurry. Can you move like them
 <p>As you watch the video with your child, try asking them open-ended questions about what they are seeing on screen e.g. How do fishes swim in water? <br><br> 
 By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!</p>
 
+<h4>LET'S READ!</h4><br>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/Marine10.png" style="width:150px; text-align:left;"></a>
+    </div>
+   <div class="text">
+      <p><b> Jellyfish are brainless!</b><br>
+      <u>Author:</u> Amanda Vink<br>
+      <u>Publisher:</u> New York : Gareth Stevens Publishing, 2020<br>
+   </p></div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/Marine11.png" style="width:250px; text-align:left;"></a>
+   </div>
+   <br>
+    </p></div>
+ </div>
+</div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020280/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+    </div>
+   <div class="text">
+      <p><b> Boats Will Float</b><br>
+      <u>Author:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon (Illustrator)<br>
+      <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+      </p></div>
+  </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020430/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+   </div> 
+   <div class="text">
+	 <p><b>Why Do Ice Cubes Float?</b><br>
+     <u>Author:</u> Benjamin Proudfit<br>
+		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
+	</p></div>
+  </div>
+ </div>
+	<p>All book covers are copyright of the respective publishing companies.</p>

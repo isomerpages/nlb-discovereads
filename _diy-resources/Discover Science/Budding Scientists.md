@@ -574,13 +574,9 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/marine14.png" style="width:150px; text-align:left;"></a>
+      <img src="/images/Marine23.png" style="width:150px; text-align:left;">
     </div>
-   <div class="text">
-      <p><b> Starfish</b><br>
-      <u>Author:</u> Leo Statts<br>
-      <u>Publisher:</u> Minneapolis, Minnesota : Abdo Zoom, [2017]<br>
-   </p></div>
+   
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">

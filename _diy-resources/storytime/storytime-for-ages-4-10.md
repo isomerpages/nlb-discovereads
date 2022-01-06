@@ -50,13 +50,13 @@ Storytelling Videos (Updated on 4 Dec 2021)
 
 ### **English**
 
-**23 Nov 2021**
-**Lockdown Hair**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EfQ6KO2OxYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**11 Dec 2021**
+**Mighty Mousedeer of the Forest**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWNhdF0GBtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**27 Nov 2021**
-**Just a Little Mynah**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PGiQc6aFAOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**25 Dec 2021**
+**My Favourite Days**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGFfZ8kVuMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 

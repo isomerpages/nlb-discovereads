@@ -344,4 +344,14 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <img src="/images/Marine1.png" style="width:400px; text-align:left;">
 
 
+<p>The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.<br><br>
+In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!</p>
+
+
+<h4>LET'S SING!</h4>
+<h5>Tuning-in Song: One, Two, Three, Four, Five, Once I Caught a Fish Alive</h5>
+<p>A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.</p>
+
+
+
 

@@ -407,3 +407,21 @@ If you drink seawater, these salt particles will get absorbed into our blood and
  </a>)</i>
 </p>
 
+
+<h4>LET'S LEARN!</h4>
+<div class="row is-multiline margin--bottom--lg">
+	<div class="col is-two-fifths">
+   <div class="image">
+      <img src="/images/Marine8.png" style="width:400px; text-align:left;">
+    </div>
+  </div>
+	<div class="col is-three-fifths">
+    <p>The ocean is home to many marine animals (such as whales, sharks, jellyfishes, starfishes, octopuses, etc). Although there is a high concentration of salt in the ocean, these animals have developed ways to cope and remove excess salt from their bodies so they can survive in the ocean.
+</p>
+  </div>
+</div>
+
+
+<p><br><i>How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from <a href="https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water   "target="_blank">https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water  
+ </a>)</i>
+</p>

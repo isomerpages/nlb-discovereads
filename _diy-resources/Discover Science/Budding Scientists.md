@@ -380,4 +380,8 @@ In addition, they come in all shapes and sizes, and have developed special featu
  <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185 "target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
 </p>
 
+<p><b>Fun Facts</b><br>
+The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
+</p>
+
 

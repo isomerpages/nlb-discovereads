@@ -462,7 +462,6 @@ By allowing your child to hypothesise and formulate answers based on their obser
       <img src="/images/Marine11.png" style="width:250px; text-align:left;">
    </div>
    <br>
-    </div>
  </div>
 </div>
 <div class="row is-multiline">
@@ -481,7 +480,6 @@ By allowing your child to hypothesise and formulate answers based on their obser
       <img src="/images/marine13.png" style="width:250px; text-align:left;">
    </div>
    <br>
-   </div>
  </div>
 </div>
 	<p>All book covers are copyright of the respective publishing companies.</p>

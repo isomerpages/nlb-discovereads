@@ -361,7 +361,7 @@ In addition, they come in all shapes and sizes, and have developed special featu
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-two-fifths">
    <div class="image">
-      <img src="/images/Marine3.png" style="width:400px; text-align:left;">
+      <img src="/images/Marine3.png" style="width:250px; text-align:left;">
     </div>
   </div>
 	<div class="col is-three-fifths">
@@ -377,7 +377,7 @@ In addition, they come in all shapes and sizes, and have developed special featu
 <p>Below is the <a href="https://go.gov.sg/sci-world-map-ans" target="_blank">answer sheet</a> for the world map activity sheet.</p>
 <img src="/images/Marine5.png" style="width:400px; text-align:left;">
 <br>
- <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185 "target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
+ <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185" target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
 </p>
 
 <p><b>Fun Facts</b><br>
@@ -385,7 +385,7 @@ The water in the ocean contains large amounts of salt. You may wonder, how is th
 </p>
 <img src="/images/Marine6.png" style="width:400px; text-align:left;">
 <br>
- <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE "target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
+ <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE" target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
 </p>
 
 
@@ -393,7 +393,7 @@ The water in the ocean contains large amounts of salt. You may wonder, how is th
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-two-fifths">
    <div class="image">
-      <img src="/images/Marine7.png" style="width:400px; text-align:left;">
+      <img src="/images/Marine7.png" style="width:250px; text-align:left;">
     </div>
   </div>
 	<div class="col is-three-fifths">
@@ -403,7 +403,7 @@ If you drink seawater, these salt particles will get absorbed into our blood and
   </div>
 </div>
 
-<p><br><i>Water Q&A: Why can't people drink seawater? completed. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater  "target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
+<p><br><i>Water Q&A: Why can't people drink seawater? completed. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater" target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
  </a>)</i>
 </p>
 
@@ -412,7 +412,7 @@ If you drink seawater, these salt particles will get absorbed into our blood and
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-two-fifths">
    <div class="image">
-      <img src="/images/Marine8.png" style="width:400px; text-align:left;">
+      <img src="/images/Marine8.png" style="width:250px; text-align:left;">
     </div>
   </div>
 	<div class="col is-three-fifths">
@@ -467,23 +467,20 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020280/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/Marine10.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
-      <p><b> Boats Will Float</b><br>
-      <u>Author:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon (Illustrator)<br>
-      <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
-      </p></div>
+      <p><b> Jellyfish are brainless!</b><br>
+      <u>Author:</u> Amanda Vink<br>
+      <u>Publisher:</u> New York : Gareth Stevens Publishing, 2020<br>
+   </p></div>
   </div>
- <div class="col is-half-tablet padding--bottom--lg">
+  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020430/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
-   </div> 
-   <div class="text">
-	 <p><b>Why Do Ice Cubes Float?</b><br>
-     <u>Author:</u> Benjamin Proudfit<br>
-		 <u>Publisher:</u> New York : Gareth Stevens Publishing, 2016<br>
-	</p></div>
-  </div>
+      <img src="/images/Marine11.png" style="width:250px; text-align:left;"></a>
+   </div>
+   <br>
+    </p></div>
  </div>
+</div>
 	<p>All book covers are copyright of the respective publishing companies.</p>

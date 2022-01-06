@@ -520,6 +520,9 @@ By allowing your child to hypothesise and formulate answers based on their obser
 7. A pair of scissors<br>
 8. Tape<br></p>
 
-<img src="!/images/marine18.png" style="width:300px; text-align:left;">
+<img src="/images/marine18.png" style="width:300px; text-align:left;">
 
-
+<p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
+	<a href="/files/marine16%20craft.jpg" target="_blank">Instructions for Paper Plate Aquarium</a><br>
+	
+	

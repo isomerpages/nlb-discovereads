@@ -338,6 +338,10 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
-<h3 class="margin--bottom--lg" id="lp-marineanimals"><b>Let’s Learn about Marine Animals<br>It's Time to Learn about Time!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-marineanimals"><b>All About Animals:<br>Let’s Learn about Marine Animals</b></h3>
 <p><b>Suitable for 4 to 6 years old</b></p>
+
+<img src="/images/Marine1.png" style="width:400px; text-align:left;">
+
+
 

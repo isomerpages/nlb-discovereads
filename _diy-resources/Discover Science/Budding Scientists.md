@@ -508,13 +508,17 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <img src="/images/marine16.png" style="width:300px; text-align:left;">
 <img src="/images/marine17.jpg" style="width:300px; text-align:left;">
 
-<p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
-<p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
+<p>Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house. 
+</p>
 
-<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
 
-<h5>Instructions</h5>
-<p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
-<p>2. Cut out the circles and clock hands from the template prepared.</p>
-<p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you do this.</p> 
-<p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>
+<h5>The materials required are</h5>
+<p>1. One paper plate</p>
+<p>2. Crayons / colour pencils</p>
+<p>3. Googly eyes / black marker (optional)</p> 
+<p>4. Hole puncher</p>
+<p>5. Yarn / string (preferably blue)</p>
+<p>6. Marine animals <a href="https://go.gov.sg/sci-marine-animals" target="_blank">template</a> (to print)</p>
+<p>7. A pair of scissors</p>
+<p>8. Tape</p>
+

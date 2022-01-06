@@ -619,7 +619,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
     </div>
    <div class="text">
       <p><b>Oceans</b><br>
-      <u>Author:</u> ANatasha Durley<br>
+      <u>Author:</u> Natasha Durley<br>
       <u>Publisher:</u> London : Templar Publishing, 2020<br>
       </p></div>
   </div>

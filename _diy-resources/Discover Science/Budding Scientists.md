@@ -580,7 +580,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <img src="/images/marine15.png" style="width:250px; text-align:left;">
+		 <p>Seahorse pose <u>(Chair Pose)</u>: Reach high above your head while bending your knees slightly. Turn your body into the shape of a seahorse!</p>
    </div>
    <br>
  </div>

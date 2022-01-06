@@ -467,7 +467,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/marine12.png" style="width:150px; text-align:left;"></a>
+      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/marine12.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
       <p><b> Octopuses</b><br>
@@ -477,9 +477,44 @@ By allowing your child to hypothesise and formulate answers based on their obser
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <img src="/images/marine13.png" style="width:250px; text-align:left;">
+      <img src="/images/marine13%20Octopus.png" style="width:250px; text-align:left;">
+   </div>
+   <br>
+ </div>
+</div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/marine14.png" style="width:150px; text-align:left;"></a>
+    </div>
+   <div class="text">
+      <p><b> Starfish</b><br>
+      <u>Author:</u> Leo Statts<br>
+      <u>Publisher:</u> Minneapolis, Minnesota : Abdo Zoom, [2017]<br>
+   </p></div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/marine15.png" style="width:250px; text-align:left;">
    </div>
    <br>
  </div>
 </div>
 	<p>All book covers are copyright of the respective publishing companies.</p>
+	
+	
+<h4>LET'S CRAFT!</h4>
+<h5>Paper Plate Aquarium</h5>
+<img src="/images/marine16.png" style="width:300px; text-align:left;">
+<img src="/images/marine17.jpg" style="width:300px; text-align:left;">
+
+<p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
+<p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
+
+<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
+
+<h5>Instructions</h5>
+<p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
+<p>2. Cut out the circles and clock hands from the template prepared.</p>
+<p>3. Write down the numbers "1" to "12" on each of the circles. Have your child count along as you do this.</p> 
+<p>4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!</p>

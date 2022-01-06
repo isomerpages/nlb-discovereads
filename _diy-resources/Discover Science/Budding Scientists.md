@@ -388,3 +388,22 @@ The water in the ocean contains large amounts of salt. You may wonder, how is th
  <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE "target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
 </p>
 
+
+<h4>LET'S THINK!</h4>
+<div class="row is-multiline margin--bottom--lg">
+	<div class="col is-two-fifths">
+   <div class="image">
+      <img src="/images/Marine7.png" style="width:400px; text-align:left;">
+    </div>
+  </div>
+	<div class="col is-three-fifths">
+    <p><b>Do you think we can drink seawater (i.e. the water from the ocean)? Why?</b><br>
+If you drink seawater, these salt particles will get absorbed into our blood and flow through our body. Our body cannot get rid of the salt particles and this can cause our body to feel dehydrated, or extremely thirsty.
+</p>
+  </div>
+</div>
+
+<p><br><i>Water Q&A: Why can't people drink seawater? completed. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater  "target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
+ </a>)</i>
+</p>
+

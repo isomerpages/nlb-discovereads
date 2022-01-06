@@ -353,5 +353,6 @@ In addition, they come in all shapes and sizes, and have developed special featu
 <p>A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.</p>
 
 
-
+<img src="/images/Marine2.png" style="width:400px; text-align:left;">
+<br>
 

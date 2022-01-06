@@ -6,7 +6,7 @@ third_nav_title: Discover Science
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 
-| **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> |
+| **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
 
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
 <p><b>Suitable for 4 to 6 years old</b></p>
@@ -336,3 +336,8 @@ Take it a step further and try this saltwater density rainbow tower with your ch
 <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+<h3 class="margin--bottom--lg" id="lp-marineanimals"><b>Let’s Learn about Marine Animals<br>It's Time to Learn about Time!</b></h3>
+<p><b>Suitable for 4 to 6 years old</b></p>
+

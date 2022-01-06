@@ -585,3 +585,8 @@ By allowing your child to hypothesise and formulate answers based on their obser
    <br>
  </div>
 </div>
+
+<h4>Tips for Parents:</h4> 
+<p>Yoga is a fantastic parent-child bonding activity that can help  improve your child's gross motor skills as well as strengthen the muscles in their body. Linking vocabulary (names of animals) to specific yoga poses is also a great way to reinforce and remember new words!</p>
+
+<h4>LET'S READ MORE!</h4>

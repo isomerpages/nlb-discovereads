@@ -427,19 +427,16 @@ If you drink seawater, these salt particles will get absorbed into our blood and
 </p>
 
 <h4>LET'S WATCH!</h4>
-
 <div class="row is-multiline margin--bottom--lg">
-  <div class="col is-two-fifths">
-    <div class="responsive-iframe-container ratio-16by9">
-      <iframe src="https://www.youtube.com/watch?v=hXtrIy95V80" class="responsive-iframe"></iframe>
+	<div class="col is-two-fifths">
+   <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
+      <img src="/images/Marine9.png" style="width:400px; text-align:left;"></a>
     </div>
   </div>
-  <div class="col is-three-fifths">
+	<div class="col is-three-fifths">
     <p><b> Under the Sea: Ocean Animal Moves (3min 07 secs) </b><br>
 Watch how different marine animals swim, jump and scurry. Can you move like them?
 </p>
   </div>
 </div>
 
-
-	

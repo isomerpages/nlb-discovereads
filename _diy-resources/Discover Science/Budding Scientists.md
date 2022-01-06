@@ -365,7 +365,7 @@ In addition, they come in all shapes and sizes, and have developed special featu
     </div>
   </div>
 	<div class="col is-three-fifths">
-    <p>Did you know that the water covers approximately 71% of the Earth‘s surface? Out of which, 98% of the water on Earth belongs to the ocean! You can find the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the Arctic Ocean, and the Southern Ocean on the world map. They are all connected as one ocean and water flows freely between them.</p>
+    <p>Did you know that the water covers approximately 71% of the Earth's surface? Out of which, 98% of the water on Earth belongs to the ocean! You can find the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the Arctic Ocean, and the Southern Ocean on the world map. They are all connected as one ocean and water flows freely between them.</p>
   </div>
 </div>
 

@@ -560,17 +560,13 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <img src="/images/marine12.png" style="width:150px; text-align:left;">
+      <img src="/images/Marine22.png" style="width:150px; text-align:left;">
     </div>
-   <div class="text">
-      <p><b> Octopuses</b><br>
-      <u>Author:</u> Elizabeth R. Johnson<br>
-      <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
-   </p></div>
+   
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <img src="/images/marine13%20Octopus.png" style="width:250px; text-align:left;">
+		 <p>Pufferfish pose <u>(Salutation Seal Pose)</u>: With your hands raised and seated in a cross-legged position, practice deep breaths and let your cheeks puff up like a pufferfish when you inhale!</p>
    </div>
    <br>
  </div>

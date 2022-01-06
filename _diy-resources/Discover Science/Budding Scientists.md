@@ -510,15 +510,16 @@ By allowing your child to hypothesise and formulate answers based on their obser
 
 <p>Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house. 
 </p>
-
-
 <h5>The materials required are</h5>
-<p>1. One paper plate</p>
-<p>2. Crayons / colour pencils</p>
-<p>3. Googly eyes / black marker (optional)</p> 
-<p>4. Hole puncher</p>
-<p>5. Yarn / string (preferably blue)</p>
-<p>6. Marine animals <a href="https://go.gov.sg/sci-marine-animals" target="_blank">template</a> (to print)</p>
-<p>7. A pair of scissors</p>
-<p>8. Tape</p>
+<p>1. One paper plate<br>
+2. Crayons / colour pencils<br>
+3. Googly eyes / black marker (optional)<br>
+4. Hole puncher<br>
+5. Yarn / string (preferably blue)<br>
+6. Marine animals <a href="https://go.gov.sg/sci-marine-animals" target="_blank">template</a> (to print)<br>
+7. A pair of scissors<br>
+8. Tape<br></p>
+
+<img src="!/images/marine18.png" style="width:300px; text-align:left;">
+
 

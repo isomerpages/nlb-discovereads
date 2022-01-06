@@ -538,3 +538,58 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <h4>Tips for Parents:</h4> 
 <p>Do allow your child to colour the paper plate in other colours. Encourage them to use their creativity to decorate the paper plate. This activity gives your child an opportunity to express their ideas and help boost their confidence in making their own decisions.</p>
 
+<h4>LET'S TRY THIS AT HOME!</h4>
+<h5>It Is Time for Yoga</h5>
+<p>Check out this link for the different yoga poses based on the marine animals. Let's have some fun and stretch your body! <br>
+<i><b>Disclaimer:</b> Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.</i></p>
+
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/Marine21.png" style="width:150px; text-align:left;">
+    </div>
+   
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/Marine11.png" style="width:250px; text-align:left;">
+   </div>
+   <br>
+ </div>
+</div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/marine12.png" style="width:150px; text-align:left;">
+    </div>
+   <div class="text">
+      <p><b> Octopuses</b><br>
+      <u>Author:</u> Elizabeth R. Johnson<br>
+      <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
+   </p></div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/marine13%20Octopus.png" style="width:250px; text-align:left;">
+   </div>
+   <br>
+ </div>
+</div>
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/marine14.png" style="width:150px; text-align:left;"></a>
+    </div>
+   <div class="text">
+      <p><b> Starfish</b><br>
+      <u>Author:</u> Leo Statts<br>
+      <u>Publisher:</u> Minneapolis, Minnesota : Abdo Zoom, [2017]<br>
+   </p></div>
+  </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/marine15.png" style="width:250px; text-align:left;">
+   </div>
+   <br>
+ </div>
+</div>

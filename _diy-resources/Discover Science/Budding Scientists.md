@@ -422,7 +422,7 @@ If you drink seawater, these salt particles will get absorbed into our blood and
 </div>
 
 
-<p><br><i>How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from <a href="https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water   "target="_blank">https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water  
+<p><br><i>How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from <a href="https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water" target="_blank">https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water  
  </a>)</i>
 </p>
 
@@ -467,20 +467,21 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/Marine10.png" style="width:150px; text-align:left;"></a>
+      <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/marine12.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
-      <p><b> Jellyfish are brainless!</b><br>
-      <u>Author:</u> Amanda Vink<br>
-      <u>Publisher:</u> New York : Gareth Stevens Publishing, 2020<br>
+      <p><b> Octopuses</b><br>
+      <u>Author:</u> Elizabeth R. Johnson<br>
+      <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
    </p></div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <img src="/images/Marine11.png" style="width:250px; text-align:left;"></a>
+      <img src="/images/marine13.png" style="width:250px; text-align:left;"></a>
    </div>
    <br>
     </p></div>
  </div>
 </div>
 	<p>All book covers are copyright of the respective publishing companies.</p>
+	

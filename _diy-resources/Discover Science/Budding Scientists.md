@@ -505,9 +505,18 @@ By allowing your child to hypothesise and formulate answers based on their obser
 	
 <h4>LET'S CRAFT!</h4>
 <h5>Paper Plate Aquarium</h5>
-<img src="/images/marine16.png" style="width:300px; text-align:left;">
-<img src="/images/marine17.jpg" style="width:300px; text-align:left;">
-
+<div class="row is-multiline">
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/marine16.png" style="width:300px; text-align:left;">
+    </div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+   <div class="image">
+      <img src="/images/marine17.jpg" style="width:300px; text-align:left;">
+   </div>
+ </div>
+</div>
 <p>Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house. 
 </p>
 <h5>The materials required are</h5>
@@ -524,5 +533,3 @@ By allowing your child to hypothesise and formulate answers based on their obser
 
 <p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
 	<a href="/files/marine16%20craft.jpg" target="_blank">Instructions for Paper Plate Aquarium</a><br>
-	
-	

@@ -377,3 +377,7 @@ In addition, they come in all shapes and sizes, and have developed special featu
 <p>Below is the <a href="https://go.gov.sg/sci-world-map-ans" target="_blank">answer sheet</a> for the world map activity sheet.</p>
 <img src="/images/Marine5.png" style="width:400px; text-align:left;">
 <br>
+ <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185 "target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
+</p>
+
+

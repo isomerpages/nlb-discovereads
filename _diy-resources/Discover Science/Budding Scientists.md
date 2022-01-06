@@ -377,4 +377,3 @@ In addition, they come in all shapes and sizes, and have developed special featu
 <p>Below is the <a href="https://go.gov.sg/sci-world-map-ans" target="_blank">answer sheet</a> for the world map activity sheet.</p>
 <img src="/images/Marine5.png" style="width:400px; text-align:left;">
 <br>
-

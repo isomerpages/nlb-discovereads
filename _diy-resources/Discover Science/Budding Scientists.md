@@ -593,39 +593,39 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019929/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202545736" target="_blank"><img src="/images/Marine24.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
-      <p><b> Rosa's Big Boat Experiment</b><br>
-      <u>Author:</u> Jessica Spanyol<br>
-      <u>Publisher:</u> Swindon: Child's Play (International), 2020<br>
+      <p><b>Why is seawater salty?</b><br>
+      <u>Author:</u> Ellen Lawrence and Shawn W. Wallace<br>
+      <u>Publisher:</u> New York, New York : Bearport Publishing, 2016<br>
    </p></div>
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020151/364809740,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889581" target="_blank"><img src="/images/Marine25.jpg" style="width:150px; text-align:left;"></a>
    </div>
    <div class="text">
-       <p><b>Will It Float or Sink?</b><br>
-       <u>Author:</u> Lisa J. Amstutz<br>
-       <u>Publisher:</u> North Mankato, Minnesota: Pebble, a Capstone imprint, 2022<br>
+       <p><b>If sharks disappeared</b><br>
+       <u>Author:</u> Lily Williams<br>
+       <u>Publisher:</u> New York : Roaring Brook Press, 2017<br>
     </p></div>
  </div>
 </div>
 <div class="row is-multiline">
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020280/329824601,3" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+      <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204497339" target="_blank"><img src="/images/Marine26.png" style="width:150px; text-align:left;"></a>
     </div>
    <div class="text">
-      <p><b> Boats Will Float</b><br>
-      <u>Author:</u> Andria Warmflash Rosenbaum &amp; Brett Curzon (Illustrator)<br>
-      <u>Publisher:</u> Ann Arbor, MI: Sleeping Bear Press, 2020<br>
+      <p><b>Oceans</b><br>
+      <u>Author:</u> ANatasha Durley<br>
+      <u>Publisher:</u> London : Templar Publishing, 2020<br>
       </p></div>
   </div>
  <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281020430/171906539,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244390" target="_blank"><img src="/images/Marine27.png" style="width:150px; text-align:left;"></a>
    </div> 
    <div class="text">
 	 <p><b>Why Do Ice Cubes Float?</b><br>

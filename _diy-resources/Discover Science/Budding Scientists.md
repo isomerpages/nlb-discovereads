@@ -369,3 +369,10 @@ In addition, they come in all shapes and sizes, and have developed special featu
   </div>
 </div>
 
+<h4>Tips for Parents:</h4>
+<p>We have included a <a href="https://go.gov.sg/sci-world-map" target="_blank">world map activity sheet</a>. Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected. </p>
+<img src="/images/Marine4.png" style="width:400px; text-align:left;">
+<br>
+ 
+ 
+

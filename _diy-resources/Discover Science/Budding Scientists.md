@@ -425,3 +425,21 @@ If you drink seawater, these salt particles will get absorbed into our blood and
 <p><br><i>How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from <a href="https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water   "target="_blank">https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water  
  </a>)</i>
 </p>
+
+<h4>LET'S WATCH!</h4>
+
+<div class="row is-multiline margin--bottom--lg">
+  <div class="col is-two-fifths">
+    <div class="responsive-iframe-container ratio-16by9">
+      <iframe src="https://www.youtube.com/watch?v=hXtrIy95V80" class="responsive-iframe"></iframe>
+    </div>
+  </div>
+  <div class="col is-three-fifths">
+    <p><b> Under the Sea: Ocean Animal Moves (3min 07 secs) </b><br>
+Watch how different marine animals swim, jump and scurry. Can you move like them?
+</p>
+  </div>
+</div>
+
+
+	

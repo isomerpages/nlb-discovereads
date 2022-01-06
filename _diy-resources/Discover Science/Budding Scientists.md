@@ -552,7 +552,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
   </div>
   <div class="col is-half-tablet padding--bottom--lg">
    <div class="image">
-      <img src="/images/Marine11.png" style="width:250px; text-align:left;">
+		 <p>Whale pose <u>(Bow Pose)</u>: Bend your back and catch your legs to form an arching whale!</p>
    </div>
    <br>
  </div>

@@ -541,7 +541,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 
 <h4>LET'S TRY THIS AT HOME!</h4>
 <h5>It Is Time for Yoga</h5>
-<p>Check out this link for the different yoga poses based on the marine animals. Let's have some fun and stretch your body! <br>
+<p>Check out this <a href="https://parentingchaos.com/ocean-themed-kids-yoga/" target="_blank">link</a> for the different yoga poses based on the marine animals. Let's have some fun and stretch your body! <br>
 <i><b>Disclaimer:</b> Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.</i></p>
 
 <div class="row is-multiline">

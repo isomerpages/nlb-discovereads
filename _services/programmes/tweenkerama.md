@@ -13,14 +13,7 @@ Look out for Tweenkerama workshops this school holidays! Tweens get to explore a
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
 
-Please note that the Tweenkerama workshops in October 2021 have been cancelled.
 
-~~Upcoming workshops:~~
-* ~~Perfecting Paper Prototyping @  library@harbourfront, 8 October 2021, 2pm-4pm~~
-* ~~Perfecting Paper Prototyping @  Jurong Regional Library, 9 October 2021, 2pm-4pm~~
-* ~~Can You Build a Skyscraper? @ Toa Payoh Public Library, 9 October 2021, 2pm-4pm~~
-* ~~Gear Up! @ Bishan Public Library, 10 October 2021, 2pm-4pm~~
-* ~~Can You Build a Skyscraper? @ Geylang East Public Library, 10 October 2021, 2pm-4pm~~
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
 
@@ -53,7 +46,6 @@ The only magazine you need for cool, creative and out-of-this world ideas and ea
 
 Each issue of Tweenkerama Lab Mag is packed with information about STEAM topics and activities for you to complete.
 
-Psst, want a sneak peak at Issue 3? Head down to STEAM Lab on 23-24 November to get your hands on it first!
 
 Grab a copy of Issue #3 at the public libraries or download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
 Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf).

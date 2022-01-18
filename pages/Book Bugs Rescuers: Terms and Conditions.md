@@ -40,7 +40,7 @@ This means that non-individual membership types, such as the following, are excl
 
 **5.  Points from Online Quizzes**
 
-(a)	There will be a monthly online quiz available on [www.go.gov.sg/bookbugs](www.go.gov.sg/bookbugs) from January 2022 to September 2022. 
+(a)	There will be a monthly online quiz available on [www.go.gov.sg/bookbugs](www.go.gov.sg/bookbugs) from March 2022 to December 2022. 
 
 (b)	Maximum monthly points each patron may earn:
 
@@ -60,7 +60,7 @@ Minimum monthly points each patron may earn:
 
 (d)	Points will be awarded based only on scores for the first attempt by each patron in the monthly English quiz and/or the Mother Tongue Language quiz.<br>
 
-(e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in January 2022, points will be credited by 7 February 2022, 2359 hours.)<br>
+(e)	Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in March 2022, points will be credited by 7 April 2022, 2359 hours.)<br>
 
 
 **6.   Redemption of points for Book Bugs Cards**
@@ -69,6 +69,6 @@ Minimum monthly points each patron may earn:
 
 (b)	Redemption for 1 card requires 4 points. Once you have clicked “Redeem”, 4 points will be deducted from your account.<br>
 
-(c)	Patrons are to use the QR code(s) or 8-digit code(s) to collect their card(s) from the Book Bugs card machines located at all public libraries (except library@chinatown, library@esplanade and library@orchard) from January 2022 to September 2022, during library operating hours.<br>
+(c)	Patrons are to use the QR code(s) or 8-digit code(s) to collect their card(s) from the Book Bugs card machines located at all public libraries (except library@chinatown, library@esplanade and library@orchard) from March 2022 to December 2022, during library operating hours.<br>
 
 (d)	All card redemptions at the libraries are while stocks last.

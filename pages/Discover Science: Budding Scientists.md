@@ -213,6 +213,8 @@ Back to top
 #### Let’s Learn about Marine Animals
 **Suitable for 4 to 6 years old**
 
+![Alt text for image on Isomer site](/images/Marine1.png)
+
 The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
@@ -221,31 +223,34 @@ In addition, they come in all shapes and sizes, and have developed special featu
 #### Tuning-in Song: One, Two, Three, Four, Five, Once I Caught a Fish Alive
 A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.
 
+![Alt text for image on Isomer site](/images/Marine2.png)
 
 ### LET'S LEARN!
 
+![Alt text for image on Isomer site](/images/Marine3.png)
 Did you know that the water covers approximately 71% of the Earth's surface? Out of which, 98% of the water on Earth belongs to the ocean! You can find the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the Arctic Ocean, and the Southern Ocean on the world map. They are all connected as one ocean and water flows freely between them.
 
 ### LET'S PLAY!
 We have included a [world activity map sheet](https://go.gov.sg/sci-world-map). Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected.
 
+![Alt text for image on Isomer site](/images/Marine4.png)
 
 Below is the [answer sheet](https://go.gov.sg/sci-world-map-ans) for the world map activity sheet.
 
-
+![Alt text for image on Isomer site](/images/Marine5.png)
 
 (Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from https://kids.britannica.com/kids/article/ocean/346185 )
 
 ### Fun Facts
 The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
 
-
+![Alt text for image on Isomer site](/images/Marine6.png)
 
 Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from https://www.youtube.com/watch?v=1qbUUGguJjE )
 
 ### LET'S THINK!
 
-Do you think we can drink seawater (i.e. the water from the ocean)? Why?
+![Alt text for image on Isomer site](/images/Marine7.png)Do you think we can drink seawater (i.e. the water from the ocean)? Why?
 
 If you drink seawater, these salt particles will get absorbed into our blood and flow through our body. Our body cannot get rid of the salt particles and this can cause our body to feel dehydrated, or extremely thirsty.
 
@@ -254,14 +259,16 @@ Water Q&A: Why can't people drink seawater?. Water Q&A: Why can't people drink s
 
 ### LET'S LEARN!
 
+![Alt text for image on Isomer site](/images/Marine8.png)
 The ocean is home to many marine animals (such as whales, sharks, jellyfishes, starfishes, octopuses, etc). Although there is a high concentration of salt in the ocean, these animals have developed ways to cope and remove excess salt from their bodies so they can survive in the ocean.
-
 
 How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water )
 
 ### LET'S WATCH!
 
-Under the Sea: Ocean Animal Moves (3min 07 secs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXtrIy95V80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Under the Sea: Ocean Animal Moves (3min 07 secs)**<br>
 Watch how different marine animals swim, jump and scurry. Can you move like them?
 
 #### Tips for Parents:
@@ -282,7 +289,8 @@ By allowing your child to hypothesise and formulate answers based on their obser
 All book covers are copyright of the respective publishing companies.
 
 ### LET'S CRAFT!
-Paper Plate Aquarium
+#### Paper Plate Aquarium
+
 
 
 Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house.

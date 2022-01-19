@@ -134,20 +134,13 @@ Unwind with your child with these helpful videos in understanding horology, the 
 
 | Book Cover | Book Cover | 
 | -------- | -------- | 
-| Telling the Time<br>Author: Rosie Hore and Shaw Nielsen (Illustrator)<br> Publisher: London: Usborne, 2016     | Measuring Time<br>Author: Meg Gaertner<br>Publisher: Minneapolis: Cody Koala, an imprint of Pop!, a division of ABDO, 2020  | 
+| ****Telling the Time****<br>Author: Rosie Hore and Shaw Nielsen (Illustrator)<br> Publisher: London: Usborne, 2016     | ***Measuring Time***<br>Author: Meg Gaertner<br>Publisher: Minneapolis: Cody Koala, an imprint of Pop!, a division of ABDO, 2020  |
+| Book Cover | Book Cover |
+| ****Time**** <br>Author: Julie Murray <br> Publisher: Minneapolis, Minnesota: Abdo Kids Junior is an imprint of Abdo Kids, 2020 | ****I Know About Telling Time**** <br> Author: Richard Little <br> Publisher: New York: Gareth Stevens Publishing, 2018 |
 
-Time
-Author: Julie Murray
-Publisher: Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]
-
-I Know About Telling Time
-Author: Richard Little
-Publisher: New York : Gareth Stevens Publishing, 2018
 All book covers are copyright of the respective publishing companies.
 
-
 Back to top
-
 
 ABC's of Applied Chemistry for Kids:
 Let’s Learn About Density

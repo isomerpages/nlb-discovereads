@@ -144,7 +144,7 @@ Unwind with your child with these helpful videos in understanding horology, the 
 
 All book covers are copyright of the respective publishing companies.
 
-Back to top
+<b><a href=”#top”>Back to top</a></b>
 
 ## ABC's of Applied Chemistry for Kids: <br>Let’s Learn About Density
 ****Suitable for 4 to 6 years old****
@@ -211,7 +211,7 @@ All book covers are copyright of the respective publishing companies.
 ### LET'S TRY THIS AT HOME!
 Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 
-Back to top
+<b><a href=”#top”>Back to top</a></b>
 
 ### All About Animals: <br>Let’s Learn about Marine Animals
 **Suitable for 4 to 6 years old**
@@ -280,8 +280,6 @@ As you watch the video with your child, try asking them open-ended questions abo
 By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!
 
 ### LET'S READ!
-
-
 
 | ![Alt text for image on Isomer site](/images/Marine10.png) **Jellyfish are brainless!**<br>Author: Amanda Vink<br>Publisher: New York: Gareth Stevens Publishing, 2020 | ![Alt text for image on Isomer site](/images/Marine11.png) |
 | -------- | -------- | 

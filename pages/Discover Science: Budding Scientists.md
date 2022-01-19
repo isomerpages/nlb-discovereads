@@ -176,7 +176,7 @@ Constant repetition and exposure are key in not just improving vocabulary but al
 | <iframe width="280" height="157" src="https://www.youtube.com/embed/GuLlRoG6ahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | **How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)**<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
 
 ### LET’S INVESTIGATE!
-Experiment time! <br>
+**Experiment time!** <br>
 Objective: To find out how different densities affect how liquids react with one another.
 
 Materials required:
@@ -335,20 +335,12 @@ Yoga is a fantastic parent-child bonding activity that can help improve your chi
 
 ### LET'S READ MORE!
 
-Why is seawater salty? <br>
-Author: Ellen Lawrence and Shawn W. Wallace <br>
-Publisher: New York, New York : Bearport Publishing, 2016 <br>
 
-If sharks disappeared <br>
-Author: Lily Williams <br>
-Publisher: New York : Roaring Brook Press, 2017 <br>
 
-Oceans<br>
-Author: Natasha Durley <br>
-Publisher: London : Templar Publishing, 2020<br>
-
-Yoga whale : simple poses for little ones<br>
-Author: Sarah Jane Hinder <Br>
-Publisher: Boulder, CO : Sounds True, Inc., 2019 <br>
+| Book Cover | Book Cover | 
+| -------- | -------- | 
+| **Why is seawater salty?** <br> Author: Ellen Lawrence and Shawn W. Wallace <br> Publisher: New York, New York : Bearport Publishing, 2016     | **If sharks disappeared** <br> Author: Lily Williams <br> Publisher: New York : Roaring Brook Press, 2017    | 
+| Book Cover    | Book Cover     |
+| **Oceans**<br> Author: Natasha Durley <br> Publisher: London : Templar Publishing, 2020     | **Yoga whale : simple poses for little ones** <br> Author: Sarah Jane Hinder <br> Publisher: Boulder, CO : Sounds True, Inc., 2019     |
 
 All book covers are copyright of the respective publishing companies.

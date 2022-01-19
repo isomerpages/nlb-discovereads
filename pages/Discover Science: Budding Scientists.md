@@ -218,9 +218,9 @@ Have a fun day at the swimming pool and inflate a float together with your child
 
 Back to top
 
-All About Animals:
-Let’s Learn about Marine Animals
-Suitable for 4 to 6 years old
+### All About Animals:
+#### Let’s Learn about Marine Animals
+**Suitable for 4 to 6 years old**
 
 
 The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.

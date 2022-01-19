@@ -125,17 +125,17 @@ Observing their environment and identifying differences is an easy way to get ch
 #### LET'S WATCH!
 Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!
 
-| <iframe width="280" height="157" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | ****How to Tell the Time - Educational Video for Kids (3 min 3 secs)****<br>In this 3-minute video, learn more about the different parts of clocks and their many functions.  | 
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **How to Tell the Time - Educational Video for Kids (3 min 3 secs)**<br>In this 3-minute video, learn more about the different parts of clocks and their many functions.  | 
 | -------- | -------- | 
-| <iframe width="280" height="157" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | ****Concept of Time (7 min 26 secs)***<br> Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.    | 
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/HqkXUJ7RHEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | **Concept of Time (7 min 26 secs)** <br> Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.    | 
 
 ### LET'S READ MORE!
 
 | Book Cover | Book Cover | 
 | -------- | -------- | 
-| ****Telling the Time****<br>Author: Rosie Hore and Shaw Nielsen (Illustrator)<br> Publisher: London: Usborne, 2016     | ***Measuring Time***<br>Author: Meg Gaertner<br>Publisher: Minneapolis: Cody Koala, an imprint of Pop!, a division of ABDO, 2020  |
+| **Telling the Time**<br>Author: Rosie Hore and Shaw Nielsen (Illustrator)<br> Publisher: London: Usborne, 2016     | **Measuring Time**<br>Author: Meg Gaertner<br>Publisher: Minneapolis: Cody Koala, an imprint of Pop!, a division of ABDO, 2020  |
 | Book Cover | Book Cover |
-| ****Time**** <br>Author: Julie Murray <br> Publisher: Minneapolis, Minnesota: Abdo Kids Junior is an imprint of Abdo Kids, 2020 | ****I Know About Telling Time**** <br> Author: Richard Little <br> Publisher: New York: Gareth Stevens Publishing, 2018 |
+| **Time** <br>Author: Julie Murray <br> Publisher: Minneapolis, Minnesota: Abdo Kids Junior is an imprint of Abdo Kids, 2020 | **I Know About Telling Time** <br> Author: Richard Little <br> Publisher: New York: Gareth Stevens Publishing, 2018 |
 
 All book covers are copyright of the respective publishing companies.
 

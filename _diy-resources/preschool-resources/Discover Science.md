@@ -1,8 +1,8 @@
 ---
 title: Discover Science
-permalink: /diy-resources/Discover-Science/permalink
+permalink: /diy-resources/preschool-resources/discover-science
 description: ""
-third_nav_title: Discover Science
+third_nav_title: Preschool Resources
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Discover%20Science_ER%20Logo.png)
 
@@ -16,8 +16,8 @@ third_nav_title: Discover Science
 
 <h4>Budding Scientists</h4>
 
-<a href="https://childrenandteens.nlb.gov.sg/diy-resources/Budding-Scientists/permalink" target="_blank"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
+<a href="https://childrenandteens.nlb.gov.sg/budding-scientists" target="_blank"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
 
 <h4>Budding Engineers</h4>
 
-<a href="https://childrenandteens.nlb.gov.sg/diy-resources/Budding-Engineers/permalink" target="_blank"><img src="/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png" style="width:250px; text-align:left;"></a>
+<a href="https://childrenandteens.nlb.gov.sg/budding-engineers" target="_blank"><img src="/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png" style="width:250px; text-align:left;"></a>

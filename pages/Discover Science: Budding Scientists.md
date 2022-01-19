@@ -9,7 +9,7 @@ description: ""
 ## ABC's of Applied Physics for Kids: It's Time to Learn about Time!
 ****Suitable for 4 to 6 years old****
 
-(can't find this image)
+![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
 
 Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!
 
@@ -131,8 +131,6 @@ Unwind with your child with these helpful videos in understanding horology, the 
 
 ### LET'S READ MORE!
 
-
-
 | Book Cover | Book Cover | 
 | -------- | -------- | 
 | ****Telling the Time****<br>Author: Rosie Hore and Shaw Nielsen (Illustrator)<br> Publisher: London: Usborne, 2016     | ***Measuring Time***<br>Author: Meg Gaertner<br>Publisher: Minneapolis: Cody Koala, an imprint of Pop!, a division of ABDO, 2020  |
@@ -173,9 +171,9 @@ Constant repetition and exposure are key in not just improving vocabulary but al
 
 ### LET'S WATCH!
 
-| Video 1 | ****What is Density?: Science for Kids (1 min 57 secs)***<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size! |
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/1HJkEVOZbTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | ****What is Density?: Science for Kids (1 min 57 secs)***<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size! |
 | -------- | -------- | 
-| Video 2     | ****How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)***<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/GuLlRoG6ahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | ****How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)***<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
 
 ### LET’S INVESTIGATE!
 Experiment time! <br>
@@ -190,16 +188,12 @@ Materials required:
 2. In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.
 3. Pour the bowl of oil and food colouring into the bottle of water.
 4. Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!
-5. (Optional) Print out the Observations Table to go through and record the observations with your child.
+5. (Optional) Print out the [Observations Table](/files/science-lfa/density/Density_Observations%20Table.PDF) to go through and record the observations with your child.
 
-
-Step 2
-Step 4
-
-Tips for Parents:
+#### Tips for Parents:
 By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.
 
-LET'S READ!
+### LET'S READ!
 
 
 Rosa's Big Boat Experiment
@@ -219,7 +213,7 @@ Author: Benjamin Proudfit
 Publisher: New York : Gareth Stevens Publishing, 2016
 All book covers are copyright of the respective publishing companies.
 
-LET'S TRY THIS AT HOME!
+### LET'S TRY THIS AT HOME!
 Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 
 Back to top

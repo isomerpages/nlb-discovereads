@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
-## ABC's of Applied Physics for Kids: It's Time to Learn about Time!
+## ABC's of Applied Physics for Kids: <br> It's Time to Learn about Time!
 **Suitable for 4 to 6 years old**
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
@@ -74,11 +74,11 @@ Download and print out the resources below for activities that you can do with y
 
 The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!
 
-[Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)
+[Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.PDF)
 
 The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?
 
-[Different Time Tellers!](/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf)
+[Different Time Tellers!](/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.PDF)
 
 Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!
 
@@ -91,11 +91,13 @@ How about giving the two activities below a try? They will give your child a lit
 
 ### Activity 1: How Did People Tell Time Before Clocks?
 
+![Alt text for image on Isomer site](/images/TellingTimewiththeSun.png)
+
 1. At around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?
 
 2. Have them write down or draw their observations. They can fill up the table appended below.
 
-[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
+[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.PDF)
 
 3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations.
 
@@ -131,18 +133,17 @@ Unwind with your child with these helpful videos in understanding horology, the 
 
 ### LET'S READ MORE!
 
-| Book Cover | Book Cover | 
+| ![Alt text for image on Isomer site](/images/TellingtheTimebook.png) | ![Alt text for image on Isomer site](/images/Measuringtime.png) | 
 | -------- | -------- | 
 | **Telling the Time**<br>Author: Rosie Hore and Shaw Nielsen (Illustrator)<br> Publisher: London: Usborne, 2016     | **Measuring Time**<br>Author: Meg Gaertner<br>Publisher: Minneapolis: Cody Koala, an imprint of Pop!, a division of ABDO, 2020  |
-| Book Cover | Book Cover |
+| ![Alt text for image on Isomer site](/images/Time.png) | ![Alt text for image on Isomer site](/images/Iknowabouttellingthetime.png) |
 | **Time** <br>Author: Julie Murray <br> Publisher: Minneapolis, Minnesota: Abdo Kids Junior is an imprint of Abdo Kids, 2020 | **I Know About Telling Time** <br> Author: Richard Little <br> Publisher: New York: Gareth Stevens Publishing, 2018 |
 
 All book covers are copyright of the respective publishing companies.
 
 Back to top
 
-#### ABC's of Applied Chemistry for Kids:
-### Let’s Learn About Density
+## ABC's of Applied Chemistry for Kids: <br>Let’s Learn About Density
 ****Suitable for 4 to 6 years old****
 
 Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!
@@ -209,8 +210,7 @@ Have a fun day at the swimming pool and inflate a float together with your child
 
 Back to top
 
-### All About Animals:
-#### Let’s Learn about Marine Animals
+### All About Animals: <br>Let’s Learn about Marine Animals
 **Suitable for 4 to 6 years old**
 
 ![Alt text for image on Isomer site](/images/Marine1.png)
@@ -280,18 +280,17 @@ By allowing your child to hypothesise and formulate answers based on their obser
 
 
 
-| Book Cover | Book Cover |
+| ![Alt text for image on Isomer site](/images/Marine10.png) **Jellyfish are brainless!**<br>Author: Amanda Vink<br>Publisher: New York: Gareth Stevens Publishing, 2020 | ![Alt text for image on Isomer site](/images/Marine11.png) |
 | -------- | -------- | 
-| **Jellyfish are brainless!** <br> Author: Amanda Vink <br> Publisher: New York : Gareth Stevens Publishing, 2020     | **Octopuses** <br> Author: Elizabeth R. Johnson <br> Publisher: North Mankato, Minnesota : Capstone Press, 2017     |
-| Book Cover     |      |
-| **Starfish** <br> Author: Leo Statts<br> Publisher: Minneapolis, Minnesota : Abdo Zoom, 2017     |      |
+| ![Alt text for image on Isomer site](/images/marine12.png) **Octopuses** <br> Author: Elizabeth R. Johnson<br> Publisher: North Mankato, Minnesota: Capstone Press, 2017    |     ![Alt text for image on Isomer site](/images/marine13%20Octopus.png) |
+| ![Alt text for image on Isomer site](/images/marine14.png)  **Starfish**<br> Author: Leo Statts<br> Publisher: Minneapolis, Minnesota: Abdo Zoom, 2017   | ![Alt text for image on Isomer site](/images/marine15.png)     |
 
 All book covers are copyright of the respective publishing companies.
 
 ### LET'S CRAFT!
 #### Paper Plate Aquarium
 
-
+| ![Alt text for image on Isomer site](/images/marine16.png) | ![Alt text for image on Isomer site](/images/marine17.jpg) |
 
 Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house.
 

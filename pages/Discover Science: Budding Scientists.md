@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 ## ABC's of Applied Physics for Kids: It's Time to Learn about Time!
-****Suitable for 4 to 6 years old
+****Suitable for 4 to 6 years old****
 
 (can't find this image)
 
@@ -27,23 +27,27 @@ The repetitive nature of the song helps with pattern recognition and rhythm sync
 
 ![Alt text for image on Isomer site](/images/fixthatclock.png)
 
-****Fix that Clock! <br>
+****Fix that Clock!**** <br>
 Author: Kurt Cyrus <br>
 Publisher: Boston ; New York : Houghton Mifflin Harcourt, 2019 <br>
 
 ### Tips for Parents:
 Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.
 
+![Alt text for image on Isomer site](/images/BooktalkQuestions.png)
 
-LET'S CRAFT!
-Crafting your own Clock!
+### LET'S CRAFT!
+#### Crafting your own Clock!
+
+![Alt text for image on Isomer site](/images/ClockCraft.jpg)
 
 Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.
 
 This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!
 
-Template for Clock Crafting Activity
-Instructions
+[Template for Clock Crafting Activity](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.PDF)
+
+### Instructions
 1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.
 
 2. Cut out the circles and clock hands from the template prepared.
@@ -52,42 +56,46 @@ Instructions
 
 4. Using a paper fastener, fasten all three of the clock hands to the face and ta-da! You have your very own wonderful time teller!
 
-LET'S INVESTIGATE!
-Learning with your Handmade Clock
+### LET'S INVESTIGATE!
+#### Learning with your Handmade Clock
 We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.
 
-
+![Alt text for image on Isomer site](/images/HoursandMinutes.png)
 
 Download the printable below and paste it up somewhere to help your child remember the values of hours and minutes.
 
-Learning With Your Handmade Clock
-LET'S PLAY!
+[Learning With Your Handmade Clock](/files/science-lfa/applied-physics-time/HoursandMinutesActivity.PDF)
+
+### LET'S PLAY!
 Play is a great way to get children excited about learning and discovering new concepts.
 
 Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.
 
 The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!
 
-Different Times of the Day!
+[Different Times of the Day!](/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf)
+
 The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?
 
-Different Time Tellers!
+[Different Time Tellers!](/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf)
+
 Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!
 
+![sundial](/images/Sundial.png)
 
-
-LET'S TRY THESE AT HOME!
+### LET'S TRY THESE AT HOME!
 With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to supplement their reading.
 
 How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.
 
-Activity 1: How Did People Tell Time Before Clocks?
+### Activity 1: How Did People Tell Time Before Clocks?
 
 1. At around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?
 
 2. Have them write down or draw their observations. They can fill up the table appended below.
 
-My Observation Table
+[My Observation Table](/files/science-lfa/applied-physics-time/MyObservationTable.pdf)
+
 3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations.
 
 4. Explain to your child that before clocks were invented, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.
@@ -96,7 +104,9 @@ My Observation Table
 
 Note: Do remind your child to take breaks as prolonged staring at the sun may damage their eyes.
 
-Activity 2: Analog vs Digital
+### Activity 2: Analog vs Digital
+
+![Alt text for image on Isomer site](/images/AnalogvsDigital.png)
 
 In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will help your child be more exposed to the different timepieces.
 
@@ -108,19 +118,15 @@ In this modern world, clocks come in all different shapes, sizes, and forms. Ana
 
 4. Once they become more confident, start writing down timings in analog format and have them rewrite the timings in digital formats. Take turns being Analog and being Digital.
 
-Tips for Parents:
+#### Tips for Parents:
 Observing their environment and identifying differences is an easy way to get children thinking in a more scientific manner. Guide them along with probing questions: why do they think that way and how did they come to that conclusion? As time is abstract, do not feel discouraged if your child takes a while to understand. With consistent encouragement, they will eventually get the hang of it.
 
-LET'S WATCH!
+#### LET'S WATCH!
 Unwind with your child with these helpful videos in understanding horology, the study of time, a little better. Horology itself is a word that you can teach your children!
 
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/3Posbu-VKxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    | ****How to Tell the Time - Educational Video for Kids (3 min 3 secs).**** <br> In this 3-minute video, learn more about the different parts of clocks and their many functions. |
 
-How to Tell the Time – Educational Video for Kids (3 min 3 secs)
-In this 3-minute video, learn more about the different parts of clocks and their many functions!
-
-
-Concept of Time (7 min 26 secs)
-Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.
+|Text | ****Concept of Time (7 min 26 secs)****<br>Take it a step further and introduce your child to the concepts of AM and PM, as well as how certain things can take less time or more time.
 
 LET'S READ MORE!
 

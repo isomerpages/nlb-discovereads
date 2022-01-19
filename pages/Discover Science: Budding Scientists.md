@@ -341,10 +341,10 @@ Yoga is a fantastic parent-child bonding activity that can help improve your chi
 
 ### LET'S READ MORE!
 
-| <img src="/images/Marine24.png " style width="40%"> | ![Alt text for image on Isomer site](/images/Marine25.jpg) | 
+| <img src="/images/Marine24.png " style= "width: 50%"> | <img src="/images/Marine25.jpg" style="width: 100%"> | 
 | -------- | -------- | 
 | **Why is seawater salty?** <br> Author: Ellen Lawrence and Shawn W. Wallace <br> Publisher: New York, New York : Bearport Publishing, 2016     | **If sharks disappeared** <br> Author: Lily Williams <br> Publisher: New York : Roaring Brook Press, 2017    | 
-| ![Alt text for image on Isomer site](/images/Marine26.png)    | ![Alt text for image on Isomer site](/images/Marine27.png)     |
+| <img src="/images/Marine26.png" style="width:50%">    | <img src="/images/Marine27.png" style="width: 100%">   |
 | **Oceans**<br> Author: Natasha Durley <br> Publisher: London : Templar Publishing, 2020     | **Yoga whale : simple poses for little ones** <br> Author: Sarah Jane Hinder <br> Publisher: Boulder, CO : Sounds True, Inc., 2019     |
 
 All book covers are copyright of the respective publishing companies.

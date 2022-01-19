@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 ## ABC's of Applied Physics for Kids: It's Time to Learn about Time!
-****Suitable for 4 to 6 years old****
+**Suitable for 4 to 6 years old**
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
 
@@ -28,7 +28,7 @@ The repetitive nature of the song helps with pattern recognition and rhythm sync
 
 ![Alt text for image on Isomer site](/images/fixthatclock.png)
 
-****Fix that Clock!**** <br>
+**Fix that Clock!** <br>
 Author: Kurt Cyrus <br>
 Publisher: Boston ; New York : Houghton Mifflin Harcourt, 2019 <br>
 
@@ -171,9 +171,9 @@ Constant repetition and exposure are key in not just improving vocabulary but al
 
 ### LET'S WATCH!
 
-| <iframe width="280" height="157" src="https://www.youtube.com/embed/1HJkEVOZbTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | ****What is Density?: Science for Kids (1 min 57 secs)***<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size! |
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/1HJkEVOZbTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **What is Density?: Science for Kids (1 min 57 secs)**<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size! |
 | -------- | -------- | 
-| <iframe width="280" height="157" src="https://www.youtube.com/embed/GuLlRoG6ahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | ****How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)***<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
+| <iframe width="280" height="157" src="https://www.youtube.com/embed/GuLlRoG6ahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | **How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)**<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
 
 ### LET’S INVESTIGATE!
 Experiment time! <br>
@@ -183,7 +183,7 @@ Materials required:
 
 ![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png)
 
-****Steps****
+**Steps**
 1. Fill the bottle with water.
 2. In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.
 3. Pour the bowl of oil and food colouring into the bottle of water.

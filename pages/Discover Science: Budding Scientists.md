@@ -151,7 +151,7 @@ All book covers are copyright of the respective publishing companies.
 <a href=”#top”>Back to top</a>
 
 ## ABC's of Applied Chemistry for Kids: <br>Let’s Learn About Density
-****Suitable for 4 to 6 years old****
+**Suitable for 4 to 6 years old**
 
 Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!
 

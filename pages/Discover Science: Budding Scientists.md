@@ -272,19 +272,12 @@ By allowing your child to hypothesise and formulate answers based on their obser
 ### LET'S READ!
 
 
-Jellyfish are brainless!
-Author: Amanda Vink
-Publisher: New York : Gareth Stevens Publishing, 2020
 
-
-Octopuses
-Author: Elizabeth R. Johnson
-Publisher: North Mankato, Minnesota : Capstone Press, [2017]
-
-
-Starfish
-Author: Leo Statts
-Publisher: Minneapolis, Minnesota : Abdo Zoom, [2017]
+| Book Cover | Book Cover |
+| -------- | -------- | 
+| **Jellyfish are brainless!** <br> Author: Amanda Vink <br> Publisher: New York : Gareth Stevens Publishing, 2020     | **Octopuses** <br> Author: Elizabeth R. Johnson <br> Publisher: North Mankato, Minnesota : Capstone Press, 2017     |
+| Book Cover     |      |
+| **Starfish** <br> Author: Leo Statts<br> Publisher: Minneapolis, Minnesota : Abdo Zoom, 2017     |      |
 
 All book covers are copyright of the respective publishing companies.
 
@@ -334,8 +327,6 @@ Seahorse pose (Chair Pose): Reach high above your head while bending your knees 
 Yoga is a fantastic parent-child bonding activity that can help improve your child's gross motor skills as well as strengthen the muscles in their body. Linking vocabulary (names of animals) to specific yoga poses is also a great way to reinforce and remember new words!
 
 ### LET'S READ MORE!
-
-
 
 | Book Cover | Book Cover | 
 | -------- | -------- | 

@@ -156,15 +156,15 @@ Density is a measurement that compares the amount of matter an object as to its 
 
 Use these [printables](/files/science-lfa/density/Density_Explanation%20Printables.PDF) to further explain density to your child!
 
-****Try introducing these words to your child! Here are some example sentences to incorporate:****
+**Try introducing these words to your child! Here are some example sentences to incorporate:**
 
-| ****Liquid**** | Liquids do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are liquids. | 
+| **Liquid** | Liquids do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are liquids. | 
 | -------- | -------- | 
-| ****Solid****    | Solids have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a solid.  |
-| ****Float**** | Let's put this pencil into water. Do you see that it floats on water? |
-| ****Sink**** | Try putting this coin into water. It sinks all the way to the bottom! |
-| ****Molecules**** | Molecules are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. |
-| ****Density**** | The density of an object depends on how many molecules make up the object. |
+| **Solid**    | Solids have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a solid.  |
+| **Float** | Let's put this pencil into water. Do you see that it floats on water? |
+| **Sink** | Try putting this coin into water. It sinks all the way to the bottom! |
+| **Molecules** | Molecules are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. |
+| **Density** | The density of an object depends on how many molecules make up the object. |
 
 #### Tips for Parents:
 Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.

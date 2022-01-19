@@ -196,21 +196,12 @@ By having your child predict and record their observations, you are helping them
 ### LET'S READ!
 
 
-Rosa's Big Boat Experiment
-Author: Jessica Spanyol
-Publisher: Swindon: Child's Play (International), 2020
+| Book Cover | Book Cover |
+| -------- | -------- | 
+| **Rosa's Big Boat Experiment** <br> Author: Jessica Spanyol <br> Publisher: Swindon: Child's Play (International), 2020      | **Will It Float or Sink?** <br> Author: Lisa J. Amstutz <br> Publisher: North Mankato, Minnesota: Pebble, a Capstone imprint, 2022     | 
+| Book Cover     | Book Cover     |
+| **Boats Will Float** <br> Author: Andria Warmflash Rosenbaum & Brett Curzon (Illustrator) <br> Publisher: Ann Arbor, MI: Sleeping Bear Press, 2020     | **Why Do Ice Cubes Float?** <br> Author: Benjamin Proudfit <br> Publisher: New York : Gareth Stevens Publishing, 2016   |
 
-Will It Float or Sink?
-Author: Lisa J. Amstutz
-Publisher: North Mankato, Minnesota: Pebble, a Capstone imprint, 2022
-
-Boats Will Float
-Author: Andria Warmflash Rosenbaum & Brett Curzon (Illustrator)
-Publisher: Ann Arbor, MI: Sleeping Bear Press, 2020
-
-Why Do Ice Cubes Float?
-Author: Benjamin Proudfit
-Publisher: New York : Gareth Stevens Publishing, 2016
 All book covers are copyright of the respective publishing companies.
 
 ### LET'S TRY THIS AT HOME!
@@ -222,53 +213,53 @@ Back to top
 #### Let’s Learn about Marine Animals
 **Suitable for 4 to 6 years old**
 
-
 The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.
 
 In addition, they come in all shapes and sizes, and have developed special features that enable them to survive underwater. Ever wondered what is the living habitat like for these marine animals? Let’s read on to find out more!
 
-LET'S SING!
-Tuning-in Song: One, Two, Three, Four, Five, Once I Caught a Fish Alive
+### LET'S SING!
+#### Tuning-in Song: One, Two, Three, Four, Five, Once I Caught a Fish Alive
 A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.
 
 
-LET'S LEARN!
+### LET'S LEARN!
 
 Did you know that the water covers approximately 71% of the Earth's surface? Out of which, 98% of the water on Earth belongs to the ocean! You can find the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the Arctic Ocean, and the Southern Ocean on the world map. They are all connected as one ocean and water flows freely between them.
 
-LET'S PLAY!
-We have included a world map activity sheet. Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected.
+### LET'S PLAY!
+We have included a [world activity map sheet](https://go.gov.sg/sci-world-map). Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected.
 
 
-Below is the answer sheet for the world map activity sheet.
+Below is the [answer sheet](https://go.gov.sg/sci-world-map-ans) for the world map activity sheet.
 
 
 
 (Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from https://kids.britannica.com/kids/article/ocean/346185 )
 
-Fun Facts
+### Fun Facts
 The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
 
 
 
 Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from https://www.youtube.com/watch?v=1qbUUGguJjE )
 
-LET'S THINK!
+### LET'S THINK!
 
 Do you think we can drink seawater (i.e. the water from the ocean)? Why?
+
 If you drink seawater, these salt particles will get absorbed into our blood and flow through our body. Our body cannot get rid of the salt particles and this can cause our body to feel dehydrated, or extremely thirsty.
 
 
 Water Q&A: Why can't people drink seawater?. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater )
 
-LET'S LEARN!
+### LET'S LEARN!
 
 The ocean is home to many marine animals (such as whales, sharks, jellyfishes, starfishes, octopuses, etc). Although there is a high concentration of salt in the ocean, these animals have developed ways to cope and remove excess salt from their bodies so they can survive in the ocean.
 
 
 How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water )
 
-LET'S WATCH!
+### LET'S WATCH!
 
 Under the Sea: Ocean Animal Moves (3min 07 secs)
 Watch how different marine animals swim, jump and scurry. Can you move like them?
@@ -278,7 +269,7 @@ As you watch the video with your child, try asking them open-ended questions abo
 
 By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!
 
-LET'S READ!
+### LET'S READ!
 
 
 Jellyfish are brainless!
@@ -297,31 +288,32 @@ Publisher: Minneapolis, Minnesota : Abdo Zoom, [2017]
 
 All book covers are copyright of the respective publishing companies.
 
-LET'S CRAFT!
+### LET'S CRAFT!
 Paper Plate Aquarium
 
 
 Let’s make a sea aquarium habitat with your child! This crafting activity is simple and requires materials that can be found around the house.
 
-Materials required:
+#### Materials required:
 1. One paper plate
 2. Crayons / colour pencils
 3. Googly eyes / black marker (optional)
 4. Hole puncher
 5. Yarn / string (preferably blue)
-6. Marine animals template (to print)
+6. Marine animals [template](https://go.gov.sg/sci-marine-animals) (to print)
 7. A pair of scissors
 8. Tape
 
-
 Download the instructions below to help you make the Paper Plate Aquarium!
-Instructions for Paper Plate Aquarium
+
+[Instructions for Paper Plate Aquarium](/files/Paper%20Plate%20Aquarium.PDF)
+
 The sea aquarium habitat is now ready to welcome the marine animals!
 
 Tips for Parents:
 Do allow your child to colour the paper plate in other colours. Encourage them to use their creativity to decorate the paper plate. This activity gives your child an opportunity to express their ideas and help boost their confidence in making their own decisions.
 
-LET'S TRY THIS AT HOME!
+### LET'S TRY THIS AT HOME!
 It Is Time for Yoga
 Check out this link for the different yoga poses based on the marine animals. Let's have some fun and stretch your body!
 Disclaimer: Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.
@@ -341,21 +333,22 @@ Seahorse pose (Chair Pose): Reach high above your head while bending your knees 
 Tips for Parents:
 Yoga is a fantastic parent-child bonding activity that can help improve your child's gross motor skills as well as strengthen the muscles in their body. Linking vocabulary (names of animals) to specific yoga poses is also a great way to reinforce and remember new words!
 
-LET'S READ MORE!
+### LET'S READ MORE!
 
-Why is seawater salty?
-Author: Ellen Lawrence and Shawn W. Wallace
-Publisher: New York, New York : Bearport Publishing, 2016
+Why is seawater salty? <br>
+Author: Ellen Lawrence and Shawn W. Wallace <br>
+Publisher: New York, New York : Bearport Publishing, 2016 <br>
 
-If sharks disappeared
-Author: Lily Williams
-Publisher: New York : Roaring Brook Press, 2017
+If sharks disappeared <br>
+Author: Lily Williams <br>
+Publisher: New York : Roaring Brook Press, 2017 <br>
 
-Oceans
-Author: Natasha Durley
-Publisher: London : Templar Publishing, 2020
+Oceans<br>
+Author: Natasha Durley <br>
+Publisher: London : Templar Publishing, 2020<br>
 
-Yoga whale : simple poses for little ones
-Author: Sarah Jane Hinder
-Publisher: Boulder, CO : Sounds True, Inc., 2019
+Yoga whale : simple poses for little ones<br>
+Author: Sarah Jane Hinder <Br>
+Publisher: Boulder, CO : Sounds True, Inc., 2019 <br>
+
 All book covers are copyright of the respective publishing companies.

@@ -5,8 +5,10 @@ date: 2022-01-19
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+
+| [**NEW!** ABC's of Applied Physics for Kids](#abcs-of-applied-physics-for-kids) | [**NEW!** ABC's of Applied Chemistry for Kids](#abcs-of-applied-chemistry-for-kids) | [All About Animals](#all-about-animals) |
+
 ## ABC's of Applied Physics for Kids: <br> It's Time to Learn about Time!
 **Suitable for 4 to 6 years old**
 

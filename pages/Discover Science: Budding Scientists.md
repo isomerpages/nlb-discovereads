@@ -310,13 +310,13 @@ Download the instructions below to help you make the Paper Plate Aquarium!
 
 The sea aquarium habitat is now ready to welcome the marine animals!
 
-Tips for Parents:
+#### Tips for Parents:
 Do allow your child to colour the paper plate in other colours. Encourage them to use their creativity to decorate the paper plate. This activity gives your child an opportunity to express their ideas and help boost their confidence in making their own decisions.
 
 ### LET'S TRY THIS AT HOME!
-It Is Time for Yoga
-Check out this link for the different yoga poses based on the marine animals. Let's have some fun and stretch your body!
-Disclaimer: Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.
+#### It Is Time for Yoga
+Check out this [link](https://parentingchaos.com/ocean-themed-kids-yoga/) for the different yoga poses based on the marine animals. Let's have some fun and stretch your body!
+**Disclaimer**: Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.
 
 
 Whale pose (Bow Pose): Bend your back and catch your legs to form an arching whale!
@@ -330,7 +330,7 @@ Pufferfish pose (Salutation Seal Pose): With your hands raised and seated in a c
 Seahorse pose (Chair Pose): Reach high above your head while bending your knees slightly. Turn your body into the shape of a seahorse!
 
 
-Tips for Parents:
+#### Tips for Parents:
 Yoga is a fantastic parent-child bonding activity that can help improve your child's gross motor skills as well as strengthen the muscles in their body. Linking vocabulary (names of animals) to specific yoga poses is also a great way to reinforce and remember new words!
 
 ### LET'S READ MORE!

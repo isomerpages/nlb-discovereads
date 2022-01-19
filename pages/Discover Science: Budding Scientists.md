@@ -196,10 +196,10 @@ By having your child predict and record their observations, you are helping them
 ### LET'S READ!
 
 
-| Book Cover | Book Cover |
+| ![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png) | ![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png) |
 | -------- | -------- | 
 | **Rosa's Big Boat Experiment** <br> Author: Jessica Spanyol <br> Publisher: Swindon: Child's Play (International), 2020      | **Will It Float or Sink?** <br> Author: Lisa J. Amstutz <br> Publisher: North Mankato, Minnesota: Pebble, a Capstone imprint, 2022     | 
-| Book Cover     | Book Cover     |
+| ![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png)     | ![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png)     |
 | **Boats Will Float** <br> Author: Andria Warmflash Rosenbaum & Brett Curzon (Illustrator) <br> Publisher: Ann Arbor, MI: Sleeping Bear Press, 2020     | **Why Do Ice Cubes Float?** <br> Author: Benjamin Proudfit <br> Publisher: New York : Gareth Stevens Publishing, 2016   |
 
 All book covers are copyright of the respective publishing companies.
@@ -264,7 +264,7 @@ How sea animals keep salt out of their system: AMNH. American Museum of Natural 
 Under the Sea: Ocean Animal Moves (3min 07 secs)
 Watch how different marine animals swim, jump and scurry. Can you move like them?
 
-Tips for Parents:
+#### Tips for Parents:
 As you watch the video with your child, try asking them open-ended questions about what they are seeing on screen e.g. How do fishes swim in water?
 
 By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!

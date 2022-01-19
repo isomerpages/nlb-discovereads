@@ -142,26 +142,31 @@ All book covers are copyright of the respective publishing companies.
 
 Back to top
 
-ABC's of Applied Chemistry for Kids:
-Let’s Learn About Density
-Suitable for 4 to 6 years old
+#### ABC's of Applied Chemistry for Kids:
+### Let’s Learn About Density
+****Suitable for 4 to 6 years old****
 
 Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!
 
-LET’S LEARN
+#### LET’S LEARN
+
+![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png)
 
 Density is a measurement that compares the amount of matter an object as to its volume.
 (Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from https://kids.kiddle.co/Density)
 
-Use these printables to further explain density to your child!
+Use these [printables](/files/science-lfa/density/Density_Explanation%20Printables.PDF) to further explain density to your child!
 
-Try introducing these words to your child! Here are some example sentences to incorporate:
-Liquid	Liquids do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are liquids.
-Solid	Solids have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a solid.
-Float	Let’s put this pencil into water. Do you see that it floats on water?
-Sink	Try putting this coin into water. It sinks all the way to the bottom!
-Molecules	Molecules are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope.
-Density	The density of an object depends on how many molecules make up the object.
+****Try introducing these words to your child! Here are some example sentences to incorporate:****
+
+| ****Liquid**** | Liquids do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are liquids. | 
+| -------- | -------- | 
+| ****Solid****    | Solids have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a solid.  |
+| ****Float**** | Let's put this pencil into water. Do you see that it floats on water? |
+| ****Sink**** | Try putting this coin into water. It sinks all the way to the bottom! |
+| ****Molecules**** | Molecules are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. |
+| ****Density**** | The density of an object depends on how many molecules make up the object. |
+
 Tips for Parents:
 Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.
 

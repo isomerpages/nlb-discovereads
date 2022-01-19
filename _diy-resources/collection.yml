@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - d-i-y-resources.md
-      - preschool-resources/Discover Tech.md
       - preschool-resources/.keep
       - preschool-resources/early-literacy-practices.md
       - preschool-resources/school-holiday-specials.md
       - preschool-resources/Raise A Reader.md
       - preschool-resources/I Can READ.md
       - preschool-resources/Discover Science.md
+      - preschool-resources/Discover Tech.md
       - Discover Science/Budding Engineers.md
       - Discover Science/.keep
       - Discover Science/Budding Scientists.md

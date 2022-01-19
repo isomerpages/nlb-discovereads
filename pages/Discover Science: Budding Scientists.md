@@ -166,8 +166,9 @@ Use these [printables](/files/science-lfa/density/Density_Explanation%20Printabl
 
 **Try introducing these words to your child! Here are some example sentences to incorporate:**
 
-| **Liquid** | Liquids do not have a definite shape, so they take up the shape of the container they are poured into. Water and oil are liquids. | 
+|  |  | 
 | -------- | -------- | 
+| **Liquid** | Liquids do not have a definite shape, so they take up the shape of the container they are poured into. Water and oild are liquids.  |
 | **Solid**    | Solids have a definite shape, so they do not change shapes. For instance, this bowl that we are holding is a solid.  |
 | **Float** | Let's put this pencil into water. Do you see that it floats on water? |
 | **Sink** | Try putting this coin into water. It sinks all the way to the bottom! |
@@ -179,9 +180,13 @@ Constant repetition and exposure are key in not just improving vocabulary but al
 
 ### LET'S WATCH!
 
-| <iframe width="280" height="157" src="https://www.youtube.com/embed/1HJkEVOZbTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | **What is Density?: Science for Kids (1 min 57 secs)**<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size! |
-| -------- | -------- | 
-| <iframe width="280" height="157" src="https://www.youtube.com/embed/GuLlRoG6ahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     | **How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)**<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
+<iframe width="280" height="157" src="https://www.youtube.com/embed/1HJkEVOZbTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+
+**What is Density?: Science for Kids (1 min 57 secs)**<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size!
+
+<iframe width="280" height="157" src="https://www.youtube.com/embed/GuLlRoG6ahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+**How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)**<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
 
 ### LET’S INVESTIGATE!
 **Experiment time!** <br>
@@ -215,7 +220,7 @@ All book covers are copyright of the respective publishing companies.
 ### LET'S TRY THIS AT HOME!
 Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.
 
-<b><a href=”#top”>Back to top</a></b>
+<a href=”#top”>Back to top</a>
 
 ### All About Animals: <br>Let’s Learn about Marine Animals
 **Suitable for 4 to 6 years old**
@@ -325,8 +330,9 @@ Do allow your child to colour the paper plate in other colours. Encourage them t
 Check out this [link](https://parentingchaos.com/ocean-themed-kids-yoga/) for the different yoga poses based on the marine animals. Let's have some fun and stretch your body!
 **Disclaimer**: Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.
 
-| ![Alt text for image on Isomer site](/images/Marine21.png) | Whale pose (Bow Pose): Bend your back and catch your legs to form an arching whale! | 
+|  |  | 
 | -------- | -------- | 
+|  ![Alt text for image on Isomer site](/images/Marine21.png)             | Whale pose (Bow Pose): Bend your back and catch your legs to form an arching whale!  |
 | ![Alt text for image on Isomer site](/images/Marine22.png)     | Pufferfish pose (Salutation Seal Pose): With your hands raised and seated in a cross-legged position, practice deep breaths and let your cheeks puff up like a pufferfish when you inhale!     |
 | ![Alt text for image on Isomer site](/images/Marine23.png)     | Seahorse pose (Chair Pose): Reach high above your head while bending your knees slightly. Turn your body into the shape of a seahorse!    |
 

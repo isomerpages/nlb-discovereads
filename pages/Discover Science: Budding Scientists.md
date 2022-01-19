@@ -304,6 +304,8 @@ Let’s make a sea aquarium habitat with your child! This crafting activity is s
 7. A pair of scissors
 8. Tape
 
+![Alt text for image on Isomer site](/images/marine18.png)
+
 Download the instructions below to help you make the Paper Plate Aquarium!
 
 [Instructions for Paper Plate Aquarium](/files/Paper%20Plate%20Aquarium.PDF)
@@ -318,27 +320,20 @@ Do allow your child to colour the paper plate in other colours. Encourage them t
 Check out this [link](https://parentingchaos.com/ocean-themed-kids-yoga/) for the different yoga poses based on the marine animals. Let's have some fun and stretch your body!
 **Disclaimer**: Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.
 
-
-Whale pose (Bow Pose): Bend your back and catch your legs to form an arching whale!
-
-
-
-Pufferfish pose (Salutation Seal Pose): With your hands raised and seated in a cross-legged position, practice deep breaths and let your cheeks puff up like a pufferfish when you inhale!
-
-
-
-Seahorse pose (Chair Pose): Reach high above your head while bending your knees slightly. Turn your body into the shape of a seahorse!
-
+| ![Alt text for image on Isomer site](/images/Marine21.png) | Whale pose (Bow Pose): Bend your back and catch your legs to form an arching whale! | 
+| -------- | -------- | 
+| ![Alt text for image on Isomer site](/images/Marine22.png)     | Pufferfish pose (Salutation Seal Pose): With your hands raised and seated in a cross-legged position, practice deep breaths and let your cheeks puff up like a pufferfish when you inhale!     |
+| ![Alt text for image on Isomer site](/images/Marine23.png)     | Seahorse pose (Chair Pose): Reach high above your head while bending your knees slightly. Turn your body into the shape of a seahorse!    |
 
 #### Tips for Parents:
 Yoga is a fantastic parent-child bonding activity that can help improve your child's gross motor skills as well as strengthen the muscles in their body. Linking vocabulary (names of animals) to specific yoga poses is also a great way to reinforce and remember new words!
 
 ### LET'S READ MORE!
 
-| Book Cover | Book Cover | 
+| ![Alt text for image on Isomer site](/images/Marine24.png) | ![Alt text for image on Isomer site](/images/Marine25.jpg) | 
 | -------- | -------- | 
 | **Why is seawater salty?** <br> Author: Ellen Lawrence and Shawn W. Wallace <br> Publisher: New York, New York : Bearport Publishing, 2016     | **If sharks disappeared** <br> Author: Lily Williams <br> Publisher: New York : Roaring Brook Press, 2017    | 
-| Book Cover    | Book Cover     |
+| ![Alt text for image on Isomer site](/images/Marine26.png)    | ![Alt text for image on Isomer site](/images/Marine27.png)     |
 | **Oceans**<br> Author: Natasha Durley <br> Publisher: London : Templar Publishing, 2020     | **Yoga whale : simple poses for little ones** <br> Author: Sarah Jane Hinder <br> Publisher: Boulder, CO : Sounds True, Inc., 2019     |
 
 All book covers are copyright of the respective publishing companies.

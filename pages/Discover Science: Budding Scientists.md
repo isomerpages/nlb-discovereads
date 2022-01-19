@@ -167,34 +167,29 @@ Use these [printables](/files/science-lfa/density/Density_Explanation%20Printabl
 | ****Molecules**** | Molecules are very small substances that make up an object. You cannot see molecules with your eyes! You would need a microscope. |
 | ****Density**** | The density of an object depends on how many molecules make up the object. |
 
-Tips for Parents:
+#### Tips for Parents:
 Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.
 
-LET'S WATCH!
+### LET'S WATCH!
 
-What is Density? | Science for Kids (1 min 57 secs)
-In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size!
+| Video 1 | ****What is Density?: Science for Kids (1 min 57 secs)***<br>In this 2-minute video, learn more about what density is and how it affects objects in water - no matter their weight or size! |
+| -------- | -------- | 
+| Video 2     | ****How to Make Salt or Sugar Water Density Rainbow Tower: Simple Kids Science (1 min 49 secs)***<br> Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
 
-
-How to Make Salt or Sugar Water Density Rainbow Tower | Simple Kids Science (1 min 49 secs)
-Take it a step further and try this saltwater density rainbow tower with your child! How does salt affect the density of water?
-
-LET’S INVESTIGATE!
-Experiment time!
+### LET’S INVESTIGATE!
+Experiment time! <br>
 Objective: To find out how different densities affect how liquids react with one another.
 
 Materials required:
 
+![Alt text for image on Isomer site](/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png)
 
-
-Steps
+****Steps****
 1. Fill the bottle with water.
 2. In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.
 3. Pour the bowl of oil and food colouring into the bottle of water.
 4. Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!
 5. (Optional) Print out the Observations Table to go through and record the observations with your child.
-
-
 
 
 Step 2

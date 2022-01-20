@@ -28,7 +28,7 @@ description: ""
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
  
 <h4>LET'S READ!</h4><br>
- <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281018594/319789871,1" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+ <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/288533511/318801173,2" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
  
 <p><b>Fix that Clock!</b><br>
         <u>Author:</u> Kurt Cyrus<br>
@@ -46,7 +46,7 @@ description: ""
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
  <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
  
-<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
+<a href="/[Example Filename]/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
  
 <h5>Instructions</h5>
  <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>

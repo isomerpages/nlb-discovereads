@@ -12,7 +12,7 @@ description: ""
 <h5 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h5>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:300px; text-align:left;">
  
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
  
@@ -20,9 +20,9 @@ description: ""
  <h5>Tuning-in Song: Hickory Dickory Dock</h5>
  <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later.</p>
  
-<img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;">
+<img src="/images/hickorydickorydock.png" style="width:300px; text-align:left;">
  <br>
- <img src="/images/science-lfa/applied-physics-time/hickorydickorydocklyrics.png" style="width:600px; text-align:left;">
+ <img src="/images/science-lfa/applied-physics-time/hickorydickorydocklyrics.png" style="width:500px; text-align:left;">
  
 <h4>Tips for Parents:</h4> 
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>

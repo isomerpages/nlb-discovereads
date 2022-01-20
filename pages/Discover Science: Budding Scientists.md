@@ -10,12 +10,12 @@ description: ""
 | **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
 
 
-## ABC's of Applied Physics for Kids: <br> It's Time to Learn about Time!
-**Suitable for 4 to 6 years old**
+<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
 
-![Alt text for image on Isomer site](/images/science-lfa/applied-physics-time/TimeThumbnail.png)
-
-Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!
+<p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
 
 #### LET'S SING!
 #### Tuning-in Song: Hickory Dickory Dock

@@ -46,7 +46,7 @@ description: ""
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
  <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
  
-<a href="/[Example Filename]/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
+<a href="[Example Filename](/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf)" target="_blank">Template for Clock Crafting Activity</a><br>
  
 <h5>Instructions</h5>
  <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>

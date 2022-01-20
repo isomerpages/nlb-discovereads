@@ -9,7 +9,7 @@ description: ""
  
 | **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
  
-<h5 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h5>
+<h4 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h4>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:300px; text-align:left;">

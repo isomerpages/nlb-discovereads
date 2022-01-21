@@ -342,7 +342,7 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-marineanimals"><b>All About Animals:<br>Let’s Learn about Marine Animals</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/Marine1.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/marine-animals/Marine1.png" style="width:400px; text-align:left;">
  
 
 <p>The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.<br><br>
@@ -354,7 +354,7 @@ description: ""
  <p>A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.</p>
  
 
-<img src="/images/Marine2.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/marine-animals/Marine2.png" style="width:400px; text-align:left;">
  <br>
  
 

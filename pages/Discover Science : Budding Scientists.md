@@ -362,7 +362,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/Marine3.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine3.png" style="width:250px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -372,11 +372,11 @@ description: ""
  
 <h4>LET'S PLAY!</h4>
  <p>We have included a <a href="https://go.gov.sg/sci-world-map" target="_blank">world map activity sheet</a>. Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected. </p>
- <img src="/images/Marine4.png" style="width:400px; text-align:left;">
+ <img src="/images/science-lfa/marine-animals/Marine4.png" style="width:400px; text-align:left;">
  <br>
  
 <p>Below is the <a href="https://go.gov.sg/sci-world-map-ans" target="_blank">answer sheet</a> for the world map activity sheet.</p>
- <img src="/images/Marine5.png" style="width:400px; text-align:left;">
+ <img src="/images/science-lfa/marine-animals/Marine5.png" style="width:400px; text-align:left;">
  <br>
   <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185" target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
  </p>
@@ -384,7 +384,7 @@ description: ""
 <p><b>Fun Facts</b><br>
  The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
  </p>
- <img src="/images/Marine6.png" style="width:400px; text-align:left;">
+ <img src="/images/science-lfa/marine-animals/Marine6.png" style="width:400px; text-align:left;">
  <br>
   <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE" target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
  </p>
@@ -394,7 +394,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/Marine7.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine7.png" style="width:250px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -413,7 +413,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/Marine8.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine8.png" style="width:250px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -432,7 +432,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
-       <img src="/images/Marine9.png" style="width:400px; text-align:left;"></a>
+       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -450,7 +450,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/Marine10.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/science-lfa/marine-animals/Marine10.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Jellyfish are brainless!</b><br>
@@ -460,7 +460,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Marine11.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine11.png" style="width:250px; text-align:left;">
     </div>
     <br>
   </div>
@@ -468,7 +468,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/marine12.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/science-lfa/marine-animals/marine12.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Octopuses</b><br>
@@ -478,7 +478,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/marine13%20Octopus.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine13%20Octopus.png" style="width:250px; text-align:left;">
     </div>
     <br>
   </div>
@@ -486,7 +486,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/marine14.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/science-lfa/marine-animals/marine14.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Starfish</b><br>
@@ -496,7 +496,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/marine15.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine15.png" style="width:250px; text-align:left;">
     </div>
     <br>
   </div>
@@ -509,12 +509,12 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/marine16.png" style="width:300px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine16.png" style="width:300px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/marine17.jpg" style="width:300px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine17.jpg" style="width:300px; text-align:left;">
     </div>
   </div>
  </div>
@@ -530,7 +530,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  7. A pair of scissors<br>
  8. Tape<br></p>
  
-<img src="/images/marine18.png" style="width:300px; text-align:left;">
+<img src="/images/science-lfa/marine-animals/marine18.png" style="width:300px; text-align:left;">
  
 <p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
  
@@ -548,7 +548,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Marine21.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine21.png" style="width:150px; text-align:left;">
      </div>
     
    </div>
@@ -562,7 +562,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Marine22.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine22.png" style="width:150px; text-align:left;">
      </div>
     
    </div>
@@ -576,7 +576,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Marine23.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/Marine23.png" style="width:150px; text-align:left;">
      </div>
     
    </div>
@@ -595,7 +595,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202545736" target="_blank"><img src="/images/Marine24.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202545736" target="_blank"><img src="/images/science-lfa/marine-animals/Marine24.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Why is seawater salty?</b><br>
@@ -605,7 +605,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889581" target="_blank"><img src="/images/Marine25.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889581" target="_blank"><img src="/images/science-lfa/marine-animals/Marine25.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>If sharks disappeared</b><br>
@@ -617,7 +617,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204497339" target="_blank"><img src="/images/Marine26.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204497339" target="_blank"><img src="/images/science-lfa/marine-animals/Marine26.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Oceans</b><br>
@@ -627,7 +627,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244390" target="_blank"><img src="/images/Marine27.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244390" target="_blank"><img src="/images/science-lfa/marine-animals/Marine27.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Yoga whale : simple poses for little ones</b><br>

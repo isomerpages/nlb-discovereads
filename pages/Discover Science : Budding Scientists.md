@@ -292,7 +292,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019929/334819735,1" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202746559" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Rosa's Big Boat Experiment</b><br>

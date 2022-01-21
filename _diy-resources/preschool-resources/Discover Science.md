@@ -16,7 +16,7 @@ third_nav_title: Preschool Resources
 
 <h4>Budding Scientists</h4>
 
-<a href="https://childrenandteens.nlb.gov.sg/budding-scientists"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
+<a href="https://childrenandteens.nlb.gov.sg/discoverscientist"><img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
 
 <h4>Budding Engineers</h4>
 

@@ -135,7 +135,7 @@ description: ""
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281018955/192446773,1" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202746559" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Telling the Time</b><br>
@@ -145,7 +145,7 @@ description: ""
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019171/327613284,1" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204442949" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Measuring Time</b><br>
@@ -157,7 +157,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019374/329826110,2" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204092884" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Time</b><br>
@@ -167,7 +167,7 @@ description: ""
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/281019594/257409917,1" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>I Know About Telling Time</b><br>
@@ -233,6 +233,8 @@ description: ""
  
 <h5>Tips for Parents:</h5>
  <p> Constant repetition and exposure are key in not just improving vocabulary but also in giving children the confidence to pick up unfamiliar words.</p>
+ 
+ 
  <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">

@@ -5,7 +5,6 @@ date: 2022-01-19
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
 | **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
@@ -42,7 +41,7 @@ description: ""
  
 <h4>LET'S CRAFT!</h4>
  <h5>Crafting your own Clock!</h5>
- <img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;">
+ <img src="/images/ClockCraft.jpg" style="width:200px; text-align:left;">
  
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
  <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>

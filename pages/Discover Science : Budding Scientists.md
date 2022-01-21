@@ -533,8 +533,8 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <img src="/images/science-lfa/marine-animals/marine18.png" style="width:300px; text-align:left;">
  
 <p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
- 
-	<a href="https://go.gov.sg/instructions-paper-plate-aquarium" target="_blank">Instructions for Paper Plate Aquarium</a><br>
+	
+ <a href="https://go.gov.sg/instructions-paper-plate-aquarium" target="_blank">Instructions for Paper Plate Aquarium</a><br>
  <p>The sea aquarium habitat is now ready to welcome the marine animals! </p>
 
 <h4>Tips for Parents:</h4> 

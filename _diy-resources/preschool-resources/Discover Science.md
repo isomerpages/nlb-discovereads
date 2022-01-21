@@ -16,8 +16,8 @@ third_nav_title: Preschool Resources
 
 <h4>Budding Scientists</h4>
 
-Click [here](/budding-scientists) <img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;"></a>
+Click [here](/budding-scientists) <img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;">
 
 <h4>Budding Engineers</h4>
 
-Click [here](/budding-engineers) <img src="/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png" style="width:250px; text-align:left;"></a>
+Click [here](/budding-engineers) <img src="/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png" style="width:250px; text-align:left;">

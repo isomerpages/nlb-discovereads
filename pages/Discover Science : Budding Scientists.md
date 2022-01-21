@@ -28,7 +28,7 @@ description: ""
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
  
 <h4>LET'S READ!</h4><br>
- <a href="(https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204160982)" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+ <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204160982" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
  
 <p><b>Fix that Clock!</b><br>
         <u>Author:</u> Kurt Cyrus<br>

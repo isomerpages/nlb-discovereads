@@ -41,7 +41,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
 
-* <s>[24 Mar] Conversational Korean,  Zoom, Wednesday 3-4pm [Register now!]</s>
+* <s>[24 Mar] Conversational Korean, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [14 Aug] Conversational Malay,  Zoom, Saturday 3-4.30pm [Register now!]</s>
 
@@ -70,6 +70,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
 
 * <s>[16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!]</s>
+* [5 Feb] Deep Sea Horror Workshop, Zoom, Saturday 2-3.30pm [Register now!](https://www.eventbrite.com/e/deep-sea-horror-workshop-scienti-fx-teens-takeover-registration-237277642817?aff=odcleoeventsincollection&keep_tld=1)
 
 Keep a look out for more NLB's Teens Takeover workshop registration openings [here](https://go.gov.sg/teenstakeover-pl). See you there! 🙂 
 

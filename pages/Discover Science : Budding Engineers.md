@@ -104,11 +104,28 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:400px; text-align:left;"></a><br>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
 There are 4 activities for you to learn more about magnetic and pulling forces.<br>
 <ul>
-	<li>Pulling Force: Rocket Ship</li>
-	<li>Let’s Investigate: Scavenger Hunt & Will It Stick? </li>
-	<li>Magnet-Powered Car</li>
-	<li>Blast Off with Magnetic Rockets </li>
+	<li><a href="#lp-rocketship">Pulling Force: Rocket Ship</a></li>
+	<li><a href="#lp-willitstick">Let’s Investigate: Scavenger Hunt & Will It Stick? </a></li>
+	<li><a href="#lp-magnetpoweredcar">Magnet-Powered Car</a></li>
+	<li><a href="#lp-blastoff">Blast Off with Magnetic Rockets</a> </li>
 
 Book Talk (with reflection questions) & other Recommendations
-	<li>Marsha is Magnetic by Beth Ferry </li></ul>
+	<li><a href="#lp-marshaismagnetic">Marsha is Magnetic by Beth Ferry</a> </li></ul>
 </p>
+
+<h3 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h3>
+
+<h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
+
+<h3 class="margin--bottom--lg" id="lp-magnetpoweredcar"><b>Magnet-Powered Car </b></h3>
+
+
+<h3 class="margin--bottom--lg" id="lp-blastoff"><b>Blast Off with Magnetic Rockets</b></h3>
+
+
+<h3 class="margin--bottom--lg" id="lp-marshaismagnetic"><b>Marsha is Magnetic by Beth Ferry</b></h3>
+
+
+
+
+

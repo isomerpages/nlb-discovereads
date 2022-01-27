@@ -394,5 +394,3 @@ Watch what happens in this video and follow along as your child discovers more a
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-

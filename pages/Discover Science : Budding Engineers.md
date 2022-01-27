@@ -14,6 +14,8 @@ description: ""
  
 <img src="/images/science-lfa/magnetic-rockets/magnet1%20or.png)" style="width:400px; text-align:left;">
 
+<p>Have you ever wondered if you could move something without touching it? We’ll learn how we can power a rocket to cruise through the galaxy and even drive a car ​​— by using magnets and their powerful magnetic forces!  <br><br>
+Sounds impossible? As this famous quote by Norman Vincent Peale goes: “Shoot for the moon. Even if you miss, you’ll land among the stars.” If we never try, we never know! <br><br>
+The meaning behind the quote is to pursue ambitious goals even success remains undetermined. Even if things don’t turn out as expected, you’ll still accomplish great things.</p>
 
- 
- 
+

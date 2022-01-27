@@ -51,3 +51,21 @@ In this video, your child will learn about magnets and how magnetism aids us in 
   <li>Children are very curious. One of the best things you can do is to explore with your child and have them try making guesses as to why certain things happen.</li>
   <li>	As they conduct their experiments, encourage your child to ask questions and praise them when they learn something new! </li>
 </ul>
+
+<h4>LET'S LEARN!</h4>
+<p>Magnetic Word Search</p>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/magnetic-rockets/magnet4.png" style="width:250px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>Let's familiarise your child with new STEAM words relating to magnets.<br>
+The words have been arranged so that they can be found horizontally, vertically, and diagonally. <br>
+Teach your children about strategy. One way is to go through the puzzle from left to right and look for the first letter of each word, and then check the surrounding letters for the next word. <br>
+This activity will help your child to understand the idea of direction: 
+horizontal (across), vertical (up and down) and diagonal (at an angle).
+</p>
+   </div>
+ </div>

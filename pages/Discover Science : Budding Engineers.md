@@ -101,7 +101,7 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 
 <h4>Checklist for Experiments and Crafts</h4> 
 <p>Before we begin the activities, here are some materials that you will need:<br><br> </p>
-	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:400px; text-align:left;"></a><br>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
+	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a><br>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
 There are 4 activities for you to learn more about magnetic and pulling forces.<br>
 <ul>
 	<li><a href="#lp-rocketship">Pulling Force: Rocket Ship</a></li>
@@ -118,7 +118,7 @@ Book Talk (with reflection questions) & other Recommendations
 <p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
  <h5>Materials required:</h5>
 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-2%20new.png" style="width:3=400px; text-align:left;"></a>
-<p>Click the link to retrieve the templates for the Quote. </p>
+<p>Click the link to retrieve the template for the "Shoot for the Moon" Quote (above). </p>
 	
 
 <h4>LET'S LEARN!</h4>

@@ -19,7 +19,7 @@ Sounds impossible? As this famous quote by Norman Vincent Peale goes: “Shoot f
 The meaning behind the quote is to pursue ambitious goals even success remains undetermined. Even if things don’t turn out as expected, you’ll still accomplish great things.</p>
 
 <h4>LET'S LEARN!</h4>
-<img src="/images/science-lfa/magnetic-rockets/magnet2.png" style="width:350px; text-align:left;">
+<img src="/images/science-lfa/magnetic-rockets/magnet2.png" style="width:400px; text-align:left;">
 
  <p>Welcome to the magical world of magnets! Your child will discover, learn and enjoy a lot of things as they observe magnetic forces in action while doing these STEAM activities.</p>
  
@@ -46,5 +46,12 @@ In this video, your child will learn about magnets and how magnetism aids us in 
  </p>
    </div>
  </div>
+ <h4>Tips for Parents:</h4> 
+<ul>
+  <li>Children are very curious. One of the best things you can do is to explore with your child and have them try making guesses as to why certain things happen.</li>
+  <li>	As they conduct their experiments, encourage your child to ask questions and praise them when they learn something new! </li>
+</ul>
 
 
+
+ 

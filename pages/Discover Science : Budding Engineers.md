@@ -255,7 +255,6 @@ How do you know if an object is magnetic? What keywords are being used in the de
   <li> From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.  </li>
   <li> Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?   </li>
 
-<p><i>If you and your child enjoyed the bonding activities, tag us with your completed works at @publiclibrarysg!</i></p>
 
 <h4>LET'S EXPERIMENT!</h4>
  <div class="row is-multiline margin--bottom--lg">
@@ -297,6 +296,26 @@ Let your child explore moving the rocket around through the obstacles (stars and
  With the same concept, get your children to try manoeuvring their rocket through the maze. 
 </p>
 	 
+
+<p><i>If you and your child enjoyed the bonding activities, tag us with your completed works at @publiclibrarysg!</i></p>
+	 
+
+<h4>LET'S WATCH!</h4>
+	 <p>For more on what you can do with magnets: </p>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=Bux3zA-5RvU" target="_blank">
+       <img src="/images/science-lfa/magnetic-rockets/magnet12.jpeg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> 27 Magnetic Experiments to Blow Your Mind (9 min 50 sec)  </b><br>Summary: <br> 
+What can you do with a magnet, battery, and spring? <br>
+What about a handful of paper clips and glasses of water? <br>
+Watch what happens in this video and follow along as your child discovers more about magnets and STEAM concepts!  
+ </p>
+   </div>
+ </div>
 
 
 

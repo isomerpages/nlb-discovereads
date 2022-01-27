@@ -51,7 +51,3 @@ In this video, your child will learn about magnets and how magnetism aids us in 
   <li>Children are very curious. One of the best things you can do is to explore with your child and have them try making guesses as to why certain things happen.</li>
   <li>	As they conduct their experiments, encourage your child to ask questions and praise them when they learn something new! </li>
 </ul>
-
-
-
- 

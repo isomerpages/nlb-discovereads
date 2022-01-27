@@ -221,6 +221,7 @@ How do you know if an object is magnetic? What keywords are being used in the de
 <h3 class="margin--bottom--lg" id="lp-blastoff"><b>Blast Off with Magnetic Rockets</b></h3>
 
 <h4> LET’S CREATE!</h4>
+<p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
@@ -234,8 +235,7 @@ How do you know if an object is magnetic? What keywords are being used in the de
   </div>
  </div>
 
-<h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
-<p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
+
 
 
 

@@ -97,4 +97,10 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 <ul>	<li>There are invisible pull and push forces that can move certain objects through attraction and repulsion. </li>
 <li>All magnets have two poles, North and South. The opposite poles will pull together and stick, while the same poles will push away from one another.</li></ul>
 
+<p>There are so many more things you can do with magnets! Experimentation and play are fantastic ways for your child to learn a difficult concept. Read some of our book recommendations to further supplement your child’s understanding.</p>
+
+<h4>Checklist for Experiments and Crafts</h4> 
+<p>Before we begin the activities, here are some materials that you will need:<br><br> 
+	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:400px; text-align:left;"></a><br>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
+By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!</p>
 

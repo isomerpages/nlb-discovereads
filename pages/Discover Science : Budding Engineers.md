@@ -198,10 +198,27 @@ How do you know if an object is magnetic? What keywords are being used in the de
 	<li>Shall we sort the objects into the two categories? How would you categorise them? Test out their theory with a magnet.
 	</li>
 			</ul></p>
-			
-			
+		
 
 <h3 class="margin--bottom--lg" id="lp-magnetpoweredcar"><b>Magnet-Powered Car </b></h3>
+
+
+<h4>LET'S EXPERIMENT!</h4>
+<p>This is where you can see both the push and pull of two magnets in action! </p>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <a href="https://go.gov.sg_blastoffwithmagneticrockets-activity-magnetpoweredcar" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet9-1.png" style="width:250px; text-align:left;"></a>
+			<p>Click on the image to download the instructions</p>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <img src="/images/science-lfa/magnetic-rockets/magnet9.png" style="width:250px; text-align:left;">
+   </div>
+ </div>
+
+
+
 
 
 <h3 class="margin--bottom--lg" id="lp-blastoff"><b>Blast Off with Magnetic Rockets</b></h3>

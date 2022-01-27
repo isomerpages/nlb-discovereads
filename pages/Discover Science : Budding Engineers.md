@@ -93,4 +93,8 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 	<li>N _ R T H   P _ L _</li>
 	<li>S _ _ T H   P _ L _</li></ul>
 	
-	
+<p>Draw your child’s attention to these points as they observe magnets at work: </p>
+<ul>	<li>There are invisible pull and push forces that can move certain objects through attraction and repulsion. </li>
+<li>All magnets have two poles, North and South. The opposite poles will pull together and stick, while the same poles will push away from one another.</li></ul>
+
+

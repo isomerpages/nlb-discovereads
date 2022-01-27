@@ -29,4 +29,8 @@ The meaning behind the quote is to pursue ambitious goals even success remains u
   <li>	can pull certain types of metals toward itself.</li>
 </ul>
 
-
+<p>Explain to your child that the pulling and pushing forces are called magnetism. These forces occur every day even though we cannot see them.<br><br>
+<i>(Britannica Kids. n.d. Magnet and Magnetism. Retrieved December 25, 2021, from <a href="https://kids.britannica.com/kids/article/Magnet-and-Magnetism/353411" target="_blank">https://kids.britannica.com/kids/article/Magnet-and-Magnetism/353411 </a>)</i>
+ </p>
+ 
+ 

@@ -131,7 +131,7 @@ Book Talk (with reflection questions) & other Recommendations
      </div>
    </div>
  <div class="col is-three-fifths">
-	 	 <p>This activity allows your child to explore pulling forces without a magnet. </p>
+	 	 <p>This activity allows your child to explore pulling forces without a magnet. 
 	 <h4>Tips for Parents:</h4> 
     <ul><li>As your child pulls on the string to get their rocket to move, this is an opportunity for you to teach them about other kinds of pulling forces. These can cause an object to change direction, speed up or slow down. </li>
 			<li>This helps children practice their gross motor skills too!</li>

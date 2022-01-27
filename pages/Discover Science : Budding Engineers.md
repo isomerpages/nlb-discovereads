@@ -234,6 +234,28 @@ How do you know if an object is magnetic? What keywords are being used in the de
     </div>
   </div>
  </div>
+ <h5>Materials required:</h5>
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/science-lfa/magnetic-rockets/magnet10.png" style="width:300px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/science-lfa/magnetic-rockets/magnet10-3.jpg" style="width:300px; text-align:left;">
+   	<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"></a> </div>
+  </div>
+ </div>
+<p>Click the instructions to retrieve the templates for the Maze; Moon, Stars, Planets; and Rockets</p>
+
+<h5>Instructions</h5>
+<ol>
+  <li> Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!  </li>
+  <li> From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.  </li>
+  <li> Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?   </li>
+
+<p><i>If you and your child enjoyed the bonding activities, tag us with your completed works at @publiclibrarysg!</i></p>
 
 
 

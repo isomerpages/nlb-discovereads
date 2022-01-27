@@ -152,7 +152,6 @@ Book Talk (with reflection questions) & other Recommendations
 			<p><b>For more fun:</b></p>
 	<ol><li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
 <li>Set a timer for 10 minutes to see how many items your child can find during the time limit. </li></ol>
-</p>
      </div>
    </div>
  <div class="col is-three-fifths">

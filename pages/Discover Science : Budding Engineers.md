@@ -102,5 +102,13 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 <h4>Checklist for Experiments and Crafts</h4> 
 <p>Before we begin the activities, here are some materials that you will need:<br><br> 
 	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:400px; text-align:left;"></a><br>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
-By allowing your child to hypothesise and formulate answers based on their observations, your child can exercise their creativity, develop their process-thinking skills, and build up a wider range of vocabulary with your help!</p>
+There are 4 activities for you to learn more about magnetic and pulling forces.<br>
+<ul>
+	<li>Pulling Force: Rocket Ship</li>
+	<li>Let’s Investigate: Scavenger Hunt & Will It Stick? </li>
+	<li>Magnet-Powered Car</li>
+	<li>Blast Off with Magnetic Rockets </li>
 
+Book Talk (with reflection questions) & other Recommendations
+	<li>Marsha is Magnetic by Beth Ferry </li></ul>
+</p>

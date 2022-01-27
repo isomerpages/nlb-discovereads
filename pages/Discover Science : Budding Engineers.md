@@ -57,7 +57,8 @@ In this video, your child will learn about magnets and how magnetism aids us in 
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet4.png" style="width:250px; text-align:left;">
+       <a href="https://go.gov.sg/blastoffwithmagneticrockets-activity-wordsearch" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet4.png" style="width:250px; text-align:left;"></a>
+			<p>Click on the image to download the worksheet</p>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -69,3 +70,5 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 </p>
    </div>
  </div>
+ 
+ 

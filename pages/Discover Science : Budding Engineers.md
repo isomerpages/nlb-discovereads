@@ -5,7 +5,6 @@ date: 2022-01-19
 layout: post
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png)
 
 | **New!*** <a href="#lp-magneticrockets">Blast Off with Magnetic Rockets</a> | 
@@ -140,8 +139,8 @@ Book Talk (with reflection questions) & other Recommendations
    </div>
  </div>
 
-
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
+
 <h4>SCAVENGER HUNT<br><br>LET'S INVESTIGATE!</h4>
  <img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
  <div class="row is-multiline margin--bottom--lg">

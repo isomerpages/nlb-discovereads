@@ -33,4 +33,18 @@ The meaning behind the quote is to pursue ambitious goals even success remains u
 <i>(Britannica Kids. n.d. Magnet and Magnetism. Retrieved December 25, 2021, from <a href="https://kids.britannica.com/kids/article/Magnet-and-Magnetism/353411" target="_blank">https://kids.britannica.com/kids/article/Magnet-and-Magnetism/353411 </a>)</i>
  </p>
  
- 
+ <h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=-aNpmCSZHbk" target="_blank">
+       <img src="/images/science-lfa/magnetic-rockets/magnet3.jpeg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Magnets and Magnetism | Magnets Video for Kids  </b><br>Summary: <br> 
+In this video, your child will learn about magnets and how magnetism aids us in everyday tasks. 
+ </p>
+   </div>
+ </div>
+
+

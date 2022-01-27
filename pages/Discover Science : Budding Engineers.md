@@ -270,7 +270,7 @@ The astronauts want to come home. Help them find their way back to Earth.
  <div class="col is-three-fifths">
      <p><ul><li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
 <li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.  </li>
-<li>Can the magnets be attracted to each other if they are far apart? </li>
+<li>Can the magnets be attracted to each other if they are far apart? </li></ul>
 <h4>Tips for Parents:</h4> 
 <p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
 </p>

@@ -113,7 +113,16 @@ Book Talk (with reflection questions) & other Recommendations
 	<li><a href="#lp-marshaismagnetic">Marsha is Magnetic by Beth Ferry</a> </li></ul>
 </p>
 
-<h3 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h3>
+<h4> LET’S CREATE!</h4>
+<img src="/images/science-lfa/magnetic-rockets/magnet6-3%20Jade%20Magnetic%20Rocket%20post%204mb.jpg" style="width:350px; text-align:left;">
+<h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
+<p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!<i></p>
+ <h5>Materials required:</h5>
+<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-2%20new.png" style="width:3=400px; text-align:left;"></a>
+<p>Click the link to retrieve the templates for the Quote. </p>
+
+	
+
 
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
 
@@ -124,8 +133,3 @@ Book Talk (with reflection questions) & other Recommendations
 
 
 <h3 class="margin--bottom--lg" id="lp-marshaismagnetic"><b>Marsha is Magnetic by Beth Ferry</b></h3>
-
-
-
-
-

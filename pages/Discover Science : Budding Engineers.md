@@ -19,7 +19,7 @@ Sounds impossible? As this famous quote by Norman Vincent Peale goes: “Shoot f
 The meaning behind the quote is to pursue ambitious goals even success remains undetermined. Even if things don’t turn out as expected, you’ll still accomplish great things.</p>
 
 <h4>LET'S LEARN!</h4>
-<img src="/images/science-lfa/magnetic-rockets/magnet2.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/magnetic-rockets/magnet2.png" style="width:500px; text-align:left;">
 
  <p>Welcome to the magical world of magnets! Your child will discover, learn and enjoy a lot of things as they observe magnetic forces in action while doing these STEAM activities.</p>
  

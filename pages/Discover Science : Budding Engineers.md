@@ -71,4 +71,26 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
    </div>
  </div>
  
- 
+
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/science-lfa/magnetic-rockets/magnet5%20gif-1.gif" style="width:350px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/science-lfa/magnetic-rockets/magnet5%20gif-2.gif" style="width:350px; text-align:left;">
+    </div>
+  </div>
+ </div>
+
+<p>These are some new vocabulary words relating to magnets, but some vowels are missing. Have your child guess the missing letters.</p>
+<ul>	<li>_ T T R _ C T</li>
+	<li>R _ P _ L</li>
+	<li>M _ G N _ T</li>
+	<li>F _ R C _ S</li>
+	<li>N _ R T H   P _ L _</li>
+	<li>S _ _ T H   P _ L _</li></ul>
+	
+	

@@ -283,22 +283,20 @@ The astronauts want to come home. Help them find their way back to Earth. </p>
 <p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
 </p>
 	
-<p>This is a high-quality STEM experience because it gets children to learn about a tough topic like magnets and magnetic forces through hands-on sensory activities, which allows them to remember and understand better. <br>
+<p>This is a high-quality STEM experience because it gets children to learn about a tough topic like magnets and magnetic forces through hands-on sensory activities, which allows them to remember and understand better.<br><br>
 
-Ask your child how they think the rocket (with the magnet attached) can move if they’re not allowed to directly touch it.<br>
+Ask your child how they think the rocket (with the magnet attached) can move if they’re not allowed to directly touch it.<br><br>
 
-With the facts learned earlier about the attraction between two magnets, demonstrate how the Magnetic Magic Wand can move the rocket ship around the paper plate. <br>
+With the facts learned earlier about the attraction between two magnets, demonstrate how the Magnetic Magic Wand can move the rocket ship around the paper plate.<br><br>
 
-Your child can angle the plate to check on both sides how one magnet can move the other.  <br>
+Your child can angle the plate to check on both sides how one magnet can move the other.<br><br>
 
 Explain that the magnetic field and force of attraction are strong enough to pass through the paper plate. 
-Let your child explore moving the rocket around through the obstacles (stars and planets) that they glued on the paper plate. 
-	 <br>
+Let your child explore moving the rocket around through the obstacles (stars and planets) that they glued on the paper plate.<br><br>
 	
- With the same concept, get your children to try manoeuvring their rocket through the maze. 
+With the same concept, get your children to try manoeuvring their rocket through the maze. 
 </p>
 	 
-
 <p><i>If you and your child enjoyed the bonding activities, tag us with your completed works at @publiclibrarysg!</i></p>
 	 
 
@@ -322,7 +320,6 @@ Watch what happens in this video and follow along as your child discovers more a
 
 <h3 class="margin--bottom--lg" id="lp-marshaismagnetic"><b>Marsha is Magnetic by Beth Ferry</b></h3>
 	 
-	 
 <h4>LET'S READ!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
@@ -334,7 +331,7 @@ Watch what happens in this video and follow along as your child discovers more a
 	 <p>Click on the image to download the worksheet</p>
    </div>
  </div>
-	 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a>
 <h4>Tips for Parents:</h4> 
 <ul>
 	<li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources.</li>

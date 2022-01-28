@@ -58,12 +58,12 @@ In this video, your child will learn about magnets and how magnetism aids us in 
  <div class="col is-two-fifths">
     <div class="image">
        <a href="https://go.gov.sg/blastoffwithmagneticrockets-activity-wordsearch" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet4.png" style="width:250px; text-align:left;"></a>
-<p>Click on the image to download the worksheet</p>
      </div>
    </div>
  <div class="col is-three-fifths">
      <p>Let's familiarise your child with new STEAM words relating to magnets.<br><br>
-			 The words have been arranged so that they can be found horizontally, vertically, and diagonally.</p>
+			 The words have been arranged so that they can be found horizontally, vertically, and diagonally.<br><br>
+	 Click on the image to download the worksheet. </p>
 	</div>
  </div>
  

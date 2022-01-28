@@ -150,9 +150,17 @@ There are 4 activities for you to learn more about magnetic and pulling forces.<
 
 <h4>SCAVENGER HUNT<br><br>LET'S INVESTIGATE!</h4>
  
-<img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
-     
-<p>It’s time for a Treasure Hunt!</p>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     	<p>It’s time for a Treasure Hunt!</p>
+   </div>
+ </div>
+ 
  <p><b>Steps</b><br>
 <ol>
   <li>With this printout, read through the descriptions together with your child. These items will be used in the follow-up experiment later.</li>
@@ -176,7 +184,6 @@ How do you know if an object is magnetic? What keywords are being used in the de
  <div class="col is-two-fifths">
     <div class="image">
        <img src="/images/science-lfa/magnetic-rockets/magnet8.png" style="width:400px; text-align:left;">
-			 
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -265,24 +272,22 @@ How do you know if an object is magnetic? What keywords are being used in the de
     <div class="image">
 			<img src="/images/science-lfa/magnetic-rockets/magnet11-2%204mb.jpg" style="width:250px; text-align:left;">
 			<p><u>Small Galaxy (Paper plate)<br></u>
-Help the astronauts explore the galaxy and steer their ship through the stars and planets. 
-				<br><br>
-				<img src="/images/science-lfa/magnetic-rockets/magnet10-1%204mb.jpg" style="width:250px; text-align:left;">
-				<u>Big Galaxy (Maze) - the next level <br></u>
-The astronauts want to come home. Help them find their way back to Earth. 
-			</p>
+				Help the astronauts explore the galaxy and steer their ship through the stars and planets. </p>
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><ul><li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
+	 <img src="/images/science-lfa/magnetic-rockets/magnet10-1%204mb.jpg" style="width:250px; text-align:left;">
+				<p><u>Big Galaxy (Maze) - the next level <br></u>
+The astronauts want to come home. Help them find their way back to Earth. </p>
+   </div>
+ </div>
+	 <p><ul><li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
 <li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.  </li>
-<li>Can the magnets be attracted to each other if they are far apart? </li></ul>
+<li>Can the magnets be attracted to each other if they are far apart? </li></ul></p>
 <h4>Tips for Parents:</h4> 
 <p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
 </p>
-   </div>
- </div>
-
+	
 <p>This is a high-quality STEM experience because it gets children to learn about a tough topic like magnets and magnetic forces through hands-on sensory activities, which allows them to remember and understand better. <br>
 
 Ask your child how they think the rocket (with the magnet attached) can move if they’re not allowed to directly touch it.<br>

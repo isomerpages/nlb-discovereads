@@ -117,7 +117,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 </ul>
 <p>To learn what else you can do with magnets, watch this video</p>
 <ul>
-	<li><a href="#lp-letswatch27"></a> 27 Magnetic Experiments to Blow Your Mind </li>
+	<li><a href="#lp-letswatch27">27 Magnetic Experiments to Blow Your Mind </a> </li>
 </ul>
 <p>Book Talk (with reflection questions) & other Recommendations</p>
 <ul>

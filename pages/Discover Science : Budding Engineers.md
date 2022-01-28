@@ -384,7 +384,7 @@ Watch what happens in this video and follow along as your child discovers more a
 </b><br>
        <u>Author:</u> Caron Levis
 & Andy Rash (Illustrator)<br>
-       <u>Publisher:</u>New York : Farrar Straus Giroux, 2017.
+       <u>Publisher:</u> New York : Farrar Straus Giroux, 2017.
 <br>
        </p></div>
    </div>

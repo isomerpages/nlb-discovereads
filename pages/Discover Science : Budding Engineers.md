@@ -260,7 +260,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
       <a href="https://go.gov.sg/blastoffwithmagneticrockets-craftsforlearningpackage" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet10-3.jpg" style="width:300px; text-align:left;"></a> </div>
   </div>
  </div>
-<p>Click the image (right) to retrieve the instructions on creating the crafts, Magnet-Powered Rocket and even Magnetic Magic Wand!</p>
+<p>Click the image (right) to retrieve the instructions on creating the crafts, a Magnet-Powered Rocket and even a Magnetic Magic Wand!</p>
 <h5>Instructions</h5>
 <ol>
 	<li>Make your own galaxy using a paper plate and the maze on page 2 from the <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank">printable.</a> <br>

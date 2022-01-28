@@ -186,25 +186,23 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
    </div> </div>
 	 
 <h4>Tips for Parents:</h4> 
-    <ul><li>Magnetic objects are certain types of metals that can be attracted to magnets. They include iron and steel. 
-</li>
-			<li>Non-magnetic metals include copper, gold and aluminium. Other non-magnetic materials are glass, cotton, plastic (some of which you will investigate in this activity). 
-</li>
-			<li>Learning about the physical properties of objects is part of physical sciences. By getting your child to hypothesise, experiment, collect data, and draw conclusions, you are introducing them to important processes that develop their scientific thinking!
-			</li></ul>
+<ul>
+	<li>Magnetic objects are certain types of metals that can be attracted to magnets. They include iron and steel.</li>
+	<li>Non-magnetic metals include copper, gold and aluminium. Other non-magnetic materials are glass, cotton, plastic (some of which you will investigate in this activity).</li>
+	<li>Learning about the physical properties of objects is part of physical sciences. By getting your child to hypothesise, experiment, collect data, and draw conclusions, you are introducing them to important processes that develop their scientific thinking!</li>
+</ul>
  <h4><b>Steps</b></h4>
 <ul>
-  <li>In your scientific notebook or piece of paper, draw a table (3 columns and 16 rows) and in the first column, write down the name of each object found in your search. The first example was done for you. 
-</li>
-<li>With the observations table, ask your child if they think the object is magnetic or non-magnetic. Write “Yes” or “No” in the Prediction column. </li>
+	<li>In your scientific notebook or piece of paper, draw a table (3 columns and 16 rows) and in the first column, write down the name of each object found in your search. The first example was done for you.</li>
+	<li>With the observations table, ask your child if they think the object is magnetic or non-magnetic. Write “Yes” or “No” in the Prediction column.</li>
 	<li>Use the magnet to test out your child’s predictions and record the observations! Emphasise that even if some of their guesses are wrong, an experiment is about trying things out and learning from them!</li>
+</ul>
 <p><u>You may ask these questions during the activity:</u></p>
+<ul>
 	<li>For magnetic objects, what do you think they have in common? What key word is mentioned during the treasure hunt activity when describing the magnetic objects? (Ans: Metal)</li>
-	<li>Shall we sort the objects into the two categories? How would you categorise them? Test out their theory with a magnet.
-	</li>
-			</ul>
+	<li>Shall we sort the objects into the two categories? How would you categorise them? Test out their theory with a magnet.</li>
+</ul>
 		
-
 <h3 class="margin--bottom--lg" id="lp-magnetpoweredcar"><b>Magnet-Powered Car </b></h3>
 
 <h4>LET'S EXPERIMENT!</h4>

@@ -262,9 +262,9 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 
 <h5>Instructions</h5>
 <ol>
-  <li> Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!</li>
-  <li> From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.</li>
-  <li> Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?   </li>
+  <li>Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!</li>
+  <li>From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.</li>
+  <li>Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?   </li>
 	</ol>
 
 
@@ -283,9 +283,11 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 The astronauts want to come home. Help them find their way back to Earth. </p>
    </div>
  </div>
-	 <ul><li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
-<li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.  </li>
-<li>Can the magnets be attracted to each other if they are far apart? </li></ul>
+	 <ul>
+	<li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
+<li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.</li>
+<li>Can the magnets be attracted to each other if they are far apart?</li>
+</ul>
 <h4>Tips for Parents:</h4> 
 <p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
 </p>
@@ -343,7 +345,8 @@ Watch what happens in this video and follow along as your child discovers more a
  </div>
 	 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a>
 <h4>Tips for Parents:</h4> 
-   <ul><li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources. </li>
+   <ul>
+	<li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources.</li>
 			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! 
 </li>
 </ul>

@@ -301,7 +301,7 @@ With the same concept, get your children to try manoeuvring their rocket through
 	 
 
 <h4>LET'S WATCH!</h4>
-	 <p>For more on what you can do with magnets: </p>
+<p>For more on what you can do with magnets:</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=Bux3zA-5RvU" target="_blank">

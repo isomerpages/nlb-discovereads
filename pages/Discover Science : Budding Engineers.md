@@ -263,14 +263,14 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-			<img src="/images/science-lfa/magnetic-rockets/magnet11-2%204mb.jpg" style="width:250px; text-align:left;">
-			<p><u>Small Galaxy (Paper plate)<br></u>
+			<img src="/images/science-lfa/magnetic-rockets/magnet11-2%204mb.jpg" style="width:400px; text-align:left;">
+			<p><u>Small Galaxy (paper plate)<br></u>
 				Help the astronauts explore the galaxy and steer their ship through the stars and planets. </p>
      </div>
    </div>
  <div class="col is-three-fifths">
-	 <img src="/images/science-lfa/magnetic-rockets/magnet10-1%204mb.jpg" style="width:250px; text-align:left;">
-				<p><u>Big Galaxy (Maze) - the next level <br></u>
+	 <img src="/images/science-lfa/magnetic-rockets/magnet10-1%204mb.jpg" style="width:400px; text-align:left;">
+				<p><u>Big Galaxy (maze) - the next level <br></u>
 The astronauts want to come home. Help them find their way back to Earth. </p>
    </div>
  </div>

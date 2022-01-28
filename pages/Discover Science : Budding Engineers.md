@@ -179,7 +179,6 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 	<li>Set a timer for 10 minutes to see how many items your child can find during the time limit.</li>
 </ol>
 
-<p><b>Reflection Questions: </b></p>
 <p>How do you know if an object is magnetic? What keywords are being used in the description? </p>
 <h4>Tips for Parents:</h4> 
 <ul>

@@ -139,15 +139,14 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
    </div>
  <div class="col is-three-fifths">
 	<p>This activity allows your child to explore pulling forces without a magnet. </p>
-	    </div>
- </div>
- <h4>Tips for Parents:</h4> 
-    <p><ul>
+	 <h4>Tips for Parents:</h4> 
+    <ul>
 <li>As your child pulls on the string to get their rocket to move, this is an opportunity for you to teach them about other kinds of pulling forces. These can cause an object to change direction, speed up or slow down. </li>
 	 <li>This helps children practice their gross motor skills too!</li>
-</ul></p>
-
-
+</ul>
+	    </div>
+ </div>
+ 
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
 
 <h4>SCAVENGER HUNT<br><br>LET'S INVESTIGATE!</h4>

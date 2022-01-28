@@ -192,27 +192,26 @@ How do you know if an object is magnetic? What keywords are being used in the de
    </div> </div>
 	 
 <h4>Tips for Parents:</h4> 
-    <p><ul><li>Magnetic objects are certain types of metals that can be attracted to magnets. They include iron and steel. 
+    <ul><li>Magnetic objects are certain types of metals that can be attracted to magnets. They include iron and steel. 
 </li>
 			<li>Non-magnetic metals include copper, gold and aluminium. Other non-magnetic materials are glass, cotton, plastic (some of which you will investigate in this activity). 
 </li>
 			<li>Learning about the physical properties of objects is part of physical sciences. By getting your child to hypothesise, experiment, collect data, and draw conclusions, you are introducing them to important processes that develop their scientific thinking!
-			</li></ul></p>
- <h4><b>Steps</b><br></h4>
+			</li></ul>
+ <h4><b>Steps</b></h4>
 <ul>
   <li>In your scientific notebook or piece of paper, draw a table (3 columns and 16 rows) and in the first column, write down the name of each object found in your search. The first example was done for you. 
 </li>
 <li>With the observations table, ask your child if they think the object is magnetic or non-magnetic. Write “Yes” or “No” in the Prediction column. </li>
 	<li>Use the magnet to test out your child’s predictions and record the observations! Emphasise that even if some of their guesses are wrong, an experiment is about trying things out and learning from them!</li>
-<p><u>You may ask these questions during the activity:</u> </p>
-	<li>For magnetic objects, what do you think they have in common? What key word is mentioned during the treasure hunt activity when describing the magnetic objects? (Ans: Metal)	</li>
+<p><u>You may ask these questions during the activity:</u></p>
+	<li>For magnetic objects, what do you think they have in common? What key word is mentioned during the treasure hunt activity when describing the magnetic objects? (Ans: Metal)</li>
 	<li>Shall we sort the objects into the two categories? How would you categorise them? Test out their theory with a magnet.
 	</li>
 			</ul>
 		
 
 <h3 class="margin--bottom--lg" id="lp-magnetpoweredcar"><b>Magnet-Powered Car </b></h3>
-
 
 <h4>LET'S EXPERIMENT!</h4>
 <p>This is where you can see both the push and pull of two magnets in action! </p>
@@ -227,7 +226,6 @@ How do you know if an object is magnetic? What keywords are being used in the de
      <img src="/images/science-lfa/magnetic-rockets/magnet9.png" style="width:250px; text-align:left;">
    </div>
  </div>
-
 
 <h3 class="margin--bottom--lg" id="lp-blastoff"><b>Blast Off with Magnetic Rockets</b></h3>
 
@@ -262,9 +260,10 @@ How do you know if an object is magnetic? What keywords are being used in the de
 
 <h5>Instructions</h5>
 <ol>
-  <li> Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!  </li>
-  <li> From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.  </li>
+  <li> Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!</li>
+  <li> From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.</li>
   <li> Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?   </li>
+	</ol>
 
 
 <h4>LET'S EXPERIMENT!</h4>
@@ -282,9 +281,9 @@ How do you know if an object is magnetic? What keywords are being used in the de
 The astronauts want to come home. Help them find their way back to Earth. </p>
    </div>
  </div>
-	 <p><ul><li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
+	 <ul><li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
 <li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.  </li>
-<li>Can the magnets be attracted to each other if they are far apart? </li></ul></p>
+<li>Can the magnets be attracted to each other if they are far apart? </li></ul>
 <h4>Tips for Parents:</h4> 
 <p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
 </p>
@@ -292,7 +291,6 @@ The astronauts want to come home. Help them find their way back to Earth. </p>
 <p>This is a high-quality STEM experience because it gets children to learn about a tough topic like magnets and magnetic forces through hands-on sensory activities, which allows them to remember and understand better. <br>
 
 Ask your child how they think the rocket (with the magnet attached) can move if they’re not allowed to directly touch it.<br>
-
 
 With the facts learned earlier about the attraction between two magnets, demonstrate how the Magnetic Magic Wand can move the rocket ship around the paper plate. <br>
 
@@ -343,10 +341,10 @@ Watch what happens in this video and follow along as your child discovers more a
  </div>
 	 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a>
 <h4>Tips for Parents:</h4> 
-   <p><ul><li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources. </li>
+   <ul><li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources. </li>
 			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! 
 </li>
-</p>
+</ul>
 <h4>LET'S READ MORE!</h4>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">

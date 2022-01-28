@@ -169,16 +169,16 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 			</ol>
 
 <p><b>For more fun:</b></p>
-	<p><ol><li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
-<li>Set a timer for 10 minutes to see how many items your child can find during the time limit. </li></ol></p>
+	<ol><li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
+<li>Set a timer for 10 minutes to see how many items your child can find during the time limit. </li></ol>
 
 <p><b>Reflection Questions: </b><br>
-How do you know if an object is magnetic? What keywords are being used in the description? 
+How do you know if an object is magnetic? What keywords are being used in the description? </p>
 	 <h4>Tips for Parents:</h4> 
     <ul><li>Ask your child what something metal looks like. Explain that it can be shiny, silver, smooth and are often heavy for their size.  </li>
 			<li>Upon finding an item, ask your child to describe how it looks, feels, and maybe even smells! Encouraging your child to make close observations is crucial in developing their process-thinking skills.</li>
 			<li>As there is no fixed list of items, use this opportunity to get your child to think out of the box! Allow them to be creative as they identify the objects and ask them why they think the object fits the description. By asking open-ended questions, you are inviting them to communicate their reasonings and conclusions. </li></ul>
-</p>
+
 
 <h4>Will It Stick?</h4>
  <div class="row is-multiline margin--bottom--lg">

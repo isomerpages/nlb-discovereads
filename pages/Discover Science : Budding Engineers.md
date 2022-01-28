@@ -179,7 +179,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet8.png" style="width:400px; text-align:left;">
+       <img src="/images/science-lfa/magnetic-rockets/magnet8.png" style="width:600px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">

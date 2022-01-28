@@ -103,10 +103,11 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 <p>There are so many more things you can do with magnets! Experimentation and play are fantastic ways for your child to learn a difficult concept. Read some of our book recommendations to further supplement your child’s understanding.</p>
 
 <h4>Checklist for Experiments and Crafts</h4> 
-<p>Before we begin the activities, here are some materials that you will need:<br><br> </p>
-	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a><p>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
-There are 4 activities for you to learn more about magnetic and pulling forces.<br>
-<ul>
+<p>Before we begin the activities, here are some materials that you will need:<br><br></p>
+	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a>
+	 <p>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
+There are 4 activities for you to learn more about magnetic and pulling forces.</p>
+<p><ul>
 	<li><a href="#lp-rocketship">Pulling Force: Rocket Ship</a></li>
 	<li><a href="#lp-willitstick">Let’s Investigate: Scavenger Hunt & Will It Stick? </a></li>
 	<li><a href="#lp-magnetpoweredcar">Magnet-Powered Car</a></li>

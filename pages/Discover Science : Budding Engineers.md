@@ -41,7 +41,7 @@ The meaning behind the quote is to pursue ambitious goals even success remains u
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Magnets and Magnetism | Magnets Video for Kids  </b>
+<b> Magnets and Magnetism | Magnets Video for Kids </b>
    </div>
  </div>
  <p>Summary: <br> 

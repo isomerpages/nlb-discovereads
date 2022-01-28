@@ -252,21 +252,20 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet10.png" style="width:300px; text-align:left;"><p>Click the instructions to retrieve the templates for the Maze; Moon, Stars, Planets; and Rockets</p>
+       <img src="/images/science-lfa/magnetic-rockets/magnet10.png" style="width:300px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet10-3.jpg" style="width:300px; text-align:left;">
-   	<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"></a> </div>
+      <a href="https://go.gov.sg/blastoffwithmagneticrockets-craftsforlearningpackage" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet10-3.jpg" style="width:300px; text-align:left;"></a> </div>
   </div>
  </div>
-
+<p>Click the image (right) to retrieve the instructions on creating the crafts, Magnet-Powered Rocket and even Magnetic Magic Wand!</p>
 <h5>Instructions</h5>
 <ol>
-	<li>Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!</li>
-	<li>From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.</li>
-	<li>Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?</li>
+	<li>Make your own galaxy using a paper plate and the maze on page 2 from the <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank">printable.</a> <br>
+		You can also choose to decorate with planets and stars from page 4!</li>
+	<li>Using a magnet, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?</li>
 </ol>
 
 

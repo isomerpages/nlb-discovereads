@@ -240,7 +240,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet10.png" style="width:300px; text-align:left;">
+       <img src="/images/science-lfa/magnetic-rockets/magnet10.png" style="width:300px; text-align:left;"><p>Click the instructions to retrieve the templates for the Maze; Moon, Stars, Planets; and Rockets</p>
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
@@ -249,7 +249,6 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
    	<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"></a> </div>
   </div>
  </div>
-<p>Click the instructions to retrieve the templates for the Maze; Moon, Stars, Planets; and Rockets</p>
 
 <h5>Instructions</h5>
 <ol>

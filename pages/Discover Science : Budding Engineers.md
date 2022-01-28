@@ -62,14 +62,16 @@ In this video, your child will learn about magnets and how magnetism aids us in 
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p>Let's familiarise your child with new STEAM words relating to magnets.<br>
-The words have been arranged so that they can be found horizontally, vertically, and diagonally. <br>
-Teach your children about strategy. One way is to go through the puzzle from left to right and look for the first letter of each word, and then check the surrounding letters for the next word. <br>
+     <p>Let's familiarise your child with new STEAM words relating to magnets.<br><br>
+The words have been arranged so that they can be found horizontally, vertically, and diagonally. <br><br>  
+	</div>
+ </div>
+			 <h4>Tips for Parents:</h4>
+<p>Teach your children about strategy. One way is to go through the puzzle from left to right and look for the first letter of each word, and then check the surrounding letters for the next word. <br>
 This activity will help your child to understand the idea of direction: 
 horizontal (across), vertical (up and down) and diagonal (at an angle).
 </p>
-   </div>
- </div>
+ 
  
 
   <div class="row is-multiline">

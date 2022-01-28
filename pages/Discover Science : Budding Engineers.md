@@ -163,9 +163,9 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
  
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
 
-<h4>SCAVENGER HUNT<br><br>LET'S INVESTIGATE!</h4>
+<h4>LET'S INVESTIGATE!</h4>
  <img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
- <p>It’s time for a Treasure Hunt!</p>
+ <p>It’s time for a Scavenger Hunt!</p>
 
  <p><b>Steps</b></p>
 <ol>

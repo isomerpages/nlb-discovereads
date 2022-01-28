@@ -86,7 +86,8 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
  </div>
 
 <p>These are some new vocabulary words relating to magnets, but some vowels are missing. Have your child guess the missing letters.</p>
-<ul>	<li>_ T T R _ C T</li>
+<ul>
+	<li>_ T T R _ C T</li>
 	<li>R _ P _ L</li>
 	<li>M _ G N _ T</li>
 	<li>F _ R C _ S</li>
@@ -96,8 +97,8 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 	
 <p>Draw your child’s attention to these points as they observe magnets at work: </p>
 <ul>
-<li>There are invisible pull and push forces that can move certain objects through attraction and repulsion. </li>
-<li>All magnets have two poles, North and South. The opposite poles will pull together and stick, while the same poles will push away from one another.</li>
+	<li>There are invisible pull and push forces that can move certain objects through attraction and repulsion. </li>
+	<li>All magnets have two poles, North and South. The opposite poles will pull together and stick, while the same poles will push away from one another.</li>
 </ul>
 
 <p>There are so many more things you can do with magnets! Experimentation and play are fantastic ways for your child to learn a difficult concept. Read some of our book recommendations to further supplement your child’s understanding.</p>
@@ -140,9 +141,9 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
  <div class="col is-three-fifths">
 	<p>This activity allows your child to explore pulling forces without a magnet. </p>
 	 <h4>Tips for Parents:</h4> 
-    <ul>
-<li>As your child pulls on the string to get their rocket to move, this is an opportunity for you to teach them about other kinds of pulling forces. These can cause an object to change direction, speed up or slow down. </li>
-	 <li>This helps children practice their gross motor skills too!</li>
+<ul>
+	<li>As your child pulls on the string to get their rocket to move, this is an opportunity for you to teach them about other kinds of pulling forces. These can cause an object to change direction, speed up or slow down. </li>
+		<li>This helps children practice their gross motor skills too!</li>
 </ul>
 	    </div>
  </div>
@@ -155,9 +156,9 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 
  <p><b>Steps</b></p>
 <ol>
-  <li>With this printout, read through the descriptions together with your child. These items will be used in the follow-up experiment later.</li>
-<li>Under your supervision, invite your child to look for items around the house that fit the descriptions! There can be more than one answer, so encourage your child to pick out items made up of a variety of materials.</li>
-			</ol>
+	 <li>With this printout, read through the descriptions together with your child. These items will be used in the follow-up experiment later.</li>
+	<li>Under your supervision, invite your child to look for items around the house that fit the descriptions! There can be more than one answer, so encourage your child to pick out items made up of a variety of materials.</li>
+</ol>
 <p><b>For more fun:</b></p>
 
 <ol>
@@ -252,10 +253,10 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 
 <h5>Instructions</h5>
 <ol>
-  <li>Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!</li>
-  <li>From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.</li>
-  <li>Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?   </li>
-	</ol>
+	<li>Make your own galaxy using a paper plate and some planets printed from the printable (refer to page 4). You may also choose to print the galaxy maze here (page 2). Decorate with paint or markers!</li>
+	<li>From the printable (page 3), cut out a rocket to navigate. You may also choose to draw this together with your child.</li>
+	<li>Using magnets, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?</li>
+</ol>
 
 
 <h4>LET'S EXPERIMENT!</h4>
@@ -273,10 +274,10 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 The astronauts want to come home. Help them find their way back to Earth. </p>
    </div>
  </div>
-	 <ul>
+<ul>
 	<li>Did you notice that the magnets are able to stick together through paper and cardboard?  The magnetic field and forces of attraction are so strong!</li>
-<li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.</li>
-<li>Can the magnets be attracted to each other if they are far apart?</li>
+	<li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.</li>
+	<li>Can the magnets be attracted to each other if they are far apart?</li>
 </ul>
 <h4>Tips for Parents:</h4> 
 <p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
@@ -335,10 +336,9 @@ Watch what happens in this video and follow along as your child discovers more a
  </div>
 	 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a>
 <h4>Tips for Parents:</h4> 
-   <ul>
+<ul>
 	<li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources.</li>
-			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! 
-</li>
+	<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board!</li>
 </ul>
 <h4>LET'S READ MORE!</h4>
  <div class="row is-multiline">

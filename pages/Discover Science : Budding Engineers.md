@@ -213,7 +213,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 </ul>
 <p><u>You may ask these questions during the activity:</u></p>
 <ul>
-	<li>For magnetic objects, what do you think they have in common? What key word is mentioned during the treasure hunt activity when describing the magnetic objects? (Ans: Metal)</li>
+	<li>For magnetic objects, what do you think they have in common? What key word is mentioned during the scavenger hunt activity when describing the magnetic objects? (Ans: Metal)</li>
 	<li>Shall we sort the objects into the two categories? How would you categorise them? Test out their theory with a magnet.</li>
 </ul>
 		

@@ -224,7 +224,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <a href="https://go.gov.sg_blastoffwithmagneticrockets-activity-magnetpoweredcar" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet9-1.png" style="width:250px; text-align:left;"></a>
+       <a href="https://go.gov.sg/magneticrockets-magnetpoweredcar" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet9-1.png" style="width:250px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">

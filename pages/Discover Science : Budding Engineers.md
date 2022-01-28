@@ -150,18 +150,9 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
 
 <h4>SCAVENGER HUNT<br><br>LET'S INVESTIGATE!</h4>
- 
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     	<p>It’s time for a Treasure Hunt!</p>
-   </div>
- </div>
- 
+ <img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
+ <p>It’s time for a Treasure Hunt!</p>
+
  <p><b>Steps</b></p>
 <ol>
   <li>With this printout, read through the descriptions together with your child. These items will be used in the follow-up experiment later.</li>

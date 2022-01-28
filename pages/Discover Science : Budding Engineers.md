@@ -335,7 +335,7 @@ Watch what happens in this video and follow along as your child discovers more a
  <h4>Tips for Parents:</h4> 
     <p><ul><li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources. </li>
 			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! 
-</li>
+</li></ul>
 </p>
   
 	 

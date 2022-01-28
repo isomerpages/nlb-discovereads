@@ -37,7 +37,7 @@ The meaning behind the quote is to pursue ambitious goals even success remains u
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=-aNpmCSZHbk" target="_blank">
-       <img src="/images/science-lfa/magnetic-rockets/magnet3.jpeg" style="width:400px; text-align:left;"></a>
+       <img src="/images/science-lfa/magnetic-rockets/magnet3.jpeg" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">

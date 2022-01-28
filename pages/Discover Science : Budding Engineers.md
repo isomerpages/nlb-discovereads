@@ -267,7 +267,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 <ol>
 	<li>Make your own galaxy using a paper plate and the maze on page 2 from the <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank">printable.</a> <br>
 		You can also choose to decorate with planets and stars from page 4!</li>
-	<li>Using a magnet, ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?</li>
+	<li>Using a Magnetic Magic Wand (or a regular magnet), ask your child to think about how they can have the rocket move around the galaxy…without touching the rocket! How can invisible magnetic forces be used to do this?</li>
 </ol>
 
 

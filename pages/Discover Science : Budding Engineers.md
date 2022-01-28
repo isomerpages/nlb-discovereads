@@ -125,9 +125,11 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 	<li><a href="#lp-marshaismagnetic">Marsha is Magnetic by Beth Ferry</a> </li>
 </ul>
 
+<h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
+
 <h4> LET’S CREATE!</h4>
 <img src="/images/science-lfa/magnetic-rockets/magnet6-3%20Jade%20Magnetic%20Rocket%20post%204mb.jpg" style="width:350px; text-align:left;">
-<h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
+
 <p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
 
  <h5>Materials required:</h5>

@@ -50,23 +50,23 @@ Storytelling Videos (Updated on 4 Dec 2021)
 
 ### **English**
 
-**11 Dec 2021**
-**Mighty Mousedeer of the Forest**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWNhdF0GBtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**8 January 2022**<br>
+**Sebbie's First Day of School**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCsbkZqDzgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**25 Dec 2021**
-**My Favourite Days**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGFfZ8kVuMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**22 January 2022**<br>
+**The Lion Dance**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6S6WmU1uLjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
 ### **Chinese**
 
-**10 Aug 2021**
+**10 Aug 2021**<br>
 **我们的口袋里有相思豆!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3j5fUISV60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**9 Mar 2021**
+**9 Mar 2021**<br>
 **独一无二的伊努卡**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8N98F6nms4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -74,11 +74,11 @@ Storytelling Videos (Updated on 4 Dec 2021)
 
 ### **Malay**
 
-**10 Aug 2021**
+**10 Aug 2021**<br>
 **Saya Kesal!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQBopAhG7iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**1 Jul 2021**
+**1 Jul 2021**<br>
 **Saya Terburu-buru!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oY3wJqc5g6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -86,11 +86,11 @@ Storytelling Videos (Updated on 4 Dec 2021)
 
 ### **Tamil**
 
-**1 Jul 2021**
+**1 Jul 2021**<br>
 **இணை இல்லாத இனுக்கா**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JqZaqAmpKj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**7 May 2021**
+**7 May 2021**<br>
 **The Tree My Aunty Grew**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nb2lV-tChus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

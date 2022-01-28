@@ -159,9 +159,10 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 <li>Under your supervision, invite your child to look for items around the house that fit the descriptions! There can be more than one answer, so encourage your child to pick out items made up of a variety of materials.</li>
 			</ol>
 <p><b>For more fun:</b></p>
-	<ol>
-	<li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
-<li>Set a timer for 10 minutes to see how many items your child can find during the time limit. </li>
+
+<ol>
+<li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
+<li>Set a timer for 10 minutes to see how many items your child can find during the time limit.</li>
 </ol>
 
 <p><b>Reflection Questions: </b></p>

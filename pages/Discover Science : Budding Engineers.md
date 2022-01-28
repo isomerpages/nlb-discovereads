@@ -41,11 +41,12 @@ The meaning behind the quote is to pursue ambitious goals even success remains u
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Magnets and Magnetism | Magnets Video for Kids  </b><br>Summary: <br> 
-In this video, your child will learn about magnets and how magnetism aids us in everyday tasks. 
- </p>
+     <p><b> Magnets and Magnetism | Magnets Video for Kids  </b>
    </div>
  </div>
+ <p>Summary: <br> 
+In this video, your child will learn about magnets and how magnetism aids us in everyday tasks. 
+ </p>
  <h4>Tips for Parents:</h4> 
 <ul>
   <li>Children are very curious. One of the best things you can do is to explore with your child and have them try making guesses as to why certain things happen.</li>

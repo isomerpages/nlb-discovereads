@@ -104,8 +104,8 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 
 <h4>Checklist for Experiments and Crafts</h4> 
 <p>Before we begin the activities, here are some materials that you will need:</p>
-<p><a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a></p>
-	 <p>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)</p>
+<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a>
+<p>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)</p>
 <p>There are 4 activities for you to learn more about magnetic and pulling forces.</p>
 <ul>
 	<li><a href="#lp-rocketship">Pulling Force: Rocket Ship</a></li>

@@ -288,13 +288,13 @@ The astronauts want to come home. Help them find their way back to Earth. </p>
 	<li>Did you notice that the magnets are able to stick together through paper and cardboard? The magnetic field and forces of attraction are so strong!</li>
 	<li>Would it be easier or more difficult to pull them apart if the magnets were stronger? Their strength varies across the different types and sizes.</li>
 	<li>Can the magnets be attracted to each other if they are far apart?</li>
+	<li>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
+</li>
 </ul>
 <h4>Tips for Parents:</h4> 
-<p>Race your own rocket with your child. By having another pair of magnets and a coloured rocket, you can challenge your child to a friendly competition.
-</p>
 	
 <p>This is a high-quality STEM experience because it gets children to learn about a tough topic like magnets and magnetic forces through hands-on sensory activities, which allows them to remember and understand better.<br><br>
-
+	
 Ask your child how they think the rocket (with the magnet attached) can move if they’re not allowed to directly touch it.<br><br>
 
 With the facts learned earlier about the attraction between two magnets, demonstrate how the Magnetic Magic Wand can move the rocket ship around the paper plate.<br><br>

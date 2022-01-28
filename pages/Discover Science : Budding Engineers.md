@@ -149,50 +149,47 @@ There are 4 activities for you to learn more about magnetic and pulling forces.<
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
 
 <h4>SCAVENGER HUNT<br><br>LET'S INVESTIGATE!</h4>
- <img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class="image">
-			 <p>It’s time for a Treasure Hunt! <br><br>
-				 <b>Steps</b><br>
+ 
+<img src="/images/science-lfa/magnetic-rockets/magnet7%20new.png" style="width:400px; text-align:left;">
+     
+<p>It’s time for a Treasure Hunt!</p>
+ <p><b>Steps</b><br>
 <ol>
   <li>With this printout, read through the descriptions together with your child. These items will be used in the follow-up experiment later.</li>
 <li>Under your supervision, invite your child to look for items around the house that fit the descriptions! There can be more than one answer, so encourage your child to pick out items made up of a variety of materials.</li>
-</ol></p>
-			<p><b>For more fun:</b></p>
-	<ol><li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
-<li>Set a timer for 10 minutes to see how many items your child can find during the time limit. </li></ol>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-	 	 <p><b>Reflection Questions: </b><br>
+			</ol></p>
+
+<p><b>For more fun:</b></p>
+	<p><ol><li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>
+<li>Set a timer for 10 minutes to see how many items your child can find during the time limit. </li></ol></p>
+
+<p><b>Reflection Questions: </b><br>
 How do you know if an object is magnetic? What keywords are being used in the description? 
 	 <h4>Tips for Parents:</h4> 
     <ul><li>Ask your child what something metal looks like. Explain that it can be shiny, silver, smooth and are often heavy for their size.  </li>
 			<li>Upon finding an item, ask your child to describe how it looks, feels, and maybe even smells! Encouraging your child to make close observations is crucial in developing their process-thinking skills.</li>
 			<li>As there is no fixed list of items, use this opportunity to get your child to think out of the box! Allow them to be creative as they identify the objects and ask them why they think the object fits the description. By asking open-ended questions, you are inviting them to communicate their reasonings and conclusions. </li></ul>
 </p>
-   </div>
- </div>
 
 <h4>Will It Stick?</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
        <img src="/images/science-lfa/magnetic-rockets/magnet8.png" style="width:400px; text-align:left;">
-			 <p>Have you gathered all the different objects from around the house? Here is where we’ll discover more about the magnetic force of attraction (pull).</p>
+			 
      </div>
    </div>
  <div class="col is-three-fifths">
-	 <h4>Tips for Parents:</h4> 
-    <ul><li>Magnetic objects are certain types of metals that can be attracted to magnets. They include iron and steel. 
+<p>Have you gathered all the different objects from around the house? Here is where we’ll discover more about the magnetic force of attraction (pull).</p>
+   </div> </div>
+	 
+<h4>Tips for Parents:</h4> 
+    <p><ul><li>Magnetic objects are certain types of metals that can be attracted to magnets. They include iron and steel. 
 </li>
 			<li>Non-magnetic metals include copper, gold and aluminium. Other non-magnetic materials are glass, cotton, plastic (some of which you will investigate in this activity). 
 </li>
 			<li>Learning about the physical properties of objects is part of physical sciences. By getting your child to hypothesise, experiment, collect data, and draw conclusions, you are introducing them to important processes that develop their scientific thinking!
-			</li></ul>
-</p>
-   </div> </div>
+			</li></ul></p>
  <h4><b>Steps</b><br></h4>
 <ul>
   <li>In your scientific notebook or piece of paper, draw a table (3 columns and 16 rows) and in the first column, write down the name of each object found in your search. The first example was done for you. 

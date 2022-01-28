@@ -128,10 +128,20 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 <img src="/images/science-lfa/magnetic-rockets/magnet6-3%20Jade%20Magnetic%20Rocket%20post%204mb.jpg" style="width:350px; text-align:left;">
 <h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
 <p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
+
  <h5>Materials required:</h5>
-<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-2%20new.png" style="width:3=300px; text-align:left;"></a>
-<p>Click on the link to retrieve the template for the "Shoot for the Moon" Quote (above). </p>
-	
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+  <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-2%20new.png" style="width:3=300px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+	<p>Click on the image to retrieve the template for the "Shoot for the Moon" Quote </p>
+	    </div>
+ </div>
+
+
 
 <h4>LET'S LEARN!</h4>
  <div class="row is-multiline margin--bottom--lg">

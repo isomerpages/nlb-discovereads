@@ -162,11 +162,11 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
    </div>
  </div>
  
- <p><b>Steps</b><br>
+ <p><b>Steps</b></p>
 <ol>
   <li>With this printout, read through the descriptions together with your child. These items will be used in the follow-up experiment later.</li>
 <li>Under your supervision, invite your child to look for items around the house that fit the descriptions! There can be more than one answer, so encourage your child to pick out items made up of a variety of materials.</li>
-			</ol></p>
+			</ol>
 
 <p><b>For more fun:</b></p>
 	<p><ol><li>Ask your child to commit as many items to memory as they can before they hunt for them!</li>

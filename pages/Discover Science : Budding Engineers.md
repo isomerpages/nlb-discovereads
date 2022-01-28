@@ -320,23 +320,26 @@ Watch what happens in this video and follow along as your child discovers more a
 
 <h3 class="margin--bottom--lg" id="lp-marshaismagnetic"><b>Marsha is Magnetic by Beth Ferry</b></h3>
 	 
+	 
 <h4>LET'S READ!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
        <a href="https://go.gov.sg/blastoffwithmagneticrockets-letsread" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17-1%20lets%20read%20magnetic%20rockets%20Jade.png" style="width:250px; text-align:left;"></a>
+			<p>Click on the image to download the worksheet</p>
      </div>
    </div>
  <div class="col is-three-fifths">
-	 <p>Click on the image to download the worksheet</p>
-   </div>
+	 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a></div>
  </div>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462876" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17.jpeg" style="width:250px; text-align:left;"></a>
-<h4>Tips for Parents:</h4> 
-<ul>
-	<li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources.</li>
-	<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board!</li>
-</ul>
+ <h4>Tips for Parents:</h4> 
+    <p><ul><li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources. </li>
+			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! 
+</li>
+</p>
+  
+	 
+	 
 <h4>LET'S READ MORE!</h4>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">

@@ -115,7 +115,10 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 	<li><a href="#lp-magnetpoweredcar">Magnet-Powered Car</a></li>
 	<li><a href="#lp-blastoff">Blast Off with Magnetic Rockets</a> </li>
 </ul>
-
+<p>To learn what else you can do with magnets, watch this video</p>
+<ul>
+	<li><a href="#lp-letswatch27"></a> 27 Magnetic Experiments to Blow Your Mind </li>
+</ul>
 <p>Book Talk (with reflection questions) & other Recommendations</p>
 <ul>
 	<li><a href="#lp-marshaismagnetic">Marsha is Magnetic by Beth Ferry</a> </li>
@@ -297,8 +300,8 @@ With the same concept, get your children to try manoeuvring their rocket through
 	 
 <p><i>If you and your child enjoyed the bonding activities, tag us with your completed works at @publiclibrarysg!</i></p>
 	 
+<h4 class="margin--bottom--lg" id="lp-letswatch27"><b>LET'S WATCH! </b></h4>
 
-<h4>LET'S WATCH!</h4>
 <p>For more on what you can do with magnets:</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
@@ -307,14 +310,13 @@ With the same concept, get your children to try manoeuvring their rocket through
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> 27 Magnetic Experiments to Blow Your Mind (9 min 50 sec)  </b><br>Summary: <br> 
-What can you do with a magnet, battery, and spring? <br>
-What about a handful of paper clips and glasses of water? <br>
-Watch what happens in this video and follow along as your child discovers more about magnets and STEAM concepts!  
- </p>
+     <p><b> 27 Magnetic Experiments to Blow Your Mind (9 min 50 sec)  </b> </p>
    </div>
  </div>
-
+<p>Summary: <br>
+What can you do with a magnet, battery, and spring? <br>
+What about a handful of paper clips and glasses of water? <br>
+Watch what happens in this video and follow along as your child discovers more about magnets and STEAM concepts!  </p>
 
 <h3 class="margin--bottom--lg" id="lp-marshaismagnetic"><b>Marsha is Magnetic by Beth Ferry</b></h3>
 	 

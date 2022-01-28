@@ -126,7 +126,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 <h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
 <p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
  <h5>Materials required:</h5>
-<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-2%20new.png" style="width:3=400px; text-align:left;"></a>
+<a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-2%20new.png" style="width:3=300px; text-align:left;"></a>
 <p>Click on the link to retrieve the template for the "Shoot for the Moon" Quote (above). </p>
 	
 

@@ -168,7 +168,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 
 <p><b>Reflection Questions: </b></p>
 <p>How do you know if an object is magnetic? What keywords are being used in the description? </p>
-	 <h4>Tips for Parents:</h4> 
+<h4>Tips for Parents:</h4> 
 <ul>
 	<li>Ask your child what something metal looks like. Explain that it can be shiny, silver, smooth and are often heavy for their size.</li>
 	<li>Upon finding an item, ask your child to describe how it looks, feels, and maybe even smells! Encouraging your child to make close observations is crucial in developing their process-thinking skills.</li>

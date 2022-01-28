@@ -63,26 +63,25 @@ In this video, your child will learn about magnets and how magnetism aids us in 
    </div>
  <div class="col is-three-fifths">
      <p>Let's familiarise your child with new STEAM words relating to magnets.<br><br>
-The words have been arranged so that they can be found horizontally, vertically, and diagonally. <br><br>  
+			 The words have been arranged so that they can be found horizontally, vertically, and diagonally.</p>
 	</div>
  </div>
-			 <h4>Tips for Parents:</h4>
+ 
+<h4>Tips for Parents:</h4>
 <p>Teach your children about strategy. One way is to go through the puzzle from left to right and look for the first letter of each word, and then check the surrounding letters for the next word. <br>
 This activity will help your child to understand the idea of direction: 
-horizontal (across), vertical (up and down) and diagonal (at an angle).
-</p>
- 
+horizontal (across), vertical (up and down) and diagonal (at an angle).</p>
  
 
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet5%20gif-1.gif" style="width:350px; text-align:left;">
+       <img src="/images/science-lfa/magnetic-rockets/magnet5%20gif-1.gif" style="width:450px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet5%20gif-2.gif" style="width:350px; text-align:left;">
+       <img src="/images/science-lfa/magnetic-rockets/magnet5%20gif-2.gif" style="width:450px; text-align:left;">
     </div>
   </div>
  </div>

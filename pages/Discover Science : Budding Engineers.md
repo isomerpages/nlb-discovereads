@@ -85,7 +85,6 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).</p>
     </div>
   </div>
  </div>
-
 <p>These are some new vocabulary words relating to magnets, but some vowels are missing. Have your child guess the missing letters.</p>
 <ul>
 	<li>_ T T R _ C T</li>

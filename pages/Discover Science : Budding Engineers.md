@@ -104,7 +104,7 @@ horizontal (across), vertical (up and down) and diagonal (at an angle).
 
 <h4>Checklist for Experiments and Crafts</h4> 
 <p>Before we begin the activities, here are some materials that you will need:<br><br> </p>
-	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a><br>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
+	 <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6%20new.jpg" style="width:600px; text-align:left;"></a><p>Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars, Planets; A4 Rockets)<br><br>
 There are 4 activities for you to learn more about magnetic and pulling forces.<br>
 <ul>
 	<li><a href="#lp-rocketship">Pulling Force: Rocket Ship</a></li>
@@ -112,7 +112,7 @@ There are 4 activities for you to learn more about magnetic and pulling forces.<
 	<li><a href="#lp-magnetpoweredcar">Magnet-Powered Car</a></li>
 	<li><a href="#lp-blastoff">Blast Off with Magnetic Rockets</a> </li>
 </ul>
-
+</p>
 <p>Book Talk (with reflection questions) & other Recommendations</p>
 <ul>
 	<li><a href="#lp-marshaismagnetic">Marsha is Magnetic by Beth Ferry</a> </li>
@@ -137,13 +137,14 @@ There are 4 activities for you to learn more about magnetic and pulling forces.<
    </div>
  <div class="col is-three-fifths">
 	<p>This activity allows your child to explore pulling forces without a magnet. </p>
+	    </div>
+ </div>
  <h4>Tips for Parents:</h4> 
     <p><ul>
 <li>As your child pulls on the string to get their rocket to move, this is an opportunity for you to teach them about other kinds of pulling forces. These can cause an object to change direction, speed up or slow down. </li>
 	 <li>This helps children practice their gross motor skills too!</li>
 </ul></p>
-   </div>
- </div>
+
 
 <h3 class="margin--bottom--lg" id="lp-willitstick"><b>Let’s Investigate: Scavenger Hunt & Will It Stick? </b></h3>
 
@@ -398,5 +399,3 @@ Watch what happens in this video and follow along as your child discovers more a
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-

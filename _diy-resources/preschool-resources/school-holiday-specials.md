@@ -75,43 +75,42 @@ Materials needed:
 * Food dye or colouring
 * Water
 
-[Download](/files/preschool/SHS%20Craft%20Instructions%20-%20Emotions.PDF) full instructions for this craft.
+[Download](/files/preschool/SHS%20Instructions_Weather.PDF) full instructions for this craft.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/whatarefeelings.jpeg" alt="what are feelings" style="width:45%">
+<img src="/images/diyresources/preschool/clouds.jpeg" alt="clouds" style="width:45%">
 
-**Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
-**Author:** Katie Daynes & Christine Pym<br>
-**Publisher:** London : Usborne Publishing, 2019.<br>
+**Title:** [Clouds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202679751) <br>
+**Author:** Jenny Fretland VanVoorst <br>
+**Publisher:** Minneapolis, MN : Bullfrog Books, \[2017\].<br>
 
-This thoughtful book explores happiness, sadness, anger, fear and worry in a friendly and approachable way. Adorable animal characters experience different emotions, while imaginative flaps answer important questions such as 'Why don't I feel happy all the time?' and 'How can I cheer up my friend?' Introduces useful ways to counter stress and anxiety. The flaps are perfect for inquisitive young children. Other titles in the series include Why do we need bees?, How do flowers grow?, How do I see?, Why does the sun shine? and How do animals talk?
+In Clouds, vibrant, full-color photos and carefully leveled text introduce young readers to the formation and characteristics of clouds.
 
-<img src="/images/diyresources/preschool/Im-Happy-Sad-Today-1.jpeg" alt="im happy sad today" style="width:45%">
+<img src="/images/diyresources/preschool/where%20rain%20comes%20from.jpeg" alt="where rain comes from" style="width:45%">
 
-**Title:** [I’m Happy-Sad Today!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204007445) <br>
-**Author:** Lory Britain, Ph.D.  <br>
-**Illustrator:** Matthew Rivera <br>
-**Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
+**Title:** [Where Rain Comes From](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205374862) <br>
+**Author:** Marie Rogers <br>
+**Publisher:** New York : PowerKids Press, 2021. <br>
 
-Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined. With gentle messaging and charming illustrations, a little girl talks about her many layered feelings, ultimately concluding, "When I have more than one feeling inside me, I don't have to choose just one. I know that all my feelings are okay at the same time." A special section for adults presents ideas for helping children explore their emotions, build a vocabulary of feeling words, know what to do if they feel overwhelmed, and more.
+Rainy days might make some people sad, and while we might not want to get caught in a downpour, our Earth needs rain. Rain is responsible for keeping our plants healthy, giving us drinking water, and giving us a way to cool off when it's hot. 
 
-<img src="/images/diyresources/preschool/fergalisfuming.jpeg" alt="fergal is fuming" style="width:40%">
+<img src="/images/diyresources/preschool/wet.jpeg" alt="wet" style="width:40%">
 
-**Title:** [Fergal is Fuming!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202961071) <br>
-**Author:** Robert Starling <br>
-**Publisher:** London : Andersen Press, 2017. <br>
+**Title:** [Wet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202900696) <br>
+**Author:** Carey Sookocheff <br>
+**Publisher:** New York : Henry Holt and Company, 2017. <br>
 
-A dragon with a short temper is not a good combination, as Fergal's family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game. It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way.
+Sometimes it's fun to get wet. And sometimes it's not.
 
-<img src="/images/diyresources/preschool/afterthefall-humptydumpty.jpeg" alt="after the fall humpty dumpty" style="width:40%">
+<img src="/images/diyresources/preschool/under%20the%20umbrella.jpeg" alt="under the umbrella" style="width:40%">
 
-**Title:** [After the Fall: How Humpty Dumpty Got Back Up](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203076694) <br>
-**Author:** Dan Santat <br>
-**Publisher:** New York, New York : Roaring Brook Press, 2017. <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3375799](https://nlb.overdrive.com/media/3375799) <br>
+**Title:** [Under the Umbrella](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202781296) <br>
+**Author:** Catherine Buquet <br>
+**Illustrator:** Marion Arbona <br>
+**Publisher:** Toronto, Ontario, Canada : Pajama Press Inc., 2017. <br>
 
-From the New York Times –bestselling creator of The Adventures of Beekle: The Unimaginary Friend comes the inspiring epilogue to the beloved classic nursery rhyme Humpty Dumpty. Everyone knows that when Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. But what happened after? Caldecott Medalist Dan Santat's poignant tale follows Humpty Dumpty, an avid bird watcher whose favorite place to be is high up on the city wall—that is, until after his famous fall. Now terrified of heights, Humpty can longer do many of the things he loves most. Will he summon the courage to face his fear? After the Fall (How Humpty Dumpty Got Back Up Again) is a masterful picture book that will remind readers of all ages that Life begins when you get back up.
+When the wind snatches a cranky man's umbrella and drops it at a the feet of little boy outside a patisserie, the hasty curmudgeon slows down long enough for an unlikely friendship to blossom.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

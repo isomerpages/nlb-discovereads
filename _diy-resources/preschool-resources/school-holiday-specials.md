@@ -32,7 +32,7 @@ Materials needed:
 
 Sophie's mum says that no one can reach the horizon, and no one should try. But Sophie reckons it doesn't look that far! She sets off on an exciting journey, meeting all sorts of sea creatures on the way - walruses and whales, lobsters and starfish… and someone a little more dangerous…
 
-<img src="/images/diyresources/preschool/Clara%20and%20Clem%20Under%20the%20Sea.JPG" alt="clara and clem" style="width:45%">
+<img src="/images/diyresources/preschool/Clara%20and%20Clem%20Under%20the%20Sea.JPG" alt="clara and clem" style="width:40%">
 
 **Title:** [Clara and Clem Under the Sea](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200609691) <br>
 **Author:** Ethan Long <br>

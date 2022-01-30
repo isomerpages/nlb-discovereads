@@ -64,17 +64,16 @@ This nonfiction picture book uses a guessing game to introduce eight different
 
 ### **Weather**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_PPC5jN-kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xeRHJy0a4TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Making emotions masks!**
+### **Rain Cloud Experiment**
 
 Materials needed:
 
-* Paper plates
-* Ice cream sticks
-* Crayons
-* Tape
-* Scissors
+* A glass jar, a clear container, or a glass cup
+* Shaving foam
+* Food dye or colouring
+* Water
 
 [Download](/files/preschool/SHS%20Craft%20Instructions%20-%20Emotions.PDF) full instructions for this craft.
 

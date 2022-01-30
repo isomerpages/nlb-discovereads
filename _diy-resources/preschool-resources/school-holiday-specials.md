@@ -6,6 +6,113 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### **Sea Animals**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCByWaNO588" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Underwater Expedition**
+
+Materials needed:
+
+* Transparent folder (with at least one opening)
+* Coloured markers (that do not rub off on plastic)
+* A piece of black construction paper
+* Printed template of torchlight and sea animals (optional)
+
+[Download](/files/preschool/SHS%20Craft%20Instructions_Sea%20Animals.PDF) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/Where%20the%20Sea%20Meets%20the%20Sky.jpg" alt="where the sea meets the sky" style="width:45%">
+
+**Title:** [Where the Sea Meets the Sky](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204511779) <br>
+**Author:** Peter Bently <br>
+**Illustrator:** Reiko Sekiguchi <br>
+**Publisher:** London: Hodder Children’s Books, 2020.<br>
+
+Sophie's mum says that no one can reach the horizon, and no one should try. But Sophie reckons it doesn't look that far! She sets off on an exciting journey, meeting all sorts of sea creatures on the way - walruses and whales, lobsters and starfish… and someone a little more dangerous…
+
+<img src="/images/diyresources/preschool/Clara%20and%20Clem%20Under%20the%20Sea.JPG" alt="clara and clem" style="width:45%">
+
+**Title:** [Clara and Clem Under the Sea](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200609691) <br>
+**Author:** Ethan Long <br>
+**Publisher:** New York: Penguin Young Readers, 2014. <br>
+
+Clara and Clem are off on an adventure under the sea! The two swim with dolphins, hug a shark, and even find buried treasure. Let's go!
+
+<img src="/images/diyresources/preschool/fergalisfuming.jpeg" alt="fergal is fuming" style="width:40%">
+
+**Title:** [Fergal is Fuming!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202961071) <br>
+**Author:** Robert Starling <br>
+**Publisher:** London : Andersen Press, 2017. <br>
+
+A dragon with a short temper is not a good combination, as Fergal's family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game. It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way.
+
+<img src="/images/diyresources/preschool/afterthefall-humptydumpty.jpeg" alt="after the fall humpty dumpty" style="width:40%">
+
+**Title:** [After the Fall: How Humpty Dumpty Got Back Up](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203076694) <br>
+**Author:** Dan Santat <br>
+**Publisher:** New York, New York : Roaring Brook Press, 2017. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3375799](https://nlb.overdrive.com/media/3375799) <br>
+
+From the New York Times –bestselling creator of The Adventures of Beekle: The Unimaginary Friend comes the inspiring epilogue to the beloved classic nursery rhyme Humpty Dumpty. Everyone knows that when Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. But what happened after? Caldecott Medalist Dan Santat's poignant tale follows Humpty Dumpty, an avid bird watcher whose favorite place to be is high up on the city wall—that is, until after his famous fall. Now terrified of heights, Humpty can longer do many of the things he loves most. Will he summon the courage to face his fear? After the Fall (How Humpty Dumpty Got Back Up Again) is a masterful picture book that will remind readers of all ages that Life begins when you get back up.
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
+### **Weather**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_PPC5jN-kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Making emotions masks!**
+
+Materials needed:
+
+* Paper plates
+* Ice cream sticks
+* Crayons
+* Tape
+* Scissors
+
+[Download](/files/preschool/SHS%20Craft%20Instructions%20-%20Emotions.PDF) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/whatarefeelings.jpeg" alt="what are feelings" style="width:45%">
+
+**Title:** [What are Feelings?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986600) <br>
+**Author:** Katie Daynes & Christine Pym<br>
+**Publisher:** London : Usborne Publishing, 2019.<br>
+
+This thoughtful book explores happiness, sadness, anger, fear and worry in a friendly and approachable way. Adorable animal characters experience different emotions, while imaginative flaps answer important questions such as 'Why don't I feel happy all the time?' and 'How can I cheer up my friend?' Introduces useful ways to counter stress and anxiety. The flaps are perfect for inquisitive young children. Other titles in the series include Why do we need bees?, How do flowers grow?, How do I see?, Why does the sun shine? and How do animals talk?
+
+<img src="/images/diyresources/preschool/Im-Happy-Sad-Today-1.jpeg" alt="im happy sad today" style="width:45%">
+
+**Title:** [I’m Happy-Sad Today!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204007445) <br>
+**Author:** Lory Britain, Ph.D.  <br>
+**Illustrator:** Matthew Rivera <br>
+**Publisher:** Minneapolis, MN : Free Spirit Publishing Inc., \[2019\] <br>
+
+Happy, and also sad. Excited, but nervous too. Feeling friendly, with a little shyness mixed in. Mixed feelings are natural, but they can be confusing. There are different kinds of happy--the quiet kind and the "noisy, giggly, jump and run" kind. And there are conflicting feelings, like proud and jealous, frustrated and determined. With gentle messaging and charming illustrations, a little girl talks about her many layered feelings, ultimately concluding, "When I have more than one feeling inside me, I don't have to choose just one. I know that all my feelings are okay at the same time." A special section for adults presents ideas for helping children explore their emotions, build a vocabulary of feeling words, know what to do if they feel overwhelmed, and more.
+
+<img src="/images/diyresources/preschool/fergalisfuming.jpeg" alt="fergal is fuming" style="width:40%">
+
+**Title:** [Fergal is Fuming!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202961071) <br>
+**Author:** Robert Starling <br>
+**Publisher:** London : Andersen Press, 2017. <br>
+
+A dragon with a short temper is not a good combination, as Fergal's family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game. It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way.
+
+<img src="/images/diyresources/preschool/afterthefall-humptydumpty.jpeg" alt="after the fall humpty dumpty" style="width:40%">
+
+**Title:** [After the Fall: How Humpty Dumpty Got Back Up](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203076694) <br>
+**Author:** Dan Santat <br>
+**Publisher:** New York, New York : Roaring Brook Press, 2017. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/3375799](https://nlb.overdrive.com/media/3375799) <br>
+
+From the New York Times –bestselling creator of The Adventures of Beekle: The Unimaginary Friend comes the inspiring epilogue to the beloved classic nursery rhyme Humpty Dumpty. Everyone knows that when Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. But what happened after? Caldecott Medalist Dan Santat's poignant tale follows Humpty Dumpty, an avid bird watcher whose favorite place to be is high up on the city wall—that is, until after his famous fall. Now terrified of heights, Humpty can longer do many of the things he loves most. Will he summon the courage to face his fear? After the Fall (How Humpty Dumpty Got Back Up Again) is a masterful picture book that will remind readers of all ages that Life begins when you get back up.
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
 ### **Emotions**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_PPC5jN-kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

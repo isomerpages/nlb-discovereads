@@ -37,25 +37,28 @@ Sophie's mum says that no one can reach the horizon, and no one should try. Bu
 **Title:** [Clara and Clem Under the Sea](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200609691) <br>
 **Author:** Ethan Long <br>
 **Publisher:** New York: Penguin Young Readers, 2014. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/1576337](https://nlb.overdrive.com/media/1576337) <br>
 
 Clara and Clem are off on an adventure under the sea! The two swim with dolphins, hug a shark, and even find buried treasure. Let's go!
 
-<img src="/images/diyresources/preschool/fergalisfuming.jpeg" alt="fergal is fuming" style="width:40%">
+<img src="/images/diyresources/preschool/Whoosh%20A%20Watery%20World.jpg" alt="whoosh" style="width:40%">
 
-**Title:** [Fergal is Fuming!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202961071) <br>
-**Author:** Robert Starling <br>
-**Publisher:** London : Andersen Press, 2017. <br>
+**Title:** [Whoosh!: A Watery World of Wonderful Creatures](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516845) <br>
+**Author:** Marilyn Baillie <br>
+**Illustrator:** Susan Mitchell <br>
+**Publisher:** Toronto: Owlkids Books Inc., 2014. <br>
 
-A dragon with a short temper is not a good combination, as Fergal's family and friends soon find out. He burns the dinner (literally), reduces the football goal to ashes and absolutely cannot play a nice, quiet board game. It is only when he starts to notice other animals have clever tricks to calm down that Fergal begins to win back his friends, especially when he discovers dragons can cool off in a very handy way.
+Introduces various aquatic animals, including alligators, hermit crabs, and clownfish, and describes how children often mimic their behaviours.
 
-<img src="/images/diyresources/preschool/afterthefall-humptydumpty.jpeg" alt="after the fall humpty dumpty" style="width:40%">
+<img src="/images/diyresources/preschool/Ocean%20Animals%20from%20Head%20to%20Tail.JPG" alt="ocean animals" style="width:40%">
 
-**Title:** [After the Fall: How Humpty Dumpty Got Back Up](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203076694) <br>
-**Author:** Dan Santat <br>
-**Publisher:** New York, New York : Roaring Brook Press, 2017. <br>
-**OverDrive Link:** [https://nlb.overdrive.com/media/3375799](https://nlb.overdrive.com/media/3375799) <br>
+**Title:** [Ocean Animals from Head to Tail](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645979) <br>
+**Author:** Stacey Roderick <br>
+**Illustrator:** Kwanchai Moriya <br>
+**Publisher:** Toronto: Kids Can Press, 2016. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/2934290](https://nlb.overdrive.com/media/2934290) <br>
 
-From the New York Times –bestselling creator of The Adventures of Beekle: The Unimaginary Friend comes the inspiring epilogue to the beloved classic nursery rhyme Humpty Dumpty. Everyone knows that when Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. But what happened after? Caldecott Medalist Dan Santat's poignant tale follows Humpty Dumpty, an avid bird watcher whose favorite place to be is high up on the city wall—that is, until after his famous fall. Now terrified of heights, Humpty can longer do many of the things he loves most. Will he summon the courage to face his fear? After the Fall (How Humpty Dumpty Got Back Up Again) is a masterful picture book that will remind readers of all ages that Life begins when you get back up.
+This nonfiction picture book uses a guessing game to introduce eight different ocean animals and some unique aspects of their bodies. First, readers are shown a close-up illustration of an unusual part of an animal's body and asked to guess its owner. The following spread reveals the animal's name along with an illustration of the whole animal in its habitat. There's also a brief description of the animal's traits with a special emphasis on the featured body part. Young children will recognise that every animal has its own distinctive features and body parts that help it survive.
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 

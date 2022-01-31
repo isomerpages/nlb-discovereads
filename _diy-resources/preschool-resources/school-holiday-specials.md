@@ -6,6 +6,114 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### **Sea Animals**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SCByWaNO588" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Underwater Expedition**
+
+Materials needed:
+
+* Transparent folder (with at least one opening)
+* Coloured markers (that do not rub off on plastic)
+* A piece of black construction paper
+* Printed template of torchlight and sea animals (optional)
+
+[Download](/files/preschool/SHS%20Craft%20Instructions_Sea%20Animals.PDF) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/Where%20the%20Sea%20Meets%20the%20Sky.jpg" alt="where the sea meets the sky" style="width:45%">
+
+**Title:** [Where the Sea Meets the Sky](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204511779) <br>
+**Author:** Peter Bently <br>
+**Illustrator:** Reiko Sekiguchi <br>
+**Publisher:** London: Hodder Children’s Books, 2020.<br>
+
+Sophie's mum says that no one can reach the horizon, and no one should try. But Sophie reckons it doesn't look that far! She sets off on an exciting journey, meeting all sorts of sea creatures on the way - walruses and whales, lobsters and starfish… and someone a little more dangerous…
+
+<img src="/images/diyresources/preschool/Clara%20and%20Clem%20Under%20the%20Sea.JPG" alt="clara and clem" style="width:40%">
+
+**Title:** [Clara and Clem Under the Sea](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200609691) <br>
+**Author:** Ethan Long <br>
+**Publisher:** New York: Penguin Young Readers, 2014. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/1576337](https://nlb.overdrive.com/media/1576337) <br>
+
+Clara and Clem are off on an adventure under the sea! The two swim with dolphins, hug a shark, and even find buried treasure. Let's go!
+
+<img src="/images/diyresources/preschool/Whoosh%20A%20Watery%20World.jpg" alt="whoosh" style="width:40%">
+
+**Title:** [Whoosh!: A Watery World of Wonderful Creatures](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516845) <br>
+**Author:** Marilyn Baillie <br>
+**Illustrator:** Susan Mitchell <br>
+**Publisher:** Toronto: Owlkids Books Inc., 2014. <br>
+
+Introduces various aquatic animals, including alligators, hermit crabs, and clownfish, and describes how children often mimic their behaviours.
+
+<img src="/images/diyresources/preschool/Ocean%20Animals%20from%20Head%20to%20Tail.JPG" alt="ocean animals" style="width:40%">
+
+**Title:** [Ocean Animals from Head to Tail](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645979) <br>
+**Author:** Stacey Roderick <br>
+**Illustrator:** Kwanchai Moriya <br>
+**Publisher:** Toronto: Kids Can Press, 2016. <br>
+**OverDrive Link:** [https://nlb.overdrive.com/media/2934290](https://nlb.overdrive.com/media/2934290) <br>
+
+This nonfiction picture book uses a guessing game to introduce eight different ocean animals and some unique aspects of their bodies. First, readers are shown a close-up illustration of an unusual part of an animal's body and asked to guess its owner. The following spread reveals the animal's name along with an illustration of the whole animal in its habitat. There's also a brief description of the animal's traits with a special emphasis on the featured body part. Young children will recognise that every animal has its own distinctive features and body parts that help it survive.
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
+### **Weather**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xeRHJy0a4TA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Rain Cloud Experiment**
+
+Materials needed:
+
+* A glass jar, a clear container, or a glass cup
+* Shaving foam
+* Food dye or colouring
+* Water
+
+[Download](/files/preschool/SHS%20Instructions_Weather.PDF) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/clouds.jpeg" alt="clouds" style="width:45%">
+
+**Title:** [Clouds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202679751) <br>
+**Author:** Jenny Fretland VanVoorst <br>
+**Publisher:** Minneapolis, MN : Bullfrog Books, \[2017\].<br>
+
+In Clouds, vibrant, full-color photos and carefully leveled text introduce young readers to the formation and characteristics of clouds.
+
+<img src="/images/diyresources/preschool/where%20rain%20comes%20from.jpeg" alt="where rain comes from" style="width:45%">
+
+**Title:** [Where Rain Comes From](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205374862) <br>
+**Author:** Marie Rogers <br>
+**Publisher:** New York : PowerKids Press, 2021. <br>
+
+Rainy days might make some people sad, and while we might not want to get caught in a downpour, our Earth needs rain. Rain is responsible for keeping our plants healthy, giving us drinking water, and giving us a way to cool off when it's hot. 
+
+<img src="/images/diyresources/preschool/wet.jpeg" alt="wet" style="width:40%">
+
+**Title:** [Wet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202900696) <br>
+**Author:** Carey Sookocheff <br>
+**Publisher:** New York : Henry Holt and Company, 2017. <br>
+
+Sometimes it's fun to get wet. And sometimes it's not.
+
+<img src="/images/diyresources/preschool/under%20the%20umbrella.jpeg" alt="under the umbrella" style="width:40%">
+
+**Title:** [Under the Umbrella](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202781296) <br>
+**Author:** Catherine Buquet <br>
+**Illustrator:** Marion Arbona <br>
+**Publisher:** Toronto, Ontario, Canada : Pajama Press Inc., 2017. <br>
+
+When the wind snatches a cranky man's umbrella and drops it at a the feet of little boy outside a patisserie, the hasty curmudgeon slows down long enough for an unlikely friendship to blossom.
+
+*All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
+
 ### **Emotions**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_PPC5jN-kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

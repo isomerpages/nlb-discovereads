@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Book Bugs Rescuers
 ---
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
-<br>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_WEWryPrtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

@@ -6,11 +6,11 @@ permalink: /diy-resources/cyla
 
 **Choose Your Library Adventure is an interactive video where you go on a virtual quest to learn about public library spaces and services.** 
 
-_(Updated on 29 November 2021)_
+_(Updated on 8 February 2022)_
 
 **Click on a button to find out more.**
 
-[![MysteryHunt](/images/diyresources/CYLAmysteryhuntbutton.png)](#mysteryhunt) | [![Video](/images/diyresources/CYLAvideobutton.png)](#video) | [![Learning Checklist](/images/diyresources/CYLAchecklistbutton.png)](#checklist) | [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
+[![Learning Checklist](/images/diyresources/CYLAchecklistbutton.png)](#checklist) | [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
 
 <a name="mysteryhunt">![MysteryHunt header](/images/diyresources/CYLAmysteryhuntbanner.png)</a>
 Check out our self-guided mystery hunt happening from 1 December 2021 to 31 December 2021 in our public libraries. Solve 3 puzzles hidden in the library to find the missing treasure. 

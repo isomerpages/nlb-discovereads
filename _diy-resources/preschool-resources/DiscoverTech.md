@@ -8,9 +8,9 @@ third_nav_title: Preschool Resources
 
 ### Coming Soon!
 
-| **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
+| **New!*** <a href="#lp-time">Looping</a> | **New!*** <a href="#lp-density">Branching</a> | **New!*** <a href="#lp-marineanimals">Debugging</a> |
  
-<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-time"><b>Let’s Learn About Looping! </b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
@@ -641,4 +641,3 @@ By allowing your child to hypothesise and formulate answers based on their obser
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-

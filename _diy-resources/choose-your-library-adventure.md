@@ -12,37 +12,6 @@ _(Updated on 8 February 2022)_
 
 [![Learning Checklist](/images/diyresources/CYLAchecklistbutton.png)](#checklist) | [![Trailer](/images/diyresources/CYLAtrailerbutton.png)](#trailer) | [![Quiz](/images/diyresources/CYLAquizbutton.png)](#quiz) | [![Booklist](/images/diyresources/CYLAbooklistbutton.png)](#booklist) | <a href="primary/primary-main#literary-trivia"><img src="/images/diyresources/CYLAchallengebutton.png"></a> | 
 
-<a name="mysteryhunt">![MysteryHunt header](/images/diyresources/CYLAmysteryhuntbanner.png)</a>
-Check out our self-guided mystery hunt happening from 1 December 2021 to 31 December 2021 in our public libraries. Solve 3 puzzles hidden in the library to find the missing treasure. 
-
-**List of Participating Libraries**
-* [Ang Mo Kio Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/332/Default.aspx?branch=Ang+Mo+Kio+Public+Library)
-* [Bedok Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/330/Default.aspx?branch=Bedok+Public+Library)
-* [Bishan Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/312/Default.aspx?branch=Bishan+Public+Library)
-* [Bukit Batok Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/286/Default.aspx?branch=Bukit+Batok+Public+Library)
-* [Bukit Panjang Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/292/Default.aspx?branch=Bukit+Panjang+Public+Library)
-* [Central Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/289/Default.aspx?branch=Central+Public+Library)
-* [Cheng San Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/288/Default.aspx?branch=Cheng+San+Public+Library)
-* [Choa Chu Kang Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/364/Default.aspx?branch=Choa+Chu+Kang+Public+Library)
-* [Clementi Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/296/Default.aspx?branch=Clementi+Public+Library)
-* [Geylang East Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/328/Default.aspx?branch=Geylang+East+Public+Library)
-* [Jurong Regional Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/338/Default.aspx?branch=Jurong+Regional+Library)
-* [Jurong West Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/302/Default.aspx?branch=Jurong+West+Public+Library)
-* [library@harbourfront](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/362/Default.aspx?branch=library%40harbourfront)
-* [Marine Parade Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/324/Default.aspx?branch=Marine+Parade+Public+Library)
-* [Pasir Ris Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/325/Default.aspx?branch=Pasir+Ris+Public+Library)
-* [Queenstown Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/309/Default.aspx?branch=Queenstown+Public+Library)
-* [Sembawang Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/331/Default.aspx?branch=Sembawang+Public+Library)
-* [Sengkang Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/341/Default.aspx?branch=Sengkang+Public+Library)
-* [Serangoon Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/342/Default.aspx?branch=Serangoon+Public+Library)
-* [Tampines Regional Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/335/Default.aspx?branch=Tampines+Regional+Library)
-* [Toa Payoh Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/319/Default.aspx?branch=Toa+Payoh+Public+Library)
-* [Woodlands Regional Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/310/Default.aspx?branch=Woodlands+Regional+Library)
-* [Yishun Public Library](https://www.nlb.gov.sg/VisitUs/BranchDetails/tabid/140/bid/320/Default.aspx?branch=Yishun+Public+Library)
-
-<b><a href="#top">Back to top</a></b>
-
-
 <a name="video">![Video header](/images/diyresources/CYLAvideobanner.png)</a>
 The fate of the library is in your hands! Join our mysterious and magical Guide as you embark on a quest to save the library from being closed… FOREVER! 
 

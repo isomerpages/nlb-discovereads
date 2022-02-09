@@ -8,4 +8,3 @@ third_nav_title: Preschool Resources
 
 ### Coming Soon!
 
-| **New!*** <a href="#lp-time">Looping</a> | **New!*** <a href="#lp-density">Branching</a> | **New!*** <a href="#lp-marineanimals">Debugging</a>

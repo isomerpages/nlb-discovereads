@@ -73,13 +73,9 @@ That's the way we tell computers to loop a certain action in coding languages to
 
 
 <h4>Let's Watch!</h4>
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-three-fifths">
-     <div class="image"><a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank">
+ <a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank">
        <img src="/images/diyresources/preschool/discovertech/Looping/Looping%20video-2.png" style="width:500px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-two-fifths">
+    
 <p> What are Loops? | Coding for Kids | Kodable (3:40 mins) </p>
    
 <p>A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.

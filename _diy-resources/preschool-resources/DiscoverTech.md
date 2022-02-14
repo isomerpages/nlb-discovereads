@@ -108,7 +108,9 @@ That's the way we tell computers to loop a certain action in coding languages to
      </p></div>
   </div>
  </div>
- <div class="row is-multiline">
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
        <a href="https://nlb.overdrive.com/media/3878106" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/the couch potato.png" style="width:150px; text-align:left;"></a>
@@ -127,7 +129,9 @@ That's the way we tell computers to loop a certain action in coding languages to
  <p><b>Adi’s Perfect Patterns and Loops</b><br>
       <u>Author:</u>Caroline Karanja & Ben Whitehouse<br>
  <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
- </p></div>
+    </p></div>
+  </div>
+ </div>
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">

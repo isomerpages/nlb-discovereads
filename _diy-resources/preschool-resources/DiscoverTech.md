@@ -196,7 +196,6 @@ That's the way we tell computers to loop a certain action in coding languages to
 <h5>Parents’ Pro Tip</h5> 
 <p> Branching can be easily understood by using any picture book. Read a story with your child. After the story, test your child's memory of the story by asking them questions, like, "if duck quacks loudly..." and get your child to answer," then the other animals will get angry!" You can even recreate the story with your child.</p>
 
-
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
@@ -210,8 +209,6 @@ That's the way we tell computers to loop a certain action in coding languages to
  </div>
  <p>This video contains simple information for children to understand how conditional statements work in programming.
  </p>
- 
-
 
 
 <h4>Let’s Read!</h4>

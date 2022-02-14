@@ -11,15 +11,14 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-time"><b>Let’s Learn About Looping! </b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Looping/1st%20pic.png" style="width:300px; text-align:left;">
  
 <p>Looping is about doing something again and again and again. <br><br>
 When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again. 
 </p>
 
 <h4>Yoga Looping Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/branching/if then backyard.png" style="width:400px; text-align:left;">
-
+<img src="/images/diyresources/preschool/discovertech/Looping/Yoga%20Looping.png" style="width:400px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
@@ -30,7 +29,7 @@ When you need to repeat something in code, you can use a loop. Looping allows yo
 <h5>How to Play</h5>
  <p> Together with your child, come up with a Yoga regime! Follow the steps below.<br>
 	<ul>
-	<li> Scan the code to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
+	<li> Scan the code above to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
 paper. </li>
 	<li>Next to each yoga pose you have decided, decide how many times you would want to do it (looping!).	</li>
 	<li>Follow the sequence of the poses and loops of the yoga poses on your list. Enjoy your yoga!
@@ -38,11 +37,15 @@ paper. </li>
 		</ul>
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Coding teaches children to take risks, to be creative, to solve problems, to persevere, to think critically and logic, to be focused and to be confident. Get started with unplugged coding activities such as building your own board game, creating a maze or playing treasure hunt with your child at home. Scan the QR code for more ideas on unplugged coding activities.</p>
+<p>Coding teaches children to take risks, to be creative, to solve problems, to persevere, to think critically and logic, to be focused and to be confident. Get started with unplugged coding activities such as building your own board game, creating a maze or playing treasure hunt with your child at home. Scan the QR code below for more ideas on unplugged coding activities.</p>
+
+<img src="/images/diyresources/preschool/discovertech/Looping/Parents%20Pro%20Tip.png" style="width:150px; text-align:left;">
 
 
 <h4> Loop that Sandcastle </h4> 
-<img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:400px; text-align:left;"> 
+<img src="/images/diyresources/preschool/discovertech/debugging/Robot%203.png"
+style="width:200px; text-align:left;">
+
 <h5>Materials Needed</h5>
 <ul>
 	<li> Activity sheet provided below.</li>
@@ -59,7 +62,7 @@ paper. </li>
 <p>Count the number of loops Pascal did to create each sandcastle below and write it in the box. 
 </p>
 
-<a href="/files/preschool/discovertech/branching%20with%20crunch%20the%20dinosaur.pdf" target="_blank">Activity Sheet for Branching with Crunch the Dinosaur</a><br>    * to change activity sheet
+<a href="/files/preschool/discovertech/Looping%20Activity_Loop%20That%20Sandcastle.pdf" target="_blank">Activity Sheet for Loop That Sandcastle</a><br>    
 
 <h5>Parents’ Pro Tip</h5> 
 <p> Use coding-related language often.<br>
@@ -69,14 +72,14 @@ That's the way we tell computers to loop a certain action in coding languages to
 </p>
 
 
-<h4>LET'S WATCH!</h4>
+<h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
+ <div class="col is-four-fifths">
      <div class="image"><a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank">
-       <img src="" style="width:500px; text-align:left;"></a>
+       <img src="/images/diyresources/preschool/discovertech/Looping/Looping%20video-2.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
- <div class="col is-three-fifths">
+ <div class="col is-one-fifths">
 <b> What are Loops? | Coding for Kids | Kodable (3:40 mins) </b>
    </div>
  </div>
@@ -88,7 +91,7 @@ That's the way we tell computers to loop a certain action in coding languages to
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href=" https://nlb.overdrive.com/media/4502667 " target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/scratch jr.png" style="width:150px; text-align:left;"></a>
+       <a href=" https://nlb.overdrive.com/media/4502667 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>How to Code a Rollercoaster</b><br>
@@ -113,7 +116,7 @@ That's the way we tell computers to loop a certain action in coding languages to
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3878106" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/the couch potato.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/3878106" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Baby Loves Coding!</b><br>
@@ -123,7 +126,7 @@ That's the way we tell computers to loop a certain action in coding languages to
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/4829626" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/rox secret code.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/4829626" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/adi's%20perfect%20patterns.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Adi’s Perfect Patterns and Loops</b><br>
@@ -135,7 +138,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3470716" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/gabi if then garden.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/3470716" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
 			</div>
     <div class="text">
        <p><b>How to Code a Sandcastle</b><br>
@@ -145,7 +148,7 @@ That's the way we tell computers to loop a certain action in coding languages to
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/5404966" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/coding 123.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/5404966" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/loops%20repeat%20repeat.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 <p><b>Loops: Repeat, repeat!</b><br>
@@ -162,7 +165,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 <h3 class="margin--bottom--lg" id="lp-branching"><b>Let’s Learn About Branching!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:200px; text-align:left;">
  
 <p>Branching, also known as decision making, equips us with choices in the instructions. There are some conditions that dictate what happens.</p>
 
@@ -182,7 +185,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 <p>Introduce your child to the concept of following rules before you try the activity below. Share with them examples of rules and why we need to follow them. Inform them that this activity requires them to listen carefully to instructions and only do the actions that they are required to. This can help your child to practise coordination between their body parts.</p>
 
 <h4> Branching with Crunch the Dinosaur</h4> 
-<img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:200px; text-align:left;">
 <h5>Materials Needed</h5>
 <p>Activity sheet provided below.</p>
 <h5>How to Play</h5>
@@ -193,25 +196,24 @@ That's the way we tell computers to loop a certain action in coding languages to
 <h5>Parents’ Pro Tip</h5> 
 <p> Branching can be easily understood by using any picture book. Read a story with your child. After the story, test your child's memory of the story by asking them questions, like, "if duck quacks loudly..." and get your child to answer," then the other animals will get angry!" You can even recreate the story with your child.</p>
 
-<h4>Let’s Watch!</h4>
- <p>What are conditions? | Coding for Kids | Kodable (2:52 mins)</p>
- 
-<div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-     <div class="responsive-iframe-container ratio-16by9">
-			   <iframe src="https://www.youtube.com/embed/dJYIRcsdHWg" class="responsive-iframe"></iframe>
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/branching/conditions.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
-   <div class="col is-three-fifths">
-     <p>This video contains simple information for children to understand how conditional statements work in programming.</p>
+ <div class="col is-one-fifths">
+<b> What are conditions? | Coding for Kids | Kodable (2:52 mins) </b>
    </div>
  </div>
- <div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-     <div class="responsive-iframe-container ratio-16by9">
+ <p>This video contains simple information for children to understand how conditional statements work in programming.
+ </p>
  
 
- 
+
+
 <h4>Let’s Read!</h4>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
@@ -255,13 +257,15 @@ That's the way we tell computers to loop a certain action in coding languages to
  <p><b>Rox’s Secret Code</b><br>
       <u>Author:</u>Mara Lecocq<br>
  <u>Publisher:</u>New York : POW! Kids Books, 2021<br>
- </p></div>
-<div class="row is-multiline">
+ < </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
        <a href="https://nlb.overdrive.com/media/4830939" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/gabi if then garden.png" style="width:150px; text-align:left;"></a>
      </div>
-    <div class="text">
+    <div class="text">		
        <p><b>Gabi's If/Then Garden</b><br>
        <u>Author:</u>Caroline Karanja<br>
        <u>Publisher:</u> North Mankato : Picture Window Books, 2018<br>
@@ -287,7 +291,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 		
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/debugging/Robot%203.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/debugging/Robot%203.png" style="width:200px; text-align:left;">
  
 <p>Computer bugs are errors in computer programmes which can cause computers or apps to crash.</p>
 <p>Some common computer bugs include misspellings, wrong numbers, repeated and wrongly-sequenced instructions.</p>
@@ -303,7 +307,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 <p>Introduce your child to the concept of directions before you try the activity below. Get them to "walk" the algorithm by following a set of instructions which include directional words. For instance, take two steps to the right. This will help them to understand the orientation of an algorithm.</p>
 <h4>Catch the Bugs!</h4>
 
-<img src="/images/diyresources/preschool/discovertech/debugging/Robot 1.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/debugging/Robot 1.png" style="width:200px; text-align:left;">
 <h5>Materials Needed</h5>
 <p>Activity sheet provided below.</p>
 <h5>How to Play</h5>
@@ -314,21 +318,21 @@ That's the way we tell computers to loop a certain action in coding languages to
 <h5>Parents’ Pro Tip</h5>
 <p> Read books and sing nursery rhymes that have repetition! This helps your child to recognize patterns and make predictions. Allow your child to repeat the phrases or rhymes in the books and songs and challenge them to predict what happens in the story or continue the song on their own.</p>
 
-<h4>Let’s Watch</h4>
-<p>Coding for Kids |What is coding for kids? | Coding for beginners | Types of Coding |Coding Languages (3:35 mins)</p>
-<div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-     <div class="col is-three-fifths">
-<iframe src="https://www.youtube.com/embed/j-3eArinB7E" class="responsive-iframe"></iframe>
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/embed/j-3eArinB7E" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/debugging/Debugging%20video4.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
-   <div class="col is-three-fifths">
-     <p>The video summarises what coding is all about and introduces children to the different types of coding languages and methods.</p>
-  </div>
+ <div class="col is-one-fifths">
+<b> Coding for Kids |What is coding for kids? | Coding for beginners | Types of Coding |Coding Languages (3:35 mins) </b>
+   </div>
  </div>
- <div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-     <div class="responsive-iframe-container ratio-16by9">
+ <p>The video summarises what coding is all about and introduces children to the different types of coding languages and methods.
+ </p>
+ 
 
 <h4>Let's Read!</h4>
  <div class="row is-multiline">
@@ -372,8 +376,10 @@ That's the way we tell computers to loop a certain action in coding languages to
  <p><b>Coding 1, 2, 3</b><br>
       <u>Author:</u> Janet Slingerland<br>
  <u>Publisher:</u> Rourke Educational Media, 2020<br>
- </p></div>
-<div class="row is-multiline">
+ < </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
        <a href="https://nlb.overdrive.com/media/4840375" target="_blank"><img src="/images/diyresources/preschool/discovertech/debugging/Book_You Cant Dance to These Rhythms.png" style="width:150px; text-align:left;"></a>

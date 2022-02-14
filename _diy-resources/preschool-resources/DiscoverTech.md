@@ -68,28 +68,12 @@ To teach looping concepts at home, instead of telling your child to "do that aga
 That's the way we tell computers to loop a certain action in coding languages too.
 </p>
 
- <h4>Let’s Watch!</h4>
- <p>What are Loops? | Coding for Kids | Kodable (3:40 mins)</p>
- 
-<div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-     <div class="responsive-iframe-container ratio-16by9">
-			   <iframe src="https://www.youtube.com/embed/dJYIRcsdHWg" class="responsive-iframe"></iframe>
-     </div>
-   </div>
-   <div class="col is-three-fifths">
-		 <p> A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.</p>
-   </div>
- </div>
- <div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-     <div class="responsive-iframe-container ratio-16by9"> 
 
-			 
-			  <h4>LET'S WATCH!</h4>
+<h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank"></a>
+     <div class="image"><a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank">
+       <img src="" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">

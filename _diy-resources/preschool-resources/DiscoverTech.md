@@ -280,8 +280,8 @@ That's the way we tell computers to loop a certain action in coding languages to
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
-	
-<h3 class="margin--bottom--lg" id="lp-debugging">Let’s Learn About Debugging!</b></h3>
+
+		<h3 class="margin--bottom--lg" id="lp-debugging"><b>Let’s Learn About Debugging!</b></h3>
 		
  <p><b>Suitable for 4 to 6 years old</b></p>
  

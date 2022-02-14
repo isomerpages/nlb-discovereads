@@ -81,9 +81,8 @@ That's the way we tell computers to loop a certain action in coding languages to
    </div>
  <div class="col is-two-fifths">
 <p> What are Loops? | Coding for Kids | Kodable (3:40 mins) </p>
-   </div>
- </div>
- <p>A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.
+   
+<p>A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.
  </p>
 
  

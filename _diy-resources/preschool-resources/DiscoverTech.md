@@ -11,10 +11,9 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-time"><b>Let’s Learn About Looping! </b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:350px; text-align:left;">
  
-<p>Looping is about doing something again and again and again. 
-
+<p>Looping is about doing something again and again and again. <br><br>
 When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again. 
 </p>
 
@@ -23,21 +22,20 @@ When you need to repeat something in code, you can use a loop. Looping allows yo
 
 
 <h5>Materials Needed</h5>
- <p>• A piece of paper </p>
-<p>• Writing Materials </p>
+<ul>
+	<li>A piece of paper </li>
+<li>Writing Materials </li>
+</ul>
 
 <h5>How to Play</h5>
- <p> Together with your child, come up with a Yoga regime! Follow the steps below.</p>
-	
-<p>
-•	Scan the code to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
-paper.
-
-•	Next to each yoga pose you have decided, decide how many times you would want to do it (looping!).
-
-
-•	Follow the sequence of the poses and loops of the yoga poses on your list. Enjoy your yoga!
-</p>
+ <p> Together with your child, come up with a Yoga regime! Follow the steps below.<br>
+	<ul>
+	<li> Scan the code to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
+paper. </li>
+	<li>Next to each yoga pose you have decided, decide how many times you would want to do it (looping!).	</li>
+	<li>Follow the sequence of the poses and loops of the yoga poses on your list. Enjoy your yoga!
+	</li>
+		</ul>
 
 <h5>Parents’ Pro Tip</h5> 
 <p>Coding teaches children to take risks, to be creative, to solve problems, to persevere, to think critically and logic, to be focused and to be confident. Get started with unplugged coding activities such as building your own board game, creating a maze or playing treasure hunt with your child at home. Scan the QR code for more ideas on unplugged coding activities.</p>
@@ -46,32 +44,30 @@ paper.
 <h4> Loop that Sandcastle </h4> 
 <img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:400px; text-align:left;"> 
 <h5>Materials Needed</h5>
-
-* Activity sheet provided below.
-* 
-Pencil or Crayon
-</p>
+<ul>
+	<li> Activity sheet provided below.</li>
+	<li>Pencil or Crayon</li>
+</ul>
 
 <h5>How to Play</h5>
 <p>In the storybook "How to Code a Sandcastle", Pearl and Pascal coded an entire kingdom with 3 instructions on a repeat mode.
-
-•	Fill the pail with sand.
-
-•	Dump the sand on our spot.
-
-•	Pat the sand down. 
-
-Count the number of loops Pascal did to create each sandcastle below and write it in the box. 
+<ul>
+	<li>Fill the pail with sand.</li>
+	<li>Dump the sand on our spot.</li>
+	<li>Pat the sand down. </li>
+</ul>
+<p>Count the number of loops Pascal did to create each sandcastle below and write it in the box. 
 </p>
 
 <a href="/files/preschool/discovertech/branching%20with%20crunch%20the%20dinosaur.pdf" target="_blank">Activity Sheet for Branching with Crunch the Dinosaur</a><br>    * to change activity sheet
 
 <h5>Parents’ Pro Tip</h5> 
-<p> Use coding-related language often.
+<p> Use coding-related language often.<br>
 To teach looping concepts at home, instead of telling your child to "do that again and again", say 
-"repeat that 5 times". 
+"repeat that 5 times". <br>
 That's the way we tell computers to loop a certain action in coding languages too.
 </p>
+
  <h4>Let’s Watch!</h4>
  <p>What are Loops? | Coding for Kids | Kodable (3:40 mins)</p>
  
@@ -88,6 +84,20 @@ That's the way we tell computers to loop a certain action in coding languages to
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9"> 
+
+			 
+			  <h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/embed/dJYIRcsdHWg" target="_blank"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+<b> What are Loops? | Coding for Kids | Kodable (3:40 mins) </b>
+   </div>
+ </div>
+ <p>A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.
+ </p>
 
  
 <h4>Let’s Read!</h4>

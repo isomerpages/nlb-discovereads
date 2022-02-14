@@ -151,6 +151,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 <p><b>Loops: Repeat, repeat!</b><br>
        <u>Author:</u>Patricia M. Stockland<br>
        <u>Publisher:</u>North Mankato, MN : Cantata Learning, 2018<br>
+ </p></div>
    </div>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
@@ -279,7 +280,7 @@ That's the way we tell computers to loop a certain action in coding languages to
   </div>
     <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
+		
 
 
 <h3 class="margin--bottom--lg" id="lp-debugging"><b>Let’s Learn About Debugging!</b></h3>

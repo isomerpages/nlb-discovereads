@@ -11,7 +11,7 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-time"><b>Let’s Learn About Looping! </b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:350px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/branching/branchin.png" style="width:400px; text-align:left;">
  
 <p>Looping is about doing something again and again and again. <br><br>
 When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again. 

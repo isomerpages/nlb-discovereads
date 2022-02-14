@@ -29,7 +29,7 @@ When you need to repeat something in code, you can use a loop. Looping allows yo
 <h5>How to Play</h5>
  <p> Together with your child, come up with a Yoga regime! Follow the steps below.<br>
 	<ul>
-	<li> Scan the code above to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
+	<li> Scan the QR code above to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
 paper. </li>
 	<li>Next to each yoga pose you have decided, decide how many times you would want to do it (looping!).	</li>
 	<li>Follow the sequence of the poses and loops of the yoga poses on your list. Enjoy your yoga!
@@ -48,8 +48,8 @@ style="width:200px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
-	<li> Activity sheet provided below.</li>
-	<li>Pencil or Crayon</li>
+	<li>Activity sheet provided below.</li>
+	<li>Pencil or crayon</li>
 </ul>
 
 <h5>How to Play</h5>
@@ -59,7 +59,7 @@ style="width:200px; text-align:left;">
 	<li>Dump the sand on our spot.</li>
 	<li>Pat the sand down. </li>
 </ul>
-<p>Count the number of loops Pascal did to create each sandcastle below and write it in the box. 
+<p>Count the number of loops Pascal did to create each sandcastle and write it in the box. 
 </p>
 
 <a href="/files/preschool/discovertech/Looping%20Activity_Loop%20That%20Sandcastle.pdf" target="_blank">Activity Sheet for Loop That Sandcastle</a><br>    
@@ -173,8 +173,8 @@ That's the way we tell computers to loop a certain action in coding languages to
 <img src="/images/diyresources/preschool/discovertech/branching/if then backyard.png" style="width:400px; text-align:left;">
 
 <h5>Materials Needed</h5>
- <p>• A wide space safe from hazards! </p>
-<p>• A set of instructions.</p>
+ <p>• A wide space safe from hazards </p>
+<p>• A set of instructions </p>
 
 <h5>How to Play</h5>
  <p>This game requires a "programmer" and some "computers". The "programmer" stands in front of the "computers" and gives instructions for example, " if i turn in a circle, then you turn in a circle" or he/she can give more challenging instructions, like, "if I touch my nose, then you touch your legs."</p>

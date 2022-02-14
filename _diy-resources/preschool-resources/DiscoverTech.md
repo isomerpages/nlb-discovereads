@@ -43,7 +43,7 @@ paper. </li>
 
 
 <h4> Loop that Sandcastle </h4> 
-<img src="/images/diyresources/preschool/discovertech/debugging/Robot%203.png"
+<img src="/images/diyresources/preschool/discovertech/Looping/Sandcastle.png"
 style="width:200px; text-align:left;">
 
 <h5>Materials Needed</h5>

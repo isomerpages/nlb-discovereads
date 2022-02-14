@@ -282,6 +282,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 
 	
 <h3 class="margin--bottom--lg" id="lp-debugging">Let’s Learn About Debugging!</b></h3>
+		
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <img src="/images/diyresources/preschool/discovertech/debugging/Robot%203.png" style="width:400px; text-align:left;">

@@ -274,6 +274,7 @@ That's the way we tell computers to loop a certain action in coding languages to
 <p><b>Coding 1,2,3</b><br>
        <u>Author:</u>Janet Slingerland<br>
        <u>Publisher:</u>Vero Beach : Rourke Educational Media, 2018<br>
+ </p></div>
    </div>
   </div>
     <p>All book covers are copyright of the respective publishing companies.</p>

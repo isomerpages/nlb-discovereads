@@ -132,7 +132,7 @@ That's the way we tell computers to loop a certain action in coding languages to
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
        <a href="https://nlb.overdrive.com/media/3470716" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/gabi if then garden.png" style="width:150px; text-align:left;"></a>
-     </div>
+			</div>
     <div class="text">
        <p><b>How to Code a Sandcastle</b><br>
        <u>Author:</u>Josh Funk & Sara Palacios <br>
@@ -151,9 +151,6 @@ That's the way we tell computers to loop a certain action in coding languages to
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-
-
 
 
 

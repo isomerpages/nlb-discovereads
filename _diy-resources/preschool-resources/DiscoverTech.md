@@ -18,7 +18,7 @@ When you need to repeat something in code, you can use a loop. Looping allows yo
 </p>
 
 <h4>Yoga Looping Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Looping/Yoga%20Looping.png" style="width:400px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Looping/Yoga%20Looping.png" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
@@ -79,7 +79,7 @@ That's the way we tell computers to loop a certain action in coding languages to
        <img src="/images/diyresources/preschool/discovertech/Looping/Looping%20video-2.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
- <div class="col is-one-fifths">
+ <div class="col is-one-fifths"><br>
 <b> What are Loops? | Coding for Kids | Kodable (3:40 mins) </b>
    </div>
  </div>

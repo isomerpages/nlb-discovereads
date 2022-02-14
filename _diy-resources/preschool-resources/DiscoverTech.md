@@ -276,13 +276,11 @@ That's the way we tell computers to loop a certain action in coding languages to
        <u>Publisher:</u>Vero Beach : Rourke Educational Media, 2018<br>
    </div>
   </div>
-  <p>All book covers are copyright of the respective publishing companies.</p>
+    <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
-
-
-
+	
 <h3 class="margin--bottom--lg" id="lp-debugging">Let’s Learn About Debugging!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  

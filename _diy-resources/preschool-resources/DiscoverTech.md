@@ -4,7 +4,7 @@ permalink: /diy-resources/preschool-resources/discovertech
 description: ""
 third_nav_title: Preschool Resources
 ---
-![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/DiscoverTech%20Eventbrite%20Banner.jpg)
+![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/Looping/DiscoverTech%20Eventbrite%20Banner.jpg)
 
 **New!*** <a href="#lp-looping">Let’s Learn About Looping!</a> | **New!*** <a href="#lp-branching">Let’s Learn About Branching!</a> | **New!*** <a href="#lp-debugging">Let's Learn About Debugging!</a> | 
 

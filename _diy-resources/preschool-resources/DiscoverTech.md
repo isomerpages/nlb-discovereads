@@ -23,7 +23,7 @@ When you need to repeat something in code, you can use a loop. Looping allows yo
 <h5>Materials Needed</h5>
 <ul>
 	<li>A piece of paper </li>
-<li>Writing Materials </li>
+<li>Writing materials </li>
 </ul>
 
 <h5>How to Play</h5>

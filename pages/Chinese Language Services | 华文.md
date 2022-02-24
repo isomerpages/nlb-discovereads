@@ -33,6 +33,10 @@ permalink: /chinese-language
 
 ![](/images/mother-tongue-services/Reading%20Resources.png)
 
+阅读资源细说：
+
+
+
 <b><a href="#top">Back to top</a></b>	
 
 ### 阅读推荐
@@ -43,17 +47,10 @@ permalink: /chinese-language
 
 其他的阅读推荐:
 
-
-学龄前推荐书单:
-
-150本书籍书单以及阅读活动建议：
-https://go.gov.sg/chinese-early-literacy-books
-
-这张150本适合学龄前阅读的绘本推荐书单，还搭配了一些简单的阅读建议，希望能开启您的亲子阅读之旅。
-
 小学推荐书单:
 
-
+小学分级阅读推荐：
+https://go.gov.sg/pri-chinesegradedbooks
 
 中学推荐书单:
 

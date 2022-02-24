@@ -17,6 +17,33 @@ permalink: /chinese-language
 
 ![](/images/mother-tongue-services/Programme%20Information.png)
 
+活动信息细说：
+
+让孩子爱上阅读（0至6岁）工作坊：
+
+图书馆员将以英语介绍高素质的华文书籍，还会分享选书和进行亲子共读时的建议。家长可以参考这些建议，并开启和孩子的阅读之旅。
+
+https://go.gov.sg/raise-a-reader
+
+故事视频制作（中学生、理工生、初院生） :
+
+想在家讲故事，录制故事视频，剪辑加字幕？独乐乐不如众乐乐！让我们把故事视频上载到中文图书馆服务脸书群，与更多家长、小朋友和同龄朋友分享！
+欢迎有兴趣的老师电邮至 chan_pan_fong@nlb.gov.sg 查询。
+
+分享阅读心得 :
+
+看书之后有感而发？欢迎提交阅读心得，让我们分享至中文图书馆服务脸书群！
+
+https://go.gov.sg/chinese-book-reviews 
+
+#你在读什么 :
+
+茫茫人海中相遇讲求缘份，浩瀚书海中遇见知音，亦如此。和我们分享你的阅读书单以及对阅读的看法吧！
+
+https://go.gov.sg/shareclreads-teens
+
+
+
 <b><a href="#top">Back to top</a></b>
 
 ### 线上活动
@@ -35,7 +62,16 @@ permalink: /chinese-language
 
 阅读资源细说：
 
+让孩子爱上阅读：0至6岁启蒙阅读指南:
+
+这本双语指南提供家长和孩子一起阅读华文书籍的一些阅读建议，并推荐了适合不同年龄层的纸质书和电子书。
+
+https://go.gov.sg/chinese-emergentguide-2020
+
+
+
 150本书籍书单以及阅读活动建议：
+
 这张150本适合学龄前阅读的绘本推荐书单，还搭配了一些简单的阅读建议，希望能开启您的亲子阅读之旅。
 
 https://go.gov.sg/chinese-early-literacy-books

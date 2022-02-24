@@ -101,7 +101,12 @@ https://go.gov.sg/nlbbooktalk
 
 小学推荐书单:
 
+[Holiday Reads with MOE-CPCLL 2020 (Primary School)](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020%20(Primary%20School).pdf)
+
+[Holiday Reads with MOE-CPCLL 2021 (Primary School)](/files/Holiday%20Reads%20with%20MOE-CPCLL%202021%20(Primary%20School).pdf)
+
 小学分级阅读推荐：
+
 https://go.gov.sg/pri-chinesegradedbooks
 
 中学推荐书单:

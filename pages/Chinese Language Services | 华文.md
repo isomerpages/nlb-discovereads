@@ -35,6 +35,22 @@ permalink: /chinese-language
 
 阅读资源细说：
 
+150本书籍书单以及阅读活动建议：
+这张150本适合学龄前阅读的绘本推荐书单，还搭配了一些简单的阅读建议，希望能开启您的亲子阅读之旅。
+
+https://go.gov.sg/chinese-early-literacy-books
+
+“读·思·写”文摘 Read, Reap, Write：
+
+我们从书单中选出部份推荐书籍中的文摘，鼓励学生阅读、思考、写下心得，附上相关的问题，借此抛砖引玉，希望有助于老师与学生、或学生与学生之间展开讨论。
+
+https://go.gov.sg/rrw21
+
+阅读心得 Book Reviews：
+
+图书馆员通过书推荐分享想法，学生书友看书之后有话要说！来看看其他人都在看什么书吧！
+
+https://go.gov.sg/nlbbooktalk 
 
 
 <b><a href="#top">Back to top</a></b>	

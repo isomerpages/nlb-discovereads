@@ -11,34 +11,34 @@ permalink: /chinese-language
 [Summary of secondary school activities](/files/Secondary%20school%20activities.pdf)
 
 
-### Programme Information
+### 活动信息                                                               
 ![](/images/mother-tongue-services/Programme%20Information.png)
 
 <b><a href="#top">Back to top</a></b>
 
-### Digital Offerings
+### 线上活动
 ![](/images/mother-tongue-services/Digital%20Offerings.png)
 
 <b><a href="#top">Back to top</a></b>	
 
-### Resources
+### 阅读资源
 ![](/images/mother-tongue-services/Reading%20Resources.png)
 
 <b><a href="#top">Back to top</a></b>	
 
-### Reading Recommendations
+### 阅读推荐
 ![](/images/mother-tongue-services/Reading%20Recommendations%20(Libby%20Containers).png)
 
 Other reading resources:
 
-Preschool:
+学龄前推荐书单:
 
 
-Primary school:
+小学推荐书单:
 
 
 
-Secondary school:
+中学推荐书单:
 
 [Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
 
@@ -62,7 +62,7 @@ Secondary school:
 
 <b><a href="#top">Back to top</a></b>	
 	
-### Contact Us
+### 联系我们
 ![](/images/mother-tongue-services/Contact%20Us.png)
 
 <b><a href="#top">Back to top</a></b>

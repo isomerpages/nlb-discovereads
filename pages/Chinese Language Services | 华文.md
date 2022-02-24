@@ -29,14 +29,36 @@ permalink: /chinese-language
 ### Reading Recommendations
 ![](/images/mother-tongue-services/Reading%20Recommendations%20(Libby%20Containers).png)
 
+Other reading resources:
 
-<div class="wrapper" style="width: 100%;">
-<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
-<div class="image-container" style="margin: auto;">
-	<b>Chinese Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-%20List-FA-with-%20cropmarks.PDF"><img src="/images/recommendationsprimary/NLB-Chinese-Graded-Reading-List-cover.png" style="max-width: 25rem; padding: 10px; margin: auto;"></a>
-	</div>
-	</div>
-	</div>
+Preschool:
+
+
+Primary school:
+
+
+
+Secondary school:
+
+[Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
+
+[Holiday Reads with MOE-CPCLL 2021](/files/Holiday%20Reads%20with%20MOE-CPCLL%202021.pdf)
+
+[NLB Recommended Reads for Teens 2020](/files/NLB%20Recommended%20Reads%20for%20Teens%202020.pdf)
+
+[NLB Recommended Reads for Teens 2021](/files/NLB%20Recommended%20Reads%20for%20Teens%202021.pdf)
+
+
+推荐给中学生的电子书（Libby）书单链接：https://go.gov.sg/teen-books-we-love 
+
+推荐给中学生的HyRead电子书漫画：https://go.gov.sg/nlb-hyread-comics4teens 
+
+推荐给中学生的Libby电子书漫画：https://go.gov.sg/nlb-libby-comics4teens 
+
+推荐给中学生的Libby电子书绘本：https://go.gov.sg/nlb-libby-picbk4teens 
+
+【假期阅读乐】推荐书单：https://go.gov.sg/holidayreads-sec 
+
 
 <b><a href="#top">Back to top</a></b>	
 	

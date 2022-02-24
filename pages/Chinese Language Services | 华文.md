@@ -20,16 +20,25 @@ permalink: /chinese-language
 <b><a href="#top">Back to top</a></b>
 
 ### 线上活动
+
+
+
 ![](/images/mother-tongue-services/Digital%20Offerings.png)
 
 <b><a href="#top">Back to top</a></b>	
 
 ### 阅读资源
+
+
+
 ![](/images/mother-tongue-services/Reading%20Resources.png)
 
 <b><a href="#top">Back to top</a></b>	
 
 ### 阅读推荐
+
+
+
 ![](/images/mother-tongue-services/Reading%20Recommendations%20(Libby%20Containers).png)
 
 其他的阅读推荐:
@@ -37,7 +46,10 @@ permalink: /chinese-language
 
 学龄前推荐书单:
 
-学龄前推荐书单以及阅读活动：https://go.gov.sg/chinese-early-literacy-books
+150本书籍书单以及阅读活动建议：
+https://go.gov.sg/chinese-early-literacy-books
+
+这张150本适合学龄前阅读的绘本推荐书单，还搭配了一些简单的阅读建议，希望能开启您的亲子阅读之旅。
 
 小学推荐书单:
 
@@ -68,6 +80,16 @@ permalink: /chinese-language
 <b><a href="#top">Back to top</a></b>	
 	
 ### 联系我们
+
+若想多了解图书馆活动信息，
+
+可以通过链接加入中文图书馆服务的脸书群：https://go.gov.sg/chinese-library-services
+
+可以通过链接订阅每月的中文活动快讯：https://go.gov.sg/nlb-chinese-edm
+
+或者通过此电邮邮址电邮我们：readchinese@nlb.gov.sg
+
+
 ![](/images/mother-tongue-services/Contact%20Us.png)
 
 <b><a href="#top">Back to top</a></b>

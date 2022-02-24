@@ -11,7 +11,10 @@ permalink: /chinese-language
 [Summary of secondary school activities](/files/Secondary%20school%20activities.pdf)
 
 
-### 活动信息                                                               
+### 活动信息                                                       
+
+
+
 ![](/images/mother-tongue-services/Programme%20Information.png)
 
 <b><a href="#top">Back to top</a></b>
@@ -29,10 +32,12 @@ permalink: /chinese-language
 ### 阅读推荐
 ![](/images/mother-tongue-services/Reading%20Recommendations%20(Libby%20Containers).png)
 
-Other reading resources:
+其他的阅读推荐:
+
 
 学龄前推荐书单:
 
+学龄前推荐书单以及阅读活动：https://go.gov.sg/chinese-early-literacy-books
 
 小学推荐书单:
 

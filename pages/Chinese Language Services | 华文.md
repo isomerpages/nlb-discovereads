@@ -52,6 +52,24 @@ https://go.gov.sg/shareclreads-teens
 
 ![](/images/mother-tongue-services/Digital%20Offerings.png)
 
+线上活动报名链接：
+
+一红老师讲故事：
+
+https://go.gov.sg/onered-storytelling
+
+
+
+线上亲子故事会：
+
+https://go.gov.sg/chinese-folktales 
+
+性情家长读书会：
+
+https://go.gov.sg/growing-parents
+
+
+
 <b><a href="#top">Back to top</a></b>	
 
 ### 阅读资源
@@ -68,7 +86,9 @@ https://go.gov.sg/shareclreads-teens
 
 https://go.gov.sg/chinese-emergentguide-2020
 
+指南总结和家长示范的视频：
 
+https://go.gov.sg/emergentvideo
 
 150本书籍书单以及阅读活动建议：
 

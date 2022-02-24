@@ -56,9 +56,9 @@ https://go.gov.sg/shareclreads-teens
 
 一红老师讲故事：
 
-https://go.gov.sg/onered-storytelling
+第一个星期日 - https://go.gov.sg/onered-storytelling
 
-
+第三个星期日 -  https://go.gov.sg/onered-storytelling2
 
 线上亲子故事会：
 

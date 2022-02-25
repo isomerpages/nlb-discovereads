@@ -55,6 +55,27 @@ description: ""
 	<p><b>Experiment time!</b></p>
  <p><br>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br><br></p>
 
+<p><b>Materials required:</b></p>
+ <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+
+<p>Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.<p>
+
+<p><b> Steps</b></p>
+<p>1. Label the cups/bowls and plate.</p>
+<ul>
+	<li>Control</li>
+	<li>Water</li>
+	<li>Lemon juice</li>
+	<li>Vinegar</li>
+	<li>Salt water</li>
+</ul>
+<img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+	<p>2. Cut the apple into 5 wedges</p>
+ <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.<br></p>
+<img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+ 4. After that, take out the apples and placed them onto the plate that has already been labelled.
+<img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+ 5. Observe what happens and allow your child to record their observations by colouring the template (insert link:https://go.gov.sg/apple-changes-page) provided. Record the findings at 5 mins and 15 mins.<br>
 
  
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>

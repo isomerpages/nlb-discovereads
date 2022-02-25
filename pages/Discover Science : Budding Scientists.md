@@ -93,7 +93,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+       <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Libby Loves Science: Mix and Measure</b><br>
@@ -103,7 +103,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b> Look: I'm a Scientist<br>
@@ -115,7 +115,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Why is it Rusty?</b><br>
@@ -125,18 +125,21 @@ description: ""
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
- <p><b>Ada Twist, Scientistb><br>
+ <p><b>Ada Twist, Scientist</b><br>
       <u>Author:</u> Andrea Beaty &amp; David Roberts (Illustrator)<br>
  <u>Publisher:</u> New York: Abrams Books for Young Readers, 2016<br>
  </p></div>
    </div>
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
- <h5 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h5>
- <p> Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
+	
+ <h4 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h4>
+ <p>Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
+	<img src="/images/science-lfa/Apples/banana%20pear%20apricot.jpg"style="width:450px; text-align:left;">
+	
 
 	
 	

@@ -140,18 +140,10 @@ description: ""
  <p>Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
 	<img src="/images/science-lfa/Apples/banana%20pear%20apricot.jpg"style="width:450px; text-align:left;">
 	
-
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	
 	
-	
-	
-	
-	
-	
-	
-	
-
- 
+	 
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  

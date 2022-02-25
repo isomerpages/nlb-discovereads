@@ -94,7 +94,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Libby Loves Science: Mix and Measure</b><br>
@@ -104,7 +104,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b> Look: I'm a Scientist<br>

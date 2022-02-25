@@ -38,6 +38,7 @@ description: ""
  In this 4-minute video, learn more about oxidation, why is it important and what it does to cut apples.</p>
    </div>
  </div>
+	
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">

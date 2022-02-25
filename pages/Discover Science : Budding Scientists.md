@@ -31,7 +31,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <a href="https://youtu.be/q5vvsgz6n-s"><img src="/images/science-lfa/Apples/gsc.jpeg" style="width:500px; text-align:left;"></a>
+       <a href="https://youtu.be/q5vvsgz6n-s" target="_blank"><img src="/images/science-lfa/Apples/gsc.jpeg" style="width:500px; text-align:left;"></a>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -43,7 +43,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <a href="https://youtu.be/AOVD7WgFP2s"><img src="/images/science-lfa/Apples/invisible.jpeg" style="width:500px; text-align:left;"></a>
+       <a href="https://youtu.be/AOVD7WgFP2s" target="_blank"><img src="/images/science-lfa/Apples/invisible.jpeg" style="width:500px; text-align:left;"></a>
      </div>
    </div>
    <div class="col is-three-fifths">

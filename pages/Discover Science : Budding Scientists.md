@@ -26,6 +26,29 @@ description: ""
      <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
 	</div>
 
+<h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+   <div class="col is-two-fifths">
+     <div class="responsive-iframe-container ratio-16by9">
+       XXX
+     </div>
+   </div>
+   <div class="col is-three-fifths">
+     <p><b> #GSCAtHome | Apple Oxidation (4 min 10 secs) </b><br>
+ In this 4-minute video, learn more about oxidation, why is it important and what it does to cut apples.</p>
+   </div>
+ </div>
+ <div class="row is-multiline margin--bottom--lg">
+   <div class="col is-two-fifths">
+     <div class="responsive-iframe-container ratio-16by9">
+       XXX
+     </div>
+   </div>
+   <div class="col is-three-fifths">
+     <p><b> Science Buddies | Write Secret Messages With Invisible Ink! (2 min 28 secs) </b><br>
+ Take it a step further and try writing secret messages to your best friend or even to your family!</p>
+   </div>
+ </div>
 
 
 

@@ -76,6 +76,77 @@ description: ""
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
  <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
+	
+<h4>Tips for Parents:</h4>
+	
+<p>You may also prompt the following questions to your child:</p>
+<ul>
+	<li>How long did the apples take to turn brown?</li>
+	<li>Which apple turned brown first?</li>
+	<li>How dark did the apples get? Did the apples turn an equal shade of brown?</li>
+	<li>Go ahead and eat the apple slices! Do the apple slices taste different? Compare the taste of the apple slice coated in lemon juice with the plain apple slice? Which one tastes better</li>
+	<li>Do you think the lemon juice slowed or quickened the browning process?</li>
+</ul>
+<p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.<p>
+	
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Libby Loves Science: Mix and Measure</b><br>
+       <u>Author:</u> Kimberly Derting and Shelli R. Johannes<br>
+       <u>Publisher:</u> New York, NY: Greenwillow Books, an imprint of HarperCollinsPublishers, [2021]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?1SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b> Look: I'm a Scientist<br>
+        <u>Author:</u> Helene Hilton<br>
+        <u>Publisher:</u> London : Dorling Kindersley Limited, 2017.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Why is it Rusty?</b><br>
+       <u>Author:</u> Joo-yeong Muhn &amp; Hye-won Kim (Illustrator)<br>
+       <u>Publisher:</u> Big & Small, 2017.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Ada Twist, Scientistb><br>
+      <u>Author:</u> Andrea Beaty &amp; David Roberts (Illustrator)<br>
+ <u>Publisher:</u> New York: Abrams Books for Young Readers, 2016<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+ <h5 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h5>
+ <p> Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
  
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>

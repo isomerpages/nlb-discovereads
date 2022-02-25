@@ -75,7 +75,7 @@ description: ""
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
- <p>5. Observe what happens and allow your child to record their observations by colouring the template (insert link:https://go.gov.sg/apple-changes-page) provided. Record the findings at 5 mins and 15 mins.</p>
+ <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
 
  
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>

@@ -57,9 +57,9 @@ description: ""
 <p>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br></p>
 
 <p><b>Materials required:</b></p>
- <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+ <img src="/images/science-lfa/Apples/Materials.jpg" style="width:800px; text-align:left;"><br>
 
-<p>Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.<p>
+<p>Print out the <a href="/files/science-lfa/Apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.<p>
 
 <p><b> Steps</b></p>
 <p>1. Label the cups/bowls and plate.</p>
@@ -70,10 +70,10 @@ description: ""
 	<li>Vinegar</li>
 	<li>Salt water</li>
 </ul>
-<img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+<img src="/images/science-lfa/Apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
 	<p>2. Cut the apple into 5 wedges</p>
  <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
-<img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+<img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
  <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>

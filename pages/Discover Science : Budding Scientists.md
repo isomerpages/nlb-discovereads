@@ -139,7 +139,7 @@ description: ""
 	
  <h4 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h4>
  <p>Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
-<p><img src="/images/science-lfa/Apples/banana%20pear%20apricot.jpg"style="width:450px; text-align:left;"></p>
+<p><img src="/images/science-lfa/Apples/banana%20pear%20apricot.jpg" style="width:450px; text-align:left;"></p>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 	

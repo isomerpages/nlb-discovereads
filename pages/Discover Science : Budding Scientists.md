@@ -7,9 +7,9 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | **New!*** <a href="#lp-time">Why Do Apples Turn Brown?</a> |
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | **New!*** <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
 
-<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
+<h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 
 <img src="/images/science-lfa/Apples/Why%20do%20apple%20turn%20brown.jpg" style="width:500px; text-align:left;">
 

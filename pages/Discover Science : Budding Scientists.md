@@ -25,6 +25,7 @@ description: ""
  <div class="col is-three-fifths">
      <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
 	</div>
+	</div>
 
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
@@ -52,8 +53,8 @@ description: ""
  </div>
 
 <h4>LET’S INVESTIGATE!</h4>
-	<p><b>Experiment time!</b></p>
- <p><br>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br><br></p>
+<p><b>Experiment time!</b></p>
+<p>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br></p>
 
 <p><b>Materials required:</b></p>
  <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>

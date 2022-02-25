@@ -71,7 +71,7 @@ description: ""
 </ul>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
 	<p>2. Cut the apple into 5 wedges</p>
- <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.<br></p>
+ <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
  4. After that, take out the apples and placed them onto the plate that has already been labelled.
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>

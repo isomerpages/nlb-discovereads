@@ -75,7 +75,7 @@ description: ""
  <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
 <img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
-<img src="/images/science-lfa/Apples/Step 4.jpg" style="width:300px; text-align:left;"><br>
+<img src="/images/science-lfa/Apples/Step 4.jpg" style="width:400px; text-align:left;"><br>
  <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
 	
 <h4>Tips for Parents:</h4>

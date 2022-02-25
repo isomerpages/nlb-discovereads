@@ -11,10 +11,21 @@ description: ""
 
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 
-<img src="add image">
+<img src="/images/science-lfa/Apples/Why%20do%20apple%20turn%20brown.jpg" style="width:500px; text-align:left;">
 
+<p> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>
 
-
+<h4> LET’S LEARN</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/Apples/Oxidation.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i>
+	</div>
+	</div>
 
 
 

@@ -107,7 +107,7 @@ description: ""
         <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-        <p><b> Look: I'm a Scientist<br>
+			<p><b> Look: I'm a Scientist</b><br>
         <u>Author:</u> Helene Hilton<br>
         <u>Publisher:</u> London : Dorling Kindersley Limited, 2017.<br>
      </p></div>

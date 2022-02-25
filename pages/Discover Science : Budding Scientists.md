@@ -7,7 +7,16 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | **New!*** <a href="#lp-time">Why Do Apples Turn Brown?</a> |
+
+
+
+
+
+
+
+
+
  
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

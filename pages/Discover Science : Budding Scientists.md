@@ -23,9 +23,9 @@ description: ""
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i>
+     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
 	</div>
-	</div>
+
 
 
 

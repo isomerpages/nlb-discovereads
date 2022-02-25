@@ -51,7 +51,9 @@ description: ""
    </div>
  </div>
 
-
+<h4>LET’S INVESTIGATE!</h4>
+<p><b>Experiment time!</b>
+ <br>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br><br></p>
 
 
  

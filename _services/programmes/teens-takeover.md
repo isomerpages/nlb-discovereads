@@ -10,7 +10,7 @@ third_nav_title: Programmes
 
 <img src="images/unsorted/teenstakeover/teens-updates2.png" alt="updates header" style="width: 100%;">
 
-**What's on in Dec 2021!**<br>
+**What's on in 2022!**<br>
 Explore our upcoming sessions for these programmes:
 
 * [Teens Takeover Workshops](/services/programmes/teenstakeover#workshops)
@@ -50,6 +50,8 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 * <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
 * <s>[18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register now!]</s>
+* [9 Mar] Medical Myths Debunked Workshop, Zoom, Wednesday 3-4pm [Register now!](https://www.eventbrite.com/e/medical-myths-debunked-workshop-portfolio-teens-takeover-registration-261638988257?aff=odcleoeventsincollection&keep_tld=1)
+* [12 Mar] A Day in the Life of a Digital Forensic Specialist, Zoom, Saturday 11am-12.30pm [Register now!](https://www.eventbrite.com/e/teens-takeover-a-day-in-the-life-of-a-digital-forensic-specialist-registration-266504140057?aff=odcleoeventsincollection&keep_tld=1)
 
 <img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
 
@@ -71,6 +73,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 * <s>[16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!]</s>
 * [5 Feb] Deep Sea Horror Workshop, Zoom, Saturday 2-3.30pm [Register now!](https://www.eventbrite.com/e/deep-sea-horror-workshop-scienti-fx-teens-takeover-registration-237277642817?aff=odcleoeventsincollection&keep_tld=1)
+* [18 Mar] Build a LEGO Factory Workshop, Jurong Regional Library Programme Zone, Friday 3-6pm [Register now!](https://www.eventbrite.com/e/build-a-lego-factory-workshop-scienti-fx-teens-takeover-registration-261620402667?aff=odcleoeventsincollection&keep_tld=1)
 
 Keep a look out for more NLB's Teens Takeover workshop registration openings [here](https://go.gov.sg/teenstakeover-pl). See you there! 🙂 
 

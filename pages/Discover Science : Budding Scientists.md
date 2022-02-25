@@ -7,8 +7,144 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| **New!*** <a href="#lp-time">It's Time to Learn about Time</a> | **New!*** <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |
- 
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | **New!*** <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
+
+<h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p> 
+<img src="/images/science-lfa/Apples/Why%20do%20apple%20turn%20brown.jpg" style="width:500px; text-align:left;">
+
+<p> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>
+
+<h4> LET’S LEARN</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/Apples/Oxidation.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
+	</div>
+	</div>
+
+<h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+   <div class="col is-two-fifths">
+     <div class="responsive-iframe-container ratio-16by9">
+       <a href="https://youtu.be/q5vvsgz6n-s" target="_blank"><img src="/images/science-lfa/Apples/gsc.jpeg" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+   <div class="col is-three-fifths">
+     <p><b> #GSCAtHome | Apple Oxidation (4 min 10 secs) </b><br>
+ In this 4-minute video, learn more about oxidation, why is it important and what it does to cut apples.</p>
+   </div>
+ </div>
+	
+ <div class="row is-multiline margin--bottom--lg">
+   <div class="col is-two-fifths">
+     <div class="responsive-iframe-container ratio-16by9">
+       <a href="https://youtu.be/AOVD7WgFP2s" target="_blank"><img src="/images/science-lfa/Apples/invisible.jpeg" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+   <div class="col is-three-fifths">
+     <p><b> Science Buddies | Write Secret Messages With Invisible Ink! (2 min 28 secs) </b><br>
+ Take it a step further and try writing secret messages to your best friend or even to your family!</p>
+   </div>
+ </div>
+
+<h4>LET’S INVESTIGATE!</h4>
+<p><b>Experiment time!</b></p>
+<p>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br></p>
+
+<p><b>Materials required:</b></p>
+ <img src="/images/science-lfa/Apples/Materials.jpg" style="width:800px; text-align:left;"><br>
+
+<p>Print out the <a href="/files/science-lfa/Apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.<p>
+
+<p><b> Steps</b></p>
+<p>1. Label the cups/bowls and plate.</p>
+<ul>
+	<li>Control</li>
+	<li>Water</li>
+	<li>Lemon juice</li>
+	<li>Vinegar</li>
+	<li>Salt water</li>
+</ul>
+<img src="/images/science-lfa/Apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
+	<p>2. Cut the apple into 5 wedges</p>
+ <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
+<img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
+ <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
+<img src="/images/science-lfa/Apples/Step 4.jpg" style="width:400px; text-align:left;"><br>
+ <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
+	
+<h4>Tips for Parents:</h4>
+	
+<p>You may also prompt the following questions to your child:</p>
+<ul>
+	<li>How long did the apples take to turn brown?</li>
+	<li>Which apple turned brown first?</li>
+	<li>How dark did the apples get? Did the apples turn an equal shade of brown?</li>
+	<li>Go ahead and eat the apple slices! Do the apple slices taste different? Compare the taste of the apple slice coated in lemon juice with the plain apple slice? Which one tastes better</li>
+	<li>Do you think the lemon juice slowed or quickened the browning process?</li>
+</ul>
+<p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.<p>
+	
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Libby Loves Science: Mix and Measure</b><br>
+       <u>Author:</u> Kimberly Derting and Shelli R. Johannes<br>
+       <u>Publisher:</u> New York, NY: Greenwillow Books, an imprint of HarperCollinsPublishers, [2021]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b> Look: I'm a Scientist</b><br>
+        <u>Author:</u> Helene Hilton<br>
+        <u>Publisher:</u> London : Dorling Kindersley Limited, 2017.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Why is it Rusty?</b><br>
+       <u>Author:</u> Joo-yeong Muhn &amp; Hye-won Kim (Illustrator)<br>
+       <u>Publisher:</u> Big & Small, 2017.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Ada Twist, Scientist</b><br>
+      <u>Author:</u> Andrea Beaty &amp; David Roberts (Illustrator)<br>
+ <u>Publisher:</u> New York: Abrams Books for Young Readers, 2016<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+	
+ <h4 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h4>
+ <p>Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
+<img src="/images/science-lfa/Apples/banana%20pear%20apricot.jpg">
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+	
+	 
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  

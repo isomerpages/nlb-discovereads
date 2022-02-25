@@ -73,9 +73,9 @@ description: ""
 	<p>2. Cut the apple into 5 wedges</p>
  <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
- 4. After that, take out the apples and placed them onto the plate that has already been labelled.
+ <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
 <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
- 5. Observe what happens and allow your child to record their observations by colouring the template (insert link:https://go.gov.sg/apple-changes-page) provided. Record the findings at 5 mins and 15 mins.<br>
+ <p>5. Observe what happens and allow your child to record their observations by colouring the template (insert link:https://go.gov.sg/apple-changes-page) provided. Record the findings at 5 mins and 15 mins.</p>
 
  
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>

@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - d-i-y-resources.md
+      - preschool-resources/Discover Sustainability.md
       - preschool-resources/.keep
       - preschool-resources/early-literacy-practices.md
       - preschool-resources/school-holiday-specials.md

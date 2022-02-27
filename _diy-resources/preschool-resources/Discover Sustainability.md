@@ -6,4 +6,4 @@ third_nav_title: Preschool Resources
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/discover%20sustainability.png)
 
-| image one | image two |
+| <a href="/files/preschool/activity-sheets/AnimalSounds.PDF"><img src="/images/diyresources/preschool/Sustainability/Caring%20for%20env%20banner.png" style="width: 60%;"></a> | <a href="/files/preschool/activity-sheets/EllaSarah_Beach.PDF"><img src="/images/diyresources/preschool/Sustainability/Connecting%20with%20Nature.jpg" style="width: 60%;"></a> | 

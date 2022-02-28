@@ -17,18 +17,17 @@ permalink: /chinese-language
 
 ![](/images/mother-tongue-services/Programme%20Information.png)
 
-
-活动信息细说：
+**活动信息细说：
 
 [让孩子爱上阅读（0至6岁）工作坊 ](https://go.gov.sg/raise-a-reader)
 
 
 图书馆员将以英语介绍高素质的华文书籍，还会分享选书和进行亲子共读时的建议。家长可以参考这些建议，并开启和孩子的阅读之旅。
 
-**故事视频制作（中学生、理工生、初院生） :
+故事视频制作（中学生、理工生、初院生） :
 
 想在家讲故事，录制故事视频，剪辑加字幕？独乐乐不如众乐乐！让我们把故事视频上载到中文图书馆服务脸书群，与更多家长、小朋友和同龄朋友分享！
-欢迎有兴趣的老师电邮至 chan_pan_fong@nlb.gov.sg 查询。
+欢迎有兴趣的老师电邮至[chan_pan_fong@nlb.gov.sg ](chan_pan_fong@nlb.gov.sg )查询。
 
 [分享阅读心得](https://go.gov.sg/chinese-book-reviews )
 
@@ -69,7 +68,7 @@ permalink: /chinese-language
 
 ![](/images/mother-tongue-services/Reading%20Resources.png)
 
-阅读资源细说：
+**阅读资源细说：
 
 [让孩子爱上阅读：0至6岁启蒙阅读指南](https://go.gov.sg/chinese-emergentguide-2020)
 
@@ -81,20 +80,13 @@ permalink: /chinese-language
 
 这张150本适合学龄前阅读的绘本推荐书单，还搭配了一些简单的阅读建议，希望能开启您的亲子阅读之旅。
 
-
-
-“读·思·写”文摘 Read, Reap, Write：
+[“读·思·写”文摘 ](https://go.gov.sg/rrw21)
 
 我们从书单中选出部份推荐书籍中的文摘，鼓励学生阅读、思考、写下心得，附上相关的问题，借此抛砖引玉，希望有助于老师与学生、或学生与学生之间展开讨论。
 
-https://go.gov.sg/rrw21
-
-阅读心得 Book Reviews：
+[阅读心得](https://go.gov.sg/nlbbooktalk )
 
 图书馆员通过书推荐分享想法，学生书友看书之后有话要说！来看看其他人都在看什么书吧！
-
-https://go.gov.sg/nlbbooktalk 
-
 
 <b><a href="#top">Back to top</a></b>	
 
@@ -104,7 +96,7 @@ https://go.gov.sg/nlbbooktalk
 
 ![](/images/mother-tongue-services/Reading%20Recommendations%20(Libby%20Containers).png)
 
-其他的阅读推荐:
+**其他的阅读推荐:
 
 小学推荐书单:
 
@@ -112,9 +104,7 @@ https://go.gov.sg/nlbbooktalk
 
 [Holiday Reads with MOE-CPCLL 2021 (Primary School)](/files/Holiday%20Reads%20with%20MOE-CPCLL%202021%20(Primary%20School).pdf)
 
-小学分级阅读推荐：
-
-https://go.gov.sg/pri-chinesegradedbooks
+[小学分级读物](https://go.gov.sg/pri-chinesegradedbooks)
 
 中学推荐书单:
 
@@ -126,12 +116,13 @@ https://go.gov.sg/pri-chinesegradedbooks
 
 [NLB Recommended Reads for Teens 2021](/files/NLB%20Recommended%20Reads%20for%20Teens%202021.pdf)
 
+[推荐给中学生的电子书（Libby）书单](https://go.gov.sg/teen-books-we-love )
 
-推荐给中学生的电子书（Libby）书单链接：https://go.gov.sg/teen-books-we-love 
+[推荐给中学生的Libby电子书漫画](https://go.gov.sg/nlb-libby-comics4teens )
+
+
 
 推荐给中学生的HyRead电子书漫画：https://go.gov.sg/nlb-hyread-comics4teens 
-
-推荐给中学生的Libby电子书漫画：https://go.gov.sg/nlb-libby-comics4teens 
 
 推荐给中学生的Libby电子书绘本：https://go.gov.sg/nlb-libby-picbk4teens 
 

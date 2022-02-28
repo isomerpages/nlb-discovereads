@@ -6,9 +6,8 @@ description: ""
 ---
 ### **About**
 
-*(updated on 31 December 2021)*
+*(updated on 28 February 2022)*
 
-### **The A Book A Day programme has now ended. Thank you for your support!**
 
 <img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">
 

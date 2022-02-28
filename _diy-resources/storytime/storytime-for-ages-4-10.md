@@ -4,8 +4,6 @@ permalink: /diy-resources/storytime/storytime-main
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
-Looking for Early READ Storytime livestream sessions? Please visit this [page](/diy-resources/storytime/early-read-storytime). 
-
 ## **Storytime (For ages 4 -10)**
 
 <img src="/images/diyresources/storytime_banner.png" alt="Storytime Banner" style="width: 100%;">
@@ -50,37 +48,37 @@ Storytelling Videos (Updated on 4 Dec 2021)
 
 ### **English**
 
-**8 January 2022**<br>
-**Sebbie's First Day of School**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KCsbkZqDzgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**12 February 2022**<br>
+**Hansel and Gretel**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SJPxqPEdACA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**22 January 2022**<br>
-**The Lion Dance**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6S6WmU1uLjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**26 February 2022**<br>
+**Thumbelina**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uEgfiN_oHnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
 ### **Chinese**
 
-**10 Aug 2021**<br>
-**我们的口袋里有相思豆!**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3j5fUISV60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**2 July 2022**<br>
+**奶奶的魔镜**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hgYYgMPtAxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**9 Mar 2021**<br>
-**独一无二的伊努卡**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o8N98F6nms4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**16 July 2021**<br>
+**梦门里的鱼**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppVmCxEAc-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
 
 ### **Malay**
 
-**10 Aug 2021**<br>
-**Saya Kesal!**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQBopAhG7iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**21 August 2021**<br>
+****
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1S4z31WF-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**1 Jul 2021**<br>
-**Saya Terburu-buru!**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oY3wJqc5g6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**21 Aug 2021**<br>
+**Jangan Takut, Anak Tupai!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cQBopAhG7iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Malay, click [here](/diy-resources/storytime/storytime-archives-malay))
 

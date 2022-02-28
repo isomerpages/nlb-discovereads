@@ -53,23 +53,13 @@ permalink: /chinese-language
 
 | [第一个星期日](https://go.gov.sg/onered-storytelling)     | [第三个星期日](https://go.gov.sg/onered-storytelling2)     | 
 
-线上亲子故事会：
+[线上亲子故事会](https://go.gov.sg/chinese-folktales )
 
-https://go.gov.sg/chinese-folktales 
-
-性情家长读书会：
-
-https://go.gov.sg/growing-parents
+[性情家长读书会](https://go.gov.sg/growing-parents)
 
 “听故事·识世界” 线上故事 ：
 
-最新视频可前往中文图书馆服务的脸书群观看：
-
-https://go.gov.sg/chinese-library-services
-
-往期视频可前往以下链接观看：
-
-https://go.gov.sg/chinese-storytime-videos
+| [最新视频](https://go.gov.sg/chinese-library-services)    | [往期视频](https://go.gov.sg/chinese-storytime-videos)     | 
 
 <b><a href="#top">Back to top</a></b>	
 

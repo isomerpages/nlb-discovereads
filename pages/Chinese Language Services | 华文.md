@@ -17,15 +17,15 @@ permalink: /chinese-language
 
 ![](/images/mother-tongue-services/Programme%20Information.png)
 
+
 活动信息细说：
 
-让孩子爱上阅读（0至6岁）工作坊：
+[让孩子爱上阅读（0至6岁）工作坊 ](https://go.gov.sg/raise-a-reader)
+
 
 图书馆员将以英语介绍高素质的华文书籍，还会分享选书和进行亲子共读时的建议。家长可以参考这些建议，并开启和孩子的阅读之旅。
 
-https://go.gov.sg/raise-a-reader
-
-故事视频制作（中学生、理工生、初院生） :
+**故事视频制作（中学生、理工生、初院生） :
 
 想在家讲故事，录制故事视频，剪辑加字幕？独乐乐不如众乐乐！让我们把故事视频上载到中文图书馆服务脸书群，与更多家长、小朋友和同龄朋友分享！
 欢迎有兴趣的老师电邮至 chan_pan_fong@nlb.gov.sg 查询。

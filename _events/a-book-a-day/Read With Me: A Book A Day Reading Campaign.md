@@ -21,7 +21,7 @@ Any person who has a library membership (individual) with NLB can participate ex
 
 ### Posting Guidelines
 
-<img src="/images/events/abookaday/public_insta%20sample.jpg" style="width: 50%">
+<img src="/images/events/abookaday/public_insta%20sample.jpg" style="width: 70%">
 
 The Instagram post must meet all the following criteria to be considered valid and eligible for a lucky draw chance:
 * The post must include at least one photo or video of parent/adult reading to at least one child.

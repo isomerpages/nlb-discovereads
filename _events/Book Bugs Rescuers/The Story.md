@@ -30,7 +30,7 @@ Click on this first issue to read the feature story, complete the crossword and 
 
 Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMap is for you!
 
-First stop: Vanam. The lush jungles are teeming with Book Bugs and their stories. Click below to find out!
+First stop: Vanam. The lush jungles are teeming with Book Bugs and their stories. Click below to find out more!
 
 <a href= "https://uploads.knightlab.com/storymapjs/8a0e0b8b68e8b5a35e59ea45506a59de/explore-bugtopia/index.html"><img src="/images/events/bookbugsr/Explore Now.png" style="width: 80%;"></a>
 

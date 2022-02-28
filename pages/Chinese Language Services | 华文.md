@@ -30,11 +30,10 @@ permalink: /chinese-language
 想在家讲故事，录制故事视频，剪辑加字幕？独乐乐不如众乐乐！让我们把故事视频上载到中文图书馆服务脸书群，与更多家长、小朋友和同龄朋友分享！
 欢迎有兴趣的老师电邮至 chan_pan_fong@nlb.gov.sg 查询。
 
-分享阅读心得 :
+[分享阅读心得](https://go.gov.sg/chinese-book-reviews )
 
 看书之后有感而发？欢迎提交阅读心得，让我们分享至中文图书馆服务脸书群！
 
-https://go.gov.sg/chinese-book-reviews 
 
 #你在读什么 :
 

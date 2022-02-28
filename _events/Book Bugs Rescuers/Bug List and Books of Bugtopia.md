@@ -24,5 +24,4 @@ Her design was inspired by ‘Ada Khazanah di Perpustakaan Kami’ (There are Tr
 
 **Search for these titles on your NLB Mobile app [go.gov.sg/NLB-mobile](go.gov.sg/NLB-mobile)!**
 
-*The book covers are the copyright of the respective publishers.
-
+*The book covers are the copyright of the respective publishers.*

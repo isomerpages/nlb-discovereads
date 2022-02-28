@@ -6,11 +6,9 @@ description: ""
 ---
 ### **Participation Eligibility**
 
-*(updated on 31 December 2021)*
+*(updated on 28 February 2022)*
 
-### **The A Book A Day programme has now ended. Thank you for your support!**
-
-Parents can register their children for “A Book A Day” programme at [https://go.gov.sg/abookaday](https://go.gov.sg/abookaday) or through the NLB Mobile app from 1 January 2020 onwards.
+Parents can register their children for “A Book A Day” programme at [https://go.gov.sg/abookaday](https://go.gov.sg/abookaday) or through the NLB Mobile app from 1 March 2022 to 31 December 2022. 
 
 * Children aged 0 to 6 years old can participate. 
 * Children must have a library membership (individual) with NLB and a [myLibrary User ID](http://account.nlb.gov.sg/).
@@ -23,6 +21,7 @@ Parents can register their children for “A Book A Day” programme at [https:/
 
 ### **Lucky Draw Qualifying Period**
 
-![Luck Draw period image](/images/events/abookaday/abad-luckydraw03.jpg)
+![](/images/events/abookaday/ABAD%202022_qualifying%20period.png)
 
-Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](/images/events/abookaday/A Book A Day_TCs_FINAL_FULL SUMMARY_28.11.19_updated v1.pdf).
+
+Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](/files/preschool/A%20Book%20A%20Day%202022_TCs_v2.pdf).

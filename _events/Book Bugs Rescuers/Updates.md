@@ -14,7 +14,7 @@ You can now start collecting Book Bugs cards at all Public Libraries except libr
 #### 18 February 2022
 <img src="/images/events/bookbugsr/BBR Stickers Announcement.png" alt="Comic 1 Release" style="width: 100%" align="left">
 
-Download stickers for <a href="https://sticker.ly/s/HUXN16" target="_blank" rel="noopener noreferrer">WhatsApp</a> and <a href="https://t.me/addstickers/BookBugsRescuers" target="_blank" rel="noopener noreferrer">Telegram</a>. 
+Download Book Bugs stickers for <a href="https://sticker.ly/s/HUXN16" target="_blank" rel="noopener noreferrer">WhatsApp</a> and <a href="https://t.me/addstickers/BookBugsRescuers" target="_blank" rel="noopener noreferrer">Telegram</a>!
 
 Please note that you will need to download a third-party app to view the stickers on WhatsApp.
 

@@ -32,16 +32,12 @@ permalink: /chinese-language
 
 [分享阅读心得](https://go.gov.sg/chinese-book-reviews )
 
-看书之后有感而发？欢迎提交阅读心得，让我们分享至中文图书馆服务脸书群！
+看书之后有感而发？欢迎提交阅读
+心得，让我们分享至中文图书馆服务脸书群！
 
-
-#你在读什么 :
+[#你在读什么 ](https://go.gov.sg/shareclreads-teens )
 
 茫茫人海中相遇讲求缘份，浩瀚书海中遇见知音，亦如此。和我们分享你的阅读书单以及对阅读的看法吧！
-
-https://go.gov.sg/shareclreads-teens
-
-
 
 <b><a href="#top">Back to top</a></b>
 
@@ -51,13 +47,11 @@ https://go.gov.sg/shareclreads-teens
 
 ![](/images/mother-tongue-services/Digital%20Offerings.png)
 
-线上活动报名链接：
+**线上活动报名链接：
 
 一红老师讲故事：
 
-第一个星期日 - https://go.gov.sg/onered-storytelling
-
-第三个星期日 -  https://go.gov.sg/onered-storytelling2
+| [第一个星期日](https://go.gov.sg/onered-storytelling)     | [第三个星期日](https://go.gov.sg/onered-storytelling2)     | 
 
 线上亲子故事会：
 

@@ -71,21 +71,17 @@ permalink: /chinese-language
 
 阅读资源细说：
 
-让孩子爱上阅读：0至6岁启蒙阅读指南:
+[让孩子爱上阅读：0至6岁启蒙阅读指南](https://go.gov.sg/chinese-emergentguide-2020)
 
 这本双语指南提供家长和孩子一起阅读华文书籍的一些阅读建议，并推荐了适合不同年龄层的纸质书和电子书。
 
-https://go.gov.sg/chinese-emergentguide-2020
+[指南总结和家长示范的视频](https://go.gov.sg/emergentvideo)
 
-指南总结和家长示范的视频：
-
-https://go.gov.sg/emergentvideo
-
-150本书籍书单以及阅读活动建议：
+[150本书籍书单以及阅读活动建议](https://go.gov.sg/chinese-early-literacy-books)
 
 这张150本适合学龄前阅读的绘本推荐书单，还搭配了一些简单的阅读建议，希望能开启您的亲子阅读之旅。
 
-https://go.gov.sg/chinese-early-literacy-books
+
 
 “读·思·写”文摘 Read, Reap, Write：
 

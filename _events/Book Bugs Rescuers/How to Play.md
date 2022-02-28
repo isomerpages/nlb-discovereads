@@ -8,6 +8,6 @@ Gameplay instructions coming soon!
 
 ### The Game Mat
 
-Download and print your very own Book Bugs: Rescuers of Stories Lost game mat here! 
+Download your very own Book Bugs: Rescuers of Stories Lost game mat here! 
 
 <a href="/files/bookbugsr/BBR Playing Mat-compressed (1).pdf"><img src="/images/events/bookbugsr/BBR Playing Mat.png" alt="Lower Primary Reading Interest Profile 2021" style= "width: 100%"></a>

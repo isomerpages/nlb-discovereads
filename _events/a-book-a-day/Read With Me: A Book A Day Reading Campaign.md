@@ -9,9 +9,9 @@ third_nav_title: A Book A Day
 ### What is ‘Read With Me’?
 Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to children aged 6 years and below from April 2022 – June 2022. Participate in this reading campaign and stand to win prizes!
 
-![Prizes](/images/events/abookaday/RWM%20Prizes%20Public.jpg)
+<img src="/images/events/abookaday/RWM%20Prizes%20Public.jpg" style="width: 60%"><br>
 
-![Prizes](/images/events/abookaday/prizes.png)
+<img src="/images/events/abookaday/prizes.png" style="width: 100%">
 
 ### How to Participate?
 

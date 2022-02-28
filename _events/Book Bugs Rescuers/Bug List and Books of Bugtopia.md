@@ -6,7 +6,7 @@ third_nav_title: Book Bugs Rescuers
 ---
 ### The Books of Bugtopia
 
-Books of Bugtopia brings the stories of the Book Bugs directly to you! 
+**Books of Bugtopia brings the stories of the Book Bugs directly to you! **
 
 Stay tuned to discover more books and Bugs! 
 

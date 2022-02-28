@@ -9,7 +9,7 @@ third_nav_title: Book Bugs Rescuers
 
 **The Book Bugs are here! **
 
-You can now start collecting Book Bugs cards at all Public Libraries except Library@Chinatown, Library@Esplanade and Library@Orchard.
+You can now start collecting Book Bugs cards at all Public Libraries except library@chinatown, library@esplanade and library@orchard.
 
 #### 18 February 2022
 <img src="/images/events/bookbugsr/BBR Stickers Announcement.png" alt="Comic 1 Release" style="width: 100%" align="left">

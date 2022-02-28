@@ -29,3 +29,5 @@ Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMap is for y
 First stop: Vanam. The lush jungles are teeming with Book Bugs and their stories. Click below to find out!
 
 <a href= "https://uploads.knightlab.com/storymapjs/8a0e0b8b68e8b5a35e59ea45506a59de/explore-bugtopia/index.html"><img src="/images/events/bookbugsr/Explore Now.png" style="width: 80%;"></a>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

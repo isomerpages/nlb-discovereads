@@ -57,7 +57,7 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 [Clean and Healthy Me! Page 4-6](/files/preschool/ActivityToolkit2021ChineseInsert2.pdf)
 
 ### Malay Inserts
-![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Malay%20Alam%20dan%20Kejiranan.PNG)
+
 [Environment and Neighborhood!](/files/preschool/ActivityToolkit2021MalayAlamdanKejiranan.pdf)
 
 ### Tamil Inserts

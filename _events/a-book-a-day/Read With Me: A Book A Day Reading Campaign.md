@@ -11,6 +11,8 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 
 ![Prizes](/images/events/abookaday/RWM%20Prizes%20Public.jpg)
 
+![Prizes](/images/events/abookaday/prizes.png)
+
 ### How to Participate?
 
 ![Participation Guidelines](/images/events/abookaday/RWM_Participate_Public.jpg)

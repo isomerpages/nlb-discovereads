@@ -122,26 +122,24 @@ permalink: /chinese-language
 
 [推荐给中学生的Libby电子书绘本](https://go.gov.sg/nlb-libby-picbk4teens )
 
+[推荐给中学生的HyRead电子书漫画](https://go.gov.sg/nlb-hyread-comics4teens )
 
-
-推荐给中学生的HyRead电子书漫画：https://go.gov.sg/nlb-hyread-comics4teens 
-
-【假期阅读乐】推荐书单：https://go.gov.sg/holidayreads-sec 
+[【假期阅读乐】推荐书单](https://go.gov.sg/holidayreads-sec )
 
 
 <b><a href="#top">Back to top</a></b>	
 	
 ### 联系我们
 
+![](/images/mother-tongue-services/Contact%20Us.png)
+
 若想多了解图书馆活动信息，
 
-可以通过链接加入中文图书馆服务的脸书群：https://go.gov.sg/chinese-library-services
+可以加入[中文图书馆服务的脸书群](https://go.gov.sg/chinese-library-services)
 
-可以通过链接订阅每月的中文活动快讯：https://go.gov.sg/nlb-chinese-edm
+可以订阅每月的[中文活动快讯](https://go.gov.sg/nlb-chinese-edm)
 
-或者通过此电邮邮址电邮我们：readchinese@nlb.gov.sg
+或者通过此电邮邮址电邮我们：[readchinese@nlb.gov.sg](readchinese@nlb.gov.sg)
 
-
-![](/images/mother-tongue-services/Contact%20Us.png)
 
 <b><a href="#top">Back to top</a></b>

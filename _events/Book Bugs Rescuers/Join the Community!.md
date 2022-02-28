@@ -4,6 +4,8 @@ permalink: /events/bookbugsr/community/
 description: ""
 third_nav_title: Book Bugs Rescuers
 ---
-We want to hear from you! Share your Bug designs, comics, and stories with us. 
+**Our Bugs are working hard to bring you a Community Gallery**
 
-Watch this space for more information.
+Stay tuned to this page!
+
+<img src="/images/events/bookbugsr/Junthura Final CMYK.png">

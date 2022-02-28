@@ -24,8 +24,8 @@ Click on this first issue to read the feature story, complete the crossword and 
 
 ### StoryMap
 
-Keen to explore Bugtopia and its wondourous and mysterious lands? This storymap is just the thing for you! 
+Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMapis for you!
 
-Visit Vanam, Bugtopia's very first Land. A place teeming with Book Bugs and stories alike.
+First stop: Vanam. The lush jungles are teeming with Book Bugs and their stories. Click below to find out!
 
 <a href= "https://uploads.knightlab.com/storymapjs/8a0e0b8b68e8b5a35e59ea45506a59de/explore-bugtopia/index.html"><img src="/images/events/bookbugsr/Explore Now.png" style="width: 80%;"></a>

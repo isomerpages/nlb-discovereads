@@ -31,3 +31,5 @@ Book Bugs Rescuers unite! From 1 March 2022, The Book Bugs: Rescuers of Stories 
 
 <br>
 Keep an eye on this page for updates!
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

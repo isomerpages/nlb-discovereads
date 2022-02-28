@@ -10,4 +10,4 @@ What can we do to protect the environment around us? Do you know the different t
 
 Click on the banners below to learn all about the various facets of sustainability and the role they can play in taking care of the natural environment.
 
-| <a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature"><img src="/images/diyresources/preschool/Sustainability/dR_Connecting%20with%20Nature.png" style="width: 100%"></a>    | <a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment"><img src="/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png" style="width: 100%"></a> |
+| <a href="https://childrenandteens.nlb.gov.sg/connecting-with-nature"><img src="/images/diyresources/preschool/Sustainability/dR_Connecting%20with%20Nature.png" style="width: 100%"></a><br>Connecting with Nature    | <a href="https://childrenandteens.nlb.gov.sg/caring-for-the-environment"><img src="/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png" style="width: 100%"></a><br> Caring for the Environment |

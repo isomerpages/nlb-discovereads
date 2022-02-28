@@ -8,4 +8,4 @@ third_nav_title: Book Bugs Rescuers
 
 Stay tuned to this page!
 
-<img src="/images/events/bookbugsr/Junthura Final CMYK.png"></a>
+<img src="/images/events/bookbugsr/Junthura Final CMYK.png">

@@ -2,7 +2,8 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)|
+[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)
+
 
 [Summary of preschool activities](/files/Preschool%20activities.pdf)
 
@@ -24,7 +25,7 @@ permalink: /chinese-language
 
 图书馆员将以英语介绍高素质的华文书籍，还会分享选书和进行亲子共读时的建议。家长可以参考这些建议，并开启和孩子的阅读之旅。
 
-故事视频制作（中学生、理工生、初院生） :
+****故事视频制作（中学生、理工生、初院生） :
 
 想在家讲故事，录制故事视频，剪辑加字幕？独乐乐不如众乐乐！让我们把故事视频上载到中文图书馆服务脸书群，与更多家长、小朋友和同龄朋友分享！
 欢迎有兴趣的老师电邮至[chan_pan_fong@nlb.gov.sg ](chan_pan_fong@nlb.gov.sg )查询。
@@ -48,7 +49,7 @@ permalink: /chinese-language
 
 **线上活动报名链接：
 
-一红老师讲故事：
+****一红老师讲故事：
 
 | [第一个星期日](https://go.gov.sg/onered-storytelling)     | [第三个星期日](https://go.gov.sg/onered-storytelling2)     | 
 
@@ -56,7 +57,7 @@ permalink: /chinese-language
 
 [性情家长读书会](https://go.gov.sg/growing-parents)
 
-“听故事·识世界” 线上故事 ：
+****“听故事·识世界” 线上故事 ：
 
 | [最新视频](https://go.gov.sg/chinese-library-services)    | [往期视频](https://go.gov.sg/chinese-storytime-videos)     | 
 
@@ -98,7 +99,7 @@ permalink: /chinese-language
 
 **其他的阅读推荐:
 
-小学推荐书单:
+****小学推荐书单:
 
 [Holiday Reads with MOE-CPCLL 2020 (Primary School)](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020%20(Primary%20School).pdf)
 
@@ -106,7 +107,7 @@ permalink: /chinese-language
 
 [小学分级读物](https://go.gov.sg/pri-chinesegradedbooks)
 
-中学推荐书单:
+****中学推荐书单:
 
 [Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
 

@@ -11,7 +11,6 @@ third_nav_title: A Book A Day
 
 ![](/images/events/abookaday/ABAD%202022_dR%20web%20banner.png)
 
-### ****
 
 ### **Help Us Make it Better!**
 

@@ -4,6 +4,13 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers
 ---
+#### 1 March 2022
+<img src="/images/events/bookbugsr/BBR vanam cards release FB static.png" alt="the Book Bugs are Here" style="width: 100%" align="left">
+
+**The Book Bugs are here! **
+
+You can now start collecting Book Bugs cards at all Public Libraries except Library@Chinatown, Library@Esplanade and Library@Orchard.
+
 #### 18 February 2022
 <img src="/images/events/bookbugsr/BBR Stickers Announcement.png" alt="Comic 1 Release" style="width: 100%" align="left">
 

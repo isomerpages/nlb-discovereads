@@ -57,15 +57,17 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 [Clean and Healthy Me! Page 4-6](/files/preschool/ActivityToolkit2021ChineseInsert2.pdf)
 
 ### Malay Inserts
-
-[Environment and Neighborhood!](/files/preschool/ActivityToolkit2021MalayAlamdanKejiranan.pdf)
+![](/images/activity-toolkit-thumbnails/Malay%20Vroom%20Vroom%20Zoom%20Zoom.png)
+[Malay Insert Vroom Vroom! Zoom Zoom!](https://drive.google.com/drive/folders/1TNETmaobJCuB8tmdGY4y1Xj5CFp48c80?usp=sharing)
 
 ### Tamil Inserts
-![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Tamil%20Fun%20Learning%20Outdoors.PNG)
-[Fun Learning Outdoors!](/files/preschool/ActivityToolkit2021TamilInsert.pdf)
+![](/images/activity-toolkit-thumbnails/Tamil%20Blast%20Off.png)
+[Tamil Insert 3, 2, 1, Blast Off!](https://drive.google.com/drive/folders/1T0wH9liX7QFv5oRdu0d2Qv0WwQpCArNS?usp=sharing)
+
 
 ## Archived Activity Toolkits
 
+* [2021](https://drive.google.com/drive/folders/1sed8i-M3rWde95OE-LouU18NbFkR9ST6?usp=sharing)
 * [2020](https://drive.google.com/drive/folders/1m1NLWN7fcd09ClX5mMKRdh35iw44dHn5?usp=sharing)
 * [2019](https://drive.google.com/drive/folders/1O3raqbrrQGhwPf5bog3omRCHG6hUAt9M?usp=sharing)
 * [2018](https://drive.google.com/drive/folders/1FIVaxK1siyLMZjHbQ8dA9jzOUsuqnaOY?usp=sharing)

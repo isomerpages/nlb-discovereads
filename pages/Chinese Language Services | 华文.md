@@ -120,11 +120,11 @@ permalink: /chinese-language
 
 [推荐给中学生的Libby电子书漫画](https://go.gov.sg/nlb-libby-comics4teens )
 
+[推荐给中学生的Libby电子书绘本](https://go.gov.sg/nlb-libby-picbk4teens )
+
 
 
 推荐给中学生的HyRead电子书漫画：https://go.gov.sg/nlb-hyread-comics4teens 
-
-推荐给中学生的Libby电子书绘本：https://go.gov.sg/nlb-libby-picbk4teens 
 
 【假期阅读乐】推荐书单：https://go.gov.sg/holidayreads-sec 
 

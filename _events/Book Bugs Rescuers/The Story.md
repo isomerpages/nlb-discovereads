@@ -10,13 +10,15 @@ Rescuers, are you ready for an adventure? Let Bugtopia's journalist Attie lead y
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_WEWryPrtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 	
-	<br>
 	
 ### The Bugtopian
 
-	Read all about the happenings in Bugtopia with the Bugtopian newspaper! Follow Attie as he uncovers the four lands in Bugtopia and the mystery of the missing Bugs and their deteriorating lands. 
-	
-	Catch the very first issue below!
-	
-	
+Read all about the happening in Bugtopia in the Bugtopian! 
+
+Join Attie as he seeks to uncover the mystery of the missing Bugs and deteriorating lands. 
+
+Catch the first issue of the Bugtopian, below.
+
+<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 80%;"></a>

@@ -50,11 +50,13 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 
 ### Chinese Inserts
 
-![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Clean%20and%20Healthy%20Me%20Chinese.PNG)
-[Clean and Healthy Me! Page 1](/files/preschool/ActivityToolkit2021ChineseInsert1Page1.pdf)
-[Clean and Healthy Me! Page 2](/files/preschool/ActivityToolkit2021ChineseInsert1Page2.pdf)
-[Clean and Healthy Me! Page 3](/files/preschool/ActivityToolkit2021ChineseInsert1Page3.pdf)
-[Clean and Healthy Me! Page 4-6](/files/preschool/ActivityToolkit2021ChineseInsert2.pdf)
+![](/images/activity-toolkit-thumbnails/Chinese%20Transportation.png)
+[Chinese Insert Transportation Page 1](/files/Activitytoolkit/CHI%20Pg%201.pdf)
+[Chinese Insert Transportation Page 2](/files/Activitytoolkit/CHI%20Pg%202.pdf)
+[Chinese Insert Transportation Page 3](/files/Activitytoolkit/CHI%20Pg%203.pdf)
+[Chinese Insert Transportation Page 4](/files/Activitytoolkit/CHI%20Pg%204.pdf)
+[Chinese Insert Transportation Page 5](/files/Activitytoolkit/CHI%20Pg%205.pdf)
+[Chinese Insert Transportation Page 6](/files/Activitytoolkit/CHI%20Pg%206.pdf)
 
 ### Malay Inserts
 ![](/images/activity-toolkit-thumbnails/Malay%20Vroom%20Vroom%20Zoom%20Zoom.png)

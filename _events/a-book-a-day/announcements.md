@@ -9,8 +9,6 @@ third_nav_title: A Book A Day
 
 *(updated on 28 February 2022)*
 
-![](/images/events/abookaday/ABAD%202022_NLB%20web%20banner.png)
-
 
 ### **Help Us Make it Better!**
 

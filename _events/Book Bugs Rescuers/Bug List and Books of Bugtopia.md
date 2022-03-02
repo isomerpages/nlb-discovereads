@@ -35,6 +35,6 @@ Khazanna carries her own little library around to ensure that she always has som
 
 ### Buglist
 
-<a href/files/bookbugsr/Buglist.pdf><img src="/images/events/bookbugsr/Buglistpic.png" style="width: 80%;"></a>
+<a href=/files/bookbugsr/Buglist.pdf><img src="/images/events/bookbugsr/Buglistpic.png" style="width: 80%;"></a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

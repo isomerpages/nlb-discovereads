@@ -4,6 +4,8 @@ permalink: /events/bookbugsr/buglist/
 description: ""
 third_nav_title: Book Bugs Rescuers
 ---
+| [The Books of Bugtopia](#the-books-of-bugtopia) | [Buglist](#buglist) | 
+
 ### The Books of Bugtopia
 
 **Books of Bugtopia brings the stories of the Book Bugs directly to you!**
@@ -30,3 +32,8 @@ Khazanna carries her own little library around to ensure that she always has som
 *The book covers are the copyright of the respective publishers.*
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+### Buglist
+
+
+

@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/story/
 description: ""
 third_nav_title: Book Bugs Rescuers
 ---
-| [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [StoryMap](#StoryMap) |  
+| [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [StoryMap](#storymap) |  
 
 ### The Story
 

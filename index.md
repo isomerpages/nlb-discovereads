@@ -51,5 +51,5 @@ sections:
       description: "Explore programmes, recommended reads and book-related activities
         in the various Mother Tongue  languages. "
       button: Read more!
-      url: https://childrenandteens.nlb.gov.sg/services/other-services/mother-tongue-language-services/
+      url: /services/other-services/mother-tongue-language-services/
 ---

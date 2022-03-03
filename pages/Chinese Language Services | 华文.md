@@ -2,6 +2,9 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">
+
 <div class="image-container" style="margin: auto;">
 			<a href="/chinese-language#活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
@@ -14,7 +17,8 @@ permalink: /chinese-language
 <div class="image-container" style="margin: auto;">
 			<a name=""><img src="/images/mother-tongue-services/Contact%20Us_Chinese%20.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
-
+		</div>
+		</div>
 
 [Summary of preschool activities](/files/Preschool%20activities.pdf)
 

@@ -8,6 +8,8 @@ permalink: /chinese-language
 <div class="image-container" style="margin: auto;">
 			<a href="/chinese-language#活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
+	<div class="image-container" style="margin: auto;">
+			<a href="/chinese-language#线上活动"><img src="/images/mother-tongue-services/Digital Offerings_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 <div class="image-container" style="margin: auto;">
 			<a href="/chinese-language#阅读资源"><img src="/images/mother-tongue-services/Resources_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>

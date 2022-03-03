@@ -2,25 +2,8 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-<div class="wrapper" style="width: 100%;">
-<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">
+[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)
 
-<div class="image-container" style="margin: auto;">
-			<a href="/chinese-language#活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
-	</div>
-	<div class="image-container" style="margin: auto;">
-			<a href="/chinese-language#线上活动"><img src="/images/mother-tongue-services/Digital Offerings_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
-<div class="image-container" style="margin: auto;">
-			<a href="/chinese-language#阅读资源"><img src="/images/mother-tongue-services/Resources_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
-	</div>
-<div class="image-container" style="margin: auto;">
-			<a href="/chinese-language#阅读推荐"><img src="/images/mother-tongue-services/Reading%20Recommendations_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
-	</div>
-<div class="image-container" style="margin: auto;">
-			<a href="/chinese-language#联系我们"><img src="/images/mother-tongue-services/Contact%20Us_Chinese%20.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
-	</div>
-		</div>
-		</div>
 
 [Summary of preschool activities](/files/Preschool%20activities.pdf)
 

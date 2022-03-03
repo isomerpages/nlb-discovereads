@@ -12,7 +12,17 @@ third_nav_title: Programmes
 Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
+Here are some upcoming workshops in the March holidays.
 
+- 12 March 2022, 2pm-4pm, Pixel Jam at Bishan Public Library
+- 14 March 2022, 2pm-4pm, Pixel Jam at library@harbourfront
+- 15 March 2022, 2pm-4pm, Sphero Party at Bedok Public Library
+- 15 March 2022, 2pm-4pm, The Great Marble Run at Jurong Regional Library
+- 16 March 2022, 2pm-4pm, The Great Marble Run at Toa Payoh Public Library
+- 16 March 2022, 2pm-4pm, Sphero Party at Choa Chu Kang Public Library
+- 18 March 2022, 2pm-4pm, Sphero Party at Pasir Ris Public Library
+- 18 March 2022, 2pm-4pm, Pixel Jam at Woodlands Regional Library
+- 20 March 2022, 2pm-4pm, The Great Marble Run at Sengkang Public Library
 
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">

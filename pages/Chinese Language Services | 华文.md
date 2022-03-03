@@ -3,7 +3,7 @@ title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
 <div class="image-container" style="margin: auto;">
-			<a name="活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
+			<a href="/chinese-language#活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
 <div class="image-container" style="margin: auto;">
 			<a name=""><img src="/images/mother-tongue-services/Resources_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>

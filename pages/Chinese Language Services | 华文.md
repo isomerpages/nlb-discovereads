@@ -5,15 +5,12 @@ permalink: /chinese-language
 <div class="image-container" style="margin: auto;">
 			<a name="活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
-
 <div class="image-container" style="margin: auto;">
 			<a name=""><img src="/images/mother-tongue-services/Resources_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
-	
 <div class="image-container" style="margin: auto;">
 			<a name=""><img src="/images/mother-tongue-services/Reading%20Recommendations_Chinese.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>
-	
 <div class="image-container" style="margin: auto;">
 			<a name=""><img src="/images/mother-tongue-services/Contact%20Us_Chinese%20.png" style="max-width: 15rem; padding: 10px; margin: auto;"></a>
 	</div>

@@ -2,6 +2,11 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
+<div class="image-container" style="margin: auto;">
+			<a name="活动信息"><img src="/images/mother-tongue-services/Programme%20Information_Chinese.png " style="max-width: 15rem; padding: 10px; margin: auto;"></a></a>
+	</div>
+
+
 [![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)
 
 

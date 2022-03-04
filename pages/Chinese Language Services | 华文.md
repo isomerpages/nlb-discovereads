@@ -6,7 +6,7 @@ permalink: /chinese-language
 
 |[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | 
 
-|[![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)|
+|[![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)|[![Padding](/images/mother-tongue-services/Blank%20Space-%20TS.png)](#)|
 
 
 [Summary of preschool activities](/files/Preschool%20activities.pdf)

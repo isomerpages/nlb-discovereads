@@ -2,7 +2,11 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language
 ---
-[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#programme-information) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#digital-offerings)|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#resources) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#reading-recommendations) | [![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#contact-us)
+|[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#活动信息) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#线上活动)|
+
+|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#阅读资源) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#阅读推荐) | 
+
+|[![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#联系我们)|![Padding](/images/mother-tongue-services/Blank%20Space-%20TS.png)|
 
 
 [Summary of preschool activities](/files/Preschool%20activities.pdf)

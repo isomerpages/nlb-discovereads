@@ -11,7 +11,7 @@ third_nav_title: Book Bugs Rescuers
 
 We are experiencing a high volume of card redemptions. Redemptions at some public libraries may be temporarily unavailable during this period. 
 
-We seek your patience and understanding, and thank you for your continued support!
+We seek your patience and understanding, and thank you for your continued support for Book Bugs!
 
 #### 1 March 2022
 <img src="/images/events/bookbugsr/BBR vanam cards release FB static.png" alt="the Book Bugs are Here" style="width: 100%" align="left">

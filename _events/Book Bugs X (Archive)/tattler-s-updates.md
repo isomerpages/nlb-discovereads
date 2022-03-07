@@ -3,8 +3,9 @@ title: Tattler's Updates
 permalink: /events/bookbugsx/updates
 breadcrumb: Tattler's Updates
 collection_name: events
-third_nav_title: Book Bugs Explorers of Stories Past
+third_nav_title: Book Bugs X (Archive)
 ---
+
 #### 30 September 2021
 [<img src="/images/events/bookbugsx/30 September 2021 Update.png" alt="Book Bugs: Explorers of Stories Past has ended." style="width: 100%" align="left">](/events/bookbugsx)
 

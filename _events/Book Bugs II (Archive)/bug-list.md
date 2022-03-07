@@ -3,8 +3,9 @@ title: Bug List
 permalink: events/bookbugs2/bug-list
 breadcrumb: Bug List
 collection_name: events
-third_nav_title: Book Bugs II
+third_nav_title: Book Bugs II (Archive)
 ---
+
 
 ## **Book Bugs - Bug List**
 

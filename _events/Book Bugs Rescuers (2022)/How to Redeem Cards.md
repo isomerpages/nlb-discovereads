@@ -2,8 +2,10 @@
 title: How to Redeem Cards
 permalink: /events/bookbugsr/redeem
 description: ""
-third_nav_title: Book Bugs Rescuers
+third_nav_title: Book Bugs Rescuers (2022)
 ---
+
+
 ### Earning Points 
 
 <a href="/images/events/bookbugsr/BB3 Posters_20 Jan-Earn Points-min.png/"><img src="/images/events/bookbugsr/BB3 Posters_20 Jan-Earn Points-min.png" style="width: 80%;"></a>

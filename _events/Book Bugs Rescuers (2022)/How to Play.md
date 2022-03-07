@@ -2,8 +2,10 @@
 title: How to Play
 permalink: /events/bookbugsr/play
 description: ""
-third_nav_title: Book Bugs Rescuers
+third_nav_title: Book Bugs Rescuers (2022)
 ---
+
+
 ### The Game Mat
 
 Download your very own Book Bugs: Rescuers of Stories Lost game mat here! 

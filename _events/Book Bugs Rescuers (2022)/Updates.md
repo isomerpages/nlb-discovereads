@@ -2,8 +2,10 @@
 title: Updates
 permalink: /events/bookbugsr/updates
 description: ""
-third_nav_title: Book Bugs Rescuers
+third_nav_title: Book Bugs Rescuers (2022)
 ---
+
+
 #### 6 March 2022
 <img src="/images/events/bookbugsr/dR BBR redemption announcement 06032022.jpeg" alt="Thank you for your continued support" style="width: 100%" align="left">
 

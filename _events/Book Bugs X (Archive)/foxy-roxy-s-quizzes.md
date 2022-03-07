@@ -3,8 +3,9 @@ title: Foxy Roxy's Quizzes
 permalink: events/bookbugsx/quiz
 breadcrumb: Foxy Roxy's Quizzes
 collection_name: events
-third_nav_title: Book Bugs Explorers of Stories Past
+third_nav_title: Book Bugs X (Archive)
 ---
+
 ### Foxy Roxy's Quest
 
 **Congratulations to all Explorers for completing Foxy Roxy's quests! You have exceeded her expectations, and could possibly even outsmart her if she's not careful!** Book Bugs: Explorers of Stories Past has now ended, but you can still scroll down to do each month's quiz.

@@ -3,40 +3,41 @@ collections:
     output: true
     order:
       - events.md
-      - Information Session for Educators 2021 Virtual.md
-      - book-bugs-ii/.keep
-      - book-bugs-ii/main-page.md
-      - book-bugs-ii/story.md
-      - book-bugs-ii/how-to-play.md
-      - book-bugs-ii/bug-list.md
-      - book-bugs-ii/how-to-redeem.md
-      - book-bugs-ii/posters-and-activities.md
-      - book-bugs-ii/quiz.md
-      - book-bugs-ii/glossary.md
-      - book-bugs-ii/playoffs.md
-      - book-bugs-explorers-of-stories-past/.keep
-      - book-bugs-explorers-of-stories-past/main-page.md
-      - book-bugs-explorers-of-stories-past/tattler-s-updates.md
-      - book-bugs-explorers-of-stories-past/how-to-redeem.md
-      - book-bugs-explorers-of-stories-past/lil-deer-s-bug-a-thon.md
-      - book-bugs-explorers-of-stories-past/foxy-roxy-s-quizzes.md
-      - book-bugs-explorers-of-stories-past/story.md
-      - book-bugs-explorers-of-stories-past/how-to-play.md
-      - book-bugs-explorers-of-stories-past/bug-list.md
-      - book-bugs-explorers-of-stories-past/resources.md
-      - book-bugs-explorers-of-stories-past/book-bugs-events.md
-      - Book Bugs Rescuers/.keep
-      - "Book Bugs Rescuers/Book Bugs: Rescuers of Stories Lost (Main Page).md"
-      - Book Bugs Rescuers/Updates.md
-      - Book Bugs Rescuers/The Story.md
-      - Book Bugs Rescuers/How to Redeem Cards.md
-      - Book Bugs Rescuers/How to Play.md
-      - Book Bugs Rescuers/Bug List and Books of Bugtopia.md
-      - Book Bugs Rescuers/Quizzes.md
-      - Book Bugs Rescuers/Rescuers' Quests.md
-      - Book Bugs Rescuers/Join the Community!.md
+      - Book Bugs Rescuers (2022)/.keep
+      - "Book Bugs Rescuers (2022)/Book Bugs: Rescuers of Stories Lost (Main
+        Page).md"
+      - Book Bugs Rescuers (2022)/Updates.md
+      - Book Bugs Rescuers (2022)/The Story.md
+      - Book Bugs Rescuers (2022)/How to Redeem Cards.md
+      - Book Bugs Rescuers (2022)/How to Play.md
+      - Book Bugs Rescuers (2022)/Bug List and Books of Bugtopia.md
+      - Book Bugs Rescuers (2022)/Quizzes.md
+      - Book Bugs Rescuers (2022)/Rescuers' Quests.md
+      - Book Bugs Rescuers (2022)/Join the Community!.md
       - Ranger Buddies.md
       - Babies Can Be Members Too.md
       - a-book-a-day/.keep
       - a-book-a-day/announcements.md
       - edu-connect.md
+      - Information Session for Educators 2021 Virtual.md
+      - Book Bugs X (Archive)/.keep
+      - Book Bugs X (Archive)/main-page.md
+      - Book Bugs X (Archive)/tattler-s-updates.md
+      - Book Bugs X (Archive)/how-to-redeem.md
+      - Book Bugs X (Archive)/lil-deer-s-bug-a-thon.md
+      - Book Bugs X (Archive)/foxy-roxy-s-quizzes.md
+      - Book Bugs X (Archive)/story.md
+      - Book Bugs X (Archive)/how-to-play.md
+      - Book Bugs X (Archive)/bug-list.md
+      - Book Bugs X (Archive)/resources.md
+      - Book Bugs X (Archive)/book-bugs-events.md
+      - Book Bugs II (Archive)/.keep
+      - Book Bugs II (Archive)/main-page.md
+      - Book Bugs II (Archive)/story.md
+      - Book Bugs II (Archive)/how-to-play.md
+      - Book Bugs II (Archive)/bug-list.md
+      - Book Bugs II (Archive)/how-to-redeem.md
+      - Book Bugs II (Archive)/posters-and-activities.md
+      - Book Bugs II (Archive)/quiz.md
+      - Book Bugs II (Archive)/glossary.md
+      - Book Bugs II (Archive)/playoffs.md

@@ -3,8 +3,9 @@ title: Main Page
 permalink: events/bookbugsx/
 breadcrumb: Book Bugs Explorers of Stories Past
 collection_name: events
-third_nav_title: Book Bugs Explorers of Stories Past
+third_nav_title: Book Bugs X (Archive)
 ---
+
 ## Book Bugs: Explorers of Stories Past
 
 <img src="/images/events/bookbugsx/BBX closing banner.png" alt="Thank you for your participation. The end is just the beginning..." style="width: 100%">

@@ -2,8 +2,10 @@
 title: Bug List and Books of Bugtopia
 permalink: /events/bookbugsr/buglist/
 description: ""
-third_nav_title: Book Bugs Rescuers
+third_nav_title: Book Bugs Rescuers (2022)
 ---
+
+
 | [The Books of Bugtopia](#the-books-of-bugtopia) | [Buglist](#buglist) | 
 
 ### The Books of Bugtopia

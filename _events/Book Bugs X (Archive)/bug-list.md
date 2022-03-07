@@ -3,8 +3,9 @@ title: Bug List
 permalink: events/bookbugsx/buglist
 breadcrumb: Bug List
 collection_name: events
-third_nav_title: Book Bugs Explorers of Stories Past
+third_nav_title: Book Bugs X (Archive)
 ---
+
 Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired by local and regional folktales and trivia? Scroll down to find out what served as the inspiration for each Bug! If you want to read the stories that inspired our Bugs, refer to the book list on our [Resources page](/events/bookbugsx/resources), or read *<a href="https://go.gov.sg/bb-guide" target="_blank" rel="noopener noreferrer">An Explorer's Guide to Book Bugs: Explorers of Stories Past</a>* ! You will find that some popular folktales and fairy tales, such as Cinderella and Little Red Riding Hood, actually have their Asian equivalents too!
 
 [<img src="/images/events/bookbugsx/Button_Forests.png" alt="Digital Resources" style="width: 25%" align="left">](#magical-forests)[<img src="/images/events/bookbugsx/Button_Seas.png" alt="Printables" style="width: 25%" align="left">](#mysterious-seas)[<img src="/images/events/bookbugsx/Button_Mountains.png" alt="Book Lists" style="width: 25%" align="left">](#mystical-mountains)[<img src="/images/events/bookbugsx/Button_Homes.png" alt="Useful Links" style="width: 25%" align="left">](#marvellous-homes)

@@ -3,8 +3,9 @@ title: Lil' Deer's Bug-a-thon
 permalink: events/bookbugsx/bugathon
 breadcrumb: Lil Deer's Bug-a-thon
 collection_name: events
-third_nav_title: Book Bugs Explorers of Stories Past
+third_nav_title: Book Bugs X (Archive)
 ---
+
 ### Lil' Deer's Bug-a-thon Reading Challenge
 
 **The Bug-a-thon has now ended!** 

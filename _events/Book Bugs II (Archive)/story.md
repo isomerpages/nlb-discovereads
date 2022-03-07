@@ -3,8 +3,9 @@ title: Story
 permalink: events/bookbugs2/story
 breadcrumb: Story
 collection_name: events
-third_nav_title: Book Bugs II
+third_nav_title: Book Bugs II (Archive)
 ---
+
 
 ## **Book Bugs - Story**
 

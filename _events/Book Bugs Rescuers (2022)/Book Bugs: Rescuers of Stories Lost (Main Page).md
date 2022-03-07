@@ -2,8 +2,10 @@
 title: "Book Bugs: Rescuers of Stories Lost (Main Page)"
 permalink: /events/bookbugsr/
 description: ""
-third_nav_title: Book Bugs Rescuers
+third_nav_title: Book Bugs Rescuers (2022)
 ---
+
+
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
 
 

@@ -3,8 +3,9 @@ title: Story
 permalink: events/bookbugsx/story
 breadcrumb: Story
 collection_name: events
-third_nav_title: Book Bugs Explorers of Stories Past
+third_nav_title: Book Bugs X (Archive)
 ---
+
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NXwiyBNCeec?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

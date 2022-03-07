@@ -16,13 +16,7 @@ links:
   - title: Events
     url: /events/main
     sublinks:
-      - title: Information Session 2021
-        url: /events/infosessionforeducators
-      - title: Book Bugs II
-        url: /events/bookbugs2/bookbugs-main
-      - title: Book Bugs Explorers of Stories Past
-        url: /events/bookbugsx/
-      - title: "Book Bugs Rescuers "
+      - title: Book Bugs Rescuers (2022)
         url: /events/bookbugsr/
       - title: Ranger Buddies
         url: /events/ranger-buddies
@@ -32,5 +26,11 @@ links:
         url: /events/abookaday
       - title: Edu-Connect
         url: /events/edu-connect
+      - title: Information Session (2021)
+        url: /events/infosessionforeducators
+      - title: Book Bugs X (Archive)
+        url: /events/bookbugsx/
+      - title: Book Bugs II (Archive)
+        url: /events/bookbugs2/bookbugs-main
   - title: Contact Us
     url: https://www.nlb.gov.sg/ContactUs.aspx

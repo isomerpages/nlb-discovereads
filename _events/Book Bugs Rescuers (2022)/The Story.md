@@ -4,8 +4,6 @@ permalink: /events/bookbugsr/story/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-
-
 | [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [StoryMap](#storymap) |  
 
 ### The Story

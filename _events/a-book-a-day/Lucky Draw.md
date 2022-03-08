@@ -4,6 +4,8 @@ permalink: /events/a-book-a-day/luckydraw
 description: ""
 third_nav_title: A Book A Day
 ---
+(updated on 8 March 2022)
+
 ### **Allocation of Lucky Draw Chances**
 
 * A participant will be allocated one lucky draw chance for each month when they borrow at least 30 physical children’s books from public libraries.

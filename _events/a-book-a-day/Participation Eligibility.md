@@ -14,3 +14,4 @@ Parents can register their children for “A Book A Day” programme at [https:/
 * Children must have a library membership (individual) with NLB and a [myLibrary User ID](http://account.nlb.gov.sg/).
 * Parents and guardians must register for their children and accept the Terms and Conditions.
 
+Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](/files/preschool/A%20Book%20A%20Day%202022_TCs_v2.pdf).

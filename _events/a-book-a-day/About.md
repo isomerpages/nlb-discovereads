@@ -6,7 +6,7 @@ third_nav_title: A Book A Day
 ---
 ### **About**
 
-*(updated on 8 March 2022)*
+*(updated on 11 March 2022)*
 
 
 <img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">

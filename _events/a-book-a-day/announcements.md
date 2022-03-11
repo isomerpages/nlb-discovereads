@@ -9,7 +9,7 @@ third_nav_title: A Book A Day
 
 *(updated on 8 March 2022)*
 
-![](/images/events/abookaday/ABAD%202022_NLB%20web%20banner.png)
+<a href="https://childrenandteens.nlb.gov.sg/events/a-book-a-day/participation"><img src="/images/events/abookaday/ABAD%202022_NLB%20web%20banner.png"></a>
 
 ### **Help Us Make it Better!**
 

@@ -6,7 +6,7 @@ third_nav_title: A Book A Day
 ---
 ### **Participation Eligibility**
 
-*(updated on 8 March 2022)*
+*(updated on 11 March 2022)*
 
 Parents can register their children for “A Book A Day” programme at [https://go.gov.sg/abookaday](https://go.gov.sg/abookaday) or through the NLB Mobile app. 
 

@@ -36,5 +36,39 @@ Coming soon!
 
 
  <img src="/images/Sustainability%20Lfa/Birds/birds3.png" style="width:450px; text-align:left;">
+ 
+ <h4>LET'S THINK!</h4>
+ <h5>Dangers in the City</h5>
+<p>Here are some dangers that are affecting the bird population and behaviour in the wild.</p>
+
+ <img src="/images/Sustainability%20Lfa/Birds/birds4.png" style="width:450px; text-align:left;">
+
+
+ <p><b>How can we help?</b><br>
+A little help goes a long way. Here are some ways we can help protect the birds.</p>
+
+<img src="/images/Sustainability%20Lfa/Birds/birds5.png" style="width:450px; text-align:left;">
+
+<h4>LET'S PLAY!</h4>
+ <h5>Birdwatching</h5>
+ <p><b>Where to Birdwatch?</b><br>
+You can spot the common birds in your neighbourhood but if you’d like to see other types of birds, you can visit these places. </p>
+<ul>
+  <li>Punggol Waterway Park</li>
+  <li>Kranji Marshes</li>
+  <li>Southern Ridges</li>
+  <li>Sungei Buloh Wetland Reserve</li>
+</ul>
+
+ <p><b>Guidelines</b><br>
+Remember that you are visiting these birds in their homes.<br><br>
+When birdwatching,</p>
+<ol>
+	 <li>Watch the birds quietly.</li>
+	<li>Stand at a distance.</li>
+<li>Feeding is disallowed.</li>
+	<li>Leave nature as it is.</li>
+</ol>
+
 
 

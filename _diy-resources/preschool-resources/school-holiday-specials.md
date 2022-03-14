@@ -23,7 +23,7 @@ Materials needed:<br>
 
 ### Recommended Books
 
-
+<img src="/images/diyresources/preschool/Where%20the%20Sea%20Meets%20the%20Sky.jpg" alt="ubin elephant" style="width:45%">
 
 ### **Sea Animals**
 

@@ -22,8 +22,46 @@ Materials needed:<br>
 [Download](/files/preschool/School%20Holiday%20Specials/Animal%20Finger%20Puppets.pdf) full instructions for this craft.
 
 ### Recommended Books
+<img src="/images/diyresources/preschool/SHS/ubinelephant.jpg" alt="Ubin Elephant" style="width:45%">
 
-<img src="/images/diyresources/preschool/Where%20the%20Sea%20Meets%20the%20Sky.jpg" alt="ubin elephant" style="width:45%">
+Title: [Ubin Elephant](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558589)<BR>
+Author: Alan John<BR>
+Illustrator: Quek Hong Shin <BR>
+Publisher: Singapore : Straits Times Press, [2021]
+	
+This delightful tale, written by Alan John and illustrated by Quek Hong Shin, was inspired by the true story of an elephant that appeared on Pulau Ubin in 1991 and caused great excitement among the island’s residents for about a week.
+	
+Beautifully and vividly illustrated, this book will enthrall young readers with the question of how to get poor little Ubin Elephant (frightened and shedding a tear at one point!) safely home to his mama again.
+<br>
+
+<img src="/images/diyresources/preschool/SHS/boar.jpg" alt="A Boar at My Door" style="width:45%">
+	
+Title: [A Boar at My Door](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201502422) <br>
+Author: Keith Wo, Ailica Lee, Lim Xue Xian, Tag Wan Yi, Chiu Guan Ru <br>
+Illustrator: Cha Da Eun <br>
+Publisher: Singapore : Raffles Institution, 2015.
+
+Join Billy, a little wild boar, on an exciting adventure after he ends up lost and alone in an unfortunate turn of events.
+Journey with him as he tried to find his family, meeting awesome new friends and also a fearsome foe along his way.
+Will Billy ever reunite with his missing family and find a home where he truly belongs?
+
+<img src="/images/diyresources/preschool/SHS/fourteenmonkeys.jpg" alt="Fourteen Monkeys" style="width:45%">	
+	
+Title: [Fourteen Monkeys : a rain forest rhyme](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205528225)<br>
+Author: Melissa Stewart<br>
+Illustrator: Steve Jenkins<br>
+Publisher: New York : Beach Lane Books, [2021]
+	
+Travel to a tropical rainforest where fourteen species of monkeys live in harmony in this playful, fact-filled book from award-winning author Melissa Stewart and Caldecott honoree Steve Jenkins.
+
+<img src="/images/diyresources/preschool/SHS/marvellousmammals.jpg" alt="Marvellous Mammals" style="width:45%">	
+	
+Title: [Marvellous Mammals : a wild A to Z of Southeast Asi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462275)a<br>
+Author: Debby Ng<br>
+Illustrator: Darel Seow<br>
+Publisher: Singapore : Difference Engine, [2021]
+
+In this beautifully illustrated alphabet book, wildlife ecologist Debby Ng and illustrator Darel Seow part the leaves to showcase lesser-known animals of Southeast Asia! Readers will learn about these unique mammals’ habitat, behaviour, food choices, and their relationship with humans.
 
 ### **Sea Animals**
 

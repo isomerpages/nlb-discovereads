@@ -14,5 +14,27 @@ Coming soon!
 <h3 class="margin--bottom--lg" id="lp-protectbirds"><b>Animal Conservation Series:<br>Protecting Birds in Singapore</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
-<img src="" style="width:400px; text-align:left;">
+<img src="/images/Sustainability%20Lfa/Birds/birds1.png" style="width:400px; text-align:left;">
+
+<p>From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.</p>
+
+<h4>LET'S LEARN!</h4>
+ <p><b>Name the different parts of a bird.</b><br>
+ Point in the picture the different parts of the bird based on the words below.</p>
+ 
+<img src="/images/Sustainability%20Lfa/Birds/birds2.png" style="width:450px; text-align:left;">
+ <br>
+
+
+ <h5>Why are Birds Important?</h5>
+<p> Birds have a big role in the ecosystem. </p>
+<ul>
+  <li>They help to pollinate plants when they eat nectar from flowers. This allows plants to bear fruits.</li>
+  <li>When birds eat fruits, they help to spread seeds through their droppings.</li>
+  <li>They also help to manage pests as some birds eat insects.</li>
+</ul>
+
+
+ <img src="/images/Sustainability%20Lfa/Birds/birds3.png" style="width:450px; text-align:left;">
+
 

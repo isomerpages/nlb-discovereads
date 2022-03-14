@@ -8,6 +8,21 @@ third_nav_title: Preschool Resources
 
 ### **Local Wildlife**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dsR-nAYL4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Animal Finger Puppets**
+Materials needed:<br>
+• Thick coloured papers or scrap papers<br>
+• Scissors or a penknife<br>
+• Colouring materials<br>
+• Glue<br>
+• A pencil<br>
+• Circle stencil
+
+[Download](/files/preschool/School%20Holiday%20Specials/Animal%20Finger%20Puppets.pdf) full instructions for this craft.
+
+### Recommended Books
+
 
 
 ### **Sea Animals**

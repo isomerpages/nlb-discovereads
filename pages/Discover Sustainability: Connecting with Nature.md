@@ -77,5 +77,24 @@ When birdwatching,</p>
 
 
  <h5>Did You Know?</h5>
- <p>You can join the<a href="https://go.gov.sg/sci-world-map" target="_blank">Garden Bird Watch</a>, a biannual event organised by NParks. </p>
+ <p>You can join the  <a href="https://go.gov.sg/sci-world-map" target="_blank">Garden Bird Watch</a>, a biannual event organised by NParks. </p>
+ 
+ 
+<h4>LET'S CRAFT!</h4>
+ <h5>DIY Binoculars</h5>
+<img src="/images/Sustainability%20Lfa/Birds/birds7.png" style="width:450px; text-align:left;">
+<ul>
+  <li><b>Step 1:</b><br>
+Attach the toilet paper rolls with glue or tape</li>
+  <li><b>Step 2:</b><br>
+Wrap the toilet paper rolls together with a piece of recycling paper</li>
+ <li><b>Step 3:</b><br>
+Decorate your binoculars with decorative materials such as recycled coloured paper or coloured pencils</li>
+ <li><b>Step 4:</b><br>
+Punch holes on the sides of the binoculars and attach the twine</li>
 
+	
+
+
+
+ 

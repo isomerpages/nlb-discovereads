@@ -69,6 +69,3 @@ When birdwatching,</p>
 <li>Feeding is disallowed.</li>
 	<li>Leave nature as it is.</li>
 </ol>
-
-
-

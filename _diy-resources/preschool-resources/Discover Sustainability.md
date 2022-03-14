@@ -12,9 +12,9 @@ Click on the banners below to learn all about the various facets of sustainabili
 
 <h4>Connecting with Nature</h4>
 
-Click [here](/connecting-with-nature) <img src="/images/diyresources/preschool/Sustainability/dR_Connecting%20with%20Nature.png" style="width:250px; text-align:left;">
+Click [here](/connecting-with-nature) <img src="/images/diyresources/preschool/Sustainability/dR_Connecting%20with%20Nature.png" style="width:400px; text-align:left;">
 
 
 <h4>Caring for the Environment</h4>
 
-Click [here](/caring-for-the-environment) <img src="/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png" style="width:250px; text-align:left;">
+Click [here](/caring-for-the-environment) <img src="/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png" style="width:400px; text-align:left;">

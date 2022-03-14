@@ -56,7 +56,7 @@ Travel to a tropical rainforest where fourteen species of monkeys live in harmon
 
 <img src="/images/diyresources/preschool/SHS/marvellousmammals.jpg" alt="Marvellous Mammals" style="width:45%">	
 	
-Title: [Marvellous Mammals : a wild A to Z of Southeast Asi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462275)a<br>
+Title: [Marvellous Mammals : a wild A to Z of Southeast Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462275)<br>
 Author: Debby Ng<br>
 Illustrator: Darel Seow<br>
 Publisher: Singapore : Difference Engine, [2021]

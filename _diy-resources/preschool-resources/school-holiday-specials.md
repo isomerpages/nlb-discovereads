@@ -21,7 +21,7 @@ Materials needed:<br>
 
 [Download](/files/preschool/School%20Holiday%20Specials/Animal%20Finger%20Puppets.pdf) full instructions for this craft.
 
-### Recommended Books
+### **Recommended Books**
 <img src="/images/diyresources/preschool/SHS/ubinelephant.jpg" alt="Ubin Elephant" style="width:45%">
 
 Title: [Ubin Elephant](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558589)<BR>

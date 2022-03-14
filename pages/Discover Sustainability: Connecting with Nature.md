@@ -92,9 +92,43 @@ Wrap the toilet paper rolls together with a piece of recycling paper</li>
 Decorate your binoculars with decorative materials such as recycled coloured paper or coloured pencils</li>
  <li><b>Step 4:</b><br>
 Punch holes on the sides of the binoculars and attach the twine</li>
-
 	
-
-
-
- 
+<h4>LET'S READ!</h4>
+	
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205426262" target="_blank"><img src="/images/Sustainability%20Lfa/Birds/A%20Garden%20to%20Save%20the%20Birds.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>A Garden to Save the Birds</b><br>
+       <u>Author:</u> Wendy McClure & Beatriz Mayumi (Illustrator)<br>
+       <u>Publisher:</u> Chicago, Illinois : Albert Whitman & Company, 2021<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203796263" target="_blank"><img src="/images/Sustainability%20Lfa/Birds/Counting%20Birds-%20The%20Idea%20That%20Helped%20Save%20Our%20Feathered%20Friends.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Counting Birds: The Idea That Helped Save Our Feathered Friends (Young Naturalist) </b><br>
+        <u>Author:</u> Heidi E.Y. Stemple & Clover Robin (Illustrator)<br>
+        <u>Publisher:</u> Lake Forest, CA : Seagrass Press, 2018.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205457704" target="_blank"><img src="/images/Sustainability%20Lfa/Birds/The%20Lost%20Little%20Bird.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>The Lost Little Bird</b><br>
+       <u>Author:</u> David McPhail<br>
+       <u>Publisher:</u> 
+New York : Henry Holt and Company, 2021.<br>
+       </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

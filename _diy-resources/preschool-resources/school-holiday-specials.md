@@ -63,6 +63,8 @@ Publisher: Singapore : Difference Engine, [2021]
 
 In this beautifully illustrated alphabet book, wildlife ecologist Debby Ng and illustrator Darel Seow part the leaves to showcase lesser-known animals of Southeast Asia! Readers will learn about these unique mammals’ habitat, behaviour, food choices, and their relationship with humans.
 
+All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.
+	
 ### **Sea Animals**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SCByWaNO588" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

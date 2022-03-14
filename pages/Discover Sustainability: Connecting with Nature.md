@@ -3,7 +3,6 @@ title: "Discover Sustainability: Connecting with Nature"
 permalink: /connecting-with-nature
 description: ""
 ---
-
 ![Connecting with Nature](/images/diyresources/preschool/Sustainability/dR_Connecting%20with%20Nature.png)
 
 
@@ -15,7 +14,7 @@ description: ""
  <p><b>Suitable for 4 to 6 years old</b></p>
 
  
-<img src="/images/science-lfa/marine-animals/Marine1.png" style="width:400px; text-align:left;">
+<img src="/images/Sustainability%20Lfa/Birds/birds1.png" style="width:400px; text-align:left;">
  
 
 <p>From the ever-present Mynah to the colourful Kingfisher, birds are a common sight in this garden city we call home. But did you know they do a lot more for the environment than just adding life and colour to our surroundings? Find out more about the role birds play in our ecosystem, the dangers they face, and how we can do our part to keep them safe.</p>
@@ -75,3 +74,8 @@ When birdwatching,</p>
 <li>Feeding is disallowed.</li>
 	<li>Leave nature as it is.</li>
 </ol>
+
+
+ <h5>Did You Know?</h5>
+ <p>You can join the<a href="https://go.gov.sg/sci-world-map" target="_blank">Garden Bird Watch</a>, a biannual event organised by NParks. </p>
+

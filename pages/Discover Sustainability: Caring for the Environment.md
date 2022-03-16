@@ -48,11 +48,12 @@ description: ""
    </div>
  <div class="col is-three-fifths">
 <b> Urban Farm in Singapore's Busiest Shopping District</b>
-   </div>
- </div>
  <p>Summary: <br> 
 	Watch this video to see a <b> rooftop farm</b> in Orchard Road!
  </p>
+   </div>
+ </div>
+
 
 <h4>LET'S THINK!</h4>
 <h5>Talking Points</h5>

@@ -3,7 +3,7 @@ title: "Discover Sustainability: Caring for the Environment"
 permalink: /caring-for-the-environment
 description: ""
 ---
-![Discover Sustainability](/images/diyresources/preschool/Sustainability/discover%20sustainability.png)
+![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
 | **New!*** <a href="#lp-urbanfarm">Urban Farming</a> |
 

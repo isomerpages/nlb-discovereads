@@ -219,8 +219,6 @@ New York : Henry Holt and Company, 2021.<br>
    </div>
  <div class="col is-three-fifths">
 <p>Paper Plate Sea Turtle</p>
-   </div> </div>
-
 <h5>Materials required:</h5>
  <p>1. Paper plate<br>
  2. Green acrylic paint<br>
@@ -228,6 +226,7 @@ New York : Henry Holt and Company, 2021.<br>
  4. Colour pencils/markers<br>
  5. Scissors and glue<br>
  6. Turtle <a href="https://go.gov.sg/dr-seaturtlescrafttemplate" target="_blank">template</a> (to print)<br></p>
+   </div> </div>
 
 <ul>
 	<li>Use acrylic paint to paint the bottom side of a paper plate green.</li>

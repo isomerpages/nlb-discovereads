@@ -25,9 +25,19 @@ description: ""
 
 
  <h5>What are the Different Types of Urban Farming?</h5>
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm4.png" style="width:450px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm5.png" style="width:450px; text-align:left;">
+    </div>
+  </div>
+ </div>
 
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm4.png" style="width:400px; text-align:left;">
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm5.png" style="width:400px; text-align:left;">
 
  <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">

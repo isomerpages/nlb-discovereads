@@ -16,83 +16,101 @@ description: ""
 
 
 <h4>LET'S LEARN!</h4>
- <p><b>Name the different parts of a bird.</b><br>
- Point in the picture the different parts of the bird based on the words below.</p>
+
+<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm2.png" style="width:400px; text-align:left;">
+
+ <p>Urban Farming and Community Gardening are not the same!</p>
  
-<img src="/images/Sustainability%20Lfa/Birds/birds2.png" style="width:450px; text-align:left;">
- <br>
+<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm3.png" style="width:400px; text-align:left;">
 
 
+ <h5>What are the Different Types of Urban Farming?</h5>
 
- <h5>Why are Birds Important?</h5>
-<p> Birds have a big role in the ecosystem. </p>
+<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm4.png" style="width:400px; text-align:left;">
+<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm5.png" style="width:400px; text-align:left;">
+
+ <h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=0NehZOPzxIM" target="_blank">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm6.jpeg" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+<b> Urban Farm in Singapore's Busiest Shopping District</b>
+   </div>
+ </div>
+ <p>Summary: <br> 
+	Watch this video to see a <b> rooftop farm</b> in Orchard Road!
+ </p>
+
+<h4>LET'S THINK!</h4>
+<h5>Talking Points</h5>
 <ul>
-  <li>They help to pollinate plants when they eat nectar from flowers. This allows plants to bear fruits.</li>
-  <li>When birds eat fruits, they help to spread seeds through their droppings.</li>
-  <li>They also help to manage pests as some birds eat insects.</li>
+  <li>What does an Urban Farmer do on a day-to-day basis?</li>
+  <li>What are some of the produce you can grow in an Urban Farm?</li>
+  <li>What is the percentage of food in Singapore that comes from local produce?</li>
 </ul>
 
+<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm7.png" style="width:400px; text-align:left;">
 
- <img src="/images/Sustainability%20Lfa/Birds/birds3.png" style="width:450px; text-align:left;">
+<h4>LET'S LEARN!</h4>
+<h5>Vertical Farming</h5>
 
- <h4>LET'S THINK!</h4>
- <h5>Dangers in the City</h5>
-<p>Here are some dangers that are affecting the bird population and behaviour in the wild.</p>
+ <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm8.png" style="width:400px; text-align:left;">
+ 
+ <p>What do you think is needed to start a Vertical Farm? </p>
+ 
+ 
+ <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm9.png" style="width:400px; text-align:left;">
+ 
+ <p>Answers: </p>
+ <ol>
+	 <li>Structure</li>
+	<li>Lighting</li>
+<li>Water</li>
+</ol>
 
- <img src="/images/Sustainability%20Lfa/Birds/birds4.png" style="width:450px; text-align:left;">
+<h4>LET'S THINK!</h4>
+<h5>Benefits of Vertical Farming</h5>
 
+ <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm10.png" style="width:400px; text-align:left;">
 
- <p><b>How can we help?</b><br>
-A little help goes a long way. Here are some ways we can help protect the birds.</p>
+ <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm11.png" style="width:400px; text-align:left;">
 
-<img src="/images/Sustainability%20Lfa/Birds/birds5.png" style="width:450px; text-align:left;">
 
 
 <h4>LET'S PLAY!</h4>
- <h5>Birdwatching</h5>
- <p><b>Where to Birdwatch?</b><br>
-You can spot the common birds in your neighbourhood but if you’d like to see other types of birds, you can visit these places. </p>
+ <h5>Strawberry-Mint Lemonade</h5>
+ <p>
+One of the most common plants you can try growing at home is mint. You can use the leaves to make the cooling drink with your family!</p>
+
+ <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:400px; text-align:left;">
+
+ <p><b>What you'll need: </b></p>
 <ul>
-  <li>Punggol Waterway Park</li>
-  <li>Kranji Marshes</li>
-  <li>Southern Ridges</li>
-  <li>Sungei Buloh Wetland Reserve</li>
+  <li>3 Cups Water</li>
+  <li>1/2 cup Sugar</li>
+  <li>3 Cups Sliced Fresh Strawberries</li>
+  <li>1 1/2 Cups Chopped Fresh Mint Leaves</li>
+	<li>3 Cups Cold Water</li>
+	<li>8 - 9 Lemons (1/2 teaspoon Zest, 1 1/2 - 1 3/4 cups Juice)</li>
+	<li>Lemon Slices</li>
+	<li>Ice Cubes</li>
 </ul>
 
- <p><b>Guidelines</b><br>
-Remember that you are visiting these birds in their homes.<br><br>
-When birdwatching,</p>
-<ol>
-	 <li>Watch the birds quietly.</li>
-	<li>Stand at a distance.</li>
-<li>Feeding is disallowed.</li>
-	<li>Leave nature as it is.</li>
-</ol>
+<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:400px; text-align:left;">
 
-
- <h5>Did You Know?</h5>
- <p>You can join the  <a href="https://go.gov.sg/sci-world-map" target="_blank">Garden Bird Watch</a>, a biannual event organised by NParks. </p>
-
-
-
-<h4>LET'S CRAFT!</h4>
- <h5>DIY Binoculars</h5>
-<img src="/images/Sustainability%20Lfa/Birds/birds7.png" style="width:450px; text-align:left;">
+ <p><b>Method:</b></p>
 <ul>
-  <li><b>Step 1:</b><br>
-Attach the toilet paper rolls with glue or tape</li>
-  <li><b>Step 2:</b><br>
-Wrap the toilet paper rolls together with a piece of recycling paper</li>
- <li><b>Step 3:</b><br>
-Decorate your binoculars with decorative materials such as recycled coloured paper or coloured pencils</li>
- <li><b>Step 4:</b><br>
-Punch holes on the sides of the binoculars and attach the twine</li>
-
-
-
-
-
-
+	<li>For simple syrup<br>In a large saucepan, combine 3 cups Water, the sliced Strawberries and Sugar. </li><li>Bring to a boil, stirring until Sugar dissolves.</li>
+		<li>Reduce heat. Simmer for 5 minutes. Remove from heat.</li>
+		<li>Add Chopped Mint. Cover and let steep for 30 minutes.</li>
+		<li>Using a fine-mesh strainer, strain syrup to remove mint and berries. Let cool.</li>
+	<li>In a pitcher, combine 3 cups Cold Water, the simple syrup, Lemon Zest and Lemon Juice.</li>
+		<li>Add Lemon Slices along with additional Strawberry Slices and Mint Leaves.</li>
+		<li>Chill up to 4 hours before serving.</li>
+</ul>
 
 
  
@@ -135,24 +153,4 @@ New York : Henry Holt and Company, 2021.<br>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-
- <h3 class="margin--bottom--lg" id="lp-seaturtles"><b>Animal Conservation Series:<br>Sea Turtle Rescue</b></h3>
- <p><b>Suitable for 4 to 6 years old</b></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

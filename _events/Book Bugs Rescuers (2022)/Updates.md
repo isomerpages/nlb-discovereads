@@ -4,6 +4,15 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 16 March 2022
+<img src="/images/events/bookbugsr/March-Quiz-Reminder .png" alt="Earn Bonus Points with our March Quiz" style="width: 100%" align="left">
+
+**Earn Bonus Points With Our March Quiz!**
+
+Check out the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+
+
+
 #### 8 March 2022
 <img src="/images/events/bookbugsr/BBR-vanam-quizzes-storymaps-release.png" alt="Vanam Quizzes and Storymaps Out Now" style="width: 100%" align="left">
 

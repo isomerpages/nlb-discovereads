@@ -4,13 +4,15 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-#### 16 March 2022
-<img src="/images/events/bookbugsr/March-Quiz-Reminder .png" alt="Earn Bonus Points with our March Quiz" style="width: 100%" align="left">
+#### 16 March 2022 
+
+[<img src="/images/events/bookbugsr/March-Quiz-Reminder .png" alt="March Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 **Earn Bonus Points With Our March Quiz!**
 
-Check out the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
 
+Check out the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 
 
 #### 8 March 2022

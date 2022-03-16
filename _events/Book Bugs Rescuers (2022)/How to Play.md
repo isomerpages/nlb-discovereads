@@ -6,6 +6,8 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 ### Gameplay Instructions
 
+Watch this video to find out how to play Book Bugs.
+
 <div class="bp-youtube"> <iframe width="560" height="315" src="https://www.youtube.com/embed/zFr5ZG1mpeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 ### The Game Mat

@@ -76,9 +76,18 @@ description: ""
 
  <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm10.png" style="width:400px; text-align:left;">
 
+<ul>
+	<li>In a <b>dense</b> city with <b>little land</b>, Vertical Farming makes use of the space that is available.</li>
+		<li><b>70% to 95% less water </b> is required for Vertical Farming compared to normal farming.</li>
+		<li><b>Unfavourable weather</b> does not affect Vertical Farming. This way, <b>more produce can be harvested.</b></li>
+		<li><b>No pesticides required!</b> This makes it safe for farmers, consumers as well as the environment.</li>
+</ul>
+
  <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm11.png" style="width:400px; text-align:left;">
 
 
+<p>Urban Farms produce a lot of <b>leafy greens</b> that suit our tastebuds! <br>Do you know the <b>common names</b> of these vegetables used in markets? 
+</p>
 
 <h4>LET'S PLAY!</h4>
  <h5>Strawberry-Mint Lemonade</h5>

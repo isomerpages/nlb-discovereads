@@ -93,6 +93,52 @@ Singing has many benefits for early literacy development. Learn how you can buil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uv5P1qMGouQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Singing. YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
 
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402444" target="_blank"><img src="/images/diyresources/preschool/i-can-read/littlepanda.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Playtime Rhymes</b><br>
+       <u>Illustrator:</u> Joel and Ashley Selby<br>
+       <u>Publisher:</u> London : Campbell Books, 2021.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/theverygrumpyday.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>Incy Wincy Spider</b><br>
+        <u>Illustrator:</u> Yu-Hsuan Huang<br>
+        <u>Publisher:</u> London : Nosy Crow Ltd, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/2197304" target="_blank"><img src="images/diyresources/preschool/i-can-read/bigandlittle.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Once I Heard A Little Wombat</b><br>
+       <u>Illustrator:</u> Renee Treml<br>
+       <u>Publisher:</u> North Sydney : RHA eBooks Child, 2020.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205379296" target="_blank"><img src="/images/diyresources/preschool/i-can-read/thisisabookofshapes.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Eric Carle's Twinkle, Twinkle, Little Star : and other nursery rhymes : a lift-the-flap book</b><br>
+      <u>Author & Illustrator:</u> Eric Carle<br>
+ <u>Publisher:</u> New York : World of Eric Carle, an imprint of Penguin Random House LLC, 2021<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
 
 #### For Ages 0 to 12 Months
 

@@ -288,7 +288,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
  
-  ####  Try this!
+####  Try this!
  
  <img src="/images/diyresources/preschool/i-can-read/playactivity.jpg" style="width:50%">
 

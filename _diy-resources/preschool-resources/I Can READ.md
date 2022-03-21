@@ -130,7 +130,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
      </div>
     <div class="text">
        <p><b>Once I Heard A Little Wombat</b><br>
-       <u>Illustrator:</u> Renee Treml<br>
+       <u>Author:</u> Renee Treml<br>
        <u>Publisher:</u> North Sydney : RHA eBooks Child, 2020.<br>
        </p></div>
    </div>

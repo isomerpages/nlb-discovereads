@@ -16,7 +16,7 @@ third_nav_title: Preschool Resources
 <img src="/images/diyresources/preschool/i-can-read/talk.jpg" style="width:70%">
 
 **Tips for Talking and Communication (Ages 0 to 3)**
-* Nurture your babbling baby into a talkative toddler by talking and reading to them often
+* Nurture your babbling baby into a talkative toddler by talking and reading to them often.
 * Read aloud and encourage your child to read along with you. Initiate conversations about stories by asking, "What do you see on this page?"
 * Make strong connections to what your child sees in books and in their environment. Your child will be excited to point these things out!
 

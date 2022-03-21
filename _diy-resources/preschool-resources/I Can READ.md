@@ -241,6 +241,9 @@ Click [here](/files/preschool/i-can-read/write_activity_final.pdf) to download a
 * Choose books with songs and repetitive verses. Books that have a simple story line that relates to your child's own experiences will also be appealing to them.
 
 **Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/playdough.jpg" style="width:80%">
+
 * Together with your child, use playdough to make the letters of the alphabet or numbers.
 * Play games like ‘I spy’ using colours. This can be lots of fun, especially for preschoolers. For example, ‘I spy with my little eye, something that’s blue. What’s something blue I might be looking at?’.
 

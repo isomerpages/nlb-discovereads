@@ -56,7 +56,7 @@ Learn about the importance of writing in early literacy and the different activi
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584634" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584634" target="_blank"><img src="images/diyresources/preschool/i-can-read/bigandlittle.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Big and Little : a book of animal opposites</b><br>

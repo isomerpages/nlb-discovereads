@@ -11,10 +11,8 @@ third_nav_title: Preschool Resources
 
 ![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
 
+<h3 class="margin--bottom--lg" id="lp-talk"><b>Early Literacy Practice: Talk<br></h3>
 
-#### Early Literacy Practice : Talk
-
-	
 <img src="/images/diyresources/preschool/i-can-read/talk.jpg" style="width:70%">
 
 **Tips for Talking and Communication (Ages 0 to 3)**

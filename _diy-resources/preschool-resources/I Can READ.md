@@ -164,7 +164,7 @@ Click[here](/files/preschool/i-can-read/sing_activity.pdf) to download a copy of
 
 **Early Literacy Activities You Can Do With Your Child**
 * Let your child explore coloring. Using crayons and paper, encourage your child to color or scribble. This simple activity helps to build their motor skills.
-* Introduce your child Let your child learn to write to their name through finger- painting. Write out your child’s name on a paper. Have your child trace over what you have written with child-friendly non-toxic paint.
+* Let your child learn to write their name through finger- painting. Write out your child’s name on a paper. Have your child trace over what you have written with child-friendly non-toxic paint.
 
 **Watch Me!**<br>
 Learn about the importance of writing in early literacy and the different activities you can do with your child to encourage their literacy development.

@@ -97,7 +97,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402444" target="_blank"><img src="/images/diyresources/preschool/i-can-read/littlepanda.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402444" target="_blank"><img src="/images/diyresources/preschool/i-can-read/playtimerhymes.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Playtime Rhymes</b><br>
@@ -107,7 +107,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/theverygrumpyday.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/INCY.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>Incy Wincy Spider</b><br>

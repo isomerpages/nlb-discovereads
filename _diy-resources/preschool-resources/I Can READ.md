@@ -217,6 +217,12 @@ Learn about the importance of writing in early literacy and the different activi
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
  
+ ####  Try this!
+ 
+ <img src="/images/diyresources/preschool/i-can-read/singactivity.jpg" style="width:50%">
+
+Click [here](/files/preschool/i-can-read/write_activity_final.pdf) to download a copy of the activity sheet.
+ 
  <h3 class="margin--bottom--lg" id="lp-play">Early Literacy Practice: Play<br></h3>
  
 <img src="/images/diyresources/preschool/i-can-read/play.jpg" style="width:45%">
@@ -281,6 +287,12 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
    </div>
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+  ####  Try this!
+ 
+ <img src="/images/diyresources/preschool/i-can-read/singactivity.jpg" style="width:50%">
+
+Click [here](/files/preschool/i-can-read/play_activity.pdf) to download a copy of the activity sheet.
 
 #### For Ages 0 to 12 Months
 

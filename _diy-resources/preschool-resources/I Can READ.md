@@ -13,7 +13,7 @@ third_nav_title: Preschool Resources
 
 #### Early Literacy Practice - Talk
 
-![](/images/diyresources/preschool/i-can-read/talk.jpg)
+![](/images/diyresources/preschool/i-can-read/talk.jpg) 
 
 **Tips for Talking and Communication (Ages 0 to 3)**
 * Nurture your babbling baby into a talkative toddler by talking and reading to them often
@@ -34,34 +34,34 @@ Learn about the importance of writing in early literacy and the different activi
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584160" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b> Libby Loves Science: Mix and Measure</b><br>
-       <u>Author:</u> Kimberly Derting and Shelli R. Johannes<br>
-       <u>Publisher:</u> New York, NY: Greenwillow Books, an imprint of HarperCollinsPublishers, [2021]<br>
+       <p><b> Little Panda</b><br>
+       <u>Author:</u> Agnese Baruzzi<br>
+       <u>Publisher:</u> Mount Joy, PA : Happy Fox Books, an imprint of Fox Chapel Publishing, 2021<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205574223" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-			<p><b> Look: I'm a Scientist</b><br>
-        <u>Author:</u> Helene Hilton<br>
-        <u>Publisher:</u> London : Dorling Kindersley Limited, 2017.<br>
+			<p><b>The Very Grumpy Day</b><br>
+        <u>Author:</u> Stella J. Jones<br>
+        <u>Publisher:</u> Wilton, CT : Tiger Tales, 2021.<br>
      </p></div>
   </div>
  </div>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584634" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b> Why is it Rusty?</b><br>
-       <u>Author:</u> Joo-yeong Muhn &amp; Hye-won Kim (Illustrator)<br>
-       <u>Publisher:</u> Big & Small, 2017.<br>
+       <p><b>Big and Little : a book of animal opposites</b><br>
+       <u>Author:</u> Harriet Evans<br>
+       <u>Publisher:</u> London : Caterpillar Books, an imprint of the Little Tiger Group, 2021.<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
@@ -69,9 +69,9 @@ Learn about the importance of writing in early literacy and the different activi
         <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
- <p><b>Ada Twist, Scientist</b><br>
-      <u>Author:</u> Andrea Beaty &amp; David Roberts (Illustrator)<br>
- <u>Publisher:</u> New York: Abrams Books for Young Readers, 2016<br>
+ <p><b>This is A Book of Shapes</b><br>
+      <u>Author:</u> Kenneth Kraegel<br>
+ <u>Publisher:</u> Somerville, MA : Candlewick Press, 2020<br>
  </p></div>
    </div>
   </div>

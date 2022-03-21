@@ -140,7 +140,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
  
- <h3 class="margin--bottom--lg" id="lp-write">Early Literacy Practice: Writing<br></h3>
+ <h3 class="margin--bottom--lg" id="lp-write">Early Literacy Practice: Write<br></h3>
  
  <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:45%">
  

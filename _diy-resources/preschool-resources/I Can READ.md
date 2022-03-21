@@ -226,34 +226,34 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205435824" target="_blank"><img src="/images/diyresources/preschool/i-can-read/fingertrail123.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205475506" target="_blank"><img src="/images/diyresources/preschool/i-can-read/fingertrail123.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b> Fingertrail 123 </b><br>
-       <u>Illustrator:</u> Elisa Ferro <br>
-       <u>Publisher:</u> Usborne Publishing Ltd., 2021.<br>
+       <p><b> Let’s Pretend Fire Station  </b><br>
+       <u>Author:</u> Nicola Edwards <br>
+       <u>Publisher:</u> London : Caterpillar Books, 2021.<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244261" target="_blank"><img src="/images/diyresources/preschool/i-can-read/allaboardalphabet.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204514096" target="_blank"><img src="/images/diyresources/preschool/i-can-read/allaboardalphabet.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-			<p><b>All aboard, Alphabet!</b><br>
-        <u>Author:</u>Davies Becky<br>
-        <u>Publisher:</u> London : Little Tiger Press, 2020.<br>
+			<p><b>There's a Superhero In Your Book</b><br>
+        <u>Author:</u>Tom Fletcher<br>
+        <u>Publisher:</u> London : Puffin, 2020. <br>
      </p></div>
   </div>
  </div>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204445276" target="_blank"><img src="images/diyresources/preschool/i-can-read/shapeswithlittlefish.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205543497" target="_blank"><img src="images/diyresources/preschool/i-can-read/shapeswithlittlefish.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Shapes with Little Fish </b><br>
-       <u>Illustrator:</u> Lucy Cousins<br>
-       <u>Publisher:</u> London : Walker Books and Subsidiaries, 2020<br>
+       <p><b>Circle Under Berry</b><br>
+       <u>Author:</u> Carter Higgins <br>
+       <u>Publisher:</u> San Francisco, California : Chronicle Books, 2021<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">

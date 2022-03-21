@@ -78,7 +78,7 @@ Learn about the importance of writing in early literacy and the different activi
  
 ####  Try this!
 
-<img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
+<img src="/images/diyresources/preschool/i-can-read/talkactivity.jpg" style="width:50%">
 
 Click [here](/files/preschool/i-can-read/talk_activity.pdf) to download a copy of the activity sheet.
 

@@ -142,7 +142,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
  
  <h3 class="margin--bottom--lg" id="lp-writing">Early Literacy Practice: Writing<br></h3>
  
- <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:50%">
+ <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:45%">
  
 **Tips For Developing Writing Skills (Ages 2-4)**
 * At the pre-writing stage, children do not need to write legibly – being able to scribble or trace is a good start.

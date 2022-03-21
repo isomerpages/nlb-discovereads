@@ -30,7 +30,52 @@ Learn about the importance of writing in early literacy and the different activi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1HsCqWXKvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Talking YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
 
-**Recommended Books**
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Libby Loves Science: Mix and Measure</b><br>
+       <u>Author:</u> Kimberly Derting and Shelli R. Johannes<br>
+       <u>Publisher:</u> New York, NY: Greenwillow Books, an imprint of HarperCollinsPublishers, [2021]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b> Look: I'm a Scientist</b><br>
+        <u>Author:</u> Helene Hilton<br>
+        <u>Publisher:</u> London : Dorling Kindersley Limited, 2017.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Why is it Rusty?</b><br>
+       <u>Author:</u> Joo-yeong Muhn &amp; Hye-won Kim (Illustrator)<br>
+       <u>Publisher:</u> Big & Small, 2017.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Ada Twist, Scientist</b><br>
+      <u>Author:</u> Andrea Beaty &amp; David Roberts (Illustrator)<br>
+ <u>Publisher:</u> New York: Abrams Books for Young Readers, 2016<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
 
 #### For Ages 0 to 12 Months
 

@@ -258,11 +258,11 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204484256" target="_blank"><img src="/images/diyresources/preschool/i-can-read/myfirstabc.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205546794" target="_blank"><img src="/images/diyresources/preschool/i-can-read/myfirstabc.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
- <p><b>My first ABC</b><br>
- <u>Publisher:</u> Walker Books Publisher: London : Walker Entertainment, 2020<br>
+ <p><b>Grandude’s Green Submarine</b><br>
+ <u>Publisher:</u> London : Puffin, 2021. <br>
  </p></div>
    </div>
   </div>

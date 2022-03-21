@@ -226,7 +226,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205475506" target="_blank"><img src="/images/diyresources/preschool/i-can-read/fingertrail123.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205475506" target="_blank"><img src="/images/diyresources/preschool/i-can-read/firestation.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Let’s Pretend Fire Station  </b><br>
@@ -236,7 +236,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204514096" target="_blank"><img src="/images/diyresources/preschool/i-can-read/allaboardalphabet.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204514096" target="_blank"><img src="/images/diyresources/preschool/i-can-read/superheroinyourbook.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>There's a Superhero In Your Book</b><br>
@@ -248,7 +248,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205543497" target="_blank"><img src="images/diyresources/preschool/i-can-read/shapeswithlittlefish.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205543497" target="_blank"><img src="images/diyresources/preschool/i-can-read/underberry.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Circle Under Berry</b><br>
@@ -258,7 +258,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205546794" target="_blank"><img src="/images/diyresources/preschool/i-can-read/myfirstabc.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205546794" target="_blank"><img src="/images/diyresources/preschool/i-can-read/grandudes.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Grandude’s Green Submarine</b><br>

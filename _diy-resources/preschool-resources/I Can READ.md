@@ -219,7 +219,7 @@ Learn about the importance of writing in early literacy and the different activi
  
  ####  Try this!
  
- <img src="/images/diyresources/preschool/i-can-read/singactivity.jpg" style="width:50%">
+ <img src="/images/diyresources/preschool/i-can-read/writeactivity.jpg" style="width:50%">
 
 Click [here](/files/preschool/i-can-read/write_activity_final.pdf) to download a copy of the activity sheet.
  
@@ -290,7 +290,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
  
   ####  Try this!
  
- <img src="/images/diyresources/preschool/i-can-read/singactivity.jpg" style="width:50%">
+ <img src="/images/diyresources/preschool/i-can-read/playactivity.jpg" style="width:50%">
 
 Click [here](/files/preschool/i-can-read/play_activity.pdf) to download a copy of the activity sheet.
 

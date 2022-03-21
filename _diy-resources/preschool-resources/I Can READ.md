@@ -78,7 +78,7 @@ Learn about the importance of writing in early literacy and the different activi
  
 ####  Early Literacy Practice : Sing
 
-<img src="/images/diyresources/sing.jpg" style="width:70%">
+<img src="/images/sing.jpg" style="width:70%">
 
 **Tips for Encouraging Singing (Ages 0 to 3)**
 * Singing helps your child learn how to hear smaller sounds in words, developing phonological awareness which will help your child learn to read. Don’t be afraid of being silly or singing off-key!

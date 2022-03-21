@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-##### | **New!*** <a href="#lp-talk">Early Literacy Practice: Talk </a> |  [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [**New!*** For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+##### | **New!*** <a href="#lp-talk">Early Literacy Practice: Talk </a> |  [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
 
 ![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
 

@@ -24,8 +24,7 @@ third_nav_title: Preschool Resources
 * Make different animal sounds with your child such as moo, baa, hiss, neigh, and meow. Take turns making an animal sound and talking about the animal that produces it.
 * Talk about emotions with your child. Ask, "How are you feeling?" and teach them some words to describe their feelings e.g. mad, sad, glad. Come up with a Feelings and Emotions chart, with images of different facial expressions next to each emotion for your child to identify.
 
-**Watch Me!**
-
+**Watch Me!**<br>
 Learn about the importance of writing in early literacy and the different activities you can do with your child to encourage their literacy development.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1HsCqWXKvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Talking YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.

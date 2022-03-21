@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
- | **New!*** <a href="#lp-talk">Early Literacy Practice: Talk </a> | **New!*** <a href="lp-sing"> Early Literacy Practice: Sing</a>| [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+  **New!*** <a href="#lp-talk">Early Literacy Practice: Talk </a> | **New!*** <a href="lp-sing"> Early Literacy Practice: Sing</a>| [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
 
 ![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
 
@@ -139,6 +139,71 @@ Singing has many benefits for early literacy development. Learn how you can buil
    </div>
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+ <h3 class="margin--bottom--lg" id="lp-writing">Early Literacy Practice: Writing<br></h3>
+ 
+**Tips For Developing Writing Skills (Ages 2-4)**
+* At the pre-writing stage, children do not need to write legibly – being able to scribble or trace is a good start.
+* Choose books with finger-trails, large numbers or letters that provide opportunities for children to practice tracing.
+* Try to model writing for your child. Introduce them to the conventions of writing – from left to right of the page and from top to bottom.
+
+**Early Literacy Activities You Can Do With Your Child**
+* Let your child explore coloring. Using crayons and paper, encourage your child to color or scribble. This simple activity helps to build their motor skills.
+* Introduce your child Let your child learn to write to their name through finger- painting. Write out your child’s name on a paper. Have your child trace over what you have written with child-friendly non-toxic paint.
+
+**Watch Me!**<br>
+Learn about the importance of writing in early literacy and the different activities you can do with your child to encourage his/her literacy development.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COTXi225aQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Writing. YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
+
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402444" target="_blank"><img src="/images/diyresources/preschool/i-can-read/playtimerhymes.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Playtime Rhymes</b><br>
+       <u>Illustrator:</u> Joel and Ashley Selby<br>
+       <u>Publisher:</u> London : Campbell Books, 2021.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/INCY.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>Incy Wincy Spider</b><br>
+        <u>Illustrator:</u> Yu-Hsuan Huang<br>
+        <u>Publisher:</u> London : Nosy Crow Ltd, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/2197304" target="_blank"><img src="images/diyresources/preschool/i-can-read/littlewombat.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Once I Heard A Little Wombat</b><br>
+       <u>Illustrator:</u> Renee Treml<br>
+       <u>Publisher:</u> North Sydney : RHA eBooks Child, 2020.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205379296" target="_blank"><img src="/images/diyresources/preschool/i-can-read/twinkletwinkle.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Eric Carle's Twinkle, Twinkle, Little Star : and other nursery rhymes : a lift-the-flap book</b><br>
+      <u>Author & Illustrator:</u> Eric Carle<br>
+ <u>Publisher:</u> New York : World of Eric Carle, an imprint of Penguin Random House LLC, 2021<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+
 
 #### For Ages 0 to 12 Months
 

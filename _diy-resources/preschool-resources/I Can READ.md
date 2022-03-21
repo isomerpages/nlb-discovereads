@@ -13,7 +13,7 @@ third_nav_title: Preschool Resources
 
 #### Early Literacy Practice - Talk
 
-
+![](/images/diyresources/preschool/i-can-read/talk.jpg)
 
 **Tips for Talking and Communication (Ages 0 to 3)**
 * Nurture your babbling baby into a talkative toddler by talking and reading to them often

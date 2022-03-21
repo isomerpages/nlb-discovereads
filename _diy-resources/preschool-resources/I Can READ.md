@@ -9,11 +9,9 @@ third_nav_title: Preschool Resources
 
 ##### | [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [**New!*** For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
 
-
+![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
 
 #### Early Literacy Practice - Talk
-
-![talk](/images/diyresources/preschool/talk.png)
 
 **Tips for Talking and Communication (Ages 0 to 3)**
 * Nurture your babbling baby into a talkative toddler by talking and reading to them often

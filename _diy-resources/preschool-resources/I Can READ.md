@@ -7,7 +7,28 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [**New!*** For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+##### | [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [**New!*** For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+
+
+
+#### Early Literacy Practice - Talk
+
+**Tips for Talking and Communication (Ages 0 to 3)**
+* Nurture your babbling baby into a talkative toddler by talking and reading to them often
+* Read aloud and encourage your child to read along with you. Initiate conversations about stories by asking, "What do you see on this page?"
+* Make strong connections to what your child sees in books and in their environment. Your child will be excited to point these things out!
+
+**Early Literacy Activities You Can Do With Your Child**
+* Make different animal sounds with your child such as moo, baa, hiss, neigh, and meow. Take turns making an animal sound and talking about the animal that produces it.
+* Talk about emotions with your child. Ask, "How are you feeling?" and teach them some words to describe their feelings e.g. mad, sad, glad. Come up with a Feelings and Emotions chart, with images of different facial expressions next to each emotion for your child to identify.
+
+**Watch Me!**
+
+Learn about the importance of writing in early literacy and the different activities you can do with your child to encourage their literacy development.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1HsCqWXKvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Talking YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
+
+**Recommended Books**
 
 #### For Ages 0 to 12 Months
 

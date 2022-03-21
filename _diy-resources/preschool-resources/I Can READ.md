@@ -162,7 +162,7 @@ Learn about the importance of writing in early literacy and the different activi
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205435824" target="_blank"><img src="/images/diyresources/preschool/i-can-read/playtimerhymes.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205435824" target="_blank"><img src="/images/diyresources/preschool/i-can-read/fingertrail123.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Fingertrail 123 </b><br>
@@ -172,7 +172,7 @@ Learn about the importance of writing in early literacy and the different activi
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244261" target="_blank"><img src="/images/diyresources/preschool/i-can-read/INCY.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244261" target="_blank"><img src="/images/diyresources/preschool/i-can-read/allaboardalphabet.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>All aboard, Alphabet!</b><br>

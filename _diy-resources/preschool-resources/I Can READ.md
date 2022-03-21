@@ -11,7 +11,7 @@ third_nav_title: Preschool Resources
 
 ![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
 
-#### Early Literacy Practice - Talk
+#### Early Literacy Practice : Talk
 
 ![](/images/diyresources/preschool/i-can-read/talk.jpg) 
 
@@ -75,6 +75,14 @@ Learn about the importance of writing in early literacy and the different activi
    </div>
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+####  Early Literacy Practice : Sing
+
+![sing](/images/sing.jpg)
+
+**Tips for Encouraging Singing (Ages 0 to 3)**
+
+
 
 #### For Ages 0 to 12 Months
 

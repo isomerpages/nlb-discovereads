@@ -76,6 +76,13 @@ Learn about the importance of writing in early literacy and the different activi
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
  
+####  Try this!
+
+<img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
+
+Click here to download a copy of the activity sheet.
+
+ 
  <h3 class="margin--bottom--lg" id="lp-sing">Early Literacy Practice: Sing<br></h3>
 
 <img src="/images/sing.jpg" style="width:50%">

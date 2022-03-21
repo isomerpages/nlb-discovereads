@@ -21,6 +21,9 @@ third_nav_title: Preschool Resources
 * Make strong connections to what your child sees in books and in their environment. Your child will be excited to point these things out!
 
 **Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/animals.jpg" style="width:80%">
+
 * Make different animal sounds with your child such as moo, baa, hiss, neigh, and meow. Take turns making an animal sound and talking about the animal that produces it.
 * Talk about emotions with your child. Ask, "How are you feeling?" and teach them some words to describe their feelings e.g. mad, sad, glad. Come up with a Feelings and Emotions chart, with images of different facial expressions next to each emotion for your child to identify.
 

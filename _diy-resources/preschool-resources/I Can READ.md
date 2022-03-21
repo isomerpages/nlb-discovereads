@@ -95,6 +95,9 @@ Click [here](/files/preschool/i-can-read/talk_activity.pdf) to download a copy o
 * Read books that can be sung. These can include nursery and finger rhymes, poems, books that promote singing, or books that can be sung to a specific tune.
 
 **Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/animals.jpg" style="width:80%">
+
 * Sing nursery rhymes to your child. As you sing, touch your child’s toes, knees, shoulders, head and so on. You can also get your child to clap, dance, and sway to the rhythm of the music.
 * Gather objects or pictures that rhyme with each other and ask your child to name them. You can even add an odd one out for your child to identify the different sounds made by the various words.
 

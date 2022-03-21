@@ -11,7 +11,7 @@ third_nav_title: Preschool Resources
 
 ![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
 
-<h3 class="margin--bottom--lg" id="lp-talk"><b>Early Literacy Practice: Talk<br></h3>
+<h3 class="margin--bottom--lg" id="lp-talk">Early Literacy Practice: Talk<br></h3>
 
 <img src="/images/diyresources/preschool/i-can-read/talk.jpg" style="width:70%">
 

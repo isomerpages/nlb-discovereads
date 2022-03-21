@@ -206,7 +206,7 @@ Learn about the importance of writing in early literacy and the different activi
  
  <h3 class="margin--bottom--lg" id="lp-play">Early Literacy Practice: Play<br></h3>
  
- 
+<img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:45%">
 
 #### For Ages 0 to 12 Months
 

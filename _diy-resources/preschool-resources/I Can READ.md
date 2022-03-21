@@ -80,7 +80,7 @@ Learn about the importance of writing in early literacy and the different activi
 
 <img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
 
-Click [talk_activity](/files/preschool/i-can-read/talk_activity.pdf) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/talk_activity.pdf) to download a copy of the activity sheet.
 
  
  <h3 class="margin--bottom--lg" id="lp-sing">Early Literacy Practice: Sing<br></h3>

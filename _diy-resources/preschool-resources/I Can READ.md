@@ -81,7 +81,17 @@ Learn about the importance of writing in early literacy and the different activi
 ![sing](/images/sing.jpg)
 
 **Tips for Encouraging Singing (Ages 0 to 3)**
+* Singing helps your child learn how to hear smaller sounds in words, developing phonological awareness which will help your child learn to read. Don’t be afraid of being silly or singing off-key!
+* Read books that can be sung. These can include nursery and finger rhymes, poems, books that promote singing, or books that can be sung to a specific tune.
 
+**Early Literacy Activities You Can Do With Your Child**
+* Sing nursery rhymes to your child. As you sing, touch your child’s toes, knees, shoulders, head and so on. You can also get your child to clap, dance, and sway to the rhythm of the music.
+* Gather objects or pictures that rhyme with each other and ask your child to name them. You can even add an odd one out for your child to identify the different sounds made by the various words.
+
+**Watch Me!** <br>
+Singing has many benefits for early literacy development. Learn how you can build upon your child’s phonological awareness and narrative skills through singing.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uv5P1qMGouQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Singing. YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
 
 
 #### For Ages 0 to 12 Months

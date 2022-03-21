@@ -119,7 +119,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/2197304" target="_blank"><img src="images/diyresources/preschool/i-can-read/bigandlittle.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/2197304" target="_blank"><img src="images/diyresources/preschool/i-can-read/littlewombat.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Once I Heard A Little Wombat</b><br>
@@ -129,7 +129,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205379296" target="_blank"><img src="/images/diyresources/preschool/i-can-read/thisisabookofshapes.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205379296" target="_blank"><img src="/images/diyresources/preschool/i-can-read/twinkletwinkle.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Eric Carle's Twinkle, Twinkle, Little Star : and other nursery rhymes : a lift-the-flap book</b><br>

@@ -149,9 +149,9 @@ Singing has many benefits for early literacy development. Learn how you can buil
  
 ####  Try this!
  
- <img src="/images/diyresources/preschool/i-can-read/talkactivity.jpg" style="width:50%">
+ <img src="/images/diyresources/preschool/i-can-read/singactivity.jpg" style="width:50%">
 
-Click [here](/files/preschool/i-can-read/talk_activity.pdf) to download a copy of the activity sheet.
+Click[here](/files/preschool/i-can-read/sing_activity.pdf) to download a copy of the activity sheet.
  
  <h3 class="margin--bottom--lg" id="lp-write">Early Literacy Practice: Write<br></h3>
  

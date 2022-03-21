@@ -206,7 +206,67 @@ Learn about the importance of writing in early literacy and the different activi
  
  <h3 class="margin--bottom--lg" id="lp-play">Early Literacy Practice: Play<br></h3>
  
-<img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/i-can-read/play.jpg" style="width:45%">
+
+**Tips For Encouraging Play (Ages 4-6)**
+* Try books with pictures of familiar characters, like animals, children or adults in familiar roles. Look for books that have action pictures - your baby is starting to be able to enjoy pictures with more details.
+* Choose books with songs and repetitive verses. Books that have a simple story line that relates to your child's own experiences will also be appealing to them.
+
+**Early Literacy Activities You Can Do With Your Child**
+* Together with your child, use playdough to make the letters of the alphabet or numbers.
+* Play games like ‘I spy’ using colours. This can be lots of fun, especially for preschoolers. For example, ‘I spy with my little eye, something that’s blue. What’s something blue I might be looking at?’.
+
+**Watch Me!**<br>
+Playing has many benefits for early literacy development. Learn how you can build upon your child's vocabulary and narrative skills through play.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOp1cW3xm1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Library Early Literacy Video Series - Playing. YouTube (2015). 
+City of Bellingham, Washington. Retrieved 2022, March 21.
+
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205435824" target="_blank"><img src="/images/diyresources/preschool/i-can-read/fingertrail123.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Fingertrail 123 </b><br>
+       <u>Illustrator:</u> Elisa Ferro <br>
+       <u>Publisher:</u> Usborne Publishing Ltd., 2021.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244261" target="_blank"><img src="/images/diyresources/preschool/i-can-read/allaboardalphabet.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>All aboard, Alphabet!</b><br>
+        <u>Author:</u>Davies Becky<br>
+        <u>Publisher:</u> London : Little Tiger Press, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204445276" target="_blank"><img src="images/diyresources/preschool/i-can-read/shapeswithlittlefish.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Shapes with Little Fish </b><br>
+       <u>Illustrator:</u> Lucy Cousins<br>
+       <u>Publisher:</u> London : Walker Books and Subsidiaries, 2020<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204484256" target="_blank"><img src="/images/diyresources/preschool/i-can-read/myfirstabc.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>My first ABC</b><br>
+ <u>Publisher:</u> Walker Books Publisher: London : Walker Entertainment, 2020<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
 
 #### For Ages 0 to 12 Months
 

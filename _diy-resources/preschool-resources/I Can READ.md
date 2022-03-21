@@ -217,7 +217,6 @@ Learn about the importance of writing in early literacy and the different activi
   </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
  
-
 #### Try this!
  
  <img src="/images/diyresources/preschool/i-can-read/writeactivity.jpg" style="width:50%">

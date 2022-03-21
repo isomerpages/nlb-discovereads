@@ -161,7 +161,7 @@ Click[here](/files/preschool/i-can-read/sing_activity.pdf) to download a copy of
  
  <h3 class="margin--bottom--lg" id="lp-write">Early Literacy Practice: Write<br></h3>
  
- <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:45%">
+ <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:40%">
  
 **Tips For Developing Writing Skills (Ages 2-4)**
 * At the pre-writing stage, children do not need to write legibly – being able to scribble or trace is a good start.

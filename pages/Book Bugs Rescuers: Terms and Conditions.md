@@ -40,7 +40,7 @@ This means that non-individual membership types, such as the following, are excl
 
 **5.  Points from Online Quizzes**
 
-(a)	There will be a monthly online quiz available on [www.go.gov.sg/bookbugs](www.go.gov.sg/bookbugs) from March 2022 to December 2022. 
+(a)	There will be a monthly online quiz available on [www.go.gov.sg/bookbugs](www.go.gov.sg/bookbugs) from March 2022 to November 2022. 
 
 (b)	Maximum monthly points each patron may earn:
 

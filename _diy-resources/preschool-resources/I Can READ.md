@@ -7,8 +7,160 @@ third_nav_title: Preschool Resources
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
 
-##### | [**New!*** For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [**New!*** For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [**New!*** For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+ | **New!*** <a href="#lp-talk">Early Literacy Practice: Talk </a> | **New!*** <a href="#lp-sing"> Early Literacy Practice: Sing</a>| [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+ 
+***(Updated 21 March 2022)***
 
+![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
+
+<h3 class="margin--bottom--lg" id="lp-talk">Early Literacy Practice: Talk<br></h3>
+
+<img src="/images/diyresources/preschool/i-can-read/talk.jpg" style="width:70%">
+
+**Tips for Talking and Communication (Ages 0 to 3)**
+* Nurture your babbling baby into a talkative toddler by talking and reading to them often.
+* Read aloud and encourage your child to read along with you. Initiate conversations about stories by asking, "What do you see on this page?"
+* Make strong connections to what your child sees in books and in their environment. Your child will be excited to point these things out!
+
+**Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/animals.jpg" style="width:80%">
+
+* Make different animal sounds with your child such as moo, baa, hiss, neigh, and meow. Take turns making an animal sound and talking about the animal that produces it.
+* Talk about emotions with your child. Ask, "How are you feeling?" and teach them some words to describe their feelings e.g. mad, sad, glad. Come up with a Feelings and Emotions chart, with images of different facial expressions next to each emotion for your child to identify.
+
+**Watch Me!**<br>
+Learn about the importance of writing in early literacy and the different activities you can do with your child to encourage their literacy development.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1HsCqWXKvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Talking YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
+
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584160" target="_blank"><img src="/images/diyresources/preschool/i-can-read/littlepanda.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Little Panda</b><br>
+       <u>Author:</u> Agnese Baruzzi<br>
+       <u>Publisher:</u> Mount Joy, PA : Happy Fox Books, an imprint of Fox Chapel Publishing, 2021<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205574223" target="_blank"><img src="/images/diyresources/preschool/i-can-read/theverygrumpyday.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>The Very Grumpy Day</b><br>
+        <u>Author:</u> Stella J. Jones<br>
+        <u>Publisher:</u> Wilton, CT : Tiger Tales, 2021.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584634" target="_blank"><img src="images/diyresources/preschool/i-can-read/bigandlittle.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Big and Little : a book of animal opposites</b><br>
+       <u>Author:</u> Harriet Evans<br>
+       <u>Publisher:</u> London : Caterpillar Books, an imprint of the Little Tiger Group, 2021.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205582531" target="_blank"><img src="/images/diyresources/preschool/i-can-read/thisisabookofshapes.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>This is A Book of Shapes</b><br>
+      <u>Author:</u> Kenneth Kraegel<br>
+ <u>Publisher:</u> Somerville, MA : Candlewick Press, 2020<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+####  Try this!
+
+<img src="/images/diyresources/preschool/i-can-read/talkactivity.jpg" style="width:45%">
+
+Click [here](/files/preschool/i-can-read/talk_activity.pdf) to download a copy of the activity sheet.
+
+ 
+ <h3 class="margin--bottom--lg" id="lp-sing">Early Literacy Practice: Sing<br></h3>
+
+<img src="/images/sing.jpg" style="width:50%">
+
+**Tips for Encouraging Singing (Ages 0 to 3)**
+* Singing helps your child learn how to hear smaller sounds in words, developing phonological awareness which will help your child learn to read. Don’t be afraid of being silly or singing off-key!
+* Read books that can be sung. These can include nursery and finger rhymes, poems, books that promote singing, or books that can be sung to a specific tune.
+
+**Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/singingrhymes.jpg" style="width:70%">
+
+* Sing nursery rhymes to your child. As you sing, touch your child’s toes, knees, shoulders, head and so on. You can also get your child to clap, dance, and sway to the rhythm of the music.
+* Gather objects or pictures that rhyme with each other and ask your child to name them. You can even add an odd one out for your child to identify the different sounds made by the various words.
+
+**Watch Me!** <br>
+Singing has many benefits for early literacy development. Learn how you can build upon your child’s phonological awareness and narrative skills through singing.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uv5P1qMGouQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Singing. YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
+
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205402444" target="_blank"><img src="/images/diyresources/preschool/i-can-read/playtimerhymes.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Playtime Rhymes</b><br>
+       <u>Illustrator:</u> Joel and Ashley Selby<br>
+       <u>Publisher:</u> London : Campbell Books, 2021.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/INCY.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>Incy Wincy Spider</b><br>
+        <u>Illustrator:</u> Yu-Hsuan Huang<br>
+        <u>Publisher:</u> London : Nosy Crow Ltd, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/2197304" target="_blank"><img src="images/diyresources/preschool/i-can-read/littlewombat.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Once I Heard A Little Wombat</b><br>
+       <u>Author:</u> Renee Treml<br>
+       <u>Publisher:</u> North Sydney : RHA eBooks Child, 2020.<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205379296" target="_blank"><img src="/images/diyresources/preschool/i-can-read/twinkletwinkle.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Eric Carle's Twinkle, Twinkle, Little Star : and other nursery rhymes : a lift-the-flap book</b><br>
+      <u>Author & Illustrator:</u> Eric Carle<br>
+ <u>Publisher:</u> New York : World of Eric Carle, an imprint of Penguin Random House LLC, 2021<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+####  Try this!
+ 
+ <img src="/images/diyresources/preschool/i-can-read/singactivity.jpg" style="width:45%">
+
+Click[here](/files/preschool/i-can-read/sing_activity.pdf) to download a copy of the activity sheet.
+ 
 #### For Ages 0 to 12 Months
 
 <img src="/images/diyresources/preschool/i-can-read/0to12banner.jpg" style="width:80%">

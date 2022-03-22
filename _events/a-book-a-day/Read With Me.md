@@ -4,7 +4,6 @@ permalink: /events/a-book-a-day/read-with-me
 description: ""
 third_nav_title: A Book A Day
 ---
-
 ![Read With Me - Main Banner](/images/events/abookaday/READ%20WITH%20ME%20WebBanner%20Public_Orange%20Hi.jpg)
 
 ### What is ‘Read With Me’?
@@ -13,6 +12,7 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 <img src="/images/events/abookaday/RWM%20Prizes%20Public.jpg" style="width: 50%"><br>
 
 <img src="/images/events/abookaday/prizes.png" style="width: 100%">
+
 
 ### How to Participate?
 

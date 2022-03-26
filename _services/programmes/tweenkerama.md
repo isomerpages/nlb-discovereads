@@ -51,8 +51,8 @@ Each issue of Tweenkerama Lab Mag is packed with information about STEAM topics 
 Grab a copy of Issue #4 at the public libraries or download it [here](https://go.gov.sg/nlb-tweenkerama-issue-04)!
 Answer key for Issue #4 is available [here](/files/Tweenkerama_Issue04_Answer-Key.pdf)!
 
-Missed out on Issue #3? Download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
-Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf).
+_Missed out on Issue #3? Download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
+Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf)._
 
 _Missed out on Issue #2? Download it [here](/images/unsorted/tweenkerama/Tweenkeramabooklet_Issue02_FA.pdf)!_
 

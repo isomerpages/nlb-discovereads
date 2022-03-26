@@ -12,17 +12,9 @@ third_nav_title: Programmes
 Look out for Tweenkerama workshops this school holidays! Tweens get to explore and learn through a series of workshops related to S.T.E.A.M. subjects such as art, robotics etc.
 
 Do visit [go.gov.sg/tweenkerama-pl](https://go.gov.sg/tweenkerama-pl) to keep an eye on workshop registrations! 
-Here are some upcoming workshops in the March holidays.
+Stay tuned for upcoming workshops in the June holidays.
 
-- 12 March 2022, 2pm-4pm, Pixel Jam at Bishan Public Library
-- 14 March 2022, 2pm-4pm, Pixel Jam at library@harbourfront
-- 15 March 2022, 2pm-4pm, Sphero Party at Bedok Public Library
-- 15 March 2022, 2pm-4pm, The Great Marble Run at Jurong Regional Library
-- 16 March 2022, 2pm-4pm, The Great Marble Run at Toa Payoh Public Library
-- 16 March 2022, 2pm-4pm, Sphero Party at Choa Chu Kang Public Library
-- 18 March 2022, 2pm-4pm, Sphero Party at Pasir Ris Public Library
-- 18 March 2022, 2pm-4pm, Pixel Jam at Woodlands Regional Library
-- 20 March 2022, 2pm-4pm, The Great Marble Run at Sengkang Public Library
+
 
 
 <img src="images/unsorted/tweenkerama/Banner_Pop-up_Tinkering.png" alt="Tweenkerama Pop-up TInkering" style="width: 100%;">
@@ -56,8 +48,10 @@ The only magazine you need for cool, creative and out-of-this world ideas and ea
 
 Each issue of Tweenkerama Lab Mag is packed with information about STEAM topics and activities for you to complete.
 
+Grab a copy of Issue #4 at the public libraries or download it here!
+Answer key for Issue #4 is available here!
 
-Grab a copy of Issue #3 at the public libraries or download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
+Missed out on Issue #3? Download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
 Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf).
 
 _Missed out on Issue #2? Download it [here](/images/unsorted/tweenkerama/Tweenkeramabooklet_Issue02_FA.pdf)!_

@@ -38,4 +38,5 @@ A participant will be allocated one lucky draw chance for each Instagram post th
 
 NLB’s decision on the allocation of lucky draw chances is final and NLB shall not be obliged to entertain any queries on the allocation of lucky draw chances
 
-Only a summary of the rules is set out here. For the full set of rules, please click **[here](/files/preschool/Read%20with%20Me/READ%20WITH%20ME_A%20BOOK%20%20A%20DAY%20READING%20CAMPAIGN_TCS.PDF)**. By participating in the Campaign, participants agree to all the rules set out.
+Only a summary of the rules is set out here. For the full set of rules, please click **[here](/files/preschool/Read%20with%20Me/READ%20WITH%20ME_A%20BOOK%20A%20DAY%20READING%20CAMPAIGN_TCS_v2.pdf)**. By participating in the Campaign, participants agree to all the rules set out.
+

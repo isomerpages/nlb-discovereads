@@ -9,7 +9,7 @@ description: ""
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
-
+ 
 <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm1.png" style="width:400px; text-align:left;">
 
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. <br><br>But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
@@ -104,22 +104,19 @@ description: ""
  <h5>Strawberry-Mint Lemonade</h5>
  <p>
 One of the most common plants you can try growing at home is mint. You can use the leaves to make the cooling drink with your family!</p>
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:450px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:450px; text-align:left;">
+    </div>
+  </div>
+ </div>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:400px; text-align:left;">
-
- <p><b>What you'll need: </b></p>
-<ul>
-  <li>3 Cups Water</li>
-  <li>1/2 cup Sugar</li>
-  <li>3 Cups Sliced Fresh Strawberries</li>
-  <li>1 1/2 Cups Chopped Fresh Mint Leaves</li>
-	<li>3 Cups Cold Water</li>
-	<li>8 - 9 Lemons (1/2 teaspoon Zest, 1 1/2 - 1 3/4 cups Juice)</li>
-	<li>Lemon Slices</li>
-	<li>Ice Cubes</li>
-</ul>
-
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:400px; text-align:left;">
 
  <p><b>Method:</b></p>
 <ul>
@@ -131,7 +128,6 @@ One of the most common plants you can try growing at home is mint. You can use t
 		<li>Add Lemon Slices along with additional Strawberry Slices and Mint Leaves.</li>
 		<li>Chill up to 4 hours before serving.</li>
 </ul>
-
 
  
 <h4>LET'S READ!</h4>

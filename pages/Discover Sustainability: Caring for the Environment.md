@@ -104,10 +104,19 @@ description: ""
  <h5>Strawberry-Mint Lemonade</h5>
  <p>
 One of the most common plants you can try growing at home is mint. You can use the leaves to make the cooling drink with your family!</p>
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:450px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:450px; text-align:left;">
+    </div>
+  </div>
+ </div>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:400px; text-align:left;">
-
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:400px; text-align:left;">
 
  <p><b>Method:</b></p>
 <ul>
@@ -119,7 +128,6 @@ One of the most common plants you can try growing at home is mint. You can use t
 		<li>Add Lemon Slices along with additional Strawberry Slices and Mint Leaves.</li>
 		<li>Chill up to 4 hours before serving.</li>
 </ul>
-
 
  
 <h4>LET'S READ!</h4>

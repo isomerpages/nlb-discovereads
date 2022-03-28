@@ -6,6 +6,8 @@ third_nav_title: A Book A Day
 ---
 ![Read With Me - Main Banner](/images/events/abookaday/READ%20WITH%20ME%20WebBanner%20Public_Orange%20Hi.jpg)
 
+*(updated on 28 March 2022)*
+
 ### What is ‘Read With Me’?
 Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to children aged 6 years and below from April 2022 – June 2022. Participate in this reading campaign and stand to win prizes!
 
@@ -28,7 +30,6 @@ The Instagram post must meet all the following criteria to be considered valid a
 * The post must include at least one photo or video of parent/adult reading to at least one child.
 * Photo or video of each post can be taken from the back or at an angle where participants are not identified.
 * The post must be made public and tagged with #nlbabookaday 
-* The caption of the post must include ‘A Book A Day’.
 * @publiclibrarysg Instagram account must be tagged in the post
 
 Lucky draw chances are allocated based on the number of eligible Instagram posts each participant posted during the Campaign period. 

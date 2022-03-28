@@ -5,6 +5,8 @@ description: ""
 ---
 <img src="/images/events/abookaday/Blue%20Web%20Banner.jpg" style="width:100%">
 
+*(updated on 28 March 2022)*
+
 #### What is 'Read With Me'?
 Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to children aged 6 years and below from April 2022 – June 2022. Participate in this reading campaign and stand to win prizes!
 
@@ -24,7 +26,6 @@ You may also click on the image to register.
 * Photo or video of each post can be taken from the back or at an angle where participants are not identified.
 * It is compulsory for educators to don the apron in the photo or video.
 * The post must be made public and tagged #nlbabookaday and the assigned unique hashtag.
-* The caption of the post must include 'A Book A Day'.
 * Photo or video of each post can be from a single or multiple storytelling session.
 
 Each post that meets the abovementioned criteria will be tallied as one valid post, regardless of the number of photos or videos in the post. Duplicate posts will not be included in the tally. NLB reserves the right to select the winners and any decision made is final.

@@ -77,7 +77,7 @@ When birdwatching,</p>
 
 
  <h5>Did You Know?</h5>
- <p>You can join the  <a href="https://go.gov.sg/sci-world-map" target="_blank">Garden Bird Watch</a>, a biannual event organised by NParks. </p>
+ <p>You can join the  <a href="http://www.nparks.gov.sg/birdwatch" target="_blank">Garden Bird Watch</a>, a biannual event organised by NParks. </p>
  
  
 <h4>LET'S CRAFT!</h4>

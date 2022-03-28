@@ -107,18 +107,6 @@ One of the most common plants you can try growing at home is mint. You can use t
 
  <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:400px; text-align:left;">
 
- <p><b>What you'll need: </b></p>
-<ul>
-  <li>3 Cups Water</li>
-  <li>1/2 cup Sugar</li>
-  <li>3 Cups Sliced Fresh Strawberries</li>
-  <li>1 1/2 Cups Chopped Fresh Mint Leaves</li>
-	<li>3 Cups Cold Water</li>
-	<li>8 - 9 Lemons (1/2 teaspoon Zest, 1 1/2 - 1 3/4 cups Juice)</li>
-	<li>Lemon Slices</li>
-	<li>Ice Cubes</li>
-</ul>
-
 <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:400px; text-align:left;">
 
  <p><b>Method:</b></p>

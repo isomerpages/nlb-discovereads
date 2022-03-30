@@ -42,7 +42,7 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 
 <img src="/images/ST_FB-Schedule-MAR2022.png" alt="Storytime Schedule" class="center" style="width: 70%;">
 
-Storytelling Videos (Updated on 4 Dec 2021)
+Storytelling Videos (Updated on 29 March 2021)
 
 | [English](/diy-resources/storytime/storytime-archives-english) | [Chinese](/diy-resources/storytime/storytime-archives-chinese) | [Malay](/diy-resources/storytime/storytime-archives-malay) | [Tamil](/diy-resources/storytime/storytime-archives-tamil) |
 

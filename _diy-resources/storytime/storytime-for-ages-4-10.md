@@ -40,9 +40,9 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 * [Storytime (Tamil) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTPLk3tIcit65cvabHlQbA5W)
 * [Tamil Library Services (தமிழ் நூலகச் சேவைகள்)](https://www.facebook.com/groups/598526033854488/?fref=mentions&amp;__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&amp;__tn__=K-R)
 
-<img src="/images/diyresources/storytime_schedule.png" alt="Storytime Schedule" class="center" style="width: 70%;">
+<img src="/images/ST_FB-Schedule-MAR2022.png" alt="Storytime Schedule" class="center" style="width: 70%;">
 
-Storytelling Videos (Updated on 4 Dec 2021)
+Storytelling Videos (Updated on 29 March 2021)
 
 | [English](/diy-resources/storytime/storytime-archives-english) | [Chinese](/diy-resources/storytime/storytime-archives-chinese) | [Malay](/diy-resources/storytime/storytime-archives-malay) | [Tamil](/diy-resources/storytime/storytime-archives-tamil) |
 

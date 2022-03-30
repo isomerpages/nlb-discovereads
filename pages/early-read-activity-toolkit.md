@@ -2,17 +2,11 @@
 title: Early Read Activity Toolkit
 permalink: /activity-toolkit/permalink
 ---
-![Alt text for image on Isomer site](/images/activity-toolkit-thumbnails/Activity%20Toolkit%20Thumbnail.png)
+![](/images/activity-toolkit-thumbnails/Activity%20Toolkit%20Thumbnail.png)
 
 ## About the Activity Toolkit
 
 The Activity Toolkit is a resource kit for preschool educators developed by the National Library Board. It includes a selection of books and activities chosen to help children develop pre-reading skills and an enjoyment of books and reading. 
-
-The Activity Toolkit is designed to complement preschool curriculum. Preschool educators have the flexibility to share these books at any point during their centres’ curriculum as there is no fixed format in the use of these materials.
-
-The Activity Toolkit consists of theme-based lesson plans. Six of these themes are based on the pre-reading skills from Every Child Ready to Read Kit, developed by the American Public Library Association and Association for Library Service to Children. Other themes include Children’s Classics, Singapore Stories, Values & Character Building, Growing Up, Information Books and Storytelling. 
-
-Teachers can use these stories to teach universal values, highlight social and emotional developmental milestones, and inculcate a sense of belonging.
 
 The Activity Toolkit comes with the following materials:
 1.	Selected English and MTL books
@@ -20,51 +14,63 @@ The Activity Toolkit comes with the following materials:
 3.	Activity Booklets to supplement learning
 
 We have created this repository of our current and past Activity Toolkits. Preschool educators can download these resources for use at their centres.  The recommended activities are curated based on the  [Early Literacy Practices](https://childrenandteens.nlb.gov.sg/diy-resources/preschool/preschool-main):
-* [Play](https://childrenandteens.nlb.gov.sg/earlylit-play)
-* [Write](https://childrenandteens.nlb.gov.sg/earlylit-write)
-* [Talk](https://childrenandteens.nlb.gov.sg/earlylit-talk)
-* [Sing](https://childrenandteens.nlb.gov.sg/earlylit-sing)
-* [Read](https://childrenandteens.nlb.gov.sg/earlylit-read)
+
+[Play](https://childrenandteens.nlb.gov.sg/earlylit-play)
+[Write](https://childrenandteens.nlb.gov.sg/earlylit-write)
+[Talk](https://childrenandteens.nlb.gov.sg/earlylit-talk)
+[Sing](https://childrenandteens.nlb.gov.sg/earlylit-sing)
+[Read](https://childrenandteens.nlb.gov.sg/earlylit-read)
 
 As this is an **unlisted** page specifically for you, please do not **share the link outside of your organization** and **move or delete the files in the Google Drive folders**. 
 
 ##    Activity Toolkit 2022
 
-### English Inserts 
+### English Lesson Plans 
 
 ![](/images/activity-toolkit-thumbnails/English%20DN.png)
-[English Day and Night Insert Page 1](/files/Activitytoolkit/DN%20Page%201.pdf)
-[English Day and Night Insert Page 2](/files/Activitytoolkit/DN%20Page%202.pdf)
-[English Day and Night Insert Page 3](/files/Activitytoolkit/DN%20Page%203.pdf)
-[English Day and Night Page 4](/files/Activitytoolkit/DN%20Page%204.pdf)
-[English Insert Day and Night Page 5](/files/Activitytoolkit/DN%20Page%205.pdf)
-[English Insert Day and Night Page 6](/files/Activitytoolkit/DN%20Page%206.pdf)
+[English Day and Night Page 1](https://go.gov.sg/englishdayandnightpage1)
+[English Day and Night Page 2](https://go.gov.sg/englishdayandnightpage2)
+[English Day and Night Page 3](https://go.gov.sg/englishdayandnightpage3)
+[English Day and Night Page 4](https://go.gov.sg/englishdayandnightpage4)
+[English Day and Night Page 5](https://go.gov.sg/englishdayandnightpage5)
+[English Day and Night Page 6](https://go.gov.sg/englishdayandnightpage6)
+
 
 ![](/images/activity-toolkit-thumbnails/English%20Transportation.png)
-[English Insert Transportation Page 1](/files/Activitytoolkit/Trp%20Page%201.pdf)
-[English Insert Transportation Page 2](/files/Activitytoolkit/Trp%20Page%202.pdf)
-[English Insert Transportation Page 3](/files/Activitytoolkit/Trp%20Page%203.pdf)
-[English Insert Transportation Page 4](/files/Activitytoolkit/Trp%20Page%204.pdf)
-[English Insert Transportation Page 5](/files/Activitytoolkit/Trp%20Page%205.pdf)
-[English Insert Transportation Page 6](/files/Activitytoolkit/Trp%20Page%206.pdf)
+[English Transportation Page 1](https://go.gov.sg/englishtransportationpage1)
+[English Transportation Page 2](https://go.gov.sg/englishtransportationpage2)
+[English Transportation Page 3](https://go.gov.sg/englishtransportationpage3)
+[English Transportation Page 4](https://go.gov.sg/englishtransportationpage4)
+[English Transportation Page 5](https://go.gov.sg/englishtransportationpage5)
+[English Transportation Page 6](https://go.gov.sg/englishtransportationpage6)
 
-### Chinese Inserts
+### Chinese Lesson Plans
 
 ![](/images/activity-toolkit-thumbnails/Chinese%20Transportation.png)
-[Chinese Insert Transportation Page 1](/files/Activitytoolkit/CHI%20Pg%201.pdf)
-[Chinese Insert Transportation Page 2](/files/Activitytoolkit/CHI%20Pg%202.pdf)
-[Chinese Insert Transportation Page 3](/files/Activitytoolkit/CHI%20Pg%203.pdf)
-[Chinese Insert Transportation Page 4](/files/Activitytoolkit/CHI%20Pg%204.pdf)
-[Chinese Insert Transportation Page 5](/files/Activitytoolkit/CHI%20Pg%205.pdf)
-[Chinese Insert Transportation Page 6](/files/Activitytoolkit/CHI%20Pg%206.pdf)
+[Chinese Transportation Page 1](https://go.gov.sg/chinesetransportationpage1)
+[Chinese Transportation Page 2](https://go.gov.sg/chinesetransportationpage2)
+[Chinese Transportation Page 3](https://go.gov.sg/chinesetransportationpage3)
+[Chinese Transportation Page 4](https://go.gov.sg/chinesetransportationpage4)
+[Chinese Transportation Page 5](https://go.gov.sg/chinesetransportationpage5)
+[Chinese Transportation Page 6](https://go.gov.sg/chinesetransportationpage6)
 
-### Malay Inserts
+### Malay Lesson Plans
 ![](/images/activity-toolkit-thumbnails/Malay%20Vroom%20Vroom%20Zoom%20Zoom.png)
-[Malay Insert Vroom Vroom! Zoom Zoom!](https://drive.google.com/drive/folders/1TNETmaobJCuB8tmdGY4y1Xj5CFp48c80?usp=sharing)
+[Malay Transportation Page 1](https://go.gov.sg/malaytransportationpage1)
+[Malay Transportation Page 2](https://go.gov.sg/malaytransportationpage2)
+[Malay Transportation Page 3](https://go.gov.sg/malaytransportationpage3)
+[Malay Transportation Page 4](https://go.gov.sg/malaytransportationpage4)
+[Malay Transportation Page 5](https://go.gov.sg/malaytransportationpage5)
+[Malay Transportation Page 6](https://go.gov.sg/malaytransportationpage6)
 
-### Tamil Inserts
+### Tamil Lesson Plans
 ![](/images/activity-toolkit-thumbnails/Tamil%20Blast%20Off.png)
-[Tamil Insert 3, 2, 1, Blast Off!](https://drive.google.com/drive/folders/1T0wH9liX7QFv5oRdu0d2Qv0WwQpCArNS?usp=sharing)
+[Tamil Outer Space Page 1](https://go.gov.sg/tamilouterspacepage1)
+[Tamil Outer Space Page 2](https://go.gov.sg/tamilouterspacepage2)
+[Tamil Outer Space Page 3](https://go.gov.sg/tamilouterspacepage3)
+[Tamil Outer Space Page 4](https://go.gov.sg/tamilouterspacepage4)
+[Tamil Outer Space Page 5](https://go.gov.sg/tamilouterspacepage5)
+[Tamil Outer Space Page 6](https://go.gov.sg/tamilouterspacepage6)
 
 
 ## Archived Activity Toolkits
@@ -90,6 +96,12 @@ As a way to ease our educators into using the Activity Toolkit, NLB's Early Read
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UN_8Lc_w5fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Activity Toolkit is designed to complement preschool curriculum. Preschool educators have the flexibility to share these books at any point during their centres’ curriculum as there is no fixed format in the use of these materials.
+
+The Activity Toolkit consists of theme-based lesson plans. Six of these themes are based on the pre-reading skills from Every Child Ready to Read Kit, developed by the American Public Library Association and Association for Library Service to Children. Other themes include Children’s Classics, Singapore Stories, Values & Character Building, Growing Up, Information Books and Storytelling. 
+
+Teachers can use these stories to teach universal values, highlight social and emotional developmental milestones, and inculcate a sense of belonging.
 
 
 ## Contact Us

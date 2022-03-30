@@ -25,7 +25,7 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 
 ##    Activity Toolkit 2022
 
-### English Inserts 
+### English Lesson Plans 
 
 ![](/images/activity-toolkit-thumbnails/English%20DN.png)
 [English Day and Night Page 1](https://go.gov.sg/englishdayandnightpage1)
@@ -44,7 +44,7 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 [English Transportation Page 5](https://go.gov.sg/englishtransportationpage5)
 [English Transportation Page 6](https://go.gov.sg/englishtransportationpage6)
 
-### Chinese Inserts
+### Chinese Lesson Plans
 
 ![](/images/activity-toolkit-thumbnails/Chinese%20Transportation.png)
 [Chinese Transportation Page 1](https://go.gov.sg/chinesetransportationpage1)
@@ -54,7 +54,7 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 [Chinese Transportation Page 5](https://go.gov.sg/chinesetransportationpage5)
 [Chinese Transportation Page 6](https://go.gov.sg/chinesetransportationpage6)
 
-### Malay Inserts
+### Malay Lesson Plans
 ![](/images/activity-toolkit-thumbnails/Malay%20Vroom%20Vroom%20Zoom%20Zoom.png)
 [Malay Transportation Page 1](https://go.gov.sg/malaytransportationpage1)
 [Malay Transportation Page 2](https://go.gov.sg/malaytransportationpage2)
@@ -63,7 +63,7 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 [Malay Transportation Page 5](https://go.gov.sg/malaytransportationpage5)
 [Malay Transportation Page 6](https://go.gov.sg/malaytransportationpage6)
 
-### Tamil Inserts
+### Tamil Lesson Plans
 ![](/images/activity-toolkit-thumbnails/Tamil%20Blast%20Off.png)
 [Tamil Outer Space Page 1](https://go.gov.sg/tamilouterspacepage1)
 [Tamil Outer Space Page 2](https://go.gov.sg/tamilouterspacepage2)

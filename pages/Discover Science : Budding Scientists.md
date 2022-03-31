@@ -153,7 +153,20 @@ Publisher: [Vero Beach, FL] : Rourke Educational Media, Carson Dellosa Education
 Author: Samantha Bell<br>
 Ann Arbor, MI : Cherry Lake Publishing, [2018]</p>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313041573/232377670,6" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:250px; text-align:left;"></a><br>
-<a href="https://nlb.overdrive.com/media/3351083 " target="_blank"><strong><font>Available on NLB Overdrive</font></strong></br>
+
+<p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg"></p>
+
+<h4>Let’s Try Out This Experiment!</h4>
+<p>Can’t get enough? Don’t put aside your everyday household items away, check out these other related exciting science experiments that you can do, and all thanks to science!<br> Have fun!</p>
+
+
+<p><strong>Experiment #1: Citrus Juice and Baking Soda Experiment</strong><br>
+<a href="https://go.gov.sg/citrusexperiment"> https://go.gov.sg/citrusexperiment</a></p>
+
+<p><strong>Experiment #2: Volcano Blast</strong><br>
+	<a href="https://go.gov.sg/volcanoblast"> https://go.gov.sg/volcanoblast</a></p>
+
+
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

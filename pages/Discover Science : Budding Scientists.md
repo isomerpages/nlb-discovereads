@@ -122,7 +122,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
 <p>What else can you fill up with a gas?</p>
 <p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
-<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/.</a>.</font></p>
+<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/.</a>.</p>
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Read.jpg" style="width:400px; text-align:left;"><br>
 

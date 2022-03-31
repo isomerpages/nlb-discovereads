@@ -12,7 +12,7 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator.</b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:500px; text-align:center;">
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg" style="width:400px; text-align:left;">

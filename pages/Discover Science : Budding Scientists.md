@@ -29,23 +29,25 @@ description: ""
 <p>Can you believe that you can blow up a balloon without actually blowing your own air into it? Follow along with this super neat experiment and find out how!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a target="_blank" href="https://www.youtube.com/watch?v=hXtrIy95V80">
-       <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine9.png"></a>
+    <div class="image"><a target="_blank" href="https://youtu.be/5eFIaNP8lKE">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/balloonexperiment.jpeg"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Under the Sea: Ocean Animal Moves (3min 07 secs) </b><br>
- Watch how different marine animals swim, jump and scurry. Can you move like them?
+     <p><b> Blow Up a Balloon with Science (4min 24 secs) </b><br>
+Let's blow up a balloon with Science in this fun experiment!
  </p>
    </div>
  </div>
+
+![](/images/science-lfa/Balloon%20inflater/balloonblowup.jpeg)
 
 <h4>Blow Up A Balloon With No Hands Experiment</h4>
 <p>Learn how you can blow up a balloon with a simple science experiment.!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a target="_blank" href="https://www.youtube.com/watch?v=hXtrIy95V80">
-       <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine9.png"></a>
+    <div class="image"><a target="_blank" href="https://youtu.be/5eFIaNP8lKE">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/balloonblowup.jpeg"></a>
      </div>
    </div>
  <div class="col is-three-fifths">

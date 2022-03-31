@@ -136,6 +136,10 @@ Publisher: North Mankato, Minnesato: Capstone Editions, a Capstone [2020]</p><br
 Author: Ariel Bernstein<br>
 Publisher: Simon & Schuster/Paula Wiseman Books; Illustrated edition [2019]</p><br>
 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312162252/226563257,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:250px; text-align:left;"></a><br>
+<p><strong>Inflating a Balloon,</strong><br>
+Author: Brooke Rowe<br>
+Publisher: Ann Arbor, Michigan : Cherry Lake Publishing [2018]</p><br>
 
 
 

@@ -171,6 +171,28 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  </p></div>
    </div>
   </div>
+	 <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313059356/232377670,62" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>States of Matter</b><br>
+       <u>Author:</u> Samantha Bell and Jeff Bane (Illustrator)<br>
+       <u>Publisher:</u> Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313060561/180170084,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Matter</b><br>
+      <u>Author:</u> Abbie Dunne<br>
+ <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
+ </p></div>
+   </div>
+  </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p><br>

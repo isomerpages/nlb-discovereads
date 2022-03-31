@@ -124,7 +124,54 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
 <p>What else can you fill up with a gas?</p>
 <p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
-<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a>.</p>
+<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a></p>
+
+<h4>Find out more about fun and cool science experiments at the libraries!</h4><br>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313053494/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Bears Make the Best Science Buddies</b><br>
+       <u>Author:</u> Carmen Oliver and Jean Claude (Illustrator)<br>
+       <u>Publisher:</u> North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>Where is My Balloon?</b><br>
+        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
+        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313057953/226563257,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Inflating a Balloon</b><br>
+       <u>Author:</u> Brooke Rowe and Jeff Bane (Illustrator)<br>
+       <u>Publisher:</u> Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313058579/331326248,3" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Where is the Gas?</b><br>
+      <u>Author:</u> Marla Conn<br>
+ <u>Publisher:</u> Vero Beach, FL] : Rourke Educational Media, a division of Carson Dellosa Education, [2021]<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p><br>
 

@@ -91,6 +91,12 @@ description: ""
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Investigate.jpg" style="width:400px; text-align:left;"><br>
 
+<h4> How This Works? The Science Behind It:</h4>
+<p>Making carbon dioxide gas (CO₂) from vinegar and baking soda:
+This experiment explores how a gas takes the shape of the container it fills, in this case, a balloon. 
+If you mix vinegar and baking soda, a chemical reaction will occur, where lots of bubbles of carbon dioxide gas form.</p>
+<p>The chemical reaction of sodium bicarbonate (baking soda) and ethanoic acid (vinegar) produces carbon dioxide gas. The carbon dioxide gas can originally be seen as bubbles in the solution, but will quickly be released from the solution. The carbon dioxide gas will flow within the spaces in the bottle, and move into the deflated balloon, filling the balloon and thus inflating it.</p>
+<p>You can do this reaction at home but make sure you don’t get any of the chemicals in your eyes. Ethanoic acid is the chemical name for vinegar. Sodium bicarbonate is also known as baking soda.</p>
 
 
 

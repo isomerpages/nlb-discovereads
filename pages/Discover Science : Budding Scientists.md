@@ -161,7 +161,7 @@ North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
        <p><b>Inflating a Balloon</b><br>
        <u>Author:</u> Brooke Rowe and Jeff Bane (Illustrator)<br>
        <u>Publisher:</u> 
-Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br></u> 
+Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br> 
 <br>
     </p></div>
          </div>
@@ -188,7 +188,7 @@ Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
  <u><a href="https://nlb.overdrive.com/media/3351083" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u> 
 <br>
     </p></div>
-         </div>
+	 </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
         <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313060561/180170084,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:140px; text-align:left;"></a>

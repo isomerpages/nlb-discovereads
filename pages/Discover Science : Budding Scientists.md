@@ -156,7 +156,7 @@ Ann Arbor, MI : Cherry Lake Publishing, [2018]</p>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313041573/232377670,6" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:250px; text-align:left;"></a><br>
 <a href="https://nlb.overdrive.com/media/3351083" target="_blank"><strong>Available at NLB Overdrive</strong></a><br>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg"style="width:400px; text-align:left;"></p>
 
 <h4>Let’s Try Out This Experiment!</h4>
 <p>Can’t get enough? Don’t put aside your everyday household items away, check out these other related exciting science experiments that you can do, and all thanks to science!<br> Have fun!</p>

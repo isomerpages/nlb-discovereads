@@ -9,28 +9,28 @@ description: ""
  
 | <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> |<strong>**New!***</strong> <a href="#lp-Let’s Learn Chemical Reaction"> Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator </a>
 
-<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reaction: Up Up And Away With Fizzy Inflator.</b></h3>
+<h3 id="lp-time" class="margin--bottom--lg"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reaction: Up Up And Away With Fizzy Inflator.</b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:400px; text-align:center;">
+<img style="width:400px; text-align:center;" src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg">
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg">
 <h4>Let’s Learn about Chemical Reactions</h4>
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
 <p>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a>.</p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Science%20Terms.jpg" style="width:400px; text-align:left;"><br>
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Science%20Terms.jpg"><br>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;"><br>
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg"><br>
 
 <p>Watch this video to find out how a balloon can be inflated through this simple experiment.</p>
 <h4>Blow Up A Balloon With Science</h4>
 <p>Can you believe that you can blow up a balloon without actually blowing your own air into it? Follow along with this super neat experiment and find out how!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
-       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
+    <div class="image"><a target="_blank" href="https://www.youtube.com/watch?v=hXtrIy95V80">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine9.png"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -44,8 +44,8 @@ description: ""
 <p>Learn how you can blow up a balloon with a simple science experiment.!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
-       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
+    <div class="image"><a target="_blank" href="https://www.youtube.com/watch?v=hXtrIy95V80">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine9.png"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -55,22 +55,37 @@ description: ""
    </div>
  </div>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Experiment.jpg" style="width:400px; text-align:left;"><br>
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Lets%20Experiment.jpg"><br>
 
 <p>Have you been to a party with balloons? Can you blow a balloon without using your mouth or an air pump? Sure you can!</p>
 <p> In this simple science experiment, you will discover how you can inflate a balloon without blowing it using only a few everyday household items that you probably already have at home. You just need a chemical reaction to produce carbon dioxide gas and get ready to watch fizzy reaction!</p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:400px; text-align:left;"><br>
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Materials.jpg"><br>
 
 <h4>Create A Hypothesis:</h4>
 <p> Ask your child to predict what will happen when you combine baking soda and vinegar in a bottle. Ask your child to predict what will happen if you combine the same ingredients, but cover the top of the bottle with a balloon.</p>
 
+<h4>Instructions: </h4>
+<p>1. Using the funnel, add 1-2 teaspoon of baking soda into the balloon.</p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg"></p>
+
+<p>2. Pour the vinegar into the bottle until it is half-filled.</p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%202.jpg"></p>
+
+<p>3. Carefully fit the balloon lip over the bottle’s nozzle, while holding onto the balloon (be careful not to drop the baking soda into the vinegar yet).</p>
+<p>4. Once the balloon is fitted snugly on the nozzle, and you are ready, hold up the balloon and allow the baking soda to fall into the vinegar.</p>
+
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg"></p>
+
+<p>5. Observe the chemical reaction and effect on the balloon.</p>
+
+<p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
 
 
 
-<h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
+<h3 id="lp-apple" class="margin--bottom--lg"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 
-<img src="/images/science-lfa/Apples/Why%20do%20apple%20turn%20brown.jpg" style="width:500px; text-align:left;">
+<img style="width:500px; text-align:left;" src="/images/science-lfa/Apples/Why%20do%20apple%20turn%20brown.jpg">
 
 <p> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>
 
@@ -78,11 +93,11 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Apples/Oxidation.png" style="width:400px; text-align:left;">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/Apples/Oxidation.png">
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
+     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a target="_blank" href="https://kids.kiddle.co/Oxidation"> https://kids.kiddle.co/Oxidation</a>)</i></p>
 	</div>
 	</div>
 
@@ -90,7 +105,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <a href="https://youtu.be/q5vvsgz6n-s" target="_blank"><img src="/images/science-lfa/Apples/gsc.jpeg" style="width:500px; text-align:left;"></a>
+       <a target="_blank" href="https://youtu.be/q5vvsgz6n-s"><img style="width:500px; text-align:left;" src="/images/science-lfa/Apples/gsc.jpeg"></a>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -102,7 +117,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <a href="https://youtu.be/AOVD7WgFP2s" target="_blank"><img src="/images/science-lfa/Apples/invisible.jpeg" style="width:500px; text-align:left;"></a>
+       <a target="_blank" href="https://youtu.be/AOVD7WgFP2s"><img style="width:500px; text-align:left;" src="/images/science-lfa/Apples/invisible.jpeg"></a>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -116,11 +131,11 @@ description: ""
 <p>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br></p>
 
 <p><b>Materials required:</b></p>
- <img src="/images/science-lfa/Apples/Materials.jpg" style="width:800px; text-align:left;"><br>
+ <img style="width:800px; text-align:left;" src="/images/science-lfa/Apples/Materials.jpg"><br>
 
-<p>Print out the <a href="/files/science-lfa/Apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.<p>
+<p>Print out the <a target="_blank" href="/files/science-lfa/Apples/apple-changes-page.pdf">Observation Table</a> to go through and record the observations with your child.</p><p>
 
-<p><b> Steps</b></p>
+</p><p><b> Steps</b></p>
 <p>1. Label the cups/bowls and plate.</p>
 <ul>
 	<li>Control</li>
@@ -129,13 +144,13 @@ description: ""
 	<li>Vinegar</li>
 	<li>Salt water</li>
 </ul>
-<img src="/images/science-lfa/Apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
+<img style="width:800px; text-align:left;" src="/images/science-lfa/Apples/label the cups.jpg"><br>
 	<p>2. Cut the apple into 5 wedges</p>
  <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
-<img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
+<img style="width:800px; text-align:left;" src="/images/science-lfa/Apples/Step 3.jpg"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
-<img src="/images/science-lfa/Apples/Step 4.jpg" style="width:400px; text-align:left;"><br>
- <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Apples/Step 4.jpg"><br>
+ <p>5. Observe what happens and allow your child to record their observations by colouring the <a target="_blank" href="https://go.gov.sg/apple-changes-page">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
 	
 <h4>Tips for Parents:</h4>
 	
@@ -147,13 +162,13 @@ description: ""
 	<li>Go ahead and eat the apple slices! Do the apple slices taste different? Compare the taste of the apple slice coated in lemon juice with the plain apple slice? Which one tastes better</li>
 	<li>Do you think the lemon juice slowed or quickened the browning process?</li>
 </ul>
-<p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.<p>
+<p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.</p><p>
 	
-<h4>LET'S READ!</h4><br>
+</p><h4>LET'S READ!</h4><br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205321119"><img style="width:150px; text-align:left;" src="/images/science-lfa/Apples/Libby loves science.jpg"></a>
      </div>
     <div class="text">
        <p><b> Libby Loves Science: Mix and Measure</b><br>
@@ -163,7 +178,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202923689"><img style="width:150px; text-align:left;" src="/images/science-lfa/Apples/look im a scientist.jpg"></a>
     </div>
     <div class="text">
 			<p><b> Look: I'm a Scientist</b><br>
@@ -175,17 +190,17 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202996664"><img style="width:150px; text-align:left;" src="images/science-lfa/Apples/Why is it rusty.jpg"></a>
      </div>
     <div class="text">
        <p><b> Why is it Rusty?</b><br>
        <u>Author:</u> Joo-yeong Muhn &amp; Hye-won Kim (Illustrator)<br>
-       <u>Publisher:</u> Big & Small, 2017.<br>
+       <u>Publisher:</u> Big &amp; Small, 2017.<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202641453"><img style="width:150px; text-align:left;" src="/images/science-lfa/Apples/Ada Twist.jpg"></a>
     </div> 
    <div class="text">
  <p><b>Ada Twist, Scientist</b><br>
@@ -204,10 +219,10 @@ description: ""
 	
 	
 	 
-<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
+<h3 id="lp-time" class="margin--bottom--lg"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/science-lfa/applied-physics-time/TimeThumbnail.png">
  
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
  
@@ -215,33 +230,33 @@ description: ""
  <h5>Tuning-in Song: Hickory Dickory Dock</h5>
  <p>A tuning-in song is a simple, yet important component to include when introducing children to new concepts, especially abstract ones. It acts like a fun hook and energises them for the actual learning activity later.</p>
  
-<img src="/images/hickorydickorydock.png" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/hickorydickorydock.png">
  <br>
- <img src="/images/science-lfa/applied-physics-time/hickorydickorydocklyrics.png" style="width:600px; text-align:left;">
+ <img style="width:600px; text-align:left;" src="/images/science-lfa/applied-physics-time/hickorydickorydocklyrics.png">
  
 <h4>Tips for Parents:</h4> 
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
  
 <h4>LET'S READ!</h4><br>
- <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204160982" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+ <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204160982"><img style="width:250px; text-align:left;" src="/images/fixthatclock.png"></a>
  
 <p><b>Fix that Clock!</b><br>
         <u>Author:</u> Kurt Cyrus<br>
         <u>Publisher:</u> Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
  
-<h4>Tips for Parents:</h4>
+</p><h4>Tips for Parents:</h4>
  <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
  
-<img src="/images/BooktalkQuestions.png" style="width:650px; text-align:left;">
+<img style="width:650px; text-align:left;" src="/images/BooktalkQuestions.png">
  
 <h4>LET'S CRAFT!</h4>
  <h5>Crafting your own Clock!</h5>
- <img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;">
+ <img style="width:300px; text-align:left;" src="/images/ClockCraft.jpg">
  
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
  <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
  
-<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
+<a target="_blank" href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf">Template for Clock Crafting Activity</a><br>
  
 <h5>Instructions</h5>
  <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
@@ -252,36 +267,36 @@ description: ""
  <h5>Learning with your Handmade Clock</h5>
  <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
- <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
+ <img style="width:600px; text-align:left;" src="/images/HoursandMinutes.png">
  <p>Download the printable below and paste it up somewhere to help your child remember the values of hours and minutes.</p>
  
-<a href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf" target="_blank">Learning With Your Handmade Clock</a><br>
+<a target="_blank" href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf">Learning With Your Handmade Clock</a><br>
  
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>
  <p>The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
 
-<a href="/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf" target="_blank">Different Times of the Day!</a><br>
+<a target="_blank" href="/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf">Different Times of the Day!</a><br>
  
 <p>The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?</p> 
 
-<a href="/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf" target="_blank">Different Time Tellers!</a><br>
+<a target="_blank" href="/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf">Different Time Tellers!</a><br>
  
 <p>Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!</p>
  <br>
- <img src="/images/Sundial.png" style="width:600px; text-align:left;"><br>
+ <img style="width:600px; text-align:left;" src="/images/Sundial.png"><br>
  <h4>LET'S TRY THESE AT HOME!</h4>
  <p>With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to supplement their reading.</p>
  <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
  <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
  
-<img src="/images/TellingTimewiththeSun.png" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/TellingTimewiththeSun.png">
  
 <p>1. At around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
  
-<a href="/files/science-lfa/applied-physics-time/MyObservationTable.pdf" target="_blank">My Observation Table</a><br>
+<a target="_blank" href="/files/science-lfa/applied-physics-time/MyObservationTable.pdf">My Observation Table</a><br>
  
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. </p>
  <p>4. Explain to your child that before clocks were invented, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
@@ -290,7 +305,7 @@ description: ""
  
 <h4>Activity 2: Analog vs Digital</h4>
  
-<img src="/images/AnalogvsDigital.png" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/AnalogvsDigital.png">
  <p>
  In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will help your child be more exposed to the different timepieces.</p> 
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.</p> 
@@ -305,7 +320,7 @@ description: ""
 <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <iframe src="https://www.youtube.com/embed/3Posbu-VKxU" class="responsive-iframe"></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/3Posbu-VKxU"></iframe>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -316,7 +331,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <iframe src="https://www.youtube.com/embed/HqkXUJ7RHEg" class="responsive-iframe"></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/HqkXUJ7RHEg"></iframe>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -330,7 +345,7 @@ description: ""
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202746559" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202746559"><img style="width:150px; text-align:left;" src="/images/TellingtheTimebook.png"></a>
      </div>
     <div class="text">
        <p><b>Telling the Time</b><br>
@@ -340,7 +355,7 @@ description: ""
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204442949" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204442949"><img style="width:140px; text-align:left;" src="/images/Measuringtime.png"></a>
     </div>
     <div class="text">
         <p><b>Measuring Time</b><br>
@@ -352,7 +367,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204092884" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204092884"><img style="width:150px; text-align:left;" src="/images/Time.png"></a>
      </div>
     <div class="text">
        <p><b> Time</b><br>
@@ -362,7 +377,7 @@ description: ""
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203189453"><img style="width:150px; text-align:left;" src="/images/Iknowabouttellingthetime.png"></a>
     </div> 
    <div class="text">
  <p><b>I Know About Telling Time</b><br>
@@ -375,7 +390,7 @@ description: ""
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
  
 <br>
- <h3 class="margin--bottom--lg" id="lp-density"><b>ABC's of Applied Chemistry for Kids:<br>Let’s Learn About Density</b></h3>
+ <h3 id="lp-density" class="margin--bottom--lg"><b>ABC's of Applied Chemistry for Kids:<br>Let’s Learn About Density</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <p>Whether it is bath time or dishwashing time, your child would be exposed to liquid soap and soap foam. Why not take these moments as opportunities to spark their curiosity about the densities of everyday objects? Read on to introduce your child to the concept of density, allow them to experiment with household liquid materials, and create ‘fireworks’ in a bottle together!</p><p>
@@ -384,20 +399,20 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png">
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
+     <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a target="_blank" href="https://kids.kiddle.co/Density">https://kids.kiddle.co/Density</a>)</i>
  </p>
- <p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
+ <p>Use these <a target="_blank" href="/files/science-lfa/density/Density_Explanation%20Printables.pdf">printables</a> to further explain density to your child! </p>
    </div>
  </div>
  <div class="generic-table">
    <table class="generic-table">
      <thead>
        <tr>
-         <th style="font-size:20px" colspan="4" class="has-weight-normal">Try introducing these words to your child! Here are some example sentences to incorporate:</th>
+         <th class="has-weight-normal" colspan="4" style="font-size:20px">Try introducing these words to your child! Here are some example sentences to incorporate:</th>
        </tr>
      </thead>
      <tbody>
@@ -434,7 +449,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <iframe src="https://www.youtube.com/embed/1HJkEVOZbTM" class="responsive-iframe"></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/1HJkEVOZbTM"></iframe>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -445,7 +460,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">
      <div class="responsive-iframe-container ratio-16by9">
-       <iframe src="https://www.youtube.com/embed/GuLlRoG6ahc" class="responsive-iframe"></iframe>
+       <iframe class="responsive-iframe" src="https://www.youtube.com/embed/GuLlRoG6ahc"></iframe>
      </div>
    </div>
    <div class="col is-three-fifths">
@@ -459,7 +474,7 @@ description: ""
 <p><b>Experiment time!</b>
  <br>Objective: To find out how different densities affect how liquids react with one another.<br><br>
  <b>Materials required:</b></p>
- <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+ <img style="width:800px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png"><br>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-three-fifths">
  <br><p><b> Steps</b><br>
@@ -467,15 +482,15 @@ description: ""
  2. In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
  3. Pour the bowl of oil and food colouring into the bottle of water. <br>
  4. Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!<br>
- 5. <i>(Optional)</i> Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf" target="_blank">Observations Table</a> to go through and record the observations with your child. 
+ 5. <i>(Optional)</i> Print out the <a target="_blank" href="/files/science-lfa/density/Density_Observations%20Table.pdf">Observations Table</a> to go through and record the observations with your child. 
 </p>
    </div>
   <div class="col is-two-fifths">
      <br><br><br>Step 2<div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png" style="width:200px; text-align:left;">
+       <img style="width:200px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png">
      </div>
      Step 4<div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png" style="width:200px; text-align:left;">
+       <img style="width:200px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png">
      </div>
  </div>
  </div>
@@ -488,7 +503,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205270776" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205270776"><img style="width:150px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png"></a>
      </div>
     <div class="text">
        <p><b> Rosa's Big Boat Experiment</b><br>
@@ -498,7 +513,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205544494" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205544494"><img style="width:150px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png"></a>
     </div>
     <div class="text">
         <p><b>Will It Float or Sink?</b><br>
@@ -510,7 +525,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205276885" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205276885"><img style="width:150px; text-align:left;" src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png"></a>
      </div>
     <div class="text">
        <p><b> Boats Will Float</b><br>
@@ -520,7 +535,7 @@ description: ""
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202557168" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202557168"><img style="width:150px; text-align:left;" src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png"></a>
     </div> 
    <div class="text">
  <p><b>Why Do Ice Cubes Float?</b><br>
@@ -536,10 +551,10 @@ description: ""
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
  
 
-<h3 class="margin--bottom--lg" id="lp-marineanimals"><b>All About Animals:<br>Let’s Learn about Marine Animals</b></h3>
+<h3 id="lp-marineanimals" class="margin--bottom--lg"><b>All About Animals:<br>Let’s Learn about Marine Animals</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/science-lfa/marine-animals/Marine1.png" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine1.png">
  
 
 <p>The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.<br><br>
@@ -551,7 +566,7 @@ description: ""
  <p>A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.</p>
  
 
-<img src="/images/science-lfa/marine-animals/Marine2.png" style="width:400px; text-align:left;">
+<img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine2.png">
  <br>
  
 
@@ -559,7 +574,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine3.png" style="width:250px; text-align:left;">
+       <img style="width:250px; text-align:left;" src="/images/science-lfa/marine-animals/Marine3.png">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -568,22 +583,22 @@ description: ""
  </div>
  
 <h4>LET'S PLAY!</h4>
- <p>We have included a <a href="https://go.gov.sg/sci-world-map" target="_blank">world map activity sheet</a>. Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected. </p>
- <img src="/images/science-lfa/marine-animals/Marine4.png" style="width:400px; text-align:left;">
+ <p>We have included a <a target="_blank" href="https://go.gov.sg/sci-world-map">world map activity sheet</a>. Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected. </p>
+ <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine4.png">
  <br>
  
-<p>Below is the <a href="https://go.gov.sg/sci-world-map-ans" target="_blank">answer sheet</a> for the world map activity sheet.</p>
- <img src="/images/science-lfa/marine-animals/Marine5.png" style="width:400px; text-align:left;">
+<p>Below is the <a target="_blank" href="https://go.gov.sg/sci-world-map-ans">answer sheet</a> for the world map activity sheet.</p>
+ <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine5.png">
  <br>
-  <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185" target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
+  <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a target="_blank" href="https://kids.britannica.com/kids/article/ocean/346185">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
  </p>
  
 <p><b>Fun Facts</b><br>
  The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
  </p>
- <img src="/images/science-lfa/marine-animals/Marine6.png" style="width:400px; text-align:left;">
+ <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine6.png">
  <br>
-  <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE" target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
+  <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a target="_blank" href="https://www.youtube.com/watch?v=1qbUUGguJjE">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
  </p>
  
 
@@ -591,7 +606,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine7.png" style="width:250px; text-align:left;">
+       <img style="width:250px; text-align:left;" src="/images/science-lfa/marine-animals/Marine7.png">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -601,7 +616,7 @@ description: ""
    </div>
  </div>
  
-<p><br><i>Water Q&A: Why can't people drink seawater?. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater" target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
+<p><br><i>Water Q&amp;A: Why can't people drink seawater?. Water Q&amp;A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a target="_blank" href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
  </a>)</i>
  </p>
  
@@ -610,7 +625,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine8.png" style="width:250px; text-align:left;">
+       <img style="width:250px; text-align:left;" src="/images/science-lfa/marine-animals/Marine8.png">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -620,7 +635,7 @@ description: ""
  </div>
  
 
-<p><br><i>How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from <a href="https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water" target="_blank">https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water 
+<p><br><i>How sea animals keep salt out of their system: AMNH. American Museum of Natural History. (n.d.). Retrieved December 30, 2021, from <a target="_blank" href="https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water">https://www.amnh.org/exhibitions/water-h2o-life/life-in-water/surviving-in-salt-water 
  </a>)</i>
  </p>
  
@@ -628,8 +643,8 @@ description: ""
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
-       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
+    <div class="image"><a target="_blank" href="https://www.youtube.com/watch?v=hXtrIy95V80">
+       <img style="width:400px; text-align:left;" src="/images/science-lfa/marine-animals/Marine9.png"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -647,7 +662,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/science-lfa/marine-animals/Marine10.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204093723"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine10.png"></a>
      </div>
     <div class="text">
        <p><b> Jellyfish are brainless!</b><br>
@@ -657,7 +672,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine11.png" style="width:250px; text-align:left;">
+       <img style="width:250px; text-align:left;" src="/images/science-lfa/marine-animals/Marine11.png">
     </div>
     <br>
   </div>
@@ -665,7 +680,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/science-lfa/marine-animals/marine12.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202645005"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/marine12.png"></a>
      </div>
     <div class="text">
        <p><b> Octopuses</b><br>
@@ -675,7 +690,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/marine13%20Octopus.png" style="width:250px; text-align:left;">
+       <img style="width:250px; text-align:left;" src="/images/science-lfa/marine-animals/marine13%20Octopus.png">
     </div>
     <br>
   </div>
@@ -683,7 +698,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/science-lfa/marine-animals/marine14.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202820935"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/marine14.png"></a>
      </div>
     <div class="text">
        <p><b> Starfish</b><br>
@@ -693,7 +708,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/marine15.png" style="width:250px; text-align:left;">
+       <img style="width:250px; text-align:left;" src="/images/science-lfa/marine-animals/marine15.png">
     </div>
     <br>
   </div>
@@ -706,12 +721,12 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/marine16.png" style="width:300px; text-align:left;">
+       <img style="width:300px; text-align:left;" src="/images/science-lfa/marine-animals/marine16.png">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/marine17.jpg" style="width:300px; text-align:left;">
+       <img style="width:300px; text-align:left;" src="/images/science-lfa/marine-animals/marine17.jpg">
     </div>
   </div>
  </div>
@@ -723,29 +738,29 @@ By allowing your child to hypothesise and formulate answers based on their obser
  3. Googly eyes / black marker (optional)<br>
  4. Hole puncher<br>
  5. Yarn / string (preferably blue)<br>
- 6. Marine animals <a href="https://go.gov.sg/sci-marine-animals" target="_blank">template</a> (to print)<br>
+ 6. Marine animals <a target="_blank" href="https://go.gov.sg/sci-marine-animals">template</a> (to print)<br>
  7. A pair of scissors<br>
  8. Tape<br></p>
  
-<img src="/images/science-lfa/marine-animals/marine18.png" style="width:300px; text-align:left;">
+<img style="width:300px; text-align:left;" src="/images/science-lfa/marine-animals/marine18.png">
  
 <p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
 	
- <a href="https://go.gov.sg/instructions-paper-plate-aquarium" target="_blank">Instructions for Paper Plate Aquarium</a><br>
- <p>The sea aquarium habitat is now ready to welcome the marine animals! </p>
+ <a target="_blank" href="https://go.gov.sg/instructions-paper-plate-aquarium">Instructions for Paper Plate Aquarium</a><br>
+ </p><p>The sea aquarium habitat is now ready to welcome the marine animals! </p>
 
 <h4>Tips for Parents:</h4> 
 <p>Do allow your child to colour the paper plate in other colours. Encourage them to use their creativity to decorate the paper plate. This activity gives your child an opportunity to express their ideas and help boost their confidence in making their own decisions.</p>
  
 <h4>LET'S TRY THIS AT HOME!</h4>
  <h5>It Is Time for Yoga</h5>
- <p>Check out this <a href="https://parentingchaos.com/ocean-themed-kids-yoga/" target="_blank">link</a> for the different yoga poses based on the marine animals. Let's have some fun and stretch your body! <br>
+ <p>Check out this <a target="_blank" href="https://parentingchaos.com/ocean-themed-kids-yoga/">link</a> for the different yoga poses based on the marine animals. Let's have some fun and stretch your body! <br>
  <i><b>Disclaimer:</b> Please try out these poses under strict adult supervision and ensure that your bodies are not pushed beyond their limits.</i></p>
  
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine21.png" style="width:150px; text-align:left;">
+       <img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine21.png">
      </div>
     
    </div>
@@ -759,7 +774,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine22.png" style="width:150px; text-align:left;">
+       <img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine22.png">
      </div>
     
    </div>
@@ -773,7 +788,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine23.png" style="width:150px; text-align:left;">
+       <img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine23.png">
      </div>
     
    </div>
@@ -792,7 +807,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202545736" target="_blank"><img src="/images/science-lfa/marine-animals/Marine24.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202545736"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine24.png"></a>
      </div>
     <div class="text">
        <p><b>Why is seawater salty?</b><br>
@@ -802,7 +817,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889581" target="_blank"><img src="/images/science-lfa/marine-animals/Marine25.jpg" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889581"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine25.jpg"></a>
     </div>
     <div class="text">
         <p><b>If sharks disappeared</b><br>
@@ -814,7 +829,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204497339" target="_blank"><img src="/images/science-lfa/marine-animals/Marine26.png" style="width:150px; text-align:left;"></a>
+       <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204497339"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine26.png"></a>
      </div>
     <div class="text">
        <p><b>Oceans</b><br>
@@ -824,7 +839,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244390" target="_blank"><img src="/images/science-lfa/marine-animals/Marine27.png" style="width:150px; text-align:left;"></a>
+        <a target="_blank" href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205244390"><img style="width:150px; text-align:left;" src="/images/science-lfa/marine-animals/Marine27.png"></a>
     </div> 
    <div class="text">
  <p><b>Yoga whale : simple poses for little ones</b><br>

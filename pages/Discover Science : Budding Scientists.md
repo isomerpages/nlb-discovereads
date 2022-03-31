@@ -67,7 +67,7 @@ description: ""
 <p> Ask your child to predict what will happen when you combine baking soda and vinegar in a bottle. Ask your child to predict what will happen if you combine the same ingredients, but cover the top of the bottle with a balloon.</p>
 
 <h4>Instructions: </h4>
-<p>1. Using the funnel, add 1-2 teaspoon of baking soda into the balloon.</p>
+<p>1. Using the funnel, add 1-2 teaspoons of baking soda into the balloon.</p>
 <p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg" style="width:300px; text-align:center;"></p>
 
 <p>2. Pour the vinegar into the bottle until it is half-filled.</p>

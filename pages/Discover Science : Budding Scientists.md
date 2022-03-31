@@ -29,7 +29,6 @@ description: ""
 
 <p>Watch this video to find out how a balloon can be inflated through this simple experiment.</p>
 <h4>Blow Up A Balloon With Science</h4>
-<p>Can you believe that you can blow up a balloon without actually blowing your own air into it? Follow along with this super neat experiment and find out how!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://youtu.be/5eFIaNP8lKE" target="_blank">
@@ -37,13 +36,12 @@ description: ""
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Blow Up a Balloon with Science (4min 24 secs) </b><br>
+     <p><b> Blow Up a Balloon with Science (4min 24 secs) </b><br>Can you believe that you can blow up a balloon without actually blowing your own air into it? Follow along with this super neat experiment and find out how!
  </p>
    </div>
  </div>
 
 <h4>Blow Up A Balloon With No Hands Experiment</h4>
-<p>Learn how you can blow up a balloon with a simple science experiment!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://youtu.be/uVzzHoE6Edg" target="_blank">
@@ -51,7 +49,7 @@ description: ""
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Blow Up a Balloon with No Hands Experiment (2min 50 secs) </b><br>
+     <p><b> Blow Up a Balloon with No Hands Experiment (2min 50 secs) </b><br>Learn how you can blow up a balloon with a simple science experiment!
  </p>
    </div>
  </div>

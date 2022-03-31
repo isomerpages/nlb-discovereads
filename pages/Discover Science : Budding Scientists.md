@@ -61,6 +61,10 @@ description: ""
 
 <img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:400px; text-align:left;"><br>
 
+
+
+<img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:400px; text-align:left;"><br>
+
 <h4>Create A Hypothesis:</h4>
 <p> Ask your child to predict what will happen when you combine baking soda and vinegar in a bottle. Ask your child to predict what will happen if you combine the same ingredients, but cover the top of the bottle with a balloon.</p>
 
@@ -126,18 +130,19 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <h4>Find out more about fun and cool science experiments at the libraries</h4> 
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312160814/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:250px; text-align:left;"></a><br>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313036396/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:250px; text-align:left;"></a><br>
  <p><strong>Bears Make the Best Science Buddies</strong> <br>
 Author: Carmen Oliver <br>
 Publisher: North Mankato, Minnesato: Capstone Editions, a Capstone [2020]</br>
-**Available on NLB Overdrive**</p><br>
+**Available on [NLB Overdrive](https://nlb.overdrive.com/media/5240590)**</p><br>
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312161668/280710966,2 " target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:250px; text-align:left;"></a><br>
 <p><strong>Where is My Balloon?</strong><br> 
 Author: Ariel Bernstein<br>
-Publisher: Simon & Schuster/Paula Wiseman Books; Illustrated edition [2019]</p><br>
+Publisher: Simon & Schuster/Paula Wiseman Books; Illustrated edition [2019]</br>
+<strong>Available on NLB Overdrive</strong></p><br>
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312162252/226563257,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:250px; text-align:left;"></a><br>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313036862/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:250px; text-align:left;"></a><br>
 <p><strong>Inflating a Balloon,</strong><br>
 Author: Brooke Rowe<br>
 Publisher: Ann Arbor, Michigan : Cherry Lake Publishing [2018]</p><br>

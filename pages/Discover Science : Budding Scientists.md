@@ -55,6 +55,11 @@ description: ""
    </div>
  </div>
 
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Experiment.jpg" style="width:400px; text-align:left;"><br>
+
+<p>Have you been to a party with balloons? Can you blow a balloon without using your mouth or an air pump? Sure you can!</p>
+<p> In this simple science experiment, you will discover how you can inflate a balloon without blowing it using only a few everyday household items that you probably already have at home. You just need a chemical reaction to produce carbon dioxide gas and get ready to watch fizzy reaction!</p>
+
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

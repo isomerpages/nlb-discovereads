@@ -78,9 +78,9 @@ description: ""
 
 <p>5. Observe the chemical reaction and effect on the balloon.</p>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg"style="width:200px; text-align:center;"></p>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Tips.jpg"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Tips.jpg"style="width:200px; text-align:left;"></p>
 
 <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
 

@@ -92,7 +92,7 @@ description: ""
 	</div>
 
 <h4>Observation</h4>
-<p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationsheet"> https://go.gov.sg/observationsheet</a><br>
+<p>Record and share your observation and findings using <a href="https://go.gov.sg/observationsheet">this template</a>.<br>
 1. What did you hear?<br>
 2. What did you see?<br>
 3. How did the balloon inflate?<br>

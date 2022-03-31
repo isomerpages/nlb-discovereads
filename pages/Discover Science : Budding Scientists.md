@@ -98,6 +98,10 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>The chemical reaction of sodium bicarbonate (baking soda) and ethanoic acid (vinegar) produces carbon dioxide gas. The carbon dioxide gas can originally be seen as bubbles in the solution, but will quickly be released from the solution. The carbon dioxide gas will flow within the spaces in the bottle, and move into the deflated balloon, filling the balloon and thus inflating it.</p>
 <p>You can do this reaction at home but make sure you don’t get any of the chemicals in your eyes. Ethanoic acid is the chemical name for vinegar. Sodium bicarbonate is also known as baking soda.</p>
 
+<p>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
+<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a>.</font></p>
+
+
 
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>

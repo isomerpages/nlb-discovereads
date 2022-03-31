@@ -17,7 +17,7 @@ Quizzes will be updated every month.
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 
-### March 2022
+### March 2022 (Closed)
 
 This quiz has now closed. Points will be awarded by 7 April 2022, Friday. All entries received after 31 March 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
 

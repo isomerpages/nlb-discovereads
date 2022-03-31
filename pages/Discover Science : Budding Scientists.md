@@ -68,7 +68,7 @@ description: ""
 
 <h4>Instructions: </h4>
 <p>1. Using the funnel, add 1-2 teaspoon of baking soda into the balloon.</p>
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg"style="width:200px; text-align:center;"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg"style="width:300px; text-align:center;"></p>
 
 <p>2. Pour the vinegar into the bottle until it is half-filled.</p>
 <p><img src="/images/science-lfa/Balloon%20inflater/Step%202.jpg"style="width:200px; text-align:center;"></p>

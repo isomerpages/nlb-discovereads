@@ -7,7 +7,11 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | **New!*** <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> |<strong>**New!***</strong> <a href="#lp-Let’s Learn Chemical Reaction"> Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator </a>
+
+<h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reaction: Up Up And Away With Fizzy Inflator.</b></h3>
+<p><b>Suitable for 4 to 6 years old children</b></p>
+
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

@@ -88,6 +88,8 @@ description: ""
 <p>3. How did the balloon inflate?</p>
 <p>4. How does the chemical reaction works?</p>
 
+<img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Lets%20Investigate.jpg"><br>
+
 
 
 <h3 id="lp-apple" class="margin--bottom--lg"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>

@@ -124,7 +124,8 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Read.jpg" style="width:400px; text-align:left;"><br>
 
-<h4>Find out more on fun and cool science experiment at the libraries</h4> 
+<h4>Find out more about fun and cool science experiments at the libraries</h4> 
+
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312160814/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:250px; text-align:left;"></a><br>
  <p><strong>Bears Make the Best Science Buddies</strong> <br>
 Author: Carmen Oliver <br>

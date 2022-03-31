@@ -126,35 +126,54 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Read.jpg" style="width:400px; text-align:left;"><br>
 
-<h4>Find out more about fun and cool science experiments at the libraries</h4> 
-
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313036396/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:250px; text-align:left;"></a><br>
- <p><strong>Bears Make the Best Science Buddies</strong> <br>
-Author: Carmen Oliver <br>
-Publisher: North Mankato, Minnesato: Capstone Editions, a Capstone [2020]<br>
-<a href="https://nlb.overdrive.com/media/5240590" target="_blank"><strong>Available at NLB Overdrive</strong></a><br>
-
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312161668/280710966,2 " target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:250px; text-align:left;"></a><br>
-<p><strong>Where is My Balloon?</strong><br> 
-Author: Ariel Bernstein<br>
-Publisher: Simon & Schuster/Paula Wiseman Books; Illustrated edition [2019]</br>
-<a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br>
-
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313036862/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:250px; text-align:left;"></a><br>
-<p><strong>Inflating a Balloon</strong><br>
-Author: Brooke Rowe<br>
-Publisher: Ann Arbor, Michigan : Cherry Lake Publishing [2018]</p><br>
-
-<p><strong>Where Is The Gas</strong><br>
-Author: Marla Conn<br>
-Publisher: [Vero Beach, FL] : Rourke Educational Media, Carson Dellosa Education [2021]</p>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313041204/331326248,3" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:250px; text-align:left;"></a><br>
-
-<p><strong>States of Matter</strong><br>
-Author: Samantha Bell<br>
-Ann Arbor, MI : Cherry Lake Publishing, [2018]</p>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313041573/232377670,6" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:250px; text-align:left;"></a><br>
-<a href="https://nlb.overdrive.com/media/3351083" target="_blank"><strong>Available at NLB Overdrive</strong></a><br>
+<h4>Find out more about fun and cool science experiments at the libraries</h4><br> 
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313053494/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Bears Make the Best Science Buddies</b><br>
+       <u>Author:</u> Carmen Oliver and Jean Claude (Illustrator)<br>
+       <u>Publisher:</u> 
+North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
+ <u><a href="https://nlb.overdrive.com/media/5240590" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u> 
+<br>
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:140px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Where is My Balloon?</b><br>
+        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
+        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204092884" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Time</b><br>
+       <u>Author:</u> Julie Murray<br>
+       <u>Publisher:</u> Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]<br>
+       </p></div>
+   </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>I Know About Telling Time</b><br>
+      <u>Author:</u> Richard Little<br>
+ <u>Publisher:</u> New York : Gareth Stevens Publishing, 2018<br>
+ </p></div>
+  </div>
+ </div><p>All book covers are copyright of the respective publishing companies.</p><br>
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>
 

@@ -85,7 +85,7 @@ description: ""
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:400px; text-align:left;">
+       <img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -109,8 +109,8 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>The chemical reaction of sodium bicarbonate (baking soda) and ethanoic acid (vinegar) produces carbon dioxide gas. The carbon dioxide gas can originally be seen as bubbles in the solution, but will quickly be released from the solution. The carbon dioxide gas will flow within the spaces in the bottle, and move into the deflated balloon, filling the balloon and thus inflating it.</p>
 <p>You can do this reaction at home but make sure you don’t get any of the chemicals in your eyes. Ethanoic acid is the chemical name for vinegar. Sodium bicarbonate is also known as baking soda.</p>
 
-<i><p>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
-<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a>.</p></i>
+<i>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
+<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a></i>
 
 <img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:400px; text-align:left;"><br>
 
@@ -175,28 +175,6 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <p><b>Where is the Gas?</b><br>
       <u>Author:</u> Marla Conn<br>
  <u>Publisher:</u> Vero Beach, FL] : Rourke Educational Media, a division of Carson Dellosa Education, [2021]<br>
- </p></div>
-   </div>
-  </div>
-	 <div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313059356/232377670,62" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
-     </div>
-    <div class="text">
-       <p><b>States of Matter</b><br>
-       <u>Author:</u> Samantha Bell and Jeff Bane (Illustrator)<br>
-       <u>Publisher:</u> Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
-       </p></div>
-   </div>
-  <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313060561/180170084,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:150px; text-align:left;"></a>
-    </div> 
-   <div class="text">
- <p><b>Matter</b><br>
-      <u>Author:</u> Abbie Dunne<br>
- <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
  </p></div>
    </div>
   </div>

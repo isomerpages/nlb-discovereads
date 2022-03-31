@@ -20,6 +20,41 @@ description: ""
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
 <p>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a>.</p>
 
+<img src="/images/science-lfa/Balloon%20inflater/Science%20Terms.jpg" style="width:400px; text-align:left;"><br>
+
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;"><br>
+
+<p>Watch this video to find out how a balloon can be inflated through this simple experiment.</p>
+<h4>Blow Up A Balloon With Science</h4>
+<p>Can you believe that you can blow up a balloon without actually blowing your own air into it? Follow along with this super neat experiment and find out how!</p>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
+       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Under the Sea: Ocean Animal Moves (3min 07 secs) </b><br>
+ Watch how different marine animals swim, jump and scurry. Can you move like them?
+ </p>
+   </div>
+ </div>
+
+<h4>Blow Up A Balloon With No Hands Experiment</h4>
+<p>Learn how you can blow up a balloon with a simple science experiment.!</p>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
+       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Under the Sea: Ocean Animal Moves (3min 07 secs) </b><br>
+ Watch how different marine animals swim, jump and scurry. Can you move like them?
+ </p>
+   </div>
+ </div>
+
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

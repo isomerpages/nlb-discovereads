@@ -130,8 +130,8 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>Did you see bubbles floating on top of the baking soda and vinegar mixture? Why? This experiment illustrates how states of matter can change; A chemical reaction takes place when baking soda is mixed with vinegar. Carbon dioxide or CO2 is released and inflates the balloon.</p>
 <p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
 <p>What else can you fill up with a gas?</p>
-<i><p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
-<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a></p></i>
+<i>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
+<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a></i>
 
 <h4>Find out more about fun and cool science experiments at the libraries!</h4><br>
 <div class="row is-multiline">

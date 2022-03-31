@@ -60,6 +60,13 @@ description: ""
 <p>Have you been to a party with balloons? Can you blow a balloon without using your mouth or an air pump? Sure you can!</p>
 <p> In this simple science experiment, you will discover how you can inflate a balloon without blowing it using only a few everyday household items that you probably already have at home. You just need a chemical reaction to produce carbon dioxide gas and get ready to watch fizzy reaction!</p>
 
+<img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:400px; text-align:left;"><br>
+
+<h4>Create A Hypothesis:</h4>
+<p> Ask your child to predict what will happen when you combine baking soda and vinegar in a bottle. Ask your child to predict what will happen if you combine the same ingredients, but cover the top of the bottle with a balloon.</p>
+
+
+
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

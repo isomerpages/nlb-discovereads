@@ -81,17 +81,24 @@ description: ""
 <p>5. Observe the chemical reaction and effect on the balloon.</p>
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg" style="width:200px; text-align:center;"></p>
-
-<p><img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;"></p>
-
-<p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
+	</div>
+	</div>
 
 <h4>Observation</h4>
-<p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationsheet"> https://go.gov.sg/observationsheet</a></p>
-<p>1. What did you hear?</p>
-<p>2. What did you see?</p>
-<p>3. How did the balloon inflate?</p>
-<p>4. How does the chemical reaction works?</p>
+<p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationsheet"> https://go.gov.sg/observationsheet</a><br>
+1. What did you hear?<br>
+2. What did you see?<br>
+3. How did the balloon inflate?<br>
+4. How does the chemical reaction works?</p>
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Investigate.jpg" style="width:400px; text-align:left;"><br>
 
@@ -102,10 +109,10 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>The chemical reaction of sodium bicarbonate (baking soda) and ethanoic acid (vinegar) produces carbon dioxide gas. The carbon dioxide gas can originally be seen as bubbles in the solution, but will quickly be released from the solution. The carbon dioxide gas will flow within the spaces in the bottle, and move into the deflated balloon, filling the balloon and thus inflating it.</p>
 <p>You can do this reaction at home but make sure you don’t get any of the chemicals in your eyes. Ethanoic acid is the chemical name for vinegar. Sodium bicarbonate is also known as baking soda.</p>
 
-<p>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
-<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a>.</p>
+<i><p>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
+<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a>.</p></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:200px; text-align:left;"><br>
+<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:400px; text-align:left;"><br>
 
 <p>Reusing the vinegar will not work. You will have to rinse the bottle each time and pour fresh vinegar into the bottle before starting again.</p>
 <p>The reaction from the baking soda and vinegar is rapid. Ensure your child is ready to see the effect before combining the two items.</p>
@@ -123,8 +130,8 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>Did you see bubbles floating on top of the baking soda and vinegar mixture? Why? This experiment illustrates how states of matter can change; A chemical reaction takes place when baking soda is mixed with vinegar. Carbon dioxide or CO2 is released and inflates the balloon.</p>
 <p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
 <p>What else can you fill up with a gas?</p>
-<p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
-<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a></p>
+<i><p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
+<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a></p></i>
 
 <h4>Find out more about fun and cool science experiments at the libraries!</h4><br>
 <div class="row is-multiline">

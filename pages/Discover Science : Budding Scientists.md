@@ -149,31 +149,59 @@ North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
         <p><b>Where is My Balloon?</b><br>
         <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
         <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+					<u><a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u>
      </p></div>
   </div>
- </div>
- <div class="row is-multiline">
+	<div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204092884" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313057953/226563257,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b> Time</b><br>
-       <u>Author:</u> Julie Murray<br>
-       <u>Publisher:</u> Minneapolis, Minnesota : Abdo Kids Junior is an imprint of Abdo Kids, [2020]<br>
-       </p></div>
-   </div>
- <div class="col is-half-tablet padding--bottom--lg">
+       <p><b>Inflating a Balloon</b><br>
+       <u>Author:</u> Carmen Oliver and Jean Claude (Illustrator)<br>
+       <u>Publisher:</u> 
+North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
+ <u><a href="https://nlb.overdrive.com/media/5240590" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u> 
+<br>
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
-    </div> 
-   <div class="text">
- <p><b>I Know About Telling Time</b><br>
-      <u>Author:</u> Richard Little<br>
- <u>Publisher:</u> New York : Gareth Stevens Publishing, 2018<br>
- </p></div>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:140px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Where is My Balloon?</b><br>
+        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
+        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+					<u><a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u>
+     </p></div>
   </div>
- </div><p>All book covers are copyright of the respective publishing companies.</p><br>
+ </div>	<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313053494/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Bears Make the Best Science Buddies</b><br>
+       <u>Author:</u> Carmen Oliver and Jean Claude (Illustrator)<br>
+       <u>Publisher:</u> 
+North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
+ <u><a href="https://nlb.overdrive.com/media/5240590" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u> 
+<br>
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:140px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Where is My Balloon?</b><br>
+        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
+        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+					<u><a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u>
+     </p></div>
+	</div><p>All book covers are copyright of the respective publishing companies.</p><br>
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>
 

@@ -13,7 +13,7 @@ Quizzes will be updated every month.
 ![](/images/events/bookbugsr/Jojo-Final-Artwork.png)
 
 * <a href="https://forms.gle/ryisdUfSgXJY7N6QA" target="_blank" rel="noopener noreferrer"> English Quiz</a>
-* <a href="https://forms.gle/9mu36Ckjr28ePbor6" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
+* <a href="https://forms.gle/gdnJbYmmAnYdHunPA" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 

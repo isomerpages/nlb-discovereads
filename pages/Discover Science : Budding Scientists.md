@@ -140,7 +140,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <p><strong>Experiment #2: Volcano Blast</strong><br>
 	<a href="https://go.gov.sg/volcanoblast"> https://go.gov.sg/volcanoblast</a></p>
-	 <br>
+	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
@@ -205,8 +205,8 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 	<li>Salt water</li>
 </ul>
 <img src="/images/science-lfa/Apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
-	<p>2. Cut the apple into 5 wedges</p>
- <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
+<p>2. Cut the apple into 5 wedges</p>
+<p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
 <img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
 <img src="/images/science-lfa/Apples/Step 4.jpg" style="width:400px; text-align:left;"><br>

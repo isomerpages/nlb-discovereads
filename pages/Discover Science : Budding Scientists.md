@@ -183,11 +183,9 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <h4>Let’s Try Out This Experiment!</h4>
 <p>Can’t get enough? Don’t put aside your everyday household items away, check out these other related exciting science experiments that you can do, and all thanks to science! Have fun!</p>
 
-<p><strong>Experiment #1: Citrus Juice and Baking Soda Experiment</strong><br>
-<a href="https://go.gov.sg/citrusexperiment"> https://go.gov.sg/citrusexperiment</a></p>
-
-<p><strong>Experiment #2: Volcano Blast</strong><br>
-	<a href="https://go.gov.sg/volcanoblast"> https://go.gov.sg/volcanoblast</a></p>
+<p><a href="https://go.gov.sg/citrusexperiment"> <strong>Experiment #1: Citrus Juice and Baking Soda Experiment</strong></a></p>
+<p>
+	<a href="https://go.gov.sg/volcanoblast"> <strong>Experiment #2: Volcano Blast</strong></a></p>
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

@@ -211,8 +211,8 @@ Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
 <a href="https://go.gov.sg/citrusexperiment"> https://go.gov.sg/citrusexperiment</a></p>
 
 <p><strong>Experiment #2: Volcano Blast</strong><br>
-	<a href="https://go.gov.sg/volcanoblast"> https://go.gov.sg/volcanoblast</a></p><br>
-
+	<a href="https://go.gov.sg/volcanoblast"> https://go.gov.sg/volcanoblast</a></p>
+	 <br>
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>

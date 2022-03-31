@@ -131,6 +131,13 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 Author: Carmen Oliver <br>
 Publisher: North Mankato, Minnesato: Capstone Editions, a Capstone [2020]</p><br>
 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312161668/280710966,2 " target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:250px; text-align:left;"></a><br>
+<p><strong>Where is My Balloon?</strong><br> 
+Author: Ariel Bernstein<br>
+Publisher: Simon & Schuster/Paula Wiseman Books; Illustrated edition [2019]</p><br>
+
+
+
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

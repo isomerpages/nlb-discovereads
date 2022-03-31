@@ -22,7 +22,7 @@ description: ""
 
 <img src="/images/science-lfa/Balloon%20inflater/Science%20Terms.jpg" style="width:400px; text-align:left;"><br>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;"><br>
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;">
 
 <p>Watch this video to find out how a balloon can be inflated through this simple experiment.</p>
 <h4>Blow Up A Balloon With Science</h4>

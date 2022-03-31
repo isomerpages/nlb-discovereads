@@ -75,9 +75,9 @@ description: ""
 <p>3. Carefully fit the balloon lip over the bottle’s nozzle, while holding onto the balloon (be careful not to drop the baking soda into the vinegar yet).</p>
 <p>4. Once the balloon is fitted snugly on the nozzle, and you are ready, hold up the balloon and allow the baking soda to fall into the vinegar.</p>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg"></p>
-
 <p>5. Observe the chemical reaction and effect on the balloon.</p>
+
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg"></p>
 
 <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
 

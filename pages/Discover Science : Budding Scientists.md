@@ -101,7 +101,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>You can do this reaction at home but make sure you don’t get any of the chemicals in your eyes. Ethanoic acid is the chemical name for vinegar. Sodium bicarbonate is also known as baking soda.</p>
 
 <p>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
-<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a>.</font></p>
+<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a>.</p>
 
 <img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:200px; text-align:left;"><br>
 

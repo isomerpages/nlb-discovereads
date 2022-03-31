@@ -174,7 +174,8 @@ Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br></u>
         <u>Author:</u> Marla Conn<br>
         <u>Publisher:</u> [Vero Beach, FL] : Rourke Educational Media, a division of Carson Dellosa Education, [2021]<br>
   </div>
- </div>	<div class="row is-multiline">
+ </div>	
+ <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313059356/232377670,62" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>

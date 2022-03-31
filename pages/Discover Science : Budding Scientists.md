@@ -132,19 +132,27 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <p><strong>Bears Make the Best Science Buddies</strong> <br>
 Author: Carmen Oliver <br>
 Publisher: North Mankato, Minnesato: Capstone Editions, a Capstone [2020]</br>
-**Available on [NLB Overdrive](https://nlb.overdrive.com/media/5240590)**</p><br>
-
+<a href="https://nlb.overdrive.com/media/5240590" target="_blank"><strong>Availabile on NLB Overdrive</strong></br>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312161668/280710966,2 " target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:250px; text-align:left;"></a><br>
 <p><strong>Where is My Balloon?</strong><br> 
 Author: Ariel Bernstein<br>
 Publisher: Simon & Schuster/Paula Wiseman Books; Illustrated edition [2019]</br>
-<strong>Available on NLB Overdrive</strong></p><br>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312161668/280710966,2 " target="_blank"><strong>Available on NLB Overdrive</strong></br>
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313036862/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:250px; text-align:left;"></a><br>
-<p><strong>Inflating a Balloon,</strong><br>
+<p><strong>Inflating a Balloon</strong><br>
 Author: Brooke Rowe<br>
 Publisher: Ann Arbor, Michigan : Cherry Lake Publishing [2018]</p><br>
 
+<p><strong>Where Is The Gas</strong><br>
+Author: Marla Conn<br>
+Publisher: [Vero Beach, FL] : Rourke Educational Media, Carson Dellosa Education [2021]</p>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313041204/331326248,3" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:250px; text-align:left;"></a><br>
+
+<p><strong>States of Matter</strong><br>
+Author: Samantha Bell<br>
+Ann Arbor, MI : Cherry Lake Publishing, [2018]</p>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313041573/232377670,6" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:250px; text-align:left;"></a><br>
 
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>

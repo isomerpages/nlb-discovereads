@@ -27,7 +27,7 @@ description: ""
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;">
 
-<p>Watch this video to find out how a balloon can be inflated through this simple experiment.</p>
+<p>Watch these videos to find out how a balloon can be inflated through this simple experiment.</p>
 <h4>Blow Up A Balloon With Science</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
@@ -180,7 +180,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>
 
-<h4>Let’s Try Out This Experiment!</h4>
+<h4>Let’s Try Out These Experiments!</h4>
 <p>Can’t get enough? Don’t put aside your everyday household items away, check out these other related exciting science experiments that you can do, and all thanks to science! Have fun!</p>
 
 <p><a href="https://go.gov.sg/citrusexperiment"> <strong>Experiment #1: Citrus Juice and Baking Soda Experiment</strong></a></p>

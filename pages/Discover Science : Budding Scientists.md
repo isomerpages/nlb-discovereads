@@ -113,6 +113,14 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>2. What if more vinegar is used next, with the same amount of baking soda? Which chemical reaction inflate the biggest balloon?</p>
 <p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationtable1"> https://go.gov.sg/observationtable1</a><br> <a href="https://go.gov.sg/observationtable2"> https://go.gov.sg/observationtable2</a></p>
 
+<p><img src="/images/science-lfa/Balloon%20inflater/Tips.jpg"></p>
+
+<p>You may prompt the following questions to your child during or after the experiment:</p>
+<p>Did you see bubbles floating on top of the baking soda and vinegar mixture? Why? This experiment illustrates how states of matter can change; A chemical reaction takes place when baking soda is mixed with vinegar. Carbon dioxide or CO2 is released and inflates the balloon.</p>
+<p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
+<p>What else can you fill up with a gas?</p>
+<p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
+<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/.</a>.</font></p>
 
 
 

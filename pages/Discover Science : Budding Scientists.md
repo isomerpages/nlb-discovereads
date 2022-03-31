@@ -7,7 +7,187 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | **New!*** <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> |<strong>**New!***</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a>
+
+<h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
+
+<p><b>Suitable for 4 to 6 years old children</b></p>
+
+<img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:700px; text-align:center;">
+
+<p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
+
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg" style="width:300px; text-align:left;">
+
+<h4>Let’s Learn about Chemical Reactions</h4>
+<p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
+<i>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a></i>
+
+<img src="/images/science-lfa/Balloon%20inflater/Science%20Terms.jpg" style="width:700px; text-align:left;"><br>
+
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;">
+
+<p>Watch these videos to find out how a balloon can be inflated through this simple experiment.</p>
+<h4>Blow Up A Balloon With Science</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/5eFIaNP8lKE" target="_blank">
+       <img src="/images/science-lfa/Balloon%20inflater/balloonexperiment.jpeg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Blow Up a Balloon with Science (4min 24 secs) </b><br>Can you believe that you can blow up a balloon without actually blowing your own air into it? Follow along with this super neat experiment and find out how!
+ </p>
+   </div>
+ </div>
+
+<h4>Blow Up A Balloon With No Hands Experiment</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/uVzzHoE6Edg" target="_blank">
+       <img src="/images/science-lfa/Balloon%20inflater/balloonblowup.jpeg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Blow Up a Balloon with No Hands Experiment (2min 50 secs) </b><br>Learn how you can blow up a balloon with a simple science experiment!
+ </p>
+   </div>
+ </div>
+
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Experiment.jpg" style="width:400px; text-align:left;"><br>
+
+<p>Have you been to a party with balloons? Can you blow a balloon without using your mouth or an air pump? Sure you can!</p>
+<p> In this simple science experiment, you will discover how you can inflate a balloon without blowing it using only a few everyday household items that you probably already have at home. You just need a chemical reaction to produce carbon dioxide gas and get ready to watch a fizzy reaction!</p>
+
+<img src="/images/science-lfa/Balloon%20inflater/materialsrequired.jpeg" style="width:400px; text-align:left;"><br>
+
+<img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:700px; text-align:center;"><br>
+
+<h4>Create A Hypothesis:</h4>
+<p> Ask your child to predict what will happen when you combine baking soda and vinegar in a bottle. Ask your child to predict what will happen if you combine the same ingredients, but cover the top of the bottle with a balloon.</p>
+
+<h4>Instructions: </h4>
+<p>1. Using the funnel, add 1-2 teaspoons of baking soda into the balloon.</p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg" style="width:300px; text-align:center;"></p>
+
+<p>2. Pour the vinegar into the bottle until it is half-filled.</p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%202.jpg" style="width:200px; text-align:center;"></p>
+
+<p>3. Carefully fit the balloon lip over the bottle’s nozzle, while holding onto the balloon. <br>(Be careful not to drop the baking soda into the vinegar yet).</p>
+<p>4. Once the balloon is fitted snugly on the nozzle, and you are ready, hold up the balloon and allow the baking soda to fall into the vinegar.</p>
+
+<p>5. Observe the chemical reaction and effect on the balloon.</p>
+
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg" style="width:200px; text-align:center;"></p>
+<br>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
+	</div>
+	</div>
+
+<h4>Observation</h4>
+<p>Record and share your observation and findings using <a href="https://go.gov.sg/observationsheet">this template</a>.<br>
+1. What did you hear?<br>
+2. What did you see?<br>
+3. How did the balloon inflate?<br>
+4. How does the chemical reaction works?</p>
+
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Investigate.jpg" style="width:400px; text-align:left;"><br>
+
+<h4> How This Works? The Science Behind It:</h4>
+<p>Making carbon dioxide gas (CO₂) from vinegar and baking soda:
+This experiment explores how a gas takes the shape of the container it fills, in this case, a balloon. 
+If you mix vinegar and baking soda, a chemical reaction will occur, where lots of bubbles of carbon dioxide gas form.</p>
+<p>The chemical reaction of sodium bicarbonate (baking soda) and ethanoic acid (vinegar) produces carbon dioxide gas. The carbon dioxide gas can originally be seen as bubbles in the solution, but will quickly be released from the solution. The carbon dioxide gas will flow within the spaces in the bottle, and move into the deflated balloon, filling the balloon and thus inflating it.</p>
+<p>You can do this reaction at home but make sure you don’t get any of the chemicals in your eyes. Ethanoic acid is the chemical name for vinegar. Sodium bicarbonate is also known as baking soda.</p>
+
+<i>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
+<a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a></i>
+
+<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:400px; text-align:left;"><br>
+
+<p>Reusing the vinegar will not work. You will have to rinse the bottle each time and pour fresh vinegar into the bottle before starting again.</p>
+<p>The reaction from the baking soda and vinegar is rapid. Ensure your child is ready to see the effect before combining the two items.</p>
+<p>You may reuse the balloons, but eventually the neck of the balloons will wear out and rip from use.</p>
+
+<h4>Go further! Expand your experiment!</h4>
+<p> Do the experiment multiple times, while changing the different variables.</p>
+<p>1. What if more baking soda is used this time, with the same amount of vinegar?</p>
+<p>2. What if more vinegar is used next, with the same amount of baking soda? Which chemical reaction inflate the biggest balloon?</p>
+<p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationtable1"> https://go.gov.sg/observationtable1</a><br> <a href="https://go.gov.sg/observationtable2"> https://go.gov.sg/observationtable2</a></p>
+
+<p><img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;"></p>
+
+<p>You may prompt the following questions to your child during or after the experiment:</p>
+<p>Did you see bubbles floating on top of the baking soda and vinegar mixture? Why? This experiment illustrates how states of matter can change; A chemical reaction takes place when baking soda is mixed with vinegar. Carbon dioxide or CO2 is released and inflates the balloon.</p>
+<p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
+<p>What else can you fill up with a gas?</p>
+<i>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
+<a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/</a></i>
+
+<h4>Find out more about fun and cool science experiments at the libraries!</h4><br>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313053494/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Bears Make the Best Science Buddies</b><br>
+       <u>Author:</u> Carmen Oliver and Jean Claude (Illustrator)<br>
+       <u>Publisher:</u> North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>Where is My Balloon?</b><br>
+        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
+        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313057953/226563257,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Inflating a Balloon</b><br>
+       <u>Author:</u> Brooke Rowe and Jeff Bane (Illustrator)<br>
+       <u>Publisher:</u> Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313058579/331326248,3" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Where is the Gas?</b><br>
+      <u>Author:</u> Marla Conn<br>
+ <u>Publisher:</u> Vero Beach, FL] : Rourke Educational Media, a division of Carson Dellosa Education, [2021]<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+
+<p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>
+
+<h4>Let’s Try Out These Experiments!</h4>
+<p>Can’t get enough? Don’t put aside your everyday household items away, check out these other related exciting science experiments that you can do, and all thanks to science! Have fun!</p>
+
+<p><a href="https://go.gov.sg/citrusexperiment"> <strong>Experiment #1: Citrus Juice and Baking Soda Experiment</strong></a></p>
+<p>
+	<a href="https://go.gov.sg/volcanoblast"> <strong>Experiment #2: Volcano Blast</strong></a></p>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 
@@ -23,7 +203,7 @@ description: ""
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href=" https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
+     <p> There is oxygen all around us in the air we breathe. Iron is permeable, which means liquid or air can pass through it. So when it is exposed to water or air, a chemical reaction occurs and it changes to iron oxide (iron + oxygen) and begins to break down.<br><i>(Oxidation Facts for Kids. (2022). Oxidation Facts for Kids. Retrieved February 22, 2022, from <a href="https://kids.kiddle.co/Oxidation" target="_blank"> https://kids.kiddle.co/Oxidation</a>)</i></p>
 	</div>
 	</div>
 
@@ -59,9 +239,9 @@ description: ""
 <p><b>Materials required:</b></p>
  <img src="/images/science-lfa/Apples/Materials.jpg" style="width:800px; text-align:left;"><br>
 
-<p>Print out the <a href="/files/science-lfa/Apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.<p>
+<p>Print out the <a href="/files/science-lfa/Apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.</p><p>
 
-<p><b> Steps</b></p>
+</p><p><b> Steps</b></p>
 <p>1. Label the cups/bowls and plate.</p>
 <ul>
 	<li>Control</li>
@@ -71,8 +251,8 @@ description: ""
 	<li>Salt water</li>
 </ul>
 <img src="/images/science-lfa/Apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
-	<p>2. Cut the apple into 5 wedges</p>
- <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
+<p>2. Cut the apple into 5 wedges</p>
+<p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
 <img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
 <img src="/images/science-lfa/Apples/Step 4.jpg" style="width:400px; text-align:left;"><br>
@@ -88,13 +268,13 @@ description: ""
 	<li>Go ahead and eat the apple slices! Do the apple slices taste different? Compare the taste of the apple slice coated in lemon juice with the plain apple slice? Which one tastes better</li>
 	<li>Do you think the lemon juice slowed or quickened the browning process?</li>
 </ul>
-<p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.<p>
+<p>By having your child predict and record their observations, you are helping them develop their process-thinking as they experiment, analyse, and draw conclusions.</p><p>
 	
-<h4>LET'S READ!</h4><br>
+</p><h4>LET'S READ!</h4><br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Libby Loves Science: Mix and Measure</b><br>
@@ -104,7 +284,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b> Look: I'm a Scientist</b><br>
@@ -116,17 +296,17 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Why is it Rusty?</b><br>
        <u>Author:</u> Joo-yeong Muhn &amp; Hye-won Kim (Illustrator)<br>
-       <u>Publisher:</u> Big & Small, 2017.<br>
+       <u>Publisher:</u> Big &amp; Small, 2017.<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Ada Twist, Scientist</b><br>
@@ -164,13 +344,13 @@ description: ""
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. Children can understand and expect the changes in the structure of the song, which develops their mathematical awareness. Encourage your child to clap along with the striking of the clock. E.g. clap once when the clock strikes One, twice when the clock strikes Two etc.</p>
  
 <h4>LET'S READ!</h4><br>
- <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204160982" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
+ <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204160982" target="_blank"><img src="/images/fixthatclock.png" style="width:250px; text-align:left;"></a>
  
 <p><b>Fix that Clock!</b><br>
         <u>Author:</u> Kurt Cyrus<br>
         <u>Publisher:</u> Boston ; New York : Houghton Mifflin Harcourt, 2019<br>
  
-<h4>Tips for Parents:</h4>
+</p><h4>Tips for Parents:</h4>
  <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
  
 <img src="/images/BooktalkQuestions.png" style="width:650px; text-align:left;">
@@ -271,7 +451,7 @@ description: ""
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202746559" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202746559" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Telling the Time</b><br>
@@ -281,7 +461,7 @@ description: ""
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204442949" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204442949" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Measuring Time</b><br>
@@ -293,7 +473,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204092884" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204092884" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Time</b><br>
@@ -303,7 +483,7 @@ description: ""
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>I Know About Telling Time</b><br>
@@ -429,7 +609,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205270776" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205270776" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Rosa's Big Boat Experiment</b><br>
@@ -439,7 +619,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205544494" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205544494" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Will It Float or Sink?</b><br>
@@ -451,7 +631,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205276885" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205276885" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Boats Will Float</b><br>
@@ -461,7 +641,7 @@ description: ""
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202557168" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202557168" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Why Do Ice Cubes Float?</b><br>
@@ -542,7 +722,7 @@ description: ""
    </div>
  </div>
  
-<p><br><i>Water Q&A: Why can't people drink seawater?. Water Q&A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater" target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
+<p><br><i>Water Q&amp;A: Why can't people drink seawater?. Water Q&amp;A: Why can't people drink seawater? | U.S. Geological Survey. (n.d.). Retrieved December 30, 2021, from <a href="https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater" target="_blank">https://www.usgs.gov/special-topic/water-science-school/science/water-qa-why-cant-people-drink-seawater 
  </a>)</i>
  </p>
  
@@ -588,7 +768,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204093723" target="_blank"><img src="/images/science-lfa/marine-animals/Marine10.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204093723" target="_blank"><img src="/images/science-lfa/marine-animals/Marine10.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Jellyfish are brainless!</b><br>
@@ -606,7 +786,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645005" target="_blank"><img src="/images/science-lfa/marine-animals/marine12.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202645005" target="_blank"><img src="/images/science-lfa/marine-animals/marine12.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Octopuses</b><br>
@@ -624,7 +804,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202820935" target="_blank"><img src="/images/science-lfa/marine-animals/marine14.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202820935" target="_blank"><img src="/images/science-lfa/marine-animals/marine14.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Starfish</b><br>
@@ -673,7 +853,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <p>Download the instructions below to help you make the Paper Plate Aquarium!<br>
 	
  <a href="https://go.gov.sg/instructions-paper-plate-aquarium" target="_blank">Instructions for Paper Plate Aquarium</a><br>
- <p>The sea aquarium habitat is now ready to welcome the marine animals! </p>
+ </p><p>The sea aquarium habitat is now ready to welcome the marine animals! </p>
 
 <h4>Tips for Parents:</h4> 
 <p>Do allow your child to colour the paper plate in other colours. Encourage them to use their creativity to decorate the paper plate. This activity gives your child an opportunity to express their ideas and help boost their confidence in making their own decisions.</p>
@@ -733,7 +913,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202545736" target="_blank"><img src="/images/science-lfa/marine-animals/Marine24.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202545736" target="_blank"><img src="/images/science-lfa/marine-animals/Marine24.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Why is seawater salty?</b><br>
@@ -743,7 +923,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202889581" target="_blank"><img src="/images/science-lfa/marine-animals/Marine25.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889581" target="_blank"><img src="/images/science-lfa/marine-animals/Marine25.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>If sharks disappeared</b><br>
@@ -755,7 +935,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204497339" target="_blank"><img src="/images/science-lfa/marine-animals/Marine26.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204497339" target="_blank"><img src="/images/science-lfa/marine-animals/Marine26.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Oceans</b><br>
@@ -765,7 +945,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244390" target="_blank"><img src="/images/science-lfa/marine-animals/Marine27.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205244390" target="_blank"><img src="/images/science-lfa/marine-animals/Marine27.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Yoga whale : simple poses for little ones</b><br>

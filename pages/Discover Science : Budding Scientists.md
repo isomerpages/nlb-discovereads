@@ -168,7 +168,7 @@ Ann Arbor, MI : Cherry Lake Publishing, [2018]</p>
 <p><strong>Experiment #2: Volcano Blast</strong><br>
 	<a href="https://go.gov.sg/volcanoblast"> https://go.gov.sg/volcanoblast</a></p>
 
-[Back to top](#main-content)
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 

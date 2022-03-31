@@ -35,24 +35,21 @@ description: ""
    </div>
  <div class="col is-three-fifths">
      <p><b> Blow Up a Balloon with Science (4min 24 secs) </b><br>
-Let's blow up a balloon with Science in this fun experiment!
  </p>
    </div>
  </div>
 
-![](/images/science-lfa/Balloon%20inflater/balloonblowup.jpeg)
-
 <h4>Blow Up A Balloon With No Hands Experiment</h4>
-<p>Learn how you can blow up a balloon with a simple science experiment.!</p>
+<p>Learn how you can blow up a balloon with a simple science experiment!</p>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a target="_blank" href="https://youtu.be/5eFIaNP8lKE">
+    <div class="image"><a target="_blank" href="https://youtu.be/uVzzHoE6Edg">
        <img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/balloonblowup.jpeg"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p><b> Under the Sea: Ocean Animal Moves (3min 07 secs) </b><br>
- Watch how different marine animals swim, jump and scurry. Can you move like them?
+     <p><b> Blow Up a Balloon with No Hands Experiment (2min 50 secs) </b><br>
+ 
  </p>
    </div>
  </div>
@@ -91,6 +88,7 @@ Let's blow up a balloon with Science in this fun experiment!
 <p>4. How does the chemical reaction works?</p>
 
 <img style="width:400px; text-align:left;" src="/images/science-lfa/Balloon%20inflater/Lets%20Investigate.jpg"><br>
+
 
 
 

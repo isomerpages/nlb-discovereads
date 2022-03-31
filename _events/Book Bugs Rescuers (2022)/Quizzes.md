@@ -10,13 +10,14 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 Quizzes will be updated every month.
 
+![](/images/events/bookbugsr/Jojo-Final-Artwork.png)
+
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSchQqvGpQgdt0SPrCbpNi0_dVQonaiMtIBWBvTI_F8rtUaKfw/viewform" target="_blank" rel="noopener noreferrer"> English Quiz</a>
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsmF62eB0zB6aKeFEY5hj0iRzVplAdnj7I0WjyLGrgwt5fvA/viewform" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 
 ### March 2022
-
 
 
 <img src="/images/events/bookbugsr/BB3_FinalArtwork-Embra.png" style="width: 90%;">

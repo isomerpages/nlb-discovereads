@@ -14,9 +14,11 @@ description: ""
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
 <img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:500px; text-align:center;">
+
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg" style="width:300px; text-align:left;">
+
 <h4>Let’s Learn about Chemical Reactions</h4>
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
 <p>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a>.</p>

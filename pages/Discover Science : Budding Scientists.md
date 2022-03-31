@@ -149,8 +149,8 @@ North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
         <p><b>Where is My Balloon?</b><br>
         <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
         <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
-					<u><a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u>
-     </p></div>
+					<u><a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u></p>
+   </div>
   </div>
 	<div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
@@ -173,7 +173,7 @@ Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br></u>
         <p><b>Where is the Gas?</b><br>
         <u>Author:</u> Marla Conn<br>
         <u>Publisher:</u> [Vero Beach, FL] : Rourke Educational Media, a division of Carson Dellosa Education, [2021]<br>
-  </div>
+			</p></div>
  </div>	
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">

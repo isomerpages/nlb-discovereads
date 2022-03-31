@@ -107,6 +107,12 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>The reaction from the baking soda and vinegar is rapid. Ensure your child is ready to see the effect before combining the two items.</p>
 <p>You may reuse the balloons, but eventually the neck of the balloons will wear out and rip from use.</p>
 
+<h4>Go further! Expand your experiment!</h4>
+<p> Do the experiment multiple times, while changing the different variables.</p>
+<p>1. What if more baking soda is used this time, with the same amount of vinegar?</p>
+<p>2. What if more vinegar is used next, with the same amount of baking soda? Which chemical reaction inflate the biggest balloon?</p>
+<p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationtable1"> https://go.gov.sg/observationtable1</a><br> <a href="https://go.gov.sg/observationtable2"> https://go.gov.sg/observationtable2</a></p>
+
 
 
 

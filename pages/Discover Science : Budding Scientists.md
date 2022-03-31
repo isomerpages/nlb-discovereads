@@ -52,7 +52,6 @@ description: ""
    </div>
  <div class="col is-three-fifths">
      <p><b> Blow Up a Balloon with No Hands Experiment (2min 50 secs) </b><br>
- 
  </p>
    </div>
  </div>
@@ -129,80 +128,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Read.jpg" style="width:400px; text-align:left;"><br>
 
-<h4>Find out more about fun and cool science experiments at the libraries</h4><br> 
-<div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313053494/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
-     </div>
-    <div class="text">
-       <p><b>Bears Make the Best Science Buddies</b><br>
-       <u>Author:</u> Carmen Oliver and Jean Claude (Illustrator)<br>
-       <u>Publisher:</u> 
-North Mankato, Minnesota : Capstone Editions, a Capstone imprint, [2020]<br>
- <u><a href="https://nlb.overdrive.com/media/5240590" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u> 
-<br>
-    </p></div>
-         </div>
-  <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:140px; text-align:left;"></a>
-    </div>
-    <div class="text">
-        <p><b>Where is My Balloon?</b><br>
-        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
-        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
-					<u><a href="https://nlb.overdrive.com/media/4246448" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u></p>
-   </div>
-  </div>
-	<div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313057953/226563257,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
-     </div>
-    <div class="text">
-       <p><b>Inflating a Balloon</b><br>
-       <u>Author:</u> Brooke Rowe and Jeff Bane (Illustrator)<br>
-       <u>Publisher:</u> 
-Ann Arbor, Michigan : Cherry Lake Publishing, [2018]<br> 
-<br>
-    </p></div>
-         </div>
-  <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313058579/331326248,3" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:140px; text-align:left;"></a>
-    </div>
-    <div class="text">
-        <p><b>Where is the Gas?</b><br>
-        <u>Author:</u> Marla Conn<br>
-        <u>Publisher:</u> [Vero Beach, FL] : Rourke Educational Media, a division of Carson Dellosa Education, [2021]<br>
-			</p></div>
- </div>	
- <div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313059356/232377670,62" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
-     </div>
-    <div class="text">
-       <p><b>States of Matter</b><br>
-       <u>Author:</u> Samantha Bell and Jeff Bane (Illustrator)<br>
-       <u>Publisher:</u> 
-Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
- <u><a href="https://nlb.overdrive.com/media/3351083" target="_blank"><strong>Available at NLB Overdrive</strong></a><br></u> 
-<br>
-    </p></div>
-	 </div>
-  <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313060561/180170084,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:140px; text-align:left;"></a>
-    </div>
-    <div class="text">
-        <p><b>Matter</b><br>
-        <u>Author:</u> Abbie Dunne<br>
-					<u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br></p>
-		</div>
-	</div>
-	 <p>All book covers are copyright of the respective publishing companies.</p>
+
 	
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p><br>
 

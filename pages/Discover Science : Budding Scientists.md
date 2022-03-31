@@ -81,6 +81,13 @@ description: ""
 
 <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
 
+<h4>Observation</h4>
+<p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationsheet"> https://go.gov.sg/observationsheet</a></p>
+<p>1. What did you hear?</p>
+<p>2. What did you see?</p>
+<p>3. How did the balloon inflate?</p>
+<p>4. How does the chemical reaction works?</p>
+
 
 
 <h3 id="lp-apple" class="margin--bottom--lg"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>

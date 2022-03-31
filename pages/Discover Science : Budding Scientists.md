@@ -68,10 +68,10 @@ description: ""
 
 <h4>Instructions: </h4>
 <p>1. Using the funnel, add 1-2 teaspoon of baking soda into the balloon.</p>
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg"style="width:300px; text-align:center;"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg" style="width:300px; text-align:center;"></p>
 
 <p>2. Pour the vinegar into the bottle until it is half-filled.</p>
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%202.jpg"style="width:200px; text-align:center;"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Step%202.jpg" style="width:200px; text-align:center;"></p>
 
 <p>3. Carefully fit the balloon lip over the bottle’s nozzle, while holding onto the balloon (be careful not to drop the baking soda into the vinegar yet).</p>
 <p>4. Once the balloon is fitted snugly on the nozzle, and you are ready, hold up the balloon and allow the baking soda to fall into the vinegar.</p>

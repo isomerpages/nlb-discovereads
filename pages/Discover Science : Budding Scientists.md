@@ -122,6 +122,13 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>Carbon Dioxide Facts For Kids | Among First Discovered Gases. Facts For Kids. (2022). Retrieved 29 March 2022, from
 <a href="https://factsforkids.net/carbon-dioxide-facts-for-kids/.">https://factsforkids.net/carbon-dioxide-facts-for-kids/.</a>.</font></p>
 
+<img src="/images/science-lfa/Balloon%20inflater/Lets%20Read.jpg" style="width:400px; text-align:left;"><br>
+
+<h4>Find out more on fun and cool science experiment at the libraries</h4> 
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/312160814/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:250px; text-align:left;"></a><br>
+ <p><strong>Bears Make the Best Science Buddies</strong> <br>
+Author: Carmen Oliver <br>
+Publisher: North Mankato, Minnesato: Capstone Editions, a Capstone [2020]</p><br>
 
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>

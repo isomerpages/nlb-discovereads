@@ -196,9 +196,10 @@ Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
     <div class="text">
         <p><b>Matter</b><br>
         <u>Author:</u> Abbie Dunne<br>
-        <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
+					<u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br></p>
 		</div>
-	</div><p>All book covers are copyright of the respective publishing companies.</p>
+	</div>
+	 <p>All book covers are copyright of the respective publishing companies.</p>
 	
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>
 

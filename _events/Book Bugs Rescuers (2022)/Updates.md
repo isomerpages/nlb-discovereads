@@ -4,6 +4,19 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 1 April 2022
+
+[<img src="/images/events/bookbugsr/April Quiz Reminder.png" alt="April Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+
+**Earn Bonus Points With Our April Quiz!**
+
+Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
+
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in April 2022, points will be credited by 6 May 2022, 2359 hours.)
+
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+
+
 #### 16 March 2022 
 [<img src="/images/events/bookbugsr/March-Quiz-Reminder .png" alt="March Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 

@@ -19,7 +19,7 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 
 ### March 2022 (Closed)
 
-This quiz has now closed. Points will be awarded by 7 April 2022, Friday. All entries received after 31 March 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
+This quiz has now closed. Points will be awarded by 7 April 2022, Thursday. All entries received after 31 March 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
 
 <img src="/images/events/bookbugsr/BB3_FinalArtwork-Embra.png" style="width: 90%;">
 

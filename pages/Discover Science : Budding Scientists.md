@@ -176,6 +176,28 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  </p></div>
    </div>
   </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313059356/232377670,62" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>States of Matter</b><br>
+       <u>Author:</u> Samantha Bell and Jeff Bane (Illustrator)<br>
+       <u>Publisher:</u> Ann Arbor, MI : Cherry Lake Publishing, [2018]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>Where is My Balloon?</b><br>
+        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
+        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+     </p></div>
+  </div>
+ </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
 
 <p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>

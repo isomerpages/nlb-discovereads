@@ -189,12 +189,12 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313054779/280710966,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313060561/180170084,1" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-			<p><b>Where is My Balloon?</b><br>
-        <u>Author:</u> Ariel Bernstein and Scott Magoon (Illustrator)<br>
-        <u>Publisher:</u> New York : Simon & Schuster Books for Young Readers, [2019]<br>
+			<p><b>Matter</b><br>
+        <u>Author:</u> Abbie Dunne<br>
+        <u>Publisher:</u> North Mankato, Minnesota : Capstone Press, [2017]<br>
      </p></div>
   </div>
  </div>

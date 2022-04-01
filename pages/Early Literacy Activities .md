@@ -7,7 +7,7 @@ description: ""
 ---
 *(Updated in April 2022)*
 
-**Here are some activities you can do with your little ones that tie in with the five early literacy practices. We have also included book recommendations for you to borrow and read together!**
+**Here are some activities you can do with your little ones that tie in with the five early literacy practices. We have also included book recommendations for you to read together with your child!**
 
 ##### April 2022
 

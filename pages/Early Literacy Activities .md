@@ -12,6 +12,8 @@ description: ""
 <img src="/images/diyresources/preschool/aprilactivities.png" style="width:80%">
 <br>
 <img src="/images/diyresources/preschool/aprilbooks.png" style="width:80%">
+
+Click here to download a copy.
 <br>
 
 ##### January 2022

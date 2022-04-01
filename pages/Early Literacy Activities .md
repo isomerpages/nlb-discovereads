@@ -7,7 +7,15 @@ description: ""
 ---
 *(Updated in April 2022)*
 
-<img src="/images/diyresources/preschool/earlylitactivities.png" style="width:90%">
+#### April 2022
+
+<img src="/images/diyresources/preschool/aprilactivities.png" style="width:80%">
+<br>
+<img src="/images/diyresources/preschool/aprilbooks.png" style="width:80%">
+<br>
+
+##### January 2022
+<img src="/images/diyresources/preschool/earlylitactivities.png" style="width:80%">
 
 <br>
 

@@ -7,6 +7,8 @@ description: ""
 ---
 *(Updated in April 2022)*
 
+**Here are some activities you can do with your little ones that tie in with the five early literacy practices. We have also included book recommendations for you to borrow and read together!**
+
 ##### April 2022
 
 <img src="/images/diyresources/preschool/aprilactivities.png" style="width:80%">

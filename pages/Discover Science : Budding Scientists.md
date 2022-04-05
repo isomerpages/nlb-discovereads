@@ -81,12 +81,12 @@ description: ""
 <p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg" style="width:200px; text-align:center;"></p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
+ <div class="col is-one-fifths">
     <div class="image">
        <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;">
      </div>
    </div>
- <div class="col is-three-fifths">
+ <div class="col is-four-fifths">
      <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
 	</div>
 	</div>

@@ -110,7 +110,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <i>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
 <a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:400px; text-align:left;"><br>
+<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:300px; text-align:left;"><br>
 
 <p>Reusing the vinegar will not work. You will have to rinse the bottle each time and pour fresh vinegar into the bottle before starting again.</p>
 <p>The reaction from the baking soda and vinegar is rapid. Ensure your child is ready to see the effect before combining the two items.</p>

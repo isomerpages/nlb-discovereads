@@ -83,7 +83,7 @@ description: ""
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;">
+       <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">

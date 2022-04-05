@@ -23,7 +23,7 @@ description: ""
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
 <i>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Science%20Terms.png" style="width:700px; text-align:left;"><br>
+<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Science%20Terms_edited.png" style="width:700px; text-align:left;"><br>
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;">
 

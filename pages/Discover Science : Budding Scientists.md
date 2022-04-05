@@ -13,7 +13,7 @@ description: ""
 
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:700px; text-align:center;">
+<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Up%20Up%20And%20Away%20Banner.png" style="width:700px; text-align:center;">
 
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
 

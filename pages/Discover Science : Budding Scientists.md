@@ -13,7 +13,7 @@ description: ""
 
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Bannerimage.jpg" style="width:700px; text-align:center;">
+<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Up%20Up%20And%20Away%20Banner.png" style="width:700px; text-align:center;">
 
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
 
@@ -23,7 +23,7 @@ description: ""
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
 <i>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Science%20Terms.jpg" style="width:700px; text-align:left;"><br>
+<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Science%20Terms_edited.png" style="width:700px; text-align:left;"><br>
 
 <img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;">
 
@@ -81,12 +81,12 @@ description: ""
 <p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg" style="width:200px; text-align:center;"></p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
+ <div class="col is-one-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;">
+       <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;">
      </div>
    </div>
- <div class="col is-three-fifths">
+ <div class="col is-four-fifths">
      <p> Before starting the experiment, you might want to stretch the balloon tip to make it more elastic and easier to inflate.</p>
 	</div>
 	</div>
@@ -110,7 +110,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <i>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
 <a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:400px; text-align:left;"><br>
+<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:300px; text-align:left;"><br>
 
 <p>Reusing the vinegar will not work. You will have to rinse the bottle each time and pour fresh vinegar into the bottle before starting again.</p>
 <p>The reaction from the baking soda and vinegar is rapid. Ensure your child is ready to see the effect before combining the two items.</p>
@@ -122,7 +122,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>2. What if more vinegar is used next, with the same amount of baking soda? Which chemical reaction inflate the biggest balloon?</p>
 <p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationtable1"> https://go.gov.sg/observationtable1</a><br> <a href="https://go.gov.sg/observationtable2"> https://go.gov.sg/observationtable2</a></p>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Tips.jpg" style="width:200px; text-align:left;"></p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;"></p>
 
 <p>You may prompt the following questions to your child during or after the experiment:</p>
 <p>Did you see bubbles floating on top of the baking soda and vinegar mixture? Why? This experiment illustrates how states of matter can change; A chemical reaction takes place when baking soda is mixed with vinegar. Carbon dioxide or CO2 is released and inflates the balloon.</p>

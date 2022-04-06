@@ -537,7 +537,7 @@ You’ll need:
 
 Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nqSUy5PyY_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![lava lamp video](/images/diyresources/primary/Lava%20Lamp.jpg)](https://www.youtube.com/watch?v=nqSUy5PyY_k)
 
 Source: [How to make a lava lamp at home](https://www.youtube.com/watch?v=nqSUy5PyY_k)(14 April 2020)
 

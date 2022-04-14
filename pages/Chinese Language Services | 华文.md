@@ -49,13 +49,13 @@ permalink: /chinese-language
 
 
 
-![](/images/mother-tongue-services/Digital%20Offerings.png)
+![](/images/Digital%20Offerings_13%20April%202022.png)
 
 **线上活动报名链接：
 
 ****一红老师讲故事：
 
-| [第一个星期日](https://go.gov.sg/onered-storytelling)     | [第三个星期日](https://go.gov.sg/onered-storytelling2)     | 
+| [第一个星期六](https://go.gov.sg/onered-storytelling)     | [第三个星期六](https://go.gov.sg/onered-storytelling2)     | 
 
 [线上亲子故事会](https://go.gov.sg/chinese-folktales )
 

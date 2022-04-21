@@ -157,7 +157,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=203810956" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=203020930" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Inflating a Balloon</b><br>
@@ -167,7 +167,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=203020930" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=204510985" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/where%20is%20the%20gas.jpeg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Where is the Gas?</b><br>
@@ -179,7 +179,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=204510985" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=205663716" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>States of Matter</b><br>
@@ -189,7 +189,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=205663716" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=202644939" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/matter.jpeg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>Matter</b><br>

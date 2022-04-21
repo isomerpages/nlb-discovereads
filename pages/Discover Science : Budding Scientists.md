@@ -135,7 +135,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/313053494/334822861,2" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=205273902" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Bears Make the Best Science Buddies</b><br>
@@ -145,7 +145,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=205273902" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ?SETLVL=1&BRN=203810956" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>Where is My Balloon?</b><br>

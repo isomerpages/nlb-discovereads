@@ -296,7 +296,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205321119" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205358238" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Libby Loves Science: Mix and Measure</b><br>

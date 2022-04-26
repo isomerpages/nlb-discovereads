@@ -95,7 +95,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
  <p>2. Colour the human body.</p>
  <p>3. Label the human body parts.</p> 
  <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
-
+<img src="/images/science-lfa/Human%20body/puppet-mockup.png" style="width:300px; text-align:center;">
 <h4>LET'S INVESTIGATE!</h4>
  
 <h5> How does the body work? Let’s Explore with Your Human Body Puppet!</h5>

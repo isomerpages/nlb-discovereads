@@ -136,13 +136,13 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <h4>LET'S TRY THESE AT HOME</h4>
 
 <p>1. Have your child stand in front of the mirror and point to each of their body parts, e.g. their head, 
-their hips, their belly etc. Say the names of these parts aloud and get them to repeat after you.<br>
+their hips, their belly etc. Say the names of these parts aloud and get them to repeat after you.</p>
 
-Repeat this exercise every day and start by first teaching them the upper body parts (parts of the face 
+<p>Repeat this exercise every day and start by first teaching them the upper body parts (parts of the face 
 and shoulders) before moving on to the middle body parts (stomach, arms etc.) and gradually to lower 
-body parts (legs, feet and backside).<br>
+body parts (legs, feet and backside).</p>
 
-Slowly, your child will begin to recognise their body parts!<p>
+<p>Slowly, your child will begin to recognise their body parts!</p>
 <img src="/images/science-lfa/Human%20body/body16.png" style="width:400px; text-align:center;">
 	
 <p>2. Play a movement game with your child to help them develop their body awareness. Get them to 

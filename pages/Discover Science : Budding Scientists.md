@@ -123,7 +123,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <li> Mouth:  Taste – Explore sweet, salty, sour, or bitter flavours.</li>
 <li> Hands:  Touch -  Hold and feel objects.</li>
 </ul>
-<i><p>Source:  Preschool science activities - The human body. Preschools4All.com. (n.d.). Retrieved March 28, 2022, from https://www.preschools4all.com/preschool-science.html</a>.</p></i>
+<i><p>Source:  Preschool science activities - The human body. Preschools4All.com. (n.d.). Retrieved March 28, 2022, from https://www.preschools4all.com/preschool-science.html.</p></i>
 
 <h4>Tips for Parents:</h4> 
 <p> You may also ask your child the following questions as they play with their Human Body Puppet.</p>
@@ -178,7 +178,7 @@ like a flamingo and so on.</p>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/322581970/178142945,1" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>It’s Fun To Learn About My Body</b><br>
@@ -188,7 +188,7 @@ like a flamingo and so on.</p>
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Curious Questions And Answers About….My Body</b><br>
@@ -200,8 +200,7 @@ like a flamingo and so on.</p>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 
-200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> My Body</b><br>
@@ -211,7 +210,7 @@ like a flamingo and so on.</p>
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/322582152/387634,12" target="_blank"><img src="/images/science-lfa/Human%20body/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13373223" target="_blank"><img src="/images/science-lfa/Human%20body/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Thank You For Me!</b><br>

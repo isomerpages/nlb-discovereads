@@ -65,7 +65,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <h4>LET'S READ!</h4><br>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 205454612" target="_blank"><img src="/images/science-lfa/Human%20body/bodiesarecool11.jpg" style="width:250px; text-align:left;"></a>
 
-<p><b>Bodies Are Cool</b><br>
+<b>Bodies Are Cool</b><br>
         <u>Author:</u> Tyler Feder<br>
         <u>Publisher:</u> New York: Dial Books for Young Readers, 2021<br>
 

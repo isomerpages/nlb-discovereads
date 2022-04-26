@@ -219,7 +219,7 @@ like a flamingo and so on.</p>
  <u>Publisher:</u> New York: Simon & Schuster Books for Young Readers, 2010<br>
  </p></div>
   </div>
- </div><p>All book covers are copyright of the respective publishing companies.</p><br>
+ </div><p>All book covers are copyright of the respective publishing companies.</p>
  
  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

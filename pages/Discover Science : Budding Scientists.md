@@ -65,9 +65,9 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <h4>LET'S READ!</h4><br>
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 205454612" target="_blank"><img src="/images/science-lfa/Human%20body/bodiesarecool11.jpg" style="width:250px; text-align:left;"></a>
 
-<b>Bodies Are Cool</b><br>
+<p><b>Bodies Are Cool</b><br>
         <u>Author:</u> Tyler Feder<br>
-        <u>Publisher:</u> New York: Dial Books for Young Readers, 2021<br>
+        <u>Publisher:</u> New York: Dial Books for Young Readers, 2021<br></p>
 
 <h4>Tips for Parents:</h4>
  <p>Read aloud and encourage your child to read along with you. Initiate conversations about the story by asking questions like: “What do you see on this page?” or “What do you think will happen next?” Talking to your child will help develop their language and communication skills.</p>
@@ -102,7 +102,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <h5> How does the body work? Let’s Explore with Your Human Body Puppet!</h5>
 
 
-<b><p>Functions of Different Body Parts</p> </b>
+<b><p>Functions of Different Body Parts</p></b>
 <ul>
 <li>Arms:  Help us keep balance.</li>
 <li>Hands:  Help us hold and touch things.</li>
@@ -113,14 +113,16 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <li> Lungs:  Help us to breathe.</li>
 <li> Stomach:  Helps turns food to energy.</li>
 <li> Bones:  Help give structure to our body.</li>
+</ul>
 
-<b><p>The Five Senses</p></b>
+<b>The Five Senses</b>
+<ul>
 <li> Eyes:  Vision - See the world.</li>
 <li> Ears:  Hear - Listen to sounds.</li>
 <li> Nose:  Smell - Smell things.</li>
 <li> Mouth:  Taste – Explore sweet, salty, sour, or bitter flavours.</li>
 <li> Hands:  Touch -  Hold and feel objects.</li>
-
+</ul>
 <p>Source:  Preschool science activities - The human body. Preschools4All.com. (n.d.). Retrieved March 28, 2022, from https://www.preschools4all.com/preschool-science.html</a>.</p>
 
 <h4>Tips for Parents:</h4> 

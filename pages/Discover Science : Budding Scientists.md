@@ -7,7 +7,50 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> |<strong>**New!***</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a>
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!***</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!***</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a>
+
+<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
+ <p><b>Suitable for 3 to 6 years old children</b></p>
+ 
+<img src="/images/science-lfa/Human%20body/body1.png" style="width:400px; text-align:center;">
+<p> The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions!</p>
+
+<h4>LET'S SING!</h4>
+ <h5>Tuning-in Song: My Body Song</h5>   
+
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/yRNXfe9-aWo" target="_blank">
+       <img src="/images/science-lfa/Human%20body/cocomelon-thumbnail.jpg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> My Body Song | CoComelon Nursery Rhymes & Kids Songs (4 min 37 secs) </b><br>A tuning-in song is a simple way to introduce your child to their body parts. Singing and dancing help your child grasp and retain what they have learnt.
+ </p>
+   </div>
+ </div>
+<h4>Tips for Parents:</h4> 
+<p> Explore music and movement with your child based on the human body parts.  Point to your own body parts, come up with your own tune, sing, move, and dance. Do not be afraid of being silly or singing off-key. Your child will remember things better when they are said in 
+rhyme or sung to a catchy tune.</p>
+
+<h4>Let’s Learn</h4>
+<img src="/images/science-lfa/Human%20body/body2.png" style="width:400px; text-align:center;">
+
+<p> Did you know these fun facts about the human body?<p>  
+<ul>
+<li> Your teeth are as strong as a shark’s teeth – but your jaws are smaller, so you can’t bite like a shark.</li>
+<li> Some parts of your body can never be replaced. The enamel on your teeth and the goo inside your eyes will last all your life. </li>
+<li> By the time you were six months old, your eyes were already two-thirds their adult size.</li>
+<li> Fingerprints are not the body’s only unique pattern. You can also be identified by your tongue print, your personal smell, and the pattern in your iris (the coloured part of your eye)</li>
+</ul>
+
+Source: Curious Questions And Answers About….My Body
+Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of Rosen Publishing from https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550
+
+<h4>LET'S PLAY!</h4> 
+<p> Give our activity sheet a try! Have your child count and indicate the number of <a href="/files/science-lfa/body-parts-activity/bodypartsactivity3.pdf" target="_blank ">body parts</a>. Through this activity, your child can learn how to identify and spell the names of the body parts.</p> 
+
+
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

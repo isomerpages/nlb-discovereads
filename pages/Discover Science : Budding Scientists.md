@@ -59,7 +59,23 @@ Here is the answer sheet for the <a href="/files/science-lfa/Human%20body/bodypa
 
 Here is the answer sheet for the <a href="/files/science-lfa/Human%20body/internalorgansanswersheet9.pdf" target="_blank ">Internal Organs activity sheet</a>.
 	
+<h4>Tips for Parents:</h4> 
+<p> Doing simple activities such as these with your child will help spark an interest on the topic, even for concepts that may seem to be way over their heads. Don’t underestimate how much your child can absorb new information! Once, your child is interested in learning more, you can supplement their knowledge with books from the library!</p>
 
+<h4>LET'S READ!</h4><br>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 205454612" target="_blank"><img src="/images/science-lfa/Human%20body/bodiesarecool11.jpg" style="width:250px; text-align:left;"></a>
+
+<p><b>Bodies Are Cool</b><br>
+        <u>Author:</u> Tyler Feder<br>
+        <u>Publisher:</u> New York: Dial Books for Young Readers, 2021<br>
+
+<h4>Tips for Parents:</h4>
+ <p>Read aloud and encourage your child to read along with you. Initiate conversations about the story by asking questions like: “What do you see on this page?” or “What do you think will happen next?” Talking to your child will help develop their language and communication skills.</p>
+
+<h4>LET'S CRAFT!</h4>
+ <h5>Label, Colour and Create with A Human Body Puppet!</h5>
+ <img src="/images/science-lfa/Human%20body/body12.png" style="width:300px; text-align:center;">
+ <p> Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

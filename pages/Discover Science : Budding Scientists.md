@@ -91,17 +91,17 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <li>Chopstick</li>
 </ul>
 <div class="row is-multiline margin--bottom--lg">
- <div class="col is-three-fifths">
- <h5>Instructions</h5>
+ <div class="col is-two-fifths">
+     <h5>Instructions</h5>
 <p>1. Print the activity template on an A4-sized paper.
  <p>2. Colour the human body.</p>
  <p>3. Label the human body parts.</p> 
 	 <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
-	</div>
-  <div class="col is-two-fifths">
-       <div class="image"><img src="/images/science-lfa/Human%20body/puppetmockup.png" style="width:200px; text-align:left;">
+   </div>
+ <div class="col is-three-fifths">
+     <div class="image"><img src="/images/science-lfa/Human%20body/puppetmockup.png" style="width:200px; text-align:left;">
      </div>
- </div>
+   </div>
  </div>
 <p> Here is <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">the answer sheet for Label, Colour And Create With A Human Body Puppet!</a> activity.</p>
 

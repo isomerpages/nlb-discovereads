@@ -98,7 +98,43 @@ Work with your child to make their <a href="/files/science-lfa/Human%20body/Temp
 <p> Below is the answer sheet for Label, Colour And Create With A  <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">Human Body Puppet!</a> activity.</p>
 
 <img src="/images/science-lfa/Human%20body/body15.png" style="width:300px; text-align:left;">
-	
+
+<h4>LET'S INVESTIGATE!</h4>
+ 
+<h5> How does the body work? Let’s Explore with Your Human Body Puppet!</h5>
+
+
+<b><p>Functions of Different Body Parts</p> </b>
+<ul>
+<li>Arms:  Help us keep balance.</li>
+<li>Hands:  Help us hold and touch things.</li>
+<li>Legs:  Run, walk, and move.</li>
+<li> Feet:  Help us stand upright.</li>
+<li> Heart:  Pumps blood through our body.</li>
+<li> Brain:  Helps us think and talk.</li>
+<li> Lungs:  Help us to breathe.</li>
+<li> Stomach:  Helps turns food to energy.</li>
+<li> Bones:  Help give structure to our body.</li>
+
+<b><p>The Five Senses</p></b>
+<li> Eyes:  Vision - See the world.</li>
+<li> Ears:  Hear - Listen to sounds.</li>
+<li> Nose:  Smell - Smell things.</li>
+<li> Mouth:  Taste – Explore sweet, salty, sour, or bitter flavours.</li>
+<li> Hands:  Touch -  Hold and feel objects.</li>
+
+<p>Source:  Preschool science activities - The human body. Preschools4All.com. (n.d.). Retrieved March 28, 2022, from https://www.preschools4all.com/preschool-science.html</a>.</p>
+
+<h4>Tips for Parents:</h4> 
+<p> You may also ask your child the following questions as they play with their Human Body Puppet.</p>
+<p>1. Can you name the different body parts?</p>
+<p>2. What are the organs in our body?</p>
+<p>3. What are the functions of each body part?</p>
+<p>4. What will happen if one of our body parts is missing? For example, what happens if we don’t have our eyes?</p>
+
+<p> Asking open-ended questions will give your child opportunities to think about their answers and express their thoughts. Their answers may not be entirely right so this is where you can encourage and guide them!</p>
+
+
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 
 <p><b>Suitable for 4 to 6 years old children</b></p>

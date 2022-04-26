@@ -45,7 +45,7 @@ rhyme or sung to a catchy tune.</p>
 </ul>
 
 <i>Source: Curious Questions And Answers About….My Body
-Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of Rosen Publishing from <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550" target="_blank ">https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550</a></i>
+Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of Rosen Publishing. Visit our libraries to <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550" target="_blank">borrow the book</a>!</i>
 
 <h4>LET'S PLAY!</h4> 
 <p> <a href="/files/science-lfa/Human%20body/bodypartssactivity3.pdf" target="_blank ">Give our activity sheet a try!</a> Have your child count and indicate the number of body parts. Through this activity, your child can learn how to identify and spell the names of the body parts.</p>

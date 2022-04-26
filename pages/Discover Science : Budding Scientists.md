@@ -12,7 +12,7 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  
-<img src="/images/science-lfa/Human%20body/body1.png" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/Human%20body/body1.png" style="width:600px; text-align:center;">
 <p> The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions!</p>
 
 <h4>LET'S SING!</h4>

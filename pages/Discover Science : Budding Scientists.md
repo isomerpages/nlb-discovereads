@@ -48,11 +48,11 @@ rhyme or sung to a catchy tune.</p>
 Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of Rosen Publishing from https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550</i></p>
 
 <h4>LET'S PLAY!</h4> 
-<p> Give our activity sheet a try! Have your child count and indicate the number of <a href="/files/science-lfa/Human%20body/bodypartssactivity3.pdf" target="_blank ">body parts</a>. Through this activity, your child can learn how to identify and spell the names of the body parts.</p>
+<p> <a href="/files/science-lfa/Human%20body/bodypartssactivity3.pdf" target="_blank ">Give our activity sheet a try!</a> Have your child count and indicate the number of body parts. Through this activity, your child can learn how to identify and spell the names of the body parts.</p>
 
-<img src="/images/science-lfa/Human%20body/body4.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/Human%20body/body4.png" style="width:300px; text-align:center;">
 
-<p>Here is the answer sheet for the <a href="/files/science-lfa/Human%20body/bodypartsactivityanswersheet5.pdf" target="_blank ">Body Parts activity sheet</a>.</p>
+<p>Here is <a href="/files/science-lfa/Human%20body/bodypartsactivityanswersheet5.pdf" target="_blank ">the answer sheet for the Body Parts activity sheet</a>.</p>
 
 <p> Good job! Here’s another activity sheet about <a href="/files/science-lfa/Human%20body/internalorgansactivitysheet7.pdf" target="_blank">internal organs!</a> Have your child label them. Through this activity, your child can identify, read aloud, and spell the names of the internal organs.
 <img src="/images/science-lfa/Human%20body/body8.png" style="width:600px; text-align:center;">

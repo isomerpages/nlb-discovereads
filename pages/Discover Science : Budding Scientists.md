@@ -74,7 +74,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 
 <h4>LET'S CRAFT!</h4>
  <h5>Label, Colour and Create with A Human Body Puppet!</h5>
- <img src="/images/science-lfa/Human%20body/body12.png" style="width:300px; text-align:center;">
+ <img src="/images/science-lfa/Human%20body/body12.png" style="width:600px; text-align:center;">
 
 <p>Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a> </p>
 

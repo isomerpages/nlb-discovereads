@@ -95,7 +95,9 @@ Work with your child to make their <a href="/files/science-lfa/Human%20body/Temp
  <p>3. Label the human body parts.</p> 
  <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
 
-<p> Below is the answer sheet for Label, Colour And Create With A  <a href="/files/science-lfa/the-amazing-body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">Human Body Puppet! activity</a>.</p>
+<p> Below is the answer sheet for Label, Colour And Create With A  <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">Human Body Puppet!</a> activity.</p>
+
+<img src="/images/science-lfa/Human%20body/body15.png" style="width:300px; text-align:left;">
 	
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

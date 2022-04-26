@@ -101,6 +101,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
        <img src="/images/science-lfa/Human%20body/puppetmockup.png" style="width:200px; text-align:left;">
      </div>
  </div>
+ </div>
 <p> Here is <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">the answer sheet for Label, Colour And Create With A Human Body Puppet!</a> activity.</p>
 
 <h4>LET'S INVESTIGATE!</h4>

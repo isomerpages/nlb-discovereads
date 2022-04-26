@@ -133,7 +133,23 @@ Work with your child to make their <a href="/files/science-lfa/Human%20body/Temp
 <p>4. What will happen if one of our body parts is missing? For example, what happens if we don’t have our eyes?</p>
 
 <p> Asking open-ended questions will give your child opportunities to think about their answers and express their thoughts. Their answers may not be entirely right so this is where you can encourage and guide them!</p>
+<h4>LET'S TRY THESE AT HOME</h4>
 
+<p>1. Have your child stand in front of the mirror and point to each of their body parts, e.g. their head, 
+their hips, their belly etc. Say the names of these parts aloud and get them to repeat after you.<br>
+
+Repeat this exercise every day and start by first teaching them the upper body parts (parts of the face 
+and shoulders) before moving on to the middle body parts (stomach, arms etc.) and gradually to lower 
+body parts (legs, feet and backside).<br>
+
+Slowly, your child will begin to recognise their body parts!<p>
+<img src="/images/science-lfa/Human%20body/body16.png" style="width:400px; text-align:center;">
+	
+<p>2. Play a movement game with your child to help them develop their body awareness. Get them to 
+walk in different directions. For example,forwards and backwards, running, jump, balance on one foot 
+like a flamingo and so on.</p>
+
+<img src="/images/science-lfa/Human%20body/body17.png" style="width:400px; text-align:center;">
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

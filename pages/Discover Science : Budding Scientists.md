@@ -78,6 +78,25 @@ Here is the answer sheet for the <a href="/files/science-lfa/Human%20body/intern
 
 Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a> 
 
+<h5>Materials needed</h5>
+<ul>
+ <li>A4-sized paper</li>
+ <li>Pencil</li>
+ <li>Eraser</li> 
+ <li>Tape</li> 
+<li>Scissors</li>
+<li>Colouring Pencils</li>
+<li>Chopstick</li>
+</ul>
+
+<h5>Instructions</h5>
+ <p>1. Print the activity template on an A4-sized paper.
+ <p>2. Colour the human body.</p>
+ <p>3. Label the human body parts.</p> 
+ <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
+
+<p> Below is the answer sheet for Label, Colour And Create With A  <a href="/files/science-lfa/the-amazing-body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">Human Body Puppet! activity</a>.</p>
+	
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 
 <p><b>Suitable for 4 to 6 years old children</b></p>

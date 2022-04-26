@@ -33,8 +33,8 @@ description: ""
 <p> Explore music and movement with your child based on the human body parts.  Point to your own body parts, come up with your own tune, sing, move, and dance. Do not be afraid of being silly or singing off-key. Your child will remember things better when they are said in 
 rhyme or sung to a catchy tune.</p>
 
-<h4>Let’s Learn</h4>
-<img src="/images/science-lfa/Human%20body/body2.png" style="width:400px; text-align:center;">
+<h4>LET'S LEARN!</h4>
+<img src="/images/science-lfa/Human%20body/body2.png" style="width:600px; text-align:center;">
 
 <p> Did you know these fun facts about the human body?<p>  
 <ul>

@@ -114,8 +114,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <li> Stomach:  Helps turns food to energy.</li>
 <li> Bones:  Help give structure to our body.</li>
 </ul>
-
-<b>The Five Senses</b>
+<b><p>The Five Senses</p></b>
 <ul>
 <li> Eyes:  Vision - See the world.</li>
 <li> Ears:  Hear - Listen to sounds.</li>

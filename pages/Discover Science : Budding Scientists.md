@@ -94,10 +94,10 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
  <div class="col is-three-fifths">
 <div class="text">
  <h5>Instructions</h5>
-<p>1. Print the activity template on an A4-sized paper.
+ <p>1. Print the activity template on an A4-sized paper.
  <p>2. Colour the human body.</p>
  <p>3. Label the human body parts.</p> 
-	 <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
+ <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
 	</div>
 </div>
   <div class="col is-two-fifths">

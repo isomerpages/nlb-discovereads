@@ -74,7 +74,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 
 <h4>LET'S CRAFT!</h4>
  <h5>Label, Colour and Create with A Human Body Puppet!</h5>
- <img src="/images/science-lfa/Human%20body/body12.png" style="width:600px; text-align:center;">
+ <img src="/images/science-lfa/Human%20body/body12.png" style="width:300px; text-align:center;">
 
 <p>Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a> </p>
 
@@ -95,9 +95,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
  <p>3. Label the human body parts.</p> 
  <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
 
-<p> Below is the answer sheet for Label, Colour And Create With A  <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">Human Body Puppet!</a> activity.</p>
-
-<img src="/images/science-lfa/Human%20body/body15.png" style="width:300px; text-align:left;">
+<p> Here is <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">the answer sheet for Label, Colour And Create With A Human Body Puppet!</a> activity.</p>
 
 <h4>LET'S INVESTIGATE!</h4>
  

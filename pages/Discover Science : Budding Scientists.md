@@ -54,10 +54,10 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 
 <p>Here is <a href="/files/science-lfa/Human%20body/bodypartsactivityanswersheet5.pdf" target="_blank ">the answer sheet for the Body Parts activity sheet</a>.</p>
 
-<p> Good job! Here’s another activity sheet about <a href="/files/science-lfa/Human%20body/internalorgansactivitysheet7.pdf" target="_blank">internal organs!</a> Have your child label them. Through this activity, your child can identify, read aloud, and spell the names of the internal organs.
-<img src="/images/science-lfa/Human%20body/body8.png" style="width:600px; text-align:center;">
+<p> Good job! Here’s another <a href="/files/science-lfa/Human%20body/internalorgansactivitysheet7.pdf" target="_blank">activity sheet about internal organs!</a> Have your child label them. Through this activity, your child can identify, read aloud, and spell the names of the internal organs.
+<img src="/images/science-lfa/Human%20body/body8.png" style="width:300px; text-align:center;">
 
-<p>Here is the answer sheet for the <a href="/files/science-lfa/Human%20body/internalorgansanswersheet9.pdf" target="_blank ">Internal Organs activity sheet</a>.</p>
+<p>Here is <a href="/files/science-lfa/Human%20body/internalorgansanswersheet9.pdf" target="_blank ">the answer sheet for the Internal Organs activity sheet</a>.</p>
 	
 <h4>Tips for Parents:</h4> 
 <p> Doing simple activities such as these with your child will help spark an interest on the topic, even for concepts that may seem to be way over their heads. Don’t underestimate how much your child can absorb new information! Once, your child is interested in learning more, you can supplement their knowledge with books from the library!</p>

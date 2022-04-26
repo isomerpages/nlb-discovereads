@@ -104,12 +104,6 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
      </div>
  </div>
  </div>
-<h5>Instructions</h5>
- <p>1. Print the activity template on an A4-sized paper.
- <p>2. Colour the human body.</p>
- <p>3. Label the human body parts.</p> 
- <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
-
 <p> Here is <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetAnswersheetactivity14.pdf" target="_blank">the answer sheet for Label, Colour And Create With A Human Body Puppet!</a> activity.</p>
 
 <h4>LET'S INVESTIGATE!</h4>

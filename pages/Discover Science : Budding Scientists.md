@@ -34,7 +34,7 @@ description: ""
 rhyme or sung to a catchy tune.</p>
 
 <h4>LET'S LEARN!</h4>
-<img src="/images/science-lfa/Human%20body/body2.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/Human%20body/body2.png" style="width:350px; text-align:center;">
 
 <p> Did you know these fun facts about the human body?<p>  
 <ul>
@@ -143,13 +143,14 @@ and shoulders) before moving on to the middle body parts (stomach, arms etc.) an
 body parts (legs, feet and backside).</p>
 
 <p>Slowly, your child will begin to recognise their body parts!</p>
-<img src="/images/science-lfa/Human%20body/body16.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/Human%20body/body16.png" style="width:450px; text-align:center;">
 	
 <p>2. Play a movement game with your child to help them develop their body awareness. Get them to 
 walk in different directions. For example,forwards and backwards, running, jump, balance on one foot 
 like a flamingo and so on.</p>
 
-<img src="/images/science-lfa/Human%20body/body17.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/Human%20body/body17.png" style="width:350px; text-align:center;">
+
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">

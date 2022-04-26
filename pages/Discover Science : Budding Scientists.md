@@ -149,7 +149,7 @@ body parts (legs, feet and backside).</p>
 walk in different directions. For example,forwards and backwards, running, jump, balance on one foot 
 like a flamingo and so on.</p>
 
-<img src="/images/science-lfa/Human%20body/body17.png" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/Human%20body/body17.png" style="width:600px; text-align:center;">
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
    <div class="col is-two-fifths">

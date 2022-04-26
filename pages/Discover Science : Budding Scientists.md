@@ -100,8 +100,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <h4>LET'S INVESTIGATE!</h4>
  
 <h5> How does the body work? Let’s Explore with Your Human Body Puppet!</h5>
-
-
+<br>
 <b><p>Functions of Different Body Parts</p></b>
 <ul>
 <li>Arms:  Help us keep balance.</li>

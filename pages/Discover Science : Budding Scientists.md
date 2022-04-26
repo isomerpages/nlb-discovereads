@@ -178,7 +178,7 @@ like a flamingo and so on.</p>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/322581970/178142945,1" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>It’s Fun To Learn About My Body</b><br>

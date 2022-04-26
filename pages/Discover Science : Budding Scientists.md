@@ -75,7 +75,8 @@ Here is the answer sheet for the <a href="/files/science-lfa/Human%20body/intern
 <h4>LET'S CRAFT!</h4>
  <h5>Label, Colour and Create with A Human Body Puppet!</h5>
  <img src="/images/science-lfa/Human%20body/body12.png" style="width:300px; text-align:center;">
- <p> Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a></p>
+
+Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a> 
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

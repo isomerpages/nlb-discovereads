@@ -150,6 +150,78 @@ walk in different directions. For example,forwards and backwards, running, jump,
 like a flamingo and so on.</p>
 
 <img src="/images/science-lfa/Human%20body/body17.png" style="width:400px; text-align:center;">
+<h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+   <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/SUt8q0EKbms" target="_blank">
+       <img src="/images/science-lfa/Human%20body/kidsvocab-thumbnail.jpeg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b>Kids vocabulary – Body – parts of the body – Learn English for kids – English educational video (3 mins 43 secs)</b><br>
+ Expand your child’s learning through this 3-minute video, which highlights each of their body parts. Pick up new words and build your child’s vocabulary about their body!</p>
+   </div>
+ </div>
+ <div class="row is-multiline margin--bottom--lg">
+   <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/AarlgRoPTIY" target="_blank">
+       <img src="/images/science-lfa/Human%20body/learninternalorgans-thumbnail.jpeg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b>Learn Internal Organs Name for Kids | Parts of the Body | Human Organ Name for Kids - Sakee Kids (2 mins 7 secs)</b><br>
+ This 2-minute video will teach your child more on internal organs, where are they located in the body, and their functions.</p>
+   </div>
+ </div>
+<h4>LET'S READ!</h4><br>
+
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>It’s Fun To Learn About My Body</b><br>
+       <u>Author:</u>Arianne Holden<br>
+       <u>Publisher:</u> London: Armadillo Books, [2015]<br>
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Curious Questions And Answers About….My Body</b><br>
+        <u>Author:</u> Anne Rooney and Ana Gomez (illustrator)<br>
+        <u>Publisher:</u>New York, NY: Windmill Books, an imprint of Rosen Publishing, 2021<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 
+200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> My Body</b><br>
+       <u>Author:</u>Jaclyn Crupi, Patrizia Donaera (illustrator) and Jane Porter (illustrator)<br>
+       <u>Publisher:</u> London: Ladybird Books, [2014]<br>
+       </p></div>
+   </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13373223" target="_blank"><img src="/images/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Thank You For Me!</b><br>
+      <u>Author:</u> Marion Dane Bauer and Kristina Stephenson (illustrator)<br>
+ <u>Publisher:</u> New York: Simon & Schuster Books for Young Readers, 2010<br>
+ </p></div>
+  </div>
+ </div><p>All book covers are copyright of the respective publishing companies.</p><br>
+ 
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

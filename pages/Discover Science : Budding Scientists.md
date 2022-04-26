@@ -123,7 +123,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 <li> Mouth:  Taste – Explore sweet, salty, sour, or bitter flavours.</li>
 <li> Hands:  Touch -  Hold and feel objects.</li>
 </ul>
-<p>Source:  Preschool science activities - The human body. Preschools4All.com. (n.d.). Retrieved March 28, 2022, from https://www.preschools4all.com/preschool-science.html</a>.</p>
+<i><p>Source:  Preschool science activities - The human body. Preschools4All.com. (n.d.). Retrieved March 28, 2022, from https://www.preschools4all.com/preschool-science.html</a>.</p></i>
 
 <h4>Tips for Parents:</h4> 
 <p> You may also ask your child the following questions as they play with their Human Body Puppet.</p>

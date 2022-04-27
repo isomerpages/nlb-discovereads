@@ -13,7 +13,6 @@ Simple activities for children to do at home or in school! Click on the images t
 ##### Peter H. Reynolds
 "Stories for all Ages" author Peter Reynolds has been widely praised around the world for his work. Throughout Peter's career, he has devoted himself to using media to communicate stories that matter and inspire us to fulfill our greatest potential. As a motivational speaker, Peter travels the globe promoting "off-the-path" learning, daily creativity, and motivating children and "grown-up" children to have successsful and meaningful lives.
 
-<br>
 | <a href="/files/preschool/activity-sheets/Peter1.PDF"><img src="/images/diyresources/preschool/Peter1.jpg" style="width: 60%;"></a> | <a href="/files/preschool/activity-sheets/Peter2.PDF"><img src="/images/diyresources/preschool/Peter2.jpg" style="width: 60%;"></a> | 
 |<a href="/files/preschool/activity-sheets/Peter3.PDF"><img src="/images/diyresources/preschool/Peter3.jpg" style="width: 60%;"></a> | <a href="/files/preschool/activity-sheets/Peter4.PDF"><img src="/images/diyresources/preschool/Peter4.jpg" style="width: 60%;"></a> |
 

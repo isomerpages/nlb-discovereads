@@ -4,6 +4,14 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 29 April 2022
+
+![](/images/events/bookbugsr/BBR%20huo%20huan%20release%20FB%20v2.png)
+
+🔥Huo Huan🔥—Bugtopia’s scorching land of fire and stone. Only the hardiest of #BookBugs call this volcanic desert their home. Explore The Labyrinth, Flavo Dune, Northern Mines, and more with the newly released Huo Huan cards, quizzes, and storymap✨. 
+
+Head to the public libraries to redeem new Huo Huan cards from 4 May! Every book or eBook borrowed gives you 1 point, and every 4 points gives you a Book Bugs card. Points for items borrowed will be credited to your myLibrary account within 24 hours. 
+
 #### 1 April 2022
 
 [<img src="/images/events/bookbugsr/April Quiz Reminder.png" alt="April Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)

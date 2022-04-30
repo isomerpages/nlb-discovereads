@@ -8,7 +8,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 [<img src="/images/events/bookbugsr/May Quiz Reminder.png" alt="May Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
-**Earn Bonus Points With Our April Quiz!**
+**Earn Bonus Points With Our May Quiz!**
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
 

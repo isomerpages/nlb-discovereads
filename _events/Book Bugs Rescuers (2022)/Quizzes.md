@@ -7,6 +7,8 @@ third_nav_title: Book Bugs Rescuers (2022)
 ### May 2022
 **Complete this month's English and MTL quizzes to earn extra points!**
 
+Quizzes will be updated every month.
+
 ![](/images/events/bookbugsr/Mafic.png)
 
 * <a href="https://forms.gle/hPN86Ao7HZt4suTz8" target="_blank" rel="noopener noreferrer"> English Quiz</a>
@@ -16,11 +18,9 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 
 
 
-### April 2022
+### April 2022 (Closed)
 
-**Complete this month's English and MTL quizzes to earn extra points!**
-
-Quizzes will be updated every month.
+This quiz has now closed. Points will be awarded by 9 May 2022, Monday. All entries received after 30 April 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
 
 ![](/images/events/bookbugsr/Jojo-Final-Artwork.png)
 

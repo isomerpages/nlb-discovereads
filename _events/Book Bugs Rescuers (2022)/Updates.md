@@ -12,7 +12,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
 
-Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in May 2022, points will be credited by 9 June 2022, 2359 hours.)
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in May 2022, points will be credited by 6 June 2022, 2359 hours.)
 
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 

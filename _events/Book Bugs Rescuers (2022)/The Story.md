@@ -30,9 +30,9 @@ Click on this first and second issues to read the feature stories, complete the 
 
 ### Comics
 
-<a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 50%;"></a>
+| <a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 50%;"></a> | 
 
-<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 50%;"></a>
+<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 50%;"></a> | 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

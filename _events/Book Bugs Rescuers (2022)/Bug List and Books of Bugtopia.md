@@ -73,8 +73,7 @@ Khazanna carries her own little library around to ensure that she always has som
 | 28 | Nixie | The Mermaid Who Became a Champion | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202919409" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 29 | Bardo | Cub | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204089970" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 30 | Nigel | Odd and the Frost Giants | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202647561" target="_blank" rel="noopener noreferrer">Link</a>* ! |
-| 31 | Nyani | Pirummāvin̲ paṭṭāmpūcci/பிரும்மாவின் பட்டாம்பூச்சி
-பிரும்மாவின் பட்டாம்பூச்சி  | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12986217" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 31 | Nyani | Pirummāvin̲ paṭṭāmpūcci/பிரும்மாவின் பட்டாம்பூச்சி  | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12986217" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 32 | Buzznaut | We’re All Wonders | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202843397" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 33 | Fannzie | Borrowing the Palm-Leaf Fan / 三借芭蕉扇| *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205421670" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 34 | Tichar | Munshi Abdullah | *<a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_503_2004-12-27.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |

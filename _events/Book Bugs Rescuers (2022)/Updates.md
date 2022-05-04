@@ -58,7 +58,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 **Vanam Quizzes and Storymaps Out Now!**
 
-🌲Vanam🌳—the very first land in Bugtopia, teeming with Book Bugs and stories alike. From the Southern Swamps marshlands to the Tree of Life that sits in the heart of the forest, discover all that Vanam has to offer with our brand new ✨[STORYMAPS](https://uploads.knightlab.com/storymapjs/8a0e0b8b68e8b5a35e59ea45506a59de/explore-bugtopia/index.html)✨.
+🌲Vanam🌳—the very first land in Bugtopia, teeming with Book Bugs and stories alike. From the Southern Swamps marshlands to the Tree of Life that sits in the heart of the forest, discover all that Vanam has to offer with our brand new ✨[STORYMAPS](https://go.gov.sg/storymaps/)✨.
 
 After exploring the ins and outs of Vanam, check out our ✨[MONTHLY QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ to earn bonus points! You can participate in a maximum of two quizzes every month—one in English and one in Mother Tongue Language (i.e. Chinese, Malay, or Tamil). 
 

@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/story/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-| [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [StoryMap](#storymap) |  
+| [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [Comics](#comics) | [StoryMap](#storymap) |  
 
 ### The Story
 
@@ -20,9 +20,15 @@ Rescuers, are you ready for an adventure? Let Bugtopia's journalist Attie lead y
 
 Catch the latest Bugtopia scoop hot off the press! Join Attie as he investigates the disappearances of the Book Bugs and the strange happenings in the land of Bugtopia.
 
-Click on this first issue to read the feature story, complete the crossword and check out the latest comic!
+Click on this first and second issues to read the feature stories, complete the activities and check out the latest comic!
 
-<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Lower Primary Reading Interest Profile 2021" style="width: 80%;"></a>
+|<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Bugtopian 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Newsletter2-28 Feb_FA-editnlblogo_compressed (1).pdf"><img src="/images/events/bookbugsr/Bugtopian2Image.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+### Comics
+
+|<a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 50%;" align="left"></a>| 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -30,8 +36,8 @@ Click on this first issue to read the feature story, complete the crossword and 
 
 Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMap is for you!
 
-First stop: Vanam. The lush jungles are teeming with Book Bugs and their stories. Click below to find out more!
+Next stop: Huo Huan. These harsh deserts contain some of the most resilient and ingenious Bugs. Click below to find out more!
 
-<a href= "https://uploads.knightlab.com/storymapjs/8a0e0b8b68e8b5a35e59ea45506a59de/explore-bugtopia/index.html"><img src="/images/events/bookbugsr/Explore Now.png" style="width: 80%;"></a>
+<a href= "https://go.gov.sg/storymaps/"><img src="/images/events/bookbugsr/ExploreBugtopia.png" style="width: 80%;"></a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

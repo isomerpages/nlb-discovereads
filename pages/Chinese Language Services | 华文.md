@@ -113,13 +113,15 @@ permalink: /chinese-language
 
 ****中学推荐书单:
 
-[Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
-
 [Holiday Reads with MOE-CPCLL 2021](/files/Holiday%20Reads%20with%20MOE-CPCLL%202021.pdf)
 
-[NLB Recommended Reads for Teens 2020](/files/NLB%20Recommended%20Reads%20for%20Teens%202020.pdf)
+[Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
+
+[NLB Recommended Reads for Teens 2022](/files/NLB%20Recommended%20Reads%20for%20Teens%202022.pdf)
 
 [NLB Recommended Reads for Teens 2021](/files/NLB%20Recommended%20Reads%20for%20Teens%202021.pdf)
+
+[NLB Recommended Reads for Teens 2020](/files/NLB%20Recommended%20Reads%20for%20Teens%202020.pdf)
 
 [推荐给中学生的电子书（Libby）书单](https://go.gov.sg/teen-books-we-love )
 

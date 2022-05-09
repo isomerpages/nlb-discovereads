@@ -52,7 +52,7 @@ Storytelling Videos (Updated on 29 March 2021)
 **The Changi Tree**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/47aZg9Dzdwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**23 April 2022*<br>
+**23 April 2022**<br>
 **Tiger Tales**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mBVWWBJ_Zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

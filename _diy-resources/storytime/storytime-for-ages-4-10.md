@@ -48,24 +48,24 @@ Storytelling Videos (Updated on 29 March 2021)
 
 ### **English**
 
-**12 March 2022**<br>
-**The Crane and the Crab**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uz0dXx1tHSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**9 April 2022**<br>
+**The Changi Tree**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/47aZg9Dzdwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**26 March 2022**<br>
-**Dad's Too Busy**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/raW_nZmube8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**23 April 2022*<br>
+**Tiger Tales**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBVWWBJ_Zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
 ### **Chinese**
 
 **24 March 2022**<br>
-**我的孩子们在哪儿？ **
+**我的孩子们在哪儿?**
 <iframe width="560" height="315" src="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=061edd25-baa3-46f2-b3af-ae24007a3d43&start=0.5191" title="Panopto Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **18 March 2022**<br>
-**南极熊的旅程 **
+**南极熊的旅程**
 <iframe width="560" height="315" src="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=9c5c1d0a-d827-497d-b07c-ae3800c096d5&start=0.513439" title="Panopto Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))

@@ -12,13 +12,22 @@ For more videos, head to our YouTube page: [Storytime (English) - YouTube](https
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q80W5LmLdAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**25 May 2020**
-**Read by: Senior Minister of State, Sim Ann**
-**Special thanks to Emily Lim-Leh & Mustard Seed Books for permission to read “The Tale of Rusty Horse” by Emily Lim (Author) & Neal Sharp (Illustrator).**
-**Call No.: JP SING LIM**
+**8 January 2022**<br>
+**Sebbie's First Day of School**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KCsbkZqDzgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2IqUtqdmSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**21 September 2021**<br>
+**Me... Jane**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MurYvHIo9wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**11 May 2020** 
-**NLB Librarian: Mardhiah Mahamood**
-**Join us for a draw and tell session with Mardhiah Mahamood, our Early Literacy librarian.**
+**14 August 2021**<br>
+**One Tiny Wish**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfyLTx1R12w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**24 April 2021**<br> 
+**The One and Only Inuka**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kxQ43WYIpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**13 March 2021** <br>
+**Papa Goes to Sea**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MurYvHIo9wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

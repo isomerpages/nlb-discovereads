@@ -48,13 +48,13 @@ Storytelling Videos (Updated on 29 March 2021)
 
 ### **English**
 
-**12 March 2022**<br>
-**The Crane and the Crab**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uz0dXx1tHSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**9 April 2022**<br>
+**The Changi Tree**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/47aZg9Dzdwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**26 March 2022**<br>
-**Dad's Too Busy**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/raW_nZmube8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**23 April 2022*<br>
+**Tiger Tales**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBVWWBJ_Zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 

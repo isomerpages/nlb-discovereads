@@ -21,7 +21,7 @@ School Edition: Passport to Bugtopia - Answers
 
 <br>
 
-Find all available editions of the Bugtopian and Passport to Bugtopia [here](/events/bookbugsr/story/)
+Find all available editions of the Bugtopian and Passport to Bugtopia [here.](/events/bookbugsr/story/)
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

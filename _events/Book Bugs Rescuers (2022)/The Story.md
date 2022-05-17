@@ -30,12 +30,12 @@ Click on this first and second issues to read the feature stories, complete the 
 
 ### Passport to Bugtopia
 
-|<a href="/files/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 80%;" align="left"></a>|
+|<a href="/files/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 70%;" align="left"></a>|
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>
-</br>
+
 
 ### Comics
 

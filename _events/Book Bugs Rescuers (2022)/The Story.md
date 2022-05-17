@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/story/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-| [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [Comics](#comics) | [StoryMap](#storymap) |  
+| [The Story](#the-story) | [ The Bugtopian](#the-bugtopian) | [Passport to Bugtopia](#passport-to-bugtopia) | [Comics](#comics) | [StoryMap](#storymap) |  
 
 ### The Story
 
@@ -26,11 +26,24 @@ Click on this first and second issues to read the feature stories, complete the 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+<br>
+
+### Passport to Bugtopia
+
+|<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 60%;" align="left"></a>|
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<br>
+
+
 ### Comics
 
 |<a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 50%;" align="left"></a>| 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<br>
 
 ### StoryMap
 

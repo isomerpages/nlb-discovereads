@@ -35,6 +35,7 @@ Click on this first and second issues to read the feature stories, complete the 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>
+</br>
 
 ### Comics
 

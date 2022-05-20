@@ -63,9 +63,10 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 | <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
 
 **Singapore Bibliography**
-
-| Volume 1 | Volume 2 |
-| [![The Most Fabulously Awesome Singapore Books](/images/recommendationsprimary/Singbiblio-1.png)](https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/SingaporeBooksforChildrenandTeens.aspx) | [![The Most Fabulously Incredible Singapore Books](/images/recommendationsprimary/singbiblio2.png)](https://www.nlb.gov.sg/Portals/0/Docs/Browse/ArtsPublications/NLB%20AFCC%202018%20Booklet.pdf) |
+<div class="wrapper" style="width: 100%;">
+<div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">		<div class="image-container" style="margin: auto;">
+			<b>Volume 1</b><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/SingaporeBooksforChildrenandTeens.aspx"><img src="/images/recommendationsprimary/Singbiblio-1.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Volume 2</b><a href="https://www.nlb.gov.sg/Portals/0/Docs/Browse/ArtsPublications/NLB%20AFCC%202018%20Booklet.pdf"><img src="/images/recommendationsprimary/singbiblio2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 
 
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

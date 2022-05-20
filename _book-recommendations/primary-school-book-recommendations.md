@@ -62,7 +62,7 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 | ***New!*** AFCC 2021 | AFCC 2020 |
 | <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
 
-**Singapore Bibliography**
+**The Most Fabulously Incredibly Awesome Singapore Books**
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">		<div class="image-container" style="margin: auto;">
 			<b>Volume 1</b><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/SingaporeBooksforChildrenandTeens.aspx"><img src="/images/recommendationsprimary/Singbiblio-1.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>

@@ -67,7 +67,7 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">		<div class="image-container" style="margin: auto;">
 			<b>Volume 1</b><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/SingaporeBooksforChildrenandTeens.aspx"><img src="/images/recommendationsprimary/Singbiblio-1.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
 		</div>	<div class="image-container" style="margin: auto;">
-			<b>Volume 2</b><a href="https://www.nlb.gov.sg/Portals/0/Docs/Browse/ArtsPublications/NLB%20AFCC%202018%20Booklet.pdf"><img src="/images/recommendationsprimary/singbiblio2.png" style="max-width: 24rem; padding: 10px; margin:auto;"></a>
+			<b>Volume 2</b><a href="https://www.nlb.gov.sg/Portals/0/Docs/Browse/ArtsPublications/NLB%20AFCC%202018%20Booklet.pdf"><img src="/images/recommendationsprimary/singbiblio2.png" style="max-width: 12rem; padding: 10px; margin:auto;"></a>
 
 
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>

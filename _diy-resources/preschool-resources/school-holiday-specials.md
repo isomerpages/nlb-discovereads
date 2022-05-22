@@ -23,7 +23,7 @@ Materials needed:<br>
 ### **Recommended Books**
 <img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
 
-Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325445252/376257373,1)<BR>
+Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205652360)<BR>
 Author: Becky Davies<BR>
 Illustrator: Jennie Poh<BR>
 Publisher: London: Little Tiger, 2022
@@ -33,7 +33,7 @@ Aasha the tiger loves her beautiful forest home, full of tigers, boars, and othe
 
 <img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(HOR)%20Cover.jpg" style="width:45%">
 	
-Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325445252/372771944,2) <br>
+Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205609354) <br>
 Author & Illustrator: Petr Horáček<br>
 Publisher: Burley Gate, Herefordshire: Otter-Barry Books, 2019
 
@@ -41,7 +41,7 @@ Strong and proud, the tiger is lord of the jungle. But when he's captured by hum
 
 <img src="/images/diyresources/preschool/SHS/Defending%20the%20Animals%20Cover.jpg" style="width:45%">	
 	
-Title: [Defending the Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325450476/376260058,1)<br>
+Title: [Defending the Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205655045)<br>
 Author: Azra Limbada<br>
 Publisher: Norfolk: BookLife Publishing, 2020
 	
@@ -49,7 +49,7 @@ Earth is full of amazing animals, from tigers to bumblebees. This book brings re
 
 <img src="/images/diyresources/preschool/SHS/Animals%20in%20Danger%20Cover.jpg" style="width:45%">	
 	
-Title: [Animals in Danger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325452026/241228685,2)<br>
+Title: [Animals in Danger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203106650)<br>
 Author: Gemma McMullen<br>
 Publisher: King's Lynn: BookLife, 2016
 

@@ -18,10 +18,10 @@ Materials needed:<br>
 • Glue<br>
 • Black marker
 
-[Download](/files/preschool/School%20Holiday%20Specials/Animal%20Finger%20Puppets.pdf) full instructions for this craft.
+[Download][](/files/preschool/School%20Holiday%20Specials/SHS%20Craft%20Instructions_Tiger%20Paper%20Hand%20Puppet.pdf) full instructions for this craft.
 
 ### **Recommended Books**
-<img src="/images/diyresources/preschool/SHS/ubinelephant.jpg" alt="Ubin Elephant" style="width:45%">
+<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
 
 Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325445252/376257373,1)<BR>
 Author: Becky Davies<BR>
@@ -31,7 +31,7 @@ Publisher: London: Little Tiger, 2022
 Aasha the tiger loves her beautiful forest home, full of tigers, boars, and other animals. But one day, the forest begins to change. The hot days became hotter. The wet days became wetter—so wet, in fact, that there are floods that force many of the animals to find other places to live. And then the humans enter the forest and begin taking down the trees, which forces Aasha out. Will she ever find a new place to call home? Includes back matter on climate change and conservation efforts.
 <br>
 
-<img src="/images/diyresources/preschool/SHS/boar.jpg" alt="A Boar at My Door" style="width:45%">
+<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(HOR)%20Cover.jpg" style="width:45%">
 	
 Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325445252/372771944,2) <br>
 Author & Illustrator: Petr Horáček<br>
@@ -39,7 +39,7 @@ Publisher: Burley Gate, Herefordshire: Otter-Barry Books, 2019
 
 Strong and proud, the tiger is lord of the jungle. But when he's captured by human hunters he realises that what really matters is not strength or power... but freedom. Will the tiger be able to escape and be free again?
 
-<img src="/images/diyresources/preschool/SHS/fourteenmonkeys.jpg" alt="Fourteen Monkeys" style="width:45%">	
+<img src="/images/diyresources/preschool/SHS/Defending%20the%20Animals%20Cover.jpg" style="width:45%">	
 	
 Title: [Defending the Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325450476/376260058,1)<br>
 Author: Azra Limbada<br>
@@ -47,7 +47,7 @@ Publisher: Norfolk: BookLife Publishing, 2020
 	
 Earth is full of amazing animals, from tigers to bumblebees. This book brings readers up close to animals around the world who are at risk of dying out due to habitat destruction, climate change, and other issues. Readers will learn about the problems facing orangutans, sea turtles, and other animals through accessible text and brilliant photographs. An activity at the end of the book will help readers to further connect with the important issues facing animals.
 
-<img src="/images/diyresources/preschool/SHS/marvellousmammals.jpg" alt="Marvellous Mammals" style="width:45%">	
+<img src="/images/diyresources/preschool/SHS/Animals%20in%20Danger%20Cover.jpg" style="width:45%">	
 	
 Title: [Animals in Danger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/325452026/241228685,2)<br>
 Author: Gemma McMullen<br>

@@ -117,6 +117,8 @@ permalink: /chinese-language
 
 [Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
 
+[NLB Recommended Reads for Teens 2022](/files/NLB%20Recommended%20Reads%20for%20Teens%202022_1.pdf)
+
 [NLB Recommended Reads for Teens 2021](/files/NLB%20Recommended%20Reads%20for%20Teens%202021.pdf)
 
 [NLB Recommended Reads for Teens 2020](/files/NLB%20Recommended%20Reads%20for%20Teens%202020.pdf)

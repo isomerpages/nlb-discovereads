@@ -41,6 +41,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
 
+* [5 Jun] New Dimensions: a Zine Workshop, Sengkang Public Library, Sunday 2-4pm [Register now!](https://www.eventbrite.sg/e/new-dimensions-a-zine-workshop-teens-takeover-rewrite-tickets-344637840057?aff=odcleoeventsincollection)
 * <s>[24 Mar] Conversational Korean, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [14 Aug] Conversational Malay,  Zoom, Saturday 3-4.30pm [Register now!]</s>
@@ -71,6 +72,8 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
 
+* [13 Jun] Spicy Science!, Zoom, Monday 2-3pm [Register now!](https://www.eventbrite.sg/e/spicy-science-scienti-fx-teens-takeover-tickets-331648669097?aff=odcleoeventsincollection)
+* [15 Jun] CSI: Forensic Lab, Zoom, Wednesday 2-3pm [Register now!](https://www.eventbrite.sg/e/csi-forensic-lab-scienti-fx-teens-takeover-tickets-331656472437?aff=odcleoeventsincollection)
 * <s>[16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!]</s>
 * <s>[5 Feb] Deep Sea Horror Workshop, Zoom, Saturday 2-3.30pm [Register now!]</s>
 * <s>[18 Mar] Build a LEGO Factory Workshop, Jurong Regional Library Programme Zone, Friday 3-6pm [Register now!]</s>

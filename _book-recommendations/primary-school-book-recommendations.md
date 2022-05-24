@@ -61,8 +61,7 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 | ***New!*** AFCC 2022 | AFCC 2021 | AFCC 2020
 |
-</b>
-<a href="/files/primary-book-recommendations/AFCC-Biblio-2022.pdf" target="_blank" ><img src="/images/recommendationsprimary/AFCC22-Cover.png" alt="AFCC Reading List 2022" style="width: 100%;"></a> |
+|<a href="/files/primary-book-recommendations/AFCC-Biblio-2022.pdf" target="_blank" ><img src="/images/recommendationsprimary/AFCC22-Cover.png" alt="AFCC Reading List 2022" style="width: 100%;"></a> |
 <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
 
 **The Most Fabulously Incredibly Awesome Singapore Books**

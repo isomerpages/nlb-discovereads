@@ -39,14 +39,19 @@ Books have genres, programmes have tracks. To make things easier for you, we've 
 <a name="workshops">![Teens Takeover Workshops header](/images/unsorted/teenstakeover/teensheader-workshops.png)</a>
 Attention all teens! Have time to spare? Join us for these workshops coming up in 2021.<br>
 
-<img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 30%;">
+<img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 40%;">
 
 * [5 Jun] New Dimensions: a Zine Workshop, Sengkang Public Library, Sunday 2-4pm [Register now!](https://www.eventbrite.sg/e/new-dimensions-a-zine-workshop-teens-takeover-rewrite-tickets-344637840057?aff=odcleoeventsincollection)
+
+Past programmes:
+
 * <s>[24 Mar] Conversational Korean, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [5 May] Conversational Japanese, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s> [14 Aug] Conversational Malay,  Zoom, Saturday 3-4.30pm [Register now!]</s>
 
-<img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 30%;">
+<img src="/images/unsorted/teenstakeover/teens-portfolio.png" alt="portfolio - Get a head start on your future by checking out our career-related programmes!" style="width: 40%;">
+
+Past programmes:
 
 * <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
@@ -54,26 +59,35 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 * <s>[9 Mar] Medical Myths Debunked Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[12 Mar] A Day in the Life of a Digital Forensic Specialist, Zoom, Saturday 11am-12.30pm [Register now!]</s>
 
-<img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 30%;">
+<img src="/images/unsorted/teenstakeover/teens-digilit.png" alt="digi lit - Beep boop! Here you will learn skills and acquire knowledge in the tech field." style="width: 40%;">
+
+Past programmes:
 
 * <s>[8 Sep] Mobile Phone Photography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[15 Jan] Discover Discord Workshop, Zoom, Saturday 2-3.30pm [Register now!]</s>
 
-<img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 30%;">
+<img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 40%;">
+
+Past programmes:
 
 * <s>[29 Oct] D.I.Y. Fabric Cupholder Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Friday 3-4.30pm  [Register now!]</s>
 * <s>[11 Nov] Build Your Own Terrarium Workshop, Choa Chu Kang Public Library, Programme Zones 1 & 2, Thursday 3-5pm [Register now!]</s>
  
-<img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 30%;">
+<img src="/images/unsorted/teenstakeover/teens-mindbody.png" alt="mind + body - Taking care of your mind and body is important, so pick up some self-care tips here!" style="width: 40%;">
+
+Past programmes:
 
 *  <s>[17 Jul] Bullet Journalling, Zoom, Saturday 2-3.30pm [Register now!]</s>
 
 
-<img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 30%;">
+<img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 40%;">
 
 * [13 Jun] Spicy Science!, Zoom, Monday 2-3pm [Register now!](https://www.eventbrite.sg/e/spicy-science-scienti-fx-teens-takeover-tickets-331648669097?aff=odcleoeventsincollection)
 * [15 Jun] CSI: Forensic Lab, Zoom, Wednesday 2-3pm [Register now!](https://www.eventbrite.sg/e/csi-forensic-lab-scienti-fx-teens-takeover-tickets-331656472437?aff=odcleoeventsincollection)
+
+Past programmes:
+
 * <s>[16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!]</s>
 * <s>[5 Feb] Deep Sea Horror Workshop, Zoom, Saturday 2-3.30pm [Register now!]</s>
 * <s>[18 Mar] Build a LEGO Factory Workshop, Jurong Regional Library Programme Zone, Friday 3-6pm [Register now!]</s>

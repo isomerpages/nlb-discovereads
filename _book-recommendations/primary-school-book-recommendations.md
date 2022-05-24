@@ -61,7 +61,7 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 | ***New!*** AFCC 2022 | 
 
-<a href="/files/primary-book-recommendations/AFCC-Biblio-2022.pdf" ><img src="/images/recommendationsprimary/AFCC22-Cover.png" alt="AFCC Reading List 2022" style="width: 100%;"></a> 
+<a href="/files/primary-book-recommendations/AFCC-Biblio-2022.pdf" ><img src="/images/recommendationsprimary/AFCC22-Cover.png" alt="AFCC Reading List 2022" style="width: 70%;"></a> 
 
 | AFCC 2021 | AFCC 2020|
 

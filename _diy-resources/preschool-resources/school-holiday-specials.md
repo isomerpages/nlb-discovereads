@@ -20,7 +20,7 @@ Materials needed:
 * Double-sided tape
 * Dot stickers (optional)
 
-Download full instructions for this craft.
+[Download](/files/SHS%20Craft%20Instructions_Spot%20the%20Rhyming%20Words.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 <img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">

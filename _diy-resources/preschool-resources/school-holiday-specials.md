@@ -23,7 +23,7 @@ Materials needed:
 [Download](/files/SHS%20Craft%20Instructions_Spot%20the%20Rhyming%20Words.pdf) full instructions for this craft.
 
 ### **Recommended Books**
-<img src="/images/diyresources/preschool/SHS/hats.jpg" style="width:50%">
+<img src="/images/diyresources/preschool/SHS/hats.jpg" style="width:45%">
 
 Title: [Hats Are Not For Cats!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203958583)<br>
 Author & Illustrator: Jacqueline K. Rayner
@@ -32,7 +32,7 @@ Publisher: Boston; New York: Clarion Books, Houghton Mifflin Harcourt, 2019
 A  big, plaid-hat-wearing dog insists that the small black cat in the red fez shouldn't be wearing a hat—any kind of hat—because hats are for dogs. His patronizing tirade doesn’t convince this cat, however. Defiantly, she wears an assortment of hats, described in the gleeful rhyming text, and brings in other cats to join the protest. The silliness of both text and pictures offers a cheerful take on bossiness and managing conflict, with a win-win resolution.
 <br>
 
-<img src="/images/diyresources/preschool/SHS/koala.jpg" style="width:50%">
+<img src="/images/diyresources/preschool/SHS/koala.jpg" style="width:45%">
 
 Title: [The Koala Who Could](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203104229) <br>
 Author: Rachel Bright <br>
@@ -41,7 +41,7 @@ Publisher: London: Orchard Books, 2016 <br>
 
 Fans of The Gruffalo and Giraffes Can't Dance will love this feel-good rhyming story portraying a positive message about facing up to change, something that young children can sometimes struggle with. Sometimes change comes along whether we like it or not ...but if you let it, change can be the making of you. Kevin the Koala discovers this and more in this delightful picture book from the bestselling creators of The Lion Inside!
 <br><br>
-<img src="/images/diyresources/preschool/SHS/playtimerhymes.jpg" style="width:50%">
+<img src="/images/diyresources/preschool/SHS/playtimerhymes.jpg" style="width:45%">
 
 Title: [Playtime Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203123909) <br>
 Illustrator: Sharon Harmer <br>
@@ -50,7 +50,7 @@ Publisher: London: Pat-A-Cake, 2018 <br>
 This book of favourite nursery rhymes is perfect for any time that you feel like cuddling up with your little one with a book. Whether you are reading lots of rhymes as part of a bedtime routine, or sharing a just a few of them and doing the actions, this collection of familiar, comforting rhymes is sure to become a firm family favourite. Includes favourites such as: Humpty Dumpty, The Wheels on the Bus and Baa Baa Black Sheep.
 
 <br>
-<img src="/images/diyresources/preschool/SHS/biggreen.jpg" style="width:50%">
+<img src="/images/diyresources/preschool/SHS/biggreen.jpg" style="width:45%">
 
 Title: [Big Green Crocodile: Rhymes to Say and Play](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205598690) <br>
 Author: Jane Newberry <br>
@@ -58,6 +58,8 @@ Illustrator: Carolina Rabei <br>
 Publisher: Burley Gate, Herefordshire: Otter-Barry Books, 2021 <br>
 
 Sixteen original play-rhymes that cover the events of a child's day from breakfast to bedtime, on themes like animals, bees, crocodiles, tractors, and many more.
+
+**All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.**
  
 ### **Saving Tigers**
 
@@ -108,7 +110,8 @@ Publisher: King's Lynn: BookLife, 2016
 
 How does human behavior affect animals, and what can we do to help animals that are endangered? Readers find the answers to these and other important questions about protecting animals as they learn about this topical environmental issue. Accessible, age-appropriate text gives young readers a clear sense of why animals are currently in danger and what can be done to help them. Fun fact boxes provide additional information about animals and their habitats, and colorful photographs fill each page. The captivating presentation of such an important ecological topic is sure to inspire early learners, especially young animal lovers.
 
-All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.
+**All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.**
+
 ## **School Holiday Specials with Librarians!**
 
 ### **Local Wildlife**

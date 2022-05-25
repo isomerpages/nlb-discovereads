@@ -34,12 +34,32 @@ A  big, plaid-hat-wearing dog insists that the small black cat in the red fez sh
 
 <img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
 
-Title: The Koala Who Could <br>
+Title: [The Koala Who Could](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203104229) <br>
 Author: Rachel Bright <br>
 Illustrator: Jim Fields <br>
 Publisher: London: Orchard Books, 2016 <br>
 
 Fans of The Gruffalo and Giraffes Can't Dance will love this feel-good rhyming story portraying a positive message about facing up to change, something that young children can sometimes struggle with. Sometimes change comes along whether we like it or not ...but if you let it, change can be the making of you. Kevin the Koala discovers this and more in this delightful picture book from the bestselling creators of The Lion Inside!
+<br><br>
+<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
+
+Title: [Playtime Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203123909) <br>
+Illustrator: Sharon Harmer <br>
+Publisher: London: Pat-A-Cake, 2018 <br>
+
+This book of favourite nursery rhymes is perfect for any time that you feel like cuddling up with your little one with a book. Whether you are reading lots of rhymes as part of a bedtime routine, or sharing a just a few of them and doing the actions, this collection of familiar, comforting rhymes is sure to become a firm family favourite. Includes favourites such as: Humpty Dumpty, The Wheels on the Bus and Baa Baa Black Sheep.
+
+<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
+
+<br><br>
+Title: [Big Green Crocodile: Rhymes to Say and Play](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205598690) <br>
+Author: Jane Newberry <br>
+Illustrator: Carolina Rabei <br>
+Publisher: Burley Gate, Herefordshire: Otter-Barry Books, 2021 <br>
+
+Sixteen original play-rhymes that cover the events of a child's day from breakfast to bedtime, on themes like animals, bees, crocodiles, tractors, and many more.
+ 
+
 
 ### **Saving Tigers**
 

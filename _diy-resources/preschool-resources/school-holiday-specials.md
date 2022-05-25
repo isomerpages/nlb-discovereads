@@ -7,6 +7,38 @@ third_nav_title: Preschool Resources
 ## **School Holiday Specials with Librarians!**
 
 ### Rhymes
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=2032111b-1898-4eba-a6a3-ae9a00b7625a&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+### Spot the Rhyming Words
+
+Materials needed:
+* 1 kitchen paper roll
+* 2 pieces of A4 size coloured paper
+* Marker
+* A pair of scissors
+* Double-sided tape
+* Dot stickers (optional)
+
+Download full instructions for this craft.
+
+### Recommended Books
+<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
+
+Title: [Hats Are Not For Cats!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203958583)<br>
+Author & Illustrator: Jacqueline K. Rayner
+Publisher: Boston; New York: Clarion Books, Houghton Mifflin Harcourt, 2019
+
+A  big, plaid-hat-wearing dog insists that the small black cat in the red fez shouldn't be wearing a hat—any kind of hat—because hats are for dogs. His patronizing tirade doesn’t convince this cat, however. Defiantly, she wears an assortment of hats, described in the gleeful rhyming text, and brings in other cats to join the protest. The silliness of both text and pictures offers a cheerful take on bossiness and managing conflict, with a win-win resolution.
+<br>
+
+<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
+
+Title: [Hats Are Not For Cats!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203958583)<br>
+Author & Illustrator: Jacqueline K. Rayner
+Publisher: Boston; New York: Clarion Books, Houghton Mifflin Harcourt, 2019
+
+A  big, plaid-hat-wearing dog insists that the small black cat in the red fez shouldn't be wearing a hat—any kind of hat—because hats are for dogs. His patronizing tirade doesn’t convince this cat, however. Defiantly, she wears an assortment of hats, described in the gleeful rhyming text, and brings in other cats to join the protest. The silliness of both text and pictures offers a cheerful take on bossiness and managing conflict, with a win-win resolution.
+
 
 
 ### **Saving Tigers**

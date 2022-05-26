@@ -15,7 +15,7 @@ third_nav_title: Programmes
 
 | [Read the Book!](#read-the-book) | [Attend Adventure Storytelling and Craft Sessions](#storytelling-and-craft) | [Try Out Hutsy’s Library Hunt!](#library-hunt) | [D.I.Y. Hutsy Mini Book](#mini-book) | [Upcoming Books](#upcoming-books) |
 
-#### Read the Book!
+##### Read the Book!
 
 **Join Hutsy on his very first adventure!** Read the animated book by clicking on the image below! 
 <a href="https://go.gov.sg/hutsybook"><img src="/images/unsorted/monstersunited/hutsy-readthebook.png" alt="How Hutsy Got His Hat cover" style="width: 100%;"></a>
@@ -27,7 +27,7 @@ The Monsters from Monsters United have all put their stories into books to share
 **Rooky**: coming soon<br>
 **Monsters United**: coming soon
 
-#### Attend Adventure Storytelling and Craft Sessions
+##### Attend Adventure Storytelling and Craft Sessions
 For the whole of June, take part in Hutsy’s exclusive adventure storytelling and craft sessions at the public libraries! [Click here for more information](https://www.eventbrite.sg/d/singapore--singapore/%23monstersunited/).
 
 | **Library** | **Date, Time, and Venue** |
@@ -53,14 +53,14 @@ For the whole of June, take part in Hutsy’s exclusive adventure storytelling a
 | Tampines Regional Library | 28th June 2022, 4pm – 5pm, Programme Zone at Level 6 | 
 | Bishan Public Library | 30th June 2022, 3.30pm – 4.30pm, Activity Room at Basement 1 |
 
-#### Try Out Hutsy’s Library Hunt!
+##### Try Out Hutsy’s Library Hunt!
 <img src="/images/unsorted/monstersunited/hutsy-libraryhunt.png" alt="Hutsy Library Hunt header" style="width: 100%;">
 
 This June, Hutsy has hidden three puzzles around the Children's Section in libraries (except for library@orchard, library@chinatown and library@esplanade) for you to discover. Find and solve them all!
 
 Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy hunting! 
 
-#### D.I.Y. Hutsy Mini Book
+##### D.I.Y. Hutsy Mini Book
 
 **Free Printable! Hutsy’s Mini Book** *(click on the image to download)*
 
@@ -70,7 +70,7 @@ Assemble your own adorable mini version of Hutsy’s book! Simply download and p
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/_bi4xJuiBzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-#### Upcoming Books
+##### Upcoming Books
 **Stay tuned for the other *Monsters United* book releases!**
 
 Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings? How did the Monsters come together? Stick around for the other animated book releases! 

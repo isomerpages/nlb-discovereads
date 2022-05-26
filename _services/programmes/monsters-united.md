@@ -13,7 +13,7 @@ third_nav_title: Programmes
 
 ![Hutsy’s Animated Book Launch image](/images/unsorted/monstersunited/hutsy-header1.png)
 
-| [Read the Book!](#read-the-book) | [Attend Adventure Storytelling and Craft Sessions](#storytelling-and-craft) | [Try Out Hutsy’s Library Hunt!](#library-hunt) | [D.I.Y. Hutsy Mini Book](#mini-book) | [Upcoming Books](#upcoming-books) |
+| [Read the Book!](#read-the-book) | [Attend Adventure Storytelling and Craft Sessions](#attend-adventure-storytelling-and-craft-sessions) | [Try Out Hutsy’s Library Hunt!](#try-out-hutsys-library-hunt) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Upcoming Books](#upcoming-books) |
 
 ##### Read the Book!
 

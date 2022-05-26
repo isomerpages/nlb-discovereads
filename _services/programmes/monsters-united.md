@@ -70,6 +70,8 @@ _(Click on the images.)_
 
 _(Last updated on 8 May 2021)_
 
+<b><a href="#top">Back to top</a></b>
+
 ---
 ### Rooktober Fest 2020
 ![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
@@ -156,6 +158,8 @@ _(Click on the image to begin)_
 
 _(Last updated on 15 October 2020)_
 
+<b><a href="#top">Back to top</a></b>
+
 ## **What is Monsters United?**
 
 Monsters United is a quartet of loveable monsters that aims to ignite the joy of reading and learning in children aged 7 to 9. Comprising adventurous Hutsy, fantastical Camy, techy Zecky and spooky Rooky, Monsters United expands children’s reading appetites by introducing them to different genres, and engages children and their communities with library programmes and experiences.
@@ -171,3 +175,5 @@ Download your very own Adventure Booklets by clicking on the images below! Each 
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
 | <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
+
+<b><a href="#top">Back to top</a></b>

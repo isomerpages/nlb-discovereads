@@ -21,7 +21,7 @@ third_nav_title: Programmes
 <br>Read the animated book by clicking on the image below!<br> 
 <a href="https://go.gov.sg/hutsybook"><img src="/images/unsorted/monstersunited/hutsy-readthebook.png" alt="How Hutsy Got His Hat cover" style="width: 100%;"></a>
 
-The Monsters from Monsters United have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
+The Monsters from *Monsters United* have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
 
 **Camy**: released in Sept 2022<br>
 **Zecky**: coming soon<br>

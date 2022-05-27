@@ -38,33 +38,38 @@ Share your creations with us by tagging us on Facebook and Instagram @publiclibr
 
 Read the following books to learn more about upcycling!
 
-<img src="/images/diyresources/primary/create-crazy-stopmotion-videos.jpg" alt="Create Crazy Stopmotion Videos" style="width: 40%;">
+![](/images/those%20shoes.png)
 
-**Create Crazy Stop-Motion Videos: 4D An Augmented Reading Experience**<br>
-by: Thomas Kingsley Troupe<br>
-Publisher: Capstone Press<br>
+**Those Shoes**<br>
+by: Maribeth Boelts<br>
+Publisher: Candlewick, 2016<br>
 
-Do you love stop-motion animation? Try shooting a stop-motion video yourself! Learn how to plan, cast, shoot, and edit a stop-motion video. It's time to put your creativity to the test. And action!
+All Jeremy wants is a pair of those shoes, the ones everyone at school seems to be wearing. Though Jeremy’s grandma says they don’t have room for "want," just "need," when his old shoes fall apart at school, he is more determined than ever to have those shoes, even a thrift-shop pair that are much too small. But sore feet aren’t much fun, and Jeremy soon sees that the things he has — warm boots, a loving grandma, and the chance to help a friend — are worth more than the things he wants.
 
-This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4830345](https://nlb.overdrive.com/media/4830345)
+![](/images/earth%20friends.png)
 
-<img src="/images/diyresources/primary/animation-lab-for-kids.jpg" alt="Animation Lab For Kids" style="width: 40%;">
+**Earth Friends: Fair Fashion**<br>
+By: Holly Webb <br>
+Publisher: Nosy Crow, 2021<br>
 
-**Animation Lab for Kids: Fun Projects for Visual Storytelling and Making Art Move**<br>
-By: Laura Bellmont and Emily Brink<br>
-Publisher: Quarry Books<br>
+The first fantastic book in the series about four friends who want to make the world a better place. Researching her school project on Fairtrade has been a real eye-opener for Maya. She loves clothes and is appalled to find that her favourite sparkly T-shirts are made by poor children in other countries who lead very different lives from her own, privileged one. She knows she must do something about it, but how can she make a difference without revealing her pop star secret to the world?
 
-With the accessibility and ease of use of cameras and video-editing software, people of all ages are learning how to make stop-motion animation. In Animation Lab for Kids, artists, teachers, and authors Laura Bellmont and Emily Brink present exciting, fun, hands-on projects that teach kids a range of animation techniques. From the classic zoetrope, flip book, and cel methods (which don't require any devices or technology) to different methods of shooting, the lessons require no previous experience for either child or adult.re it's too late?
+![](/images/clothing%20warrior.png)
 
-This eBook is available on Overdrive at: [https://nlb.overdrive.com/media/2950683](https://nlb.overdrive.com/media/2950683)
+**Clothing Warrior: Going Green**<br>
+By: Claudia Martin <br>
+Publisher: Bearport Publishing, 2021<br>
+
+Landfills are piled high with tossed clothes and shoes, clothing hangers harm our flying friends, and tiny microfibers from our fabrics are becoming fish food. What a waste! But there's a way to help. Be a waste warrior to put a stop to clothing waste and join the battle to save Earth! Honest text introduces some of Earth's biggest waste problems, while helpful solutions provide a way for readers to combat the issues. A final eco-activity pairs simple steps with illustrations to give waste warriors a hands-on activity to fight clothing waste.
 
 **Tip for parents**
 
-By teaching your child stop-motion animation, you can empower them to be more independent and creative by giving them ownership and autonomy over their own film project. This could also be a great opportunity to teach your child self-control and moderation when using digital devices, by providing your child with a fun alternative to playing games on the device.
+Did you know that clothes have a significant environmental impact? The fashion industry is responsible for 10% of the global carbon dioxide output, more than international flights and shipping combined!
 
-Source: [Stop Motion animation for Kids!](https://letslassothemoon.com/stop-motion-animation-kids/) 
-(Last accessed 21 December 2021)<br>
+With this in mind, families can try to extend the life of clothes together, such as buying responsibly, donating hand-me-downs, repairing or upcycling them.
 
+Source: https://www.bloomberg.com/graphics/2022-fashion-industry-environmental-impact/ 
+(last accessed 14 May 2022)<br>
 
 The book covers and synopses are the copyright of the respective publishing companies.<br>
 

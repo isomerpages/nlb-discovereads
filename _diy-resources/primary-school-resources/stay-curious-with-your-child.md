@@ -16,7 +16,7 @@ _(Updated on 27 May 2022)_
 
 
 
- [Upcycle Your Clothes!](#upcycle-your-clothes) | ***new!** [Create Your Own Map](#create-your-own-map) |***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own
+ [Upcycle Your Clothes!](#upcycle-your-clothes) | ***  [Story Crafts!](#story-crafts) 
 
 ### **Upcycle Your Clothes!**
 

@@ -15,8 +15,8 @@ _(Updated on 27 May 2022)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
-
  [Upcycle Your Clothes!](#upcycle-your-clothes) | ***  [Story Crafts!](#story-crafts) 
+
 
 ### **Upcycle Your Clothes!**
 

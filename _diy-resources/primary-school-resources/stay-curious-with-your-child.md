@@ -10,30 +10,29 @@ third_nav_title: Primary School Resources
 
 **“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 22 December 2021)_
+_(Updated on 27 May 2022)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
 
- ***new!** [Make a Stop Motion Masterpiece!](#make-a-stop-motion-masterpiece) | ***new!** [Create Your Own Map](#create-your-own-map) |***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own Oobleck](#make-your-own-oobleck) |***new!** [Unplugged Coding Ideas for Kids](#unplugged-coding-ideas-for-kids) | ***new!** [Home Gardening for Kids](#home-gardening-for-kids) | [Draw Your Music](#draw-your-music) |  [Listening  to Podcasts](#listening-to-podcasts) | [DIY Batu  Seremban](#diy-batu-seremban) | [Create a Lava Lamp](#create-a-lava-lamp) |  [DIY Laser Maze](#diy-laser-maze) | [Gift Wrapping](#gift-wrapping) |  [Build Your Own Balloon Powered Car](#build-your-own-balloon-powered-car) | [Art & Craft Fire-Breathing Dragon](#art-and-craft-fire-breathing-dragon) | [Paper Craft Messages](#paper-craft-messages) |  [Paper Owl](#paper-owl) | [Yoga for Kids](#yoga-for-kids) | | [High-intensity Interval Training (HIIT) Workout for Kids](#high-intensity-interval-training-hiit-workout-for-kids) | [Science Exploration](#science-exploration) | [Space Doodle](#space-doodle)
+ [Upcycle Your Clothes!](#upcycle-your-clothes) | ***new!** [Create Your Own Map](#create-your-own-map) |***new!** [Baking Chemistry](#baking-chemistry)| ***new!** [Make Your Own
 
-### **Make a Stop Motion Masterpiece!**
+### **Upcycle Your Clothes!**
 
-With mobile phone camera technology becoming increasingly robust, why not take advantage of our digital devices to bring the family together! Learn how to film a simple short motion video with your child using their favourite toys as subjects! The finished product is a short video you can share with family and friends!
+Children grow quickly, and this means their clothes may not fit after a few years. Instead of throwing away clothes that they have outgrown, why not create a reusable bag with your child? This eco-friendly activity can be completed in less than 10 minutes.
 
 **You'll need:**
 
-* A smart device with a camera such as a mobile phone or a tablet<br>
-* A tripod to keep your device still when taking photographs<br>
-* A stop-motion making app downloaded into your device (e.g. Stop Motion Studio)<br>
+* Scissors<br>
+* Old t-shirt<br>
+* Ruler<br>
 
-Share your cinematic creations with us by tagging us on Facebook and Instagram @publiclibrarysg with #librarysg!
+Share your creations with us by tagging us on Facebook and Instagram @publiclibrarysg with #librarysg!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J3pzivXGMfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fp61jijGYbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Source: [PLAY | Stop Motion Video for KIDS](https://www.youtube.com/watch?v=J3pzivXGMfI)<br>
-(Last accessed on 21 December 2021)
+(Last accessed on  December 2021)
 
 **Be Curious!**
 

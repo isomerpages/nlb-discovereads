@@ -32,11 +32,11 @@ Share your creations with us by tagging us on Facebook and Instagram @publiclibr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp61jijGYbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-(Last accessed on  December 2021)
+(Last accessed on  14 May 2022)
 
 **Be Curious!**
 
-Read a book or watch a movie to learn more about the magic of stop motion animation!
+Read the following books to learn more about upcycling!
 
 <img src="/images/diyresources/primary/create-crazy-stopmotion-videos.jpg" alt="Create Crazy Stopmotion Videos" style="width: 40%;">
 

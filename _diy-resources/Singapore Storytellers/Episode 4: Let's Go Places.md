@@ -39,8 +39,8 @@ Some related craft activities are thrown in as well just for the fun of it! This
 
 Source: Synopsis from Marshall Cavendish International
 
+<img src="/images/diyresources/rosie_and_the_mamak_shop.png" alt="Rosie and the Mamak Shop" style="width: 60%;">
 
-![](/images/diyresources/rosie_and_the_mamak_shop.png)
 [Rosie and the Mamak shop](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205552189) <br>
 by Rachelyn Gordon <br>
 Publisher: Rachelyn Gordon
@@ -100,7 +100,7 @@ Ministry of Culture, courtesy of the National Archives of Singapore <br>
 
 Produced by the Ministry of Culture, this 1960 news magazine film features King George V Park, a popular park for picnickers and the Van Kleef Aquarium.
 
-**Photographs**
+**<u>Photographs</u>**
 
 
 

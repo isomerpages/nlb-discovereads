@@ -3,6 +3,8 @@ title: D.I.Y. Resources
 permalink: /diy-resources/diy-resources-main
 collection_name: diy-resources
 ---
+
+
 ## **D.I.Y. Resources**
 
 Looking for D.I.Y. resources to foster the love of reading and learning at home and in school? Check out our fun printable activities, discussion worksheets, and literary resources. **New content will be uploaded regularly!**

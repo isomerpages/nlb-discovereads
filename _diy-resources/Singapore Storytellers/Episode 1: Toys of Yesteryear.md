@@ -17,9 +17,7 @@ The gang travels back to a time before smartphones and tablets. In a kampong, th
 **Recommended Resources**
 
 **<u>Books</u>**
-
-
-![](/images/diyresources/eye_spy_singapore.jpg)
+<img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 60%;">
 [Eye Spy Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205265472) <br>
 by Pippa Chorley <br>
 Publisher: Marshall Cavendish Children
@@ -30,7 +28,8 @@ Bursting with colourful scenes from around Singapore, this interactive look-and-
 
 Source: Synopsis from Marshall Cavendish International
 
-![](/images/diyresources/Layang_Layang.jpg)
+<img src="/images/diyresources/Layang_Layang.jpg" alt="Layang-Layang" style="width: 60%;">
+
 [Layang-Layang](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202986012) <br>
 by Lucy Pou K. H. <br>
 Publisher: L.A.M.P. Learning
@@ -39,8 +38,8 @@ Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds t
 
 Source: Synopsis from book cover
 
-![](/images/diyresources/old_school_games.png)
-[Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068) <br>
+<img src="/images/diyresources/old_school_games.png" alt="old_School_Games"  style="width: 60%;">
+																																									[Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068) <br>
 by Asiapac Editorial <br>
 Publisher: Asiapac
 

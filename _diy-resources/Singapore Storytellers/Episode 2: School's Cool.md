@@ -19,7 +19,7 @@ Chalk, blackboards, wooden furniture, brushing your teeth by the drain. school d
 
 
 
-
+![](/images/diyresources/Aman_goes_to_school.jpg)
 [Aman Goes to School](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205420890) <br>
 by Sandeep Singh <br>
 Publisher: Not identified
@@ -28,8 +28,7 @@ Aman has started kindergarten but things are not going as planned! Feeling left 
 
 Source: Synopsis from book cover
 
-
-
+![](/images/diyresources/the_bus_driver.jpg)
 [The Bus Driver](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203980492) <br>
 by Ames Chen <br>
 Publisher: Graceworks

@@ -2,7 +2,6 @@ collections:
   diy-resources:
     output: true
     order:
-      - The Time Travelling Trio/d-i-y-resources.md
       - The Time Travelling Trio/.keep
       - preschool-resources/.keep
       - preschool-resources/early-literacy-practices.md

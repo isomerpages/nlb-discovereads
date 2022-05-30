@@ -38,6 +38,7 @@ Publisher: L.A.M.P. Learning
 Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds the kite that he lost, it is no longer the same. Can Kassim do anything about it?
 
 Source: Synopsis from book cover
+
 ![](/images/diyresources/old_school_games.png)
 [Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068) <br>
 by Asiapac Editorial <br>

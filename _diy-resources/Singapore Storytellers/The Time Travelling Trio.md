@@ -14,10 +14,10 @@ Go back in time with Sarah, Rina and Rokawa as they learn about Singapore’s pa
 
 Catch all episodes on YouTube from 31 May!
 
-*[Episode 1: Toys of Yesteryear](https://childrenandteens.nlb.gov.sg//diy-resources/Singapore-Storytellers/Episode-1-Toys-of-Yesteryear)<br>(available from 31 May)
+*[Episode 1: Toys of Yesteryear](https://childrenandteens.nlb.gov.sg//diy-resources/Singapore-Storytellers/Episode-1-Toys-of-Yesteryear) (available from 31 May)
 <br>
-*Episode 2: School's Cool (available from 7 June) <br>
-*Episode 3: Everything Yums (available from 14 June) <br>
+*[Episode 2: School's Cool](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-4-Lets-Go-Places) (available from 7 June) <br>
+*[Episode 3: Everything Yums]((available from 14 June) <br>
 *Episode 4: Let's Go Places (available from 21 June) <br>
 
 To explore more, check out recommended resources for each episode. Discover more about Singapore’s history through these resources from the National Library and National Archives of Singapore:

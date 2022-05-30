@@ -4,9 +4,6 @@ permalink: /diy-resources/Singapore-Storytellers/Episode-1-Toys-of-Yesteryear
 description: ""
 third_nav_title: Singapore Storytellers
 ---
-
-
-
 ### **Episode 1: Capteh, Five Stones & Gasing: Toys of Yesteryear**
 
 In a time before computers and mobile games, how did kids amuse themselves? Auntie Shirley talks about her childhood and the games she used to play. Watch this video on 31 May.
@@ -63,10 +60,12 @@ Do you know how many steps are there to complete a game of five stones?
 **Singapore Infopedia**<br>
 [Gasing](https://eresources.nlb.gov.sg/infopedia/articles/SIP_401_2004-12-09.html) <br>
 by Stephanie Ho <br>
+
 Gasing refers to both the Malay spinning top and the game of top spinning. It was a popular game played in the kampongs of Singapore and Malaysia. Competitive gasing is still played in Malaysia today.
 
 [Capteh](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1732_2010-11-26.html)<br>
 by Bonny Tan <br>
+
 A traditional game that requires skills and balance in keeping a feathered shuttlecock in the air for as long as possible by juggling it with the heel of the foot. It is popular among children in Singapore, and also well-known internationally.
 
 **<u>Oral history interviews</u>**

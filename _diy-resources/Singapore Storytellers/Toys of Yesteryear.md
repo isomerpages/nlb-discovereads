@@ -19,7 +19,7 @@ The gang travels back to a time before smartphones and tablets. In a kampong, th
 **<u>Books</u>**
 
 
-
+![](/images/diyresources/eye_spy_singapore.jpg)
 
 [Eye Spy Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205265472) <br>
 by Pippa Chorley <br>
@@ -31,7 +31,7 @@ Bursting with colourful scenes from around Singapore, this interactive look-and-
 
 Source: Synopsis from Marshall Cavendish International
 
-
+![](/images/diyresources/Layang_Layang.jpg)
 
 [Layang-Layang](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202986012) <br>
 by Lucy Pou K. H. <br>
@@ -40,7 +40,7 @@ Publisher: L.A.M.P. Learning
 Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds the kite that he lost, it is no longer the same. Can Kassim do anything about it?
 
 Source: Synopsis from book cover
-
+![](/images/diyresources/old_school_games.png)
 
 
 [Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068) <br>
@@ -93,14 +93,3 @@ Mr Elendrus Osman recalls playing in the graveyard, as well as the traditional g
 
 
 <b><a href="#top">Back to top</a></b>
-
-
-
-
-
-
-
-
-
-
-

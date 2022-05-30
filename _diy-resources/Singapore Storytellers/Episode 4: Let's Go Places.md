@@ -4,7 +4,6 @@ permalink: /diy-resources/Singapore-Storytellers/Episode-4-Lets-Go-Places
 description: ""
 third_nav_title: Singapore Storytellers
 ---
-
 ### **Episode 4: Let's Go Places**
 
 Follow the kids as they explore places from the past and hear stories from Uncle Wilfred. This episode airs on 21 June.
@@ -18,8 +17,8 @@ Wonderland. Van Kleef Aquarium. Great World. The kids go on an adventure and exp
 
 **<u>Books</u>**
 
+<img src="/images/diyresources/my_favourite_days.jpg" alt="My Favourite Days" style="width: 60%;">
 
-![](/images/diyresources/my_favourite_days.jpg)
 [My Favourite Days](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205538914) <br>
 by Illo Picto <br>
 Publisher: TOUCH Community Services
@@ -28,8 +27,8 @@ The story conveys a heart-warming interaction between a little girl and her gran
 
 Source: Synopsis from TOUCH Community Services
 
+<img src="/images/diyresources/out_and_about_singapore.png" alt="Out and About Singapore" style="width: 60%;">
 
-![](/images/diyresources/out_and_about_singapore.png)
 [Out & About in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986850) <br>
 by Melanie Lee <br>
 Publisher: Marshall Cavendish Editions
@@ -39,6 +38,7 @@ With Out & About in Singapore, young readers go on a fun and colourful tour arou
 Some related craft activities are thrown in as well just for the fun of it! This book is for children between 7 and 12 years old.
 
 Source: Synopsis from Marshall Cavendish International
+
 
 ![](/images/diyresources/rosie_and_the_mamak_shop.png)
 [Rosie and the Mamak shop](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205552189) <br>

@@ -18,7 +18,7 @@ The kids encounter their worst nightmare – a time before fast food restaurants
 **<u>Books</u>**
 
 
-
+![](/images/diyresources/Eat_with_your_eyes.jpg)
 [Eat with Your Eyes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204435072) <br>
 by Low Lai Chow <br>
 Publisher: National Gallery Singapore
@@ -28,7 +28,7 @@ For little art lovers and their grown-up companions, feast on 14 yummy modern So
 Source: Synopsis from National Gallery Singapore
 
 
-
+![](/images/diyresources/sing_a_song_of_hawker_food.jpg)
 [Sing a Song of Hawker Food](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205498861) <br>
 by Lianne Ong <br>
 Publisher: WS Education
@@ -40,7 +40,7 @@ Cheeky illustrations highlight aspects of Singapore hawker culture that children
 Source: Synopsis from World Scientific 
 
 
-
+![](/images/diyresources/Nini_eat_first_talk_later.jpg)
 [Nini Eat First Talk Later](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201319168) <br>
 by Fanny Lai  <br>
 Publisher: Rojak City

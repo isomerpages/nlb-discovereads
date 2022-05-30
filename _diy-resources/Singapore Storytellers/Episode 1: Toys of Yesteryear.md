@@ -18,6 +18,7 @@ The gang travels back to a time before smartphones and tablets. In a kampong, th
 
 **<u>Books</u>**
 <img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 60%;">
+
 [Eye Spy Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205265472) <br>
 by Pippa Chorley <br>
 Publisher: Marshall Cavendish Children
@@ -38,8 +39,9 @@ Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds t
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/old_school_games.png" alt="old_School_Games"  style="width: 60%;">
-																																									[Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068) <br>
+<img src="/images/diyresources/old_school_games.png" alt="Gateway to Old School Games"  style="width: 60%;">
+
+[Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068)<br>
 by Asiapac Editorial <br>
 Publisher: Asiapac
 

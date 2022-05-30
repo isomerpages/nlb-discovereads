@@ -17,9 +17,8 @@ Chalk, blackboards, wooden furniture, brushing your teeth by the drain. school d
 
 **<u>Books</u>**
 
+<img src="/images/diyresources/Aman_goes_to_school.jpg" alt="Aman_goes_to_school" style="width: 60%;">
 
-
-![](/images/diyresources/Aman_goes_to_school.jpg)
 [Aman Goes to School](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205420890) <br>
 by Sandeep Singh <br>
 Publisher: Not identified
@@ -28,7 +27,8 @@ Aman has started kindergarten but things are not going as planned! Feeling left 
 
 Source: Synopsis from book cover
 
-![](/images/diyresources/the_bus_driver.jpg)
+<img src="/images/diyresources/the_bus_driver.jpg" alt="The Bus Driver" style="width: 60%;">
+
 [The Bus Driver](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203980492) <br>
 by Ames Chen <br>
 Publisher: Graceworks
@@ -37,8 +37,8 @@ Do you take the same bus to school every morning? Can you recall what the driver
 
 Source: Synopsis from book cover
 
+<img src="/images/diyresources/School_in_the_glass_city.jpg" alt="School in the Glass City" style="width: 60%;">
 
-![](/images/diyresources/School_in_the_glass_city.jpg)
 [The Adventures of Greco and Beco: The School in the Glass City](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202807999) <br>
 by Gwen Lee <br>
 Publisher: Marshall Cavendish Children

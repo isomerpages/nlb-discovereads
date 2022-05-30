@@ -14,7 +14,7 @@ Go back in time with Sarah, Rina and Rokawa as they learn about Singapore’s pa
 
 Catch all episodes on YouTube from 31 May!
 
-*Episode 1: Game Time (available from 31 May) <br>
+*[Episode 1: Toys of Yesteryear](/diy-resources/Singapore-Storytellers/Episode-1-Toys-of-Yesteryear)<br>
 *Episode 2: School's Cool (available from 7 June) <br>
 *Episode 3: Everything Yums (available from 14 June) <br>
 *Episode 4: Let's Go Places (available from 21 June) <br>

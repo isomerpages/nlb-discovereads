@@ -38,7 +38,7 @@ Do you take the same bus to school every morning? Can you recall what the driver
 Source: Synopsis from book cover
 
 
-
+![](/images/diyresources/School_in_the_glass_city.jpg)
 [The Adventures of Greco and Beco: The School in the Glass City](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202807999) <br>
 by Gwen Lee <br>
 Publisher: Marshall Cavendish Children
@@ -63,13 +63,13 @@ Students in schools were given a 10-cent toothbrush and a 15-cent plastic mug. S
 **Singapore Infopedia**<br>
 [First Road Courtesy Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-09-22_112715.html) <br>
 by Lim Tin Seng <br>
-The Road Courtesy Campaign was launched by then Deputy Prime Minister Toh Chin Chye on 10 September 1966. It was the first national campaign to instil a greater awareness of road safety. It marked the start of a sustained effort in Singapore to bring down the number of road accidents and improve civility on the roads. R
+The Road Courtesy Campaign was launched by then Deputy Prime Minister Toh Chin Chye on 10 September 1966. It was the first national campaign to instil a greater awareness of road safety. It marked the start of a sustained effort in Singapore to bring down the number of road accidents and improve civility on the roads.
 
 **<u>Oral history interviews</u>**
 
 [Oral History Interview with Vivien Goh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002939) <br>
 Accession Number: 002939
-Ms Vivien Goh talks about her school life and recess time at the Methodist Girls' School. She also describes the games that were played during recess. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/b577e33e-1160-11e3-83d5-0050568939ad?keywords=002939+%C2%A0tuckshop&keywords-type=all)
+Ms Vivien Goh talks about her school life and recess time at the Methodist Girls' School. She also describes the games that were played during recess. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/b577e33e-1160-11e3-83d5-0050568939ad?keywords=002939+%C2%A0tuckshop&keywords-type=all).
 
 [Oral History Interviewee: LIM, Carmee (Mrs)](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002590) <br>
 Accession Number:  002590

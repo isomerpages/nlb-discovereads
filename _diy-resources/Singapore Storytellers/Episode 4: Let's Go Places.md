@@ -67,23 +67,26 @@ Which movie stars promoted their movies at the Capitol Theatre when they were in
 **Singapore Infopedia**<br>
 [Street Wayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1218_2011-06-28.html) <br>
 by Serene Cai <br>
+
 *Wayang*, a Malay word meaning “a theatrical performance employing puppets or human dancers”, is also used to refer to Chinese street opera in Singapore, as well as other forms of opera such as wayang kulit. 
 
 
 **<u>Oral history interviews</u>**
 
 [Oral History Interviewee with Woon, Richard Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002908) <br>
-Accession Number: 002908
+Accession Number: 002908 <br>
+
 Mr Richard Woon talks about the experience of watching movies with his friends at King's Theatre in Kim Tian Road, Tiong Bahru and Mr Woon also shares his experiences at the Capitol and Odeon cinemas. He talks about the Great World amusement park and explains why it was popular back then. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/10571053-115f-11e3-83d5-0050568939ad?keywords=002908&keywords-type=all) and [3](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/12fd3357-115f-11e3-83d5-0050568939ad?keywords=002908&keywords-type=all).
 
 [Oral History Interviewee with De Conceicao, Aloysius Leo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002057) <br>
-Accession Number: 002057
+Accession Number: 002057 <br>
+
 Mr Aloysius Leo De Conceicao talks about watching movies and trip to Happy World amusement park. He also describes the traditional games he played as a boy and talks about how the Chinese temples would host wayang (Chinese street opera) performances during festivals. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e74a3f45-115f-11e3-83d5-0050568939ad?keywords=002057&keywords-type=all) and [5](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/51c79030-115e-11e3-83d5-0050568939ad?keywords=002057&keywords-type=all).
 
 [Oral History Interviewee with TAN Wee Him](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003058) <br>
-
 Accession Number: 003058
-Mr Tan Wee Him describes how Orchard Road was back then – where he and his friends hung out, 
+<br>Mr Tan Wee Him describes how Orchard Road was 
+back then – where he and his friends hung out, 
 the houses, the landmarks and where people would go for entertainment. Examples of entertainment places included the Lido Theatre and Barbarella, the first discotheque in Singapore. He also talks about the origin of the Malaya Cup and how important football matches used to be played at the Jalan Besar Stadium before they were moved to the National Stadium. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c5b8d5ce-1160-11e3-83d5-0050568939ad) & [7](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ddfa8e5c-1160-11e3-83d5-0050568939ad).
 
 
@@ -101,14 +104,3 @@ Produced by the Ministry of Culture, this 1960 news magazine film features King 
 
 
 <b><a href="#top">Back to top</a></b>
-
-
-
-
-
-
-
-
-
-
-

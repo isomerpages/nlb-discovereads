@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - d-i-y-resources.md
+      - Singapore Storytellers/The Time Travelling Trio.md
       - Singapore Storytellers/.keep
       - preschool-resources/.keep
       - preschool-resources/early-literacy-practices.md

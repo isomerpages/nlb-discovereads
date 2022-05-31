@@ -99,9 +99,5 @@ Ken Illsley Collection, courtesy of the National Archives of Singapore<br>
 
 Filmed by former British military personnel Ken Illsley who was based in Singapore in the late 50s, this home movie showed scenes of Clifford Pier, workers loading and unloading goods at the Singapore River, trishaw riders on Cavenagh Bridge, streets bustling with people, and families seen hanging around the street hawkers.
 
-**Photographs**
-
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8207da5d-3648-4b1b-9fe7-aea600132eba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
 
 <b><a href="#top">Back to top</a></b>

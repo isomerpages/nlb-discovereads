@@ -12,10 +12,11 @@ third_nav_title: Singapore Storytellers
 Why did schoolchildren have to brush their teeth by the drain? Find out from Mr Walid. Coming soon on 7 June.
 
 
-**Episode Summary** <br>
+**Episode summary** <br>
+
 Chalk, blackboards, wooden furniture, brushing your teeth by the drain. School days were different back then. The trio visit a classroom from the past and look at what life in school used to be like. Assistant Professor Walid Jumblatt Abdullah, a lecturer from the Nanyang Technological University, also shares memories of his school days.
 
-**<u>Recommended Resources</u>**
+**<u>Recommended resources</u>**
 
 **<u>Books</u>**
 
@@ -49,7 +50,7 @@ Alex is not just mean to his schoolmates Bucky and Gaia; he also doesn’t think
 
 Source: Synopsis from book cover
 
-**<u>Curated Resources</u>**
+**<u>Curated resources</u>**
 
 **Blast from the Past**<br>
 [Schooling in the Past](https://www.nas.gov.sg/archivesonline/blastfromthepast/schooling) <br>
@@ -68,7 +69,7 @@ by Lim Tin Seng <br>
 
 The Road Courtesy Campaign was launched by then Deputy Prime Minister Toh Chin Chye on 10 September 1966. It was the first national campaign to instil a greater awareness of road safety. It marked the start of a sustained effort in Singapore to bring down the number of road accidents and improve civility on the roads.
 
-**<u>Oral History Interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interview with Vivien Goh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002939) <br>
 Accession Number: 002939 <br>
@@ -86,7 +87,7 @@ Accession Number: 004047 <br>
 Seven Anglo-Chinese Primary School (ACPS) (Coleman) old boys (1976-81) share the fun things they did during recess at school. The games they played were *capteh* (feathered shuttlecock), *hantam* bola (playing tag with a ball) and *capteh* football. The interviewees also talk about the subsidised milk provided and having to squat by the drain to brush their teeth as part of the government’s teeth brushing campaign. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9600165a-1f35-11e6-95f9-0050568939ad?synopsis=games&synopsis-type=all).
 
 
-**<u>Audiovisual Recordings</u>**
+**Audiovisual Recordings**
 
 [Programme Title: Berita Singapura: 1. Secondary Schools 2. A Story Of Courage 3. Regatta](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457cbdf0-1164-11e3-83d5-0050568939ad) <br>
 Accession No: 1982000270 <br>

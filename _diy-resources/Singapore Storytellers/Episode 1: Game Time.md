@@ -11,11 +11,11 @@ In a time before computers and mobile games, how did kids amuse themselves? Aunt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBCnL-hYIEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Episode Summary**<br>
+**Episode summary**<br>
 
 The gang travels back to a time before smartphones and tablets. In a kampong, the trio try their hands (and feet) at *goli*, *gasing* and *capteh*. They are joined by Auntie Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.
 
-**Recommended Resources**
+**Recommended resources**
 
 **<u>Books</u>**
 <img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 40%;">
@@ -71,7 +71,7 @@ by Bonny Tan <br>
 
 A traditional game that requires skills and balance in keeping a feathered shuttlecock in the air for as long as possible by juggling it with the heel of the foot. It is popular among children in Singapore, and also well-known internationally.
 
-**<u>Oral History Interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000447) <br>
 Accession Number: 000447<br>

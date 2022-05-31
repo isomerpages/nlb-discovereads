@@ -10,14 +10,14 @@ Why did schoolchildren have to brush their teeth by the drain? Find out from Mr 
 
 
 
-**Episode summary** <br>
+**Episode Summary** <br>
 Chalk, blackboards, wooden furniture, brushing your teeth by the drain. school days were different back then. The trio visit a classroom from the past and look at what life in school used to be like. Assistant Professor Walid Jumblatt Abdullah, a lecturer from the Nanyang Technological University, also shares memories of his school days.
 
 **<u>Recommended Resources</u>**
 
 **<u>Books</u>**
 
-<img src="/images/diyresources/Aman_goes_to_school.jpg" alt="Aman_goes_to_school" style="width: 60%;">
+<img src="/images/diyresources/Aman_goes_to_school.jpg" alt="Aman_goes_to_school" style="width: 40%;">
 
 [Aman Goes to School](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205420890) <br>
 by Sandeep Singh <br>
@@ -27,7 +27,7 @@ Aman has started kindergarten but things are not going as planned! Feeling left 
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/the_bus_driver.jpg" alt="The Bus Driver" style="width: 60%;">
+<img src="/images/diyresources/the_bus_driver.jpg" alt="The Bus Driver" style="width: 40%;">
 
 [The Bus Driver](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203980492) <br>
 by Ames Chen <br>
@@ -37,7 +37,7 @@ Do you take the same bus to school every morning? Can you recall what the driver
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/School_in_the_glass_city.jpg" alt="School in the Glass City" style="width: 60%;">
+<img src="/images/diyresources/School_in_the_glass_city.jpg" alt="School in the Glass City" style="width: 40%;">
 
 [The Adventures of Greco and Beco: The School in the Glass City](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202807999) <br>
 by Gwen Lee <br>
@@ -47,7 +47,7 @@ Alex is not just mean to his schoolmates Bucky and Gaia; he also doesn’t think
 
 Source: Synopsis from book cover
 
-**<u>Curated resources</u>**
+**<u>Curated Resources</u>**
 
 **Blast from the Past**<br>
 [Schooling in the Past](https://www.nas.gov.sg/archivesonline/blastfromthepast/schooling) <br>
@@ -66,7 +66,7 @@ by Lim Tin Seng <br>
 
 The Road Courtesy Campaign was launched by then Deputy Prime Minister Toh Chin Chye on 10 September 1966. It was the first national campaign to instil a greater awareness of road safety. It marked the start of a sustained effort in Singapore to bring down the number of road accidents and improve civility on the roads.
 
-**<u>Oral history interviews</u>**
+**<u>Oral History Interviews</u>**
 
 [Oral History Interview with Vivien Goh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002939) <br>
 Accession Number: 002939 <br>
@@ -84,7 +84,7 @@ Accession Number: 004047 <br>
 Seven Anglo-Chinese Primary School (ACPS) (Coleman) old boys (1976-81) share the fun things they did during recess at school. The games they played were capteh (feathered shuttlecock), hantam bola (playing tag with a ball) and capteh football. The interviewees also talk about the subsidised milk that was provided improveaboutschoolkids and having to squat by the drain to brush their teeth as part of the government’s teeth brushing campaign. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9600165a-1f35-11e6-95f9-0050568939ad?synopsis=games&synopsis-type=all).
 
 
-**<u>Audiovisual recordings</u>**
+**<u>Audiovisual Recordings</u>**
 
 [Programme Title: Berita Singapura: 1. Secondary Schools 2. A Story Of Courage 3. Regatta](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457cbdf0-1164-11e3-83d5-0050568939ad) <br>
 Accession No: 1982000270 <br>

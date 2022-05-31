@@ -13,8 +13,7 @@ third_nav_title: Secondary School Resources
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| <a href="/diy-resources/secondary/teen-things#id1"><img style="width: 50%;" alt="Marvellous Manga button" src="/images/diyresources/secondary/ttj22-button-mm.png"></a> | <a href=""><img style="width: 50%;" alt="Coming soon button" src="/images/diyresources/secondary/ttj22-button-comingsoon.png"></a> | <a href=""><img style="width: 50%;" alt="Coming soon button" src="/images/diyresources/secondary/ttj22-button-comingsoon.png"></a> |
-<a href=""><img style="width: 50%;" alt="Coming soon button" src="/images/diyresources/secondary/ttj22-button-comingsoon.png"></a> |
+| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) |
 
 [![Teen.Things Archive](/images/diyresources/secondary/ttj22-headerarchive.png)](/diy-resources/secondary/teen-things-archive)
 

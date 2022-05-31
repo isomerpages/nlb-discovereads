@@ -10,14 +10,14 @@ In a time before computers and mobile games, how did kids amuse themselves? Aunt
 
 
 
-**Episode summary**<br>
+**Episode Summary**<br>
 
 The gang travels back to a time before smartphones and tablets. In a kampong, the trio try their hands (and feet) at goli, gasing and capteh. They are joined by Auntie Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.
 
 **Recommended Resources**
 
 **<u>Books</u>**
-<img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 60%;">
+<img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 40%;">
 
 [Eye Spy Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205265472) <br>
 by Pippa Chorley <br>
@@ -29,7 +29,7 @@ Bursting with colourful scenes from around Singapore, this interactive look-and-
 
 Source: Synopsis from Marshall Cavendish International
 
-<img src="/images/diyresources/Layang_Layang.jpg" alt="Layang-Layang" style="width: 60%;">
+<img src="/images/diyresources/Layang_Layang.jpg" alt="Layang-Layang" style="width: 40%;">
 
 [Layang-Layang](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202986012) <br>
 by Lucy Pou K. H. <br>
@@ -39,7 +39,7 @@ Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds t
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/old_school_games.png" alt="Gateway to Old School Games"  style="width: 60%;">
+<img src="/images/diyresources/old_school_games.png" alt="Gateway to Old School Games"  style="width: 40%;">
 
 [Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068)<br>
 by Asiapac Editorial <br>
@@ -70,7 +70,7 @@ by Bonny Tan <br>
 
 A traditional game that requires skills and balance in keeping a feathered shuttlecock in the air for as long as possible by juggling it with the heel of the foot. It is popular among children in Singapore, and also well-known internationally.
 
-**<u>Oral history interviews</u>**
+**<u>Oral History Interviews</u>**
 
 [Oral History Interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000447) <br>
 Accession Number: 000447<br>

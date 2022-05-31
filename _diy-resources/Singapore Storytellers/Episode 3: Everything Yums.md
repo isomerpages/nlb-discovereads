@@ -60,7 +60,7 @@ Source: Synopsis from book cover
 Since the 1800s, hawkers have been peddling their wares on the streets and selling scrumptious favourites. Check out this curated selection of archival materials from the National Archives of Singapore to find out more about the hawker culture we know and love. 
 
 [Food Culture](https://www.nas.gov.sg/archivesonline/blastfromthepast/foodculture) <br>
-Food has always been an integral part of Singapore’s culture and heritage. Take a look at the various things that have contributed to our country’s rich food heritage, from traditional tiffin carriers (tingkat) and the sounds of itinerant hawkers, to famous dining venues of the past and the introduction of fast food.
+Food has always been an integral part of Singapore’s culture and heritage. Take a look at the various things that have contributed to our country’s rich food heritage, from traditional tiffin carriers (*tingkat*) and the sounds of itinerant hawkers, to famous dining venues of the past and the introduction of fast food.
 
 
 **Off The Record**<br>

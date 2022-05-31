@@ -34,6 +34,8 @@ Answers to all acitivty pages can be found [here.](/events/bookbugsr/community/)
 
 |<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 60%;" align="left"></a>|
 
+<br>
+
 Answers to all acitivty pages can be found [here.](/events/bookbugsr/community/)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

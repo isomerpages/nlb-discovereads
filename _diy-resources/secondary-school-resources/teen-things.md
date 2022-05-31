@@ -41,7 +41,8 @@ If a series becomes popular, its chapters then later get combined into what is c
 Unlike books in English that are traditionally read from left to right, manga panels and speech bubbles should be read from right to left. Although the sequence can be confusing when you first start reading manga, you will soon get used to it!  
 
 <img src="/images/diyresources/secondary/ttj22-reading-image4.png" alt="Japanese manga is read from right to left!" style="width: 100%;"><br>
-<b><u>What genres are there?</b></u><br>
+
+<b><u>What genres are there?</u></b><br>
 The main genres in manga may not be the ones that you’re familiar with. The usual literary genres, like action, comedy, and science-fiction, are known in the manga world as sub-genres, but not the main genres.  
 
 Instead, manga is typically sorted by how it is marketed to different demographics or age groups.  
@@ -77,7 +78,7 @@ The adaptation of manga is not always one-directional. Did you know that the ren
 
 Seeing how versatile and varied manga can be, there’s definitely something for everyone.  
 
-<u><b>Welcome to the wide, wonderful world of manga!</b></u>
+<u><b>Welcome to the wide, wonderful world of manga!</b></u><br>
 As of April 2022, the following public libraries each have a manga collection for you to peruse: 
 
 * Choa Chu Kang Public Library 

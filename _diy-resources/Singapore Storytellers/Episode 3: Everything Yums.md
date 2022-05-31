@@ -13,6 +13,7 @@ This was a time before burgers, French fries and chicken nuggets. Join Auntie Li
 
 
 **Episode summary**<br>
+
 The kids encounter their worst nightmare – a time before fast food restaurants! In this episode, they learn about street hawkers and sample popular snacks from yesteryear. Auntie Linda shares her childhood memories of helping out at the noodle stall that her grandmother ran in Chinatown.
 
 **<u>Recommended resources</u>**

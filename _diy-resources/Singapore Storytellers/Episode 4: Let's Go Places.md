@@ -6,18 +6,20 @@ third_nav_title: Singapore Storytellers
 ---
 ### **Episode 4: Let's Go Places**
 
+![](/images/diyresources/sg_storyteller_banner.png)
+
 Follow the kids as they explore places from the past and hear stories from Uncle Wilfred. This episode airs on 21 June.
 
 
-
 **Episode summary**<br>
+
 Wonderland. Van Kleef Aquarium. Great World. The kids go on an adventure and explore attractions from the past. Special guest Uncle Wilfred shares his miniature dioramas and stories of old homes and places of interest. 
 
-**<u>Recommended Resources</u>**
+**<u>Recommended resources</u>**
 
-**<u>Books</u>**
+**Books**
 
-<img src="/images/diyresources/my_favourite_days.jpg" alt="My Favourite Days" style="width: 60%;">
+<img src="/images/diyresources/my_favourite_days.jpg" alt="My Favourite Days" style="width: 40%;">
 
 [My Favourite Days](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205538914) <br>
 by Illo Picto <br>
@@ -27,7 +29,7 @@ The story conveys a heart-warming interaction between a little girl and her gran
 
 Source: Synopsis from TOUCH Community Services
 
-<img src="/images/diyresources/out_and_about_singapore.png" alt="Out and About Singapore" style="width: 60%;">
+<img src="/images/diyresources/out_and_about_singapore.png" alt="Out and About Singapore" style="width: 40%;">
 
 [Out & About in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986850) <br>
 by Melanie Lee <br>
@@ -39,7 +41,7 @@ Some related craft activities are thrown in as well just for the fun of it! This
 
 Source: Synopsis from Marshall Cavendish International
 
-<img src="/images/diyresources/rosie_and_the_mamak_shop.png" alt="Rosie and the Mamak Shop" style="width: 60%;">
+<img src="/images/diyresources/rosie_and_the_mamak_shop.png" alt="Rosie and the Mamak Shop" style="width: 40%;">
 
 [Rosie and the Mamak shop](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205552189) <br>
 by Rachelyn Gordon <br>
@@ -69,10 +71,10 @@ Which movie stars promoted their movies at the Capitol Theatre when they were in
 [Street Wayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1218_2011-06-28.html) <br>
 by Serene Cai <br>
 
-*Wayang*, a Malay word meaning “a theatrical performance employing puppets or human dancers”, is also used to refer to Chinese street opera in Singapore, as well as other forms of opera such as wayang kulit. 
+Wayang, a Malay word meaning “a theatrical performance employing puppets or human dancers”, is also used to refer to Chinese street opera in Singapore, as well as other forms of opera such as wayang kulit. 
 
 
-**<u>Oral history interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interviewee with Woon, Richard Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002908) <br>
 Accession Number: 002908 <br>
@@ -86,12 +88,13 @@ Mr Aloysius Leo De Conceicao talks about watching movies and trip to Happy World
 
 [Oral History Interviewee with TAN Wee Him](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003058) <br>
 Accession Number: 003058
+
 <br>Mr Tan Wee Him describes how Orchard Road was 
 back then – where he and his friends hung out, 
 the houses, the landmarks and where people would go for entertainment. Examples of entertainment places included the Lido Theatre and Barbarella, the first discotheque in Singapore. He also talks about the origin of the Malaya Cup and how important football matches used to be played at the Jalan Besar Stadium before they were moved to the National Stadium. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c5b8d5ce-1160-11e3-83d5-0050568939ad) & [7](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ddfa8e5c-1160-11e3-83d5-0050568939ad).
 
 
-**<u>Audiovisual recordings</u>**<br>
+**Audiovisual Recordings**<br>
 
 [Programme Title: The People's Singapore 3: 1. The Polytechnic 2. Community Centres 3. The Aquarium](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad) <br>
 Accession No: [1982000304](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad)
@@ -99,9 +102,6 @@ Accession No: [1982000304](https://www.nas.gov.sg/archivesonline/audiovisual_rec
 Ministry of Culture, courtesy of the National Archives of Singapore <br>
 
 Produced by the Ministry of Culture, this 1960 news magazine film features King George V Park, a popular park for picnickers and the Van Kleef Aquarium.
-
-**<u>Photographs</u>**
-
 
 
 <b><a href="#top">Back to top</a></b>

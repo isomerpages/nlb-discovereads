@@ -1,23 +1,24 @@
 ---
-title: "Episode 1: Toys of Yesteryear"
-permalink: /diy-resources/Singapore-Storytellers/Episode-1-Toys-of-Yesteryear
+title: "Episode 1: Game Time"
+permalink: /diy-resources/Singapore-Storytellers/Game-Time
 description: ""
 third_nav_title: Singapore Storytellers
 ---
-### **Episode 1: Capteh, Five Stones & Gasing: Toys of Yesteryear**
+### **Episode 1: Game Time**
+![](/images/diyresources/sg_storyteller_banner.png)
 
-In a time before computers and mobile games, how did kids amuse themselves? Auntie Shirley talks about her childhood and the games she used to play. Watch this video on 31 May.
+In a time before computers and mobile games, how did kids amuse themselves? Auntie Shirley talks about her childhood and the games she used to play.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBCnL-hYIEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Episode summary**<br>
 
-The gang travels back to a time before smartphones and tablets. In a kampong, the trio try their hands (and feet) at goli, gasing and capteh. They are joined by Auntie Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.
+The gang travels back to a time before smartphones and tablets. In a kampong, the trio try their hands (and feet) at *goli*, *gasing* and *capteh*. They are joined by Auntie Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.
 
-**Recommended Resources**
+**<u>Recommended resources</u>**
 
-**<u>Books</u>**
-<img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 60%;">
+**Books**
+<img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 40%;">
 
 [Eye Spy Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205265472) <br>
 by Pippa Chorley <br>
@@ -29,7 +30,7 @@ Bursting with colourful scenes from around Singapore, this interactive look-and-
 
 Source: Synopsis from Marshall Cavendish International
 
-<img src="/images/diyresources/Layang_Layang.jpg" alt="Layang-Layang" style="width: 60%;">
+<img src="/images/diyresources/Layang_Layang.jpg" alt="Layang-Layang" style="width: 40%;">
 
 [Layang-Layang](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202986012) <br>
 by Lucy Pou K. H. <br>
@@ -39,7 +40,7 @@ Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds t
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/old_school_games.png" alt="Gateway to Old School Games"  style="width: 60%;">
+<img src="/images/diyresources/old_school_games.png" alt="Gateway to Old School Games"  style="width: 40%;">
 
 [Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068)<br>
 by Asiapac Editorial <br>
@@ -53,24 +54,24 @@ Source: Synopsis from book cover
 
 **Blast from the Past**<br>
 [Favourite Old Pastimes](https://www.nas.gov.sg/archivesonline/blastfromthepast/pastimes) <br>
-Besides kite-fighting, gasing and capteh, people used to go to the beach, watch movies at the cinema and enjoy a day out at Happy World amusement park.
+Besides kite-fighting, *gasing* and *capteh*, people used to go to the beach, watch movies at the cinema and enjoy a day out at Happy World amusement park.
 
 **Off The Record**<br>
 [A Girl Playing Five Stones, 1950s](https://corporate.nas.gov.sg/media/collections-and-research/fivestones) <br>
-Do you know how many steps are there to complete a game of five stones?
+Do you know how many steps it takes to complete a game of five stones?
 
 **Singapore Infopedia**<br>
-[Gasing](https://eresources.nlb.gov.sg/infopedia/articles/SIP_401_2004-12-09.html) <br>
+[*Gasing*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_401_2004-12-09.html) <br>
 by Stephanie Ho <br>
 
-Gasing refers to both the Malay spinning top and the game of top spinning. It was a popular game played in the kampongs of Singapore and Malaysia. Competitive gasing is still played in Malaysia today.
+*Gasing* refers to both the Malay spinning top and the game of top spinning. It was a popular game played in the kampongs of Singapore and Malaysia. Competitive *gasing* is still played in Malaysia today.
 
-[Capteh](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1732_2010-11-26.html)<br>
+[*Capteh*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1732_2010-11-26.html)<br>
 by Bonny Tan <br>
 
 A traditional game that requires skills and balance in keeping a feathered shuttlecock in the air for as long as possible by juggling it with the heel of the foot. It is popular among children in Singapore, and also well-known internationally.
 
-**<u>Oral history interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interview with Ronald Benjamin Milne](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000447) <br>
 Accession Number: 000447<br>
@@ -87,8 +88,8 @@ Accession Number: 004172 <br>
 
 Mr Elendrus Osman recalls playing in the graveyard, as well as the traditional games he played such as rounders, mother hen and five stones. To listen to the interview, head on to reel/disc [1](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c7de5d24-4921-11e8-b81e-001a4a5ba61b).
 
-**<u>Photographs</u>**
-
+**Photographs**
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=dd471e6d-a02c-4b39-8149-aea600131845&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 

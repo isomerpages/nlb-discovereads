@@ -6,18 +6,21 @@ third_nav_title: Singapore Storytellers
 ---
 ### **Episode 3: Everything Yums**
 
+![](/images/diyresources/sg_storyteller_banner.png)
+
 This was a time before burgers, French fries and chicken nuggets. Join Auntie Linda as she shares her favourite candy and memories of helping out at her family’s hawker stall. Out on 14 June.
 
 
 
 **Episode summary**<br>
+
 The kids encounter their worst nightmare – a time before fast food restaurants! In this episode, they learn about street hawkers and sample popular snacks from yesteryear. Auntie Linda shares her childhood memories of helping out at the noodle stall that her grandmother ran in Chinatown.
 
-**<u>Recommended Resources</u>**
+**<u>Recommended resources</u>**
 
-**<u>Books</u>**
+**Books**
 
-<img src="/images/diyresources/Eat_with_your_eyes.jpg" alt="Eat with your Eyes" style="width: 60%;">
+<img src="/images/diyresources/Eat_with_your_eyes.jpg" alt="Eat with your Eyes" style="width: 40%;">
 
 [Eat with Your Eyes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204435072) <br>
 by Low Lai Chow <br>
@@ -27,7 +30,7 @@ For little art lovers and their grown-up companions, feast on 14 yummy modern So
 
 Source: Synopsis from National Gallery Singapore
 
-<img src="/images/diyresources/sing_a_song_of_hawker_food.jpg" alt="Sing a Song of Hawker Food" style="width: 60%;">
+<img src="/images/diyresources/sing_a_song_of_hawker_food.jpg" alt="Sing a Song of Hawker Food" style="width: 40%;">
 
 [Sing a Song of Hawker Food](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205498861) <br>
 by Lianne Ong <br>
@@ -39,7 +42,8 @@ Cheeky illustrations highlight aspects of Singapore hawker culture that children
 
 Source: Synopsis from World Scientific 
 
-<img src="/images/diyresources/Nini_eat_first_talk_later.jpg" alt="Nini Eat First Talk Later" style="width: 60%;">
+
+<img src="/images/diyresources/Nini_eat_first_talk_later.jpg" alt="Nini Eat First Talk Later" style="width: 40%;">
 
 [Nini Eat First Talk Later](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201319168) <br>
 by Fanny Lai  <br>
@@ -69,7 +73,7 @@ by Nureza Ahmad & Azizah Sidek <br>
 Glutton’s Square was one of the most popular street dining venues in Singapore in the 1970s. It was located in a carpark along Orchard Road, opposite what is now Centrepoint shopping mall. 
 
 
-**<u>Oral history interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interview with WONG Chow Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002395) <br>
 Accession Number: 002395
@@ -82,21 +86,18 @@ Accession Number: 001757 <br>
 Mr Nicholas Tang Khui Cheong talks about the food that was sold during wayang (Chinese street opera) performances. He also describes how hawkers would call out to their patrons as they made their way through the neighbourhood. To listen to the interview, head on to reel/disc [21](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/593a567d-1162-11e3-83d5-0050568939ad?synopsis=hawkers&synopsis-type=all) and [23](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/595bdf54-1162-11e3-83d5-0050568939ad?synopsis=hawkers&synopsis-type=all).
 
 [Oral History Interviewee: TOH, Sylvia Paik Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003903) <br>
-Accession Number:  003903 <br>
+Accession Number: 003903 <br>
 
 Ms Sylvia Toh Paik Choo describes how itinerant hawkers would visit the kampungs (Malay term for rural villages) to sell their wares, what food they sold and how much it cost. To listen to the interview, head on to reel/disc [9](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/54e863bf-664d-11e5-ac2a-0050568939ad).
 
 
-**<u>Audiovisual recordings</u>**
+**Audiovisual Recordings**
 
 <br>[Programme Title: Singapore Scene](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/d007bd85-cc5b-11e8-ab1b-001a4a5ba61b) <br>
 Accession No: 2018012146 <br>
+Ken Illsley Collection, courtesy of the National Archives of Singapore<br>
 
-Ken Illsley Collection, courtesy of the National Archives of Singapore
 Filmed by former British military personnel Ken Illsley who was based in Singapore in the late 50s, this home movie showed scenes of Clifford Pier, workers loading and unloading goods at the Singapore River, trishaw riders on Cavenagh Bridge, streets bustling with people, and families seen hanging around the street hawkers.
-
-**<u>Photographs</u>**
-
 
 
 <b><a href="#top">Back to top</a></b>

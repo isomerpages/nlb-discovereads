@@ -116,7 +116,7 @@ Master spy Twilight is the best at what he does when it comes to going undercove
 Synopsis from [VIZ Media](https://www.viz.com/).
 
 <img src="/images/diyresources/secondary/ttj22-reading-book3.jpg" alt="Ichi-F book cover." style="width: 30%;"><br>
-**Ichi-F**
+**Ichi-F**<br>
 Author: Kazuto Tatsuta<br>
 Publisher: Kodansha Comics, 2017<br>
 Call No.: Y 363.17990952117 TAT<br>

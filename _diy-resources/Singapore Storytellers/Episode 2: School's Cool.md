@@ -13,7 +13,7 @@ Why did schoolchildren have to brush their teeth by the drain? Find out from Mr 
 
 
 **Episode Summary** <br>
-Chalk, blackboards, wooden furniture, brushing your teeth by the drain. school days were different back then. The trio visit a classroom from the past and look at what life in school used to be like. Assistant Professor Walid Jumblatt Abdullah, a lecturer from the Nanyang Technological University, also shares memories of his school days.
+Chalk, blackboards, wooden furniture, brushing your teeth by the drain. School days were different back then. The trio visit a classroom from the past and look at what life in school used to be like. Assistant Professor Walid Jumblatt Abdullah, a lecturer from the Nanyang Technological University, also shares memories of his school days.
 
 **<u>Recommended Resources</u>**
 
@@ -83,7 +83,7 @@ Mrs Carmee Lim recalls her school days at Yangzheng Primary. Despite attending a
 [Oral History Interview with LEONG, Hossan; HAN, Patrick; TAN, Sia Lim Gary; KUAY Soong Teck; MOK, Liang Amos Hilary; TAN, Leslie Wee Ming; YEO, Douglas and Zakir Hamid ](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/004047) <br>
 Accession Number: 004047 <br>
 
-Seven Anglo-Chinese Primary School (ACPS) (Coleman) old boys (1976-81) share the fun things they did during recess at school. The games they played were capteh (feathered shuttlecock), hantam bola (playing tag with a ball) and capteh football. The interviewees also talk about the subsidised milk that was provided improveaboutschoolkids and having to squat by the drain to brush their teeth as part of the government’s teeth brushing campaign. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9600165a-1f35-11e6-95f9-0050568939ad?synopsis=games&synopsis-type=all).
+Seven Anglo-Chinese Primary School (ACPS) (Coleman) old boys (1976-81) share the fun things they did during recess at school. The games they played were *capteh* (feathered shuttlecock), *hantam* bola (playing tag with a ball) and *capteh* football. The interviewees also talk about the subsidised milk that was provided improveaboutschoolkids and having to squat by the drain to brush their teeth as part of the government’s teeth brushing campaign. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9600165a-1f35-11e6-95f9-0050568939ad?synopsis=games&synopsis-type=all).
 
 
 **<u>Audiovisual Recordings</u>**
@@ -97,6 +97,7 @@ Footage features children playing; children in class; new secondary school build
 
 **<u>Photographs</u>**
 
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=47a7e95c-b5f1-4b09-b8fa-aea60013219e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 <b><a href="#top">Back to top</a></b>

@@ -79,6 +79,8 @@ The adaptation of manga is not always one-directional. Did you know that the ren
 Seeing how versatile and varied manga can be, there’s definitely something for everyone.  
 
 <u><b>Welcome to the wide, wonderful world of manga!</b></u><br>
+Check out our [Learning Playlist](https://learning.nlb.gov.sg/reading/teens/content) on the NLB LearnX site for more manga-related resources!
+
 As of April 2022, the following public libraries each have a manga collection for you to peruse: 
 
 * Choa Chu Kang Public Library 

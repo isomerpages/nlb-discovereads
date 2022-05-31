@@ -6,14 +6,16 @@ third_nav_title: Singapore Storytellers
 ---
 ### **Episode 3: Everything Yums**
 
+![](/images/diyresources/sg_storyteller_banner.png)
+
 This was a time before burgers, French fries and chicken nuggets. Join Auntie Linda as she shares her favourite candy and memories of helping out at her family’s hawker stall. Out on 14 June.
 
 
 
-**Episode Summary**<br>
+**Episode summary**<br>
 The kids encounter their worst nightmare – a time before fast food restaurants! In this episode, they learn about street hawkers and sample popular snacks from yesteryear. Auntie Linda shares her childhood memories of helping out at the noodle stall that her grandmother ran in Chinatown.
 
-**<u>Recommended Resources</u>**
+**<u>Recommended resources</u>**
 
 **<u>Books</u>**
 
@@ -50,7 +52,7 @@ Publisher: Rojak City
 
 Source: Synopsis from book cover
 
-**<u>Curated Resources</u>**
+**<u>Curated resources</u>**
 
 **Blast from the Past**<br>
 [Food Hawkers](https://www.nas.gov.sg/archivesonline/blastfromthepast/foodhawkers) <br>
@@ -70,7 +72,7 @@ by Nureza Ahmad & Azizah Sidek <br>
 Glutton’s Square was one of the most popular street dining venues in Singapore in the 1970s. It was located in a carpark along Orchard Road, opposite what is now Centrepoint shopping mall. 
 
 
-**<u>Oral History Interviews</u>**
+**<u>Oral history interviews</u>**
 
 [Oral History Interview with WONG Chow Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002395) <br>
 Accession Number: 002395
@@ -92,12 +94,13 @@ Ms Sylvia Toh Paik Choo describes how itinerant hawkers would visit the kampungs
 
 <br>[Programme Title: Singapore Scene](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/d007bd85-cc5b-11e8-ab1b-001a4a5ba61b) <br>
 Accession No: 2018012146 <br>
+Ken Illsley Collection, courtesy of the National Archives of Singapore<br>
 
-Ken Illsley Collection, courtesy of the National Archives of Singapore
 Filmed by former British military personnel Ken Illsley who was based in Singapore in the late 50s, this home movie showed scenes of Clifford Pier, workers loading and unloading goods at the Singapore River, trishaw riders on Cavenagh Bridge, streets bustling with people, and families seen hanging around the street hawkers.
 
 **<u>Photographs</u>**
 
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8207da5d-3648-4b1b-9fe7-aea600132eba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 <b><a href="#top">Back to top</a></b>

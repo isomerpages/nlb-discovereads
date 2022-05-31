@@ -5,16 +5,26 @@ description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
 ### June 2022
-
-### May 2022
 **Complete this month's English and MTL quizzes to earn extra points!**
 
 Quizzes will be updated every month.
 
-![](/images/events/bookbugsr/Mafic.png)
+![](/images/events/bookbugsr/BBR-Jolie.png)
 
 * <a href="https://forms.gle/hPN86Ao7HZt4suTz8" target="_blank" rel="noopener noreferrer"> English Quiz</a>
 * <a href="https://forms.gle/3SAm9DF5wEwYczkZ8" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
+
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
+
+
+### May 2022 (Closed)
+
+This quiz has now closed. Points will be awarded by 7 June 2022, Monday. All entries received after 31 May 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
+
+![](/images/events/bookbugsr/Mafic.png)
+
+* <a href=" https://forms.gle/6ZWn5estfRfTfpip8" target="_blank" rel="noopener noreferrer"> English Quiz</a>
+* <a href="https://forms.gle/c8tPGThxvkxLMVCy8" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 

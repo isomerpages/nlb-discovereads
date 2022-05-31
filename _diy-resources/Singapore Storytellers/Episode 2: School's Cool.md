@@ -18,7 +18,7 @@ Chalk, blackboards, wooden furniture, brushing your teeth by the drain. School d
 
 **<u>Recommended resources</u>**
 
-**<u>Books</u>**
+**Books**
 
 <img src="/images/diyresources/Aman_goes_to_school.jpg" alt="Aman_goes_to_school" style="width: 40%;">
 
@@ -96,7 +96,7 @@ Ministry of Culture, courtesy of the National Archives of Singapore<br>
 Footage features children playing; children in class; new secondary school buildings; second language classes in progress; technical workshops; science laboratories; gymnastics class and a basketball game.
 
 
-**<u>Photographs</u>**
+**Photographs**
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=47a7e95c-b5f1-4b09-b8fa-aea60013219e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 

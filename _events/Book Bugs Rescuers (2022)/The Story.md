@@ -24,6 +24,8 @@ Click on this first and second issues to read the feature stories, complete the 
 
 |<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Bugtopian 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Newsletter2-28 Feb_FA-editnlblogo_compressed (1).pdf"><img src="/images/events/bookbugsr/Bugtopian2Image.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
 
+Answers to all acitivty pages can be found [here.](/events/bookbugsr/community/)
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>
@@ -31,6 +33,8 @@ Click on this first and second issues to read the feature stories, complete the 
 ### Passport to Bugtopia
 
 |<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 60%;" align="left"></a>|
+
+Answers to all acitivty pages can be found [here.](/events/bookbugsr/community/)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

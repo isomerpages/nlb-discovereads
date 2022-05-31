@@ -6,8 +6,10 @@ third_nav_title: Singapore Storytellers
 ---
 ### **Episode 2: School’s Cool**
 
-Why did schoolchildren have to brush their teeth by the drain? Find out from Mr Walid. Coming soon on 7 June.
+![](/images/diyresources/sg_storyteller_banner.png)
 
+
+Why did schoolchildren have to brush their teeth by the drain? Find out from Mr Walid. Coming soon on 7 June.
 
 
 **Episode Summary** <br>

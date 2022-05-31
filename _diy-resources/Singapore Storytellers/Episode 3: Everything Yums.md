@@ -39,6 +39,7 @@ Cheeky illustrations highlight aspects of Singapore hawker culture that children
 
 Source: Synopsis from World Scientific 
 
+
 <img src="/images/diyresources/Nini_eat_first_talk_later.jpg" alt="Nini Eat First Talk Later" style="width: 40%;">
 
 [Nini Eat First Talk Later](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201319168) <br>

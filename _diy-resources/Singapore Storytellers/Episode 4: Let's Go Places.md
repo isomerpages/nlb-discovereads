@@ -6,16 +6,18 @@ third_nav_title: Singapore Storytellers
 ---
 ### **Episode 4: Let's Go Places**
 
+![](/images/diyresources/sg_storyteller_banner.png)
+
 Follow the kids as they explore places from the past and hear stories from Uncle Wilfred. This episode airs on 21 June.
 
 
+**Episode summary**<br>
 
-**Episode Summary**<br>
 Wonderland. Van Kleef Aquarium. Great World. The kids go on an adventure and explore attractions from the past. Special guest Uncle Wilfred shares his miniature dioramas and stories of old homes and places of interest. 
 
-**<u>Recommended Resources</u>**
+**<u>Recommended resources</u>**
 
-**<u>Books</u>**
+**Books**
 
 <img src="/images/diyresources/my_favourite_days.jpg" alt="My Favourite Days" style="width: 40%;">
 
@@ -49,7 +51,7 @@ Rosie loves the Mamak shop uncle and the kentang curry puffs Amma buys from her 
 
 Source: Synopsis from book cover
 
-**<u>Curated Resources</u>**
+**<u>Curated resources</u>**
 
 **Blast from the Past**<br>
 [Kampung Spirit](https://www.nas.gov.sg/archivesonline/blastfromthepast/kampungspirit) <br>
@@ -69,10 +71,10 @@ Which movie stars promoted their movies at the Capitol Theatre when they were in
 [Street Wayang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1218_2011-06-28.html) <br>
 by Serene Cai <br>
 
-*Wayang*, a Malay word meaning “a theatrical performance employing puppets or human dancers”, is also used to refer to Chinese street opera in Singapore, as well as other forms of opera such as wayang kulit. 
+Wayang, a Malay word meaning “a theatrical performance employing puppets or human dancers”, is also used to refer to Chinese street opera in Singapore, as well as other forms of opera such as wayang kulit. 
 
 
-**<u>Oral History Interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interviewee with Woon, Richard Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002908) <br>
 Accession Number: 002908 <br>
@@ -92,7 +94,7 @@ back then – where he and his friends hung out,
 the houses, the landmarks and where people would go for entertainment. Examples of entertainment places included the Lido Theatre and Barbarella, the first discotheque in Singapore. He also talks about the origin of the Malaya Cup and how important football matches used to be played at the Jalan Besar Stadium before they were moved to the National Stadium. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c5b8d5ce-1160-11e3-83d5-0050568939ad) & [7](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ddfa8e5c-1160-11e3-83d5-0050568939ad).
 
 
-**<u>Audiovisual Recordings</u>**<br>
+**Audiovisual Recordings**<br>
 
 [Programme Title: The People's Singapore 3: 1. The Polytechnic 2. Community Centres 3. The Aquarium](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad) <br>
 Accession No: [1982000304](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad)
@@ -101,8 +103,9 @@ Ministry of Culture, courtesy of the National Archives of Singapore <br>
 
 Produced by the Ministry of Culture, this 1960 news magazine film features King George V Park, a popular park for picnickers and the Van Kleef Aquarium.
 
-**<u>Photographs</u>**
+**Photographs**
 
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=7fdcca92-a831-4709-a2ff-aea6001337cd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 <b><a href="#top">Back to top</a></b>

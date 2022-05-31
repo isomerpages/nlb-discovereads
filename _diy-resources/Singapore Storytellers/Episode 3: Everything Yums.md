@@ -17,7 +17,7 @@ The kids encounter their worst nightmare – a time before fast food restaurants
 
 **<u>Recommended resources</u>**
 
-**<u>Books</u>**
+**Books**
 
 <img src="/images/diyresources/Eat_with_your_eyes.jpg" alt="Eat with your Eyes" style="width: 40%;">
 
@@ -72,7 +72,7 @@ by Nureza Ahmad & Azizah Sidek <br>
 Glutton’s Square was one of the most popular street dining venues in Singapore in the 1970s. It was located in a carpark along Orchard Road, opposite what is now Centrepoint shopping mall. 
 
 
-**<u>Oral history interviews</u>**
+**Oral History Interviews**
 
 [Oral History Interview with WONG Chow Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002395) <br>
 Accession Number: 002395
@@ -85,12 +85,12 @@ Accession Number: 001757 <br>
 Mr Nicholas Tang Khui Cheong talks about the food that was sold during wayang (Chinese street opera) performances. He also describes how hawkers would call out to their patrons as they made their way through the neighbourhood. To listen to the interview, head on to reel/disc [21](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/593a567d-1162-11e3-83d5-0050568939ad?synopsis=hawkers&synopsis-type=all) and [23](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/595bdf54-1162-11e3-83d5-0050568939ad?synopsis=hawkers&synopsis-type=all).
 
 [Oral History Interviewee: TOH, Sylvia Paik Choo](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003903) <br>
-Accession Number:  003903 <br>
+Accession Number: 003903 <br>
 
 Ms Sylvia Toh Paik Choo describes how itinerant hawkers would visit the kampungs (Malay term for rural villages) to sell their wares, what food they sold and how much it cost. To listen to the interview, head on to reel/disc [9](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/54e863bf-664d-11e5-ac2a-0050568939ad).
 
 
-**<u>Audiovisual recordings</u>**
+**Audiovisual Recordings**
 
 <br>[Programme Title: Singapore Scene](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/d007bd85-cc5b-11e8-ab1b-001a4a5ba61b) <br>
 Accession No: 2018012146 <br>
@@ -98,7 +98,7 @@ Ken Illsley Collection, courtesy of the National Archives of Singapore<br>
 
 Filmed by former British military personnel Ken Illsley who was based in Singapore in the late 50s, this home movie showed scenes of Clifford Pier, workers loading and unloading goods at the Singapore River, trishaw riders on Cavenagh Bridge, streets bustling with people, and families seen hanging around the street hawkers.
 
-**<u>Photographs</u>**
+**Photographs**
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=8207da5d-3648-4b1b-9fe7-aea600132eba&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 

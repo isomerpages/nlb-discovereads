@@ -4,6 +4,8 @@ permalink: /events/bookbugsr/quiz/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+### June 2022
+
 ### May 2022
 **Complete this month's English and MTL quizzes to earn extra points!**
 

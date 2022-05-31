@@ -10,14 +10,14 @@ This was a time before burgers, French fries and chicken nuggets. Join Auntie Li
 
 
 
-**Episode summary**<br>
+**Episode Summary**<br>
 The kids encounter their worst nightmare – a time before fast food restaurants! In this episode, they learn about street hawkers and sample popular snacks from yesteryear. Auntie Linda shares her childhood memories of helping out at the noodle stall that her grandmother ran in Chinatown.
 
 **<u>Recommended Resources</u>**
 
 **<u>Books</u>**
 
-<img src="/images/diyresources/Eat_with_your_eyes.jpg" alt="Eat with your Eyes" style="width: 60%;">
+<img src="/images/diyresources/Eat_with_your_eyes.jpg" alt="Eat with your Eyes" style="width: 40%;">
 
 [Eat with Your Eyes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204435072) <br>
 by Low Lai Chow <br>
@@ -27,7 +27,7 @@ For little art lovers and their grown-up companions, feast on 14 yummy modern So
 
 Source: Synopsis from National Gallery Singapore
 
-<img src="/images/diyresources/sing_a_song_of_hawker_food.jpg" alt="Sing a Song of Hawker Food" style="width: 60%;">
+<img src="/images/diyresources/sing_a_song_of_hawker_food.jpg" alt="Sing a Song of Hawker Food" style="width: 40%;">
 
 [Sing a Song of Hawker Food](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205498861) <br>
 by Lianne Ong <br>
@@ -39,7 +39,7 @@ Cheeky illustrations highlight aspects of Singapore hawker culture that children
 
 Source: Synopsis from World Scientific 
 
-<img src="/images/diyresources/Nini_eat_first_talk_later.jpg" alt="Nini Eat First Talk Later" style="width: 60%;">
+<img src="/images/diyresources/Nini_eat_first_talk_later.jpg" alt="Nini Eat First Talk Later" style="width: 40%;">
 
 [Nini Eat First Talk Later](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201319168) <br>
 by Fanny Lai  <br>
@@ -49,7 +49,7 @@ Publisher: Rojak City
 
 Source: Synopsis from book cover
 
-**<u>Curated resources</u>**
+**<u>Curated Resources</u>**
 
 **Blast from the Past**<br>
 [Food Hawkers](https://www.nas.gov.sg/archivesonline/blastfromthepast/foodhawkers) <br>
@@ -69,7 +69,7 @@ by Nureza Ahmad & Azizah Sidek <br>
 Glutton’s Square was one of the most popular street dining venues in Singapore in the 1970s. It was located in a carpark along Orchard Road, opposite what is now Centrepoint shopping mall. 
 
 
-**<u>Oral history interviews</u>**
+**<u>Oral History Interviews</u>**
 
 [Oral History Interview with WONG Chow Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002395) <br>
 Accession Number: 002395

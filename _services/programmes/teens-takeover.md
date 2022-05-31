@@ -53,9 +53,6 @@ Past programmes:
 
 Past programmes:
 
-* <s>[21 Apr] Interview Skills, Zoom, Wednesday 3-4pm [Register now!]</s>
-* <s>[16 Jun] Interview Skills, Zoom, Wednesday 3-4pm  [Register now!]</s> 
-* <s>[18 Dec] A Day in the Life Of, Choa Chu Kang Public Library, Programme Zones 1 & 2, Saturday 2-3.30pm [Register now!]</s>
 * <s>[9 Mar] Medical Myths Debunked Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[12 Mar] A Day in the Life of a Digital Forensic Specialist, Zoom, Saturday 11am-12.30pm [Register now!]</s>
 
@@ -63,8 +60,6 @@ Past programmes:
 
 Past programmes:
 
-* <s>[8 Sep] Mobile Phone Photography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
-* <s>[15 Dec] Mobile Phone Videography Workshop, Zoom, Wednesday 3-4pm [Register now!]</s>
 * <s>[15 Jan] Discover Discord Workshop, Zoom, Saturday 2-3.30pm [Register now!]</s>
 
 <img src="/images/unsorted/teenstakeover/teens-greenhouse.png" alt="Greenhouse - If you enjoy sustainability-themed programmes, this is the track for you." style="width: 40%;">
@@ -88,7 +83,6 @@ Past programmes:
 
 Past programmes:
 
-* <s>[16 Oct] Medical Myths Debunked Workshop, Zoom, Saturday 2-3.30pm  [Register now!]</s>
 * <s>[5 Feb] Deep Sea Horror Workshop, Zoom, Saturday 2-3.30pm [Register now!]</s>
 * <s>[18 Mar] Build a LEGO Factory Workshop, Jurong Regional Library Programme Zone, Friday 3-6pm [Register now!]</s>
 

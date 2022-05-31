@@ -10,14 +10,14 @@ Follow the kids as they explore places from the past and hear stories from Uncle
 
 
 
-**Episode summary**<br>
+**Episode Summary**<br>
 Wonderland. Van Kleef Aquarium. Great World. The kids go on an adventure and explore attractions from the past. Special guest Uncle Wilfred shares his miniature dioramas and stories of old homes and places of interest. 
 
 **<u>Recommended Resources</u>**
 
 **<u>Books</u>**
 
-<img src="/images/diyresources/my_favourite_days.jpg" alt="My Favourite Days" style="width: 60%;">
+<img src="/images/diyresources/my_favourite_days.jpg" alt="My Favourite Days" style="width: 40%;">
 
 [My Favourite Days](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205538914) <br>
 by Illo Picto <br>
@@ -27,7 +27,7 @@ The story conveys a heart-warming interaction between a little girl and her gran
 
 Source: Synopsis from TOUCH Community Services
 
-<img src="/images/diyresources/out_and_about_singapore.png" alt="Out and About Singapore" style="width: 60%;">
+<img src="/images/diyresources/out_and_about_singapore.png" alt="Out and About Singapore" style="width: 40%;">
 
 [Out & About in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986850) <br>
 by Melanie Lee <br>
@@ -39,7 +39,7 @@ Some related craft activities are thrown in as well just for the fun of it! This
 
 Source: Synopsis from Marshall Cavendish International
 
-<img src="/images/diyresources/rosie_and_the_mamak_shop.png" alt="Rosie and the Mamak Shop" style="width: 60%;">
+<img src="/images/diyresources/rosie_and_the_mamak_shop.png" alt="Rosie and the Mamak Shop" style="width: 40%;">
 
 [Rosie and the Mamak shop](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205552189) <br>
 by Rachelyn Gordon <br>
@@ -49,7 +49,7 @@ Rosie loves the Mamak shop uncle and the kentang curry puffs Amma buys from her 
 
 Source: Synopsis from book cover
 
-**<u>Curated resources</u>**
+**<u>Curated Resources</u>**
 
 **Blast from the Past**<br>
 [Kampung Spirit](https://www.nas.gov.sg/archivesonline/blastfromthepast/kampungspirit) <br>
@@ -72,7 +72,7 @@ by Serene Cai <br>
 *Wayang*, a Malay word meaning “a theatrical performance employing puppets or human dancers”, is also used to refer to Chinese street opera in Singapore, as well as other forms of opera such as wayang kulit. 
 
 
-**<u>Oral history interviews</u>**
+**<u>Oral History Interviews</u>**
 
 [Oral History Interviewee with Woon, Richard Kai Yin](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002908) <br>
 Accession Number: 002908 <br>
@@ -91,7 +91,7 @@ back then – where he and his friends hung out,
 the houses, the landmarks and where people would go for entertainment. Examples of entertainment places included the Lido Theatre and Barbarella, the first discotheque in Singapore. He also talks about the origin of the Malaya Cup and how important football matches used to be played at the Jalan Besar Stadium before they were moved to the National Stadium. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c5b8d5ce-1160-11e3-83d5-0050568939ad) & [7](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ddfa8e5c-1160-11e3-83d5-0050568939ad).
 
 
-**<u>Audiovisual recordings</u>**<br>
+**<u>Audiovisual Recordings</u>**<br>
 
 [Programme Title: The People's Singapore 3: 1. The Polytechnic 2. Community Centres 3. The Aquarium](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad) <br>
 Accession No: [1982000304](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad)

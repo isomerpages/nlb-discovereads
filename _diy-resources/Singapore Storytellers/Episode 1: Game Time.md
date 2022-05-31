@@ -15,9 +15,9 @@ In a time before computers and mobile games, how did kids amuse themselves? Aunt
 
 The gang travels back to a time before smartphones and tablets. In a kampong, the trio try their hands (and feet) at *goli*, *gasing* and *capteh*. They are joined by Auntie Shirley, a 75-year-old cosplayer, who shares her memories and experiences playing kampong games and toys.
 
-**Recommended resources**
+**<u>Recommended resources</u>**
 
-**<u>Books</u>**
+**Books**
 <img src="/images/diyresources/eye_spy_singapore.jpg" alt="Eye Spy Singapore" style="width: 40%;">
 
 [Eye Spy Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205265472) <br>
@@ -88,7 +88,7 @@ Accession Number: 004172 <br>
 
 Mr Elendrus Osman recalls playing in the graveyard, as well as the traditional games he played such as rounders, mother hen and five stones. To listen to the interview, head on to reel/disc [1](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c7de5d24-4921-11e8-b81e-001a4a5ba61b).
 
-**<u>Photographs</u>**
+**Photographs**
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=dd471e6d-a02c-4b39-8149-aea600131845&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 

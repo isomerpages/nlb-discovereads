@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Singapore Storytellers
 ---
 ### **Episode 1: Game Time**
+![](/images/diyresources/sg_storyteller_banner.png)
 
 In a time before computers and mobile games, how did kids amuse themselves? Auntie Shirley talks about her childhood and the games she used to play.
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBCnL-hYIEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Episode Summary**<br>
 

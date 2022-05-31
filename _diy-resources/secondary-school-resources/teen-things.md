@@ -21,6 +21,8 @@ third_nav_title: Secondary School Resources
 #### **Marvellous Manga**
 *Naruto*, *One Piece*, *My Hero Academia*, *Jujutsu Kaisen* – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. "*Manga*" refers to Japanese comics or graphic novels.  
 
+Check out our [Learning Playlist](https://learning.nlb.gov.sg/reading/teens/content) on the NLB LearnX site for quick video introductions to manga!
+
 <b><u>What is manga?</u></b><br>
 <img src="/images/diyresources/secondary/ttj22-reading-image1.png" alt="Definition of Manga. Man means whimsical while ga means pictures." style="width: 100%;">
 Manga is an art form that tells a story through the greater usage of pictures over words. However, it doesn’t mean that text is entirely overlooked. 

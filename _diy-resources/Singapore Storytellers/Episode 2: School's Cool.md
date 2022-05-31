@@ -84,7 +84,7 @@ Mrs Carmee Lim recalls her school days at Yangzheng Primary. Despite attending a
 [Oral History Interview with LEONG, Hossan; HAN, Patrick; TAN, Sia Lim Gary; KUAY Soong Teck; MOK, Liang Amos Hilary; TAN, Leslie Wee Ming; YEO, Douglas and Zakir Hamid ](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/004047) <br>
 Accession Number: 004047 <br>
 
-Seven Anglo-Chinese Primary School (ACPS) (Coleman) old boys (1976-81) share the fun things they did during recess at school. The games they played were *capteh* (feathered shuttlecock), *hantam* bola (playing tag with a ball) and *capteh* football. The interviewees also talk about the subsidised milk provided and having to squat by the drain to brush their teeth as part of the government’s teeth brushing campaign. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9600165a-1f35-11e6-95f9-0050568939ad?synopsis=games&synopsis-type=all).
+Seven Anglo-Chinese Primary School (ACPS) (Coleman) old boys (1976-81) share the fun things they did during recess at school. The games they played were *capteh* (feathered shuttlecock), *hantam bola* (playing tag with a ball) and *capteh* football. The interviewees also talk about the subsidised milk provided and having to squat by the drain to brush their teeth as part of the government’s teeth brushing campaign. To listen to the interview, head on to reel/disc [2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/9600165a-1f35-11e6-95f9-0050568939ad?synopsis=games&synopsis-type=all).
 
 
 **Audiovisual Recordings**

@@ -56,7 +56,7 @@ Source: Synopsis from book cover
 [Favourite Old Pastimes](https://www.nas.gov.sg/archivesonline/blastfromthepast/pastimes) <br>
 Besides kite-fighting, *gasing* and *capteh*, people used to go to the beach, watch movies at the cinema and enjoy a day out at Happy World amusement park.
 
-**Off The Record**<br>
+**Off the Record**<br>
 [A Girl Playing Five Stones, 1950s](https://corporate.nas.gov.sg/media/collections-and-research/fivestones) <br>
 Do you know how many steps it takes to complete a game of five stones?
 
@@ -81,9 +81,9 @@ Mr Ronald Benjamin Milne talks about the games he played during breaks in school
 [Oral History Interview with Sew Teng Kwok](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002209) <br>
 Accession Number: 002209 <br>
 
-Mr Sew Teng Kwok talks about the games children played during the 7th Month Festival of the lunar calendar and the process of making kites. To listen to the interview, head on to reel/disc [13](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6fed4b5d-115e-11e3-83d5-0050568939ad) and [15](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7ebfb0e9-115e-11e3-83d5-0050568939ad).
+Mr Sew Teng Kwok talks about the games children played during the Hungry Ghost Festival and the process of making kites. To listen to the interview, head on to reel/disc [13](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/6fed4b5d-115e-11e3-83d5-0050568939ad) and [15](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7ebfb0e9-115e-11e3-83d5-0050568939ad).
 
-[Oral History Interviewee: ELENDRUS bin Osman](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/004172) <br>
+[Oral History Interviewee: ELENDRUS Osman](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/004172) <br>
 Accession Number: 004172 <br>
 
 Mr Elendrus Osman recalls playing in the graveyard, as well as the traditional games he played such as rounders, mother hen and five stones. To listen to the interview, head on to reel/disc [1](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/c7de5d24-4921-11e8-b81e-001a4a5ba61b).

@@ -103,5 +103,9 @@ Ministry of Culture, courtesy of the National Archives of Singapore <br>
 
 Produced by the Ministry of Culture, this 1960 news magazine film features King George V Park, a popular park for picnickers and the Van Kleef Aquarium.
 
+**Photographs**
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=f7352f89-20b7-4100-85f9-aea800712fd1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
 
 <b><a href="#top">Back to top</a></b>

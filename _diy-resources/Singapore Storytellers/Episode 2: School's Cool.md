@@ -95,6 +95,7 @@ Ministry of Culture, courtesy of the National Archives of Singapore<br>
 
 Footage features children playing; children in class; new secondary school buildings; second language classes in progress; technical workshops; science laboratories; gymnastics class and a basketball game.
 
-
+**Photographs**
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=5b0fffb6-0357-487a-848b-aea800712635&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 <b><a href="#top">Back to top</a></b>

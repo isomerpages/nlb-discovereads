@@ -53,6 +53,8 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 <a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
 
+<a href="/files/primary-book-recommendations/WEB%20NLB%20Easy-to-Read%20Booklist%20(spread)-compressed.pdf"><img src="/images/recommendationsprimary/Easy_To_Read_2.png" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
+
 <a href="/images/recommendationsprimary/Making-Books-Accessible.PDF"><img src="/images/recommendationsprimary/Making-Books-Accessible.jpg" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
 
 

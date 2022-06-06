@@ -29,7 +29,7 @@ The story conveys a heart-warming interaction between a little girl and her gran
 
 Source: Synopsis from TOUCH Community Services
 
-
+<img src="/images/diyresources/out_and_about_singapore_v2.jpg"alt="Out and About Singapore"style="width:40%;">
 
 [Out & About in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986850) <br>
 by Melanie Lee <br>

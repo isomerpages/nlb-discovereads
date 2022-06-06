@@ -97,7 +97,7 @@ the houses, the landmarks and where people would go for entertainment. Examples 
 **Audiovisual Recordings**<br>
 
 [Programme Title: The People's Singapore 3: 1. The Polytechnic 2. Community Centres 3. The Aquarium](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad) <br>
-Accession No: [1982000304](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad)
+Accession No: 1982000304
 <br>
 Ministry of Culture, courtesy of the National Archives of Singapore <br>
 

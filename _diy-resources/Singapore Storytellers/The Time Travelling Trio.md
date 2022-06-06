@@ -37,14 +37,14 @@ The National Archives of Singapore (NAS) collects and preserves public and priva
 Enjoy an introduction to NAS collections such as photographs, oral history interviews, audiovisual content and declassified government files as we explore Singapore’s past through themes such as food, sports, war history and fashion.
 
 [Off the Record](https://corporate.nas.gov.sg/media/ )<br>
-You can find archivist articles written in an inviting, casual but balanced tone that can be playful.  
+You can find archivist articles which are written in an inviting, casual but balanced tone that can be playful but is factually accurate and is properly cited.  
 
 [Audiovisual Recordings](https://www.nas.gov.sg/archivesonline/audiovisual_records/ )<br>
-Watch snippets of audio-visual recordings that are of national and historical significance at Archives Online. The collection of recordings serves as valuable research resources on Singapore and takes you back in time.
+Watch snippets of audiovisual recordings that are of national and historical significance on Archives Online. These recordings serves as valuable research resources on Singapore and takes you back in time.
 
 
 [Oral History Interviews](https://www.nas.gov.sg/archivesonline/oral_history_interviews/ )<br>
-Want to listen to survivor stories from our forefathers during Japanese occupation? Access our rich oral history recordings on Archives Online to listen to experts and read transcripts of the interview.    
+Want to listen to the life stories and eye witness accounts of individuals who had influenced or witnessed the history of Singapore? Access our rich oral history recordings on Archives Online to listen to experts and read transcripts of these interviews. 
 
 
 

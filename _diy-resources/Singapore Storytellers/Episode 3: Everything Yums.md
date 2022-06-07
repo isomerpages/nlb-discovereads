@@ -49,7 +49,7 @@ Source: Synopsis from World Scientific
 by Fanny Lai  <br>
 Publisher: Rojak City
 
-“*Nini Eat First Talk Later*” tells the story of Singapore’s multi-cultural food heritage. It shows what life was like in the 60’s when family, friends and food were the most important things in life. With hundreds of Singapore’s famous street food beautifully illustrated for foodies.
+Nini *Eat First Talk Later* tells the story of Singapore’s multi-cultural food heritage. It shows what life was like in the 60’s when family, friends and food were the most important things in life. With hundreds of Singapore’s famous street food beautifully illustrated for foodies.
 
 Source: Synopsis from book cover
 

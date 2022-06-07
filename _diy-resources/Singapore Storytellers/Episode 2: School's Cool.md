@@ -9,7 +9,9 @@ third_nav_title: Singapore Storytellers
 ![](/images/diyresources/sg_storyteller_banner.png)
 
 
-Why did schoolchildren have to brush their teeth by the drain? Find out from Mr Walid. Coming soon on 7 June.
+Why did schoolchildren have to brush their teeth by the drain? Find out from Mr Walid. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHO3-rf3hm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Episode summary** <br>

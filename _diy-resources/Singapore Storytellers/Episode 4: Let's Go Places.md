@@ -29,7 +29,7 @@ The story conveys a heart-warming interaction between a little girl and her gran
 
 Source: Synopsis from TOUCH Community Services
 
-<img src="/images/diyresources/out_and_about_singapore.png" alt="Out and About Singapore" style="width: 40%;">
+<img src="/images/diyresources/out_and_about_singapore_v2.jpg" alt="Out and about Singapore" style="width: 40%;">
 
 [Out & About in Singapore](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203986850) <br>
 by Melanie Lee <br>
@@ -97,7 +97,7 @@ the houses, the landmarks and where people would go for entertainment. Examples 
 **Audiovisual Recordings**<br>
 
 [Programme Title: The People's Singapore 3: 1. The Polytechnic 2. Community Centres 3. The Aquarium](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad) <br>
-Accession No: [1982000304](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457f6756-1164-11e3-83d5-0050568939ad)
+Accession No: 1982000304
 <br>
 Ministry of Culture, courtesy of the National Archives of Singapore <br>
 

@@ -41,7 +41,7 @@ Attention all teens! Have time to spare? Join us for these workshops coming up i
 
 <img src="/images/unsorted/teenstakeover/teens-rewrite.png" alt="re:write - Join us for programmes related to reading and writing (and more!) here." style="width: 40%;">
 
-* [5 Jun] New Dimensions: a Zine Workshop, Sengkang Public Library, Sunday 2-4pm [Register now!](https://www.eventbrite.sg/e/new-dimensions-a-zine-workshop-teens-takeover-rewrite-tickets-344637840057?aff=odcleoeventsincollection)
+* <s>[5 Jun] New Dimensions: a Zine Workshop, Sengkang Public Library, Sunday 2-4pm [Register now!]</s>
 
 Past programmes:
 

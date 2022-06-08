@@ -32,4 +32,4 @@ Rescuers, are you ready for an adventure? Let Bugtopia's journalist Attie lead y
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 
-<p class="has-text-right margin--top--xl"><a href="main-content">Back to top</a></p>
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

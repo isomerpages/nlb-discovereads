@@ -8,7 +8,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
 
-### About
+### What is Book Bugs
 
 Book Bugs: Rescuers of Stories Lost  is the fourth iteration of a bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages. Borrow any library item and/or complete the monthly quizzes to earn points. Four points can be exchanged for one collectible card at participating Public Libraries.
 

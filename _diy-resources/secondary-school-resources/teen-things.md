@@ -9,13 +9,92 @@ third_nav_title: Secondary School Resources
 ***Look out for new weekly topics during the school holidays, from 5 June 2022!***
 
 <img style="width: 100%;" alt="Teen Things header" src="/images/diyresources/secondary/ttj22-header1.png">
-<p style="text-align: center;"><i>(Updated on 31 May 2022)</i></p>
+<p style="text-align: center;"><i>(Updated on 13 June 2022)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) |
+| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | ![Travelling Sustainably](/images/diyresources/secondary/ttj22-button-ts.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) |
 
 [![Teen.Things Archive](/images/diyresources/secondary/ttj22-headerarchive.png)](/diy-resources/secondary/teen-things-archive)
+
+<a name="id2">![Travelling Sustainably header](/images/diyresources/secondary/ttj22-header-ts.png)</a>
+
+#### **Travelling Sustainably**
+
+With the lifting of pandemic restrictions, countries are reopening their borders to tourists. However, the increase in travel also threatens Earth’s climate in many ways.
+
+Sustainable tourism seeks to promote responsible travelling that respects environments, economies, and local communities. Whether you are spending a weekend in neighbouring Malaysia or exploring a different continent, read on to find out how to travel more sustainably.
+
+**1. The Negative Environmental Impacts of Tourism**<br>
+<a href="https://greentumble.com/environmental-impacts-of-tourism/"><img src="/images/diyresources/secondary/ttj22-sus-image1.png" alt="" style="width: 70%;"></a>
+
+The United Nations Environment Programme (UNEP) identified three key areas in which tourism degrades the environment—depletion of natural resources; environmental pollution; and biodiversity loss. 
+
+This [article](https://greentumble.com/environmental-impacts-of-tourism) urges us to consider the detrimental impact on nature from our tourist activities, such as transportation, hotel stays and other recreational pursuits.
+
+**2. How You Can Do Your Part for Sustainable Tourism**<br>
+<a href="https://www.skyscanner.com.sg/news/do-your-part-sustainable-tourism"><img src="/images/diyresources/secondary/ttj22-sus-image2.png" alt="" style="width: 70%;"></a>
+
+Choosing sustainable tourism doesn’t necessarily mean drastic changes to your travelling habits. This [article](https://www.skyscanner.com.sg/news/do-your-part-sustainable-tourism) lists actionable steps you can take to be mindful of the environment during your vacation. Some of these ideas can also make for new overseas experiences!
+
+<a href="https://www.youthcorps.gov.sg/volunteer/youth-expedition-project"><img src="/images/diyresources/secondary/ttj22-sus-image3.jpg" alt="" style="width: 70%;"></a>
+
+Youth Corps Singapore provides youth, aged 15 and above, with opportunities to implement service-learning projects to benefit overseas communities. Check out their [website](https://www.youthcorps.gov.sg/volunteer/youth-expedition-project) for resources and more information.
+
+**3. 9 Iconic Destinations Now Struggling with Overtourism, and How You Can Help**<br>
+<a href="https://www.trafalgar.com/real-word/iconic-struggling-overtourism-destinations/"><img src="/images/diyresources/secondary/ttj22-sus-image4.png" alt="" style="width: 70%;"></a>
+
+From Venice to Angkor Wat, many popular holiday destinations in the world are teeming with tourists. Some local communities struggle to manage the crowds, while others are seeing spikes in their costs of living with little returns in tourist dollars.
+
+This [listicle]([https://www.trafalgar.com/real-word/iconic-struggling-overtourism-destinations/](https://www.trafalgar.com/real-word/iconic-struggling-overtourism-destinations/) outlines nine well known cities that were plagued by overtourism shortly before the pandemic, which may attract floods of travellers visiting again. It also offers close alternatives for travellers to consider when planning their next holiday.
+
+For more reads on sustainable tourism, check out these titles!
+
+<a href="https://nlb.overdrive.com/media/6004631"><img src="/images/diyresources/secondary/ttj22-sus-book1.png" alt="Sustainable Travel: The Essential Guide to Positive-Impact Adventures book cover" style="width: 30%;"></a><br>
+**Sustainable Travel: The Essential Guide to Positive-Impact Adventures**<br>
+Author: Holly Tuppen<br>
+Call No.: English 910.202 TUP -[TRA]<br>
+Publisher: White Lion Publishing, 2021<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/6004631)).
+
+With so many of us looking to travel in a more sustainable way, but not sure how to go about it, this comprehensive guide reveals everything you need to know. It's a must read for anyone looking to tackle the climate crisis and support nature and people while travelling.
+
+Synopsis from [White Lion Publishing](https://www.quarto.com/White-Lion-Publishing).
+
+<a href="https://nlb.overdrive.com/media/5665017"><img src="/images/diyresources/secondary/ttj22-sus-book2.png" alt="The Eco-Conscious Travel Guide book cover" style="width: 30%;"></a><br>
+**The Eco-Conscious Travel Guide**<br>
+Author: Georgina Wilson-Powell<br>
+Publisher: HarperCollins Publishers, 2022<br>
+Only available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/5665017).
+
+Whether you have a long weekend or a fortnight to spare, there are plenty of no-fly European adventures to discover.
+
+From coastal to cultural, mountainous to mouth-watering, The Eco-Conscious Travel Guide offers 30 themed routes you can hop on and hop off at any point, including:
+
+* Alpine Ambles
+* Ski Escapes
+* Chocolate, Cheese and Carb Delights
+* Wine-fuelled Wanders
+
+Synopsis from [HarperCollins Publishers](https://www.harpercollins.com/).
+
+<a href="https://nlb.overdrive.com/media/5081330"><img src="/images/diyresources/secondary/ttj22-sus-book3.png" alt="Sustainable Escapes book cover" style="width: 30%;"></a><br>
+**Sustainable Escapes**<br>
+Author: James Bainbridge<br>
+Call No.: English 910.292 BAI -[TRA]<br>
+Publisher: Lonely Planet, 2020<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/5081330).
+
+This is Lonely Planet's guide to the world's best eco-friendly resorts and experiences. From eco-lodges with cutting-edge sustainability initiatives to tours designed to protect wildlife and empower communities, you'll discover remarkable places where you can feel good about spending your time and money.
+
+Synopsis from [Lonely Planet](https://shop.lonelyplanet.com/).
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 19 May 2022.)
+
+<b><a href="#top">Back to top</a></b>
+
 
 <a name="id1">![Marvellous Manga header](/images/diyresources/secondary/ttj22-header-mm.png)</a>
 #### **Marvellous Manga**

@@ -27,6 +27,7 @@ Sustainable tourism seeks to promote responsible travelling that respects enviro
 
 **1. The Negative Environmental Impacts of Tourism**<br>
 <a href="https://greentumble.com/environmental-impacts-of-tourism/"><img src="/images/diyresources/secondary/ttj22-sus-image1.png" alt="" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://greentumble.com/environmental-impacts-of-tourism/">Greentumble</a>.</sup></p>
 
 The United Nations Environment Programme (UNEP) identified three key areas in which tourism degrades the environment—depletion of natural resources; environmental pollution; and biodiversity loss. 
 
@@ -38,6 +39,7 @@ This [article](https://greentumble.com/environmental-impacts-of-tourism) urges u
 Choosing sustainable tourism doesn’t necessarily mean drastic changes to your travelling habits. This [article](https://www.skyscanner.com.sg/news/do-your-part-sustainable-tourism) lists actionable steps you can take to be mindful of the environment during your vacation. Some of these ideas can also make for new overseas experiences!
 
 <a href="https://www.youthcorps.gov.sg/volunteer/youth-expedition-project"><img src="/images/diyresources/secondary/ttj22-sus-image3.jpg" alt="" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>Image source: <a href="https://www.youthcorps.gov.sg/volunteer/youth-expedition-project">Youth Corps Singapore</a>.</sup></p>
 
 Youth Corps Singapore provides youth, aged 15 and above, with opportunities to implement service-learning projects to benefit overseas communities. Check out their [website](https://www.youthcorps.gov.sg/volunteer/youth-expedition-project) for resources and more information.
 
@@ -46,7 +48,7 @@ Youth Corps Singapore provides youth, aged 15 and above, with opportunities to i
 
 From Venice to Angkor Wat, many popular holiday destinations in the world are teeming with tourists. Some local communities struggle to manage the crowds, while others are seeing spikes in their costs of living with little returns in tourist dollars.
 
-This [listicle]([https://www.trafalgar.com/real-word/iconic-struggling-overtourism-destinations/](https://www.trafalgar.com/real-word/iconic-struggling-overtourism-destinations/) outlines nine well known cities that were plagued by overtourism shortly before the pandemic, which may attract floods of travellers visiting again. It also offers close alternatives for travellers to consider when planning their next holiday.
+This [listicle](https://www.trafalgar.com/real-word/iconic-struggling-overtourism-destinations/) outlines nine well known cities that were plagued by overtourism shortly before the pandemic, which may attract floods of travellers visiting again. It also offers close alternatives for travellers to consider when planning their next holiday.
 
 For more reads on sustainable tourism, check out these titles!
 

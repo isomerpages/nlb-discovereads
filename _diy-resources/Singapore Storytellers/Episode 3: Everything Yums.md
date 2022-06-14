@@ -10,6 +10,7 @@ third_nav_title: Singapore Storytellers
 
 This was a time before burgers, french fries and chicken nuggets. Join Auntie Linda as she shares her favourite candy and memories of helping out at her family’s hawker stall.  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RS8AzHgIemo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Episode summary**<br>

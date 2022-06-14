@@ -20,7 +20,7 @@ Catch all episodes on YouTube from 31 May!
 *[Episode 1: Game Time](https://childrenandteens.nlb.gov.sg//diy-resources/Singapore-Storytellers/Game-Time) 
 <br>
 *[Episode 2: School's Cool](https://childrenandteens.nlb.gov.sg//diy-resources/Singapore-Storytellers/Episode-2-Schools-Cool) <br>
-*[Episode 3: Everything Yums](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-3-Everything-Yums) (available from 14 June) <br>
+*[Episode 3: Everything Yums](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-3-Everything-Yums) <br>
 *[Episode 4: Let's Go Places](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-4-Lets-Go-Places) (available from 21 June) <br>
 
 To explore more, check out recommended resources for each episode. Discover more about Singapore’s history through these resources from the National Library and National Archives of Singapore:

@@ -58,7 +58,7 @@ For more reads on sustainable tourism, check out these titles!
 Author: Holly Tuppen<br>
 Call No.: English 910.202 TUP -[TRA]<br>
 Publisher: White Lion Publishing, 2021<br>
-Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/6004631)).
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/6004631).
 
 With so many of us looking to travel in a more sustainable way, but not sure how to go about it, this comprehensive guide reveals everything you need to know. It's a must read for anyone looking to tackle the climate crisis and support nature and people while travelling.
 

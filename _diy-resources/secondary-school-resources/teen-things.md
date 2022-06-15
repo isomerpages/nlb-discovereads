@@ -98,6 +98,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <b><a href="#top">Back to top</a></b>
 
+
 <a name="id1">![Marvellous Manga header](/images/diyresources/secondary/ttj22-header-mm.png)</a>
 #### **Marvellous Manga**
 *Naruto*, *One Piece*, *My Hero Academia*, *Jujutsu Kaisen* – these are just some of the more popular anime series out there. While these series are available in anime or animated format, the basis for their stories were developed from their original manga. "*Manga*" refers to Japanese comics or graphic novels.  

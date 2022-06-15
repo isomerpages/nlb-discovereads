@@ -94,7 +94,7 @@ Synopsis from [Lonely Planet](https://shop.lonelyplanet.com/).
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-(All websites were last accessed on 19 May 2022.)
+(All websites were last accessed on 14 June 2022.)
 
 <b><a href="#top">Back to top</a></b>
 

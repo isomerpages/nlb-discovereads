@@ -77,7 +77,6 @@ From coastal to cultural, mountainous to mouth-watering, The Eco-Conscious Trave
 * Alpine Ambles
 * Ski Escapes
 * Chocolate, Cheese and Carb Delights
-* Wine-fuelled Wanders
 
 Synopsis from [HarperCollins Publishers](https://www.harpercollins.com/).
 

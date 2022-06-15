@@ -9,7 +9,7 @@ third_nav_title: Secondary School Resources
 ***Look out for new weekly topics during the school holidays, from 5 June 2022!***
 
 <img style="width: 100%;" alt="Teen Things header" src="/images/diyresources/secondary/ttj22-header1.png">
-<p style="text-align: center;"><i>(Updated on 31 May 2022)</i></p>
+<p style="text-align: center;"><i>(Updated 15 June 2022)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 

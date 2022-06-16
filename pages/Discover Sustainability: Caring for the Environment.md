@@ -5,7 +5,156 @@ description: ""
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
-| **New!*** <a href="#lp-urbanfarm">Urban Farming</a> |
+|  <a href="#lp-urbanfarm">Urban Farming</a> | New!\* <a href="#lp-susfood">Sustainable Foods</a> |
+
+<h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Sustainable Foods</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+
+<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-1.png" style="width:400px; text-align:left;">
+
+<p> Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
+
+<h4>LET'S LEARN!</h4>
+
+<h5> What are proteins? </h5>
+
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-2.png" style="width:450px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-3.png" style="width:450px; text-align:left;">
+    </div>
+  </div>
+ </div>
+
+<p>Proteins are commonly found in animal sources of food such as meat, eggs and fish. </p>
+
+<p>To rely less on animals for food, substitutes for meat are being created. They are called <b> alternative proteins </b>, which are food that provide proteins that <b>do not</b> come from animals. </p>
+
+<h5>Why are Alternative Proteins More Sustainable?</h5>
+<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-4.png" style="width:400px; text-align:left;">
+
+<h4>Let’s Learn About Alternative Proteins</h4>
+
+<h5>Plant-based meat</h5>
+
+<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-5.png" style="width:400px; text-align:left;">
+
+<h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=n6U4H8WC9jg" target="_blank">
+       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-14.jpg" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+<b> Heme - The Magic Ingredient in the Impossible™ Burger</b>
+ <p>Summary: <br> 
+	Find out about the science behind plant-based meat in the Impossible™ Burger!
+ </p>
+   </div>
+ </div>
+<h4>LET'S THINK!</h4>
+<h5>Talking Points</h5>
+<ul>
+  <li>What is heme and where can you find it?</li>
+  <li>How is Impossible Meat patty made? 
+		<p> Hint: There are three steps </p> </li> 
+</ul>
+
+<h4>LET'S LEARN!</h4>
+<h5> Cultured Meat</h5>
+
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-6.png" style="width:400px; text-align:left;">
+
+<p> How is meat grown in labs? </p>
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-7.png" style="width:400px; text-align:left;">
+
+<h5> Insects </h5>
+<p> Insects are rich in protein, require less resources to raise and emit fewer greenhouse gases compared to livestock. </p>
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-8.png" style="width:450px; text-align:left;">
+ 	</div>
+	</div>
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-9.png" style="width:450px; text-align:left;">
+	</div>
+  </div>
+ </div>
+
+<h5>LET'S TALK!</h5>
+<ul>
+  <li>Given the chance, would you try any of these alternative proteins? Why or why not?</li>
+	<li>How else can we make sustainable food choices in our everyday lives? </li>
+</ul>
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-10.png" style="width:400px; text-align:left;">
+
+<h4>LET'S PLAY!</h4>
+<h5>Scavenger Hunt at the Grocery Store!</h5>
+
+<p> Introduce your child to these plant-based proteins during your grocery trip! </p>
+
+
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-12.png" style="width:450px; text-align:left;">
+ 	</div>
+	</div>
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-13.png" style="width:450px; text-align:left;">
+	</div>
+  </div>
+ </div>
+
+<h4>LET'S READ!</h4>
+	
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204409720" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-1.jpeg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Science You Can Eat</b><br>
+       <u>Author:</u> Stefan Gates<br>
+       <u>Publisher:</u> London : Dorling Kindersley Limited, 2019.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205251752" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-2.jpeg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Our Little Kitchen</b><br>
+        <u>Author:</u> Jillian Tamaki <br>
+        <u>Publisher:</u> New York : Abrams Books for Young Readers, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203784216" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-3.jpeg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Is It Wrong to Eat Meat?</b><br>
+       <u>Author:</u> Kate Rogers<br>
+       <u>Publisher:</u> 
+New York : KidHaven Publishing, 2019.<br>
+       </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
@@ -168,4 +317,5 @@ Singapore : Yaa Bunayya SG, [2020]<br>
    </div>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
+	
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

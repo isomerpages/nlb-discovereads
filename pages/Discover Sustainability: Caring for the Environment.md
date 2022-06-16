@@ -34,8 +34,25 @@ description: ""
 
 <p>Proteins are commonly found in animal sources of food such as meat, eggs and fish. </p>
 
+<p>To rely less on animals for food, substitutes for meat are being created. They are called <b> alternative proteins </b>, which are food that provide proteins that <b>do not</b> come from animals. </p>
 
+<h5>Why are Alternative Proteins More Sustainable?</h5>
+<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-4.png" style="width:400px; text-align:left;">
 
+<h4>Let’s Learn About Alternative Proteins</h4>
+
+<h5>Plant-based meat</h5>
+
+<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-5.png" style="width:400px; text-align:left;">
+**
+
+<h4>LET’S WATCH!</h4>
+
+ <div class="row is-multiline margin--bottom--lg">
+
+ <div class="col is-two-fifths">
+
+<div class="image"><a href="https://www.youtube.com/watch?v=n6U4H8WC9jg" target="\_blank">**
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

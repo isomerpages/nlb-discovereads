@@ -92,7 +92,7 @@ description: ""
 <h5>LET'S TALK!</h5>
 <ul>
   <li>Given the chance, would you try any of these alternative proteins? Why or why not?</li>
-  <li>How else can we make sustainable food choices in our everyday lives?
+	<li>How else can we make sustainable food choices in our everyday lives? </li>
 </ul>
 <img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-10.png" style="width:400px; text-align:left;">
 

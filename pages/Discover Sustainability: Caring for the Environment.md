@@ -5,7 +5,37 @@ description: ""
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
-|  <a href="#lp-urbanfarm">Urban Farming</a> |
+|  <a href="#lp-urbanfarm">Urban Farming</a> | New!\* <a href="#lp-susfood">Sustainable Foods</a> |
+
+<h3 class="margin--bottom--lg" id="lp-susfood"><b>Sustainable Foods</b></h3>
+
+ <p><b>Suitable for 4 to 6 years old</b></p>
+
+<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-1.png" style="width:400px; text-align:left;">
+
+<p> Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
+
+<h4>LET'S LEARN!</h4>
+
+<h5> What are proteins? </h5>
+
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-2.png" style="width:450px; text-align:left;">
+     </div>
+    </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-3.png" style="width:450px; text-align:left;">
+    </div>
+  </div>
+ </div>
+
+<p>Proteins are commonly found in animal sources of food such as meat, eggs and fish. </p>
+
+
+
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

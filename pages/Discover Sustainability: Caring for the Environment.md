@@ -44,15 +44,29 @@ description: ""
 <h5>Plant-based meat</h5>
 
 <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-5.png" style="width:400px; text-align:left;">
-**
 
-<h4>LET’S WATCH!</h4>
+<h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=n6U4H8WC9jg" target="_blank">
+       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-14.jpg" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+<b> Heme - The Magic Ingredient in the Impossible™ Burger</b>
+ <p>Summary: <br> 
+	Find out about the science behind plant-based meat in the Impossible™ Burger!
+ </p>
+   </div>
+ </div>
+<h4>LET'S THINK!</h4>
+<h5>Talking Points</h5>
+<ul>
+  <li>What is heme and where can you find it?</li>
+  <li>How is Impossible Meat patty made? 
+		<p> Hint: There are three steps </p> </li> 
+</ul>
 
- <div class="row is-multiline margin--bottom--lg">
-
- <div class="col is-two-fifths">
-
-<div class="image"><a href="https://www.youtube.com/watch?v=n6U4H8WC9jg" target="\_blank">**
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

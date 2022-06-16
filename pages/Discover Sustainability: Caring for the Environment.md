@@ -67,6 +67,56 @@ description: ""
 		<p> Hint: There are three steps </p> </li> 
 </ul>
 
+<h4>LET'S LEARN!</h4>
+<h5> Cultured Meat</h5>
+
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-6.png" style="width:400px; text-align:left;">
+
+<p> How is meat grown in labs? </p>
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-7.png" style="width:400px; text-align:left;">
+
+<h5> Insects </h5>
+<p> Insects are rich in protein, require less resources to raise and emit fewer greenhouse gases compared to livestock. </p>
+  <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-8.png" style="width:450px; text-align:left;">
+ 	</div>
+	</div>
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-9.png" style="width:450px; text-align:left;">
+	</div>
+  </div>
+ </div>
+
+<h5>LET'S TALK!</h5>
+<ul>
+  <li>Given the chance, would you try any of these alternative proteins? Why or why not?</li>
+  <li>How else can we make sustainable food choices in our everyday lives?
+</ul>
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-10.png" style="width:400px; text-align:left;">
+
+<h4>LET'S PLAY!</h4>
+<h5>Scavenger Hunt at the Grocery Store!</h5>
+
+<p> Introduce your child to these plant-based proteins during your grocery trip! </p>
+
+
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-12.png" style="width:450px; text-align:left;">
+ 	</div>
+	</div>
+   <div class="col is-half-tablet padding--bottom--lg">
+	<div class="image">
+   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-13.png" style="width:450px; text-align:left;">
+	</div>
+  </div>
+ </div>
+
+https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202805060
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

@@ -116,7 +116,46 @@ description: ""
   </div>
  </div>
 
-https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202805060
+<h4>LET'S READ!</h4>
+	
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204409720" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-1.jpeg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Science You Can Eat</b><br>
+       <u>Author:</u> Stefan Gates<br>
+       <u>Publisher:</u> London : Dorling Kindersley Limited, 2019.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205251752" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-2.jpeg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Our Little Kitchen</b><br>
+        <u>Author:</u> Jillian Tamaki <br>
+        <u>Publisher:</u> New York : Abrams Books for Young Readers, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203784216" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-3.jpeg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Is It Wrong to Eat Meat?</b><br>
+       <u>Author:</u> Kate Rogers<br>
+       <u>Publisher:</u> 
+New York : KidHaven Publishing, 2019.<br>
+       </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

@@ -7,9 +7,8 @@ description: ""
 
 |  <a href="#lp-urbanfarm">Urban Farming</a> | New!\* <a href="#lp-susfood">Sustainable Foods</a> |
 
-<h3 class="margin--bottom--lg" id="lp-susfood"><b>Sustainable Foods</b></h3>
-
- <p><b>Suitable for 4 to 6 years old</b></p>
+<h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Sustainable Foods</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
 
 <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-1.png" style="width:400px; text-align:left;">
 

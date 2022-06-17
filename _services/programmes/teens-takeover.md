@@ -77,13 +77,12 @@ Past programmes:
 
 <img src="/images/unsorted/teenstakeover/teens-scientifx.png" alt="scienti-fx - Discover the world and explore how things work with our science programmes." style="width: 40%;">
 
-* [13 Jun] Spicy Science!, Zoom, Monday 2-3pm [Register now!](https://www.eventbrite.sg/e/spicy-science-scienti-fx-teens-takeover-tickets-331648669097?aff=odcleoeventsincollection)
-* [15 Jun] CSI: Forensic Lab, Zoom, Wednesday 2-3pm [Register now!](https://www.eventbrite.sg/e/csi-forensic-lab-scienti-fx-teens-takeover-tickets-331656472437?aff=odcleoeventsincollection)
-
 Past programmes:
 
 * <s>[5 Feb] Deep Sea Horror Workshop, Zoom, Saturday 2-3.30pm [Register now!]</s>
 * <s>[18 Mar] Build a LEGO Factory Workshop, Jurong Regional Library Programme Zone, Friday 3-6pm [Register now!]</s>
+* <s>[13 Jun] Spicy Science!, Zoom, Monday 2-3pm [Register now!]</s>
+* <s>[15 Jun] CSI: Forensic Lab, Zoom, Wednesday 2-3pm [Register now!]</s>
 
 Keep a look out for more NLB's Teens Takeover workshop registration openings [here](https://go.gov.sg/teenstakeover-pl). See you there! 🙂 
 

@@ -32,7 +32,7 @@ Ready? Let’s get organised!
 **1.** Open the Excel programme on your computer
 **2.** Select “Blank workbook”
 **3.** Type in your headers in row 1, and fill in your guests’ names and the number of books they will each be bringing 
-![Excel tip 1](/images/diyresources/secondary/ttj22-digi-image1.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image1.png" alt="Excel tip 1" style="width: 70%;">
 
 **<u>Numbering</u>**<br>
 Instead of typing each number, why not make Excel do most of the work?

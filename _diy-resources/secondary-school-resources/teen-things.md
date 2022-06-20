@@ -29,8 +29,8 @@ Objective: Organise the guest list**
 
 Ready? Let’s get organised!
 
-**1.** Open the Excel programme on your computer
-**2.** Select “Blank workbook”
+**1.** Open the Excel programme on your computer<br>
+**2.** Select “Blank workbook”<br>
 **3.** Type in your headers in row 1, and fill in your guests’ names and the number of books they will each be bringing 
 <img src="/images/diyresources/secondary/ttj22-digi-image1.png" alt="Excel tip 1" style="width: 70%;">
 

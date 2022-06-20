@@ -9,13 +9,141 @@ third_nav_title: Secondary School Resources
 ***Look out for new weekly topics during the school holidays, from 5 June 2022!***
 
 <img style="width: 100%;" alt="Teen Things header" src="/images/diyresources/secondary/ttj22-header1.png">
-<p style="text-align: center;"><i>(Updated 15 June 2022)</i></p>
+<p style="text-align: center;"><i>(Updated 20 June 2022)</i></p>
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | [![Travelling Sustainably](/images/diyresources/secondary/ttj22-button-ts.png)](#id2) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) |
+| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | [![Travelling Sustainably](/images/diyresources/secondary/ttj22-button-ts.png)](#id2) | [![Easy Excel Tips](/images/diyresources/secondary/ttj22-button-eet.png)] | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) |
 
 [![Teen.Things Archive](/images/diyresources/secondary/ttj22-headerarchive.png)](/diy-resources/secondary/teen-things-archive)
+
+<a name="id3">![Easy Excel Tips header](/images/diyresources/secondary/ttj22-header-eet.png)</a>
+
+#### **Easy Excel Tips**
+Does using Microsoft Excel make you feel confused and confounded? Maybe you have a project with lots of numbers and you’re not sure how to present it? Or you’ve been roped in to be a party planner with a never-ending guest list? 
+
+Amaze your friends and family by showing them a trick or two up your sleeve.
+
+**Scenario: You’re a Party Planner for a marvellous book exchange event!<br>
+Objective: Organise the guest list**
+
+Ready? Let’s get organised!
+
+**1.** Open the Excel programme on your computer
+**2.** Select “Blank workbook”
+**3.** Type in your headers in row 1, and fill in your guests’ names and the number of books they will each be bringing 
+![Excel tip 1](/images/diyresources/secondary/ttj22-digi-image1.png)
+
+**<u>Numbering</u>**<br>
+Instead of typing each number, why not make Excel do most of the work?
+
+**4.** Type 1, 2, 3 in column 1, under the header, “No.” 
+![Excel tip 2](/images/diyresources/secondary/ttj22-digi-image2.png)
+
+**5.** Select the cells A2 to A4 and hover over the bottom right of this selection until the cursor changes to a cross
+![Excel tip 3](/images/diyresources/secondary/ttj22-digi-image3.png)
+
+**6.** Drag the cross down the column to fill in the series
+![Excel tip 4](/images/diyresources/secondary/ttj22-digi-image4.png)
+
+
+**<u>Separating Names using Flash Fill</u>**<br>
+Instead of typing each name manually, let Excel work its magic by giving it a pattern to follow.
+
+**7.** In cells C2 and D2, type the “First Name” and “Last Name” of cell B2 respectively
+![Excel tip 5](/images/diyresources/secondary/ttj22-digi-image5.png)
+
+**8.** Select cell C2, then press the keys CTRL and E to “magically” fill in the “First Name” column. i.e. **CTRL + E**
+![Excel tip 6](/images/diyresources/secondary/ttj22-digi-image6.png)
+
+**9.** Repeat for cell D2 by selecting cell D2. Then, press the keys CTRL and E to fill in the “Last Name” column i.e. **CTRL + E**
+![Excel tip 7](/images/diyresources/secondary/ttj22-digi-image7.png)
+
+**<u>Creating a Table</u>**<br>
+Instead of organising by sight, turn your rows and columns into a table with filters.
+
+**10.** Select any cell in your table and press the keys CTRL + A to select all the cells; and press **CTRL + T** 
+![Excel tip 8](/images/diyresources/secondary/ttj22-digi-image8.png)
+
+
+**11.** Press ENTER to create the table that automatically has filters and a colour scheme 
+![Excel tip 9](/images/diyresources/secondary/ttj22-digi-image9.png)
+
+**<u>Sorting</u>**<br>
+Instead of cutting and pasting rows in alphabetical order, sort them using the filter function.
+
+**12.** Click the arrow in cell C1 to bring up the filter list and click “Sort A to Z”
+![Excel tip 10](/images/diyresources/secondary/ttj22-digi-image10.png)
+
+**13.** Ta-da! Here’s the list sorted alphabetically
+![Excel tip 11](/images/diyresources/secondary/ttj22-digi-image11.png)
+
+
+**<u>Sum, Average, Minimum and Maximum</u>**<br>
+Instead of using a calculator to count the books, try this!
+
+**14.** In cell A12, type “Total” and hit ENTER to make this part of your table [ttj22-digi-image12.png]
+![Excel tip 12](/images/diyresources/secondary/ttj22-digi-image12.png)
+
+**15.** Select cell E12, then mouse over to the top right ribbon and click arrow beside “∑” to bring up the drop-down list
+![Excel tip 13](/images/diyresources/secondary/ttj22-digi-image13.png)
+
+**16.** Click “∑ Sum” and cell E12 now shows the sum of the books
+![Excel tip 14](/images/diyresources/secondary/ttj22-digi-image14.png)
+
+**17.** Repeat steps 14 to 16 but with Average, Minimum and Maximum functions
+![Excel tip 15](/images/diyresources/secondary/ttj22-digi-image15.png)
+
+**<u>Chart</u>**<br>
+Time to present your data in a visual form.
+
+**18.** Select the range B1 to E11, and click “Insert Recommended Chart” in the top ribbon
+![Excel tip 16](/images/diyresources/secondary/ttj22-digi-image16.png)
+
+**19.** Select “Clustered Column” and click “OK”
+![Excel tip 17](/images/diyresources/secondary/ttj22-digi-image17.png)
+
+Congratulations, you can now get your book exchange party started! Now that you’ve learnt these cool Excel tips, why not use them for school projects too?
+
+To learn more Excel tricks and shortcuts, watch: 
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Xe4U_-o_EWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> 
+<p style="text-align: center;"><sup>Source: <a href="https://youtu.be/Xe4U_-o_EWw">Excel shortcut keys you SHOULD know!, Leila Gharani</a>.</sup></p>
+
+Check out these titles if you enjoy mathematics and coding!
+
+<img src="/images/diyresources/secondary/ttj22-digi-book1.jpg" alt="A Maths Journey Around a Deep Sea Adventure book cover" style="width: 30%;"></a><br>
+**A Maths Journey Around a Deep Sea Adventure**<br>
+Author: Hilary Koll<br>
+Call No.: Y 510 KOL<br>
+Publisher: Wayland, 2017<br>
+Available as a physical copy only. (Find a copy at the public libraries via the [NLB catalogue](https://catalogue.nlb.gov.sg)!)
+
+Go on a real-life maths journey to practise the core topics of number, geometry, statistics, ratio & proportion, algebra and measurement. Through data visualisation methods, including colourful diagrams, pictograms, illustrations, photographs and infographics, Go Figure! brings maths into the real world in an innovative, exciting and engaging visual way. It makes even the trickiest problem easier to understand and builds valuable confidence in maths!
+
+Find out how the maths you learn at school can help you go on an adventure deep under the sea!
+
+Maths challenges encourage you to use real data and fascinating facts to solve mathematical problems that will help you on your travels!
+
+Synopsis from [Wayland](https://www.hachette.co.uk/). 
+
+
+<a href="https://nlb.overdrive.com/media/4895311"><img src="/images/diyresources/secondary/ttj22-digi-book2.jpg" alt="Code a Minecraft® Mod in JavaScript Step by Step book cover" style="width: 30%;"></a><br>
+**Code a Minecraft® Mod in JavaScript Step by Step**<br>
+Author: Joshua Romphf<br>
+Call No.: Y 794.81525 ROM<br>
+Publisher: Rosen Publishing, 2020<br>
+Also available as an eBook on [NLB OverDrive](https://nlb.overdrive.com/media/4895311).
+
+Minecraft is a global phenomenon, adored by millions of gamers, but what if Minecraft could teach vital computer literacy and programming skills? Simply put: It can. This engaging and informative resource is designed to guide coders on a journey to enjoy their favorite game while they learn the basics of JavaScript, which is one of the world's most popular programming languages. Starting off with brainteasers and working up to real coding, these fun and exciting activities will teach everything needed to know how to write a brand new mod.
+
+Synopsis from [Rosen Publishing](https://rosenpublishing.com/).
+
+The book covers and synopses are the copyright of the respective publishing companies.
+
+(All websites were last accessed on 16 June 2022.)
+
+<b><a href="#top">Back to top</a></b>
 
 
 <a name="id2">![Travelling Sustainably header](/images/diyresources/secondary/ttj22-header-ts.png)</a>

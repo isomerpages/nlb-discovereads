@@ -112,7 +112,7 @@ To learn more Excel tricks and shortcuts, watch:
 
 Check out these titles if you enjoy mathematics and coding!
 
-<img src="/images/diyresources/secondary/ttj22-digi-book1.jpg" alt="A Maths Journey Around a Deep Sea Adventure book cover" style="width: 30%;"></a><br>
+<img src="/images/diyresources/secondary/ttj22-digi-book1.jpg" alt="A Maths Journey Around a Deep Sea Adventure book cover" style="width: 30%;"><br>
 **A Maths Journey Around a Deep Sea Adventure**<br>
 Author: Hilary Koll<br>
 Call No.: Y 510 KOL<br>

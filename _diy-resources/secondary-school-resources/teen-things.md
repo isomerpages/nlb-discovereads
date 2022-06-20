@@ -38,70 +38,69 @@ Ready? Let’s get organised!
 Instead of typing each number, why not make Excel do most of the work?
 
 **4.** Type 1, 2, 3 in column 1, under the header, “No.” 
-![Excel tip 2](/images/diyresources/secondary/ttj22-digi-image2.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image2.png" alt="Excel tip 2" style="width: 70%;">
 
 **5.** Select the cells A2 to A4 and hover over the bottom right of this selection until the cursor changes to a cross
-![Excel tip 3](/images/diyresources/secondary/ttj22-digi-image3.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image3.png" alt="Excel tip 3" style="width: 70%;">
 
 **6.** Drag the cross down the column to fill in the series
-![Excel tip 4](/images/diyresources/secondary/ttj22-digi-image4.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image4.png" alt="Excel tip 4" style="width: 70%;">
 
 
 **<u>Separating Names using Flash Fill</u>**<br>
 Instead of typing each name manually, let Excel work its magic by giving it a pattern to follow.
 
 **7.** In cells C2 and D2, type the “First Name” and “Last Name” of cell B2 respectively
-![Excel tip 5](/images/diyresources/secondary/ttj22-digi-image5.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image5.png" alt="Excel tip 5" style="width: 70%;">
 
 **8.** Select cell C2, then press the keys CTRL and E to “magically” fill in the “First Name” column. i.e. **CTRL + E**
-![Excel tip 6](/images/diyresources/secondary/ttj22-digi-image6.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image6.png" alt="Excel tip 6" style="width: 70%;">
 
 **9.** Repeat for cell D2 by selecting cell D2. Then, press the keys CTRL and E to fill in the “Last Name” column i.e. **CTRL + E**
-![Excel tip 7](/images/diyresources/secondary/ttj22-digi-image7.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image7.png" alt="Excel tip 7" style="width: 70%;">
 
 **<u>Creating a Table</u>**<br>
 Instead of organising by sight, turn your rows and columns into a table with filters.
 
 **10.** Select any cell in your table and press the keys CTRL + A to select all the cells; and press **CTRL + T** 
-![Excel tip 8](/images/diyresources/secondary/ttj22-digi-image8.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image8.png" alt="Excel tip 8" style="width: 70%;">
 
 
 **11.** Press ENTER to create the table that automatically has filters and a colour scheme 
-![Excel tip 9](/images/diyresources/secondary/ttj22-digi-image9.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image9.png" alt="Excel tip 9" style="width: 70%;">
 
 **<u>Sorting</u>**<br>
 Instead of cutting and pasting rows in alphabetical order, sort them using the filter function.
 
 **12.** Click the arrow in cell C1 to bring up the filter list and click “Sort A to Z”
-![Excel tip 10](/images/diyresources/secondary/ttj22-digi-image10.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image10.png" alt="Excel tip 10" style="width: 70%;">
 
 **13.** Ta-da! Here’s the list sorted alphabetically
-![Excel tip 11](/images/diyresources/secondary/ttj22-digi-image11.png)
-
+<img src="/images/diyresources/secondary/ttj22-digi-image11.png" alt="Excel tip 11" style="width: 70%;">
 
 **<u>Sum, Average, Minimum and Maximum</u>**<br>
 Instead of using a calculator to count the books, try this!
 
-**14.** In cell A12, type “Total” and hit ENTER to make this part of your table [ttj22-digi-image12.png]
-![Excel tip 12](/images/diyresources/secondary/ttj22-digi-image12.png)
+**14.** In cell A12, type “Total” and hit ENTER to make this part of your table
+<img src="/images/diyresources/secondary/ttj22-digi-image12.png" alt="Excel tip 12" style="width: 70%;">
 
 **15.** Select cell E12, then mouse over to the top right ribbon and click arrow beside “∑” to bring up the drop-down list
-![Excel tip 13](/images/diyresources/secondary/ttj22-digi-image13.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image13.png" alt="Excel tip 13" style="width: 70%;">
 
 **16.** Click “∑ Sum” and cell E12 now shows the sum of the books
-![Excel tip 14](/images/diyresources/secondary/ttj22-digi-image14.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image14.png" alt="Excel tip 14" style="width: 70%;">
 
 **17.** Repeat steps 14 to 16 but with Average, Minimum and Maximum functions
-![Excel tip 15](/images/diyresources/secondary/ttj22-digi-image15.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image15.png" alt="Excel tip 15" style="width: 70%;">
 
 **<u>Chart</u>**<br>
 Time to present your data in a visual form.
 
 **18.** Select the range B1 to E11, and click “Insert Recommended Chart” in the top ribbon
-![Excel tip 16](/images/diyresources/secondary/ttj22-digi-image16.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image16.png" alt="Excel tip 16" style="width: 70%;">
 
 **19.** Select “Clustered Column” and click “OK”
-![Excel tip 17](/images/diyresources/secondary/ttj22-digi-image17.png)
+<img src="/images/diyresources/secondary/ttj22-digi-image17.png" alt="Excel tip 17" style="width: 70%;">
 
 Congratulations, you can now get your book exchange party started! Now that you’ve learnt these cool Excel tips, why not use them for school projects too?
 

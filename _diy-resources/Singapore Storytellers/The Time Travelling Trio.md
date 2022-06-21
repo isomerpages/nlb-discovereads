@@ -15,13 +15,13 @@ Join the Time Travelling Trio for this video series about growing up in Singapor
 
 Go back in time with Sarah, Rina and Rokawa as they learn about Singapore’s past with Liana the friendly librarian. In each episode, they meet a special guest who shares his or her experience growing up in Singapore. This series features the archival collections of the National Library and National Archives of Singapore, for a glimpse of Singapore way back when. 
 
-Catch all episodes on YouTube from 31 May!
+Catch all episodes on YouTube today!
 
 *[Episode 1: Game Time](https://childrenandteens.nlb.gov.sg//diy-resources/Singapore-Storytellers/Game-Time) 
 <br>
 *[Episode 2: School's Cool](https://childrenandteens.nlb.gov.sg//diy-resources/Singapore-Storytellers/Episode-2-Schools-Cool) <br>
 *[Episode 3: Everything Yums](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-3-Everything-Yums) <br>
-*[Episode 4: Let's Go Places](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-4-Lets-Go-Places) (available from 21 June) <br>
+*[Episode 4: Let's Go Places](https://childrenandteens.nlb.gov.sg/diy-resources/Singapore-Storytellers/Episode-4-Lets-Go-Places) <br>
 
 To explore more, check out recommended resources for each episode. Discover more about Singapore’s history through these resources from the National Library and National Archives of Singapore:
 

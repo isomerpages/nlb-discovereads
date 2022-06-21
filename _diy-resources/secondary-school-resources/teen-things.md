@@ -84,7 +84,7 @@ Instead of using a calculator to count the books, try this!
 **14.** In cell A12, type “Total” and hit ENTER to make this part of your table
 <img src="/images/diyresources/secondary/ttj22-digi-image12.png" alt="Excel tip 12" style="width: 70%;">
 
-**15.** Select cell E12, then mouse over to the top right ribbon and click arrow beside “∑” to bring up the drop-down list
+**15.** Select cell E12, then mouse over to the top right ribbon and click the arrow beside “∑” to bring up the drop-down list
 <img src="/images/diyresources/secondary/ttj22-digi-image13.png" alt="Excel tip 13" style="width: 70%;">
 
 **16.** Click “∑ Sum” and cell E12 now shows the sum of the books

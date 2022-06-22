@@ -8,14 +8,14 @@ third_nav_title: Primary School Resources
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
 
-**“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 27 May 2022)_
+
+_(Updated on 22 June 2022)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
- [Upcycle Your Clothes!](#upcycle-your-clothes) |  [Story Crafts!](#story-crafts) 
+ [Upcycle Your Clothes!](#upcycle-your-clothes) | [Story Crafts!](#story-crafts)  |  [Build Your Own Robotic Hand!](#build-your-own-robotic-hand) | 
 
 
 ### **Upcycle Your Clothes!**
@@ -38,7 +38,7 @@ Share your creations with us by tagging us on Facebook and Instagram @publiclibr
 
 Read the following books to learn more about upcycling!
 
-![](/images/those%20shoes.png)
+![](/images/diyresources/primary/Those%20Shoes.png)
 
 **Those Shoes**<br>
 by: Maribeth Boelts<br>
@@ -46,7 +46,7 @@ Publisher: Candlewick, 2016<br>
 
 All Jeremy wants is a pair of those shoes, the ones everyone at school seems to be wearing. Though Jeremy’s grandma says they don’t have room for "want," just "need," when his old shoes fall apart at school, he is more determined than ever to have those shoes, even a thrift-shop pair that are much too small. But sore feet aren’t much fun, and Jeremy soon sees that the things he has — warm boots, a loving grandma, and the chance to help a friend — are worth more than the things he wants.
 
-![](/images/earth%20friends.png)
+![](/images/diyresources/primary/Fair%20Fashion.png)
 
 **Earth Friends: Fair Fashion**<br>
 By: Holly Webb <br>
@@ -54,7 +54,7 @@ Publisher: Nosy Crow, 2021<br>
 
 The first fantastic book in the series about four friends who want to make the world a better place. Researching her school project on Fairtrade has been a real eye-opener for Maya. She loves clothes and is appalled to find that her favourite sparkly T-shirts are made by poor children in other countries who lead very different lives from her own, privileged one. She knows she must do something about it, but how can she make a difference without revealing her pop star secret to the world?
 
-![](/images/clothing%20warrior.png)
+![](/images/diyresources/primary/Clothing%20Warrior.png)
 
 **Clothing Warrior: Going Green**<br>
 By: Claudia Martin <br>
@@ -97,7 +97,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 Still feeling artsy? 
 Check out these other cool ways of making your stories come alive!
 
-![](/images/diyresources/primary/first%20origami.jpg)
+![](/images/diyresources/primary/My%20First%20Origami%20Fairy%20Tales%20Kit%20by%20Joel%20Stern.jpg)
 
 **My First Origami Fairy Tales E-book**<br>
 by: Joel Stern<br>
@@ -108,7 +108,7 @@ Kids will have fun folding up the characters and moving them around in front of 
 This eBook is available on Overdrive at: https://nlb.overdrive.com/library/kids/media/4644508
 
 
-![](/images/diyresources/primary/making%20puppets.jpg)
+![](/images/diyresources/primary/Making%20Puppets%20by%20Toby%20Reynolds.jpg)
 
 **Making Puppets**<br>
 by: Toby Reynolds<br>
@@ -128,6 +128,64 @@ Source: 4 Benefits of kids telling their own stories [https://rainforestlearning
 (Date Accessed: 16 May 2022)<br>
 
 
+### **Build Your Own Robotic Hand!**
 
+Equip your child for their next superhero mission with this robotic hand! Using just a few household materials, you will be able to construct a simple machine which explores how human anatomy and engineering intersect. Gather your supplies, and let’s get building.
+
+![](/images/diyresources/primary/SCWYC-Unplugged%20Coding%20Ideas_children.png)
+
+**You'll need:**
+
+* Foam paper <br>
+* Hand stencil<br>
+* Colourful straws<br>
+* Colourful yarn <br>
+* Popsicle stick <br>
+* Binder clip <br>
+* Glue <br>
+* Marker <br>
+* Scissors <br>
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkLxweuxj6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(Last accessed 22 June 2022)
+
+**Be Curious!**
+
+Check out these eBooks for more engineering exploits!
+
+![](/images/diyresources/primary/Robots_Melissa%20Stewart.png)
+
+**Robots**<br>
+by: Melissa Stewart<br>
+Publisher: National Geographic Society, 2013<br>
+   
+Discover the coolest robots of today and tomorrow in this colourful, photo-packed book. In this inviting and entertaining format, kids will learn about the science behind these amazing machines.
+
+This book is available on OverDrive at: [https://nlb.overdrive.com/media/2232124](https://nlb.overdrive.com/media/2232124)
+
+
+![](/images/diyresources/primary/Human%20Body%20Theatre_Maris%20Wicks.png)
+
+**Human Body Theater**<br>
+by: Maris Wicks<br>
+Publisher: First Second, 2015<br>
+
+Welcome to the Human Body Theater, where your master of ceremonies is going to lead you through a theatrical revue of each and every biological system of the human body! Starting out as a skeleton, the MC puts on a new layer of her costume (her body) with each "act." By turns goofy and intensely informative, the Human Body Theater is always accessible and always entertaining.
+
+This book is available on OverDrive at: https://nlb.overdrive.com/library/kids/media/2399553
+
+
+**Tip for parents**
+
+Introducing your child to the world of STEAM (Science, Technology, Engineering, Arts, Maths) isn’t as daunting as it may seem. One easy way to broach these topics is by utilising the environment and activities in your daily life.
+
+When you’re indoors, cooking can be a fun exercise in chemical and physical reactions. If you’re heading out, nature parks present an immersive space to talk about biodiversity. STEAM concepts are all around, and each day is a new opportunity to discover them.
+
+Source: [How To Get Your Kids Interested In STEAM](https://www.forbes.com/sites/meimeifox/2020/01/09/how-to-get-your-kids-interested-in-steam/?sh=64ac648b7f96) (Last accessed: 20 May 2022)
+
+*The book covers and synopses are the copyright of the respective publishing companies.*
 
 <b><a href="#top">Back to top</a></b>

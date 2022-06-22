@@ -8,14 +8,14 @@ third_nav_title: Primary School Resources
 
 ![Stay curious with your child image](/images/diyresources/primary/children-e1588580070378.jpg)
 
-**“Exercise is the single most powerful tool you have to optimise your brain function.” – John Ratey**
 
-_(Updated on 27 May 2022)_
+
+_(Updated on 22 June 2022)_
 
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
- [Upcycle Your Clothes!](#upcycle-your-clothes) |  [Story Crafts!](#story-crafts) 
+ [Upcycle Your Clothes!](#upcycle-your-clothes) |  [Story Crafts!](#story-crafts)  |  [Build Your Own Robotic Hand!](#build-your-own-robotic-hand) | 
 
 
 ### **Upcycle Your Clothes!**
@@ -131,6 +131,8 @@ Source: 4 Benefits of kids telling their own stories [https://rainforestlearning
 ### **Build Your Own Robotic Hand!**
 
 Equip your child for their next superhero mission with this robotic hand! Using just a few household materials, you will be able to construct a simple machine which explores how human anatomy and engineering intersect. Gather your supplies, and let’s get building.
+
+![](/images/diyresources/primary/SCWYC-Unplugged%20Coding%20Ideas_children.png)
 
 **You'll need:**
 

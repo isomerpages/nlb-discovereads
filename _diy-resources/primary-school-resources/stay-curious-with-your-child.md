@@ -15,7 +15,7 @@ _(Updated on 22 June 2022)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
- [Upcycle Your Clothes!](#upcycle-your-clothes) |  [Story Crafts!](#story-crafts)  |  [Build Your Own Robotic Hand!](#build-your-own-robotic-hand) | 
+ [Upcycle Your Clothes!](#upcycle-your-clothes) | [Story Crafts!](#story-crafts)  |  [Build Your Own Robotic Hand!](#build-your-own-robotic-hand) | 
 
 
 ### **Upcycle Your Clothes!**

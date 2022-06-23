@@ -132,7 +132,7 @@ Source: 4 Benefits of kids telling their own stories [https://rainforestlearning
 
 Equip your child for their next superhero mission with this robotic hand! Using just a few household materials, you will be able to construct a simple machine which explores how human anatomy and engineering intersect. Gather your supplies, and let’s get building.
 
-![](/images/diyresources/primary/SCWYC-Unplugged%20Coding%20Ideas_children.png)
+![](/images/diyresources/primary/SCWYC%20Robotic%20Hand.png)
 
 **You'll need:**
 

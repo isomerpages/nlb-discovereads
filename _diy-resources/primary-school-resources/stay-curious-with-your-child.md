@@ -15,7 +15,7 @@ _(Updated on 22 June 2022)_
 [Go back to Stay-Home Activities (Primary)](/diy-resources/primary/primary-main)
 
 
- [Upcycle Your Clothes!](#upcycle-your-clothes) | [Story Crafts!](#story-crafts)  |  [Build Your Own Robotic Hand!](#build-your-own-robotic-hand) | 
+ [Upcycle Your Clothes!](#upcycle-your-clothes) | [Story Crafts!](#story-crafts)  |  [Build Your Own Robotic Hand!](#build-your-own-robotic-hand) | [Introduction to Coding](#introduction-to-coding) | 
 
 
 ### **Upcycle Your Clothes!**
@@ -187,5 +187,63 @@ When you’re indoors, cooking can be a fun exercise in chemical and physical re
 Source: [How To Get Your Kids Interested In STEAM](https://www.forbes.com/sites/meimeifox/2020/01/09/how-to-get-your-kids-interested-in-steam/?sh=64ac648b7f96) (Last accessed: 20 May 2022)
 
 *The book covers and synopses are the copyright of the respective publishing companies.*
+
+### **Introduction to Coding**
+
+   Growing up in a digital world, coding is an important skill for children to learn. Try this activity to introduce the topic of coding to your child.
+
+![](/images/diyresources/primary/SCWYC_Intro%20to%20Coding.png)
+
+**You'll need:**
+
+* Pencil <br>
+* Notepad<br>
+* A few pieces of paper<br>
+* Flat spaces for grid layout<br>
+
+Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nwMeINjRl6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(Last accessed 23 June 2022)
+
+**Be Curious!**
+
+Read these eBooks to learn more about coding and programming for beginners.
+
+![](/images/diyresources/primary/Scratch%203%20Programming%20Playground.png)
+
+**Scratch 3 Programming Playground: Learn to Program by Making Cool Games**<br>
+by: Al Sweigart<br>
+Publisher: No Starch Press, 2016<br>
+   
+Scratch, the colorful drag-and-drop programming language, is used by millions of first-time learners worldwide. Scratch 3 features an updated interface, new programming blocks, and the ability to run on tablets and smartphones, so you can learn how to code on the go.
+
+This book is available on Overdrive at: [https://nlb.overdrive.com/media/5077413](https://nlb.overdrive.com/media/5077413)
+
+
+
+![](/images/diyresources/primary/Machine%20Learning%20for%20Kids.png)
+
+**Machine Learning for Kids: A Project-Based Introduction to Artificial Intelligence**<br>
+by: Dale Lane<br>
+Publisher: First Second, 2021<br>
+
+A hands-on, application-based introduction to machine learning and artificial intelligence (AI) that guides young readers through creating compelling AI-powered games and applications using the Scratch programming language. Machine learning is one of the building blocks of AI, or artificial intelligence.
+
+This book is available on Overdrive at:
+[https://nlb.overdrive.com/media/5588931](https://nlb.overdrive.com/media/5588931)
+
+
+**Tip for parents**
+  
+Establish a secure online setting by keeping tech use in the open. Children need room to research and socialize. Download the apps your kids use to your own device so that you understand firsthand how they work. You don’t need to be the expert, instead, use the possibility to ask questions of your child. If you exhibit true activity in an app, they may additionally be extra in all likelihood to share it with you.  
+
+Source: [https://edtechreview.in/trends-insights/insights/5489-digital-safety-tips-for-parents](https://edtechreview.in/trends-insights/insights/5489-digital-safety-tips-for-parents)
+
+(Last accessed 16 June 2022)
+
+*The book covers and synopses are the copyright of the respective publishing companies.*
+
 
 <b><a href="#top">Back to top</a></b>

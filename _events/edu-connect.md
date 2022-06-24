@@ -9,7 +9,7 @@ Find out all about the services we offer preschools and pick up useful informati
 1. Introduction to Early Read services  
 <sub>Learn about our wide range of services and programmes for preschools!</sub>
 
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=4b3752fb-1245-459f-92e5-aebb0034fc10&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=4b3752fb-1245-459f-92e5-aebb0034fc10&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoply"></iframe>
 
 2. Introduction to Mindfulness  
 <sub> Find out about the benefits and different types of mindfulness practice in this practical introduction by Ms Judith Chong, occupational therapist at Sengkang General Hospital. </sub>

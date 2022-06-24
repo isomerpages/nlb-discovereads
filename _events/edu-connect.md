@@ -12,7 +12,7 @@ Find out all about the services we offer preschools and pick up useful informati
   <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=4b3752fb-1245-459f-92e5-aebb0034fc10&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
   
 2. Introduction to Mindfulness  
-  <sub> Find out about the benefits and different types of mindfulness practice in this practical introduction by Ms Judith Chong, occupational therapist at Sengkang General Hospital. </sub>
+Find out about the benefits and different types of mindfulness practice in this practical introduction by Ms Judith Chong, occupational therapist at Sengkang General Hospital.
   <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=167d9db3-c381-4405-940f-aebb0034fc0e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
   
 3. Sharing by PCF Sparkletots Preschool Clementi Blk 445  

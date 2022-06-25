@@ -93,3 +93,4 @@ Khazanna carries her own little library around to ensure that she always has som
 | 48 | Ulalat | Hedwig Anuar | *<a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_648__2008-10-24.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 49 | Vishroom | Marudhapuriyil Ratchsa Kaalangal/மருதபுரியில் ராட்சத காளான்கள் | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203069850" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 50 | D’Tian | Huang Di Yu Ye Ying/皇帝与夜莺 | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203224740" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 51 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |

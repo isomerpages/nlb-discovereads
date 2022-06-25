@@ -111,5 +111,5 @@ Khazanna carries her own little library around to ensure that she always has som
 | 66 |Xue Yu| The boy sleeping on the dragon bed / 故宫里的大怪兽. 3, 睡龙床的男孩儿 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203203469" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 67 | Hyacintho |Orang laut| *<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 68 | Elidra |Kapal Eliana| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204086820" target="_blank" rel="noopener noreferrer">Link</a>* ! |
-| 69 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
-| 70 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 69 |Pacho|Ari/அரி| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201117616" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 70 |Usurpa| The Lion, the Witch and the Wardrobe | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13236260" target="_blank" rel="noopener noreferrer">Link</a>* ! |

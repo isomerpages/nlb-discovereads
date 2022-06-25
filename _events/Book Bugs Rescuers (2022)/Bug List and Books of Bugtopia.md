@@ -109,7 +109,7 @@ Khazanna carries her own little library around to ensure that she always has som
 | 64 |Atlan| Storm over Typhoon Theatre | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203203215" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 65 | Desy and Bell |Song for a whale| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203826341" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 66 |Xue Yu| The boy sleeping on the dragon bed / 故宫里的大怪兽. 3, 睡龙床的男孩儿 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203203469" target="_blank" rel="noopener noreferrer">Link</a>* ! |
-| 67 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 67 | Hyacintho |Orang laut| *<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 68 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 69 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 70 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |

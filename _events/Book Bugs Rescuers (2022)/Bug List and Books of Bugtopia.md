@@ -100,7 +100,7 @@ Khazanna carries her own little library around to ensure that she always has som
 | 55 | Plastique | Experiments with Materials | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202659707" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 56 |Naga| The Magical Dragon Playground | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202434961" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 57 | Yongshi | Lim Bo Seng | *<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_802_2004-12-28.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
-| 58 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 58 |  | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 59 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 60 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 61 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |

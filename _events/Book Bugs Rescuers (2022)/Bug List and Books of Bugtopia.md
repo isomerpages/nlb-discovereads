@@ -105,7 +105,7 @@ Khazanna carries her own little library around to ensure that she always has som
 | 60 | Klipos | Sayang Kelip-kelip | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203893164" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 61 | Wintrix | Wintersmith  | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201652066" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 62 | Sejorce | Awesome Man : the mystery intruder | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205260746" target="_blank" rel="noopener noreferrer">Link</a>* ! |
-| 63 | Drafrost |The Ice Dragon| *<a href="" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 63 | Drafrost |The Ice Dragon| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201070292" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 64 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 65 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 66 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |

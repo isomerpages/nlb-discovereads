@@ -93,3 +93,23 @@ Khazanna carries her own little library around to ensure that she always has som
 | 48 | Ulalat | Hedwig Anuar | *<a href=" https://eresources.nlb.gov.sg/infopedia/articles/SIP_648__2008-10-24.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 49 | Vishroom | Marudhapuriyil Ratchsa Kaalangal/மருதபுரியில் ராட்சத காளான்கள் | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203069850" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 50 | D’Tian | Huang Di Yu Ye Ying/皇帝与夜莺 | *<a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203224740" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 51 | Zuzu | Avatar: The Last Airbender - The Search, Part 2 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204021775" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 52 | Huolympia | Ready, Set, Fiyah – An Olympic Flame’s Adventures Around the World | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203910424" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 53 | Levy | The Hunger Games: Catching Fire | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13216592" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 54 | Syfir | Howl’s Moving Castle  | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203612665" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 55 | Plastique | Experiments with Materials | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202659707" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 56 |Naga| The Magical Dragon Playground | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202434961" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 57 | Yongshi | Lim Bo Seng | *<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_802_2004-12-28.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 58 | Scarlett | The Celestial courtyard / 故宫里的大怪兽. 神仙院 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203985328" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 59 | Milag |Miḷakāy paṭṭaṇam/மிளகாய் பட்டணம் | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203117638" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 60 | Klipos | Sayang Kelip-kelip | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203893164" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 61 | Wintrix | Wintersmith  | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201652066" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 62 | Sejorce | Awesome Man : the mystery intruder | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205260746" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 63 | Drafrost |The Ice Dragon| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201070292" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 64 |Atlan| Storm over Typhoon Theatre | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203203215" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 65 | Desy and Bell |Song for a whale| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203826341" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 66 |Xue Yu| The boy sleeping on the dragon bed / 故宫里的大怪兽. 3, 睡龙床的男孩儿 | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203203469" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 67 | Hyacintho |Orang laut| *<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 68 | Elidra |Kapal Eliana| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204086820" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 69 |Pacho|Ari/அரி| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201117616" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 70 |Usurpa| The Lion, the Witch and the Wardrobe | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13236260" target="_blank" rel="noopener noreferrer">Link</a>* ! |

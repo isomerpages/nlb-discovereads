@@ -13,9 +13,85 @@ third_nav_title: Secondary School Resources
 
 **Select a button to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | [![Travelling Sustainably](/images/diyresources/secondary/ttj22-button-ts.png)](#id2) | [![Easy Excel Tips](/images/diyresources/secondary/ttj22-button-eet.png)](#id3) | ![Coming Soon](/images/diyresources/secondary/ttj22-button-comingsoon.png) |
+| [![Marvellous Manga](/images/diyresources/secondary/ttj22-button-mm.png)](#id1) | [![Travelling Sustainably](/images/diyresources/secondary/ttj22-button-ts.png)](#id2) | [![Easy Excel Tips](/images/diyresources/secondary/ttj22-button-eet.png)](#id3) | [![The "S" in Skincare is for Sunscreen](/images/diyresources/secondary/ttj22-button-ss.png)](#id4) |
 
 [![Teen.Things Archive](/images/diyresources/secondary/ttj22-headerarchive.png)](/diy-resources/secondary/teen-things-archive)
+
+<a name="id4">![The “S” in Skincare is for Sunscreen header](/images/diyresources/secondary/ttj22-header-ss.png)</a>
+
+#### **The “S” in Skincare is for Sunscreen**
+
+Ah, our lovely tropical weather with the blazing sun! It’s not difficult to get a tan in this city and while it might be desirable for some to show off that golden glow, it’s also important to protect ourselves from harmful UV rays. 
+
+<u><b>Dangers of UV Rays</b></u><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/FjewT1jDNw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://youtu.be/FjewT1jDNw8">How UV Rays Damage Skin, DocUnlock</a>.</sup></p>
+
+Though the sun might be earth’s main source of life, too much of a good thing can be bad for you. The sun produces ultraviolet radiation, and Singapore is cited to be one of the countries that has the highest levels of radiation in the world (Source: [Today Online](https://www.todayonline.com/singapore/skin-cancer-doesnt-just-hit-those-fair-skin-young-adults-constant-sun-exposure-risk), 2020).
+
+It is therefore vital for us to protect our skin whenever we are exposed to the sun. We can do so in various ways, and the simplest one is to apply sunscreen.
+
+Sunscreen should be applied anytime you are exposed to the sun, even if you are indoors. You’d need to reapply more frequently if you are engaging in outdoor activities. 
+
+<img src="/images/diyresources/secondary/ttj22-sci-image1.png" alt="Fun fact: Your hair and scalp can also get damaged from too much exposure to UV rays! Sun-damaged hair can be discoloured, dry, brittle, have broken or split ends, or feel thin and frizzy." style="width: 70%;">
+
+What exactly is sunscreen, and is there a difference between it and sunblock?
+
+It’s all about the ingredients, and the more accurate terms to use for sunblock and sunscreen are “physical sunscreens” and “chemical sunscreens” respectively. Here’s another fun fact - they work differently too! 
+
+While physical sunscreens act like a layer on your skin and block UV rays, chemical sunscreens don’t. Instead, they absorb the UV rays and expel the resultant small amount of energy as heat. 
+
+How do you choose a suitable sunscreen for yourself? A tube of sunscreen may boast features such as “SPF 50” or “PA+++”, but what do these values actually mean? 
+
+<u><b>1. SPF</b></u><br>
+No, this SPF doesn’t stand for Singapore Police Force. SPF in sunscreens refers to “Sun-Protection Factor”, and it helps to confer protection against UVB rays. Does a higher SPF value mean better protection? This video explores the answers.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/r968-1jfljc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://youtu.be/r968-1jfljc">Sunscreen Indoors, Really? All You Need To Know For The Right Sunscreen | Talking Point, CNA Insider</a>.</sup></p>
+
+<u><b>2. PA+/UVA/Broad Spectrum Protection</b></u><br>
+A rating system that originated from Japan, PA+ is an indicator of the level of a product’s protection against UVA rays. Its European Union equivalent is UVA, which is also referred to as “Broad Spectrum Protection” in the United States. 
+
+If you’re worried that applying sunscreen will agitate your sensitive skin, check out this video for some helpful tips on how to choose a product that works for you!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/L10cWLywXwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>Source: <a href="https://youtu.be/L10cWLywXwY">Sunscreen for Acne Prone Skin • How to Choose Sunscreens & What to Avoid, Liah Yoo</a>.</sup></p>
+
+Check these books out!
+
+<a href="https://nlb.overdrive.com/media/6116791"><img src="/images/diyresources/secondary/ttj22-sci-book1.jpg" alt="Skincare Decoded: The Practical Guide to Beautiful Skin book cover" style="width: 30%;"></a><br>
+**Skincare Decoded: The Practical Guide to Beautiful Skin**<br>
+Authors: Victoria Fu and Gloria Lu<br>
+Call No.: English 646.726 FU<br>
+Publisher: Weldon Owen, 2021<br>
+Also available as an eBook on [NLB Overdrive](https://nlb.overdrive.com/media/6116791).
+
+Depending on who you listen to, the secret to beautiful skin is microbiomes. Or Korean rice water. Or maybe a dermaplaning tool. It feels like you need a degree in chemistry to even understand what these products are, and if they live up to the hype. Luckily, Victoria Fu and Gloria Lu, professional skincare chemists have done that work so you don’t have to. The science may seem complicated, but this book will show you how simple it can be, giving you what you need to make informed decisions about your skin (and your wallet).
+
+Skincare Actives? Technically, cat sneezes could count. SPF? Yep, super important. Caffeine serums? The science is still out. CBD additives? Not enough studies yet, so the jury’s still out.
+
+The authors are the creators behind the popular Chemist Confessions Instagram, and this book brings the sass, humor, and solid information they’re known for. Additional chapters address the best ingredients for every skin type and reveal the only four products you really need.  
+
+Synopsis from [Simon & Schuster](https://www.simonandschuster.com/).
+
+
+<a href="https://nlb.overdrive.com/media/2398464"><img src="/images/diyresources/secondary/ttj22-sci-book2.jpg" alt="Skincare Decoded: The Practical Guide to Beautiful Skin book cover" style="width: 30%;"></a><br>
+**Skin Care and Make Up (Tips and Tricks)**<br>
+Author: Karen Latchana Kenney<br>
+Call No.: Y 646.72 KEN<br>
+Publisher: Lerner Publishing Group, 2015<br>
+Also available as an eBook on [NLB Overdrive](https://nlb.overdrive.com/media/2398464).
+
+It’s tricky to keep your skin looking great—but the right healthy habits and the careful use of makeup can make a world of difference. It’s as simple as knowing which products and treatments work best for your skin type, whether it’s oily or dry. Once you’re taking good care of your skin, it’s easy to use makeup to enhance your natural beauty.
+
+Discover how to make your own skin-care products and perfume. And learn how to choose among different kinds of makeup, how to take care of your products and tools, and how to create your own unique look. With the right tips and tricks, you’ll soon be on your way to fabulous, glowing skin!
+
+Synopsis from [Lerner Books](https://lernerbooks.com).
+
+(All websites were last accessed on 26 June 2022.)
+
+<b><a href="#top">Back to top</a></b>
+
 
 <a name="id3">![Easy Excel Tips header](/images/diyresources/secondary/ttj22-header-eet.png)</a>
 

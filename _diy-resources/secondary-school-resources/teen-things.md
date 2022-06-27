@@ -23,7 +23,7 @@ third_nav_title: Secondary School Resources
 
 Ah, our lovely tropical weather with the blazing sun! It’s not difficult to get a tan in this city and while it might be desirable for some to show off that golden glow, it’s also important to protect ourselves from harmful UV rays. 
 
-<u><b>Dangers of UV Rays</u></b><br>
+<u><b>Dangers of UV Rays</b></u><br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FjewT1jDNw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://youtu.be/FjewT1jDNw8">How UV Rays Damage Skin, DocUnlock</a>.</sup></p>
 

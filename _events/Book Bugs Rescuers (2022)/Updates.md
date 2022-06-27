@@ -11,7 +11,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 ❄ Samudera ❄— Bugtopia’s realm of ice and illusion. #BookBugs living in here are known to disappear from time to time… but never so many, or for so long. Explore Castle Verglas, the Mirror Mountains, Arialta, and more with the newly released Samudera cards, quizzes, newsletter, and storymap !✨.
 
-Head to the public libraries to redeem your cards now! Every book or eBook borrowed gives you 1 point, and every 4 points gives you a Book Bugs card. Points for items borrowed will be credited to your myLibrary account within 24 hours.
+Head to the public libraries to redeem your cards from 1 July! Every book or eBook borrowed gives you 1 point, and every 4 points gives you a Book Bugs card. Points for items borrowed will be credited to your myLibrary account within 24 hours.
 
 #### 1 June 2022
 

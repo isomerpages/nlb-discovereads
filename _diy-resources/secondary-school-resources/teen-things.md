@@ -43,13 +43,13 @@ While physical sunscreens act like a layer on your skin and block UV rays, chemi
 
 How do you choose a suitable sunscreen for yourself? A tube of sunscreen may boast features such as “SPF 50” or “PA+++”, but what do these values actually mean? 
 
-<u><b>1. SPF</u></b><br>
+<u><b>1. SPF</b></u><br>
 No, this SPF doesn’t stand for Singapore Police Force. SPF in sunscreens refers to “Sun-Protection Factor”, and it helps to confer protection against UVB rays. Does a higher SPF value mean better protection? This video explores the answers.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/r968-1jfljc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://youtu.be/r968-1jfljc">Sunscreen Indoors, Really? All You Need To Know For The Right Sunscreen | Talking Point, CNA Insider</a>.</sup></p>
 
-<u><b>2. PA+/UVA/Broad Spectrum Protection</u></b><br>
+<u><b>2. PA+/UVA/Broad Spectrum Protection</b></u><br>
 A rating system that originated from Japan, PA+ is an indicator of the level of a product’s protection against UVA rays. Its European Union equivalent is UVA, which is also referred to as “Broad Spectrum Protection” in the United States. 
 
 If you’re worried that applying sunscreen will agitate your sensitive skin, check out this video for some helpful tips on how to choose a product that works for you!

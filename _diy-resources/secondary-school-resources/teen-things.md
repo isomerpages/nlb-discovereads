@@ -37,7 +37,7 @@ Sunscreen should be applied anytime you are exposed to the sun, even if you are 
 
 What exactly is sunscreen, and is there a difference between it and sunblock?
 
-It’s all about the ingredients, and the more accurate terms to use for sunscreen and sunblock are “physical sunscreens” and “chemical sunscreens” respectively. Here’s another fun fact - they work differently too! 
+It’s all about the ingredients, and the more accurate terms to use for sunblock and sunscreen are “physical sunscreens” and “chemical sunscreens” respectively. Here’s another fun fact - they work differently too! 
 
 While physical sunscreens act like a layer on your skin and block UV rays, chemical sunscreens don’t. Instead, they absorb the UV rays and expel the resultant small amount of energy as heat. 
 

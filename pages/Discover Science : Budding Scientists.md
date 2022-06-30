@@ -14,7 +14,7 @@ description: ""
 
 <p>  Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!</p>
 
-</p><h4> LET’S LEARN</h4>
+</p><h4> LET’S LEARN!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
@@ -26,6 +26,9 @@ description: ""
  </p>
    </div>
  </div>
+ 
+</p><h4> LET’S SING!</h4>
+<p>Introduce the theme of animals by beginning with a fun song! Ask your child to think about what sounds animals make and invite them to make some animal noises together.</p>
 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>

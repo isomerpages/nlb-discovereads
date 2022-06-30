@@ -22,9 +22,8 @@ description: ""
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p>A life cycle is a series of stages a living thing goes through during its life. All plants and animals go through life cycles.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
+     <p>A life cycle is a series of stages a living thing goes through during its life. All plants and animals go through life cycles.<br><i>Plant and Animal Life Cycles: Science Lesson for kids: Grades 3-5. Generation Genius. (2021, August 16). Retrieved June 30, 2022, from <a href="https://www.generationgenius.com/plant-and-animal-life-cycle-lesson-for-kids/" target="_blank">https://www.generationgenius.com/plant-and-animal-life-cycle-lesson-for-kids/</a></i>
  </p>
- <p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
    </div>
  </div>
 

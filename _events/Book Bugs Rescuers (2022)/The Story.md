@@ -22,8 +22,7 @@ Catch the latest Bugtopia scoop hot off the press! Join Attie as he investigates
 
 Click on this first and second issues to read the feature stories, complete the activities and check out the latest comic!
 
-|<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Bugtopian 1" style="width: 40%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Newsletter2-28 Feb_FA-editnlblogo_compressed (1).pdf"><img src="/images/events/bookbugsr/Bugtopian2Image.png" alt="Bugtopian 2" style="width: 40%;" align="right"></a>|
-|<a href="/files/bookbugsr/Newsletter3_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Cover.png" alt="Bugtopian 3" style="width: 40%;" align="left"></a>|
+|<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Bugtopian 1" style="width: 20%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Newsletter2-28 Feb_FA-editnlblogo_compressed (1).pdf"><img src="/images/events/bookbugsr/Bugtopian2Image.png" alt="Bugtopian 2" style="width: 25%;" align="left"></a>|<a href="/files/bookbugsr/Newsletter3_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Cover.png" alt="Bugtopian 3" style="width: 25%;" align="left"></a>|
 
 <br>
 

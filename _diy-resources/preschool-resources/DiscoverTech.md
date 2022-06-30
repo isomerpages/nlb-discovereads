@@ -38,13 +38,15 @@ Keep going until you have a finished sandwich, served on a plate and ready to ea
 	
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
+<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. 
+	
+To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
 
 To brush our teeth, we would need to:
-1.  	Pick up the toothbrush, wet it and add toothpaste on it
-2.  Brush your teeth
-3.  Rinse your mouth with water
-4.  Wash your toothbrush and you are done!
+1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
+<br>2.  Brush your teeth<br>
+<br>3.  Rinse your mouth with water<br>
+<br>4.  Wash your toothbrush and you are done!<br>
 
 </p>
 

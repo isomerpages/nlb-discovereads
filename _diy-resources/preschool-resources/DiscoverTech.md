@@ -38,9 +38,16 @@ Keep going until you have a finished sandwich, served on a plate and ready to ea
 	
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Coding teaches children to take risks, to be creative, to solve problems, to persevere, to think critically and logic, to be focused and to be confident. Get started with unplugged coding activities such as building your own board game, creating a maze or playing treasure hunt with your child at home. Scan the QR code below for more ideas on unplugged coding activities.</p>
+<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
 
-<img src="/images/diyresources/preschool/discovertech/Looping/Parents%20Pro%20Tip.png" style="width:150px; text-align:left;">
+To brush our teeth, we would need to:
+1) Pick up the toothbrush, wet it and add toothpaste on it
+2) Brush your teeth
+3) Rinse your mouth with water 
+4) Wash your toothbrush and you are done!
+</p>
+
+
 
 
 <h4> Loop that Sandcastle </h4> 

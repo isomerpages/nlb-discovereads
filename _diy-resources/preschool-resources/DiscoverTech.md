@@ -84,7 +84,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  </div>
  <p>This video contains simple information for children to understand how conditional statements work in programming.
  </p>
-
+![](/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png)
 
 <h4>Let’s Read!</h4>
  <div class="row is-multiline">
@@ -116,12 +116,12 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3878106" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/3916980" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Baby Loves Coding!</b><br>
-       <u>Author:</u>Ruth Spiro & Irene Chan<br>
-       <u>Publisher:</u>Watertown, MA : Charlesbridge, 2018<br>
+       <p><b>Breaking Down Tasks : Using Decomposition </b><br>
+       <u>Author:</u>Elizabeth Schmermund<br>
+       <u>Publisher:</u> New York : Cavendish Square, 2018<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">

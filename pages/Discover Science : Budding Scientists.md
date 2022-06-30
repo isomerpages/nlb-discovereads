@@ -14,7 +14,7 @@ description: ""
 
 <p>  Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!</p>
 
-</p><h4> LET’S LEARN!</h4>
+<h4> LET’S LEARN!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
@@ -27,7 +27,7 @@ description: ""
    </div>
  </div>
  
-</p><h4> LET’S SING!</h4>
+<h4> LET’S SING!</h4>
 <p>Introduce the theme of animals by beginning with a fun song! Ask your child to think about what sounds animals make and invite them to make some animal noises together.</p>
 <img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;">
 <img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;">

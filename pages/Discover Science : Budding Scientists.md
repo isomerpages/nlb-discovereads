@@ -50,11 +50,9 @@ description: ""
  <h4>LET'S TRY!</h4>
 <p>You may use these slides to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
 
- Which stage of the life cycle are you at?
-
-Why do you think it is called a “cycle”? Can you tell from the shape?
-
-How are the life cycles of the different animals similar? How are they different? 
+<li>Which stage of the life cycle are you at? <i>Hint: Probably a toddler!</i>
+<li>Why do you think it is called a “cycle”? Can you tell from the shape? <i>Hint: Think about a biCYCLE and its wheels!</i>
+<li>How are the life cycles of the different animals similar? How are they different? <i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
 
  
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>

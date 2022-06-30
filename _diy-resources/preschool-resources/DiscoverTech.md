@@ -507,147 +507,77 @@ style="width:200px; text-align:left;">
  <p>
 
 Find out more about Algorithm through the example of brushing your teeth!
-
  </p>
 
+	
 <h4>Let’s Read!</h4>
-
- <div class="row is-multiline">
-
-   <div class="col is-half-tablet padding--bottom--lg">
-
-    <div class="image">
-
-       <a href="https://nlb.overdrive.com/media/5404844" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
-
-     </div>
-
-    <div class="text">
-
-       <p><b>Algorithms: Solve A Problem! </b><br>
-
-       <u>Author:</u> Blake Hoena, Sr. Sanchez & Mark Mallman <br>
-
-       <u>Publisher:</u>North Mankato, MN: Cantata Learning, 2018<br>
-
-    </p></div>
-
-   </div>
-
-   <div class="col is-half-tablet padding--bottom--lg">
-
-    <div class="image">
-
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="\_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
-
-    </div>
-
-    <div class="text">
-
-        <p><b>Algorithms & Sequencing</b><br>
-
-        <u>Author:</u>Teddy Borth<br>
-
-        <u>Publisher:</u>Minneapolis, Minnesota: Pop!, a division of ABD, 2020<br>
-
-     </p></div>
-
-  </div>
-
- </div>
-
- <div class="row </p></div>
-
-  </div>
-
- </div> is-multiline">
-
-   <div class="col is-half-tablet padding--bottom--lg">
-
-    <div class="image">
-
-       <a href="https://nlb.overdrive.com/media/3965032" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
-
-     </div>
-
-    <div class="text">
-
-       <p><b>Coding, 1, 2, 3</b><br>
-
-       <u>Author:</u>Janet Slingerland<br>
-
-       <u>Publisher:</u>North Mankato, Minnesota: Rourke Eudcational Media, 2019<br>
-
-       </p></div>
-
-   </div>
-
-  <div class="col is-half-tablet padding--bottom--lg">
-
-    <div class="image">
-
-        <a href="https://nlb.overdrive.com/media/4840375" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/adi's%20perfect%20patterns.png" style="width:150px; text-align:left;"></a>
-
-    </div>
-
-   <div class="text">
-
- <p><b>You Can’t Dance to These Rhythms. What Are Algorithms?</b><br>
-
-      <u>Author:</u>Brian P. Cleary & Martin Goneau<br>
-
- <u>Publisher:</u>Minnesota, MN: Millbrook Press, 2019<br>
-
-    </p></div>
-
-  </div>
-
- </div>
-
 <div class="row is-multiline">
-
    <div class="col is-half-tablet padding--bottom--lg">
-
     <div class="image">
-
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
-
-                                           </div>
-
+       <a href=" https://nlb.overdrive.com/media/5404844" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+     </div>
     <div class="text">
-
-       <p><b>Code Academy and the Perfect Program!</b><br>
-
-       <u>Author:</u>Kirsty Holmes<br>
-
-       <u>Publisher:</u> King’s Lynn, Norfolk: BookLife Publishing, 2019<br>
-
+       <p><b>Algorithms: Solve A Problem! </b><br>
+       <u>Author:</u> Blake Hoena, Sr. Sanchez & Mark Mallman <br>
+       <u>Publisher:</u>North Mankato, MN: Cantata Learning, 2018<br>
     </p></div>
-
    </div>
-
    <div class="col is-half-tablet padding--bottom--lg">
-
     <div class="image">
-
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348739485/331321439,1" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/loops%20repeat%20repeat.png" style="width:150px; text-align:left;"></a>
-
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="\_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
     </div>
-
     <div class="text">
-
-<p><b>Dot. Unplugged</b><br>
-
-       <u>Author:</u>Randi Zuckerberg<br>
-
-       <u>Publisher:</u>London: Walker Entertainment, 2020<br>
-
- </p></div>
-
-   </div>
-
+        <p><b>Algorithms & Sequencing</b><br>
+        <u>Author:</u>Teddy Borth<br>
+        <u>Publisher:</u>Minneapolis, Minnesota: Pop!, a division of ABD, 2020<br>
+     </p></div>
   </div>
-
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href=" https://nlb.overdrive.com/media/3965032" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Coding, 1, 2, 3</b><br>
+       <u>Author:</u>Janet Slingerland<br>
+       <u>Publisher:</u>North Mankato, Minnesota: Rourke Eudcational Media, 2019<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/4840375" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/adi's%20perfect%20patterns.png" style="width:150px; text-align:left;"></a>
+    </div>
+   <div class="text">
+ <p><b>You Can’t Dance to These Rhythms. What Are Algorithms?</b><br>
+      <u>Author:</u>Brian P. Cleary & Martin Goneau<br>
+ <u>Publisher:</u>Minnesota, MN: Millbrook Press, 2019<br>
+    </p></div>
+  </div>
+ </div>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
+  </div>
+    <div class="text">
+       <p><b>Code Academy and the Perfect Program!</b><br>
+       <u>Author:</u>Kirsty Holmes<br>
+       <u>Publisher:</u> King’s Lynn, Norfolk: BookLife Publishing, 2019<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348739485/331321439,1" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/loops%20repeat%20repeat.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+<p><b>Dot. Unplugged</b><br>
+       <u>Author:</u>Randi Zuckerberg<br>
+       <u>Publisher:</u>London: Walker Entertainment, 2020<br>
+ </p></div>
+   </div>
+  </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
-
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

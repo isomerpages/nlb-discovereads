@@ -19,23 +19,23 @@ Share with your child that decomposition occurs in daily activities such as brus
 </p>
 
 <h4>Sandwich Robot Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Looping/Yoga%20Looping.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
-	<li>A piece of paper </li>
-<li>Writing materials </li>
+	<li> A few slices of bread </li>
+<li> Any of your child's favourite sandwich fillings- cheese, tomatoes, lettuce, jam, butter, sliced meat etc. which are already available at home </li>
+	<li> Plastic knife </li>
+		<li> Plate </li>
 </ul>
 
 <h5>How to Play</h5>
- <p> Together with your child, come up with a Yoga regime! Follow the steps below.<br>
-	<ul>
-	<li> Scan the QR code above to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a 
-paper. </li>
-	<li>Next to each yoga pose you have decided, decide how many times you would want to do it (looping!).	</li>
-	<li>Follow the sequence of the poses and loops of the yoga poses on your list. Enjoy your yoga!
-	</li>
-		</ul>
+ <p> Get your child to be a Sandwich Robot and you will be the Computer Programmer. Start by giving step-by-step instructions (decomposition) to your Robot on how to construct a yummy sandwich. Keep the steps short and clear. 
+
+If your Robot gets it wrong- for example, doing too much, too little, or the wrong thing -- tell them, Stop! Robot Malfunction!
+
+Keep going until you have a finished sandwich, served on a plate and ready to eat!<br>
+	
 
 <h5>Parents’ Pro Tip</h5> 
 <p>Coding teaches children to take risks, to be creative, to solve problems, to persevere, to think critically and logic, to be focused and to be confident. Get started with unplugged coding activities such as building your own board game, creating a maze or playing treasure hunt with your child at home. Scan the QR code below for more ideas on unplugged coding activities.</p>

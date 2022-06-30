@@ -46,8 +46,7 @@ Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
 ### Comics
 
-|<a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 40%;" align="left"></a>|<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 40%;" align="right"></a>| 
-|<a href="/files/bookbugsr/Newsletter 3 Comic_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Comic.png" alt="Comic 3" style="width: 40%;" align="left"></a>| 
+|<a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 25%;" align="left"></a>|<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 25%;" align="left"></a>| <a href="/files/bookbugsr/Newsletter 3 Comic_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Comic.png" alt="Comic 3" style="width:25%;" align="left"></a>| 
 
 <br>
 	

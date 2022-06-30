@@ -63,7 +63,8 @@ style="width:300px; text-align:left;">
 (b) Can you identify the missing parts of the rocket ship? 
 </p>
 
-<a href="/files/preschool/discovertech/Looping%20Activity_Loop%20That%20Sandcastle.pdf" target="_blank">Activity Sheet for Rocket Ship</a><br>    
+<a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>
+
 
 <h5>Parents’ Pro Tip</h5> 
 <p> Use coding-related language often.<br>

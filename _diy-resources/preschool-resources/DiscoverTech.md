@@ -510,10 +510,10 @@ Find out more about Algorithm through the example of brushing your teeth!
  </p>
 
 	
-<h4>Let’s Read!</h4>
-<div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
+<h4>Let's Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
        <a href=" https://nlb.overdrive.com/media/5404844" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">

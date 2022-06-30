@@ -43,7 +43,7 @@ Keep going until you have a finished sandwich, served on a plate and ready to ea
 To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
 
 To brush our teeth, we would need to:
-1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
+<br>1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
 <br>2.  Brush your teeth<br>
 <br>3.  Rinse your mouth with water<br>
 <br>4.  Wash your toothbrush and you are done!<br>
@@ -62,9 +62,9 @@ style="width:300px; text-align:left;">
 
 <h5>How to Play</h5>
 <p>
-1. Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship? 
+<br>1. Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship?<br> 
 
-2. Can you identify the missing parts of the rocket ship? 
+<br>2. Can you identify the missing parts of the rocket ship? <br>
 </p>
 
 <a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>

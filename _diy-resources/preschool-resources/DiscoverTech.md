@@ -6,7 +6,305 @@ third_nav_title: Preschool Resources
 ---
 ![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/Looping/DiscoverTech%20Eventbrite%20Banner.jpg)
 
-**New!*** <a href="#lp-looping">Let’s Learn About Looping!</a> | **New!*** <a href="#lp-branching">Let’s Learn About Branching!</a> | **New!*** <a href="#lp-debugging">Let's Learn About Debugging!</a> | 
+
+**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+	
+<h3 class="margin--bottom--lg" id="lp-decomposition"><b> Let’s Learn About Decomposition!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
+ 
+<p> Decomposition is breaking down a computing task or problem into smaller parts so that it becomes easier. 
+ <br><br>
+Share with your child that decomposition occurs in daily activities such as brushing one's teeth, reading a book and making breakfast. All of these can be broken down into smaller steps.
+</p>
+
+<h4>Sandwich Robot Activity</h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li> A few slices of bread </li>
+<li> Any of your child's favourite sandwich fillings- cheese, tomatoes, lettuce, jam, butter, sliced meat etc. which are already available at home </li>
+	<li> Plastic knife </li>
+		<li> Plate </li>
+</ul>
+
+<h5>How to Play</h5>
+ <p> Get your child to be a Sandwich Robot and you will be the Computer Programmer. Start by giving step-by-step instructions (decomposition) to your Robot on how to construct a yummy sandwich. Keep the steps short and clear. 
+
+If your Robot gets it wrong- for example, doing too much, too little, or the wrong thing -- tell them, Stop! Robot Malfunction!
+
+Keep going until you have a finished sandwich, served on a plate and ready to eat!<br>
+	
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. 
+	
+To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
+
+To brush our teeth, we would need to:
+<br>1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
+<br>2.  Brush your teeth<br>
+<br>3.  Rinse your mouth with water<br>
+<br>4.  Wash your toothbrush and you are done!<br>
+
+</p>
+
+<h4> Blast Off, Rocket Ship! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+style="width:300px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li>Activity sheet provided below.</li>
+	<li>Coloured paper or foam sheets cut into basic shapes in different sizes (optional)</li>
+</ul>
+
+<h5>How to Play</h5>
+<p>
+<br>1. Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship?<br> 
+
+<br>2. Can you identify the missing parts of the rocket ship? <br>
+</p>
+
+<a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Talk about shapes and colours with your child before trying out this activity. <br>
+For a hands-on approach, you can cut out the shapes needed to make the rocket ship from coloured foam sheets and build the rocket ship with your child.<br>
+</p>
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=w0PuL73lMQc" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> Coding for Kids | What is coding for kids? | Coding for beginners | Understanding Coding | Coding Words (3:17 mins) </b>
+   </div>
+ </div>
+ <p>This video contains simple information for children to understand how conditional statements work in programming.
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
+205506582
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Code Academy and The Code Confusion!</b><br>
+       <u>Author:</u> Kirsty Holmes <br>
+       <u>Publisher:</u>King's Lynn, Norfolk, BookLife Publishing, 2019<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href=" https://nlb.overdrive.com/media/5294867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_ava.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Ava in Code Land</b><br>
+        <u>Author:</u>Jess Hitchman & Gavin Cullen<br>
+        <u>Publisher:</u>New York  : Feiwel and Friends, 2020<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/3916980" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Breaking Down Tasks : Using Decomposition </b><br>
+       <u>Author:</u>Elizabeth Schmermund<br>
+       <u>Publisher:</u> New York : Cavendish Square, 2018<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Gabi's Fabulous Functions</b><br>
+      <u>Author:</u>Caroline Karanja<br>
+ <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
+    </p></div>
+  </div>
+ </div>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
+			</div>
+    <div class="text">
+       <p><b>Algorithms & Sequencing</b><br>
+       <u>Author:</u> Teddy Borth <br>
+       <u>Publisher:</u> Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/3469750" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_doll.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+<p><b>Doll-E 1.0</b><br>
+       <u>Author:</u>Shanda McCloskey<br>
+       <u>Publisher:</u>New York : Little, Brown and Company, 2018<br>
+ </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+
+<h3 class="margin--bottom--lg" id="lp-algorithm"><b> Let’s Learn About Algorithm!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="/images/diyresources/preschool/discovertech/Algorithm/Robot2.png" style="width:200px; text-align:left;">
+ 
+<p>An algorithm is a set of steps to follow in order to complete a task or solve a problem. <br><br>
+In coding, algorithms provide step-by-step instructions for computer programmes to complete various tasks such as calculations or processing data. 
+</p>
+
+
+<h4>Egg Carton Coding Activity</h4> 
+<img src="/images/diyresources/preschool/discovertech/Algorithm/Egg%20carton%20activity.png" style="width:500px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li> Egg cartons </li>
+<li> Plastics eggs or any items that can hold the small prizes </li>
+	<li> Small prizes for the eggs </li>
+		<li> Your child's favourite miniature toy </li>
+	<li> Red construction paper </li>
+</ul>
+
+<h5>How to Play</h5>
+ <p> Get the miniature toy to the prize eggs while avoiding the lava rocks. Plan the algorithms and move the miniature toy to all the prize eggs. If the toy lands on a lava rock, go back to the start and debug the algorithm!<br>
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Introduce your child to the concept of directions before you try the activities below. Get them to "walk" the algorithm by following a set of instructions which include directional words. For instance, take two steps to the right. This will help them to understand the orientation of an algorithm.</p>
+
+<h4>Escape the Bear! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Algorithm/BEAR%202.png"
+style="width:300px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li>Activity sheet provided below.</li>
+	<li>Printed arrows (optional)</li>
+</ul>
+
+<h5>How to Play</h5>
+<p>Help the family escape from the big, brown bear and reach home as fast as they can. Avoid the obstacles along the way! Challenge yourself to create different sets of algorithms by using directional signs - up, down, right and left. </p>
+
+<a href="/files/preschool/discovertech/Activity%20Sheet_Escape%20the%20bear.pdf" target="_blank">Activity Sheet for Escape the Bear!</a><br>
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p> Have fun reading the story of "We're Going on a Bear Hunt" by Michael Rosen. Introduce the concept of sequencing as your guide your child to remember the seuuence of obstacles met!<br>
+Recall the concept of directions, to plan the algorithm to escape!<br>
+</p>
+
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=Da5TOXCwLSg" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithm%20BBC%20video.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> BBC Learning - What is an Algorithm? (1:08 mins) </b>
+   </div>
+ </div>
+ <p>Watch this video to find out more about Algorithm through the example of brushing your teeth! </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/5404844" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithms%20solve%20a%20problem%20eBook.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Algorithms: Solve A Problem! </b><br>
+       <u>Author:</u> Blake Hoena, Sr. Sanchez & Mark Mallman <br>
+       <u>Publisher:</u>North Mankato, MN: Cantata Learning, 2018<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithms%20and%20sequencing.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Algorithms & Sequencing</b><br>
+        <u>Author:</u>Teddy Borth<br>
+        <u>Publisher:</u>Minneapolis, Minnesota: Pop!, a division of ABD, 2020<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/3965032" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Book_Coding%20123.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Coding, 1, 2, 3</b><br>
+       <u>Author:</u>Janet Slingerland<br>
+       <u>Publisher:</u>North Mankato, Minnesota: Rourke Eudcational Media, 2019<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/4840375" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Book_You%20Cant%20Dance%20to%20These%20Rhythms.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>You Can’t Dance to These Rhythms. What Are Algorithms?</b><br>
+      <u>Author:</u>Brian P. Cleary & Martin Goneau<br>
+ <u>Publisher:</u>Minnesota, MN: Millbrook Press, 2019<br>
+    </p></div>
+  </div>
+ </div>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Code%20academy%20Perfect%20Program.png" style="width:150px; text-align:left;"></a>
+			</div>
+    <div class="text">
+       <p><b>Code Academy and the Perfect Program!</b><br>
+       <u>Author:</u>Kirsty Holmes<br>
+       <u>Publisher:</u> King’s Lynn, Norfolk: BookLife Publishing, 2019<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348739485/331321439,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Dot%20unplugged.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+<p><b>Dot. Unplugged</b><br>
+       <u>Author:</u>Randi Zuckerberg<br>
+       <u>Publisher:</u>London: Walker Entertainment, 2020<br>
+ </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
 
 <h3 class="margin--bottom--lg" id="lp-time"><b>Let’s Learn About Looping! </b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

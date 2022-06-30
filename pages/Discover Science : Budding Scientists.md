@@ -7,8 +7,54 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!***</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!***</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a>
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a>
 
+<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
+ <p><b>Suitable for 3 to 6 years old children</b></p>
+
+<p>  Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!</p>
+
+<h4> LET’S LEARN!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/lifecyclesdefinition.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>A life cycle is a series of stages a living thing goes through during its life. All plants and animals go through life cycles.<br><i>Plant and Animal Life Cycles: Science Lesson for kids: Grades 3-5. Generation Genius. (2021, August 16). Retrieved June 30, 2022, from <a href="https://www.generationgenius.com/plant-and-animal-life-cycle-lesson-for-kids/" target="_blank">https://www.generationgenius.com/plant-and-animal-life-cycle-lesson-for-kids/</a></i>
+ </p>
+   </div>
+ </div>
+ 
+<h4> LET’S SING!</h4>
+<p>Introduce the theme of animals by beginning with a fun song! Ask your child to think about what sounds animals make and invite them to make some animal noises together.</p>
+<img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;">
+<p>After this, you may then watch videos or listen to audio recordings of how the animals sound like in real life to pique your child’s curiosity and allow them to make the connections between what they are learning and what happens in real life.</p>
+<h4>LET'S WATCH!</h4>
+ <h5>The Life Cycle Song</h5>   
+
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/PqzF4-w7bG8" target="_blank">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/lifecyclesong.jpg" style="width:400px; text-align:left;"></a>
+     </div>
+	</div>
+ <div class="col is-three-fifths">
+     <p><b> The Life Cycle Song | Science Songs | Scratch Garden (3 min 30 secs) </b><br>Listen to this catchy, educational song that introduces your child to life cycles in animals!
+ </p>
+   </div>
+ </div>
+ 
+ <h4>LET'S TRY!</h4>
+<p>You may use these slides to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
+
+<li>Which stage of the life cycle are you at? <i>Hint: Probably a toddler!</i>
+<li>Why do you think it is called a “cycle”? Can you tell from the shape? <i>Hint: Think about a biCYCLE and its wheels!</i>
+<li>How are the life cycles of the different animals similar? How are they different? <i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
+
+ 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

@@ -169,7 +169,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
 <h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Algorithm!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Algorithm/Robot2.png" style="width:200px; text-align:left;">
  
 <p>An algorithm is a set of steps to follow in order to complete a task or solve a problem. <br><br>
 In coding, algorithms provide step-by-step instructions for computer programmes to complete various tasks such as calculations or processing data. 
@@ -177,7 +177,7 @@ In coding, algorithms provide step-by-step instructions for computer programmes 
 
 
 <h4>Egg Carton Coding Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Algorithm/Egg%20carton%20activity.png" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
@@ -190,15 +190,13 @@ In coding, algorithms provide step-by-step instructions for computer programmes 
 
 <h5>How to Play</h5>
  <p> Get the miniature toy to the prize eggs while avoiding the lava rocks. Plan the algorithms and move the miniature toy to all the prize eggs. If the toy lands on a lava rock, go back to the start and debug the algorithm!<br>
-	<ul>
-	<li> Scan the QR code for step by step instructions. </li>
-		</ul>
+
 
 <h5>Parents’ Pro Tip</h5> 
 <p>Introduce your child to the concept of directions before you try the activities below. Get them to "walk" the algorithm by following a set of instructions which include directional words. For instance, take two steps to the right. This will help them to understand the orientation of an algorithm.</p>
 
 <h4>Escape the Bear! </h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+<img src="/images/diyresources/preschool/discovertech/Algorithm/BEAR%202.png"
 style="width:300px; text-align:left;">
 
 <h5>Materials Needed</h5>
@@ -210,7 +208,7 @@ style="width:300px; text-align:left;">
 <h5>How to Play</h5>
 <p>Help the family escape from the big, brown bear and reach home as fast as they can. Avoid the obstacles along the way! Challenge yourself to create different sets of algorithms by using directional signs - up, down, right and left. </p>
 
-<a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>
+<a href="/files/preschool/discovertech/Activity%20Sheet_Escape%20the%20bear.pdf" target="_blank">Activity Sheet for Escape the Bear!</a><br>
 
 
 <h5>Parents’ Pro Tip</h5> 
@@ -221,16 +219,13 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
 
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
- <div class="col is-four-fifths">
-     <div class="image"><a href="https://www.youtube.com/watch?v=w0PuL73lMQc" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+     <div class="image"><a href="https://www.youtube.com/watch?v=Da5TOXCwLSg" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithm%20BBC%20video.png" style="width:500px; text-align:left;"></a>
      </div>
-   </div>
- <div class="col is-one-fifths">
-<b> BBC Learning - What is an Algorithm? (1:07 mins) </b>
+ <b> BBC Learning - What is an Algorithm? (1:08 mins) </b>
    </div>
  </div>
- <p>Watch this video to find out more about Algorithm through the example of brushing your teeth!
+<p>Watch this video to find out more about Algorithm through the example of brushing your teeth!
  </p>
 
 
@@ -238,7 +233,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/5404844" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/5404844" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithms%20solve%20a%20problem%20eBook.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Algorithms: Solve A Problem! </b><br>
@@ -248,7 +243,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithms%20and%20sequencing.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Algorithms & Sequencing</b><br>
@@ -262,7 +257,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3965032" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/3965032" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Book_Coding%20123.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Coding, 1, 2, 3</b><br>
@@ -272,7 +267,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/4840375" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/adi's%20perfect%20patterns.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/4840375" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Book_You%20Cant%20Dance%20to%20These%20Rhythms.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>You Can’t Dance to These Rhythms. What Are Algorithms?</b><br>
@@ -284,7 +279,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Code%20academy%20Perfect%20Program.png" style="width:150px; text-align:left;"></a>
 			</div>
     <div class="text">
        <p><b>Code Academy and the Perfect Program!</b><br>
@@ -294,7 +289,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348739485/331321439,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/loops%20repeat%20repeat.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348739485/331321439,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Algorithm/Dot%20unplugged.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 <p><b>Dot. Unplugged</b><br>
@@ -306,143 +301,6 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-
-<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Positive Digital Habits!</b></h3>
- <p><b>Suitable for 4 to 6 years old</b></p>
- 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
-
-<h4>Help Your Child Develop Positive Digital Habits</h4>  
-<p>The American Academy of Pediatrics with support from the Media Literacy Council recommend that parents limit screen time (games, computers, tablets, smartphones and televisions) for preschoolers 2-5 years old to at most 1 hour per day.<br><br>
-Toddlers 1-2 years old should be getting little to no screen time.<br><br>
-Your children should watch high-quality programming - which means it’s got to be educational and interactive!
-</p>
-
-
-<h4>Bonding Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
-
- <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
-   
-<h5>Instructions</h5>
-		<ul>
- <p> Pack your gear:
-	 <ul>
-     <li>Bring a pencil to tick the treasures you find.</li>
-     <li>Remember to bring a water bottle. </li>
-     <li>Have fun outside! </li>
-<p> Parents, please take pictures of your children while they are out and about.<br><br>
-</ul>
-</ul>
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
-style="width:300px; text-align:left;">
-
-  <h5>Reflection</h5>
-		<ul>
-		<p> Talk to your child about their scavenger hunt. </p>
-			<ul>
-     <li>Which item was their favourite to find?</li>
-     <li>Which was the most difficult thing to find?</li>
-     <li>What senses did they use on their hunt</li> 
-</p>
-</ul>
-</ul>
-
-		
-<h5>Parents’ Pro Tip</h5> 
-<p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>
-
-<h4>Unlock your Phone! </h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
-style="width:300px; text-align:left;">
-
-<p>Have your ever taken a look at your hand? At the tips of your fingers are your own unique prints. That means no one else has the same whorls and loops like you do. Our fingerprints also protect the privacy of your parents' phones.</p>
-
-<h5>Instructions</h5>
-<ul>
-     <li>Try tracing a line from the key to the lock through the maze.</li>
-     <li>There are a few ways to unlock your phone.</li>
-</ul>     
-
-
-<h5>Parents’ Pro Tip</h5> 
-<p> Collaborate with your child. Encourage them to tell you how they would solve the activity. If they run into a mistake, don't tell them if they're wrong. Ask if what they're doing is the best way.<br>
-</p>
-
-<h4>Activity: What are we hiding?</h4> 
- <p> Bai the Book wants to read with his friends and family at the playground.<br>
-Can you figure out where they are hiding? </p><h5>Instructions</h5>
-<ul>
- <p> Circle the books you find.
-	<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
-
-</ul>    
-
-
-<h4>Let's Watch!</h4>
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-four-fifths">
-     <div class="image"><a href="https://www.youtube.com/watch?v=CnFHY16KJXY" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-one-fifths">
-<b> Why Screen Time For Kids Needs To Be Controlled (1:07 mins) </b>
-   </div>
- </div>
- <p>Controlling screen time can be tricky, because screens are everywhere. According to some big health organizations we should probably be paying more attention to the effects screen time can have on kids, especially the little ones under the age of 5.
- </p>
-
-
-<h4>Let’s Read!</h4>
- <div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://nlb.overdrive.com/media/5404844" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
-     </div>
-    <div class="text">
-       <p><b>Gabi's Fabulous Functions </b><br>
-       <u>By:</u> Caroline Karanja & Ben Whitehouse <br>
-       <u>Publisher:</u>North Mankato, Minnesota: Picture Window Books, 2018<br>
-    </p></div>
-   </div>
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
-    </div>
-    <div class="text">
-        <p><b>You're Missing It!</b><br>
-        <u>By:</u>Brady Smith & Tiffani Thiessen<br>
-        <u>Publisher:</u>New York, N.Y.: Nancy Paulsen Books, an imprint of Penguin Young Readers Group, 2019<br>
-     </p></div>
-  </div>
- </div>
- <div class="row </p></div>
-  </div>
- </div> is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://nlb.overdrive.com/media/3965032" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
-     </div>
-    <div class="text">
-       <p><b>My Animal Atlas: 270 Amazing Animals and Where They Live</b><br>
-       <u>Author:</u>Nastja Holtfreter<br>
-       <u>Publisher:</u>Baltimore, MD: Duo Press, 2021<br>
-       </p></div>
-   </div>
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
-			</div>
-    <div class="text">
-       <p><b>The Wild World Handbook: Habitats</b><br>
-       <u>By:</u>Andrea Debbink & Asia Orlando<br>
-       <u>Publisher:</u> Philadelphia: Quirk Books, 2021<br>
-    </p></div>
-   </div>
-   </div>
-  <p>All book covers are copyright of the respective publishing companies.</p>
-  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
 <h3 class="margin--bottom--lg" id="lp-time"><b>Let’s Learn About Looping! </b></h3>

@@ -58,16 +58,12 @@ style="width:300px; text-align:left;">
 </ul>
 
 <h5>How to Play</h5>
-<p>In the storybook "How to Code a Sandcastle", Pearl and Pascal coded an entire kingdom with 3 instructions on a repeat mode.
-<ul>
-	<li>Fill the pail with sand.</li>
-	<li>Dump the sand on our spot.</li>
-	<li>Pat the sand down. </li>
-</ul>
-<p>Count the number of loops Pascal did to create each sandcastle and write it in the box. 
+<p>a) Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship? 
+
+(b) Can you identify the missing parts of the rocket ship? 
 </p>
 
-<a href="/files/preschool/discovertech/Looping%20Activity_Loop%20That%20Sandcastle.pdf" target="_blank">Activity Sheet for Loop That Sandcastle</a><br>    
+<a href="/files/preschool/discovertech/Looping%20Activity_Loop%20That%20Sandcastle.pdf" target="_blank">Activity Sheet for Rocket Ship</a><br>    
 
 <h5>Parents’ Pro Tip</h5> 
 <p> Use coding-related language often.<br>

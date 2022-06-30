@@ -49,7 +49,7 @@ Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 |<a href="/files/bookbugsr/Newsletter 3 Comic_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Comic.png" alt="Comic 3" style="width: 50%;" align="left"></a>| 
 <p class="has-text-right margin--top--xl"><a href="#main-content">
 	
-	<br>
+<br>
 	
 Back to top</a></p>
 

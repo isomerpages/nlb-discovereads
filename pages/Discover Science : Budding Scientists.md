@@ -18,11 +18,11 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/lifecyclesdefinition.png" style="width:400px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
+     <p>A life cycle is a series of stages a living thing goes through during its life. All plants and animals go through life cycles.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
  </p>
  <p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
    </div>

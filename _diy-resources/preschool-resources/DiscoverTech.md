@@ -223,7 +223,6 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
        <img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithm%20BBC%20video.png" style="width:500px; text-align:left;"></a>
      </div>
  <b> BBC Learning - What is an Algorithm? (1:08 mins) </b>
-   </div>
  </div>
 <p>Watch this video to find out more about Algorithm through the example of brushing your teeth!
  </p>

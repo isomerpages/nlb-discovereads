@@ -60,7 +60,7 @@ Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
 Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMap is for you!
 
-Next stop: Huo Huan. These harsh deserts contain some of the most resilient and ingenious Bugs. Click below to find out more!
+Explorers can now visit Samudera, the majestic icy land ruled by Queen Usurpa.
 
 <a href= "https://go.gov.sg/storymaps/"><img src="/images/events/bookbugsr/ExploreBugtopia.png" style="width: 80%;"></a>
 

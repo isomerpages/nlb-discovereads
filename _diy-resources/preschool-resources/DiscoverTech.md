@@ -54,7 +54,7 @@ style="width:300px; text-align:left;">
 <h5>Materials Needed</h5>
 <ul>
 	<li>Activity sheet provided below.</li>
-	<li>Pencil or crayon</li>
+	<li>Coloured paper or foam sheets cut into basic shapes in different sizes (optional)</li>
 </ul>
 
 <h5>How to Play</h5>

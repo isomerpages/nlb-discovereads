@@ -95,7 +95,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Code academy and The Code Confusion!</b><br>
+       <p><b>Code Academy and The Code Confusion!</b><br>
        <u>Author:</u> Kirsty Holmes <br>
        <u>Publisher:</u>King's Lynn, Norfolk, BookLife Publishing, 2019<br>
     </p></div>

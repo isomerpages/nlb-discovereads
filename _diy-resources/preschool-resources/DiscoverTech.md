@@ -11,13 +11,14 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Decomposition!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/Looping/1st%20pic.png" style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:300px; text-align:left;">
  
-<p>Looping is about doing something again and again and again. <br><br>
-When you need to repeat something in code, you can use a loop. Looping allows you to repeat an action again without having to write the same instructions over and over again. 
+<p> Decomposition is breaking down a computing task or problem into smaller parts so that it becomes easier. 
+ <br><br>
+Share with your child that decomposition occurs in daily activities such as brushing one's teeth, reading a book and making breakfast. All of these can be broken down into smaller steps.
 </p>
 
-<h4>Yoga Looping Activity</h4> 
+<h4>Sandwich Robot Activity</h4> 
 <img src="/images/diyresources/preschool/discovertech/Looping/Yoga%20Looping.png" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>

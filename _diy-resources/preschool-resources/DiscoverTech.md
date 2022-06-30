@@ -84,7 +84,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  </div>
  <p>This video contains simple information for children to understand how conditional statements work in programming.
  </p>
-![](/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png)
+
 
 <h4>Let’s Read!</h4>
  <div class="row is-multiline">
@@ -138,22 +138,22 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
 			</div>
     <div class="text">
-       <p><b>How to Code a Sandcastle</b><br>
-       <u>Author:</u>Josh Funk & Sara Palacios <br>
-       <u>Publisher:</u> New York, New York : Viking, 2018<br>
+       <p><b>Algorithms & Sequencing</b><br>
+       <u>Author:</u> Teddy Borth <br>
+       <u>Publisher:</u> Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/5404966" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/3469750" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_doll.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-<p><b>Algorithms & Sequencing</b><br>
-       <u>Author:</u>Teddy Borth<br>
-       <u>Publisher:</u>Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
+<p><b>Doll-E 1.0</b><br>
+       <u>Author:</u>Shanda McCloskey<br>
+       <u>Publisher:</u>New York : Little, Brown and Company, 2018<br>
  </p></div>
    </div>
   </div>
@@ -228,7 +228,7 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
  </div>
  <p>Watch this video to find out more about Algorithm through the example of brushing your teeth!
  </p>
-![](/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png)
+
 
 <h4>Let’s Read!</h4>
  <div class="row is-multiline">

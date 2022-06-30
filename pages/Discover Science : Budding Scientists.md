@@ -32,7 +32,20 @@ description: ""
 <img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;">
 <img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;">
 <p>After this, you may then watch videos or listen to audio recordings of how the animals sound like in real life to pique your child’s curiosity and allow them to make the connections between what they are learning and what happens in real life.</p>
+<h4>LET'S WATCH!</h4>
+ <h5>The Life Cycle Song</h5>   
 
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://youtu.be/PqzF4-w7bG8" target="_blank">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/lifecyclesong.jpg" style="width:400px; text-align:left;"></a>
+     </div>
+	</div>
+ <div class="col is-three-fifths">
+     <p><b> The Life Cycle Song | Science Songs | Scratch Garden (3 min 30 secs) </b><br>Listen to this catchy, educational song that introduces your child to life cycles in animals!
+ </p>
+   </div>
+ </div>
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

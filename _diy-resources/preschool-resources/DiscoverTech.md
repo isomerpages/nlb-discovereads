@@ -90,7 +90,9 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
+205506582
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Code academy and The Code Confusion!</b><br>
@@ -100,13 +102,12 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ ?SETLVL=&BRN=
-205290671" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
+        <a href=" https://nlb.overdrive.com/media/5294867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_ava.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-        <p><b>I Can Code : If/Then</b><br>
-        <u>Author:</u>Vicky Fang & Jade Orlando<br>
-        <u>Publisher:</u>Naperville, Illinois : Sourcebooks eXplore, 2020<br>
+        <p><b>Ava in Code Land</b><br>
+        <u>Author:</u>Jess Hitchman & Gavin Cullen<br>
+        <u>Publisher:</u>New York  : Feiwel and Friends, 2020<br>
      </p></div>
   </div>
  </div>

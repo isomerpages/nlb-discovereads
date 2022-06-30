@@ -510,10 +510,10 @@ Find out more about Algorithm through the example of brushing your teeth!
  </p>
 
 	
-<h4>Let's Read!</h4>
- <div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
+<h4>Let’s Read!</h4>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
        <a href=" https://nlb.overdrive.com/media/5404844" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
@@ -580,4 +580,270 @@ Find out more about Algorithm through the example of brushing your teeth!
    </div>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+	
+	         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-536859905 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} @page WordSection1 {size:595.0pt 842.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:35.4pt; mso-footer-margin:35.4pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Decomposition!</b></h3>
+
+ <p><b>Suitable for 4 to 6 years old</b></p>
+
+<img src="/images/diyresources/preschool/discovertech/Looping/1st%20pic.png" style="width:300px; text-align:left;">
+
+<p> Decomposition is breaking down a computing task or problem into smaller parts so that it becomes easier. Share with your child that decomposition occurs in daily activities such as brushing one's teeth, reading a book and making breakfast. All of these can be broken down into smaller steps.</p>
+
+<h4> Sandwich Robot Activity </h4>
+
+<img src="/images/diyresources/preschool/discovertech/Looping/Yoga%20Looping.png" style="width:500px; text-align:left;">
+
+<h5>Materials Needed</h5>
+
+<ul>
+
+            <li>A piece of paper </li>
+
+<li>Writing materials </li>
+
+</ul>
+
+<h5>How to Play</h5>
+
+ <p> Together with your child, come up with a Yoga regime! Follow the steps below.<br>
+
+            <ul>
+
+            <li> Scan the QR code above to view some yoga poses. Decide with your child which yoga poses both of you would like to do and list them down on a
+
+paper. </li>
+
+            <li>Next to each yoga pose you have decided, decide how many times you would want to do it (looping!).         </li>
+
+            <li>Follow the sequence of the poses and loops of the yoga poses on your list. Enjoy your yoga!
+
+            </li>
+
+                        </ul>
+
+<h5>Parents’ Pro Tip</h5>
+
+<p>Coding teaches children to take risks, to be creative, to solve problems, to persevere, to think critically and logic, to be focused and to be confident. Get started with unplugged coding activities such as building your own board game, creating a maze or playing treasure hunt with your child at home. Scan the QR code below for more ideas on unplugged coding activities.</p>
+
+<img src="/images/diyresources/preschool/discovertech/Looping/Parents%20Pro%20Tip.png" style="width:150px; text-align:left;">
+
+<h4> Loop that Sandcastle </h4>
+
+<img src="/images/diyresources/preschool/discovertech/Looping/Sandcastle.png"
+
+style="width:200px; text-align:left;">
+
+<h5>Materials Needed</h5>
+
+<ul>
+
+            <li>Activity sheet provided below.</li>
+
+            <li>Pencil or crayon</li>
+
+</ul>
+
+<h5>How to Play</h5>
+
+<p>In the storybook "How to Code a Sandcastle", Pearl and Pascal coded an entire kingdom with 3 instructions on a repeat mode.
+
+<ul>
+
+            <li>Fill the pail with sand.</li>
+
+            <li>Dump the sand on our spot.</li>
+
+            <li>Pat the sand down. </li>
+
+</ul>
+
+<p>Count the number of loops Pascal did to create each sandcastle and write it in the box.
+
+</p>
+
+<a href="/files/preschool/discovertech/Looping%20Activity\_Loop%20That%20Sandcastle.pdf" target="\_blank">Activity Sheet for Loop That Sandcastle</a><br>   
+
+<h5>Parents’ Pro Tip</h5>
+
+<p> Use coding-related language often.<br>
+
+To teach looping concepts at home, instead of telling your child to "do that again and again", say
+
+"repeat that 5 times". <br>
+
+That's the way we tell computers to loop a certain action in coding languages too.
+
+</p>
+
+<h4>Let's Watch!</h4>
+
+ <div class="row is-multiline margin--bottom--lg">
+
+ <div class="col is-four-fifths">
+
+     <div class="image"><a href="https://www.youtube.com/watch?v=r3Ti5Xp9W8A" target="\_blank">
+
+       <img src="/images/diyresources/preschool/discovertech/Looping/Looping%20video-2.png" style="width:500px; text-align:left;"></a>
+
+     </div>
+
+   </div>
+
+ <div class="col is-one-fifths">
+
+<b> What are Loops? | Coding for Kids | Kodable (3:41 mins) </b>
+
+   </div>
+
+ </div>
+
+ <p>A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.
+
+ </p>
+
+<h4>Let’s Read!</h4>
+
+ <div class="row is-multiline">
+
+   <div class="col is-half-tablet padding--bottom--lg">
+
+    <div class="image">
+
+       <a href=" https://nlb.overdrive.com/media/4502667 " target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+
+     </div>
+
+    <div class="text">
+
+       <p><b>How to Code a Rollercoaster</b><br>
+
+       <u>Author:</u> Josh Funk & Sara Palacios <br>
+
+       <u>Publisher:</u>New York : Viking, 2019<br>
+
+    </p></div>
+
+   </div>
+
+   <div class="col is-half-tablet padding--bottom--lg">
+
+    <div class="image">
+
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ ?SETLVL=&BRN=
+
+205290671" target="\_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
+
+    </div>
+
+    <div class="text">
+
+        <p><b>I Can Code : If/Then</b><br>
+
+        <u>Author:</u>Vicky Fang & Jade Orlando<br>
+
+        <u>Publisher:</u>Naperville, Illinois : Sourcebooks eXplore, 2020<br>
+
+     </p></div>
+
+  </div>
+
+ </div>
+
+ <div class="row </p></div>
+
+  </div>
+
+ </div> is-multiline">
+
+   <div class="col is-half-tablet padding--bottom--lg">
+
+    <div class="image">
+
+       <a href="https://nlb.overdrive.com/media/3878106" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+
+     </div>
+
+    <div class="text">
+
+       <p><b>Baby Loves Coding!</b><br>
+
+       <u>Author:</u>Ruth Spiro & Irene Chan<br>
+
+       <u>Publisher:</u>Watertown, MA : Charlesbridge, 2018<br>
+
+       </p></div>
+
+   </div>
+
+  <div class="col is-half-tablet padding--bottom--lg">
+
+    <div class="image">
+
+        <a href="https://nlb.overdrive.com/media/4829626" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/adi's%20perfect%20patterns.png" style="width:150px; text-align:left;"></a>
+
+    </div>
+
+   <div class="text">
+
+ <p><b>Adi’s Perfect Patterns and Loops</b><br>
+
+      <u>Author:</u>Caroline Karanja & Ben Whitehouse<br>
+
+ <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
+
+    </p></div>
+
+  </div>
+
+ </div>
+
+<div class="row is-multiline">
+
+   <div class="col is-half-tablet padding--bottom--lg">
+
+    <div class="image">
+
+       <a href="https://nlb.overdrive.com/media/3470716" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
+
+                                    </div>
+
+    <div class="text">
+
+       <p><b>How to Code a Sandcastle</b><br>
+
+       <u>Author:</u>Josh Funk & Sara Palacios <br>
+
+       <u>Publisher:</u> New York, New York : Viking, 2018<br>
+
+    </p></div>
+
+   </div>
+
+   <div class="col is-half-tablet padding--bottom--lg">
+
+    <div class="image">
+
+        <a href="https://nlb.overdrive.com/media/5404966" target="\_blank"><img src="/images/diyresources/preschool/discovertech/Looping/loops%20repeat%20repeat.png" style="width:150px; text-align:left;"></a>
+
+    </div>
+
+    <div class="text">
+
+<p><b>Loops: Repeat, repeat!</b><br>
+
+       <u>Author:</u>Patricia M. Stockland<br>
+
+       <u>Publisher:</u>North Mankato, MN : Cantata Learning, 2018<br>
+
+ </p></div>
+
+   </div>
+
+  </div>
+
+  <p>All book covers are copyright of the respective publishing companies.</p>
+
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

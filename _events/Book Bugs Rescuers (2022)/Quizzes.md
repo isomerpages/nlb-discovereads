@@ -14,6 +14,7 @@ Quizzes will be updated every month.
 * <a href="https://forms.gle/HL8sSy6MgocN8VgS8" target="_blank" rel="noopener noreferrer"> English Quiz</a>
 * <a href="https://forms.gle/soBAxEAgs8NgntSL7" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
 
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 
 ### June 2022 (Closed)
 This quiz has now closed. Points will be awarded by 7 July 2022, Thursday. All entries received after 30 June 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!

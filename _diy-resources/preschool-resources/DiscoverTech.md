@@ -219,12 +219,16 @@ Recall the concept of directions, to plan the algorithm to escape!<br>
 
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
      <div class="image"><a href="https://www.youtube.com/watch?v=Da5TOXCwLSg" target="_blank">
        <img src="/images/diyresources/preschool/discovertech/Algorithm/Algorithm%20BBC%20video.png" style="width:500px; text-align:left;"></a>
      </div>
-	<b> BBC Learning - What is an Algorithm? (1:08 mins) </b>
-<p>Watch this video to find out more about Algorithm through the example of brushing your teeth!
- </p>
+   </div>
+ <div class="col is-one-fifths">
+<b> BBC Learning - What is an Algorithm? (1:08 mins) </b>
+   </div>
+ </div>
+ <p>Watch this video to find out more about Algorithm through the example of brushing your teeth! </p>
 
 
 <h4>Let’s Read!</h4>

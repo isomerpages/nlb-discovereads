@@ -58,7 +58,7 @@ style="width:300px; text-align:left;">
 </ul>
 
 <h5>How to Play</h5>
-<p>a) Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship? 
+<p>(a) Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship? 
 
 (b) Can you identify the missing parts of the rocket ship? 
 </p>
@@ -67,25 +67,22 @@ style="width:300px; text-align:left;">
 
 
 <h5>Parents’ Pro Tip</h5> 
-<p> Use coding-related language often.<br>
-To teach looping concepts at home, instead of telling your child to "do that again and again", say 
-"repeat that 5 times". <br>
-That's the way we tell computers to loop a certain action in coding languages too.
+<p>Talk about shapes and colours with your child before trying out this activity. <br>
+For a hands-on approach, you can cut out the shapes needed to make the rocket ship from coloured foam sheets and build the rocket ship with your child.<br>
 </p>
-
 
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
-     <div class="image"><a href="https://www.youtube.com/watch?v=r3Ti5Xp9W8A" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Looping/Looping%20video-2.png" style="width:500px; text-align:left;"></a>
+     <div class="image"><a href="https://www.youtube.com/watch?v=w0PuL73lMQc" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-one-fifths">
-<b> What are Loops? | Coding for Kids | Kodable (3:41 mins) </b>
+<b> Coding for Kids | What is coding for kids? | Coding for beginners | Understanding Coding | Coding Words (3:17 mins) </b>
    </div>
  </div>
- <p>A loop is a command used to repeat a part of a code until a desired process is complete. Watch this video to find out more on why loops are important in programming.
+ <p>This video contains simple information for children to understand how conditional statements work in programming.
  </p>
 
 

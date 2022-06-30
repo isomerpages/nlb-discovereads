@@ -11,7 +11,7 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Decomposition!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
  
 <p> Decomposition is breaking down a computing task or problem into smaller parts so that it becomes easier. 
  <br><br>
@@ -47,12 +47,9 @@ To brush our teeth, we would need to:
 4) Wash your toothbrush and you are done!
 </p>
 
-
-
-
-<h4> Loop that Sandcastle </h4> 
-<img src="/images/diyresources/preschool/discovertech/Looping/Sandcastle.png"
-style="width:200px; text-align:left;">
+<h4> Blast Off, Rocket Ship! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+style="width:300px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>

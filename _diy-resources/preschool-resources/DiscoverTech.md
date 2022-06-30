@@ -84,7 +84,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  </div>
  <p>This video contains simple information for children to understand how conditional statements work in programming.
  </p>
-![](/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png)
+![](/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png)
 
 <h4>Let’s Read!</h4>
  <div class="row is-multiline">
@@ -126,11 +126,11 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/4829626" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/adi's%20perfect%20patterns.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
- <p><b>Adi’s Perfect Patterns and Loops</b><br>
-      <u>Author:</u>Caroline Karanja & Ben Whitehouse<br>
+ <p><b>Gabi's Fabulous Functions</b><br>
+      <u>Author:</u>Caroline Karanja<br>
  <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
     </p></div>
   </div>
@@ -138,7 +138,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3470716" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
 			</div>
     <div class="text">
        <p><b>How to Code a Sandcastle</b><br>
@@ -148,12 +148,12 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/5404966" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/loops%20repeat%20repeat.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/5404966" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-<p><b>Loops: Repeat, repeat!</b><br>
-       <u>Author:</u>Patricia M. Stockland<br>
-       <u>Publisher:</u>North Mankato, MN : Cantata Learning, 2018<br>
+<p><b>Algorithms & Sequencing</b><br>
+       <u>Author:</u>Teddy Borth<br>
+       <u>Publisher:</u>Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
  </p></div>
    </div>
   </div>

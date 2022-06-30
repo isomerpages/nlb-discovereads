@@ -8,7 +8,7 @@ third_nav_title: Preschool Resources
 
 **New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping!</a> | **New!*** <a href="#lp-branching">Let’s Learn About Branching!</a> | **New!*** <a href="#lp-debugging">Let's Learn About Debugging!</a> | 
 
-<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Decomposition!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-decomposition"><b> Let’s Learn About Decomposition!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
@@ -166,7 +166,7 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
 
 
 
-<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Algorithm!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-algorithm"><b> Let’s Learn About Algorithm!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <img src="/images/diyresources/preschool/discovertech/Algorithm/Robot2.png" style="width:200px; text-align:left;">

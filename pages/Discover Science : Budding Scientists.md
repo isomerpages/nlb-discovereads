@@ -7,7 +7,26 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!***</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!***</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a>
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a>
+
+<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
+ <p><b>Suitable for 3 to 6 years old children</b></p>
+
+<p>  Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!</p>
+
+</p><h4> LET’S LEARN</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
+ </p>
+ <p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
+   </div>
+ </div>
 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>

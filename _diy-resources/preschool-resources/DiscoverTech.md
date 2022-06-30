@@ -90,12 +90,12 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href=" https://nlb.overdrive.com/media/4502667 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+       <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>How to Code a Rollercoaster</b><br>
-       <u>Author:</u> Josh Funk & Sara Palacios <br>
-       <u>Publisher:</u>New York : Viking, 2019<br>
+       <p><b>Code academy and The Code Confusion!</b><br>
+       <u>Author:</u> Kirsty Holmes <br>
+       <u>Publisher:</u>King's Lynn, Norfolk, BookLife Publishing, 2019<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">

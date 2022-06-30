@@ -46,6 +46,17 @@ description: ""
  </p>
    </div>
  </div>
+ 
+ <h4>LET'S TRY!</h4>
+<p>You may use these slides to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
+
+ Which stage of the life cycle are you at?
+
+Why do you think it is called a “cycle”? Can you tell from the shape?
+
+How are the life cycles of the different animals similar? How are they different? 
+
+ 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

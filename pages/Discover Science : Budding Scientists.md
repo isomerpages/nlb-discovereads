@@ -177,7 +177,7 @@ description: ""
     <div class="text">
         <p><b>About Marine Animals</b><br>
         <u>By:</u> Cathryn Sill<br>
-        <u>Publisher:</u>Atlanta : Peachtree Publishing Company, 2021<br>
+        <u>Publisher:</u> Atlanta : Peachtree Publishing Company, 2021<br>
      </p></div>
   </div>
  </div>

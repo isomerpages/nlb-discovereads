@@ -54,6 +54,10 @@ description: ""
 <li>Why do you think it is called a “cycle”? Can you tell from the shape? <i>Hint: Think about a biCYCLE and its wheels!</i>
 <li>How are the life cycles of the different animals similar? How are they different? <i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
 
+<p>Feel free to ask them about their favourite animal and look up the life cycle of that animal together. You can find out more about life cycle of animals from the library’s collection:
+<br>Section: Early Literacy Picture Books / Non-Fiction
+<br>Call Number: 590s
+	</p>
  
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>

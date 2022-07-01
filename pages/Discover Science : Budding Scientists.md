@@ -126,6 +126,12 @@ description: ""
  </p>
    </div>
  </div>
+ <h4>LET'S GET CRAFTY!</h4>
+<p>Let’s get ourselves familiar with the life cycle of a…butterfly! </p>
+<h4>Tips for Parents:</h4> 
+<p>Before you start, encourage your child to first find out the different stages in the life cycle of a butterfly through books! They can seek factual answers from non-fiction books.</p>
+<p>If these craft materials are not immediately available to you, you may download and print <a href="/files/science-lfa/Animal%20Life%20Cycles/butterflylifecycle-activitysheets.pdf" target="_blank">these activity sheets</a> to also fill in the life cycle of a butterfly with your child!</p>
+
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

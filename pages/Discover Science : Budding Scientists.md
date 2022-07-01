@@ -67,13 +67,13 @@ description: ""
  </div>
 <p>You may use these <a href="/files/science-lfa/Animal%20Life%20Cycles/AnimalLifeCycles.pdf" target="_blank ">slides</a> to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
 
-<li>Which stage of the life cycle are you at? <i>Hint: Probably a toddler!</i>
-<li>Why do you think it is called a “cycle”? Can you tell from the shape? <i>Hint: Think about a biCYCLE and its wheels!</i>
-<li>How are the life cycles of the different animals similar? How are they different? <i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
+<li>Which stage of the life cycle are you at? <br><i>Hint: Probably a toddler!</i>
+<li>Why do you think it is called a “cycle”? Can you tell from the shape? <br><i>Hint: Think about a biCYCLE and its wheels!</i>
+<li>How are the life cycles of the different animals similar? How are they different? <br><i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
 
 <p>Feel free to ask them about their favourite animal and look up the life cycle of that animal together. You can find out more about life cycle of animals from the library’s collection:
-<br>Section: Early Literacy Picture Books / Non-Fiction
-<br>Call Number: 590s
+	<br><b>Section:</b> Early Literacy Picture Books / Non-Fiction
+	<br><b>Call Number:</b> 590s
 	</p>
  <h4>Tips for Parents:</h4> 
 <p>Allow children to make connections to what they are learning and reading to their own lived experiences. By relating to new information better, they not only better understand it but you can also use opportunities in real life to revise their newfound knowledge! For example, on a walk in the park, ask them what animal can they spot? What do they think their life cycle is? </p>

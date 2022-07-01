@@ -135,10 +135,10 @@ description: ""
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-three-fifths">
  <p><b> Steps</b><br>
- 1. Draw an ‘X’ on the paper plate. There should be 4 segments to represent each stage of the life cycle.<br>
- 2. Using the crepe paper, cut out the shape of a leaf and stick it on the first slice. Add cotton balls on top of the leaf. Label ‘Eggs’ on the plate rim just above the leaf.<br>
- 3. Twist a twist wire around a pen to form a caterpillar and stick it onto the segment that is to the right of the eggs stage. Label ‘Caterpillar’ on the plate rim for this stage.<br>
- 4. Cut a short piece of the twist wire to use as a twig. With a small rectangular slip of crepe paper, twist both ends of the paper to form the chrysalis for this pupa stage. Stick both the twist wire and the crepe paper on the segment to the right of the caterpillar stage. Label ‘Pupa’ on the plate rim accordingly<br>
+ 1. Draw an ‘X’ on the paper plate. There should be 4 segments to represent each stage of the life cycle.<br><br>
+ 2. Using the crepe paper, cut out the shape of a leaf and stick it on the first slice. Add cotton balls on top of the leaf. Label ‘Eggs’ on the plate rim just above the leaf.<br><br>
+ 3. Twist a twist wire around a pen to form a caterpillar and stick it onto the segment that is to the right of the eggs stage. Label ‘Caterpillar’ on the plate rim for this stage.<br><br>
+ 4. Cut a short piece of the twist wire to use as a twig. With a small rectangular slip of crepe paper, twist both ends of the paper to form the chrysalis for this pupa stage. Stick both the twist wire and the crepe paper on the segment to the right of the caterpillar stage. Label ‘Pupa’ on the plate rim accordingly<br><br>
  5. For the last segment, cut a few pieces of different coloured crepe paper to be of the same shape. Using a twist wire, twist it around the centre of the stacked pieces of crepe paper. Stick it on the last empty piece on the plate and label “Butterfly” on the plate rim. 
 </p>
    </div>

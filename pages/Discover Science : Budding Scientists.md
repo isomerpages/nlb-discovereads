@@ -157,6 +157,54 @@ description: ""
  </div>
 <h4>TRY THIS!</h4>
 <p>Allow your child to pick out their favourite book with an animal as the main character. Show them real images of the animal when it is a baby and when it is a fully grown. Relate these images to the stages of their own life cycle! E.g. A lion cub is like a young human child, while an adult lion is like the fully grown adult parent!</p>
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>It’s Fun To Learn About My Body</b><br>
+       <u>Author:</u>Arianne Holden<br>
+       <u>Publisher:</u> London: Armadillo Books, [2015]<br>
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Curious Questions And Answers About….My Body</b><br>
+        <u>Author:</u> Anne Rooney and Ana Gomez (illustrator)<br>
+        <u>Publisher:</u>New York, NY: Windmill Books, an imprint of Rosen Publishing, 2021<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> My Body</b><br>
+       <u>Author:</u>Jaclyn Crupi, Patrizia Donaera (illustrator) and Jane Porter (illustrator)<br>
+       <u>Publisher:</u> London: Ladybird Books, [2014]<br>
+       </p></div>
+   </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13373223" target="_blank"><img src="/images/science-lfa/Human%20body/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Thank You For Me!</b><br>
+      <u>Author:</u> Marion Dane Bauer and Kristina Stephenson (illustrator)<br>
+ <u>Publisher:</u> New York: Simon & Schuster Books for Young Readers, 2010<br>
+ </p></div>
+  </div>
+ </div><p>All book covers are copyright of the respective publishing companies.</p>
+ 
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  
@@ -320,7 +368,6 @@ like a flamingo and so on.</p>
    </div>
  </div>
 <h4>LET'S READ!</h4><br>
-
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">

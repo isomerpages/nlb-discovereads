@@ -165,7 +165,7 @@ description: ""
      </div>
     <div class="text">
        <p><b>Life Cycle of a Duck</b><br>
-       <u>Author:</u> Kirsty Holmes<br>
+       <u>By:</u> Kirsty Holmes<br>
        <u>Publisher:</u> New York, NY : KidHaven Publishing, an imprint of Greenhaven Publishing, LLC, 2022<br>
     </p></div>
          </div>
@@ -174,9 +174,9 @@ description: ""
         <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
     </div>
     <div class="text">
-        <p><b>Curious Questions And Answers About….My Body</b><br>
-        <u>Author:</u> Anne Rooney and Ana Gomez (illustrator)<br>
-        <u>Publisher:</u>New York, NY: Windmill Books, an imprint of Rosen Publishing, 2021<br>
+        <p><b>About Marine Animals</b><br>
+        <u>By:</u> Cathryn Sill<br>
+        <u>Publisher:</u>Atlanta : Peachtree Publishing Company, 2021<br>
      </p></div>
   </div>
  </div>
@@ -186,9 +186,9 @@ description: ""
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b> My Body</b><br>
-       <u>Author:</u>Jaclyn Crupi, Patrizia Donaera (illustrator) and Jane Porter (illustrator)<br>
-       <u>Publisher:</u> London: Ladybird Books, [2014]<br>
+       <p><b>Platypus</b><br>
+       <u>By:</u> Jessica Rudolph<br>
+       <u>Publisher:</u> New York : Bearport Publishing, 2019<br>
        </p></div>
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
@@ -196,9 +196,9 @@ description: ""
         <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13373223" target="_blank"><img src="/images/science-lfa/Human%20body/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
- <p><b>Thank You For Me!</b><br>
-      <u>Author:</u> Marion Dane Bauer and Kristina Stephenson (illustrator)<br>
- <u>Publisher:</u> New York: Simon & Schuster Books for Young Readers, 2010<br>
+ <p><b>What Do Animals Need to Survive?</b><br>
+      <u>By:</u> Lisa M. Bolt Simons<br>
+ <u>Publisher:</u> North Mankato, Minnesota : Pebble, a Capstone imprint, [2021]<br>
  </p></div>
   </div>
  </div><p>All book covers are copyright of the respective publishing companies.</p>

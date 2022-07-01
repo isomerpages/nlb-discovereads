@@ -29,8 +29,8 @@ description: ""
  
 <h4> LET’S SING!</h4>
 <p>Introduce the theme of animals by beginning with a fun song! Ask your child to think about what sounds animals make and invite them to make some animal noises together.</p>
-<img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;">
-<img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;">
+<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;"></a>
+<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;"></a>
 <p>After this, you may then watch videos or listen to audio recordings of how the animals sound like in real life to pique your child’s curiosity and allow them to make the connections between what they are learning and what happens in real life.</p>
 <h4>LET'S WATCH!</h4>
  <h5>The Life Cycle Song</h5>   
@@ -48,13 +48,166 @@ description: ""
  </div>
  
  <h4>LET'S TRY!</h4>
-<p>You may use these slides to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-one-third">
+    <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/humanlifecycle.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-one-third">
+     <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/pandalifecycle.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+	 <div class="col is-one-third">
+     <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/horselifecycle.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ </div>
+<p>You may use these <a href="/files/science-lfa/Animal%20Life%20Cycles/AnimalLifeCycles.pdf" target="_blank ">slides</a> to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
 
-<li>Which stage of the life cycle are you at? <i>Hint: Probably a toddler!</i>
-<li>Why do you think it is called a “cycle”? Can you tell from the shape? <i>Hint: Think about a biCYCLE and its wheels!</i>
-<li>How are the life cycles of the different animals similar? How are they different? <i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
+<li>Which stage of the life cycle are you at? <br><i>Hint: Probably a toddler!</i>
+<li>Why do you think it is called a “cycle”? Can you tell from the shape? <br><i>Hint: Think about a biCYCLE and its wheels!</i>
+<li>How are the life cycles of the different animals similar? How are they different? <br><i>Hint: Some animals may have 3 stages in their life cycles, while others may have 4. Are the names of the stages the same for all animals?</i>
 
+<p>Feel free to ask them about their favourite animal and look up the life cycle of that animal together. You can find out more about life cycle of animals from the library’s collection:
+	<br><b>Section:</b> Early Literacy Picture Books / Non-Fiction
+	<br><b>Call Number:</b> 590s
+	</p>
+ <h4>Tips for Parents:</h4> 
+<p>Allow children to make connections to what they are learning and reading to their own lived experiences. By relating to new information better, they not only better understand it but you can also use opportunities in real life to revise their newfound knowledge! For example, on a walk in the park, ask them what animal can they spot? What do they think their life cycle is? </p>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <a href="/files/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.png" style="width:200px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>After that, time to put on our thinking hats! Click on the image for an activity sheet about the life cycle of a cat. Work together with your child to figure out the different stages in the life cycle. <i>Psst, there are some hints on the page!</i>
+ </p>
+   </div>
+ </div>
+<h4>LET'S APPLY!</h4>
+<p>Have you heard of the story “The Ugly Duckling”? Here are some books to enjoy this beloved fairy tale with your child! Encourage your child to think about life cycles while reading the book.</p>	
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+203957484" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyduckling-1.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>The Ugly Duckling</b><br>
+				 <u>By:</u> Melanie Joyce & Giuseppe Di Lernia (Illustrator)
+				 <br><u>Publisher:</u> New York : DK Publishing, 2019
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205739376" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyduckling-2.jpg" style="width:160px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>The Ugly Duckling</b><br>
+        <u>By:</u> Marc A. Cerasini & Kim Mitzo Thompson (Illustrator)<br>
+        <u>Publisher:</u> Akron : Twin Sisters Digital Media , 2021<br>
+     </p></div>
+  </div>
+ </div>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <a href="/files/theuglyducklinglifecycles-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyducklinglifecycles-activitysheet.png" style="width:200px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>After reading the story, have your child try out this activity sheet about the life cycles happening in the story of “The Ugly Duckling”! They might need some help with unfamiliar words so do guide them on how they can look for information through non-fiction books or searching the Internet.</p>
+	 <p>Compare the life cycles between the duck and the cat. What are the differences?</p>
+   </div>
+ </div>
+ <h4>LET'S GET CRAFTY!</h4>
+<p>Let’s get ourselves familiar with the life cycle of a…butterfly! </p>
+<h4>Tips for Parents:</h4> 
+<p>Before you start, encourage your child to first find out the different stages in the life cycle of a butterfly through books! They can seek factual answers from non-fiction books.</p>
+<p>If these craft materials are not immediately available to you, you may download and print <a href="/files/science-lfa/Animal%20Life%20Cycles/butterflylifecycle-activitysheets.pdf" target="_blank">these activity sheets</a> to also fill in the life cycle of a butterfly with your child!</p>
+<img src="/images/science-lfa/Animal%20Life%20Cycles/craftmaterials.png" style="width:600px; text-align:center;">
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-three-fifths">
+ <p><b> Steps</b><br>
+ 1. Draw an ‘X’ on the paper plate. There should be 4 segments to represent each stage of the life cycle.<br><br>
+ 2. Using the crepe paper, cut out the shape of a leaf and stick it on the first slice. Add cotton balls on top of the leaf. Label ‘Eggs’ on the plate rim just above the leaf.<br><br>
+ 3. Twist a twist wire around a pen to form a caterpillar and stick it onto the segment that is to the right of the eggs stage. Label ‘Caterpillar’ on the plate rim for this stage.<br><br>
+ 4. Cut a short piece of the twist wire to use as a twig. With a small rectangular slip of crepe paper, twist both ends of the paper to form the chrysalis for this pupa stage. Stick both the twist wire and the crepe paper on the segment to the right of the caterpillar stage. Label ‘Pupa’ on the plate rim accordingly<br><br>
+ 5. For the last segment, cut a few pieces of different coloured crepe paper to be of the same shape. Using a twist wire, twist it around the centre of the stacked pieces of crepe paper. Stick it on the last empty piece on the plate and label “Butterfly” on the plate rim. 
+</p>
+	 <p><i>Craft reference: Chelsey. (2020, February 11). Butterfly Life Cycle Paper Plate Craft. Buggy and Buddy. Retrieved June 4, 2022, from https://buggyandbuddy.com/butterfly-life-cycle-craft/</i></p>
+   </div>
+  <div class="col is-two-fifths">
+     <br><br><br>Step 1<div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/step1.png" style="width:200px; text-align:left;">
+     </div>
+     Step 3<div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/step3.png" style="width:200px; text-align:left;">
+     </div>
+		Step 5<div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/step5.png" style="width:200px; text-align:left;">
+     </div>
+ </div>
+ </div>
+<h4>TRY THIS!</h4>
+<p>Allow your child to pick out their favourite book with an animal as the main character. Show them real images of the animal when it is a baby and when it is a fully grown. Relate these images to the stages of their own life cycle! E.g. A lion cub is like a young human child, while an adult lion is like the fully grown adult parent!</p>
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205550789" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/lifecycleofaduck.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Life Cycle of a Duck</b><br>
+       <u>By:</u> Kirsty Holmes<br>
+       <u>Publisher:</u> New York, NY : KidHaven Publishing, an imprint of Greenhaven Publishing, LLC, 2022<br>
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205596827" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/aboutmarineanimals.jpg" style="width:160px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>About Marine Animals</b><br>
+        <u>By:</u> Cathryn Sill<br>
+        <u>Publisher:</u> Atlanta : Peachtree Publishing Company, 2021<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+203875277" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/platypus.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Platypus</b><br>
+       <u>By:</u> Jessica Rudolph<br>
+       <u>Publisher:</u> New York : Bearport Publishing, 2019<br>
+       </p></div>
+   </div>
+ <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205500743" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/whatdoanimalsneedtosurvive.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>What Do Animals Need to Survive?</b><br>
+      <u>By:</u> Lisa M. Bolt Simons<br>
+ <u>Publisher:</u> North Mankato, Minnesota : Pebble, a Capstone imprint, [2021]<br>
+ </p></div>
+  </div>
+ </div><p>All book covers are copyright of the respective publishing companies.</p>
  
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  
@@ -218,7 +371,6 @@ like a flamingo and so on.</p>
    </div>
  </div>
 <h4>LET'S READ!</h4><br>
-
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">

@@ -141,6 +141,7 @@ description: ""
  4. Cut a short piece of the twist wire to use as a twig. With a small rectangular slip of crepe paper, twist both ends of the paper to form the chrysalis for this pupa stage. Stick both the twist wire and the crepe paper on the segment to the right of the caterpillar stage. Label ‘Pupa’ on the plate rim accordingly<br><br>
  5. For the last segment, cut a few pieces of different coloured crepe paper to be of the same shape. Using a twist wire, twist it around the centre of the stacked pieces of crepe paper. Stick it on the last empty piece on the plate and label “Butterfly” on the plate rim. 
 </p>
+	 <p><i>Craft reference: Chelsey. (2020, February 11). Butterfly Life Cycle Paper Plate Craft. Buggy and Buddy. Retrieved June 4, 2022, from https://buggyandbuddy.com/butterfly-life-cycle-craft/</i></p>
    </div>
   <div class="col is-two-fifths">
      <br><br><br>Step 1<div class="image">

@@ -29,8 +29,8 @@ description: ""
  
 <h4> LET’S SING!</h4>
 <p>Introduce the theme of animals by beginning with a fun song! Ask your child to think about what sounds animals make and invite them to make some animal noises together.</p>
-<img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;">
-<img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;">
+<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;"></a>
+<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;"></a>
 <p>After this, you may then watch videos or listen to audio recordings of how the animals sound like in real life to pique your child’s curiosity and allow them to make the connections between what they are learning and what happens in real life.</p>
 <h4>LET'S WATCH!</h4>
  <h5>The Life Cycle Song</h5>   

@@ -48,6 +48,23 @@ description: ""
  </div>
  
  <h4>LET'S TRY!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-one-third">
+    <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/humanlifecycle.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ <div class="col is-one-third">
+     <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/pandalifecycle.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+	 <div class="col is-one-third">
+     <div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/horselifecycle.png" style="width:400px; text-align:left;">
+     </div>
+   </div>
+ </div>
 <p>You may use these slides to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
 
 <li>Which stage of the life cycle are you at? <i>Hint: Probably a toddler!</i>

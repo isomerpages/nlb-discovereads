@@ -114,6 +114,18 @@ description: ""
      </p></div>
   </div>
  </div>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <a href="/files/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>After reading the story, have your child try out this activity sheet about the life cycles happening in the story of “The Ugly Duckling”! They might need some help with unfamiliar words so do guide them on how they can look for information through non-fiction books or searching the Internet.</p>
+	 <p>Compare the life cycles between the duck and the cat. What are the differences? </p>
+ </p>
+   </div>
+ </div>
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

@@ -196,7 +196,8 @@ description: ""
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13373223" target="_blank"><img src="/images/science-lfa/Human%20body/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205500743" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/whatdoanimalsneedtosurvive.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>What Do Animals Need to Survive?</b><br>

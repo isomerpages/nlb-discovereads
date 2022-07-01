@@ -143,11 +143,14 @@ description: ""
 </p>
    </div>
   <div class="col is-two-fifths">
-     <br><br><br>Step 2<div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png" style="width:200px; text-align:left;">
+     <br><br><br>Step 1<div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/step1.png" style="width:200px; text-align:left;">
      </div>
-     Step 4<div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png" style="width:200px; text-align:left;">
+     Step 3<div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/step3.png" style="width:200px; text-align:left;">
+     </div>
+		Step 5<div class="image">
+       <img src="/images/science-lfa/Animal%20Life%20Cycles/step5.png" style="width:200px; text-align:left;">
      </div>
  </div>
  </div>

@@ -88,7 +88,30 @@ description: ""
  </p>
    </div>
  </div>
-	
+<h4>LET'S APPLY!</h4>
+<p>Have you heard of the story “The Ugly Duckling”? Here are some books to enjoy this beloved fairy tale with your child! Encourage your child to think about life cycles while reading the book.</p>	
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>The Ugly Duckling</b><br>
+				 <u>By:</u> Melanie Joyce & Giuseppe Di Lernia (Illustrator)
+				 <br><u>Publisher:</u> New York : DK Publishing, 2019
+    </p></div>
+         </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>The Ugly Duckling</b><br>
+        <u>By:</u> Marc A. Cerasini & Kim Mitzo Thompson (Illustrator)<br>
+        <u>Publisher:</u> Akron : Twin Sisters Digital Media , 2021<br>
+     </p></div>
+  </div>
+ </div>
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

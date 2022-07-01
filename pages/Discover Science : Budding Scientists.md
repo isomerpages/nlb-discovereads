@@ -123,7 +123,6 @@ description: ""
  <div class="col is-three-fifths">
      <p>After reading the story, have your child try out this activity sheet about the life cycles happening in the story of “The Ugly Duckling”! They might need some help with unfamiliar words so do guide them on how they can look for information through non-fiction books or searching the Internet.</p>
 	 <p>Compare the life cycles between the duck and the cat. What are the differences?</p>
- </p>
    </div>
  </div>
  <h4>LET'S GET CRAFTY!</h4>

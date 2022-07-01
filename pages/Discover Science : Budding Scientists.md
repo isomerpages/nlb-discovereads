@@ -93,7 +93,8 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+203957484" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyduckling-1.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>The Ugly Duckling</b><br>
@@ -103,7 +104,8 @@ description: ""
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205739376" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyduckling-2.jpg" style="width:160px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>The Ugly Duckling</b><br>

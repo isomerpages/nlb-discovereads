@@ -77,6 +77,18 @@ description: ""
 	</p>
  <h4>Tips for Parents:</h4> 
 <p>Allow children to make connections to what they are learning and reading to their own lived experiences. By relating to new information better, they not only better understand it but you can also use opportunities in real life to revise their newfound knowledge! For example, on a walk in the park, ask them what animal can they spot? What do they think their life cycle is? </p>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image">
+       <a href="/files/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.png" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p>After that, time to put on our thinking hats! Click on the image for an activity sheet about the life cycle of a cat. Work together with your child to figure out the different stages in the life cycle. Psst, there are some hints on the page!
+ </p>
+   </div>
+ </div>
+	
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

@@ -172,7 +172,8 @@ description: ""
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+205596827" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/aboutmarineanimals.jpg" style="width:160px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>About Marine Animals</b><br>

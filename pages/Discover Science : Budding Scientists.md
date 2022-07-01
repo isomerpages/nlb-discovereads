@@ -75,7 +75,8 @@ description: ""
 <br>Section: Early Literacy Picture Books / Non-Fiction
 <br>Call Number: 590s
 	</p>
- 
+ <h4>Tips for Parents:</h4> 
+<p>Allow children to make connections to what they are learning and reading to their own lived experiences. By relating to new information better, they not only better understand it but you can also use opportunities in real life to revise their newfound knowledge! For example, on a walk in the park, ask them what animal can they spot? What do they think their life cycle is? </p>
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

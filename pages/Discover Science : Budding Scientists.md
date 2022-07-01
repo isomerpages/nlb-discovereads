@@ -164,9 +164,9 @@ description: ""
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>It’s Fun To Learn About My Body</b><br>
-       <u>Author:</u>Arianne Holden<br>
-       <u>Publisher:</u> London: Armadillo Books, [2015]<br>
+       <p><b>Life Cycle of a Duck</b><br>
+       <u>Author:</u> Kirsty Holmes<br>
+       <u>Publisher:</u> New York, NY : KidHaven Publishing, an imprint of Greenhaven Publishing, LLC, 2022<br>
     </p></div>
          </div>
   <div class="col is-half-tablet padding--bottom--lg">

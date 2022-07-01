@@ -155,7 +155,8 @@ description: ""
      </div>
  </div>
  </div>
-
+<h4>TRY THIS!</h4>
+<p>Allow your child to pick out their favourite book with an animal as the main character. Show them real images of the animal when it is a baby and when it is a fully grown. Relate these images to the stages of their own life cycle! E.g. A lion cub is like a young human child, while an adult lion is like the fully grown adult parent!</p>
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  

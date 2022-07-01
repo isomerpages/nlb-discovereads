@@ -84,7 +84,7 @@ description: ""
      </div>
    </div>
  <div class="col is-three-fifths">
-     <p>After that, time to put on our thinking hats! Click on the image for an activity sheet about the life cycle of a cat. Work together with your child to figure out the different stages in the life cycle. Psst, there are some hints on the page!
+     <p>After that, time to put on our thinking hats! Click on the image for an activity sheet about the life cycle of a cat. Work together with your child to figure out the different stages in the life cycle. <i>Psst, there are some hints on the page!</i>
  </p>
    </div>
  </div>

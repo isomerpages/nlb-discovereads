@@ -185,7 +185,8 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=  
+203875277" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/platypus.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Platypus</b><br>

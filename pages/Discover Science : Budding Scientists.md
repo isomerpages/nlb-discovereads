@@ -117,7 +117,7 @@ description: ""
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <a href="/files/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.png" style="width:400px; text-align:left;"></a>
+       <a href="/files/theuglyducklinglifecycles-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyducklinglifecycles-activitysheet.png" style="width:400px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">

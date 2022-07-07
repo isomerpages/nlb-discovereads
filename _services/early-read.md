@@ -19,3 +19,7 @@ Our library services and resources are centered on early literacy practices that
 <img src="/images/earlyliteracyskills.png" alt="Early Literacy Skills" style="width:80%">
 
 Click [here](/diy-resources/preschool/preschool-main) to learn more.
+
+Do join us for our range of Early READ programmes :
+
+<img src="/images/earlyliteracyskills.png" alt="Early Literacy Skills" style="width:80%">

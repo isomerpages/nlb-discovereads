@@ -22,4 +22,4 @@ Click [here](/diy-resources/preschool/preschool-main) to learn more.
 
 Do join us for our range of Early READ programmes :
 
-<img src="/images/earlyreadprogs.jpg" alt="Early Literacy Skills" style="width:80%">
+<a href="https://go.gov.sg/earlyread-progsfor0to6“><img src="/images/earlyreadprogs.jpg" alt="Early Read Programmes" style="width:80%"></a>

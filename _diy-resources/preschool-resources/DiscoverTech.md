@@ -12,47 +12,34 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-sequences"><b> Let’s Learn About Sequences!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="images/diyresources/preschool/discovertech/Sequencing/sequence_main%20image.png" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequences_main%20image.png" style="width:200px; text-align:left;">
  
-<p> Decomposition is breaking down a computing task or problem into smaller parts so that it becomes easier. 
+<p> Doing things in the correct sequence is important. A programmer needs to teach computers or robots to do things in the correct order. 
  <br><br>
-Share with your child that decomposition occurs in daily activities such as brushing one's teeth, reading a book and making breakfast. All of these can be broken down into smaller steps.
+For example, you should wash your vegetables before cooking them. If you wash them after cooking, you will end up eating soggy food!
 </p>
 
-<h4>Sandwich Robot Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+<h4>Building Block Sequencing Activity </h4> 
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_building%20block%20activity.png" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
-	<li> A few slices of bread </li>
-<li> Any of your child's favourite sandwich fillings- cheese, tomatoes, lettuce, jam, butter, sliced meat etc. which are already available at home </li>
-	<li> Plastic knife </li>
-		<li> Plate </li>
+	<li> 26 Building Blocks such as Lego Duplo </li>
+<li> Alphabet  Stickers or Erasable Markers</li>
 </ul>
 
 <h5>How to Play</h5>
- <p> Get your child to be a Sandwich Robot and you will be the Computer Programmer. Start by giving step-by-step instructions (decomposition) to your Robot on how to construct a yummy sandwich. Keep the steps short and clear. 
-
-If your Robot gets it wrong- for example, doing too much, too little, or the wrong thing -- tell them, Stop! Robot Malfunction!
-
-Keep going until you have a finished sandwich, served on a plate and ready to eat!<br>
+ <p> Paste the each letter of the alphabet sticker on the side of the building blocks (or use the marker to write the letters). Stack the blocks in alphabetical order and remove one (or two). Get your child to find out which one is missing. 
+<br>
 	
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. 
+<p>Introduce your child to the alphabet before trying the activity. For older children, you can use the blocks to spell simple words. Remove 1 letter from a word and have your child figure out which is the missing letter! You may need to add more blocks as some words such as "eggs" repeat the same letter.
 	
-To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
-
-To brush our teeth, we would need to:
-<br>1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
-<br>2.  Brush your teeth<br>
-<br>3.  Rinse your mouth with water<br>
-<br>4.  Wash your toothbrush and you are done!<br>
-
 </p>
 
-<h4> Blast Off, Rocket Ship! </h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+<h4> Robot, Brush your Teeth! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_brush%20your%20teeth%20activity.png"
 style="width:300px; text-align:left;">
 
 <h5>Materials Needed</h5>

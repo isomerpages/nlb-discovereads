@@ -39,20 +39,20 @@ For example, you should wash your vegetables before cooking them. If you wash th
 </p>
 
 <h4> Robot, Brush your Teeth! </h4> 
-<img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_brush%20your%20teeth%20activity.png"
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequences_robotbrush.png"
 style="width:300px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
 	<li>Activity sheet provided below.</li>
-	<li>Coloured paper or foam sheets cut into basic shapes in different sizes (optional)</li>
+	<li>Printed arrows (optional)</li>
 </ul>
 
 <h5>How to Play</h5>
 <p>
-<br>1. Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship?<br> 
-
-<br>2. Can you identify the missing parts of the rocket ship? <br>
+<br>Your robot friend, Ida is not afraid of water and wants to learn how to brush her teeth! <br> 
+<br>Teach Ida to brush her teeth by numbering the steps below correctly from 1 to 5. <br>
+<br>You can also cut out the jigsaw pieces and fit them together in the correct order! <br>
 </p>
 
 <a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>

@@ -16,7 +16,7 @@ Early Literacy is what children know about reading or writing before they actual
 
 Our library services and resources are centered on early literacy practices that help children develop these early literacy skills. 
 
-<img src="/images/earlyliteracyskills.png" alt="Early Literacy Skills" style="width:80%">
+<img src="/images/earlyliteracyskills.png" alt="Early Literacy Skills" style="width:60%">
 
 Click [here](/diy-resources/preschool/preschool-main) to learn more.
 

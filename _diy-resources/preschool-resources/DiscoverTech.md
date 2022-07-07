@@ -9,6 +9,163 @@ third_nav_title: Preschool Resources
 
 **New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
+<h3 class="margin--bottom--lg" id="lp-sequences"><b> Let’s Learn About Sequences!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="images/diyresources/preschool/discovertech/Sequencing/sequence_main%20image.png" style="width:200px; text-align:left;">
+ 
+<p> Decomposition is breaking down a computing task or problem into smaller parts so that it becomes easier. 
+ <br><br>
+Share with your child that decomposition occurs in daily activities such as brushing one's teeth, reading a book and making breakfast. All of these can be broken down into smaller steps.
+</p>
+
+<h4>Sandwich Robot Activity</h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li> A few slices of bread </li>
+<li> Any of your child's favourite sandwich fillings- cheese, tomatoes, lettuce, jam, butter, sliced meat etc. which are already available at home </li>
+	<li> Plastic knife </li>
+		<li> Plate </li>
+</ul>
+
+<h5>How to Play</h5>
+ <p> Get your child to be a Sandwich Robot and you will be the Computer Programmer. Start by giving step-by-step instructions (decomposition) to your Robot on how to construct a yummy sandwich. Keep the steps short and clear. 
+
+If your Robot gets it wrong- for example, doing too much, too little, or the wrong thing -- tell them, Stop! Robot Malfunction!
+
+Keep going until you have a finished sandwich, served on a plate and ready to eat!<br>
+	
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. 
+	
+To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
+
+To brush our teeth, we would need to:
+<br>1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
+<br>2.  Brush your teeth<br>
+<br>3.  Rinse your mouth with water<br>
+<br>4.  Wash your toothbrush and you are done!<br>
+
+</p>
+
+<h4> Blast Off, Rocket Ship! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+style="width:300px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li>Activity sheet provided below.</li>
+	<li>Coloured paper or foam sheets cut into basic shapes in different sizes (optional)</li>
+</ul>
+
+<h5>How to Play</h5>
+<p>
+<br>1. Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship?<br> 
+
+<br>2. Can you identify the missing parts of the rocket ship? <br>
+</p>
+
+<a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Talk about shapes and colours with your child before trying out this activity. <br>
+For a hands-on approach, you can cut out the shapes needed to make the rocket ship from coloured foam sheets and build the rocket ship with your child.<br>
+</p>
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=w0PuL73lMQc" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> Coding for Kids | What is coding for kids? | Coding for beginners | Understanding Coding | Coding Words (3:17 mins) </b>
+   </div>
+ </div>
+ <p>This video contains simple information for children to understand how conditional statements work in programming.
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
+205506582
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Code Academy and The Code Confusion!</b><br>
+       <u>Author:</u> Kirsty Holmes <br>
+       <u>Publisher:</u>King's Lynn, Norfolk, BookLife Publishing, 2019<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href=" https://nlb.overdrive.com/media/5294867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_ava.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Ava in Code Land</b><br>
+        <u>Author:</u>Jess Hitchman & Gavin Cullen<br>
+        <u>Publisher:</u>New York  : Feiwel and Friends, 2020<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/3916980" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Breaking Down Tasks : Using Decomposition </b><br>
+       <u>Author:</u>Elizabeth Schmermund<br>
+       <u>Publisher:</u> New York : Cavendish Square, 2018<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Gabi's Fabulous Functions</b><br>
+      <u>Author:</u>Caroline Karanja<br>
+ <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
+    </p></div>
+  </div>
+ </div>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
+			</div>
+    <div class="text">
+       <p><b>Algorithms & Sequencing</b><br>
+       <u>Author:</u> Teddy Borth <br>
+       <u>Publisher:</u> Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/3469750" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_doll.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+<p><b>Doll-E 1.0</b><br>
+       <u>Author:</u>Shanda McCloskey<br>
+       <u>Publisher:</u>New York : Little, Brown and Company, 2018<br>
+ </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+	
 <h3 class="margin--bottom--lg" id="lp-decomposition"><b> Let’s Learn About Decomposition!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  

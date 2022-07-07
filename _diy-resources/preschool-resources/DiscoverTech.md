@@ -7,7 +7,7 @@ third_nav_title: Preschool Resources
 ![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/Looping/DiscoverTech%20Eventbrite%20Banner.jpg)
 
 
-**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+**New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 <h3 class="margin--bottom--lg" id="lp-sequences"><b> Let’s Learn About Sequences!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

@@ -92,7 +92,7 @@ style="width:300px; text-align:left;">
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href=" catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116649 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_order%20matters.png" style="width:150px; text-align:left;"></a>
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116649  " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_order%20matters.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Sequences: Order Matters!</b><br>
@@ -106,7 +106,7 @@ style="width:300px; text-align:left;">
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202579375 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_adas%20ideas.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202579375 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_adas%20ideas.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Ada's Ideas : The Story of Ada Lovelace, the World's First Computer Programmer</b><br>

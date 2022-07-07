@@ -19,7 +19,3 @@ Our library services and resources are centered on early literacy practices that
 <img src="/images/earlyliteracyskills.png" alt="Early Literacy Skills" style="width:60%">
 
 Click [here](/diy-resources/preschool/preschool-main) to learn more.
-
-Join us for our range of Early READ programmes targeted at children aged 0 to 6 years old. Click on the banner below for the respective links:
-
-<a href="https://go.gov.sg/earlyread-progsfor0to6"><img src="/images/earlyreadprogs.jpg" alt="Early Read Programmes" style="width:90%"></a>

@@ -116,7 +116,6 @@ style="width:300px; text-align:left;">
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
   
- </p></div>
    </div>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>

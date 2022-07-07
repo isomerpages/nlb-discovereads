@@ -55,26 +55,25 @@ style="width:300px; text-align:left;">
 <br>You can also cut out the jigsaw pieces and fit them together in the correct order! <br>
 </p>
 
-<a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>
+<a href="/files/preschool/discovertech/Sequences%20-Activity%20sheet.pd" target="_blank">Activity Sheet for Robot, Brush Your Teeth!</a><br>
 
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Talk about shapes and colours with your child before trying out this activity. <br>
-For a hands-on approach, you can cut out the shapes needed to make the rocket ship from coloured foam sheets and build the rocket ship with your child.<br>
+<p>Create similar activities for your child by breaking down other daily tasks (such as wearing shoes) into smaller steps and asking your child to rearrange them in the right order!<br>
 </p>
 
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
-     <div class="image"><a href="https://www.youtube.com/watch?v=w0PuL73lMQc" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+     <div class="image"><a href="https://www.youtube.com/watch?v=zW3YZdPmCnM" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_video.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-one-fifths">
-<b> Coding for Kids | What is coding for kids? | Coding for beginners | Understanding Coding | Coding Words (3:17 mins) </b>
+<b> Sequencing I Lesson 3 | Camp Coding Camp (3:53 mins) </b>
    </div>
  </div>
- <p>This video contains simple information for children to understand how conditional statements work in programming.
+ <p>Sequencing focuses on the order of things. Learn about how a computer needs to have correct step-by-step instructions with this fun sequencing coding song.
  </p>
 
 
@@ -82,24 +81,23 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
-205506582
-" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205433332 
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_nerdycorn.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Code Academy and The Code Confusion!</b><br>
-       <u>Author:</u> Kirsty Holmes <br>
-       <u>Publisher:</u>King's Lynn, Norfolk, BookLife Publishing, 2019<br>
+       <p><b>Nerdycorn</b><br>
+       <u>Author:</u> Andrew Root <br>
+       <u>Publisher:</u>New York : Beach Lane Books, 2021<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href=" https://nlb.overdrive.com/media/5294867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_ava.png" style="width:150px; text-align:left;"></a>
+        <a href=" catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116649 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_order%20matters.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-        <p><b>Ava in Code Land</b><br>
-        <u>Author:</u>Jess Hitchman & Gavin Cullen<br>
-        <u>Publisher:</u>New York  : Feiwel and Friends, 2020<br>
+        <p><b>Sequences: Order Matters!</b><br>
+        <u>Author:</u>Nadia Higgins <br>
+        <u>Publisher:</u>North Mankato, MN : Cantata Learning, 2018<br>
      </p></div>
   </div>
  </div>
@@ -108,44 +106,16 @@ For a hands-on approach, you can cut out the shapes needed to make the rocket sh
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3916980" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png" style="width:150px; text-align:left;"></a>
+       <a href="catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202579375 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_adas%20ideas.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Breaking Down Tasks : Using Decomposition </b><br>
-       <u>Author:</u>Elizabeth Schmermund<br>
-       <u>Publisher:</u> New York : Cavendish Square, 2018<br>
+       <p><b>Ada's Ideas : The Story of Ada Lovelace, the World's First Computer Programmer</b><br>
+       <u>Author:</u>Fiona Robinson <br>
+       <u>Publisher:</u> New York : Abrams Books for Young Readers, 2016<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
-    </div> 
-   <div class="text">
- <p><b>Gabi's Fabulous Functions</b><br>
-      <u>Author:</u>Caroline Karanja<br>
- <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
-    </p></div>
-  </div>
- </div>
-<div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
-			</div>
-    <div class="text">
-       <p><b>Algorithms & Sequencing</b><br>
-       <u>Author:</u> Teddy Borth <br>
-       <u>Publisher:</u> Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
-    </p></div>
-   </div>
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-        <a href="https://nlb.overdrive.com/media/3469750" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_doll.png" style="width:150px; text-align:left;"></a>
-    </div>
-    <div class="text">
-<p><b>Doll-E 1.0</b><br>
-       <u>Author:</u>Shanda McCloskey<br>
-       <u>Publisher:</u>New York : Little, Brown and Company, 2018<br>
+  
  </p></div>
    </div>
   </div>

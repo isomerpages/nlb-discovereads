@@ -19,7 +19,7 @@ third_nav_title: Preschool Resources
 </p>
 
 <h4>Animals Come Alive! Activity </h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_animals%20come%20alive.png" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>

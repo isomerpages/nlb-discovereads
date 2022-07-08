@@ -7,7 +7,275 @@ third_nav_title: Preschool Resources
 ![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/Looping/DiscoverTech%20Eventbrite%20Banner.jpg)
 
 
-**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+**New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+	
+<h3 class="margin--bottom--lg" id="lp-augmentedreality"><b> Let’s Learn About Augmented Reality!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_main%20image.png" style="width:200px; text-align:left;">
+ 
+<p> Augmented Reality (AR) “augments” your experience of the world around you. Augment means "to add". Virtual objects are added to our environment. AR combines our real world with the virtual world to make our reality better and more interesting!
+ 
+</p>
+
+<h4>Animals Come Alive! Activity </h4> 
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_ABC.jpg" style="width:300px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li> "ABC Animals, Alphabet in Motion" book by Sarina Simon (see "Book Recommendations")</li>
+<li> A digital device </li>
+	<li> The "ABC Animals AR" app by North South Studios, available free on IOS and Android </li>
+		
+</ul>
+
+<h5>How to Play</h5>
+ <p> Use the app alongside the book, and discover adorable animals with your child, while helping them learn the alphabet!  
+
+Read the book aloud with your child and ask them the questions on the page related to each letter and animal. 
+
+Then, point your device at the photographs in the book and watch as the still images on the page magically transform into motion videos, revealing the answers to the questions asked.<br>
+	
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Read the books below with your child one time first without using the AR apps. Let them get familiar with the characters and the storyline before introducing the app to them. 
+They might get too distracted with the app by then to focus on the story! This will also allow them to fully appreciate how the added use of AR elevates their reading experience.
+
+</p>
+
+<h4> Stories Come Alive! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Stories%20Come%20Alive.png"
+style="width:300px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li>Arbi and the Fire Breathing Dragon" by Iker Burguera (see "Book Recommendations")</li>
+	<li>A digital device  </li>
+	<li>The “Arbi Augmented Reality” app by Educa Reality, available free on IOS and Android  </li>
+</ul>
+
+<h5>How to Play</h5>
+<p>
+Read the book with your child while using the app. Not only will you be able to watch the story come alive on your device, but you will also get to answer pop quiz questions too! <br>
+
+Encourage your child to get curious and interact freely with the 3D elements in the book. Play around with the camera angles. Zoom in and zoom out. Fold and rotate the pages. Tilt the book back and forth. The possibilities are endless! <br>
+
+You can even do a fun photoshoot with your child! Take some photos of your child posing with some of the AR animations. Let them express themselves and get creative with the poses!
+	
+</p>
+
+<a
+	 href="/files/preschool/discovertech/Augmented%20Reality_Activity.pdf" target="_blank">Activity Sheet for Stories Come Alive!</a><br>
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Take some time to introduce the app to your child first and walk them through how they can use it. You can be the one using it initially for the first few pages of the book before letting them have a go later once they have observed you do so.
+</p>
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=XX993jgeQ0M" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_video.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> What is Augmented Reality and How Does it Work? | Mashable Explains (2:21 mins)</b>
+   </div>
+ </div>
+ <p>A short and entertaining video explaining what Augmented Reality actually is and providing us with real life examples of the use of AR today.
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
+203188461
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Rainy%20weather.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Rainy Weather: A 4D Book</b><br>
+       <u>Author:</u> Sally Lee <br>
+       <u>Publisher:</u>North Mankato, Minnesota: Pebble, a Capstone imprint, 2018<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203190921" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_curious%20pearl.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Curious Pearl Tinkers with Simple Machines</b><br>
+        <u>Author:</u>Eric Braun<br>
+        <u>Publisher:</u>North Mankato, Minnesota: Picture Window Books, 2019<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203112926" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_ABC.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>ABC Animals: Alphabet in Motion </b><br>
+       <u>Author:</u>Sarina Simon<br>
+       <u>Publisher:</u> Los Angeles, California : NorthSouth Studios LLC, 2016<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
+203111950
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Arbi.png" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Arbi and the Fire Breathing Dragon</b><br>
+      <u>Author:</u>Iker Burguera<br>
+ <u>Publisher:</u>United States : CreateSpace, 2015<br>
+    </p></div>
+  </div>
+ </div>
+<div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203119693" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Arbi%20treasure.png" style="width:150px; text-align:left;"></a>
+			</div>
+    <div class="text">
+       <p><b>Arbi and the Treasure Chest</b><br>
+       <u>Author:</u> Iker Burguera<br>
+       <u>Publisher:</u> United States: Createspace, 2016<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203112802" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_dragons.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+<p><b>Dragons Come to Life!</b><br>
+       <u>Author:</u>Emily Stead<br>
+       <u>Publisher:</u>London: Carlton Books Limited, 2017<br>
+ </p></div>
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+	
+<h3 class="margin--bottom--lg" id="lp-sequences"><b> Let’s Learn About Sequences!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequences_main%20image.png" style="width:200px; text-align:left;">
+ 
+<p> Doing things in the correct sequence is important. A programmer needs to teach computers or robots to do things in the correct order. 
+ <br><br>
+For example, you should wash your vegetables before cooking them. If you wash them after cooking, you will end up eating soggy food!
+</p>
+
+<h4>Building Block Sequencing Activity </h4> 
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_building%20block%20activity.png" style="width:500px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li> 26 Building Blocks such as Lego Duplo </li>
+<li> Alphabet  Stickers or Erasable Markers</li>
+</ul>
+
+<h5>How to Play</h5>
+ <p> Paste the each letter of the alphabet sticker on the side of the building blocks (or use the marker to write the letters). Stack the blocks in alphabetical order and remove one (or two). Get your child to find out which one is missing. 
+<br>
+	
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Introduce your child to the alphabet before trying the activity. For older children, you can use the blocks to spell simple words. Remove 1 letter from a word and have your child figure out which is the missing letter! You may need to add more blocks as some words such as "eggs" repeat the same letter.
+	
+</p>
+
+<h4> Robot, Brush your Teeth! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Sequencing/sequences_robotbrush.png"
+style="width:300px; text-align:left;">
+
+<h5>Materials Needed</h5>
+<ul>
+	<li>Activity sheet provided below.</li>
+	<li>Printed arrows (optional)</li>
+</ul>
+
+<h5>How to Play</h5>
+<p>
+<br>Your robot friend, Ida is not afraid of water and wants to learn how to brush her teeth! <br> 
+<br>Teach Ida to brush her teeth by numbering the steps below correctly from 1 to 5. <br>
+<br>You can also cut out the jigsaw pieces and fit them together in the correct order! <br>
+</p>
+
+<a href="/files/preschool/discovertech/Sequences%20-Activity%20sheet.pdf" target="_blank">Activity Sheet for Robot, Brush Your Teeth!</a><br>
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p>Create similar activities for your child by breaking down other daily tasks (such as wearing shoes) into smaller steps and asking your child to rearrange them in the right order!<br>
+</p>
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=zW3YZdPmCnM" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_video.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> Sequencing I Lesson 3 | Camp Coding Camp (3:53 mins) </b>
+   </div>
+ </div>
+ <p>Sequencing focuses on the order of things. Learn about how a computer needs to have correct step-by-step instructions with this fun sequencing coding song.
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205433332 
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_nerdycorn.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Nerdycorn</b><br>
+       <u>Author:</u> Andrew Root <br>
+       <u>Publisher:</u>New York : Beach Lane Books, 2021<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116649  " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_order%20matters.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Sequences: Order Matters!</b><br>
+        <u>Author:</u>Nadia Higgins <br>
+        <u>Publisher:</u>North Mankato, MN : Cantata Learning, 2018<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202579375 " target="_blank"><img src="/images/diyresources/preschool/discovertech/Sequencing/sequence_adas%20ideas.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Ada's Ideas : The Story of Ada Lovelace, the World's First Computer Programmer</b><br>
+       <u>Author:</u>Fiona Robinson <br>
+       <u>Publisher:</u> New York : Abrams Books for Young Readers, 2016<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+  
+   </div>
+  </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 	
 <h3 class="margin--bottom--lg" id="lp-decomposition"><b> Let’s Learn About Decomposition!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

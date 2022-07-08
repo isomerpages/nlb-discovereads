@@ -19,7 +19,7 @@ third_nav_title: Preschool Resources
 </p>
 
 <h4>Animals Come Alive! Activity </h4> 
-<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_ABC.jpg" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_ABC.jpg" style="width:300px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>

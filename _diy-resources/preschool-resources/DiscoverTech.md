@@ -64,7 +64,8 @@ You can even do a fun photoshoot with your child! Take some photos of your child
 	
 </p>
 
-<a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>
+<a
+	 href=/files/preschool/discovertech/Augmented%20Reality_Activity.pdf" target="_blank">Activity Sheet for Stories Come Alive!</a><br>
 
 
 <h5>Parents’ Pro Tip</h5> 
@@ -208,7 +209,7 @@ style="width:300px; text-align:left;">
 <br>You can also cut out the jigsaw pieces and fit them together in the correct order! <br>
 </p>
 
-<a href="/files/preschool/discovertech/Sequences%20-Activity%20sheet.pd" target="_blank">Activity Sheet for Robot, Brush Your Teeth!</a><br>
+<a href="/files/preschool/discovertech/Sequences%20-Activity%20sheet.pdf" target="_blank">Activity Sheet for Robot, Brush Your Teeth!</a><br>
 
 
 <h5>Parents’ Pro Tip</h5> 

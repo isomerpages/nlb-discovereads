@@ -141,12 +141,12 @@ You can even do a fun photoshoot with your child! Take some photos of your child
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205531425" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_algorithms&sequencing.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203119693" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Arbi%20treasure.png" style="width:150px; text-align:left;"></a>
 			</div>
     <div class="text">
-       <p><b>Algorithms & Sequencing</b><br>
-       <u>Author:</u> Teddy Borth <br>
-       <u>Publisher:</u> Minneapolis, Minnesota : Pop!, a division of ABDO, 2022<br>
+       <p><b>Arbi and the Treasure Chest</b><br>
+       <u>Author:</u> Iker Burguera<br>
+       <u>Publisher:</u> United States: Createspace, 2016<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">

@@ -117,12 +117,12 @@ You can even do a fun photoshoot with your child! Take some photos of your child
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3916980" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_breaking%20down.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203112926" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_ABC.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Breaking Down Tasks : Using Decomposition </b><br>
-       <u>Author:</u>Elizabeth Schmermund<br>
-       <u>Publisher:</u> New York : Cavendish Square, 2018<br>
+       <p><b>ABC Animals: Alphabet in Motion </b><br>
+       <u>Author:</u>Sarina Simon<br>
+       <u>Publisher:</u> Los Angeles, California : NorthSouth Studios LLC, 2016<br>
        </p></div>
    </div>
   <div class="col is-half-tablet padding--bottom--lg">

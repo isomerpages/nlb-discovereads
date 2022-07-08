@@ -75,8 +75,8 @@ You can even do a fun photoshoot with your child! Take some photos of your child
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
-     <div class="image"><a href="https://www.youtube.com/watch?v=w0PuL73lMQc" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+     <div class="image"><a href="https://www.youtube.com/watch?v=XX993jgeQ0M" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_video.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-one-fifths">

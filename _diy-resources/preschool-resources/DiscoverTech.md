@@ -19,52 +19,49 @@ third_nav_title: Preschool Resources
 </p>
 
 <h4>Animals Come Alive! Activity </h4> 
-<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_animals%20come%20alive.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_ABC.jpg" style="width:500px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
-	<li> A few slices of bread </li>
-<li> Any of your child's favourite sandwich fillings- cheese, tomatoes, lettuce, jam, butter, sliced meat etc. which are already available at home </li>
-	<li> Plastic knife </li>
-		<li> Plate </li>
+	<li> "ABC Animals, Alphabet in Motion" book by Sarina Simon (see "Book Recommendations")</li>
+<li> A digital device </li>
+	<li> The "ABC Animals AR" app by North South Studios, available free on IOS and Android </li>
+		
 </ul>
 
 <h5>How to Play</h5>
- <p> Get your child to be a Sandwich Robot and you will be the Computer Programmer. Start by giving step-by-step instructions (decomposition) to your Robot on how to construct a yummy sandwich. Keep the steps short and clear. 
+ <p> Use the app alongside the book, and discover adorable animals with your child, while helping them learn the alphabet!  
 
-If your Robot gets it wrong- for example, doing too much, too little, or the wrong thing -- tell them, Stop! Robot Malfunction!
+Read the book aloud with your child and ask them the questions on the page related to each letter and animal. 
 
-Keep going until you have a finished sandwich, served on a plate and ready to eat!<br>
+Then, point your device at the photographs in the book and watch as the still images on the page magically transform into motion videos, revealing the answers to the questions asked.<br>
 	
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Before the activity, explain to your child that robots need very specific and step by step instructions to execute the task correctly even if it seems obvious to us. 
-	
-To illustrate this, you can use an everyday routine that your child is familiar with such as brushing their teeth. 
-
-To brush our teeth, we would need to:
-<br>1.  	Pick up the toothbrush, wet it and add toothpaste on it<br>
-<br>2.  Brush your teeth<br>
-<br>3.  Rinse your mouth with water<br>
-<br>4.  Wash your toothbrush and you are done!<br>
+<p>Read the books below with your child one time first without using the AR apps. Let them get familiar with the characters and the storyline before introducing the app to them. 
+They might get too distracted with the app by then to focus on the story! This will also allow them to fully appreciate how the added use of AR elevates their reading experience.
 
 </p>
 
-<h4> Blast Off, Rocket Ship! </h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+<h4> Stories Come Alive! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Stories%20Come%20Alive.png"
 style="width:300px; text-align:left;">
 
 <h5>Materials Needed</h5>
 <ul>
-	<li>Activity sheet provided below.</li>
-	<li>Coloured paper or foam sheets cut into basic shapes in different sizes (optional)</li>
+	<li>Arbi and the Fire Breathing Dragon" by Iker Burguera (see "Book Recommendations")</li>
+	<li>A digital device  </li>
+	<li>The “Arbi Augmented Reality” app by Educa Reality, available free on IOS and Android  </li>
 </ul>
 
 <h5>How to Play</h5>
 <p>
-<br>1. Break down, or decompose, the rocket ship below. Can you identify all the different shapes found on the rocket ship?<br> 
+Read the book with your child while using the app. Not only will you be able to watch the story come alive on your device, but you will also get to answer pop quiz questions too! <br>
 
-<br>2. Can you identify the missing parts of the rocket ship? <br>
+Encourage your child to get curious and interact freely with the 3D elements in the book. Play around with the camera angles. Zoom in and zoom out. Fold and rotate the pages. Tilt the book back and forth. The possibilities are endless! <br>
+
+You can even do a fun photoshoot with your child! Take some photos of your child posing with some of the AR animations. Let them express themselves and get creative with the poses!
+	
 </p>
 
 <a href="/files/preschool/discovertech/Blast%20off,%20Rocket%20Ship.pdf" target="_blank">Activity Sheet for Blast Off, Rocket Ship!</a><br>

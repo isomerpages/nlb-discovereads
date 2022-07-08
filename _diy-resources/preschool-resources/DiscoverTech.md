@@ -80,10 +80,10 @@ You can even do a fun photoshoot with your child! Take some photos of your child
      </div>
    </div>
  <div class="col is-one-fifths">
-<b> Coding for Kids | What is coding for kids? | Coding for beginners | Understanding Coding | Coding Words (3:17 mins) </b>
+<b> What is Augmented Reality and How Does it Work? | Mashable Explains (2:21 mins)</b>
    </div>
  </div>
- <p>This video contains simple information for children to understand how conditional statements work in programming.
+ <p>A short and entertaining video explaining what Augmented Reality actually is and providing us with real life examples of the use of AR today.
  </p>
 
 

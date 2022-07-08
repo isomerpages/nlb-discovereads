@@ -106,9 +106,9 @@ You can even do a fun photoshoot with your child! Take some photos of your child
         <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203190921" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_curious%20pearl.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-        <p><b>Ava in Code Land</b><br>
-        <u>Author:</u>Jess Hitchman & Gavin Cullen<br>
-        <u>Publisher:</u>New York  : Feiwel and Friends, 2020<br>
+        <p><b>Curious Pearl Tinkers with Simple Machines</b><br>
+        <u>Author:</u>Eric Braun<br>
+        <u>Publisher:</u>North Mankato, Minnesota: Picture Window Books, 2019<br>
      </p></div>
   </div>
  </div>

@@ -127,12 +127,14 @@ You can even do a fun photoshoot with your child! Take some photos of your child
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
+203111950
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Arbi.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
- <p><b>Gabi's Fabulous Functions</b><br>
-      <u>Author:</u>Caroline Karanja<br>
- <u>Publisher:</u>North Mankato, Minnesota : Picture Window Books, 2018<br>
+ <p><b>Arbi and the Fire Breathing Dragon</b><br>
+      <u>Author:</u>Iker Burguera<br>
+ <u>Publisher:</u>United States : CreateSpace, 2015<br>
     </p></div>
   </div>
  </div>

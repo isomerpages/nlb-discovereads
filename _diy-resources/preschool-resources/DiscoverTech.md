@@ -69,8 +69,7 @@ You can even do a fun photoshoot with your child! Take some photos of your child
 
 
 <h5>Parents’ Pro Tip</h5> 
-<p>Talk about shapes and colours with your child before trying out this activity. <br>
-For a hands-on approach, you can cut out the shapes needed to make the rocket ship from coloured foam sheets and build the rocket ship with your child.<br>
+<p>Take some time to introduce the app to your child first and walk them through how they can use it. You can be the one using it initially for the first few pages of the book before letting them have a go later once they have observed you do so.
 </p>
 
 <h4>Let's Watch!</h4>

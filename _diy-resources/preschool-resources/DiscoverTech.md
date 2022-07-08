@@ -151,12 +151,12 @@ You can even do a fun photoshoot with your child! Take some photos of your child
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/3469750" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_doll.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203112802" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_dragons.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
-<p><b>Doll-E 1.0</b><br>
-       <u>Author:</u>Shanda McCloskey<br>
-       <u>Publisher:</u>New York : Little, Brown and Company, 2018<br>
+<p><b>Dragons Come to Life!</b><br>
+       <u>Author:</u>Emily Stead<br>
+       <u>Publisher:</u>London: Carlton Books Limited, 2017<br>
  </p></div>
    </div>
   </div>

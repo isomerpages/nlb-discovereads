@@ -65,7 +65,7 @@ You can even do a fun photoshoot with your child! Take some photos of your child
 </p>
 
 <a
-	 href=/files/preschool/discovertech/Augmented%20Reality_Activity.pdf" target="_blank">Activity Sheet for Stories Come Alive!</a><br>
+	 href="/files/preschool/discovertech/Augmented%20Reality_Activity.pdf" target="_blank">Activity Sheet for Stories Come Alive!</a><br>
 
 
 <h5>Parents’ Pro Tip</h5> 

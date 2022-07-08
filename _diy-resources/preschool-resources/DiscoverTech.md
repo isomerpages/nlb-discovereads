@@ -103,7 +103,7 @@ You can even do a fun photoshoot with your child! Take some photos of your child
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href=" https://nlb.overdrive.com/media/5294867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_ava.png" style="width:150px; text-align:left;"></a>
+        <a href=" https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN= 203190921" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_curious%20pearl.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Ava in Code Land</b><br>

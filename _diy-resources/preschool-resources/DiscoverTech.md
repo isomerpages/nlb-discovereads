@@ -92,13 +92,13 @@ You can even do a fun photoshoot with your child! Take some photos of your child
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=
-205506582
-" target="_blank"><img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_code%20confusion.png" style="width:150px; text-align:left;"></a>
+203188461
+" target="_blank"><img src="/images/diyresources/preschool/discovertech/Augmented%20Reality/AR_Rainy%20weather.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
-       <p><b>Code Academy and The Code Confusion!</b><br>
-       <u>Author:</u> Kirsty Holmes <br>
-       <u>Publisher:</u>King's Lynn, Norfolk, BookLife Publishing, 2019<br>
+       <p><b>Rainy Weather: A 4D Book</b><br>
+       <u>Author:</u> Sally Lee <br>
+       <u>Publisher:</u>North Mankato, Minnesota: Pebble, a Capstone imprint, 2018<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">

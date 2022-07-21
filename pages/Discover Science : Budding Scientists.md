@@ -9,7 +9,7 @@ description: ""
  
 | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a> |
 
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
 
 <h3 class="margin--bottom--lg" id="lp-light"><b>Let There Be Light!</b></h3>
 
@@ -40,19 +40,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 
 <p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>  
 
-<h4>LET'S WATCH!</h4>
-<h5>MEDIUMS OF LIGHT</h5>   
-<div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-    <div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="_blank">
 
-<img src="/images/science-lfa/Light/Mediums%20of%20Light.png" style="width:400px; text-align:left;"></a>
-</div>
-</div>
-<div class="col is-two-fifths">
-		 <p><b> Differences Between Transparent, Translucent, Opaque | Light Experiment for Kids (3 min 09 secs) </b><br>In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.<p>
-	</div>
-</div>
 
 <h4>LET'S INVESTIGATE!</h4>
 <p><b>Experiment time!</b>

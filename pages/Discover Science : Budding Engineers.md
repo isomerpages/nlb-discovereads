@@ -13,20 +13,6 @@ description: ""
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 
-<h4>LET'S SING!</h4>
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-two-fifths">
-   <div class=image><a href="https://youtu.be/NwU3beZ9kcw" target="_blank">
-	 <img src="/images/science-lfa/Light/The%20Light%20Song.png" style="width:400px; text-align:left;"></a>
-     </div>
-   </div>
- <div class="col is-three-fifths">
-     <p><b> The LIGHT SONG | Science for Kids | Grades K-2 (0:59)</b><br>
- With catchy tunes, your child will learn about transparent, translucent, and opaque objects, as well as different types of light sources.
- </p>
-   </div>
- </div>
-<p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>
  
 <img src="/images/science-lfa/magnetic-rockets/magnet1%20or.png" style="width:400px; text-align:left;">
 

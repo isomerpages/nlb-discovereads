@@ -106,7 +106,7 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 																																												<img src="/images/science-lfa/Light/Light%207.jpg" style="width:800px; text-align:left;"><br></p>
 
 <h5>Instructions for Shadow Puppet</h5>
-<br><p><b>Instructions for Shadow Puppet</b><br>
+<br><b>Instructions for Shadow Puppet</b>
 
 1.  Cut the shapes out of the <a href="https://go.gov.sg/shadow-puppet-template" target="\_blank">template</a> provided and paste them onto the rectangular cut-outs you saved earlier.<br>
     

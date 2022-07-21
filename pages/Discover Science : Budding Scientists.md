@@ -42,6 +42,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 </div>
 
 <p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>  
+
 <h4>LET'S WATCH!</h4>
 <h5>MEDIUMS OF LIGHT</h5>   
 <div class="row is-multiline margin--bottom--lg">
@@ -49,20 +50,12 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
     <div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="_blank">
 
 <img src="/images/science-lfa/Light/Mediums%20of%20Light.png" style="width:400px; text-align:left;"></a>
-
 </div>
 </div>
-
-   <div class="col is-two-fifths">
-
-   <p><b> Differences Between Transparent, Translucent, Opaque | Light Experiment for Kids (3 min 09 secs) </b><br>In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.<p>
-
-</div>
-
-</div>
-
-<div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
+		 <p><b> Differences Between Transparent, Translucent, Opaque | Light Experiment for Kids (3 min 09 secs) </b><br>In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.<p>
+</div>
+</div>
 
 
 <h4>LET'S INVESTIGATE!</h4>
@@ -71,9 +64,8 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
   
  <b>Materials required:</b></p>
 <img src="/images/science-lfa/Light/Light%202.jpg" style="width:800px; text-align:left;"><br>
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-three-fifths">
-<p>Click <a href="https://go.gov.sg/let-there-be-light-worksheet" target="\_blank">here</a> to get your printable experiment worksheet!<p>
+ 
+<p>Click <a href="https://go.gov.sg/let-there-be-light-worksheet" target="_blank">here</a> to get your printable experiment worksheet!</p>
 
  <br><p><b> Steps</b><br>
 
@@ -81,25 +73,24 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 
 2. Use a torchlight and shine the light through each object.<br>
 	 
-3. Circle the right answers.<br>
+3. Circle the right answers.<br></p>
 
 <h5>Tips for Parents:</h5>
 
-<p>By allowing your child to engage in prediction and observation, you are also introducing them to mathematical concepts of classification and characteristics, on top of learning about physical sciences. Model behaviour by allowing your child to say what they have observed and introduce STEAM vocabulary in your discussion!<p>
+<p>By allowing your child to engage in prediction and observation, you are also introducing them to mathematical concepts of classification and characteristics, on top of learning about physical sciences. Model behaviour by allowing your child to say what they have observed and introduce STEAM vocabulary in your discussion!</p>
 
 <h4>LET’S TRY THIS AT HOME!<h4>
 <h5>DIY Shadow Puppet<h5>
 
-<b>Materials required:</b></p>
+<p><b>Materials required:</b></p>
 
  <img src="/images/science-lfa/Light/Light%203.jpg" style="width:800px; text-align:left;"><br>
- <div class="row is-multiline margin--bottom--lg">
- <div class="col is-three-fifths">
-<p>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="\_blank">here</a>.
 
-Oh, and you need some imagination to create your own stories with shadows.<p>
+<p>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">here</a>.
 
-<br><p><b>Instructions for Shadow Puppet Theatre</b><br>
+Oh, and you need some imagination to create your own stories with shadows.</p>
+
+	<br><p><b>Instructions for Shadow Puppet Theatre</b></p><br>
 
 1.  Tape the box up well so that it will be sturdy and closed.<br>
     
@@ -117,7 +108,7 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 <img src="/images/science-lfa/Light/Light%206.jpg" style="width:800px; text-align:left;"><br>
 
 6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story!
- <img src="/images/science-lfa/Light/Light%207.jpg" style="width:800px; text-align:left;"><br>
+																																												<img src="/images/science-lfa/Light/Light%207.jpg" style="width:800px; text-align:left;"><br></p>
 																																												 
 <h5>Instructions for Shadow Puppet<h5>
 <br><p><b>Instructions for Shadow Puppet</b><br>

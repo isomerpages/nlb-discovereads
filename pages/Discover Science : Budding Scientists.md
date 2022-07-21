@@ -128,53 +128,6 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
    </div>
  </div>
  
- <h4>LET'S READ!</h4>
-<div class="row is-multiline">
-	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205283500" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/lifecycleofaduck.jpg" style="width:150px; text-align:left;"></a>
-		</div>
-		<div class="text">
-			<p><b>Fairy Science</b><br>
-			<u>By:</u> Ashley Spires<br>
-			<u>Publisher:</u> New York : Crown Books for Young Readers, \[2019\]<br>
-			</p>
-		</div>
-	</div>
-	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205603227" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/aboutmarineanimals.jpg" style="width:160px; text-align:left;"></a>
-		</div>
-		<div class="text">
-			<p><b>Experiments With Lights</b><br>
-			<u>By:</u> Mignonne Gunasekara<br>
-			<u>Publisher:</u> New York, NY : KidHaven Publishing, 2022<br>
-			</p>
-		</div>
-	</div>
-</div>
-
-<div class="row is-multiline">
-	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14645548" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/platypus.jpg" style="width:150px; text-align:left;"></a>
-		</div>
-		<div class="text">
-			<p><b>The Black Rabbit</b><br>
-			<u>By:</u> Philippa Leathers<br>
-			<u>Publisher:</u> Somerville, Mass. : Candlewick Press, 2013<br>
-			</p>
-		</div>
-	</div>
-	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202722296" target="\_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/whatdoanimalsneedtosurvive.jpg" style="width:150px; text-align:left;"></a>
-		</div> 
-		<div class="text">
-			<p><b>Groundhog's Runaway Shadow</b><br>
-			<u>By:</u> David Biedrzycki<br>
-			<u>Publisher:</u> Watertown, MA : Charlesbridge, \[2016\]<br>
-			</p>
-		</div>
-	</div>
-</div>
-<p>The copyright to all book covers belong to the relevant publishers or illustrators.</p>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

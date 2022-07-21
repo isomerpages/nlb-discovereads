@@ -128,7 +128,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
    </div>
  </div>
 
-<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
+<h3 class="margin--bottom--lg" id="lp-animals"><b>All About Animal Life Cycles </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
 
 <p>  Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!</p>

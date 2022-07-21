@@ -128,6 +128,8 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
    </div>
  </div>
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <h3 class="margin--bottom--lg" id="lp-animals"><b>All About Animal Life Cycles </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
 

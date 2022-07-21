@@ -96,7 +96,38 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <br>Let’s conduct an experiment using a torchlight to see whether light can shine through the materials. Print out the worksheet and complete the experiment.<br>
   
  <b>Materials required:</b></p>
+<img src="/images/science-lfa/Light/Light%202.jpg" style="width:800px; text-align:left;"><br>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-three-fifths">
+<p>Click <a href="https://go.gov.sg/let-there-be-light-worksheet" target="\_blank">here</a> to get your printable experiment worksheet!<p>
+
+ <br><p><b> Steps</b><br>
+
+1. With this worksheet, read through the questions together with your child.<br>
+
+2. Use a torchlight and shine the light through each object.<br>
+	 
+3. Circle the right answers.<br>
+
+<h5>Tips for Parents:</h5>
+
+<p>By allowing your child to engage in prediction and observation, you are also introducing them to mathematical concepts of classification and characteristics, on top of learning about physical sciences. Model behaviour by allowing your child to say what they have observed and introduce STEAM vocabulary in your discussion!<p>
+
+<h4>LET’S TRY THIS AT HOME!<h4>
+<h5>DIY Shadow Puppet<h5>
+
+<b>Materials required:</b></p>
+
+ <img src="/images/science-lfa/Light/Light%203.jpg" style="width:800px; text-align:left;"><br>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-three-fifths">
+<p>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="\_blank">here</a>.
+
+Oh, and you need some imagination to create your own stories with shadows.<p>
 	
+	
+
+
 
 
 

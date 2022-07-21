@@ -110,7 +110,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
  <h5>Tips for parents</h5>
 
 <p>Ask your child what will happen to the shadows if the distance between the light source and the shadow puppets increases or decreases. Will the shadows be bigger or smaller?</p> 
-<p>Try it!</p>
+<br>Try it!
 
 <h4>Let’s watch this video and find out more about light and shadows!</h4>
 

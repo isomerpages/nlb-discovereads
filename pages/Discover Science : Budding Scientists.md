@@ -161,31 +161,20 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 <p>Ask your child what will happen to the shadows if the distance between the light source and the shadow puppets increases or decreases. Will the shadows be bigger or smaller?<p> 
 <p>Try it!<p>
 
-**
-
 <h4>Let’s watch this video and find out more about light and shadows!<h4>
 
 <h5>WHAT MAKES A SHADOW?</h5>   
 <div class="row is-multiline margin--bottom--lg">
-
    <div class="col is-two-fifths">
 
      <div class="responsive-iframe-container ratio-16by9">
-
  <iframe src="https://www.youtube.com/watch?v=YuUJCNzfoBw" class="responsive-iframe"></iframe>
-
      </div>
-
    </div>
-
    <div class="col is-three-fifths">
-
     <p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4 min 59 secs) </b><br>In this introductory video, your child will learn about shadows. Shadows require an object and light source for its appearance. A shadow occurs when the light is stopped by an object. The shadows are likely to change its size depending on its position next to the light source.
-
 </p>
-
    </div>
-
  </div>
 	
 

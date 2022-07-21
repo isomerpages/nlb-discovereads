@@ -61,13 +61,13 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
  
 <p>Click <a href="https://go.gov.sg/let-there-be-light-worksheet" target="_blank">here</a> to get your printable experiment worksheet!</p>
 
- <br><p><b> Steps</b><br>
+ <br><b> Steps</b><br>
 
 1. With this worksheet, read through the questions together with your child.<br>
 
 2. Use a torchlight and shine the light through each object.<br>
 	 
-3. Circle the right answers.<br></p>
+3. Circle the right answers.<br>
 
 <h5>Tips for Parents:</h5>
 

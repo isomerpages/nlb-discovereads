@@ -168,7 +168,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 		<div class="text">
 			<p><b>Groundhog's Runaway Shadow</b><br>
 			<u>By:</u> David Biedrzycki<br>
-			<u>Publisher:</u> Watertown, MA : Charlesbridge, \[2016\]<br>
+			<u>Publisher:</u> Watertown, MA : Charlesbridge, [2016]<br>
 			</p>
 		</div>
 	</div>

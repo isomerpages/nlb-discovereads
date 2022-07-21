@@ -7,8 +7,9 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a>
+| <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a> |
 
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
 
 <h3 class="margin--bottom--lg" id="lp-light"><b>Let There Be Light!</b></h3>
 

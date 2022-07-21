@@ -133,12 +133,6 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 </p>
    </div>
  </div>
-	
-<h4>LET'S READ!</h4>
-
-
-
-
 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>

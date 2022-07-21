@@ -83,10 +83,9 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <b>Materials required:</b>
  <img src="/images/science-lfa/Light/Light%203.jpg" style="width:800px; text-align:left;"><br>
 <br>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">here</a>.
+<br>Oh, and you need some imagination to create your own stories with shadows.</p>
 
-<p>Oh, and you need some imagination to create your own stories with shadows.</p>
-
-<br><p><b>Instructions for Shadow Puppet Theatre</b></p><br>
+<p><b>Instructions for Shadow Puppet Theatre</b></p>
 
 <p>1.  Tape the box up well so that it will be sturdy and closed.<br></p>
     

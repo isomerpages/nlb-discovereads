@@ -9,6 +9,22 @@ description: ""
  
 | <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a>
 
+<h3 class="margin--bottom--lg" id="lp-light"><b>Let There Be Light!</b></h3>
+<p><b>Suitable for 4 to 6 years old children</b></p>
+<p> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
+
+<h4> LET’S LEARN!</h4>
+
+<img src="/images/science-lfa/Light/Light%201.jpg" style="width:600px; text-align:center;">
+
+<div class="row is-multiline margin--bottom--lg">
+
+<div class="col is-three-fifths">
+
+<p>The terms “transparent”, “translucent” and “opaque” are used to describe the extent to which certain objects allow light passes through objects. Transparent objects allow light to pass through completely; you can see intricate details such as colours through transparent objects. The term “translucent” indicates that light can flow through partially, where distinctive features are not as visible through such objects. Finally, opaque objects do not allow any light to pass through them. You can refer to the image below to see the difference.</i>
+ </p>
+
+
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
 

@@ -109,7 +109,7 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 2.  Cut the cardboard according to the shapes of the templates. You may stick the printed templates onto the cardboard first, with glue or tape, so that it is easier to cut out the shapes.<br>
     
 3.  Tape either craft sticks, or chopsticks to the back of the cardboards.
-<img src="/images/science-lfa/Light/Light%208.jpg" style="width:800px; text-align:left;"><br></p>
+<img src="/images/science-lfa/Light/Light%208.jpg" style="width:800px; text-align:left;"><br>
 <p> Now you've made your puppet theatre and your puppets. All you need now is to darken the room, use a lamp or a torchlight, and invite an audience to watch your brilliant performances!</p>
 
  <h5>Tips for parents</h5>

@@ -41,7 +41,7 @@ description: ""
 
 <div class="col is-two-fifths">
 
-	<p><b>The LIGHT SONG | Science for Kids | Grades K-2 (0:59)<b></p>
+	<p><b>The LIGHT SONG | Science for Kids | Grades K-2 (0:59)<b><br>
 With catchy tunes, your child will learn about transparent, translucent, and opaque objects, as well as different types of light sources.</p>
 
 </div>

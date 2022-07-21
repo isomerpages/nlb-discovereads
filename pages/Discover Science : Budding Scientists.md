@@ -26,7 +26,7 @@ description: ""
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
 
-<div class=image><a href="https://youtu.be/NwU3beZ9kcw" target="_blank">
+<div class=image><a href="https://www.youtube.com/watch?v=kmxhbT9a2jY" target="_blank">
 <img src="/images/science-lfa/Light/The%20Light%20Song.png" style="width:400px; text-align:left;"></a>
 </div>
 </div>

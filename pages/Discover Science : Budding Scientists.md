@@ -7,9 +7,177 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
  
-| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a>
+| <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a> |
 
-<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
+| <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> | <a href="#lp-apple">Why Do Apples Turn Brown?</a> |
+
+<h3 class="margin--bottom--lg" id="lp-light"><b>Let There Be Light!</b></h3>
+
+<p><b>Suitable for 4 to 6 years old children</b></p>
+
+<p> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p> 
+
+<h4> LET’S LEARN!</h4>
+<img src="/images/science-lfa/Light/Light%201.jpg" style="width:400px; text-align:center;">
+
+<p>The terms “transparent”, “translucent” and “opaque” are used to describe the extent to which certain objects allow light passes through objects. Transparent objects allow light to pass through completely; you can see intricate details such as colours through transparent objects. The term “translucent” indicates that light can flow through partially, where distinctive features are not as visible through such objects. Finally, opaque objects do not allow any light to pass through them. You can refer to the image below to see the difference.</p>
+
+<h4> LET’S SING!</h4>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+
+<div class=image><a href="https://www.youtube.com/watch?v=kmxhbT9a2jY" target="_blank">
+<img src="/images/science-lfa/Light/The%20Light%20Song.png" style="width:400px; text-align:left;"></a>
+</div>
+</div>
+
+<div class="col is-two-fifths">
+<p><b>The LIGHT SONG | Science for Kids | Grades K-2 (0:59)</b><br>
+With catchy tunes, your child will learn about transparent, translucent, and opaque objects, as well as different types of light sources.</p>
+
+</div>
+</div>
+
+<p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>  
+
+<h4>LET'S WATCH!</h4>
+<h5>MEDIUMS OF LIGHT</h5>   
+<div class="row is-multiline margin--bottom--lg">
+	<div class="col is-two-fifths">
+		<div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="_blank"><img src="/images/science-lfa/Light/Mediums%20of%20Light.png" style="width:400px; text-align:left;"></a>
+		</div>
+	</div>
+	<div class="col is-two-fifths">
+<p><b> Differences Between Transparent, Translucent, Opaque | Light Experiment for Kids (3 min 09 secs) </b><br>In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>
+	</div>
+</div>
+
+<h4>LET'S INVESTIGATE!</h4>
+<p><b>Experiment time!</b>
+<br>Let’s conduct an experiment using a torchlight to see whether light can shine through the materials. Print out the worksheet and complete the experiment.<br>
+  
+ <b>Materials required:</b></p>
+<img src="/images/science-lfa/Light/Light%202.jpg" style="width:800px; text-align:left;"><br>
+ 
+<p>Click <a href="https://go.gov.sg/let-there-be-light-worksheet" target="_blank">here</a> to get your printable experiment worksheet!</p>
+
+ <br><b> Steps</b><br>
+
+1. With this worksheet, read through the questions together with your child.<br>
+
+2. Use a torchlight and shine the light through each object.<br>
+	 
+3. Circle the right answers.<br>
+
+<h5>Tips for Parents:</h5>
+
+<p>By allowing your child to engage in prediction and observation, you are also introducing them to mathematical concepts of classification and characteristics, on top of learning about physical sciences. Model behaviour by allowing your child to say what they have observed and introduce STEAM vocabulary in your discussion!</p>
+
+<h4>LET’S TRY THIS AT HOME!</h4>
+<h5>DIY Shadow Puppet</h5>
+
+<b>Materials required:</b>
+ <img src="/images/science-lfa/Light/Light%203.jpg" style="width:800px; text-align:left;"><br>
+<br>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">here</a>.
+<br>Oh, and you need some imagination to create your own stories with shadows.</p>
+
+<p><b>Instructions for Shadow Puppet Theatre</b></p>
+
+<p>1.  Tape the box up well so that it will be sturdy and closed.<br></p>
+    
+<p>2.  Then, trace about 2cm away from the edges of the large faces of the box. Draw large rectangles on both sides of the box. These will serve as the ‘frame’ of your shadow theatre.
+<img src="/images/science-lfa/Light/Light%204.png" style="width:800px; text-align:left;"><br></p>
+
+<p>3.  Next, cut out the large rectangles that you just drew. Wait! Do not throw away the large rectangles. You can reuse them to make the shadow puppets. <img src="/images/science-lfa/Light/Light%205.jpg" style="width:800px; text-align:left;"><br></p>
+
+<p>4.  Find a sheet of translucent white or light-coloured paper. Tracing paper or baking paper, work well too.<br></p>
+    
+<p>5.  Tape the paper over the cut-out hole on one side of the box only. That side with the paper will be the one that faces your audience. The other side is where the torch light or the desk lamp will be shining from. <img src="/images/science-lfa/Light/Light%206.jpg" style="width:800px; text-align:left;"><br></p>
+
+<p>6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story! <img src="/images/science-lfa/Light/Light%207.jpg" style="width:800px; text-align:left;"><br></p>
+
+<h5>Instructions for Shadow Puppet</h5>
+<br><b>Instructions for Shadow Puppet</b>
+
+1.  Cut the shapes out of the <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">template</a> provided and paste them onto the rectangular cut-outs you saved earlier.<br>
+    
+2.  Cut the cardboard according to the shapes of the templates. You may stick the printed templates onto the cardboard first, with glue or tape, so that it is easier to cut out the shapes.<br>
+    
+3.  Tape either craft sticks, or chopsticks to the back of the cardboards. <img src="/images/science-lfa/Light/Light%208.jpg" style="width:800px; text-align:left;"><br>
+
+<p> Now you've made your puppet theatre and your puppets. All you need now is to darken the room, use a lamp or a torchlight, and invite an audience to watch your brilliant performances!</p>
+
+ <h5>Tips for parents</h5>
+
+<p>Ask your child what will happen to the shadows if the distance between the light source and the shadow puppets increases or decreases. Will the shadows be bigger or smaller?</p> 
+Try it!<br>
+
+<h4>Let’s watch this video and find out more about light and shadows!</h4>
+
+<h5>WHAT MAKES A SHADOW?</h5>   
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class=image><a href="https://www.youtube.com/watch?v=YuUJCNzfoBw" target="\_blank">
+       <img src="/images/science-lfa/Light/What%20Makes%20A%20Shadow.png" style="width:800px; text-align:left;"></a>
+     </div>
+		</div>
+ <div class="col is-two-fifths">
+
+<p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4 min 59 secs) </b><br>In this introductory video, your child will learn about shadows. Shadows require an object and light source for its appearance. A shadow occurs when the light is stopped by an object. The shadows are likely to change its size depending on its position next to the light source.
+</p>
+   </div>
+ </div>
+ <h4>LET'S READ!</h4>
+<div class="row is-multiline">
+	<div class="col is-half-tablet padding--bottom--lg">
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205283500" target="_blank"><img src="/images/science-lfa/Light/Fairy Sciences.jpg" style="width:150px; text-align:left;"></a>
+		</div>
+		<div class="text">
+			<p><b>Fairy Science</b><br>
+			<u>By:</u> Ashley Spires<br>
+			<u>Publisher:</u> New York : Crown Books for Young Readers, [2019]<br>
+			</p>
+		</div>
+	</div>
+	<div class="col is-half-tablet padding--bottom--lg">
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205603227" target="_blank"><img src="/images/science-lfa/Light/experiments with light.jpg" style="width:160px; text-align:left;"></a>
+		</div>
+		<div class="text">
+			<p><b>Experiments With Lights</b><br>
+			<u>By:</u> Mignonne Gunasekara<br>
+			<u>Publisher:</u> New York, NY : KidHaven Publishing, 2022<br>
+			</p>
+		</div>
+	</div>
+</div>
+
+<div class="row is-multiline">
+	<div class="col is-half-tablet padding--bottom--lg">
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14645548" target="_blank"><img src="/images/science-lfa/Light/The Black Rabbit.jpg" style="width:150px; text-align:left;"></a>
+		</div>
+		<div class="text">
+			<p><b>The Black Rabbit</b><br>
+			<u>By:</u> Philippa Leathers<br>
+			<u>Publisher:</u> Somerville, Mass. : Candlewick Press, 2013<br>
+			</p>
+		</div>
+	</div>
+	<div class="col is-half-tablet padding--bottom--lg">
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202722296" target="\_blank"><img src="/images/science-lfa/Light/Groundhog's runaway shadow.jpg" style="width:150px; text-align:left;"></a>
+		</div> 
+		<div class="text">
+			<p><b>Groundhog's Runaway Shadow</b><br>
+			<u>By:</u> David Biedrzycki<br>
+			<u>Publisher:</u> Watertown, MA : Charlesbridge, [2016]<br>
+			</p>
+		</div>
+	</div>
+</div>
+<p>The copyright to all book covers belong to the relevant publishers or illustrators.</p>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+<h3 class="margin--bottom--lg" id="lp-animals"><b>All About Animal Life Cycles </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
 
 <p>  Every living thing goes through a life cycle and your child may start understanding that as they grow! Go on an investigative journey with them to learn about the growth, and development of both familiar and even unfamiliar animals!</p>

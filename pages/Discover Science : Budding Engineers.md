@@ -12,6 +12,8 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-magneticrockets"><b>We're Engineers!<br>Blast Off with Magnetic Rockets</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
+
+ 
 <img src="/images/science-lfa/magnetic-rockets/magnet1%20or.png" style="width:400px; text-align:left;">
 
 <p>Have you ever wondered if you could move something without touching it? We’ll learn how we can power a rocket to cruise through the galaxy and even drive a car ​​— by using magnets and their powerful magnetic forces!  <br><br>

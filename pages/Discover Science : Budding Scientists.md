@@ -47,10 +47,11 @@ description: ""
 
 <div class="col is-two-fifths">
 
-	<p><b>The LIGHT SONG | Science for Kids | Grades K-2 (0:59)<b>
+	<p><b>The LIGHT SONG | Science for Kids | Grades K-2 (0:59)<b></p>
 With catchy tunes, your child will learn about transparent, translucent, and opaque objects, as well as different types of light sources.</p>
 
 </div>
+	</div>
 
 <p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>
 

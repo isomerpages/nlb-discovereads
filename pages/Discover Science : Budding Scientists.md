@@ -23,7 +23,22 @@ description: ""
 
 <p>The terms “transparent”, “translucent” and “opaque” are used to describe the extent to which certain objects allow light passes through objects. Transparent objects allow light to pass through completely; you can see intricate details such as colours through transparent objects. The term “translucent” indicates that light can flow through partially, where distinctive features are not as visible through such objects. Finally, opaque objects do not allow any light to pass through them. You can refer to the image below to see the difference.</i>
  </p>
+ </div>
+ </div>
+<h4> LET’S SING!</h4>
+<div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+ <div class=image><a href="https://youtu.be/NwU3beZ9kcw" target="\_blank">
+	 <img src="/images/science-lfa/Light/The%20Light%20Song.png" style="width:400px; text-align:left;"></a>
+</div>
+   </div>
+	<div class="col is-three-fifths">
+<p><b>The LIGHT SONG | Science for Kids | Grades K-2 (0:59)
 
+			 With catchy tunes, your child will learn about transparent, translucent, and opaque objects, as well as different types of light sources.</p>
+</div>
+</div>
+<p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>
 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>

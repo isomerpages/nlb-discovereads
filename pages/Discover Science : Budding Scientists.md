@@ -56,8 +56,6 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 		 <p><b> Differences Between Transparent, Translucent, Opaque | Light Experiment for Kids (3 min 09 secs) </b><br>In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.<p>
 </div>
 </div>
-
-
 <h4>LET'S INVESTIGATE!</h4>
 <p><b>Experiment time!</b>
 <br>Let’s conduct an experiment using a torchlight to see whether light can shine through the materials. Print out the worksheet and complete the experiment.<br>

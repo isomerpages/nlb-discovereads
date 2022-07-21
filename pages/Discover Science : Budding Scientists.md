@@ -41,26 +41,17 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 </div>
 </div>
 
-<p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>
-
-  
+<p>After this, you may then watch the video on differences between Transparent, Translucent, Opaque. In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.</p>  
 <h4>LET'S WATCH!</h4>
 <h5>MEDIUMS OF LIGHT</h5>   
 <div class="row is-multiline margin--bottom--lg">
-
  <div class="col is-two-fifths">
-
-    <div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="\\\_blank">
+    <div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="_blank">
 
 <img src="/images/science-lfa/Light/Mediums%20of%20Light.png" style="width:400px; text-align:left;"></a>
 
-     </div>
-
- <div class="col is-two-fifths">
-
-     </div>
-
-   </div>
+</div>
+</div>
 
    <div class="col is-two-fifths">
 

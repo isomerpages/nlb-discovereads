@@ -14,14 +14,10 @@ description: ""
 
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<p> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p>
-
-  
+<p> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p> 
 
 <h4> LET’S LEARN!</h4>
 <img src="/images/science-lfa/Light/Light%201.jpg" style="width:400px; text-align:center;">
-
-
 
 <p>The terms “transparent”, “translucent” and “opaque” are used to describe the extent to which certain objects allow light passes through objects. Transparent objects allow light to pass through completely; you can see intricate details such as colours through transparent objects. The term “translucent” indicates that light can flow through partially, where distinctive features are not as visible through such objects. Finally, opaque objects do not allow any light to pass through them. You can refer to the image below to see the difference.</p>
 
@@ -54,8 +50,9 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 </div>
 <div class="col is-two-fifths">
 		 <p><b> Differences Between Transparent, Translucent, Opaque | Light Experiment for Kids (3 min 09 secs) </b><br>In this introductory video, your child will learn about the differences between transparent, translucent, and opaque objects.<p>
+	</div>
 </div>
-</div>
+
 <h4>LET'S INVESTIGATE!</h4>
 <p><b>Experiment time!</b>
 <br>Let’s conduct an experiment using a torchlight to see whether light can shine through the materials. Print out the worksheet and complete the experiment.<br>

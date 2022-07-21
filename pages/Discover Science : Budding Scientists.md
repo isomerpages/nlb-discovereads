@@ -124,7 +124,31 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <p>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="\_blank">here</a>.
 
 Oh, and you need some imagination to create your own stories with shadows.<p>
-	
+
+<br><p><b>Instructions for Shadow Puppet Theatre</b><br>
+
+1.  Tape the box up well so that it will be sturdy and closed.<br>
+    
+2.  Then, trace about 2cm away from the edges of the large faces of the box. Draw large rectangles on both sides of the box. These will serve as the ‘frame’ of your shadow theatre.
+<img src="/images/science-lfa/Light/Light%204.png" style="width:800px; text-align:left;"><br>
+
+3.  Next, cut out the large rectangles that you just drew. 
+Wait! Do not throw away the large rectangles. You can reuse them to make the shadow puppets.
+<img src="/images/science-lfa/applied-chemistry-density/Density\_Experiment%20Materials\_edited.png" style="width:800px; text-align:left;"><br>
+
+4.  Find a sheet of translucent white or light-coloured paper. Tracing paper or baking paper, work well too.<br>
+    
+5.  Tape the paper over the cut-out hole on one side of the box only. That side with the paper will be the one that faces your audience. The other side is where the torch light or the desk lamp will be shining from.
+    
+
+<img src="/images/science-lfa/applied-chemistry-density/Density\_Experiment%20Materials\_edited.png" style="width:800px; text-align:left;"><br>
+
+6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story!
+    
+
+<img src="/images/science-lfa/applied-chemistry-density/Density\_Experiment%20Materials\_edited.png" style="width:800px; text-align:left;"><br>
+
+**
 	
 
 

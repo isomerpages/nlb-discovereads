@@ -79,38 +79,38 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 
 <p>By allowing your child to engage in prediction and observation, you are also introducing them to mathematical concepts of classification and characteristics, on top of learning about physical sciences. Model behaviour by allowing your child to say what they have observed and introduce STEAM vocabulary in your discussion!</p>
 
-<h4>LET’S TRY THIS AT HOME!<h4>
-<h5>DIY Shadow Puppet<h5>
+<h4>LET’S TRY THIS AT HOME!</h4>
+<h5>DIY Shadow Puppet</h5>
 
 <p><b>Materials required:</b></p>
 
  <img src="/images/science-lfa/Light/Light%203.jpg" style="width:800px; text-align:left;"><br>
 
-<p>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">here</a>.
+<p>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">here</a>.</p>
 
-Oh, and you need some imagination to create your own stories with shadows.</p>
+<p>Oh, and you need some imagination to create your own stories with shadows.</p>
 
-	<br><p><b>Instructions for Shadow Puppet Theatre</b></p><br>
+<br><p><b>Instructions for Shadow Puppet Theatre</b></p><br>
 
-1.  Tape the box up well so that it will be sturdy and closed.<br>
+<p>1.  Tape the box up well so that it will be sturdy and closed.<br></p>
     
-2.  Then, trace about 2cm away from the edges of the large faces of the box. Draw large rectangles on both sides of the box. These will serve as the ‘frame’ of your shadow theatre.
-<img src="/images/science-lfa/Light/Light%204.png" style="width:800px; text-align:left;"><br>
+<p>2.  Then, trace about 2cm away from the edges of the large faces of the box. Draw large rectangles on both sides of the box. These will serve as the ‘frame’ of your shadow theatre.
+<img src="/images/science-lfa/Light/Light%204.png" style="width:800px; text-align:left;"><br></p>
 
-3.  Next, cut out the large rectangles that you just drew. 
+<p>3.  Next, cut out the large rectangles that you just drew. 
 Wait! Do not throw away the large rectangles. You can reuse them to make the shadow puppets.
-<img src=/images/science-lfa/Light/Light%205.jpg" style="width:800px; text-align:left;"><br>
+	<img src="/images/science-lfa/Light/Light%205.jpg" style="width:800px; text-align:left;"><br></p>
 
-4.  Find a sheet of translucent white or light-coloured paper. Tracing paper or baking paper, work well too.<br>
+<p>4.  Find a sheet of translucent white or light-coloured paper. Tracing paper or baking paper, work well too.<br></p>
     
-5.  Tape the paper over the cut-out hole on one side of the box only. That side with the paper will be the one that faces your audience. The other side is where the torch light or the desk lamp will be shining from.
+<p>5.  Tape the paper over the cut-out hole on one side of the box only. That side with the paper will be the one that faces your audience. The other side is where the torch light or the desk lamp will be shining from.
     
-<img src="/images/science-lfa/Light/Light%206.jpg" style="width:800px; text-align:left;"><br>
+<img src="/images/science-lfa/Light/Light%206.jpg" style="width:800px; text-align:left;"><br></p>
 
-6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story!
+<p>6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story!
 																																												<img src="/images/science-lfa/Light/Light%207.jpg" style="width:800px; text-align:left;"><br></p>
-																																												 
-<h5>Instructions for Shadow Puppet<h5>
+
+<h5>Instructions for Shadow Puppet</h5>
 <br><p><b>Instructions for Shadow Puppet</b><br>
 
 1.  Cut the shapes out of the <a href="https://go.gov.sg/shadow-puppet-template" target="\_blank">template</a> provided and paste them onto the rectangular cut-outs you saved earlier.<br>
@@ -118,15 +118,15 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 2.  Cut the cardboard according to the shapes of the templates. You may stick the printed templates onto the cardboard first, with glue or tape, so that it is easier to cut out the shapes.<br>
     
 3.  Tape either craft sticks, or chopsticks to the back of the cardboards.
-<img src="/images/science-lfa/Light/Light%208.jpg" style="width:800px; text-align:left;"><br>
-<p> Now you've made your puppet theatre and your puppets. All you need now is to darken the room, use a lamp or a torchlight, and invite an audience to watch your brilliant performances!<p>
+<img src="/images/science-lfa/Light/Light%208.jpg" style="width:800px; text-align:left;"><br></p>
+<p> Now you've made your puppet theatre and your puppets. All you need now is to darken the room, use a lamp or a torchlight, and invite an audience to watch your brilliant performances!</p>
 
- <h5>Tips for parents<h5>
+ <h5>Tips for parents</h5>
 
-<p>Ask your child what will happen to the shadows if the distance between the light source and the shadow puppets increases or decreases. Will the shadows be bigger or smaller?<p> 
-<p>Try it!<p>
+<p>Ask your child what will happen to the shadows if the distance between the light source and the shadow puppets increases or decreases. Will the shadows be bigger or smaller?</p> 
+<p>Try it!</p>
 
-<h4>Let’s watch this video and find out more about light and shadows!<h4>
+<h4>Let’s watch this video and find out more about light and shadows!</h4>
 
 <h5>WHAT MAKES A SHADOW?</h5>   
 <div class="row is-multiline margin--bottom--lg">

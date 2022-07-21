@@ -9,7 +9,6 @@ description: ""
  
 | <a href="#lp-time">It's Time to Learn about Time</a> | <a href="#lp-density">Let's Learn about Density</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <strong>**New!**</strong> <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> | <strong>**New!**</strong><a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> | <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a>
 
-**
 
 <h3 class="margin--bottom--lg" id="lp-light"><b>Let There Be Light!</b></h3>
 
@@ -20,16 +19,11 @@ description: ""
   
 
 <h4> LET’S LEARN!</h4>
-
-  
-
 <img src="/images/science-lfa/Light/Light%201.jpg" style="width:400px; text-align:center;">
 
 <div class="row is-multiline margin--bottom--lg">
 
 <div class="col is-three-fifths">
-
-  
 
 <p>The terms “transparent”, “translucent” and “opaque” are used to describe the extent to which certain objects allow light passes through objects. Transparent objects allow light to pass through completely; you can see intricate details such as colours through transparent objects. The term “translucent” indicates that light can flow through partially, where distinctive features are not as visible through such objects. Finally, opaque objects do not allow any light to pass through them. You can refer to the image below to see the difference.</p>
 
@@ -43,7 +37,7 @@ description: ""
 
  <div class="col is-two-fifths">
 
- <div class=image><a href="https://youtu.be/NwU3beZ9kcw" target="\\\_blank">
+ <div class=image><a href="https://youtu.be/NwU3beZ9kcw" target="_blank">
 
 <img src="/images/science-lfa/Light/The%20Light%20Song.png" style="width:400px; text-align:left;"></a>
 

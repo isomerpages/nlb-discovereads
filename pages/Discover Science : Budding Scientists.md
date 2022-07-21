@@ -165,14 +165,14 @@ Wait! Do not throw away the large rectangles. You can reuse them to make the sha
 
 <h5>WHAT MAKES A SHADOW?</h5>   
 <div class="row is-multiline margin--bottom--lg">
-   <div class="col is-two-fifths">
-
-     <div class="responsive-iframe-container ratio-16by9">
- <iframe src="https://www.youtube.com/watch?v=YuUJCNzfoBw" class="responsive-iframe"></iframe>
+ <div class="col is-two-fifths">
+    <div class=image><a href="https://www.youtube.com/watch?v=YuUJCNzfoBw" target="\_blank">
+       <img src="/images/science-lfa/Light/What%20Makes%20A%20Shadow.png" style="width:800px; text-align:left;"></a>
      </div>
-   </div>
-   <div class="col is-three-fifths">
-    <p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4 min 59 secs) </b><br>In this introductory video, your child will learn about shadows. Shadows require an object and light source for its appearance. A shadow occurs when the light is stopped by an object. The shadows are likely to change its size depending on its position next to the light source.
+		</div>
+ <div class="col is-two-fifths">
+
+<p><b> Light and Shadows for Kids | Science Video for Kids | Kids Academy (4 min 59 secs) </b><br>In this introductory video, your child will learn about shadows. Shadows require an object and light source for its appearance. A shadow occurs when the light is stopped by an object. The shadows are likely to change its size depending on its position next to the light source.
 </p>
    </div>
  </div>

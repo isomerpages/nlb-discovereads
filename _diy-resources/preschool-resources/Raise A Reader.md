@@ -33,9 +33,9 @@ Simple activities for children to do at home or in school! Click on the images t
 
 ### **Booklists**
 
-##### NLB x SPCA
+##### SPCA x NLB
 
-|<a href="/files/preschool/Bite%20Science%20Booklist%20-%20DIY%20COMPOST_final.PDF"><img src="/images/diyresources/preschool/Wan%20Ting%20Booklist.PNG" style="width:70%"></a>
+|<a href="/files/preschool/Bite%20Science%20Booklist%20-%20DIY%20COMPOST_final.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:60%"></a>
 
 ##### For Budding Scientists and Engineers
 

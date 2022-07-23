@@ -40,7 +40,7 @@ Read more books about our adorable furry friends!
 
 **All about Dogs & Rabbits**
 
-|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> <br><br>**All about Cats & Hamsters**
+|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> <br>**All about Cats & Hamsters**
 
 | <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a>
 

@@ -35,7 +35,7 @@ Simple activities for children to do at home or in school! Click on the images t
 
 ##### SPCA x NLB
 
-|<a href="/files/preschool/raise-a-reader/allaboutdogs-compressed.pdf"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:60%"></a>
+|<a href="/files/preschool/raise-a-reader/allaboutdogs-compressed.pdf"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a>
 
 ##### For Budding Scientists and Engineers
 

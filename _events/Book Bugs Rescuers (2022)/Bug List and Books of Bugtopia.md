@@ -27,6 +27,31 @@ Celeste is based on Luna from ‘The Girl Who Drank the Moon’, written by Kell
 
 Khazanna carries her own little library around to ensure that she always has something good to read! 🤓📚 Her design was inspired by ‘Ada Khazanah di Perpustakaan Kami’ (There are Treasures in Our Library), written by Maria Mahat.
 
+  <a href="/images/events/bookbugsr/Square Rollie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Rollie - BBR Bookstagram.png" alt="The Great Singapore Poo Sale" style="width: 60%;"></a> 
+	
+The adorable Book Bug, Rollie, was inspired by the pangolin, an endangered mammal that can be found
+in Singapore. Like the pangolin, Rollie is covered in protective scales and curls up into a ball when frightened! Read more about local animals in Maureen Yeo's ‘The Great Singapore Poo Sale’.
+
+  <a href="/images/events/bookbugsr/Square Embra - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Embra - BBR Bookstagram.png" alt="The Firework Makers Daughter" style="width: 60%;"></a> 
+
+Nothing perks up Embra's day more than a fabulous firework display—especially if she was the one who created the fireworks! 🎇 Embra shares her love for colourful pyrotechnics with Lila, the main character in ‘The Firework-Maker's Daughter’ by Philip Pullman. In the story, Lila goes on a perilous journey to chase after her dream of becoming a firework-maker. Find out if she succeeds by reading the book.
+
+  <a href="/images/events/bookbugsr/Square Cenderawasih - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Cenderawasih - BBR Bookstagram.png" alt="Lagu Cenderawasih" style="width: 60%;"></a> 
+	
+Anyone who catches a glimpse of Cenderawasih's magnificent wings is lucky indeed! 🤩 This majestic Book Bug is based on the mythical Cenderawasih bird, featured in the book, ‘Lagu Cenderawasih’ (Song of the Cenderawasih), written by Tutu Dutta. It tells the story of Arohan, a little boy who receives a magical bamboo flute for his birthday.
+
+  <a href="/images/events/bookbugsr/Square Kaka - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Kaka - BBR Bookstagram.png" alt="The One and Only Inuka" style="width: 60%;"></a> 
+
+Meet Kaka, the Book Bug with a big appetite who loves to frolic in the snow! ❄️ He is based on Inuka, the first polar bear born in the tropics, that lived in the Singapore Zoo from 1990 to 2018. You can read about Inuka's life in Alan John's book, ‘独一无二的伊努卡’ (The One and Only Inuka), which is also available in English.
+
+  <a href="/images/events/bookbugsr/Square Nixie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Nixie - BBR Bookstagram.png" alt="The Mermaid who became a Champion" style="width: 60%;"></a> 
+	
+No Book Bug moves through the water faster than Nixie, whose inspiration came from the book, ‘The Mermaid Who Became a Champion’. It was written by Yip Pin Xiu, a five-time Paralympic gold medalist!🏊‍♀️🥇
+
+  <a href="/images/events/bookbugsr/Square Offkie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Offkie - BBR Bookstagram.png" alt="Song for a Whale" style="width: 60%;"></a> 
+	
+Offkie loves to sing and perform the latest hits in front of an adoring audience of her fellow Book Bugs! 🎶 Inspiration for this musical Bug comes from the book, ‘Song for a Whale’, written by Lynne Kelly. It tells the story of how Iris, a deaf twelve-year-old girl, tries to reach out to a whale who is unable to communicate with other whales.
+
 **Search for these titles on your NLB Mobile app [go.gov.sg/NLB-mobile](go.gov.sg/NLB-mobile)!**
 
 *The book covers are the copyright of the respective publishers.*

@@ -34,7 +34,7 @@ Simple activities for children to do at home or in school! Click on the images t
 ### **Booklists**
 
 ##### SPCA x NLB  
-###### Updated: July 2022
+**Updated: July 2022**
 
 Read more books about our adorable furry friends!
 

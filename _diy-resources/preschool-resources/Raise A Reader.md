@@ -33,9 +33,10 @@ Simple activities for children to do at home or in school! Click on the images t
 
 ### **Booklists**
 
-##### SPCA x NLB
+##### SPCA x NLB  
+###### Updated: July 2022
 
-|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a>
+|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> | <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a>
 
 ##### For Budding Scientists and Engineers
 

@@ -16,7 +16,8 @@ Read more books about our adorable furry friends!
 
 </a> <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> 
 
-| <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a>
+| <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a> 
+<a href="www.go.gov.sg/cats-hamsters"><img src="/images/diyresources/preschool/catshamsters.jpg" style="width:20%">
 
 ##### For Budding Scientists and Engineers
 

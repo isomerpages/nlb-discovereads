@@ -5,7 +5,7 @@ third_nav_title: Preschool Resources
 ---
 ## Raise A Reader
 
-| [**New!*** Activity Sheets](#activty-sheets) | [**New!*** Booklists](#booklists) | [Creative Conversations](#creative-conversations) |
+| [**New!*** Booklists](#booklists) | [**New!*** Activity Sheets](#activity-sheets) | [Creative Conversations](#creative-conversations) |
 
 ### **Booklists**
 

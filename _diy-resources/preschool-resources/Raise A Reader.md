@@ -10,7 +10,8 @@ third_nav_title: Preschool Resources
 ### **Booklists**
 
 ##### SPCA x NLB  
-Read more books about our adorable furry friends! Click or scan the respective QR codes for the e-booklist.
+Read more books about our adorable furry friends! 
+<br>Click or scan the respective QR codes for the e-booklists.
 
 <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:30%">
 <a href="https://go.gov.sg/dogs-rabbits"><img src="/images/diyresources/preschool/dogsrabbits.jpg" style="width:10%">

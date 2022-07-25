@@ -7,6 +7,22 @@ third_nav_title: Preschool Resources
 
 | [**New!*** Activity Sheets](#activty-sheets) | [**New!*** Booklists](#booklists) | [Creative Conversations](#creative-conversations) |
 
+### **Booklists**
+
+##### SPCA x NLB  
+Read more books about our adorable furry friends!
+
+|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> | <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a>
+
+##### For Budding Scientists and Engineers
+
+Take a look at some wonderful books curated by our Early Read librarians to grow the love of Science and want to discover in your children! Click on the images to download and print.
+
+|<a href="/files/preschool/Bite%20Science%20Booklist%20-%20DIY%20COMPOST_final.PDF"><img src="/images/diyresources/preschool/Wan%20Ting%20Booklist.PNG" style="width:70%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Lisa%20Booklist.PNG" style="width:70%"></a> |
+|<a href="/files/preschool/booklists-for-science-lfa/STEAM%20FEST_TRANSFORM%20PLASTIC%20BOOK%20LIST.PDF"><img src="/images/diyresources/preschool/Mardhiah%20Book%20List.PNG" style="width:70%"></a> | 
+
+<b><a href="#top">Back to top</a></b>
+
 ### **Activity Sheets**
 Simple activities for children to do at home or in school! Click on the images to download and print.
 
@@ -28,26 +44,6 @@ Simple activities for children to do at home or in school! Click on the images t
 
 | <a href="/files/preschool/activity-sheets/DressupDay.PDF"><img src="/images/diyresources/preschool/activity-sheets/DressupDay.PNG" style="width: 60%;"></a> | <a href="/files/preschool/activity-sheets/FindingMole.PDF"><img src="/images/diyresources/preschool/activity-sheets/FindingMole.PNG" style="width: 60%;"></a> | 
 |<a href="/files/preschool/activity-sheets/GeorgeandFriends.PDF"><img src="/images/diyresources/preschool/activity-sheets/GeorgeandFriends.PNG" style="width: 60%;"></a> | <a href="/files/preschool/activity-sheets/RhymingwithMama.PDF"><img src="/images/diyresources/preschool/activity-sheets/RhymingwithMama.PNG" style="width: 60%;"></a> |
-
-<b><a href="#top">Back to top</a></b>
-
-### **Booklists**
-
-##### SPCA x NLB  
-Read more books about our adorable furry friends!
-
-|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> | <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a>
-
-##### For Budding Scientists and Engineers
-
-Take a look at some wonderful books curated by our Early Read librarians to grow the love of Science and want to discover in your children! Click on the images to download and print.
-
-|<a href="/files/preschool/Bite%20Science%20Booklist%20-%20DIY%20COMPOST_final.PDF"><img src="/images/diyresources/preschool/Wan%20Ting%20Booklist.PNG" style="width:70%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Lisa%20Booklist.PNG" style="width:70%"></a> |
-|<a href="/files/preschool/booklists-for-science-lfa/STEAM%20FEST_TRANSFORM%20PLASTIC%20BOOK%20LIST.PDF"><img src="/images/diyresources/preschool/Mardhiah%20Book%20List.PNG" style="width:70%"></a> | 
-
-##### Sharity & Friends
-
-| <a href="/images/diyresources/preschool/Sharity-NLB-list-kids.PDF"><img src="/images/diyresources/preschool/Sharity-Kids-Booklist.jpg" style="width: 70%;"></a> | <a href="/images/diyresources/preschool/Sharity-NLB-list_seniors.PDF"><img src="/images/diyresources/preschool/Sharity-Seniors-Booklist.jpg" style="width: 70%;"></a> | 
 
 <b><a href="#top">Back to top</a></b>
 

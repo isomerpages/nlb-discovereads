@@ -13,8 +13,8 @@ third_nav_title: Preschool Resources
 Read more books about our adorable furry friends! 
 <br>Click or scan the respective QR codes for the e-booklists.
 
-| <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:30%"> |<a href="https://go.gov.sg/dogs-rabbits"><img src="/images/diyresources/preschool/dogsrabbits.jpg" style="width:20%">|
-|<a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:30%"></a> 
+| <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:40%"> |<a href="https://go.gov.sg/dogs-rabbits"><img src="/images/diyresources/preschool/dogsrabbits.jpg" style="width:20%">|
+|<a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:40%"></a> 
 |<a href="https://go.gov.sg/cats-hamsters"><img src="/images/diyresources/preschool/catshamsters.jpg" style="width:20%"> </a>|
 
 ##### For Budding Scientists and Engineers

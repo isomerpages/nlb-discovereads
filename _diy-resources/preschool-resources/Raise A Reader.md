@@ -12,11 +12,9 @@ third_nav_title: Preschool Resources
 ##### SPCA x NLB  
 Read more books about our adorable furry friends!
 
-|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%">
+|<a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:40%">
 
-</a> <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Allaboutdogs.jpg" style="width:50%"></a> 
-
-| <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:50%"></a> 
+| <a href="/files/preschool/Raise A Reader/allaboutcats.PDF"><img src="/images/diyresources/preschool/Allaboutcats.jpg" style="width:40%"></a> 
 <a href="www.go.gov.sg/cats-hamsters"><img src="/images/diyresources/preschool/catshamsters.jpg" style="width:20%">
 
 ##### For Budding Scientists and Engineers

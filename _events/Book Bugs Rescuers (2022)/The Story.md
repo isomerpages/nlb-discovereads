@@ -40,6 +40,9 @@ Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
 Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
+Physical copies of _Passport to Bugtopia_ are not available at the public libraries.
+
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>

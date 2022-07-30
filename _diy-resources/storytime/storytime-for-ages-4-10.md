@@ -48,25 +48,25 @@ Storytelling Videos (Updated on 29 March 2021)
 
 ### **English**
 
-**9 April 2022**<br>
-**The Changi Tree**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/47aZg9Dzdwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**9 July 2022**<br>
+**Max & Robbie's Magical Train Ride**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fdNazPrpDao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**23 April 2022*<br>
-**Tiger Tales**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBVWWBJ_Zds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**23 July 2022**<br>
+**The Pied Piper of Hamelin**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypDFnNt0GaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
 ### **Chinese**
 
-**24 March 2022**<br>
-**我的孩子们在哪儿?**
-<iframe width="560" height="315" src="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=061edd25-baa3-46f2-b3af-ae24007a3d43&start=0.5191" title="Panopto Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**7 June 2022**<br>
+**今日**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eIvmYFdbJho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**18 March 2022**<br>
-**南极熊的旅程**
-<iframe width="560" height="315" src="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=9c5c1d0a-d827-497d-b07c-ae3800c096d5&start=0.513439" title="Panopto Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**17 May 2022**<br>
+**穿越未来世界**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVYeXTMJ0s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
 
@@ -76,7 +76,7 @@ Storytelling Videos (Updated on 29 March 2021)
 **Jangan Takut, Anak Tupai!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1S4z31WF-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**10 August 2010**<br>
+**10 August 2021**<br>
 **Saya Kesal!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQBopAhG7iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -84,12 +84,12 @@ Storytelling Videos (Updated on 29 March 2021)
 
 ### **Tamil**
 
-**1 Jul 2021**<br>
-**இணை இல்லாத இனுக்கா**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JqZaqAmpKj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**11 June 2022**<br>
+**Stacyyin payanam Inthiya marabudaimai nilaiyam**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRXEFFBj6O8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**7 May 2021**<br>
-**The Tree My Aunty Grew**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nb2lV-tChus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**21 July 2022**<br>
+**அம்மிக்கு ஒரு புடவை**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2JaO09sQKNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Tamil, click [here](/diy-resources/storytime/storytime-archives-tamil))

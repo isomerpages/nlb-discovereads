@@ -4,10 +4,21 @@ permalink: /events/bookbugsr/quiz/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-### July 2022
+### August 2022 
 **Complete this month's English and MTL quizzes to earn extra points!**
 
 Quizzes will be updated every month.
+
+<img src="/images/events/bookbugsr/Drafrost.png" alt="Drafrost" style="width: 70%;">
+
+* <a href="https://forms.gle/NP6cNfi1osj5u4bLA" target="_blank" rel="noopener noreferrer"> English Quiz</a>
+* <a href="https://forms.gle/K9MEB7vnHUBv9awr9" target="_blank" rel="noopener noreferrer">MTL Quiz  (Chinese/ Malay / Tamil)</a>
+
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
+
+### July 2022 (Closed)
+This quiz has now closed. Points will be awarded by 5 August 2022, Friday. All entries received after 30 June 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
+
 
 <img src="/images/events/bookbugsr/Huolympia.png" alt="Huolympia" style="width: 70%;">
 

@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### 1 August 2022
+[<img src="/images/events/bookbugsr/BBR NDP release fb.png" alt="August release" style="width: 100%" align="left">](https://childrenandteens.nlb.nlb.gov.sg/events/bookbugsr/updates)
+
+**National Day is coming!**
+
+The #BookBugs are celebrating with a special guest in Bugtopia. From 5 August 2022, redeem cards at our public libraries to find the bonus August card hiding among the Bugs. While stocks last!  
+
+This card is a collaboration with [NDPeeps](http://www.facebook.com/NDPeeps).
+
+#### 1 August 2022
 [<img src="/images/events/bookbugsr/August Quiz Reminder.png" alt="August Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 <br>

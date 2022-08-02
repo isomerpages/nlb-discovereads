@@ -7,59 +7,120 @@ third_nav_title: Programmes
 ---
 ## **Monsters United!**
 
-| <a href="#hutsys-animated-book-launch"><img src="/images/unsorted/monstersunited/hutsy-header1.png" alt="Hutsy’s Animated Book Launch" style="width: 100%;"></a> | <a href="#celebrating-hans-christian-andersen"><img src="/images/unsorted/monstersunited/ISOMER-header-HCA.png" alt="Celebrating Hans Christian Andersen" style="width: 100%;"></a> | <a href="#rooktober-fest-2020"><img src="/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png" alt="Rooktober Fest 2020" style="width: 100%;"></a> |
+| <a href="#camys-animated-book-launch"><img src="/images/unsorted/monstersunited/camy-header1.jpg" alt="Camy’s Animated Book Launch" style="width: 100%;"></a> | <a href="#hutsys-animated-book-launch"><img src="/images/unsorted/monstersunited/hutsy-header1.png" alt="Hutsy’s Animated Book Launch" style="width: 100%;"></a> | <a href="#celebrating-hans-christian-andersen"><img src="/images/unsorted/monstersunited/ISOMER-header-HCA.png" alt="Celebrating Hans Christian Andersen" style="width: 100%;"></a> | <a href="#rooktober-fest-2020"><img src="/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png" alt="Rooktober Fest 2020" style="width: 100%;"></a> |
 
-### Hutsy’s Animated Book Launch! 
+### Camy’s Animated Book Launch! 
+
+![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg)
+
+|[Read the Book!](#read-the-book) | [Attend Fantasy Storytelling and Craft Sessions](#attend-fantasy-storytelling-and-craft-sessions) | [Explore Camy’s Quest!](#explore-camys-quest) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) | [Upcoming Books](#upcoming-books) |
+
+##### Read the Book!
+
+**Join Camy on her very first quest!**
+
+<br>Read the animated book by clicking on the image below!<br>
+
+<center><a href="https://go.gov.sg/camybook"><img src="/images/unsorted/monstersunited/camy-readthebook.png" alt="How Camy Got Her Wand cover" style="width: 100%;"></a></center>
+
+The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
+
+**Zecky**: released in Dec 2022<br>
+
+**Rooky**: coming soon<br>
+
+**Monsters United**: coming soon
+
+##### Attend Fantasy Storytelling and Craft Sessions
+
+For the whole of September, take part in Camy’s exclusive fantasy storytelling and craft sessions at the public libraries! **[Click here for more information](https://www.eventbrite.sg/d/singapore--singapore/%23monstersunited/)**.
+
+
+| **Library** | **Date, Time, and Venue** |
+
+| Sengkang Public Library | 1 Sep 2022, 3.00pm – 4.00pm, Programme Zone |
+
+| Ang Mo Kio Public Library | 2 Sep 2022, 7.30pm – 8.30pm, Activity Room |
+
+| Geylang East Public Library | 2 Sep 2022, 3.30pm – 4.30pm, Activity Room |
+
+| library@harbourfront | 3 Sep 2022, 3.00pm – 4.00pm, Stories Comes Alive Room |
+
+| Sembawang Public Library | 3 Sep 2022, 11.30am – 12.30pm, Programme Zone |
+
+| Tampines Regional Library | 3 Sep 2022, 12.30pm – 1.30pm, Programme Zone |
+
+| Queenstown Public Library | 7 Sep 2022, 7.30pm – 8.30pm, Programme Zone |
+
+| Clementi Public Library | 8 Sep 2022, 3.00pm – 4.00pm, Programme Zone |
+
+| Cheng San Public Library | 9 Sep 2022, 3.30pm – 4.30pm, Activity Room |
+
+| Pasir Ris Public Library | 9 Sep 2022, 3.30pm – 4.30pm, Programme Zone |
+
+| Serangoon Public Library | 9 Sep 2022, 2.30pm – 3.30pm, Programme Zone | 
+
+| Bedok Public Library | 10 Sep 2022, 3.00pm – 4.00pm, Programme Zone | 
+
+| Toa Payoh Public Library | 10 Sep 2022, 11.00am – 12.00pm, Programme Zone |
+
+| **Woodlands Regional Library (Mascot Meet-and-Greet Special Event)** | **10 Sep 2022, 10.30am – 12.00pm and 2pm – 3.30pm, Programme Zone** |
+
+| Yishun Public Library | 10 Sep 2022, 11.30am – 12.30pm, Programme Zone |
+
+| Bishan Public Library | 15 Sep 2022, 3.30pm – 4.30pm, Activity Room |
+
+| Bukit Batok Public Library | 17 Sep 2022 , 1.00pm – 2.00pm, Activity Room | 
+
+| Jurong Regional Library | 18 Sep 2022, 12.00pm – 1.00pm, Programme Zone |
+
+| Choa Chu Kang Public Library | 21 Sep 2022, 4.30pm – 5.30pm, Programme Room 1 |
+
+| Bukit Panjang Public Library | 23 Sep 2022, 5.00pm – 6.00pm, Stories Come Alive Room | 
+
+| Jurong West Public Library | 24 Sep 2022, 3.30pm – 4.30pm, Programme Zone |
+
+##### Explore Camy’s Quest!
+
+<center><img src="/images/unsorted/monstersunited/camy-quest.jpg" alt="Camy’s Quest header" style="width: 100%;"></center>
+
+This September, join Camy and seek three mini puzzle quests hidden around the Children’s Section in libraries (except for library@orchard, library@chinatown, and library@esplanade). Find and solve them all!
+
+Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy questing!
+
+##### D.I.Y. Camy Mini Book
+
+**Free Printable! Camy’s Mini Book** *(click on the image to download)*
+
+<a href="/files/camy-minibook.pdf"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
+
+Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
+
+##### Upcoming Books
+
+**Stay tuned for the other *Monsters United*  book releases!**
+
+Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings? How did the Monsters come together? Stick around for the other animated book releases! 
+
+**Zecky**: released in Dec 2022 <br>
+**Rooky**: coming soon<br>
+**Monsters United**: coming soon
+
+<b><a href="#top">Back to top</a></b>
+
+### Hutsy’s Animated Book Launch! 
 
 ![Hutsy’s Animated Book Launch image](/images/unsorted/monstersunited/hutsy-header1.png)
+| [Read the Book!](#read-the-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) |
 
-| [Read the Book!](#read-the-book) | [Attend Adventure Storytelling and Craft Sessions](#attend-adventure-storytelling-and-craft-sessions) | [Try Out Hutsy’s Library Hunt!](#try-out-hutsys-library-hunt) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Upcoming Books](#upcoming-books) |
 
 ##### Read the Book!
 
 **Join Hutsy on his very first adventure!**
-<br>Read the animated book by clicking on the image below!<br> 
+
+<br>Read the animated book by clicking on the image below!<br> 
+
 <a href="https://go.gov.sg/hutsybook"><img src="/images/unsorted/monstersunited/hutsy-readthebook.png" alt="How Hutsy Got His Hat cover" style="width: 100%;"></a>
-
-The Monsters from *Monsters United* have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
-
-**Camy**: released in Sept 2022<br>
-**Zecky**: coming soon<br>
-**Rooky**: coming soon<br>
-**Monsters United**: coming soon
-
-##### Attend Adventure Storytelling and Craft Sessions
-For the whole of June, take part in Hutsy’s exclusive adventure storytelling and craft sessions at the public libraries! [Click here for more information](https://www.eventbrite.sg/d/singapore--singapore/%23monstersunited/).
-
-| **Library** | **Date, Time, and Venue** |
-| Geylang East Public Library | 3rd June 2022, 3.30pm – 4.30pm, Activity Room at Level 1 |
-| Toa Payoh Public Library | 4th June 2022, 11am – 12pm, Programme Zone at Level 3 |
-| Sembawang Public Library | 4th June 2022, 11.30am – 12.30pm, Programme Room | 
-| Sengkang Public Library | 4th June 2022, 3pm – 4pm, Programme Zone |
-| Ang Mo Kio Public Library | 8th June 2022, 3pm – 4pm, Activity Room |
-| Choa Chu Kang Public Library | 8th June 2022, 4pm – 5pm, Programme Zone |
-| Serangoon Public Library | 10th June 2022, 2.30pm – 3.30pm, Programme Zone |
-| Jurong Regional Library (Mascot meet-and-greet special event) | 11th June 2022, 10.30am – 11.45am and 2pm – 3.30pm, Programme Zone at Level 1 |
-| Yishun Public Library | 11th June 2022, 12pm – 1pm, Programme Zone |
-| Bedok Public Library | 11th June 2022, 3pm – 4pm, Programme Room |
-| Jurong West Public Library | 11th June 2022, 3.30pm – 4.30pm, Programme Zone at Level 1 | 
-| Queenstown Public Library | 18th June 2022, 10.30am – 11.30am, Programme Zone at Level 1 |
-| Bukit Batok Public Library | 18th June 2022, 1pm – 2pm, Activity Room | 
-| Clementi Public Library | 18th June 2022, 2pm – 3pm, Programme Zone |
-| Pasir Ris Public Library | 18th June 2022, 2pm – 3pm, Programme Zone |
-| Woodlands Regional Library | 18th June 2022, 3pm – 4pm, Programme Zone at Level 1 |
-| Bukit Panjang Public Library | 25th June 2022, 12.30pm – 1.30pm, Stories Come Alive Room |
-| Cheng San Public Library | 25th June 2022, 2pm – 3pm, Activity Room |
-| library@harbourfront | 25th June 2022, 2pm – 3pm, Stories Come Alive Room |
-| Tampines Regional Library | 28th June 2022, 4pm – 5pm, Programme Zone at Level 6 | 
-| Bishan Public Library | 30th June 2022, 3.30pm – 4.30pm, Activity Room at Basement 1 |
-
-##### Try Out Hutsy’s Library Hunt!
-<img src="/images/unsorted/monstersunited/hutsy-libraryhunt.png" alt="Hutsy Library Hunt header" style="width: 100%;">
-
-This June, Hutsy has hidden three puzzles around the Children's Section in libraries (except for library@orchard, library@chinatown and library@esplanade) for you to discover. Find and solve them all!
-
-Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy hunting! 
 
 ##### D.I.Y. Hutsy Mini Book
 
@@ -69,17 +130,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 
 Assemble your own adorable mini version of Hutsy’s book! Simply download and print the sheet to start. Watch the instructional video below for tips on putting your mini book together.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_bi4xJuiBzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-##### Upcoming Books
-**Stay tuned for the other *Monsters United* book releases!**
-
-Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings? How did the Monsters come together? Stick around for the other animated book releases! 
-
-**Camy**: released in Sept 2022<br>
-**Zecky**: coming soon<br>
-**Rooky**: coming soon<br>
-**Monsters United**: coming soon
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/\_bi4xJuiBzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <b><a href="#top">Back to top</a></b>
 

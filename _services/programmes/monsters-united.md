@@ -24,9 +24,9 @@ Read the animated book by clicking on the image below!
 
 The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
 
-**Zecky**: released in Dec 2022
-**Rooky**: coming soon
-**Monsters United**: coming soon
+**Zecky**: released in Dec 2022<br>
+**Rooky**: coming soon<br>
+**Monsters United**: coming soon<br>
 
 ##### Attend Fantasy Storytelling and Craft Sessions
 

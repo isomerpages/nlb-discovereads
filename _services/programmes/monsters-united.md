@@ -38,47 +38,26 @@ For the whole of September, take part in Camy’s exclusive fantasy storytelling
 
 
 | **Library** | **Date, Time, and Venue** |
-
 | Sengkang Public Library | 1 Sep 2022, 3.00pm – 4.00pm, Programme Zone |
-
 | Ang Mo Kio Public Library | 2 Sep 2022, 7.30pm – 8.30pm, Activity Room |
-
 | Geylang East Public Library | 2 Sep 2022, 3.30pm – 4.30pm, Activity Room |
-
 | library@harbourfront | 3 Sep 2022, 3.00pm – 4.00pm, Stories Comes Alive Room |
-
 | Sembawang Public Library | 3 Sep 2022, 11.30am – 12.30pm, Programme Zone |
-
 | Tampines Regional Library | 3 Sep 2022, 12.30pm – 1.30pm, Programme Zone |
-
 | Queenstown Public Library | 7 Sep 2022, 7.30pm – 8.30pm, Programme Zone |
-
 | Clementi Public Library | 8 Sep 2022, 3.00pm – 4.00pm, Programme Zone |
-
 | Cheng San Public Library | 9 Sep 2022, 3.30pm – 4.30pm, Activity Room |
-
 | Pasir Ris Public Library | 9 Sep 2022, 3.30pm – 4.30pm, Programme Zone |
-
-| Serangoon Public Library | 9 Sep 2022, 2.30pm – 3.30pm, Programme Zone | 
-
-| Bedok Public Library | 10 Sep 2022, 3.00pm – 4.00pm, Programme Zone | 
-
+| Serangoon Public Library | 9 Sep 2022, 2.30pm – 3.30pm, Programme Zone |
+| Bedok Public Library | 10 Sep 2022, 3.00pm – 4.00pm, Programme Zone |
 | Toa Payoh Public Library | 10 Sep 2022, 11.00am – 12.00pm, Programme Zone |
-
 | **Woodlands Regional Library (Mascot Meet-and-Greet Special Event)** | **10 Sep 2022, 10.30am – 12.00pm and 2pm – 3.30pm, Programme Zone** |
-
 | Yishun Public Library | 10 Sep 2022, 11.30am – 12.30pm, Programme Zone |
-
 | Bishan Public Library | 15 Sep 2022, 3.30pm – 4.30pm, Activity Room |
-
-| Bukit Batok Public Library | 17 Sep 2022 , 1.00pm – 2.00pm, Activity Room | 
-
+| Bukit Batok Public Library | 17 Sep 2022 , 1.00pm – 2.00pm, Activity Room |
 | Jurong Regional Library | 18 Sep 2022, 12.00pm – 1.00pm, Programme Zone |
-
 | Choa Chu Kang Public Library | 21 Sep 2022, 4.30pm – 5.30pm, Programme Room 1 |
-
-| Bukit Panjang Public Library | 23 Sep 2022, 5.00pm – 6.00pm, Stories Come Alive Room | 
-
+| Bukit Panjang Public Library | 23 Sep 2022, 5.00pm – 6.00pm, Stories Come Alive Room |
 | Jurong West Public Library | 24 Sep 2022, 3.30pm – 4.30pm, Programme Zone |
 
 ##### Explore Camy’s Quest!

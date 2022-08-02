@@ -22,7 +22,7 @@ third_nav_title: Programmes
 Read the animated book by clicking on the image below!
 <center><a href="https://go.gov.sg/camybook"><img src="/images/unsorted/monstersunited/camy-readthebook.png" alt="How Camy Got Her Wand cover" style="width: 100%;"></a></center>
 
-The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
+The Monsters from *Monsters United*   have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more! 
 
 **Zecky**: released in Dec 2022<br>
 **Rooky**: coming soon<br>
@@ -74,7 +74,7 @@ Assemble your own adorable mini version of Camy’s book! Simply download and pr
 
 ##### Upcoming Books
 
-**Stay tuned for the other *Monsters United*  book releases!**
+**Stay tuned for the other *Monsters United*   book releases!**
 
 Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings? How did the Monsters come together? Stick around for the other animated book releases! 
 

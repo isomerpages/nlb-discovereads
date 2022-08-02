@@ -18,7 +18,7 @@ third_nav_title: Programmes
 
 ##### Read the Book!
 
-**Join Camy on her very first quest!**
+**Join Camy on her very first quest!**<br>
 Read the animated book by clicking on the image below!
 <center><a href="https://go.gov.sg/camybook"><img src="/images/unsorted/monstersunited/camy-readthebook.png" alt="How Camy Got Her Wand cover" style="width: 100%;"></a></center>
 

@@ -68,7 +68,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 
 **Free Printable! Camy’s Mini Book** *(click on the image to download)*
 
-<a href="/files/camy-minibook.pdf"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
+<a href="/files/camy-minibook.PDF"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
 
 Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
 

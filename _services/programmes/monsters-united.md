@@ -94,7 +94,7 @@ Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings
 
 **Join Hutsy on his very first adventure!**<br>
 Read the animated book by clicking on the image below!
-<a href="https://go.gov.sg/hutsybook"><img src="/images/unsorted/monstersunited/hutsy-readthebook.png" alt="How Hutsy Got His Hat cover" style="width: 100%;"></a>
+<center><a href="https://go.gov.sg/hutsybook"><img src="/images/unsorted/monstersunited/hutsy-readthebook.png" alt="How Hutsy Got His Hat cover" style="width: 100%;"></a></center>
 
 ##### D.I.Y. Hutsy Mini Book
 

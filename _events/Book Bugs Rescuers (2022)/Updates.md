@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### August Card Availabilities 
+*Please note that availabilities are not updated in real time. 
 
-| Public Library | Availability|
+| Public Library | Status|
 |:---| :----|
 |Ang Mo Kio Public Library| Available|
 |Bedok Public Library| Available|

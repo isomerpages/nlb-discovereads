@@ -4,6 +4,38 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### August Card Availabilities 
+*Please note that availabilities are not updated in real time. 
+
+| Public Library | Status|
+|:---| :----|
+|Ang Mo Kio Public Library| Available|
+|Bedok Public Library| Available|
+|Bishan Public Library| Available|
+|Bukit Batok Public Library| Available|
+|Bukit Panjang Public Library| Available|
+|Cheng San Public Library| Available|
+|Choa Chu Kang Public Library| Available|
+|Clementi Public Library| Available|
+|Geylang East Public Library| Available|
+|Jurong Regional Library| Available|
+|Jurong West Public Library| Available|
+|Library@Harbourfront| Available|
+|Pasir Ris Public Library| Available|
+|Queenstown Public Library| Available|
+|Sembawang Public Library| Available|
+|Senkang Public Library| Available|
+|Serangoon Public Library| Available|
+|Tampines Regional Library| Available|
+|Toa Payoh Public Library| Available|
+|Woodlands Regional Library| Available|
+|Yishun Public Library| Available|
+
+
+
+
+
+
 #### 1 August 2022
 [<img src="/images/events/bookbugsr/BBR NDP release fb.png" alt="August release" style="width: 100%" align="left">](https://childrenandteens.nlb.nlb.gov.sg/events/bookbugsr/updates)
 

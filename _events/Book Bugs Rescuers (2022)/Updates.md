@@ -4,7 +4,6 @@ permalink: /events/bookbugsr/updates
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-
 #### August Card Availabilities 
 
 | Public Library | Availability|

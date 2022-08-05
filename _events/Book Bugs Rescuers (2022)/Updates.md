@@ -20,7 +20,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 |Geylang East Public Library| Available|
 |Jurong Regional Library| Available|
 |Jurong West Public Library| Available|
-|Library@Harbourfront| Available|
+|library@harbourfront| Available|
 |Pasir Ris Public Library| Available|
 |Queenstown Public Library| Available|
 |Sembawang Public Library| Available|

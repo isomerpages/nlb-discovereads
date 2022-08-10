@@ -57,7 +57,7 @@ style="width:300px; text-align:left;">
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
      <div class="image"><a href="https://www.youtube.com/watch?v=qXW7oNtA0Pc" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+       <img src=">/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-one-fifths">

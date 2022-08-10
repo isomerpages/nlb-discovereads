@@ -4,19 +4,18 @@ permalink: /diy-resources/preschool-resources/discovertech
 description: ""
 third_nav_title: Preschool Resources
 ---
-![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/Looping/DiscoverTech%20Eventbrite%20Banner.jpg)
 
 
 **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
-	<h3 class\="margin--bottom--lg" id\="lp\-time"\><b\> Let’s Learn About Positive Dl Habits!</b\></h3\>
-
- <p\><b\>Suitable for 4 to 6 years old</b\></p\>
+<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Digital Art!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+	
 <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
 
 <h4>What is Digital Art?</h4>  
-<p>These days art isn't limited to paper and colour pencils.Digital Art uses technology like tablets or laptops to create images. You can draw your favourite storybook character or tasty treats. With certain apps, your images can even move! 
+<p>These days art isn't limited to paper and colour pencils. Digital Art uses technology like tablets or laptops to create images. You can draw your favourite storybook character or tasty treats. With certain apps, your images can even move! 
 <br><br>
 <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
 Colours are so important. They are one of the first ways a toddler learns, understands and describes objects they see. Another method of arranging visual information is through shapes. Letting your child explore different shapes helps with their observational skills too. 
@@ -27,10 +26,8 @@ Colours are so important. They are one of the first ways a toddler learns, under
 <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
    
 <h5>How To Play</h5>
-		<ul>
- <p> Find colourful items and place them in a basket or box. Next, place coloured paper in front of the basket and have your child sort the objects. <br><br>
+ <p> Find colourful items and place them in a basket or box. Next, place coloured paper in front of the basket and have your child sort the objects. <br>
 	 
-</ul>
 
 <h5>Parents' Pro Tip</h5>
 <p>This wonderful activity helps your child develop skills in making comparisons as well as their organisation. As your child plays, they will classify and sort items based on their similarities. </p>
@@ -48,9 +45,9 @@ style="width:300px; text-align:left;">
 </ul>     
 
 <h5>How To Play</h5>
-		<ul>
+
  <p> Decorate Poulpe and her home in time for her party. Practice your math by figuring out which number corresponds to which colour. Be as creative as you can with the colours. You can even draw objects in the background.<br><br>	 
-</ul>
+
 
 <h5>Parents’ Pro Tip</h5> 
 <p> The background with no numbers is a chance for your child to draw and colour freely! If your child gets stuck on what to draw or write, have some visual references handy. Use your fingers to count with your child and have them do the same. If they run into a mistake, don't tell them if they're wrong. Encourage them to try again.<br>

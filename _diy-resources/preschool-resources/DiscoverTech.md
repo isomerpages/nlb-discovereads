@@ -13,7 +13,7 @@ third_nav_title: Preschool Resources
 <h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Positive Digital Habits!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src=/images/diyresources/preschool/discovertech/Positive%20Habit/Babies.png) style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Babies.png" style="width:500px; text-align:left;">
 
 <h4>Help Your Child Develop Positive Digital Habits</h4>  
 <p>The American Academy of Pediatrics with support from the Media Literacy Council recommend that parents limit screen time (games, computers, tablets, smartphones and televisions) for preschoolers 2-5 years old to at most 1 hour per day.<br><br>
@@ -23,7 +23,7 @@ Your children should watch high-quality programming - which means it’s got to 
 
 
 <h4>Bonding Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/nature%20hunt.png" style="width:300px; text-align:left;">
 
  <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
    
@@ -37,9 +37,6 @@ Your children should watch high-quality programming - which means it’s got to 
 <p> Parents, please take pictures of your children while they are out and about.<br><br>
 </ul>
 </ul>
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
-style="width:300px; text-align:left;">
-
   <h5>Reflection</h5>
 		<ul>
 		<p> Talk to your child about their scavenger hunt. </p>
@@ -56,8 +53,8 @@ style="width:300px; text-align:left;">
 <p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>
 
 <h4>Unlock your Phone! </h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
-style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Unlock%20your%20phone.jpg"
+style="width:500px; text-align:left;">
 
 <p>Have your ever taken a look at your hand? At the tips of your fingers are your own unique prints. That means no one else has the same whorls and loops like you do. Our fingerprints also protect the privacy of your parents' phones.</p>
 
@@ -77,8 +74,10 @@ style="width:300px; text-align:left;">
 Can you figure out where they are hiding? </p><h5>Instructions</h5>
 <ul>
  <p> Circle the books you find.
-	<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+	<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Hiding.png" style="width:500px; text-align:left;">
 
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/activity%20templates.png" style="width:300px; text-align:left;">
+	 
 </ul>    
 
 
@@ -86,7 +85,7 @@ Can you figure out where they are hiding? </p><h5>Instructions</h5>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
      <div class="image"><a href="https://www.youtube.com/watch?v=CnFHY16KJXY" target="_blank">
-       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+       <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Dangers%20of%20screentime.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-one-fifths">
@@ -101,7 +100,7 @@ Can you figure out where they are hiding? </p><h5>Instructions</h5>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/5404844" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Gabi's Fabulous Functions </b><br>
@@ -111,7 +110,7 @@ Can you figure out where they are hiding? </p><h5>Instructions</h5>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348737616/364796671,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/4098706" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Youre%20missing%20it.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>You're Missing It!</b><br>
@@ -125,7 +124,7 @@ Can you figure out where they are hiding? </p><h5>Instructions</h5>
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://nlb.overdrive.com/media/3965032" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/5697116" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/My%20animal%20atlas.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>My Animal Atlas: 270 Amazing Animals and Where They Live</b><br>
@@ -135,7 +134,7 @@ Can you figure out where they are hiding? </p><h5>Instructions</h5>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/348738926/360721540,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/how%20to%20code%20a%20sandcastle.png" style="width:150px; text-align:left;"></a>
+       <a href="https://nlb.overdrive.com/media/5640469" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/The%20wild%20world.png" style="width:150px; text-align:left;"></a>
 			</div>
     <div class="text">
        <p><b>The Wild World Handbook: Habitats</b><br>

@@ -10,6 +10,110 @@ third_nav_title: Preschool Resources
 **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
+	<h3 class\="margin--bottom--lg" id\="lp\-time"\><b\> Let’s Learn About Positive Dl Habits!</b\></h3\>
+
+ <p\><b\>Suitable for 4 to 6 years old</b\></p\>
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
+
+<h4>What is Digital Art?</h4>  
+<p>These days art isn't limited to paper and colour pencils.Digital Art uses technology like tablets or laptops to create images. You can draw your favourite storybook character or tasty treats. With certain apps, your images can even move! 
+<br><br>
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+Colours are so important. They are one of the first ways a toddler learns, understands and describes objects they see. Another method of arranging visual information is through shapes. Letting your child explore different shapes helps with their observational skills too. 
+</p>
+
+
+<h4>Colours Activity</h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+   
+<h5>How To Play</h5>
+		<ul>
+ <p> Find colourful items and place them in a basket or box. Next, place coloured paper in front of the basket and have your child sort the objects. <br><br>
+	 
+</ul>
+
+<h5>Parents' Pro Tip</h5>
+<p>This wonderful activity helps your child develop skills in making comparisons as well as their organisation. As your child plays, they will classify and sort items based on their similarities. </p>
+			
+
+<h4>Poulpe the Octopus’ Birthday Party!</h4> 
+<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+style="width:300px; text-align:left;">
+
+<h5> Materials Needed</h5>
+<ul>
+     <li>Colour Pencils</li>
+     <li>Paint</li>
+     <li>Crayons</li>
+</ul>     
+
+<h5>How To Play</h5>
+		<ul>
+ <p> Decorate Poulpe and her home in time for her party. Practice your math by figuring out which number corresponds to which colour. Be as creative as you can with the colours. You can even draw objects in the background.<br><br>	 
+</ul>
+
+<h5>Parents’ Pro Tip</h5> 
+<p> The background with no numbers is a chance for your child to draw and colour freely! If your child gets stuck on what to draw or write, have some visual references handy. Use your fingers to count with your child and have them do the same. If they run into a mistake, don't tell them if they're wrong. Encourage them to try again.<br>
+</p>
+ 
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=qXW7oNtA0Pc" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_video.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> 13 Toddler Activities for Learning You Can Do At Home | 1-2 year olds I butfirstcoffeeblog.com (12.33min) </b>
+   </div>
+ </div>
+ <p>Great and colorful educational crafts and DIYs for toddlers. Learn colors and numbers with these awesome crafts for kids!
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364233045/246722287,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>That's Not My Zebra's Colours </b><br>
+       <u>By:</u> Fiona Watt, Rachel Wells & Non Figg <br>
+       <u>Publisher:</u>London: Usborne, 2018<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/6071867" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Finding Beauty</b><br>
+        <u>By:</u>Talitha Shipman<br>
+        <u>Publisher:</u>Minneapolis, MN: Beaming Books, 2021<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364234948/364809386,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Art and Photos wih ScratchJr</b><br>
+       <u>Publisher:</u>New York: PowerKids Press, 2022<br>
+       </p></div>
+   </div>
+     </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+
+	
 <h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Positive Digital Habits!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  

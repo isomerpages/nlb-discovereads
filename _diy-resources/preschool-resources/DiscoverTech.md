@@ -4,26 +4,25 @@ permalink: /diy-resources/preschool-resources/discovertech
 description: ""
 third_nav_title: Preschool Resources
 ---
-
-
 **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
 <h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Digital Art!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 	
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_main%20image.png" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:200px; text-align:left;">
 
 <h4>What is Digital Art?</h4>  
 <p>These days art isn't limited to paper and colour pencils. Digital Art uses technology like tablets or laptops to create images. You can draw your favourite storybook character or tasty treats. With certain apps, your images can even move! 
 <br><br>
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/colours1.jpg" style="width:500px; text-align:left;">
+	
 Colours are so important. They are one of the first ways a toddler learns, understands and describes objects they see. Another method of arranging visual information is through shapes. Letting your child explore different shapes helps with their observational skills too. 
 </p>
 
 
 <h4>Colours Activity</h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/decomposition_sandwich%20robot%20activity.png" style="width:500px; text-align:left;">
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/Sorting%20Colours%20Activity%20.jpg" style="width:500px; text-align:left;">
    
 <h5>How To Play</h5>
  <p> Find colourful items and place them in a basket or box. Next, place coloured paper in front of the basket and have your child sort the objects. <br>
@@ -34,7 +33,7 @@ Colours are so important. They are one of the first ways a toddler learns, under
 			
 
 <h4>Poulpe the Octopus’ Birthday Party!</h4> 
-<img src="/images/diyresources/preschool/discovertech/Decomposition/deecomposition_rocket%20activity.png"
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/Octopus%20Birthday%20Party!.jpg"
 style="width:300px; text-align:left;">
 
 <h5> Materials Needed</h5>
@@ -73,7 +72,7 @@ style="width:300px; text-align:left;">
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364233045/246722287,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/How%20to%20code%20a%20rollercoaster.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364233045/246722287,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Digital%20Art/Zebra's%20Colours.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>That's Not My Zebra's Colours </b><br>
@@ -83,7 +82,7 @@ style="width:300px; text-align:left;">
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://nlb.overdrive.com/media/6071867" target="_blank"><img src="/images/diyresources/preschool/discovertech/branching/if then.png" style="width:150px; text-align:left;"></a>
+        <a href="https://nlb.overdrive.com/media/6071867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Digital%20Art/Finding%20Beauty.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Finding Beauty</b><br>
@@ -97,7 +96,7 @@ style="width:300px; text-align:left;">
  </div> is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364234948/364809386,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Looping/baby%20loves%20coding.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364234948/364809386,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Digital%20Art/Art%20and%20Photos.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Art and Photos wih ScratchJr</b><br>

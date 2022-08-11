@@ -33,7 +33,7 @@ Colours are so important. They are one of the first ways a toddler learns, under
 			
 
 <h4>Poulpe the Octopus’ Birthday Party!</h4> 
-<img src="![](/images/Video%202.jpg)"
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/Octopus.jpg"
 style="width:300px; text-align:left;">
 
 <h5> Materials Needed</h5>
@@ -62,7 +62,7 @@ href="/files/Diyresources/Octopus%20Activity%20Sheet.pdf" target="_blank">Activi
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-four-fifths">
      <div class="image"><a href="https://www.youtube.com/watch?v=qXW7oNtA0Pc" target="_blank">
-       <img src="/images/Video%202.jpg" style="width:500px; text-align:left;"></a>
+       <img src="/images/diyresources/preschool/discovertech/Digital%20Art/Video%202-2.jpg" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-one-fifths">

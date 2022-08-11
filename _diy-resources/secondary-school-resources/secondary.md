@@ -10,7 +10,7 @@ third_nav_title: Secondary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 21 Jul 2021)_
+_(Updated on 11 Aug 2022)_
 
 **What do you want to do today?**
 
@@ -95,7 +95,7 @@ Pick a short read and create a story-based craft.
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
 |***New!* 2022 PopReads!**|
-| <a href="/files/diyresources/PopReads22-S-Its-About-Time.PDF"><img src="/images/diyresources/secondary/PopReads22_S_ItsAboutTime.png" alt="It's About Time PopReads!" style="width: 65%;"></a> | <a href="/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF"><img src="/images/diyresources/secondary/PopReads22_S_KeepCalmAndReachYourGoals.png" alt="Keep Calm and Reach Your Goals PopReads!" style="width: 80%;"></a> |
+| <a href="/files/diyresources/PopReads22-S-Its-About-Time.PDF"><img src="/images/diyresources/secondary/PopReads22_S_ItsAboutTime.png" alt="It's About Time PopReads!" style="width: 50%;"></a> | <a href="/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF"><img src="/images/diyresources/secondary/PopReads22_S_KeepCalmAndReachYourGoals.png" alt="Keep Calm and Reach Your Goals PopReads!" style="width: 50%;"></a> |
 	
 |**2021 PopReads!**|
 | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_Expressions.PDF"><img src="/images/diyresources/secondary/popreads21-expressions.png" alt="Expressions PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF"><img src="/images/diyresources/secondary/popreads21-myths.png" alt="Myths Come Alive PopReads!" style="width: 60%;"></a> |

@@ -46,6 +46,11 @@ style="width:300px; text-align:left;">
 <h5>How To Play</h5>
 
  <p> Decorate Poulpe and her home in time for her party. Practice your math by figuring out which number corresponds to which colour. Be as creative as you can with the colours. You can even draw objects in the background.<br><br>	 
+	 
+</p>	
+<a
+href="/files/Diyresources/Octopus%20Activity%20Sheet.pdf" target="_blank">Activity Sheet for Octopus Birthday Party!</a><br>
+
 
 
 <h5>Parents’ Pro Tip</h5> 

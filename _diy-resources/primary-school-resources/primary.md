@@ -10,7 +10,7 @@ third_nav_title: Primary School Resources
 
 This page is best viewed on your desktop. 
 
-_(Updated on 21 Jul 2021)_
+_(Updated on 11 Aug 2022)_
 
 **What do you want to do today?**
 
@@ -126,7 +126,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 |***New!* 2022 PopReads!**|
 |Lower Primary|
-| <a href="/files/diyresources/PopReads22-LP-Animals-That-Come-Alive-At-Night.PDF"><img src="/images/diyresources/primary/PopReads22_LP_AnimalsThatComeAliveAtNight.png" alt="Animals That Come Alive At Night PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-LP-Courage_Conquers_All.PDF"><img src="/images/diyresources/primary/PopReads22_LP_CourageConquersAll.png" alt="Courage Conquers All PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-LP-Letters-from-Space.PDF"><img src="/images/diyresources/primary/PopReads22_LP_LettersFromSpace.png" alt="Letters From Space PopReads!" style="width: 60%;"></a> | 
+| <a href="/files/diyresources/PopReads22-LP-Animals-That-Come-Alive-At-Night.PDF"><img src="/images/diyresources/primary/PopReads22_LP_AnimalsThatComeAliveAtNight.png" alt="Animals That Come Alive At Night PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-LP-Courage_Conquers_All.PDF"><img src="/images/diyresources/primary/PopReads22_LP_CourageConquersAll.png" alt="Courage Conquers All PopReads!" style="width: 70%;"></a> | <a href="/files/diyresources/PopReads22-LP-Letters-from-Space.PDF"><img src="/images/diyresources/primary/PopReads22_LP_LettersFromSpace.png" alt="Letters From Space PopReads!" style="width: 70%;"></a> | 
 |Upper Primary|
 | <a href="/files/diyresources/PopReads22-UP-Thinking-About-Feelings.PDF"><img src="/images/diyresources/primary/PopReads22_UP_ThinkingAboutFeelings.png" alt="Thinking About Feelings PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-UP-Together-Were-Stronger.PDF"><img src="/images/diyresources/primary/PopReads22_UP_TogetherWereStronger.png" alt="Together We're Stronger PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-UP-We-Can-be-Heroes.PDF"><img src="/images/diyresources/primary/PopReads22_UP_WeCanBeHeroes.png" alt="We Can Be Heroes PopReads!" style="width: 60%;"></a> |
 

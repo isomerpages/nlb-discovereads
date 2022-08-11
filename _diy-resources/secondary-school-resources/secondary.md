@@ -95,7 +95,7 @@ Pick a short read and create a story-based craft.
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
 |***New!* 2022 PopReads!**|
-| <a href="/files/diyresources/PopReads22-S-Its-About-Time.PDF"><img src="/images/diyresources/secondary/PopReads22_S_ItsAboutTime.png" alt="It's About Time PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF"><img src="/images/diyresources/secondary/PopReads22_S_KeepCalmAndReachYourGoals.png" alt="Keep Calm and Reach Your Goals PopReads!" style="width: 70%;"></a> |
+| <a href="/files/diyresources/PopReads22-S-Its-About-Time.PDF"><img src="/images/diyresources/secondary/PopReads22_S_ItsAboutTime.png" alt="It's About Time PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF"><img src="/images/diyresources/secondary/PopReads22_S_KeepCalmAndReachYourGoals.png" alt="Keep Calm and Reach Your Goals PopReads!" style="width: 60%;"></a> |
 	
 |**2021 PopReads!**|
 | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_Expressions.PDF"><img src="/images/diyresources/secondary/popreads21-expressions.png" alt="Expressions PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF"><img src="/images/diyresources/secondary/popreads21-myths.png" alt="Myths Come Alive PopReads!" style="width: 60%;"></a> |

@@ -125,10 +125,9 @@ Pick a short read and create a story-based craft.
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
 |***New!* 2022 PopReads!**|
-|Lower Primary| 
-|Animals That Come Alive At Night|Courage Conquers All| Letters From Space|
+| Lower Primary |
 | <a href="/files/diyresources/PopReads22-LP-Animals-That-Come-Alive-At-Night.PDF"><img src="/images/diyresources/primary/PopReads22_LP_AnimalsThatComeAliveAtNight.png" alt="Animals That Come Alive At Night PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-LP-Courage_Conquers_All.PDF"><img src="/images/diyresources/primary/PopReads22_LP_CourageConquersAll.png" alt="Courage Conquers All PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-LP-Letters-from-Space.PDF"><img src="/images/diyresources/primary/PopReads22_LP_LettersFromSpace.png" alt="Letters From Space PopReads!" style="width: 60%;"></a> | 
-|Upper Primary|
+| Upper Primary | 
 | <a href="/files/diyresources/PopReads22-UP-Thinking-About-Feelings.PDF"><img src="/images/diyresources/primary/PopReads22_UP_ThinkingAboutFeelings.png" alt="Thinking About Feelings PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-UP-Together-Were-Stronger.PDF"><img src="/images/diyresources/primary/PopReads22_UP_TogetherWereStronger.png" alt="Together We're Stronger PopReads!" style="width: 80%;"></a> | <a href="/files/diyresources/PopReads22-UP-We-Can-be-Heroes.PDF"><img src="/images/diyresources/primary/PopReads22_UP_WeCanBeHeroes.png" alt="We Can Be Heroes PopReads!" style="width: 80%;"></a> |
 
 

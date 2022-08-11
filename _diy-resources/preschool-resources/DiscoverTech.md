@@ -4,10 +4,10 @@ permalink: /diy-resources/preschool-resources/discovertech
 description: ""
 third_nav_title: Preschool Resources
 ---
-**New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+**New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! I </a> I **New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> I **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> I **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
-<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Digital Art!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-digitalart"><b> Let’s Learn About Digital Art!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 	
 <img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:200px; text-align:left;">
@@ -115,7 +115,7 @@ href="/files/Diyresources/Octopus%20Activity%20Sheet.pdf" target="_blank">Activi
 
 
 	
-<h3 class="margin--bottom--lg" id="lp-time"><b> Let’s Learn About Positive Digital Habits!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-positivehabits"><b> Let’s Learn About Positive Digital Habits!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
 <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Babies.png" style="width:500px; text-align:left;">

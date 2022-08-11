@@ -4,10 +4,255 @@ permalink: /diy-resources/preschool-resources/discovertech
 description: ""
 third_nav_title: Preschool Resources
 ---
-![Alt text for image on Isomer site](/images/diyresources/preschool/discovertech/Looping/DiscoverTech%20Eventbrite%20Banner.jpg)
+ I **New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> I **New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! I </a>I **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> I **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+	
+
+<h3 class="margin--bottom--lg" id="lp-digitalart"><b> Let’s Learn About Digital Art!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+	
+<img src="/images/diyresources/preschool/discovertech/branching/dino.png" style="width:200px; text-align:left;">
+
+<h4>What is Digital Art?</h4>  
+<p>These days art isn't limited to paper and colour pencils. Digital Art uses technology like tablets or laptops to create images. You can draw your favourite storybook character or tasty treats. With certain apps, your images can even move! 
+<br><br>
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/colours%201.jpg" style="width:500px; text-align:left;">
+	
+Colours are so important. They are one of the first ways a toddler learns, understands and describes objects they see. Another method of arranging visual information is through shapes. Letting your child explore different shapes helps with their observational skills too. 
+</p>
 
 
-**New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+<h4>Colours Activity</h4> 
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/sorting%20colours.jpg" style="width:500px; text-align:left;">
+   
+<h5>How To Play</h5>
+ <p> Find colourful items and place them in a basket or box. Next, place coloured paper in front of the basket and have your child sort the objects. <br>
+	 
+
+<h5>Parents' Pro Tip</h5>
+<p>This wonderful activity helps your child develop skills in making comparisons as well as their organisation. As your child plays, they will classify and sort items based on their similarities. </p>
+			
+
+<h4>Poulpe the Octopus’ Birthday Party!</h4> 
+<img src="/images/diyresources/preschool/discovertech/Digital%20Art/Octopus.jpg"
+style="width:300px; text-align:left;">
+
+<h5> Materials Needed</h5>
+<ul>
+     <li>Colour Pencils</li>
+     <li>Paint</li>
+     <li>Crayons</li>
+</ul>     
+
+<h5>How To Play</h5>
+
+ <p> Decorate Poulpe and her home in time for her party. Practice your math by figuring out which number corresponds to which colour. Be as creative as you can with the colours. You can even draw objects in the background.<br><br>	 
+	 
+</p>	
+<a
+href="/files/Diyresources/Octopus%20Activity%20Sheet.pdf" target="_blank">Activity Sheet for Octopus Birthday Party!</a><br>
+
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p> The background with no numbers is a chance for your child to draw and colour freely! If your child gets stuck on what to draw or write, have some visual references handy. Use your fingers to count with your child and have them do the same. If they run into a mistake, don't tell them if they're wrong. Encourage them to try again.<br>
+</p>
+ 
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=qXW7oNtA0Pc" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Digital%20Art/Video%202-2.jpg" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> 13 Toddler Activities for Learning You Can Do At Home | 1-2 year olds I butfirstcoffeeblog.com (12.33min) </b>
+   </div>
+ </div>
+ <p>Great and colorful educational crafts and DIYs for toddlers. Learn colors and numbers with these awesome crafts for kids!
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364233045/246722287,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Digital%20Art/That's%20not%20my%20zebra.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>That's Not My Zebra's Colours </b><br>
+       <u>By:</u> Fiona Watt, Rachel Wells & Non Figg <br>
+       <u>Publisher:</u>London: Usborne, 2018<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/6071867" target="_blank"><img src="/images/diyresources/preschool/discovertech/Digital%20Art/Finding%20Beauty.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Finding Beauty</b><br>
+        <u>By:</u>Talitha Shipman<br>
+        <u>Publisher:</u>Minneapolis, MN: Beaming Books, 2021<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/364234948/364809386,1" target="_blank"><img src="/images/diyresources/preschool/discovertech/Digital%20Art/Art%20and%20Photos%20with%20Scratch%20Jr.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Art and Photos wih ScratchJr</b><br>
+       <u>Publisher:</u>New York: PowerKids Press, 2022<br>
+       </p></div>
+   </div>
+     </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+
+	
+<h3 class="margin--bottom--lg" id="lp-positivehabits"><b> Let’s Learn About Positive Digital Habits!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+ 
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Babies.png" style="width:500px; text-align:left;">
+
+<h4>Help Your Child Develop Positive Digital Habits</h4>  
+<p>The American Academy of Pediatrics with support from the Media Literacy Council recommend that parents limit screen time (games, computers, tablets, smartphones and televisions) for preschoolers 2-5 years old to at most 1 hour per day.<br><br>
+Toddlers 1-2 years old should be getting little to no screen time.<br><br>
+Your children should watch high-quality programming - which means it’s got to be educational and interactive!
+</p>
+
+
+<h4>Bonding Activity</h4> 
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/nature%20hunt.png" style="width:300px; text-align:left;">
+
+ <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
+   
+<h5>Instructions</h5>
+		<ul>
+ <p> Pack your gear:
+	 <ul>
+     <li>Bring a pencil to tick the treasures you find.</li>
+     <li>Remember to bring a water bottle. </li>
+     <li>Have fun outside! </li>
+<p> Parents, please take pictures of your children while they are out and about.<br><br>
+</ul>
+</ul>
+  <h5>Reflection</h5>
+		<ul>
+		<p> Talk to your child about their scavenger hunt. </p>
+			<ul>
+     <li>Which item was their favourite to find?</li>
+     <li>Which was the most difficult thing to find?</li>
+     <li>What senses did they use on their hunt</li> 
+</p>
+</ul>
+</ul>
+
+		
+<h5>Parents’ Pro Tip</h5> 
+<p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>
+
+<h4>Unlock your Phone! </h4> 
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Unlock%20your%20phone.jpg"
+style="width:500px; text-align:left;">
+
+<p>Have your ever taken a look at your hand? At the tips of your fingers are your own unique prints. That means no one else has the same whorls and loops like you do. Our fingerprints also protect the privacy of your parents' phones.</p>
+
+<h5>Instructions</h5>
+<ul>
+     <li>Try tracing a line from the key to the lock through the maze.</li>
+     <li>There are a few ways to unlock your phone.</li>
+</ul>     
+
+
+<h5>Parents’ Pro Tip</h5> 
+<p> Collaborate with your child. Encourage them to tell you how they would solve the activity. If they run into a mistake, don't tell them if they're wrong. Ask if what they're doing is the best way.<br>
+</p>
+
+<h4>Activity: What are we hiding?</h4> 
+ <p> Bai the Book wants to read with his friends and family at the playground.<br>
+Can you figure out where they are hiding? </p><h5>Instructions</h5>
+<ul>
+ <p> Circle the books you find.
+	<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Hiding.png" style="width:500px; text-align:left;">
+
+<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/activity%20templates.png" style="width:300px; text-align:left;">
+	 
+</ul>    
+
+
+<h4>Let's Watch!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-four-fifths">
+     <div class="image"><a href="https://www.youtube.com/watch?v=CnFHY16KJXY" target="_blank">
+       <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Dangers%20of%20screentime.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-one-fifths">
+<b> Why Screen Time For Kids Needs To Be Controlled (1:07 mins) </b>
+   </div>
+ </div>
+ <p>Controlling screen time can be tricky, because screens are everywhere. According to some big health organizations we should probably be paying more attention to the effects screen time can have on kids, especially the little ones under the age of 5.
+ </p>
+
+
+<h4>Let’s Read!</h4>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/4830938" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Gabis%20fabulous%20functions.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Gabi's Fabulous Functions </b><br>
+       <u>By:</u> Caroline Karanja & Ben Whitehouse <br>
+       <u>Publisher:</u>North Mankato, Minnesota: Picture Window Books, 2018<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/4098706" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Youre%20missing%20it.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>You're Missing It!</b><br>
+        <u>By:</u>Brady Smith & Tiffani Thiessen<br>
+        <u>Publisher:</u>New York, N.Y.: Nancy Paulsen Books, an imprint of Penguin Young Readers Group, 2019<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row </p></div>
+  </div>
+ </div> is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/5697116" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/My%20animal%20atlas.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>My Animal Atlas: 270 Amazing Animals and Where They Live</b><br>
+       <u>Author:</u>Nastja Holtfreter<br>
+       <u>Publisher:</u>Baltimore, MD: Duo Press, 2021<br>
+       </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/5640469" target="_blank"><img src="/images/diyresources/preschool/discovertech/Positive%20Habit/The%20wild%20world.png" style="width:150px; text-align:left;"></a>
+			</div>
+    <div class="text">
+       <p><b>The Wild World Handbook: Habitats</b><br>
+       <u>By:</u>Andrea Debbink & Asia Orlando<br>
+       <u>Publisher:</u> Philadelphia: Quirk Books, 2021<br>
+    </p></div>
+   </div>
+   </div>
+  <p>All book covers are copyright of the respective publishing companies.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+	
+	
 	
 <h3 class="margin--bottom--lg" id="lp-augmentedreality"><b> Let’s Learn About Augmented Reality!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>

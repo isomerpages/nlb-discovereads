@@ -9,11 +9,6 @@ third_nav_title: Preschool Resources
 
 ### **Booklists**
 
-##### NLB x Mendaki
-Discover more books on the following themes.
-
-
-
 ##### SPCA x NLB  
 Read more books about our adorable furry friends! 
 <br>Click or scan the respective QR codes for the e-booklists.

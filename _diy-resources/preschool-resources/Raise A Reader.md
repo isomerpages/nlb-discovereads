@@ -15,7 +15,7 @@ third_nav_title: Preschool Resources
 Looking for thematic reads on positive values for your little ones? Discover more below.
 
 |<a href="/files/preschool/Raise A Reader/HonestyandIntegrity.PDF"><img src="/images/diyresources/preschool/Raise A Reader/HonestyandIntegrity.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/BraveryandCourage.PDF"><img src="/images/diyresources/preschool/Raise A Reader/BraveryandCourage.jpg" style="width:80%"></a>| 
-|<a href="/files/preschool/Raise A Reader/AcceptingDifferences.PDF"><img src="/images/diyresources/preschool/Raise A Reader/AcceptingDifferences.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/TeamworkandCooperation.PDF"><img src="/images/diyresources/preschool/Raise A Reader/TeamworkandCooperation.jpg" style="width:70%"></a>|
+|<a href="/files/preschool/Raise A Reader/AcceptingDifferences.PDF"><img src="/images/diyresources/preschool/Raise A Reader/AcceptingDifferences.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/TeamworkandCooperation.PDF"><img src="/images/diyresources/preschool/Raise A Reader/TeamworkandCooperation.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/Resilience.PDF"><img src="/images/diyresources/preschool/Raise A Reader/Resilience.jpg" style="width:70%"></a>
 
 ##### NLB x SPCA
 Read more books about our adorable furry friends! 

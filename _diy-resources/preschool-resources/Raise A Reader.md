@@ -9,7 +9,16 @@ third_nav_title: Preschool Resources
 
 ### **Booklists**
 
-##### SPCA x NLB  
+*(Updated 16 August 2022)*
+
+##### NLB x MENDAKI 
+Looking for thematic reads on positive values for your little ones? Discover more below.
+
+|<a href="/files/preschool/Raise A Reader/HonestyandIntegrity.PDF"><img src="/images/diyresources/preschool/Raise A Reader/HonestyandIntegrity.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/BraveryandCourage.PDF"><img src="/images/diyresources/preschool/Raise A Reader/BraveryandCourage.jpg" style="width:75%"></a>| 
+|<a href="/files/preschool/Raise A Reader/AcceptingDifferences.PDF"><img src="/images/diyresources/preschool/Raise A Reader/AcceptingDifferences.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/TeamworkandCooperation.PDF"><img src="/images/diyresources/preschool/Raise A Reader/TeamworkandCooperation.jpg" style="width:70%"></a>|
+|<a href="/files/preschool/Raise A Reader/Resilience.PDF"><img src="/images/diyresources/preschool/Raise A Reader/Resilience.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/Friendship.PDF"><img src="/images/diyresources/preschool/Raise A Reader/Friendship.jpg" style="width:70%"></a>
+
+##### NLB x SPCA
 Read more books about our adorable furry friends! 
 <br>Click or scan the respective QR codes for the e-booklists.
 

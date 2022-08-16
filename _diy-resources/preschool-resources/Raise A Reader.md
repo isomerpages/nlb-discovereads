@@ -11,7 +11,7 @@ third_nav_title: Preschool Resources
 
 ##### NLB x MENDAKI
 
-|<a href="/files/preschool/Raise a Reader/HonestyandIntegrity.PDF"><img src="/images/diyresources/preschool/Raise a Reader/HonestyandIntegrity.jpg" style="width:70%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Lisa%20Booklist.PNG" style="width:70%"></a> |
+|<a href="/files/preschool/Raise a Reader/HonestyandIntegrity.PDF"><img src="/images/diyresources/preschool/RaiseReader/HonestyandIntegrity.jpg" style="width:70%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Lisa%20Booklist.PNG" style="width:70%"></a> |
 
 ##### NLB x SPCA
 Read more books about our adorable furry friends! 

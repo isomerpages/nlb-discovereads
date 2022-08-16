@@ -9,7 +9,11 @@ third_nav_title: Preschool Resources
 
 ### **Booklists**
 
-##### SPCA x NLB  
+##### NLB x MENDAKI
+
+|<a href="/files/preschool/Bite%20Science%20Booklist%20-%20DIY%20COMPOST_final.PDF"><img src="/images/diyresources/preschool/Wan%20Ting%20Booklist.PNG" style="width:70%"></a> | <a href="/files/preschool/booklists-for-science-lfa/Bite%20Science%20Booklist%20-%20Fill%20Me%20Up.PDF"><img src="/images/diyresources/preschool/Lisa%20Booklist.PNG" style="width:70%"></a> |
+
+##### NLB x SPCA
 Read more books about our adorable furry friends! 
 <br>Click or scan the respective QR codes for the e-booklists.
 

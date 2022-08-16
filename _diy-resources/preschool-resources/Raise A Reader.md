@@ -9,7 +9,9 @@ third_nav_title: Preschool Resources
 
 ### **Booklists**
 
-##### NLB x MENDAKI
+*(Updated 16 August 2022)*
+
+##### NLB x MENDAKI 
 Looking for thematic reads on positive values for your little ones? Discover more below.
 
 |<a href="/files/preschool/Raise A Reader/HonestyandIntegrity.PDF"><img src="/images/diyresources/preschool/Raise A Reader/HonestyandIntegrity.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/BraveryandCourage.PDF"><img src="/images/diyresources/preschool/Raise A Reader/BraveryandCourage.jpg" style="width:80%"></a>| 

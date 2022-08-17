@@ -5,7 +5,7 @@ third_nav_title: Storytime
 ---
 ## **Storytime and Super Storytastic**
 
-#### Storytime
+### Storytime
 
 <img src="/images/diyresources/Storytime-banner.png" alt="Storytime Banner" style="width: 70%;">
 
@@ -38,7 +38,7 @@ To view upcoming sessions, click [here](https://www.eventbrite.sg/cc/programmes-
 | Woodlands Regional Library | Everest Room | 1st and 3rd Saturday of the month | 3-3.30pm |
 | Yishun Public Library | Story Circle | 1st and 2nd Saturday of the month | 11.30am-12pm |
 
-#### Super Storytastic
+### Super Storytastic
 
 <img src="/images/diyresources/Storytastic-DR-banner.png" alt="Super Storytastic Banner" style="width: 70%;">
 
@@ -53,3 +53,5 @@ To view upcoming sessions, click [here](https://www.eventbrite.sg/cc/programmes-
 | Tampines Regional Library | Programme Zone | 1st Sunday of the month | 12-12.30pm |
 | Woodlands Regional Library | Everest Room | 2nd and 4th Friday of the month | 6.30-7pm |
 
+#### Storytelling Videos
+If you want more storytelling, you can watch our Storytime videos [here](https://childrenandteens.nlb.gov.sg/diy-resources/storytime/storytime-main)!

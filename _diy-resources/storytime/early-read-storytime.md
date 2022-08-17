@@ -38,3 +38,18 @@ To view upcoming sessions, click [here](https://www.eventbrite.sg/cc/programmes-
 | Woodlands Regional Library | Everest Room | 1st and 3rd Saturday of the month | 3-3.30pm |
 | Yishun Public Library | Story Circle | 1st and 2nd Saturday of the month | 11.30am-12pm |
 
+#### Super Storytastic
+
+<img src="/images/diyresources/Storytastic-DR-banner.png" alt="Super Storytastic Banner" style="width: 70%;">
+
+Join our storytellers as they bring you into a world of fascinating stories and tales. Fun and excitement await you!
+
+To view upcoming sessions, click [here](https://www.eventbrite.sg/cc/programmes-on-storytelling-127929). Alternatively, you may refer to the schedule below.
+
+| **Library** | **Venue** | **Schedule** | **Time** |
+| Ang Mo Kio Public Library | Activity Room | 1st and 3rd Friday of the month | 7.30-8pm |
+| Jurong Regional Library | Programme Zone | 1st and 3rd Sunday of the month | 12.30-1pm |
+| Queenstown Public Library | Programme Zone	 | 2nd and 4th Wednesday of the month | 7.30-8pm |
+| Tampines Regional Library | Programme Zone | 1st Sunday of the month | 12-12.30pm |
+| Woodlands Regional Library | Everest Room | 2nd and 4th Friday of the month | 6.30-7pm |
+

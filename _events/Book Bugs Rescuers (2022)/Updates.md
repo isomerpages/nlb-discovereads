@@ -24,7 +24,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 |Pasir Ris Public Library| Available|
 |Queenstown Public Library| Available|
 |Sembawang Public Library| Available|
-|Sengkang Public Library| Available|
+|Sengkang Public Library| Low Stock |
 |Serangoon Public Library| Available|
 |Tampines Regional Library| Available|
 |Toa Payoh Public Library| Available|

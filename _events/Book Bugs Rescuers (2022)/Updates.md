@@ -19,11 +19,11 @@ third_nav_title: Book Bugs Rescuers (2022)
 |Clementi Public Library| Low Stock |
 |Geylang East Public Library| Available|
 |Jurong Regional Library| Available|
-|Jurong West Public Library| Available|
+|Jurong West Public Library| Low Stock |
 |library@harbourfront| Available|
 |Pasir Ris Public Library| Available|
 |Queenstown Public Library| Low Stock|
-|Sembawang Public Library| Available|
+|Sembawang Public Library| Low Stock |
 |Sengkang Public Library| Low Stock |
 |Serangoon Public Library| Available|
 |Tampines Regional Library| Available|

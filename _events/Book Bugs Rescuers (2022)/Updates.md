@@ -9,22 +9,22 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 | Public Library | Status|
 |:---| :----|
-|Ang Mo Kio Public Library| Available|
-|Bedok Public Library| Available|
+|Ang Mo Kio Public Library| Low Stock |
+|Bedok Public Library| Low Stock |
 |Bishan Public Library| Available|
 |Bukit Batok Public Library| Available|
 |Bukit Panjang Public Library| Available|
 |Cheng San Public Library| Available|
-|Choa Chu Kang Public Library| Available|
-|Clementi Public Library| Available|
+|Choa Chu Kang Public Library| Low Stock|
+|Clementi Public Library| Low Stock |
 |Geylang East Public Library| Available|
 |Jurong Regional Library| Available|
-|Jurong West Public Library| Available|
+|Jurong West Public Library| Low Stock |
 |library@harbourfront| Available|
 |Pasir Ris Public Library| Available|
-|Queenstown Public Library| Available|
-|Sembawang Public Library| Available|
-|Senkang Public Library| Available|
+|Queenstown Public Library| Low Stock|
+|Sembawang Public Library| Low Stock |
+|Sengkang Public Library| Low Stock |
 |Serangoon Public Library| Available|
 |Tampines Regional Library| Available|
 |Toa Payoh Public Library| Available|

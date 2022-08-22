@@ -10,7 +10,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 | Public Library | Status|
 |:---| :----|
 |Ang Mo Kio Public Library| Available|
-|Bedok Public Library| Available|
+|Bedok Public Library| Low Stock |
 |Bishan Public Library| Available|
 |Bukit Batok Public Library| Available|
 |Bukit Panjang Public Library| Available|

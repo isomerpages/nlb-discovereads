@@ -33,5 +33,7 @@ Congratulations to the winners of the “A Book A Day” quarterly lucky draw!
 
 <a href="/files/preschool/Y2Q4_Winner%20Poster.PDF"><img src="/images/events/abookaday/Y2Q4%20winner%20poster%20screenshot.png" style="width:40%"></a>
 
+<a href="/files/preschool/Y3Q1_Winner%20Poster.pdf"><img src="/images/events/abookaday/Y3Q1%20.png" style="width:40%"></a>
+
 
 All our prize winners have been notified and have collected their prizes. Thank you for your participation.

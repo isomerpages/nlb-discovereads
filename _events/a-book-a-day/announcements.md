@@ -7,7 +7,7 @@ third_nav_title: A Book A Day
 ---
 ## **A Book A Day**
 
-*(updated on 11 March 2022)*
+*(updated on 23 August 2022)*
 
 <a href="https://childrenandteens.nlb.gov.sg/events/a-book-a-day/participation"><img src="/images/events/abookaday/ABAD%202022_NLB%20web%20banner.png"></a>
 
@@ -32,6 +32,8 @@ Congratulations to the winners of the “A Book A Day” quarterly lucky draw!
 <a href="/files/preschool/Y2Q3_Winner%20Poster_final.PDF"><img src="/images/events/abookaday/Y2Q3%20screenshot.png" style="width:40%"></a>
 
 <a href="/files/preschool/Y2Q4_Winner%20Poster.PDF"><img src="/images/events/abookaday/Y2Q4%20winner%20poster%20screenshot.png" style="width:40%"></a>
+
+<a href="/files/preschool/Y3Q1_Winner%20Poster.pdf"><img src="/images/events/abookaday/Y3Q1%20.png" style="width:40%"></a>
 
 
 All our prize winners have been notified and have collected their prizes. Thank you for your participation.

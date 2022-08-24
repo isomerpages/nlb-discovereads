@@ -507,5 +507,3 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <p>Have a fun day at the swimming pool and inflate a float together with your child! Point out how the float stays afloat after inflation. Ask your child what they think is happening.</p>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-Click [here](/diy-resources/preschool-resources/discover-science) to go back to the previous page.

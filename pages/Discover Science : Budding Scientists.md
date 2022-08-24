@@ -61,6 +61,13 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 
 <p> Discuss with your child if they can tell you which of the following three shapes above our polygons and their reasons why they chose that shape. Ask them if they can relate their decision to the characteristics they had learnt above. </p>
 
+<p> Polygons are named by the number of their shapes, and you can find them all around you!</p>
+
+Download the flash cards (https://go.gov.sg/polygonworksheet1 and https://go.gov.sg/polygonworksheet2) to go through the names and properties of some well-known polygons with your child, as well as common objects that have the same shapes.
+
+ It may be a mouthful, but squares and rectangles are also known as Quadrilaterals, a name that refers to their four sides! Here are some flashcards to help them retain this fun fact!
+https://go.gov.sg/funfactsquadrilaterals
+
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

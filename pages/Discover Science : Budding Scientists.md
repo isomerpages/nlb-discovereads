@@ -163,6 +163,14 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
 
 <b><a href="https://origami.me/ice-cream/" target="_blank">Craft Instructions (with Pictures)</a><br></b>
 
+<p> After making these lovely creations, ask your child the questions below to keep interesting conversations going about geometrical concepts!</p>
+
+<p>1. What shapes do you notice as you make your origami creation?</p>
+ <p>2. How many sides does your origami creation have?</p>
+ <p>3. Can your origami stand upright or lie flat? What does that tell you? </p>
+
+<h5>LET’S WATCH!</h5>   
+<p> Unwind with your child with these helpful videos in understanding geometry, the study of the sizes, shapes, positions angles and dimensions of things. Geometry itself is a word that you can teach your children!</p>
 
 
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

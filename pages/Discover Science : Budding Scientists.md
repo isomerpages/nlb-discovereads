@@ -17,6 +17,15 @@ description: ""
 <p>Squares, triangles, and rectangles are shapes that can be found in the world around us. There are also many other interesting shapes such as pentagons, hexagons, and octagons. Let us enter the wonderful world of polygons and discover the shapes that are around us!</p>
 
 <p> Let us have some fun learning about the concept of shapes and polygons with books and art materials!</p>
+
+<h4>LET'S SING!</h4>
+<h5>Tuning-in Song: We are Shapes</h5>   
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/TuningInSong.jpg" style="width:600px; text-align:center;">
+
+<p> Repeat this song with other shapes such as circles, rectangles and triangles and ask your child if they can notice and name any differences between their characteristics!</p>
+
+
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

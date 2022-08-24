@@ -172,6 +172,32 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
 <h5>LET’S WATCH!</h5>   
 <p> Unwind with your child with these helpful videos in understanding geometry, the study of the sizes, shapes, positions angles and dimensions of things. Geometry itself is a word that you can teach your children!</p>
 
+<b><p>Polygon Song</p></b>
+
+<div class="row is-multiline margin--bottom--lg">
+    <div class="col is-two-fifths">
+        <div class=image><a href="https://www.youtube.com/watch?v=69lfTURDles" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Video%20Thumbnail%201.jpg" style="width:400px; text-align:left;"></a>
+        </div>
+    </div>
+    <div class="col is-two-fifths">
+<p><b> Have Fun Teaching (2013, 16 April). Polygon Song. YouTube. </b><br> Let's dance our way into learning about polygons! This fun 4-minute song about polygons and their properties will have your child recognising these interesting shapes in no time.</p>
+    </div>
+</div>
+
+ <b><p>3D Shapes</p></b>
+ 
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-two-fifths">
+    <div class=image><a href="https://www.youtube.com/watch?v=guNdJ5MtX1A" target="\_blank">
+       <img src="/images/science-lfa/Shapes%20and%20Polygons/Video%20Thumbnail%202.jpg" style="width:800px; text-align:left;"></a>
+     </div>
+        </div>
+<div class="col is-two-fifths">
+ <p><b> The Singing Walrus - English Songs for Kids. (2017, 17 April). 3D Shapes Song | Shapes for kids | The Singing Walrus. YouTube. </b><br> Take it a step further and let us look at 3D shapes as well! Spheres, cones, cylinders, and pyramids, oh my!
+</p>
+   </div>
+</div>
+
 
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

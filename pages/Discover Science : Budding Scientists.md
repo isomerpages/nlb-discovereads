@@ -49,6 +49,8 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
  <h4>LET'S LEARN!</h4>
 <img src="/images/science-lfa/Shapes%20and%20Polygons/Polygons.png" style="width:200px; text-align:center;">
 
+<b><p>What are Polygons?</p></b>
+
 
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

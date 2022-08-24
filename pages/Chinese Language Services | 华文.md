@@ -8,7 +8,7 @@ permalink: /chinese-language
 
 |[![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#联系我们)|![Padding](/images/mother-tongue-services/Blank%20Space-%20TS.png)|
 
-[Check out our latest video for 0-3:]
+Check out our latest video for 0-3:
 
 [Video]( https://go.gov.sg/emergentvideo2) 
 

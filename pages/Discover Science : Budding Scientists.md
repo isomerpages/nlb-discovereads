@@ -155,6 +155,13 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
 
 <b><a href="https://origami.me/fox/" target="\_blank">Craft Instructions (with Pictures)</a><br></b>
 	
+<p><u> Origami Ice Cream</u><br><i> How to make an easy origami ice cream cone. Origami.me. (2018, May 16).  Retrieved April 19, 2022, from <a href="https://origami.me/ice-cream/" target="_blank"> https://origami.me/ice-cream/ </a></i>
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Ice%20Cream%201.jpg" style="width:200px; text-align:center;">
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Ice%20Cream%202.jpg" style="width:200px; text-align:center;">
+
+<b><a href="https://origami.me/ice-cream/" target="_blank">Craft Instructions (with Pictures)</a><br></b>
 
 
 

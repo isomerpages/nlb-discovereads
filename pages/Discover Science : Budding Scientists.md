@@ -198,6 +198,52 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
    </div>
 </div>
 
+<h4>LET'S READ!</h4>
+<div class="row is-multiline">
+    <div class="col is-half-tablet padding--bottom--lg">
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205677145" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Shapes%20at%20the%20Park.png" style="width:150px; text-align:left;"></a>
+        </div>
+        <div class="text">
+            <p><b>Shapes at the Park</b><br>
+            <u>By:</u> Christianne C. Jones<br>
+            <u>Publisher:</u> North Mankato, Minnesota : Pebble, a Capstone imprint, [2022]<br>
+            </p>
+        </div>
+    </div>
+    <div class="col is-half-tablet padding--bottom--lg">
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205254001" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Amazing%20Shapes.png" style="width:160px; text-align:left;"></a>
+        </div>
+        <div class="text">
+            <p><b>Amazing Shapes: Lift and Learn</b><br>
+            <u>By:</u> Hélène Hilton (Editor)<br>
+            <u>Publisher:</u> London : Dorling Kindersley Limited, [2020]<br>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="row is-multiline">
+    <div class="col is-half-tablet padding--bottom--lg">
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 203772711" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Drawing%20a%20Bear%20with%20Squares.jpg" style="width:150px; text-align:left;"></a>
+        </div>
+        <div class="text">
+            <p><b>Drawing a Bear with Squares</b><br>
+            <u>By:</u> Jo Marie Anderson<br>
+            <u>Publisher:</u> New York : PowerKids Press, 2019<br>
+            </p>
+        </div>
+    </div>
+    <div class="col is-half-tablet padding--bottom--lg">
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205671175" target="\_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/I%20Spy%20Shapes.png" style="width:150px; text-align:left;"></a>
+        </div> 
+        <div class="text">
+            <p><b>I Spy Shapes</b><br>
+            <u>By:</u>Marie Roesser<br>
+            <u>Publisher:</u> New York : Gareth Stevens Publishing, 2022<br>
+            </p>
+        </div>
+    </div>
+</div>
+
 
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

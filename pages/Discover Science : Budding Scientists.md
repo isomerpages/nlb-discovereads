@@ -25,7 +25,7 @@ description: ""
 
 <p> Repeat this song with other shapes such as circles, rectangles and triangles and ask your child if they can notice and name any differences between their characteristics!</p>
 
-The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics](https://go.gov.sg/weareshapessonglyrics)
+<p>The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics](https://go.gov.sg/weareshapessonglyrics)</p>
 
 <b><p>Tips for Parents:</p></b>
 <p> The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. The catchy rhythm helps your child remember what they are learning, and they will be singing about the different properties of shapes in no time!</p>
@@ -63,10 +63,10 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 
 <p> Polygons are named by the number of their shapes, and you can find them all around you!</p>
 
-Download the flash cards at: https://go.gov.sg/polygonworksheet1 and https://go.gov.sg/polygonworksheet2 to go through the names and properties of some well-known polygons with your child, as well as common objects that have the same shapes.
+<p>Download the flash cards at: https://go.gov.sg/polygonworksheet1 and https://go.gov.sg/polygonworksheet2 to go through the names and properties of some well-known polygons with your child, as well as common objects that have the same shapes.</p>
 
- It may be a mouthful, but squares and rectangles are also known as Quadrilaterals, a name that refers to their four sides! Here are some flashcards to help them retain this fun fact!
-https://go.gov.sg/funfactsquadrilaterals
+<p>It may be a mouthful, but squares and rectangles are also known as Quadrilaterals, a name that refers to their four sides! Here are some flashcards to help them retain this fun fact!
+https://go.gov.sg/funfactsquadrilaterals</p>
 
 <b><p>Tips for Parents:</p></b>
 <p>Ask your child to observe their surroundings around them. Have them point out to you shapes and polygons that they can see around them. Make it into a fun game! It can be a variation of "I Spy." For example, "I spy...a circle!" Whoever is guessing needs to find as many circle-shaped objects they can find.</p>
@@ -89,9 +89,9 @@ https://go.gov.sg/funfactsquadrilaterals
 <p> -  A 2D shape is flat while a 3D shape can be physically held.</p>
  <p> - A 2D shape has only one face while a 3D shape has multiple faces.</p>
  
- Can your child identify and name 3D shapes? Download the flash cards here: https://go.gov.sg/3dshapesworksheet1 and https://go.gov.sg/3dshapesworksheet2 to go through the names and properties of some well-known 3-D shapes with your child, as well as common objects that have the same shapes.
+<p>Can your child identify and name 3D shapes? Download the flash cards here: https://go.gov.sg/3dshapesworksheet1 and https://go.gov.sg/3dshapesworksheet2 to go through the names and properties of some well-known 3-D shapes with your child, as well as common objects that have the same shapes.</p>
 
-Teach them on the different characteristics of cubes, cuboids, pyramids, and cones with this simple set of flashcards: https://go.gov.sg/differencesbetween3dshapes 
+<p>Teach them on the different characteristics of cubes, cuboids, pyramids, and cones with this simple set of flashcards: https://go.gov.sg/differencesbetween3dshapes</p>
 
 <b><p>Tips for Parents:</p></b>
 <p>Linking theory to the physical environment is the best way for children to learn about scientific concepts as they can then better understand the relevance of these concepts in their lives. If you notice any 2D and 3D shapes around, point them out to your child or ask them if they recognise these shapes and if they remember how their properties differ. For example, you could play ball with your children and pause for a while to ask them if they recognise the shape of the ball.</p>
@@ -131,15 +131,15 @@ Teach them on the different characteristics of cubes, cuboids, pyramids, and con
 
 <p> The most possibly famous 3-D shape we can see is the Pyramid! Have you seen these great structures in books, cartoons, or documentaries? Fill in the right vowels in the blanks in this sheet to unlock some fun facts about pyramids!</p>
 
-Click https://go.gov.sg/theperfectpyramids to download and print out your activity sheet!
+<p>Click https://go.gov.sg/theperfectpyramids to download and print out your activity sheet!</p>
 
 <img src="/images/science-lfa/Shapes%20and%20Polygons/Search%20for%20Shapes!.png" style="width:200px; text-align:center;">
 
 <p> Uh oh! Looks like the shapes have gone into hiding! Can you find them in this wordsearch? Try looking up, down, left, and right as well as diagonally.</p>
 
-Click https://go.gov.sg/searchforshapes to download and print out the word search!
+<p>Click https://go.gov.sg/searchforshapes to download and print out the word search!</p>
 
-Click https://go.gov.sg/searchforshapesanswerkey to download and print out the answer key!
+<p>Click https://go.gov.sg/searchforshapesanswerkey to download and print out the answer key!</p>
 
 <h4>LET’S TRY THESE AT HOME!</h4>
 

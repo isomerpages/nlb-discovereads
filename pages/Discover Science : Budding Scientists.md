@@ -90,7 +90,7 @@ description: ""
  
 <p>Can your child identify and name 3D shapes? Download the flash cards here: <a href="https://go.gov.sg/3dshapesworksheet1" target="_blank"> 3D Shapes Worksheet Part 1</a> and <a href="https://go.gov.sg/3dshapesworksheet2" target="_blank"> 3D Shapes Worksheet Part 2</a> to go through the names and properties of some well-known 3-D shapes with your child, as well as common objects that have the same shapes.</p>
 
-<p>Teach them on the different characteristics of cubes, cuboids, pyramids, and cones with this simple set of flashcards: [https://go.gov.sg/differencesbetween3dshapes](https://go.gov.sg/differencesbetween3dshapes)</p>
+<p>Teach them on the different characteristics of cubes, cuboids, pyramids, and cones with this simple set of flashcards: <a href="https://go.gov.sg/differencesbetween3dshapes" target="_blank"> Differences Between 3D Shapes</a></p>
 
 <b><p>Tips for Parents:</p></b>
 <p>Linking theory to the physical environment is the best way for children to learn about scientific concepts as they can then better understand the relevance of these concepts in their lives. If you notice any 2D and 3D shapes around, point them out to your child or ask them if they recognise these shapes and if they remember how their properties differ. For example, you could play ball with your children and pause for a while to ask them if they recognise the shape of the ball.</p>

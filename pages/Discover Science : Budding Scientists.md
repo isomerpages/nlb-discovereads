@@ -6,11 +6,17 @@ layout: post
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+
+<a href="#lp-shapesandpolygons"> Let's Play with Shapes and Polygons!</a> 
+
+<h3 class="margin--bottom--lg" id="lp-shapesandpolygons"><b>Let's Play with Shapes and Polygons!  </b></h3>
+<p><b>Suitable for 4 to 6 years old children</b></p>
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Thumbnail.png" style="width:400px; text-align:center;">
+
+<p>Squares, triangles, and rectangles are shapes that can be found in the world around us. There are also many other interesting shapes such as pentagons, hexagons, and octagons. Let us enter the wonderful world of polygons and discover the shapes that are around us!</p>
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
-
-
-
 
 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>

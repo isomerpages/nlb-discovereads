@@ -508,4 +508,4 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-Click [here](/diy-resources/preschool/preschool-main) to go back to the previous page.
+Click [here](/diy-resources/preschool-resources/discover-science) to go back to the previous page.

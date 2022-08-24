@@ -131,9 +131,16 @@ Teach them on the different characteristics of cubes, cuboids, pyramids, and con
 
 <p> The most possibly famous 3-D shape we can see is the Pyramid! Have you seen these great structures in books, cartoons, or documentaries? Fill in the right vowels in the blanks in this sheet to unlock some fun facts about pyramids!</p>
 
+Click https://go.gov.sg/theperfectpyramids to download and print out your activity sheet!
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Search%20for%20Shapes!.png" style="width:200px; text-align:center;">
+
+<p> Uh oh! Looks like the shapes have gone into hiding! Can you find them in this wordsearch? Try looking up, down, left, and right as well as diagonally.</p>
+
+Click https://go.gov.sg/searchforshapes to download and print out the word search!
 
 
- 
+
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 
 

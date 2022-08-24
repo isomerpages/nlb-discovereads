@@ -690,4 +690,3 @@ By allowing your child to hypothesise and formulate answers based on their obser
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-	

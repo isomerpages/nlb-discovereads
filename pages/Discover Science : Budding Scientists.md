@@ -121,6 +121,8 @@ Teach them on the different characteristics of cubes, cuboids, pyramids, and con
 
 <p> Can you count and identify the different shapes and colours I used to make him?</p>
 
+<b><p>Tips for Parents:</p></b>
+<p>Encourage your child to share with you their creations! Engaging them to communicate their creative processes through language is a great way to build up their speaking, thinking and cognitive skills.</p>
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

@@ -96,6 +96,30 @@ Teach them on the different characteristics of cubes, cuboids, pyramids, and con
 <b><p>Tips for Parents:</p></b>
 <p>Linking theory to the physical environment is the best way for children to learn about scientific concepts as they can then better understand the relevance of these concepts in their lives. If you notice any 2D and 3D shapes around, point them out to your child or ask them if they recognise these shapes and if they remember how their properties differ. For example, you could play ball with your children and pause for a while to ask them if they recognise the shape of the ball.</p>
 
+<h5>LET’S CRAFT!</h5>   
+
+<b><p>Let Us Make Some Collage Robots!</p></b>
+
+<p> Time to have some fun! Let us get creative and make robots out of polygons. Here is what you will need:</p>
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Materials%20Needed.png" style="width:600px; text-align:center;">
+
+<p><b>Instructions</b></p>
+
+<p>1.  Select one sheet of colouring paper to be the base. This is where you will stick the parts to make your robot.<br></p>
+    
+<p>2.  Draw out the shapes you want to use to make your robot! To challenge yourself, try to have at least 1 of each polygon. I.e., 1 triangle, 1 square, 1 rectangle, 1 pentagon, 1 hexagon and 1 octagon. Do ensure your shapes are small enough to fit onto your base!
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Shapes.jpeg" style="width:400px; text-align:left;"><br></p>
+ 
+<p>3.  Time to cut them out! Get Mommy or Daddy to help you with this part. <br></p>
+<p>4.  Feel free to cut out more in any colour and size for extra parts and decorations!<br></p>
+
+<p>5.  Paste your shapes onto your base paper to form a robot, in any way that you like! Use markers to scribble on any additional touches.<br></p>
+<p>6.   Ta-da! You have your very own robot collage! Check out mine below! <img src="/images/science-lfa/Shapes%20and%20Polygons/Complete%20Robot%20Collage.jpeg" style="width:400px; text-align:left;"><br></p>
+
+<p> His name is Turturo, and he is a turtle-bird robot! He has parts that help him fly and swim, and his hobbies include trimming tree branches and diving for pearls to adorn his body.</p>
+
+<p> Can you count and identify the different shapes and colours I used to make him?</p>
 
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

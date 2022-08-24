@@ -138,7 +138,7 @@ description: ""
 
 <p>Click:<a href="https://go.gov.sg/searchforshapes" target="_blank"> Search for Shapes</a> to download and print out the word search!</p>
 
-<p>Click: :<a href="https://go.gov.sg/searchforshapesanswerkey" target="_blank"> Search for Shapes Answer Key</a> to download and print out the answer key!</p>
+<p>Click: <a href="https://go.gov.sg/searchforshapesanswerkey" target="_blank"> Search for Shapes Answer Key</a> to download and print out the answer key!</p>
 
 <h4>LET’S TRY THESE AT HOME!</h4>
 

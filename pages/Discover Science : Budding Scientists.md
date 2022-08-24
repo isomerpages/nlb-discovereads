@@ -459,5 +459,3 @@ like a flamingo and so on.</p>
  </div><p>The copyright to all book covers belongs to the relevant publishers or illustrators.</p>
  
  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
- 
-Click [here](/diy-resources/preschool-resources/discover-science) to go back to the previous page.

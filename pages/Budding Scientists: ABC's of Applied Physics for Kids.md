@@ -346,3 +346,5 @@ Try it!<br>
  </div><p>All book covers are copyright of the respective publishing companies.</p><br>
  
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+Click [here](/diy-resources/preschool-resources/discover-science) to go back to the previous page.

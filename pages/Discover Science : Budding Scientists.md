@@ -15,6 +15,8 @@ description: ""
 <img src="/images/science-lfa/Shapes%20and%20Polygons/Thumbnail.png" style="width:400px; text-align:center;">
 
 <p>Squares, triangles, and rectangles are shapes that can be found in the world around us. There are also many other interesting shapes such as pentagons, hexagons, and octagons. Let us enter the wonderful world of polygons and discover the shapes that are around us!</p>
+
+<p> Let us have some fun learning about the concept of shapes and polygons with books and art materials!</p>
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

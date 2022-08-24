@@ -63,7 +63,7 @@ description: ""
 
 <p> Polygons are named by the number of their shapes, and you can find them all around you!</p>
 
-<p>Download the flash cards at: [https://go.gov.sg/polygonworksheet1](https://go.gov.sg/polygonworksheet1) and [https://go.gov.sg/polygonworksheet2](https://go.gov.sg/polygonworksheet2) to go through the names and properties of some well-known polygons with your child, as well as common objects that have the same shapes.</p>
+<p>Download the flash cards at: <a href="https://go.gov.sg/polygonworksheet1" target="_blank"> Polygon Worksheet Part 1</a> and <a href="https://go.gov.sg/polygonworksheet2" target="_blank"> Polygon Worksheet Part 2</a> to go through the names and properties of some well-known polygons with your child, as well as common objects that have the same shapes.</p>
 
 <p>It may be a mouthful, but squares and rectangles are also known as Quadrilaterals, a name that refers to their four sides! Here are some flashcards to help them retain this fun fact!
 [https://go.gov.sg/funfactsquadrilaterals](https://go.gov.sg/funfactsquadrilaterals)</p>

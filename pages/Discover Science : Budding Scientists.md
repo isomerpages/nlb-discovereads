@@ -38,7 +38,8 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
         <u>By:</u> Ann Rand & Ingrid Fiksdahl King<br>
         <u>Publisher:</u> New York : Princeton Architectural Press, [2016]<br>
 
-
+<b><p>Tips for Parents:</p></b>
+<p>Asking open-ended questions is an important way to guide a child’s exploration. It can also introduce new vocabulary to them when you ask questions that require them to make simple comparisons between objects that they observe in their immediate environment.</p>
 
 
  

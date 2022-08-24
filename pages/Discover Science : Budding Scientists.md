@@ -237,7 +237,7 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
         </div> 
         <div class="text">
             <p><b>I Spy Shapes</b><br>
-            <u>By:</u>Marie Roesser<br>
+            <u>By:</u> Marie Roesser<br>
             <u>Publisher:</u> New York : Gareth Stevens Publishing, 2022<br>
             </p>
         </div>

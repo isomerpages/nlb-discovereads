@@ -141,6 +141,21 @@ Click https://go.gov.sg/searchforshapes to download and print out the word searc
 
 Click https://go.gov.sg/searchforshapesanswerkey to download and print out the answer key!
 
+<h4>LET’S TRY THESE AT HOME!</h4>
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami.png" style="width:200px; text-align:center;">
+
+<p> Let us give Science an artistic twist! Origami is a fun, family-oriented activity to keep the concepts of shapes and polygons fresh in your child’s mind! Try out the easy crafts below with your child!</p>
+
+<p><u> Origami Fox</u><br><i> How to fold a very easy origami Fox. Origami.me. (2018, May 14).  Retrieved April 19, 2022, from <a href="https://origami.me/fox/" target="_blank"> https://origami.me/fox/</a></i>
+	
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Fox%201.jpg" style="width:200px; text-align:center;">
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Fox%202.jpg" style="width:200px; text-align:center;">
+
+<b><a href="https://origami.me/fox/" target="\_blank">Craft Instructions (with Pictures)</a><br></b>
+	
+
 
 
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

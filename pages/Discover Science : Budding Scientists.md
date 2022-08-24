@@ -27,7 +27,7 @@ description: ""
 
 <p>The full song lyrics can be found here:<a href="https://go.gov.sg/weareshapessonglyrics" target="_blank"> Full Song Lyrics for We Are Shapes</a></p>
 
-<b><p>Tips for Parents:</p></b>
+<b>Tips for Parents:</b>
 <p>The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. The catchy rhythm helps your child remember what they are learning, and they will be singing about the different properties of shapes in no time!</p>
 
 <h4>LET'S READ!</h4>

@@ -58,6 +58,7 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 <p><u> Definition of a Polygon</u><br><i> The School Run. (2022). What is a polygon? TheSchoolRun. Retrieved April 30, 2022, from <a href=" https://www.theschoolrun.com/what-polygon " target="_blank"> https://www.theschoolrun.com/what-polygon</a></i></br>
 	
 <img src="/images/science-lfa/Shapes%20and%20Polygons/What%20are%20Polygons.png" style="width:400px; text-align:center;">
+
 <p> Discuss with your child if they can tell you which of the following three shapes above our polygons and their reasons why they chose that shape. Ask them if they can relate their decision to the characteristics they had learnt above. </p>
 
  

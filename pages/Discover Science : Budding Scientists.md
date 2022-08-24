@@ -246,6 +246,8 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
 
 <b><p>The copyright to all book covers belongs to the relevant publishers or illustrators.</p></b>
 
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 
 

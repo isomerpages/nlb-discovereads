@@ -51,7 +51,11 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 
 <b><p>What are Polygons?</p></b>
 
+<p> A polygon is a flat, two-dimensional (2D) shape with straight sides that are fully closed (all the sides are joined up).</p>
+ <p> The sides must be straight.</p>
+ <p> Polygons may have any number of sides.</p>
 
+<p><u> Definition of a Polygon</u><br><i> The School Run. (2022). What is a polygon? TheSchoolRun. Retrieved April 30, 2022, from <a href=" https://www.theschoolrun.com/what-polygon " target="_blank"> https://www.theschoolrun.com/what-polygon</a></i>
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

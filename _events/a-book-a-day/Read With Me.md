@@ -6,7 +6,17 @@ third_nav_title: A Book A Day
 ---
 ![Read With Me - Main Banner](/images/events/abookaday/READ%20WITH%20ME%20WebBanner%20Public_Orange%20Hi.jpg)
 
-*(updated on 28 March 2022)*
+*(updated on 24 August 2022)*
+
+### **Announcements**
+
+Congratulations to the winners of the “Read with Me: A Book A Day Reading Campaign"!
+
+<a href="/files/preschool/Read%20with%20Me/Read%20with%20Me_Winners_pg1.pdf"><img src="/images/events/abookaday/Read%20with%20Me_Winners_pg1.png" style="width:40%"></a>
+
+<a href="/files/preschool/Read%20with%20Me/Read%20with%20Me_Winners_pg2.pdf"><img src="/images/events/abookaday/Read%20with%20Me_Winners_pg2.png" style="width:40%"></a>
+
+All our prize winners have been notified and have collected their prizes. Thank you for your participation.
 
 ### What is ‘Read With Me’?
 Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to children aged 6 years and below from April 2022 – June 2022. Participate in this reading campaign and stand to win prizes!

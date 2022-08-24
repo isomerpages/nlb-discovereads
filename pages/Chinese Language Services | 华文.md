@@ -8,6 +8,16 @@ permalink: /chinese-language
 
 |[![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#联系我们)|![Padding](/images/mother-tongue-services/Blank%20Space-%20TS.png)|
 
+Check out our latest video for 0-3:
+
+![](/images/ev2b1.png)
+![](/images/ev2b2.png)
+
+[Video]( https://go.gov.sg/emergentvideo2) 
+
+[Resource List (for 0-3)](https://go.gov.sg/ev2resourcelist)
+
+Resource List
 
 [Summary of preschool activities](/files/Preschool%20activities.pdf)
 

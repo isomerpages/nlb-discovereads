@@ -130,15 +130,15 @@ description: ""
 
 <p> The most possibly famous 3-D shape we can see is the Pyramid! Have you seen these great structures in books, cartoons, or documentaries? Fill in the right vowels in the blanks in this sheet to unlock some fun facts about pyramids!</p>
 
-<p>Click [https://go.gov.sg/theperfectpyramids](https://go.gov.sg/theperfectpyramids) to download and print out your activity sheet!</p>
+<p>Click:<a href="https://go.gov.sg/theperfectpyramids" target="_blank"> The Perfect Pyramids</a> to download and print out your activity sheet!</p>
 
 <img src="/images/science-lfa/Shapes%20and%20Polygons/Search%20for%20Shapes!.png" style="width:200px; text-align:center;">
 
 <p> Uh oh! Looks like the shapes have gone into hiding! Can you find them in this wordsearch? Try looking up, down, left, and right as well as diagonally.</p>
 
-<p>Click [https://go.gov.sg/searchforshapes](https://go.gov.sg/searchforshapes) to download and print out the word search!</p>
+<p>Click:<a href="https://go.gov.sg/searchforshapes" target="_blank"> Search for Shapes</a> to download and print out the word search!</p>
 
-<p>Click [https://go.gov.sg/searchforshapesanswerkey](https://go.gov.sg/searchforshapesanswerkey) to download and print out the answer key!</p>
+<p>Click: :<a href="https://go.gov.sg/searchforshapesanswerkey" target="_blank"> Search for Shapes Answer Key</a> to download and print out the answer key!</p>
 
 <h4>LET’S TRY THESE AT HOME!</h4>
 

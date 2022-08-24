@@ -66,7 +66,7 @@ description: ""
 <p>Download the flash cards at: [https://go.gov.sg/polygonworksheet1](https://go.gov.sg/polygonworksheet1) and [https://go.gov.sg/polygonworksheet2](https://go.gov.sg/polygonworksheet2) to go through the names and properties of some well-known polygons with your child, as well as common objects that have the same shapes.</p>
 
 <p>It may be a mouthful, but squares and rectangles are also known as Quadrilaterals, a name that refers to their four sides! Here are some flashcards to help them retain this fun fact!
-https://go.gov.sg/funfactsquadrilaterals</p>
+[https://go.gov.sg/funfactsquadrilaterals](https://go.gov.sg/funfactsquadrilaterals)</p>
 
 <b><p>Tips for Parents:</p></b>
 <p>Ask your child to observe their surroundings around them. Have them point out to you shapes and polygons that they can see around them. Make it into a fun game! It can be a variation of "I Spy." For example, "I spy...a circle!" Whoever is guessing needs to find as many circle-shaped objects they can find.</p>

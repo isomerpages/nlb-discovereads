@@ -55,7 +55,7 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
  <p> The sides must be straight.</p>
  <p> Polygons may have any number of sides.</p>
 
-<p><u> Definition of a Polygon</u><br><i> The School Run. (2022). What is a polygon? TheSchoolRun. Retrieved April 30, 2022, from <a href=" https://www.theschoolrun.com/what-polygon " target="_blank"> https://www.theschoolrun.com/what-polygon</a></i></br>
+<p><u> Definition of a Polygon</u><br><i> The School Run. (2022). What is a polygon? TheSchoolRun. Retrieved April 30, 2022, from <a href=" https://www.theschoolrun.com/what-polygon " target="_blank"> https://www.theschoolrun.com/what-polygon</a></i>
 	
 <img src="/images/science-lfa/Shapes%20and%20Polygons/What%20are%20Polygons.png" style="width:400px; text-align:center;">
 

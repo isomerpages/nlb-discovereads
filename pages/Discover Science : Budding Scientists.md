@@ -223,7 +223,7 @@ Click https://go.gov.sg/searchforshapesanswerkey to download and print out the a
 </div>
 <div class="row is-multiline">
     <div class="col is-half-tablet padding--bottom--lg">
-        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 203772711" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Drawing%20a%20Bear%20with%20Squares.jpg" style="width:150px; text-align:left;"></a>
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 203772711" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Drawing%20a%20Bear%20with%20Squares.jpg" style="width:200px; text-align:left;"></a>
         </div>
         <div class="text">
             <p><b>Drawing a Bear with Squares</b><br>

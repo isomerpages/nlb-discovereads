@@ -123,6 +123,16 @@ Teach them on the different characteristics of cubes, cuboids, pyramids, and con
 
 <b><p>Tips for Parents:</p></b>
 <p>Encourage your child to share with you their creations! Engaging them to communicate their creative processes through language is a great way to build up their speaking, thinking and cognitive skills.</p>
+
+<h4>LET'S PLAY!</h4>
+<p> Here are some fun downloadable activity sheets below for you and your child to have fun completing together!</p>
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Perfect%20Pyramids!%20(1).png" style="width:200px; text-align:center;">
+
+<p> The most possibly famous 3-D shape we can see is the Pyramid! Have you seen these great structures in books, cartoons, or documentaries? Fill in the right vowels in the blanks in this sheet to unlock some fun facts about pyramids!</p>
+
+
+
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

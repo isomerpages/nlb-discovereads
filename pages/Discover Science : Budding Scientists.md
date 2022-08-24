@@ -71,6 +71,20 @@ https://go.gov.sg/funfactsquadrilaterals
 <b><p>Tips for Parents:</p></b>
 <p>Ask your child to observe their surroundings around them. Have them point out to you shapes and polygons that they can see around them. Make it into a fun game! It can be a variation of "I Spy." For example, "I spy...a circle!" Whoever is guessing needs to find as many circle-shaped objects they can find.</p>
 
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Let's%20learn%20about%20Shapes%20and%20Polygons!%20(1).png" style="width:200px; text-align:center;">
+
+<b><p>What are 3D Shapes?</p></b>
+
+<p> Once your child understands 2D shapes, i.e. flat shapes, you can slowly start introducing them to 3D shapes!</p>
+
+<p>To differentiate between 2D and 3D Shapes, let us look at a triangle and pyramid side by side!</p>
+
+<img src="/images/science-lfa/Shapes%20and%20Polygons/2dvs3d.png" style="width:400px; text-align:center;">
+
+<img src="
+/images/science-lfa/Shapes%20and%20Polygons/2dvs3ddifference.png" style="width:400px; text-align:center;">
+
+
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

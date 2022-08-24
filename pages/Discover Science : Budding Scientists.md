@@ -88,7 +88,7 @@ description: ""
 <p> -  A 2D shape is flat while a 3D shape can be physically held.</p>
  <p> - A 2D shape has only one face while a 3D shape has multiple faces.</p>
  
-<p>Can your child identify and name 3D shapes? Download the flash cards here: [https://go.gov.sg/3dshapesworksheet1](https://go.gov.sg/3dshapesworksheet1) and [https://go.gov.sg/3dshapesworksheet2](https://go.gov.sg/3dshapesworksheet2) to go through the names and properties of some well-known 3-D shapes with your child, as well as common objects that have the same shapes.</p>
+<p>Can your child identify and name 3D shapes? Download the flash cards here: <a href="https://go.gov.sg/3dshapesworksheet1" target="_blank"> 3D Shapes Worksheet Part 1</a> and <a href="https://go.gov.sg/3dshapesworksheet2" target="_blank"> 3D Shapes Worksheet Part 2</a> to go through the names and properties of some well-known 3-D shapes with your child, as well as common objects that have the same shapes.</p>
 
 <p>Teach them on the different characteristics of cubes, cuboids, pyramids, and cones with this simple set of flashcards: [https://go.gov.sg/differencesbetween3dshapes](https://go.gov.sg/differencesbetween3dshapes)</p>
 

@@ -12,7 +12,7 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-shapesandpolygons"><b>Let's Play with Shapes and Polygons!  </b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Thumbnail.png" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Thumbnail.png" style="width:200px; text-align:center;">
 
 <p>Squares, triangles, and rectangles are shapes that can be found in the world around us. There are also many other interesting shapes such as pentagons, hexagons, and octagons. Let us enter the wonderful world of polygons and discover the shapes that are around us!</p>
 
@@ -45,6 +45,10 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 <p>1. Which is your favourite shape? Why do you like that shape?</p>
  <p>2. How are these shapes similar and different? Can you list down the characteristics for me?</p>
  <p>3. What other objects do you think these shapes could be?</p>
+ 
+ <h4>LET'S LEARN!</h4>
+<img src="/images/science-lfa/Shapes%20and%20Polygons/Polygons.png" style="width:200px; text-align:center;">
+
 
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

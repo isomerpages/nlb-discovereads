@@ -84,6 +84,11 @@ https://go.gov.sg/funfactsquadrilaterals
 <img src="
 /images/science-lfa/Shapes%20and%20Polygons/2dvs3ddifference.png" style="width:400px; text-align:center;">
 
+<p> The most important differences between a 2D shape and a 3D shape are the below:</p>
+
+<p> -  A 2D shape is flat while a 3D shape can be physically held.</p>
+ <p> - A 2D shape has only one face while a 3D shape has multiple faces.</p>
+
 
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

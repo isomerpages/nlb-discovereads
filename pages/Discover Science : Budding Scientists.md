@@ -136,7 +136,7 @@ description: ""
 
 <p> Uh oh! Looks like the shapes have gone into hiding! Can you find them in this wordsearch? Try looking up, down, left, and right as well as diagonally.</p>
 
-<p>Click:<a href="https://go.gov.sg/searchforshapes" target="_blank"> Search for Shapes</a> to download and print out the word search!</p>
+<p>Click: <a href="https://go.gov.sg/searchforshapes" target="_blank"> Search for Shapes</a> to download and print out the word search!</p>
 
 <p>Click: <a href="https://go.gov.sg/searchforshapesanswerkey" target="_blank"> Search for Shapes Answer Key</a> to download and print out the answer key!</p>
 

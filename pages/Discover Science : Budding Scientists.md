@@ -29,6 +29,10 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 
 <b><p>Tips for Parents:</p></b>
 <p> The repetitive nature of the song helps with pattern recognition and rhythm synchronisation. The catchy rhythm helps your child remember what they are learning, and they will be singing about the different properties of shapes in no time!</p>
+
+<h4>LET'S READ!</h4>
+
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 202564426" target="_blank"><img src="/images/science-lfa/      ShapesandPolygons/BookforStorytelling_Shapes.png" style="width:250px; text-align:left;"></a>
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

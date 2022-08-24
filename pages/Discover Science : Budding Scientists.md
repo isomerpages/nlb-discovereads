@@ -68,6 +68,9 @@ Download the flash cards (https://go.gov.sg/polygonworksheet1 and https://go.gov
  It may be a mouthful, but squares and rectangles are also known as Quadrilaterals, a name that refers to their four sides! Here are some flashcards to help them retain this fun fact!
 https://go.gov.sg/funfactsquadrilaterals
 
+<b><p>Tips for Parents:</p></b>
+<p>Ask your child to observe their surroundings around them. Have them point out to you shapes and polygons that they can see around them. Make it into a fun game! It can be a variation of "I Spy." For example, "I spy...a circle!" Whoever is guessing needs to find as many circle-shaped objects they can find.</p>
+
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

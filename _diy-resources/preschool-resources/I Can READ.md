@@ -104,7 +104,7 @@ Click [here](/files/preschool/i-can-read/talk_activity.pdf) to download a copy o
 * Gather objects or pictures that rhyme with each other and ask your child to name them. You can even add an odd one out for your child to identify the different sounds made by the various words.
 
 **Watch Me!** <br>
-Singing has many benefits for early literacy development. Learn how you can build upon your child’s phonological awareness and narrative skills through singing.**
+Singing has many benefits for early literacy development. Learn how you can build upon your child’s phonological awareness and narrative skills through singing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uv5P1qMGouQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Singing. YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
 

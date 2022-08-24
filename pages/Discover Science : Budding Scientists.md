@@ -35,7 +35,7 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 202564426" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/BookforStorytelling_Shapes.png" style="width:250px; text-align:left;"></a>
 
 <p><b>What Can I Be?</b><br>
-        <u>By:</u> Ann Rand & Ingrid Fiksdahl King <br>
+        <u>By:</u> Ann Rand & Ingrid Fiksdahl King<br>
         <u>Publisher:</u> New York : Princeton Architectural Press, [2016]<br>
 
 

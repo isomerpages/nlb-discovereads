@@ -93,7 +93,8 @@ https://go.gov.sg/funfactsquadrilaterals
 
 Teach them on the different characteristics of cubes, cuboids, pyramids, and cones with this simple set of flashcards: https://go.gov.sg/differencesbetween3dshapes 
 
-
+<b><p>Tips for Parents:</p></b>
+<p>Linking theory to the physical environment is the best way for children to learn about scientific concepts as they can then better understand the relevance of these concepts in their lives. If you notice any 2D and 3D shapes around, point them out to your child or ask them if they recognise these shapes and if they remember how their properties differ. For example, you could play ball with your children and pause for a while to ask them if they recognise the shape of the ball.</p>
 
 
  

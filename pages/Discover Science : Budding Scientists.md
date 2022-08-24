@@ -41,6 +41,10 @@ The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics
 <b><p>Tips for Parents:</p></b>
 <p>Asking open-ended questions is an important way to guide a child’s exploration. It can also introduce new vocabulary to them when you ask questions that require them to make simple comparisons between objects that they observe in their immediate environment.</p>
 
+<b><p>Questions to spark discussion with your child:</p></b>
+<p>1. Which is your favourite shape? Why do you like that shape?</p>
+ <p>2. How are these shapes similar and different? Can you list down the characteristics for me?</p>
+ <p>3. What other objects do you think these shapes could be?</p>
 
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
@@ -255,3 +259,5 @@ like a flamingo and so on.</p>
  </div><p>All book covers are copyright of the respective publishing companies.</p>
  
  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+ 
+Click [here](/diy-resources/preschool-resources/discover-science) to go back to the previous page.

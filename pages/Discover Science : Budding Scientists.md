@@ -25,7 +25,7 @@ description: ""
 
 <p> Repeat this song with other shapes such as circles, rectangles and triangles and ask your child if they can notice and name any differences between their characteristics!</p>
 
-
+The full song lyrics can be found here: [https://go.gov.sg/weareshapessonglyrics](https://go.gov.sg/weareshapessonglyrics)
  
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
 

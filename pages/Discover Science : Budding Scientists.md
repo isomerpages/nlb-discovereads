@@ -139,7 +139,7 @@ description: ""
 
 <p>Click [https://go.gov.sg/searchforshapes](https://go.gov.sg/searchforshapes) to download and print out the word search!</p>
 
-<p>Click [https://go.gov.sg/searchforshapesanswerkey](https://go.gov.sg/searchforshapesanswerkey)y to download and print out the answer key!</p>
+<p>Click [https://go.gov.sg/searchforshapesanswerkey](https://go.gov.sg/searchforshapesanswerkey) to download and print out the answer key!</p>
 
 <h4>LET’S TRY THESE AT HOME!</h4>
 

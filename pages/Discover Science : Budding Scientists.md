@@ -139,6 +139,8 @@ Click https://go.gov.sg/theperfectpyramids to download and print out your activi
 
 Click https://go.gov.sg/searchforshapes to download and print out the word search!
 
+Click https://go.gov.sg/searchforshapesanswerkey to download and print out the answer key!
+
 
 
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 

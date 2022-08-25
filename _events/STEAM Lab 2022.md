@@ -31,6 +31,8 @@ Jurong Regional Library, Basement 1 <br>
 
 1. Pick up a Lab Chart when you arrive at the event. 
 
+<img src="/images/lab chart one.png" alt="Lab Chart" style="width: 40%;"> <img src="/images/lab chart two.png" alt="Lab Chart" style="width: 40%;">
+
 
 
 2. Collect a sticker by participating in the activities at any of our S.T.E.A.M. Lab booths. Earn 5 stickers to complete the Lab Chart. 

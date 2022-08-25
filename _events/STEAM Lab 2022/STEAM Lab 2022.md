@@ -4,8 +4,6 @@ permalink: /events/steamlab2022
 description: ""
 third_nav_title: STEAM Lab 2022
 ---
-
-
 | [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | [Programme Lineup](#programme-lineup) | 
 
 ### S.T.E.A.M. Lab (10 - 11 September 2022)
@@ -37,8 +35,8 @@ Jurong Regional Library, Basement 1 <br>
 | <img src="/images/lab chart one.png" alt="Lab Chart" style="width: 40%;"> | <img src="/images/lab chart two.png" alt="Lab Chart" style="width: 40%;"> |
 
 2. Collect a sticker by participating in the activities at any of our S.T.E.A.M. Lab booths. Earn 5 stickers to complete the Lab Chart. 
-4. Borrow 4 books. 
-5. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!
+3. Borrow 4 books. 
+4. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -226,6 +224,3 @@ This programme is suitable for Tweens aged 10-13.
 
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-
-

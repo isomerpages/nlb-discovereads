@@ -62,7 +62,7 @@ This programme is meant for children aged 7 to 12.
 
 **STEMarvel Workshop: Science Experiment (Learn Science with Cocoa Powder!)**<br>
 4 September 2022, Sunday<br>
-10.30am – 11.30am<br>
+10.30 am – 11.30 am<br>
 Online on Zoom
 
 Registration required. Link to be announced.
@@ -114,4 +114,31 @@ In these sessions, we will cover the basics of Java and learn some general infor
 This workshop will be held online, and a Zoom link will be sent to you via email upon registration. This is a workshop suitable for teenagers aged 13 and above.
 
 ----
+
+**Tweenkerama: Beverage Carton Star Phone Stand Upcycling Workshop | Sustainability** <br>
+6 September 2022, Tuesday <br>
+2.30 pm – 3.30 pm <br>
+Jurong Regional Library, Programme Zone <br>
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/beverage-carton-star-phone-stand-upcycling-workshop-sustainability-tickets-401072056317?aff=ebdsoporgprofile).
+
+Turn your beverage carton into not 1… but 2 products! This Star Phone Stand also acts as a loudspeaker. 😉 Join us as we upcycle together!
+
+----
+
+**Explore Forensics | scienti-f(x) | Teens Takeover @ Jurong Regional Library**<br>
+7 September 2022, Wednesday<br>
+4 pm – 5.30 pm<br>
+Jurong Regional Library, Programme Zone
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?.aff=ebdsoporgprofile).
+
+Have you ever wondered what it’s like to be in the shoes of a Forensic Scientist? Learn more about Forensic Science with fun-filled and interesting hands-on activities.
+
+In this workshop, try your hand at creating a fingerprint, matching DNA bases, and deciphering handwriting fonts!
+
+This session is in collaboration with Home Team Science and Technology Agency (HTX).
+
+-----
+
 

@@ -31,7 +31,7 @@ Jurong Regional Library, Basement 1 <br>
 
 1. Pick up a Lab Chart when you arrive at the event. 
 
-<img src="/images/lab chart one.png" alt="Lab Chart" style="width: 40%;"> <img src="/images/lab chart two.png" alt="Lab Chart" style="width: 40%;">
+<img src="/images/lab chart one.png" alt="Lab Chart" style="width: 35%;"> <img src="/images/lab chart two.png" alt="Lab Chart" style="width: 35%;">
 
 
 

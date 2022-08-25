@@ -37,4 +37,8 @@ Jurong Regional Library, Basement 1 <br>
 4. Borrow 4 books. 
 5. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
 #### Programme Lineup
+Please note that the programme schedule is not final and will be updated on a regular basis. 

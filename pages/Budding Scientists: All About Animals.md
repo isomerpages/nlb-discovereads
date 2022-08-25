@@ -5,6 +5,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 
+Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
+
 <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> 
 
 

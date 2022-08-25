@@ -7,7 +7,10 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 
-<a href="#lp-shapesandpolygons"> Let's Play with Shapes and Polygons!</a> 
+Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
+
+<b> New!! </b> <a href="#lp-shapesandpolygons"> Let's Play with Shapes and Polygons!</a> |
+<a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a>
 
 <h3 class="margin--bottom--lg" id="lp-shapesandpolygons"><b>Let's Play with Shapes and Polygons!  </b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
@@ -245,9 +248,7 @@ description: ""
 
 <b><p>The copyright to all book covers belongs to the relevant publishers or illustrators.</p></b>
 
- <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
-
-<a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a> 
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p> 
 
 
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
@@ -459,5 +460,3 @@ like a flamingo and so on.</p>
  </div><p>The copyright to all book covers belongs to the relevant publishers or illustrators.</p>
  
  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
- 
-Click [here](/diy-resources/preschool-resources/discover-science) to go back to the previous page.

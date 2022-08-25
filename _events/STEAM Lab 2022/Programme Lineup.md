@@ -99,3 +99,113 @@ Turn your beverage carton into not 1… but 2 products! This Star Phone Stand al
 
 ----
 
+**Explore Forensics | scienti-f(x) | Teens Takeover @ Jurong Regional Library**<br>
+7 September 2022, Wednesday<br>
+4 pm – 5.30 pm<br>
+Jurong Regional Library, Programme Zone
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/explore-forensics-scienti-fx-teens-takeover-jurong-regional-library-tickets-401081243797?.aff=ebdsoporgprofile).
+
+Have you ever wondered what it’s like to be in the shoes of a Forensic Scientist? Learn more about Forensic Science with fun-filled and interesting hands-on activities.
+
+In this workshop, try your hand at creating a fingerprint, matching DNA bases, and deciphering handwriting fonts!
+
+This session is in collaboration with Home Team Science and Technology Agency (HTX).
+
+-----
+
+**Create a Superhydrophobic Coating @ Jurong Regional Library**<br>
+8 September 2022, Thursday<br>
+11 am – 12 pm <br>
+Jurong Regional Library, Programme Zone <br>
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/create-a-superhydrophobic-coating-jurong-regional-library-tickets-401084553697?aff=ebdsoporgprofile).
+
+We have always been fascinated by the ability of the lotus leaf to stay dry even under heavy rain, or after being submerged in water. 
+
+This is because the lotus leaf has a super water repellent ability on its surface called superhydrophobicity. As a water repellent coating, it has many potential applications. 
+
+In this workshop, participants will be taught how to make a simple coating process to create a super-hydrophobic surface, mimicking the lotus leaf effect.
+
+This session is in collaboration with Nanyang Polytechnic.
+
+----
+
+**Tweenkerama: Renewable Resource and Recycling Talk | Sustainability**<br>
+8 September 2022, Thursday<br>
+2.30 pm – 3.30 pm <br>
+Jurong Regional Library, Programme Zone <br>
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/renewable-resource-and-recycling-talk-jurong-regional-library-tickets-401074934927?aff=ebdsoporgprofile).
+
+Learn all about renewable resources and how to recycle right! Stand a chance to win attractive recycled and/or upcycled prizes during the quiz!
+
+----
+
+**Basic Japanese Class | Jurong Regional Library | STEAM Lab 2022**<br>
+9 September 2022, Friday<br>
+10.30 am – 12 pm<br>
+Jurong Regional Library, Programme Zone
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/basic-japanese-class-jurong-regional-library-steam-lab-2022-tickets-401604007397?aff=ebdsoporgprofile).
+
+In this workshop, participants will learn how to give a short self-introduction in Japanese. The programme will teach children how to say simple greetings used in everyday situations, recognise the different writing systems used in the Japanese language, and express the things that they like.
+
+This programme is recommended for children aged 7 and above, and is led by Ms Sarah, a Children and Teens librarian from the National Library Board.
+
+----
+
+**Easy Coffee Art | Jurong Regional Library | STEAM Lab 2022** <br>
+9 September 2022, Friday<br>
+4 pm – 5 pm<br>
+Jurong Regional Library, Programme Zone<br>
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/easy-coffee-art-jurong-regional-library-steam-lab-2022-tickets-401604528957?aff=ebdsoporgprofile).
+
+Join our Easy Coffee Art workshop at Jurong Regional Library and have an aromatic day doing coffee painting!
+
+Enjoy family bonding and fun while painting.
+
+You'll learn:
+
+•	Step-by-step painting<br>
+•	Type of coffee and water temperature suitable for coffee painting
+
+Materials will be provided for participants who have successfully registered for the physical workshop.
+
+This is a parent-child programme for children aged 7 to 12 years old and an accompanying parent.
+
+----
+
+**Sphero Party | Jurong Regional Library | Tweenkerama**<br>
+10 September 2022, Saturday <br>
+2 pm – 4 pm <br>
+Jurong Regional Library, Programme Zone
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/sphero-party-jurong-regional-library-tweenkerama-tickets-400591037577?aff=ebdsoporgprofile).
+
+The Sphero BOLT is an app-enabled robotic ball that provides endless opportunities to have fun while learning. In this workshop, participants will learn to handle, navigate, and program Sphero using a block-based programming language on phones or tablets. Come explore the animated 8×8 LED Matrix and advanced sensors like the gyroscope and accelerometer as you program Sphero!
+
+This programme is suitable for Tweens aged 10-13.
+
+----
+
+**Bullet Journaling Workshop | Jurong Regional Library | STEAM Lab 2022** <br>
+11 September 2022, Sunday <br>
+2.30 pm – 4.30 pm <br>
+Jurong Regional Library, Programme Zone
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/bullet-journaling-workshop-jurong-regional-library-steam-lab-2022-tickets-401603004397?aff=ebdsoporgprofile).
+
+Bullet journaling is a popular method of journaling that helps people to plan their day, record assignments, set goals, track habits, and more.
+
+Inspired by aesthetic bullet journals on Tiktok and Instagram, but not sure where to start? Join us in this 2-hour workshop where you will learn the basics of bullet journaling, how to set up your journal, and how to use it to be more organised, mindful, and creative!
+
+This programme is recommended for children and teens aged 9 and above.
+
+Participants are encouraged to bring a plain notebook, colourful stationery, stickers, and tape.
+
+The programme will be led by Ms Lee Shu Yu, a Children and Teens librarian from the National Library Board.
+
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

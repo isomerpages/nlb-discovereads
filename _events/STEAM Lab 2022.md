@@ -11,3 +11,22 @@ description: ""
 #### About the Event
 
 Explore Science, Sustainability, the Digital world, and more in this two-day learning and tinkering carnival for children and teens.
+
+Happening on 10 and 11 September 2022, S.T.E.A.M. Lab offers various interactive booths and exciting programmes held onsite at Jurong Regional Library. Pick up a Lab Chart and participate in booth activities on the day to earn stickers for your Lab Chart. Borrow 4 books, present your loan receipt together with your completed Lab Chart at the redemption counter, and redeem cool tokens (while stocks last)! 
+
+S.T.E.A.M. programmes will also be held from 3-9 September, the week leading up to the event.  
+
+Look forward to interesting experiments, discover answers to any burning questions you have, and prepare to immerse yourself in all things S.T.E.A.M. during the carnival period! 
+
+**10 – 11 Sep 2022 (Saturday and Sunday) <br>
+11am – 5pm <br>
+Jurong Regional Library, Basement 1 <br>
+#PublicLibrarySG <br>
+#steamlab2022**
+
+
+
+#### How To Participate
+
+
+

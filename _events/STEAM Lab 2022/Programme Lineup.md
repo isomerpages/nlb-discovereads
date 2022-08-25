@@ -30,3 +30,28 @@ The digital world is super fun! Yet, kids find it hard to transition from an onl
 This programme is meant for children aged 7 to 12.
 
 ----
+
+**STEMarvel Workshop: Science Experiment (Learn Science with Cocoa Powder!)**<br>
+4 September 2022, Sunday<br>
+10.30 am – 11.30 am<br>
+Online on Zoom
+
+Registration required. Link to be announced.
+
+Learn what kinds of reactions Cocoa Powder can have with common materials at home! Join us in conducting a science experiment to find out the chemistry behind hydrophobic and hydrophilic substances. 
+
+All you need is the following:
+-	1 piece of paper
+-	1 pen/pencil 
+-	Some tissue papers 
+-	2 spoonfuls of cocoa powder 
+-	1 bowl of water 
+-	1 spoon
+
+This workshop will be conducted by STEMarvel and will be held online. A Zoom link will be sent to you via email upon registration. 
+
+This is a workshop suitable for children aged 7-12.
+
+-----
+
+

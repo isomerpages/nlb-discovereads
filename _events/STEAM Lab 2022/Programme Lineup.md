@@ -13,6 +13,33 @@ third_nav_title: STEAM Lab 2022
 
 
 
+10 and 11 September, Saturday and Sunday <br>
+11 am – 5 pm<br>
+Jurong Regional Library, Basement 1
+
+Registration is not required.
+
+**Get Moving with Science!**<br>
+Get up close with Science topics in this booth, using Lego to explore forces and motion in Physics.
+
+**Sense Your Surroundings with Technology!** <br>
+In this booth, understand how artificial intelligence works in our daily lives through self-navigating and mapping robots.
+
+**Build Efficiently with Engineering!** <br>
+Unleash your inner engineer and build mechanical structures out of Lego to explore efficient design.
+
+**Be a Digital DJ with the Arts!** <br>
+Try your hand at digital technology and create a musical light show using sound sensors and straws.
+
+**Code and Decode with Mathematics!** <br>
+Did you know that binary code is used in almost all modern technology today? Learn how the system works and code or decode your own binary messages.
+
+
+
+
+
+
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 #### S.T.E.A.M. Programmes

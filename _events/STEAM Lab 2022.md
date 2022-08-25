@@ -24,9 +24,15 @@ Jurong Regional Library, Basement 1 <br>
 #PublicLibrarySG <br>
 #steamlab2022**
 
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 
 #### How To Participate
 
+1. Pick up a Lab Chart when you arrive at the event. 
 
 
+
+2. Collect a sticker by participating in the activities at any of our S.T.E.A.M. Lab booths. Earn 5 stickers to complete the Lab Chart. 
+4. Borrow 4 books. 
+5. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!

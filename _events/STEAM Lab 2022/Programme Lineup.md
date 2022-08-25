@@ -4,7 +4,7 @@ permalink: /events/steamlab2022/programmelineup
 description: ""
 third_nav_title: STEAM Lab 2022
 ---
-| [S.T.E.A.M. Lab Booths](#steam-lab-booths) | [Fringe Activities](#fringe-activities) | 
+| [S.T.E.A.M. Lab Booths](#steam-lab-booths) | [S.T.E.A.M. Programmes](#steam-programmes) | 
 
 *Please note that the programme schedule is not final and will be updated on a regular basis.*
 
@@ -12,9 +12,10 @@ third_nav_title: STEAM Lab 2022
 
 
 
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-#### Fringe Programmes
+#### S.T.E.A.M. Programmes
 
 **See You Later, Phone** <br>
 3 September 2022, Saturday<br>

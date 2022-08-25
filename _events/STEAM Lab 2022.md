@@ -100,5 +100,18 @@ The facilitator are part of the organisation, Coding Giants, and are experienced
 
 ----
 
+**STEMarvel Coding Workshop: Java**<br>
+5 September 2022, Monday<br>
+10.30 am – 11.30 am<br>
+Online on Zoom<br>
 
+Registration required. Link to be announced.
+
+Join us in a coding session with STEMarvel, where you can learn the Java language, how to apply it, and solve Java problems!
+
+In these sessions, we will cover the basics of Java and learn some general information about the language. 
+
+This workshop will be held online, and a Zoom link will be sent to you via email upon registration. This is a workshop suitable for teenagers aged 13 and above.
+
+----
 

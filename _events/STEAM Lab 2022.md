@@ -33,8 +33,8 @@ Jurong Regional Library, Basement 1 <br>
 
 | <img src="/images/lab chart one.png" alt="Lab Chart" style="width: 35%;"> | <img src="/images/lab chart two.png" alt="Lab Chart" style="width: 35%;"> |
 
-
-
 2. Collect a sticker by participating in the activities at any of our S.T.E.A.M. Lab booths. Earn 5 stickers to complete the Lab Chart. 
 4. Borrow 4 books. 
 5. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!
+
+#### Programme Lineup

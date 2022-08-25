@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - events.md
+      - STEAM Lab 2022/Example Title.md
       - STEAM Lab 2022/.keep
       - STEAM Lab 2022/STEAM Lab 2022.md
       - Book Bugs Rescuers (2022)/.keep

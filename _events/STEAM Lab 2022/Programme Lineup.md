@@ -4,7 +4,7 @@ permalink: /events/steamlab2022/programmelineup
 description: ""
 third_nav_title: STEAM Lab 2022
 ---
-|STEAM Lab Booths| Fringe Programmes|
+| [S.T.E.A.M. Lab Booths](#steam-lab-booths) | [Fringe Activities](#fringe-activities) | 
 
 *Please note that the programme schedule is not final and will be updated on a regular basis.*
 

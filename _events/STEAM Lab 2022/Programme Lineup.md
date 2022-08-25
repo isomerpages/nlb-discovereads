@@ -10,9 +10,6 @@ third_nav_title: STEAM Lab 2022
 
 #### S.T.E.A.M. Lab Booths
 
-
-
-
 10 and 11 September, Saturday and Sunday <br>
 11 am – 5 pm<br>
 Jurong Regional Library, Basement 1

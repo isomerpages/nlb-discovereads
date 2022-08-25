@@ -46,6 +46,8 @@ Did you know that binary code is used in almost all modern technology today? Lea
 
 #### S.T.E.A.M. Programmes
 
+Check out our S.T.E.A.M. programmes held from 3-9 September.
+
 **See You Later, Phone** <br>
 3 September 2022, Saturday<br>
 11.30 am – 1 pm<br>

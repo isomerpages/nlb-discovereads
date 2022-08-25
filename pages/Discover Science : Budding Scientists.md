@@ -7,6 +7,8 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
 
+Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here </a> to go back to Discover Science!
+
 <b> New!! </b> <a href="#lp-shapesandpolygons"> Let's Play with Shapes and Polygons!</a> |
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a>
 

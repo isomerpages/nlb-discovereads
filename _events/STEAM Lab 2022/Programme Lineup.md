@@ -54,4 +54,48 @@ This is a workshop suitable for children aged 7-12.
 
 -----
 
+**Coding Giants Workshop: C#**<br>
+4 September 2022, Sunday <br>
+2 pm – 4 pm<br>
+Jurong Regional Library, Programme Zone<br>
+
+Registration required. Link to be announced.
+
+In this workshop, participants will learn the essentials of coding, getting to know schemes and terminology (commands, conditions, loops, variables etc.). 
+
+In this class, we will be using the free online programming language, C#. Participants are required to have some background or familiarity in coding.
+
+Participants are also required to bring your own laptop to the class.
+
+After the class each participant will receive a digital certificate of participation. 
+
+The facilitator are part of the organisation, Coding Giants, and are experienced trainers in the coding languages.
+
+----
+
+**STEMarvel Coding Workshop: Java**<br>
+5 September 2022, Monday<br>
+10.30 am – 11.30 am<br>
+Online on Zoom<br>
+
+Registration required. Link to be announced.
+
+Join us in a coding session with STEMarvel, where you can learn the Java language, how to apply it, and solve Java problems!
+
+In these sessions, we will cover the basics of Java and learn some general information about the language. 
+
+This workshop will be held online, and a Zoom link will be sent to you via email upon registration. This is a workshop suitable for teenagers aged 13 and above.
+
+----
+
+**Tweenkerama: Beverage Carton Star Phone Stand Upcycling Workshop | Sustainability** <br>
+6 September 2022, Tuesday <br>
+2.30 pm – 3.30 pm <br>
+Jurong Regional Library, Programme Zone <br>
+
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/beverage-carton-star-phone-stand-upcycling-workshop-sustainability-tickets-401072056317?aff=ebdsoporgprofile).
+
+Turn your beverage carton into not 1… but 2 products! This Star Phone Stand also acts as a loudspeaker. 😉 Join us as we upcycle together!
+
+----
 

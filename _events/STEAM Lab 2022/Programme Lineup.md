@@ -36,12 +36,6 @@ Try your hand at digital technology and create a musical light show using sound 
 **Code and Decode with Mathematics!** <br>
 Did you know that binary code is used in almost all modern technology today? Learn how the system works and code or decode your own binary messages.
 
-
-
-
-
-
-
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 #### S.T.E.A.M. Programmes

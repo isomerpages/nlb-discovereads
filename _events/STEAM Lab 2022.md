@@ -65,6 +65,8 @@ This programme is meant for children aged 7 to 12.
 10.30am – 11.30am<br>
 Online on Zoom
 
+Registration required. Link to be announced.
+
 Learn what kinds of reactions Cocoa Powder can have with common materials at home! Join us in conducting a science experiment to find out the chemistry behind hydrophobic and hydrophilic substances. 
 
 All you need is the following:
@@ -78,3 +80,25 @@ All you need is the following:
 This workshop will be conducted by STEMarvel and will be held online. A Zoom link will be sent to you via email upon registration. This is a workshop suitable for children aged 7-12.
 
 ----
+
+**Coding Giants Workshop: C#**<br>
+4 September 2022, Sunday <br>
+2 pm – 4 pm<br>
+Jurong Regional Library, Programme Zone<br>
+
+Registration required. Link to be announced.
+
+In this workshop, participants will learn the essentials of coding, getting to know schemes and terminology (commands, conditions, loops, variables etc.). 
+
+In this class, we will be using the free online programming language, C#. Participants are required to have some background or familiarity in coding.
+
+Participants are also required to bring your own laptop to the class.
+
+After the class each participant will receive a digital certificate of participation. 
+
+The facilitator are part of the organisation, Coding Giants, and are experienced trainers in the coding languages.
+
+----
+
+
+

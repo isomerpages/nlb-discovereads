@@ -41,7 +41,7 @@ Jurong Regional Library, Basement 1 <br>
 
 
 #### Programme Lineup
-Please note that the programme schedule is not final and will be updated on a regular basis.
+*Please note that the programme schedule is not final and will be updated on a regular basis.*
 
 **See You Later, Phone** <br>
 3 September 2022, Saturday<br>

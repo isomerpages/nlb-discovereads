@@ -47,7 +47,7 @@ Check out our S.T.E.A.M. programmes held from 3-9 September.
 11.30 am – 1 pm<br>
 Online on Zoom<br>
 
-Registration required. Link to be announced.
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/see-you-later-phone-with-digipanion-online-steam-lab-2022-tickets-406737200917?aff=ebdsoporgprofile).
 
 The digital world is super fun! Yet, kids find it hard to transition from an online activity to an offline one. It is also difficult for parents to pull children away from these devices and manage screen time. However, to be ready for the digital world, it is important to learn how to manage digital distractions and make responsible choices in the digital world. Seize this opportunity to create a personalised media plan that you will be motivated to follow!
 
@@ -64,7 +64,7 @@ This programme is meant for children aged 7 to 12.
 10.30 am – 11.30 am<br>
 Online on Zoom
 
-Registration required. Link to be announced.
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/science-experiments-with-stemarvel-online-steam-lab-2022-tickets-406637562897?aff=ebdsoporgprofile).
 
 Learn what kinds of reactions Cocoa Powder can have with common materials at home! Join us in conducting a science experiment to find out the chemistry behind hydrophobic and hydrophilic substances. 
 
@@ -87,7 +87,7 @@ This is a workshop suitable for children aged 7-12.
 2 pm – 4 pm<br>
 Jurong Regional Library, Programme Zone<br>
 
-Registration required. Link to be announced.
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/c-coding-with-coding-giants-jurong-regional-library-steam-lab-2022-tickets-406757852687?aff=ebdsoporgprofile).
 
 In this workshop, participants will learn the essentials of coding, getting to know schemes and terminology (commands, conditions, loops, variables etc.). 
 
@@ -106,7 +106,7 @@ The facilitator are part of the organisation, Coding Giants, and are experienced
 10.30 am – 11.30 am<br>
 Online on Zoom<br>
 
-Registration required. Link to be announced.
+Registration required on [Eventbrite](https://www.eventbrite.sg/e/java-coding-with-stemarvel-online-steam-lab-2022-tickets-406749417457?aff=ebdsoporgprofile).
 
 Join us in a coding session with STEMarvel, where you can learn the Java language, how to apply it, and solve Java problems!
 

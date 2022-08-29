@@ -12,8 +12,8 @@ third_nav_title: STEAM Lab 2022
 
 #### S.T.E.A.M. Lab Booths
 
-![](/images/infographic%20steam%20lab.png)
 
+![](/images/Infographic%20Steam%20Lab%20Poster.png)
 
 10 and 11 September, Saturday and Sunday <br>
 11 am – 5 pm<br>

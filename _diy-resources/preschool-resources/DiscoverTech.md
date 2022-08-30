@@ -137,9 +137,7 @@ Your children should watch high-quality programming - which means it’s got to 
      <li>Have fun outside! </li>
 <p> Parents, please take pictures of your children while they are out and about.<br>
   <h5>Reflection</h5>
-		<ul>
-		<p> Talk to your child about their scavenger hunt. </p>
-			<ul>
+	Talk to your child about their scavenger hunt. 
      <li>Which item was their favourite to find?</li>
      <li>Which was the most difficult thing to find?</li>
      <li>What senses did they use on their hunt</li> 

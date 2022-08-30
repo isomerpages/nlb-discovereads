@@ -1,10 +1,10 @@
 ---
 title: DiscoverTech
-permalink: /diy-resources/preschool-resources/discovertech
+permalink: /diy-resources/preschool-resources/discovertech/
 description: ""
 third_nav_title: Preschool Resources
 ---
- I **New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> I **New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! I </a>I **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> I **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+I **New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> I **New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! </a> I **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> I **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
 <h3 class="margin--bottom--lg" id="lp-digitalart"><b> Let’s Learn About Digital Art!</b></h3>
@@ -126,22 +126,18 @@ Toddlers 1-2 years old should be getting little to no screen time.<br><br>
 Your children should watch high-quality programming - which means it’s got to be educational and interactive!
 </p>
 
-
 <h4>Bonding Activity</h4> 
 <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/nature%20hunt.png" style="width:300px; text-align:left;">
 
  <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
    
 <h5>Instructions</h5>
-		<ul>
+		
  <p> Pack your gear:
-	 <ul>
      <li>Bring a pencil to tick the treasures you find.</li>
      <li>Remember to bring a water bottle. </li>
      <li>Have fun outside! </li>
-<p> Parents, please take pictures of your children while they are out and about.<br><br>
-</ul>
-</ul>
+<p> Parents, please take pictures of your children while they are out and about.<br>
   <h5>Reflection</h5>
 		<ul>
 		<p> Talk to your child about their scavenger hunt. </p>
@@ -150,9 +146,6 @@ Your children should watch high-quality programming - which means it’s got to 
      <li>Which was the most difficult thing to find?</li>
      <li>What senses did they use on their hunt</li> 
 </p>
-</ul>
-</ul>
-
 		
 <h5>Parents’ Pro Tip</h5> 
 <p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>

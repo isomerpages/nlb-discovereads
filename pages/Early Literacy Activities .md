@@ -15,7 +15,7 @@ description: ""
 <br>
 <img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">
 
-Click [here](/files/preschool/Early%20literacy%20activities.pdf) to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/EarlyLiteracySep.PDF)  to download a copy.
 <br>
 
 

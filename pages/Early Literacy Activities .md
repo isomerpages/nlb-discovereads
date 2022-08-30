@@ -33,7 +33,7 @@ Click [here](/files/preschool/Early%20literacy%20activities.pdf) to download a c
 <br>
 <img src="/images/diyresources/preschool/earlylitbooks.png" style="width:80%">
 
-Click [here](/files/preschool/Earlyliteracyactivities/Jan%20Activities.pdf) to download a copy.
+Click [here](/files/preschool/Earlyliteracyactivities/Jan%20Activities.PDF) to download a copy.
 
 
 

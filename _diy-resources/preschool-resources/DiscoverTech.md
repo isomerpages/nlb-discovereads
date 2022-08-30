@@ -134,7 +134,7 @@ Your children should watch high-quality programming - which means it’s got to 
      <li>Bring a pencil to tick the treasures you find.</li>
      <li>Remember to bring a water bottle. </li>
      <li>Have fun outside! </li>
-	Parents, please take pictures of your children while they are out and about.<br></p>
+	<p>Parents, please take pictures of your children while they are out and about.<br></p></p>
   <h5>Reflection</h5>
 <p>	Talk to your child about their scavenger hunt. 
      <li>Which item was their favourite to find?</li>

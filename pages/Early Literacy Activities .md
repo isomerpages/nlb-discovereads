@@ -25,7 +25,7 @@ Click [here](/files/preschool/earlyliteracyactivities/EarlyLiteracySep.PDF)  to 
 <br>
 <img src="/images/diyresources/preschool/aprilbooks.png" style="width:80%">
 
-Click [here](/files/preschool/Early%20literacy%20activities.pdf) to download a copy.
+Click [here](/files/preschool/Early%20literacy%20activities.PDF) to download a copy.
 <br>
 
 ##### January 2022

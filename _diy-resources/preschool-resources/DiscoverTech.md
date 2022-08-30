@@ -130,18 +130,16 @@ Your children should watch high-quality programming - which means it’s got to 
  <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
    
 <h5>Instructions</h5>
-		
- <p> Pack your gear:
+Pack your gear:
      <li>Bring a pencil to tick the treasures you find.</li>
      <li>Remember to bring a water bottle. </li>
      <li>Have fun outside! </li>
-<p> Parents, please take pictures of your children while they are out and about.<br>
-  <h5>Reflection</h5>
+Parents, please take pictures of your children while they are out and about.<br>
+  <h5>Reflection</h5><br>
 	Talk to your child about their scavenger hunt. 
      <li>Which item was their favourite to find?</li>
      <li>Which was the most difficult thing to find?</li>
      <li>What senses did they use on their hunt</li> 
-</p>
 		
 <h5>Parents’ Pro Tip</h5> 
 <p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>
@@ -153,10 +151,8 @@ style="width:500px; text-align:left;">
 <p>Have your ever taken a look at your hand? At the tips of your fingers are your own unique prints. That means no one else has the same whorls and loops like you do. Our fingerprints also protect the privacy of your parents' phones.</p>
 
 <h5>Instructions</h5>
-<ul>
      <li>Try tracing a line from the key to the lock through the maze.</li>
      <li>There are a few ways to unlock your phone.</li>
-</ul>     
 
 
 <h5>Parents’ Pro Tip</h5> 
@@ -166,14 +162,10 @@ style="width:500px; text-align:left;">
 <h4>Activity: What are we hiding?</h4> 
  <p> Bai the Book wants to read with his friends and family at the playground.<br>
 Can you figure out where they are hiding? </p><h5>Instructions</h5>
-<ul>
  <p> Circle the books you find.
 	<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Hiding.png" style="width:500px; text-align:left;">
 
 <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/activity%20templates.png" style="width:300px; text-align:left;">
-	 
-</ul>    
-
 
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">

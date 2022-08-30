@@ -4,8 +4,8 @@ permalink: /diy-resources/preschool-resources/discovertech/
 description: ""
 third_nav_title: Preschool Resources
 ---
-I **New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> I **New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! </a> | **New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a>|<a href="#lp-looping">Let’s Learn About Looping |
-|<a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+**New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> | **New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! </a> |**New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a>| |**New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> | **New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a>|
+|<a href="#lp-looping">Let’s Learn About Looping |<a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
 <h3 class="margin--bottom--lg" id="lp-digitalart"><b> Let’s Learn About Digital Art!</b></h3>

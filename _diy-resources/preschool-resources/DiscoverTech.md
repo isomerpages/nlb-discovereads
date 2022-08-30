@@ -130,16 +130,16 @@ Your children should watch high-quality programming - which means it’s got to 
  <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
    
 <h5>Instructions</h5>
-Pack your gear:
+<p>Pack your gear:
      <li>Bring a pencil to tick the treasures you find.</li>
      <li>Remember to bring a water bottle. </li>
      <li>Have fun outside! </li>
-Parents, please take pictures of your children while they are out and about.<br>
-  <h5>Reflection</h5><br>
-	Talk to your child about their scavenger hunt. 
+	Parents, please take pictures of your children while they are out and about.<br></p>
+  <h5>Reflection</h5>
+<p>	Talk to your child about their scavenger hunt. 
      <li>Which item was their favourite to find?</li>
      <li>Which was the most difficult thing to find?</li>
-     <li>What senses did they use on their hunt</li> 
+	<li>What senses did they use on their hunt?</li> </p>
 		
 <h5>Parents’ Pro Tip</h5> 
 <p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>

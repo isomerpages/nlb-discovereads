@@ -1,6 +1,6 @@
 ---
 title: Updates
-permalink: /events/bookbugsr/updates
+permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
@@ -14,7 +14,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 |Bishan Public Library| Low Stock |
 |Bukit Batok Public Library| Low Stock |
 |Bukit Panjang Public Library| Low Stock |
-|Cheng San Public Library| Low Stock |
+|Cheng San Public Library| **No Stock** |
 |Choa Chu Kang Public Library| **No Stock**|
 |Clementi Public Library| **No Stock** |
 |Geylang East Public Library| Low Stock |
@@ -24,7 +24,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 |Pasir Ris Public Library| Low Stock |
 |Queenstown Public Library| **No Stock** |
 |Sembawang Public Library| Low Stock |
-|Sengkang Public Library| Low Stock |
+|Sengkang Public Library| **No Stock** |
 |Serangoon Public Library| Low Stock |
 |Tampines Regional Library| Low Stock |
 |Toa Payoh Public Library| Low Stock |

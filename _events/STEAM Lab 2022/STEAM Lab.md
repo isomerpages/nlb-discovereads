@@ -1,6 +1,6 @@
 ---
 title: STEAM Lab
-permalink: /events/steamlab2022
+permalink: /events/steamlab2022/
 description: ""
 third_nav_title: STEAM Lab 2022
 ---

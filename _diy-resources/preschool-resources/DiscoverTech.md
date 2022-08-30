@@ -1,10 +1,11 @@
 ---
 title: DiscoverTech
-permalink: /diy-resources/preschool-resources/discovertech
+permalink: /diy-resources/preschool-resources/discovertech/
 description: ""
 third_nav_title: Preschool Resources
 ---
- I **New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> I **New!*** <a href="#lp-positivehabits"> Let’s Learn About Positive Digital Habits! I </a>I **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a> I **New!*** <a href="#lp-sequences">Let’s Learn About Sequences!</a> |**New!*** <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> | **New!*** <a href="#lp-algorithm">Let’s Learn About Algorithm!</a> | <a href="#lp-looping">Let’s Learn About Looping | <a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
+|**New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> | **New!*** <a href="#lp-positivehabits">Let’s Learn About Positive Digital Habits! </a>| **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a>| <a href="#lp-sequences">Let’s Learn About Sequences!</a> | <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> |
+|<a href="#lp-algorithm">Let’s Learn About Algorithm!</a>|<a href="#lp-looping">Let’s Learn About Looping |<a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 
 	
 
 <h3 class="margin--bottom--lg" id="lp-digitalart"><b> Let’s Learn About Digital Art!</b></h3>
@@ -50,7 +51,6 @@ style="width:300px; text-align:left;">
 </p>	
 <a
 href="/files/Diyresources/Octopus%20Activity%20Sheet.pdf" target="_blank">Activity Sheet for Octopus Birthday Party!</a><br>
-
 
 
 <h5>Parents’ Pro Tip</h5> 
@@ -112,8 +112,6 @@ href="/files/Diyresources/Octopus%20Activity%20Sheet.pdf" target="_blank">Activi
   <p>All book covers are copyright of the respective publishing companies.</p>
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
-
-
 	
 <h3 class="margin--bottom--lg" id="lp-positivehabits"><b> Let’s Learn About Positive Digital Habits!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
@@ -126,33 +124,22 @@ Toddlers 1-2 years old should be getting little to no screen time.<br><br>
 Your children should watch high-quality programming - which means it’s got to be educational and interactive!
 </p>
 
-
 <h4>Bonding Activity</h4> 
 <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/nature%20hunt.png" style="width:300px; text-align:left;">
 
  <p> It’s good to get away from technology, and what better way than to have a wonderful sensory scavenger hunt in nature? What treasures can you find?<br>
    
 <h5>Instructions</h5>
-		<ul>
- <p> Pack your gear:
-	 <ul>
+<p>Pack your gear:
      <li>Bring a pencil to tick the treasures you find.</li>
      <li>Remember to bring a water bottle. </li>
      <li>Have fun outside! </li>
-<p> Parents, please take pictures of your children while they are out and about.<br><br>
-</ul>
-</ul>
+	<p>Parents, please take pictures of your children while they are out and about.<br></p></p>
   <h5>Reflection</h5>
-		<ul>
-		<p> Talk to your child about their scavenger hunt. </p>
-			<ul>
+<p>	Talk to your child about their scavenger hunt. 
      <li>Which item was their favourite to find?</li>
      <li>Which was the most difficult thing to find?</li>
-     <li>What senses did they use on their hunt</li> 
-</p>
-</ul>
-</ul>
-
+	<li>What senses did they use on their hunt?</li> </p>
 		
 <h5>Parents’ Pro Tip</h5> 
 <p>If you find something interesting that is not on the list, have your child write or draw it on the activity sheet!</p>
@@ -164,10 +151,8 @@ style="width:500px; text-align:left;">
 <p>Have your ever taken a look at your hand? At the tips of your fingers are your own unique prints. That means no one else has the same whorls and loops like you do. Our fingerprints also protect the privacy of your parents' phones.</p>
 
 <h5>Instructions</h5>
-<ul>
      <li>Try tracing a line from the key to the lock through the maze.</li>
      <li>There are a few ways to unlock your phone.</li>
-</ul>     
 
 
 <h5>Parents’ Pro Tip</h5> 
@@ -177,14 +162,10 @@ style="width:500px; text-align:left;">
 <h4>Activity: What are we hiding?</h4> 
  <p> Bai the Book wants to read with his friends and family at the playground.<br>
 Can you figure out where they are hiding? </p><h5>Instructions</h5>
-<ul>
  <p> Circle the books you find.
 	<img src="/images/diyresources/preschool/discovertech/Positive%20Habit/Hiding.png" style="width:500px; text-align:left;">
 
 <img src="/images/diyresources/preschool/discovertech/Positive%20Habit/activity%20templates.png" style="width:300px; text-align:left;">
-	 
-</ul>    
-
 
 <h4>Let's Watch!</h4>
  <div class="row is-multiline margin--bottom--lg">

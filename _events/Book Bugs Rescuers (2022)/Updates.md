@@ -23,38 +23,11 @@ Points earned from the online quizzes will be credited within 5 working days aft
 
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 
-#### August Card Availabilities 
-*Please note that availabilities are not updated in real time. 
-
-| Public Library | Status|
-|:---| :----|
-|Ang Mo Kio Public Library| Low Stock |
-|Bedok Public Library| **No Stock** |
-|Bishan Public Library| Low Stock |
-|Bukit Batok Public Library| Low Stock |
-|Bukit Panjang Public Library| Low Stock |
-|Cheng San Public Library| **No Stock** |
-|Choa Chu Kang Public Library| **No Stock**|
-|Clementi Public Library| **No Stock** |
-|Geylang East Public Library| Low Stock |
-|Jurong Regional Library| Low Stock |
-|Jurong West Public Library| Low Stock |
-|library@harbourfront| Low Stock |
-|Pasir Ris Public Library| Low Stock |
-|Queenstown Public Library| **No Stock** |
-|Sembawang Public Library| Low Stock |
-|Sengkang Public Library| **No Stock** |
-|Serangoon Public Library| Low Stock |
-|Tampines Regional Library| Low Stock |
-|Toa Payoh Public Library| Low Stock |
-|Woodlands Regional Library| Low Stock |
-|Yishun Public Library| Low Stock |
-
-
-
 #### 1 August 2022
-[<img src="/images/events/bookbugsr/BBR NDP release fb.png" alt="August release" style="width: 100%" align="left">](https://childrenandteens.nlb.nlb.gov.sg/events/bookbugsr/updates)
 
+[<img src="/images/events/bookbugsr/AugustOOS.jpeg" alt="August release" style="width: 100%" align="left">](https://childrenandteens.nlb.nlb.gov.sg/events/bookbugsr/updates)
+
+##### Out of Stock 
 **National Day is coming!**
 
 The #BookBugs are celebrating with a special guest in Bugtopia. From 5 August 2022, redeem cards at our public libraries to find the bonus August card hiding among the Bugs. While stocks last!  

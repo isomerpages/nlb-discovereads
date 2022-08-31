@@ -4,38 +4,30 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-#### August Card Availabilities 
-*Please note that availabilities are not updated in real time. 
+#### 1 September 2022
 
-| Public Library | Status|
-|:---| :----|
-|Ang Mo Kio Public Library| Low Stock |
-|Bedok Public Library| **No Stock** |
-|Bishan Public Library| Low Stock |
-|Bukit Batok Public Library| Low Stock |
-|Bukit Panjang Public Library| Low Stock |
-|Cheng San Public Library| **No Stock** |
-|Choa Chu Kang Public Library| **No Stock**|
-|Clementi Public Library| **No Stock** |
-|Geylang East Public Library| Low Stock |
-|Jurong Regional Library| Low Stock |
-|Jurong West Public Library| Low Stock |
-|library@harbourfront| Low Stock |
-|Pasir Ris Public Library| Low Stock |
-|Queenstown Public Library| **No Stock** |
-|Sembawang Public Library| Low Stock |
-|Sengkang Public Library| **No Stock** |
-|Serangoon Public Library| Low Stock |
-|Tampines Regional Library| Low Stock |
-|Toa Payoh Public Library| Low Stock |
-|Woodlands Regional Library| Low Stock |
-|Yishun Public Library| Low Stock |
+![](/images/events/bookbugsr/BBR%20solaris%20release.png)
 
+🪐Solaris🪐—a utopia of exploration and invention, and home to the elusive #BookBug behind Bugtopia’s chaos. Explore the space station’s Sector L-01, Asteroid Alley, The Wasteland, and more with the newly released Solaris cards, quizzes, newsletter, and storymap. With determination, you may be able to uncover the mystery and rescue the Book Bugs! ✨✨
 
+Head to the public libraries from now till 31 December 2022 to redeem your cards! Every book or eBook borrowed gives you 1 point, and every 4 points gives you a Book Bugs card. Points for items borrowed will be credited to your myLibrary account within 24 hours.
+
+#### 1 September 2022
+
+![](/images/events/bookbugsr/Sept%20Quiz%20Reminder.png)
+**Earn Bonus Points With Our September Quiz!**
+
+Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
+
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in September 2022, points will be credited by 7 October 2022, 2359 hours.)
+
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 
 #### 1 August 2022
-[<img src="/images/events/bookbugsr/BBR NDP release fb.png" alt="August release" style="width: 100%" align="left">](https://childrenandteens.nlb.nlb.gov.sg/events/bookbugsr/updates)
 
+[<img src="/images/events/bookbugsr/AugustOOS.jpeg" alt="August release" style="width: 100%" align="left">](https://childrenandteens.nlb.nlb.gov.sg/events/bookbugsr/updates)
+
+##### Out of Stock 
 **National Day is coming!**
 
 The #BookBugs are celebrating with a special guest in Bugtopia. From 5 August 2022, redeem cards at our public libraries to find the bonus August card hiding among the Bugs. While stocks last!  
@@ -51,7 +43,7 @@ This card is a collaboration with [NDPeeps](http://www.facebook.com/NDPeeps).
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
 
-Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in July 2022, points will be credited by 7 September 2022, 2359 hours.)
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in August 2022, points will be credited by 7 September 2022, 2359 hours.)
 
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 

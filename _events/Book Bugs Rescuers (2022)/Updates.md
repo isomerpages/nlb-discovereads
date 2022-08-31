@@ -4,6 +4,12 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 1 September 2022
+
+#### 1 September 2022
+
+
+
 #### August Card Availabilities 
 *Please note that availabilities are not updated in real time. 
 

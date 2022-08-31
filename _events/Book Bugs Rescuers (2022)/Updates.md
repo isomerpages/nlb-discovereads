@@ -8,7 +8,14 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 #### 1 September 2022
 
+![](/images/events/bookbugsr/Sept%20Quiz%20Reminder.png)
+**Earn Bonus Points With Our September Quiz!**
 
+Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
+
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in September 2022, points will be credited by 7 October 2022, 2359 hours.)
+
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 
 #### August Card Availabilities 
 *Please note that availabilities are not updated in real time. 
@@ -57,7 +64,7 @@ This card is a collaboration with [NDPeeps](http://www.facebook.com/NDPeeps).
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
 
-Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in July 2022, points will be credited by 7 September 2022, 2359 hours.)
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in August 2022, points will be credited by 7 September 2022, 2359 hours.)
 
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
 

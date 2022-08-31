@@ -1,11 +1,11 @@
 ---
 title: "Discover Sustainability: Caring for the Environment"
-permalink: /caring-for-the-environment
+permalink: /caring-for-the-environment/
 description: ""
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
-|  <a href="#lp-urbanfarm">Urban Farming</a> | New!\* <a href="#lp-susfood">Sustainable Foods</a> |
+|  <a href="#lp-urbanfarm">Urban Farming</a> | New!\* <a href="#lp-susfood">Sustainable Foods</a> |  New!\* <a href="#lp-Recycling">Recycling</a>
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Sustainable Foods</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
@@ -317,5 +317,8 @@ Singapore : Yaa Bunayya SG, [2020]<br>
    </div>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
+
+<h3 class="margin--bottom--lg" id="lp-Recycling"><b>Recycling</b></h3>
+
 	
   <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

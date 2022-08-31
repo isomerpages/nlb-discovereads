@@ -6,6 +6,12 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### 1 September 2022
 
+![](/images/events/bookbugsr/BBR%20solaris%20release.png)
+
+🪐Solaris🪐—a utopia of exploration and invention, and home to the elusive #BookBug behind Bugtopia’s chaos. Explore the space station’s Sector L-01, Asteroid Alley, The Wasteland, and more with the newly released Solaris cards, quizzes, newsletter, and storymap. With determination, you may be able to uncover the mystery and rescue the Book Bugs! ✨✨
+
+Head to the public libraries from now till 31 December 2022 to redeem your cards! Every book or eBook borrowed gives you 1 point, and every 4 points gives you a Book Bugs card. Points for items borrowed will be credited to your myLibrary account within 24 hours.
+
 #### 1 September 2022
 
 ![](/images/events/bookbugsr/Sept%20Quiz%20Reminder.png)

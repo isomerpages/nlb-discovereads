@@ -14,6 +14,8 @@ Join the community and tell us how much you love the Book Bugs. Click on the pos
 
 access the gallery [here.](go.gov.sg/bookbugs-community)
 
+<br>
+
 
 
 #### Activities

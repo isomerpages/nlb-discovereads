@@ -4,7 +4,17 @@ permalink: /events/bookbugsr/community/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-| [Activities](#activities) | [Stickers](#stickers) | 
+[The Community](#thecommunity)| [Activities](#activities) | [Stickers](#stickers) | 
+
+#### The Community
+
+Join the community and tell us how much you love the Book Bugs. Click on the poster to access our online community gallery. This is a platform with content by Book Bugs fans, for Book Bugs fans! 
+
+<a href="/files/bookbugsr/Join the Community.pdf"><img src="/images/events/bookbugsr/join the community.png" alt="Join the community" style="width: 60%;" align="left"></a>
+
+access the gallery [here](go.gov.sg/bookbugs-community)
+
+
 
 #### Activities
 Download these activities and try them out!

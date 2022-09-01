@@ -12,7 +12,7 @@ Join the community and tell us how much you love the Book Bugs. Click on the pos
 
 <a href="/files/bookbugsr/Join the Community.pdf"><img src="/images/events/bookbugsr/join the community.png" alt="Join the community" style="width: 60%;" align="left"></a>
 
-access the gallery [here](go.gov.sg/bookbugs-community)
+access the gallery [here.](go.gov.sg/bookbugs-community)
 
 
 

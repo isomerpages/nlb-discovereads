@@ -1,10 +1,119 @@
 ---
 title: School Holiday Specials
-permalink: /diy-resources/preschool/preschool-holiday-special
+permalink: /diy-resources/preschool/preschool-holiday-special/
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
+
+### **Our Fantastic Feline Friends!**
+
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=d6dd3cca-1caa-482f-9c04-aefe0094c0ff&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+  ### **Cat Collage**
+
+Materials Needed:
+
+* Scissors
+
+* Construction Paper of any preferred colours
+
+* Pencil
+
+* Glue
+
+* Ruler
+
+* Markers
+
+* Yarn, Ribbons or Glitter Glue (Optional)
+
+[Download](https://go.gov.sg/shscatcollage) full instructions for this craft.
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Catastrophe.jpg" style="width:45%">
+
+Title: [CATastrophe: A Story of Patterns](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205535895)<br>
+Author: Ann Marie Stephens <br>
+Illustrator: Jennifer Harney <br>
+Publisher: New York: Boyds Mills Press, an imprint of Boyd's Mills & Kane, 2021
+<br>
+This book then is about a group of cats going on a fishing trip that did not really go so well. Captain Cat, the leader of the pack, tries to get his cat crew organised throughout the trip. They discover that arranging themselves in the right sequence makes the trip go smoother. A wonderful book about our feline friends that teaches children about pattern recognition!
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Cat%20and%20Mouse.jpg" style="width:45%">
+
+Title: [Cat and Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203865884) <br>
+Author & Illustrator: Britta Teckentrup <br>
+Publisher: Munich: Prestel Verlag, 2019 <br>
+
+The story is told in a fun rhyme, and you will see the cat climbing out of boxes, running up and down the stairs and waiting patiently for the mouse to come out of its hiding place to catch it. But does the cat succeed in catching this mouse?
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Kittens.jpg" style="width:45%">
+
+Title: [Kittens](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205272894) <br>
+Illustrator: Nicole Horning <br>
+Publisher: New York, NY: Cavendish Square Publishing, 2021 <br>
+
+This book is filled with not only many cute pictures of baby cats but lots of interesting facts about them too! For example, can you guess how long a kitten can sleep? About 18-22 hours a day! Imagine having a naptime that long!
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Cats%20are%20Fun.jpg" style="width:45%">
+
+Title: [Cats are Fun!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205531413) <br>
+Author: Mary Elizabeth Salzmann <br>
+Publisher: Minneapolis, Minnesota: Sandcastle, an imprint of Abdo Publishing, 2022 <br>
+
+This book showcases how fun our fantastic feline friends are as we find them in many different places. One thing you will learn about cats is that they love hiding in places, even unexpected ones and that they come in different shapes, sizes, and colours. The book starts with a question, asking you if you can spot these cat breeds throughout the book.
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Maine%20Coons.jpg" style="width:45%">
+
+Title: [Maine Coons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205597522)<br>
+Author: Cameron L. Woodson <br>
+Publisher: Minneapolis, MN: Jump!, 2021
+<br>
+Energetic and affectionate, find out more about magnificent Maine Coons and their fluffy ruffs, double coats and large size in this book! A must-read for budding cat lovers!
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Ragdolls.jpg" style="width:45%">
+
+Title: [Ragdolls](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205560907) <br>
+Author & Illustrator: Cameron L. Woodson <br>
+Publisher: Minneapolis, MN: Jump!, 2021<br>
+
+Beautiful and fluffy, find out more about regal Ragdolls and their irresistible soft coats, adorable blue eyes and point patterns in this book! A must-read for budding cat lovers!
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Baby%20Cheetahs.jpg" style="width:45%">
+
+Title: [Baby Cheetahs](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205392390) <br>
+Illustrator: Kate Riggs <br>
+Publisher: Mankato, Minnesota: Creative Education and Creative Paperbacks, are imprints of The Creative Company, 2020<br>
+
+Meet a very cute little predator! This baby cheetah will bring you through his diet, his habitat and he grows up in this informative and adorable book to introduce little ones to big cats.
+
+<br>
+
+<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Baby%20Tigers.jpg" style="width:45%">
+
+Title: [Baby Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204438463) <br>
+Author: Kate Riggs <br>
+Publisher: Mankato, Minnesota: Creative Education and Creative Paperbacks, are imprints of The Creative Company, 2020 <br>
+
+Meet a very cute little predator! This baby tiger will bring you through his diet, his habitat and he grows up in this informative and adorable book to introduce little ones to big cats.
+
+<br>
+
+**The copyright to all book covers and synopses belong to the relevant publishers or illustrators.**
 
 ### **Rhymes**
 

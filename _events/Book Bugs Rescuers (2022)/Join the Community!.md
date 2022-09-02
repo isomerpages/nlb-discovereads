@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/community/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-[The Community](#thecommunity)| [Activities](#activities) | [Stickers](#stickers) | 
+[The Community](#the-community)| [Activities](#activities) | [Stickers](#stickers) | 
 
 #### The Community
 

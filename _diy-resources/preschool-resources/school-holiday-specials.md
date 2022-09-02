@@ -12,7 +12,7 @@ third_nav_title: Preschool Resources
 
 ### **Cat Collage**
 	
-	Materials Needed:
+Materials Needed:
 
 * Scissors
 

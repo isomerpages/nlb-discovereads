@@ -10,7 +10,7 @@ third_nav_title: Preschool Resources
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=d6dd3cca-1caa-482f-9c04-aefe0094c0ff&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-  ### **Cat Collage**
+  <h5>Cat Collage<h5>
 
 Materials Needed:
 

@@ -4,6 +4,21 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 3 September 2022
+#### Rescuers' Quest
+<img src="/images/events/bookbugsr/Rescuers Quest.png" alt="Quest" style="width: 100%" align="left">
+
+The adventure begins today! Head down to your nearest public library, except library@orchard, library@esplanade and library@chinatown, to find out the untold story behind The End Bug. 
+
+The first leg of the journey starts at the Book Bugs card dispensing machine!
+
+
+#### Join the Community
+<img src="/images/events/bookbugsr/Join the Community.jpg" alt="Quest" style="width: 100%" align="left">
+
+Calling all Rescuers! Rebuild Bugtopia by submitting your original stories and creations to the #BookBugs Community Gallery.  Join us at [https://go.gov.sg/bookbugs-community.](https://go.gov.sg/bookbugs-community)
+
+
 #### 1 September 2022
 
 ![](/images/events/bookbugsr/BBR%20solaris%20release.png)

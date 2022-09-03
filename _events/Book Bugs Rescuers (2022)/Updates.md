@@ -4,6 +4,17 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 3 September 2022
+#### Rescuers' Quest
+<img src="/images/events/bookbugsr/Rescuers Quest.png" alt="July Quiz" style="width: 100%" align="left">
+
+The adventure begins today! Head down to your nearest public library, except library@orchard, library@esplanade and library@chinatown, to find out the story behind The End Bug. 
+
+The first leg of the journey starts at the Book Bugs Machine!
+
+
+
+
 #### 1 September 2022
 
 ![](/images/events/bookbugsr/BBR%20solaris%20release.png)

@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/community/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-[The Community](#thecommunity)| [Activities](#activities) | [Stickers](#stickers) | 
+[The Community](#the-community)| [Activities](#activities) | [Stickers](#stickers) | 
 
 #### The Community
 
@@ -12,7 +12,7 @@ Join the community and tell us how much you love the Book Bugs. Click on the pos
 
 <a href="/files/bookbugsr/Join the Community.pdf"><img src="/images/events/bookbugsr/join the community.png" alt="Join the community" style="width: 1000%;" align="left"></a>
 
-Access the gallery [here.](go.gov.sg/bookbugs-community)
+Access the gallery [here.](https://go.gov.sg/bookbugs-community)
 
 <br>
 

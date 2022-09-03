@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-**Announcement: Look out for DIY activities and the answers to *Passport to Bugtopia* on our [Join the Community!](/events/bookbugsr/community/) page.**
+**Announcement:** Look out for DIY activities and the answers to *Passport to Bugtopia* on our [Join the Community!](/events/bookbugsr/community/) page.
 
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
 

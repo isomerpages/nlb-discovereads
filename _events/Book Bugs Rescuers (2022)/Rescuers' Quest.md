@@ -4,7 +4,6 @@ permalink: /events/bookbugsr/quests/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-
 #### Join us to uncover the mystery behind The End Bug's actions.
 
 <img src="/images/events/bookbugsr/Rescuers Quest.png">

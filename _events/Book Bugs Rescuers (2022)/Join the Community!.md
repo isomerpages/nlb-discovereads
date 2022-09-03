@@ -13,6 +13,7 @@ Join the community and tell us how much you love the Book Bugs. Our online Commu
 
 <a href="/files/bookbugsr/Join the Community.pdf"><img src="/images/events/bookbugsr/join the community.png" alt="Join the community" style="width: 1000%;" align="left"></a>
 
+
 Access the gallery [here](https://go.gov.sg/bookbugs-community) or scan the QR code above.
 
 <br>

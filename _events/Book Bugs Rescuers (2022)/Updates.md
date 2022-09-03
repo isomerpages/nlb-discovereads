@@ -10,7 +10,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 The adventure begins today! Head down to your nearest public library, except library@orchard, library@esplanade and library@chinatown, to find out the untold story behind The End Bug. 
 
-The first leg of the journey starts at the Book Bugs Machine!
+The first leg of the journey starts at the Book Bugs card dispensing machine!
 
 
 #### Join the Community

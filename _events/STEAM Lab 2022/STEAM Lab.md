@@ -4,7 +4,7 @@ permalink: /events/steamlab2022/
 description: ""
 third_nav_title: STEAM Lab 2022
 ---
-| [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | 
+| [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | [S.T.E.A.M. Lab Mini Videos](#steam-lab-mini-videos)
 
 ### S.T.E.A.M. Lab (10 - 11 September 2022)
 ![](/images/STEAM%20Lab%20EB%20Banner.png)
@@ -41,3 +41,5 @@ Click here to view the [programme lineup](https://childrenandteens.nlb.gov.sg/ev
 4. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+#### S.T.E.A.M. Lab Mini Videos

@@ -78,11 +78,12 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 Volume 1, 2015 
 
-[![](/images/sing%20biblio%20vol1.png)](https://drive.google.com/drive/folders/1Dci43pjfsSHpuBFeyCgU-spy_oc9QEXh)
+[![](/images/sing%20biblio%20vol1.png)](https://drive.google.com/file/d/1mdsMXEWg-jvariIM2MO3wPH-8IbjhcBs/view?usp=sharing)
 
 Volume 2, 2018
 
-[![](/images/sing%20biblio%20vol2%20.png)](https://drive.google.com/drive/folders/1Dci43pjfsSHpuBFeyCgU-spy_oc9QEXh)
+[![](/images/sing%20biblio%20vol2%20.png)](https://drive.google.com/file/d/1q8VambxwZNvEJ4utBodySIoUNK_YXFx4/view?usp=sharing)
+
 
 
 

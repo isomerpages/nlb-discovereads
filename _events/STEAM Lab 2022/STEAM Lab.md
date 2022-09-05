@@ -4,7 +4,7 @@ permalink: /events/steamlab2022/
 description: ""
 third_nav_title: STEAM Lab 2022
 ---
-| [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | 
+| [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | [S.T.E.A.M. Lab Mini Videos](#steam-lab-mini-videos)
 
 ### S.T.E.A.M. Lab (10 - 11 September 2022)
 ![](/images/STEAM%20Lab%20EB%20Banner.png)
@@ -39,5 +39,13 @@ Click here to view the [programme lineup](https://childrenandteens.nlb.gov.sg/ev
 2. Collect a sticker by participating in the activities at any of our S.T.E.A.M. Lab booths. Earn 5 stickers to complete the Lab Chart. 
 3. Borrow 4 books. 
 4. Visit our redemption booth to show your loan receipt and completed Lab Chart to redeem a token (while stocks last)!
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+#### S.T.E.A.M. Lab Mini Videos
+
+<div class="bp-youtube"> <iframe width="560" height="315" src="https://www.youtube.com/embed/l9B7iknybmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <br>
+
+<div class="bp-youtube"> <iframe width="560" height="315" src="https://www.youtube.com/embed/J5EqL69pjYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <br>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

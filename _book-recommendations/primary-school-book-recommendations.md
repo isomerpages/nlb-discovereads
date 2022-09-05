@@ -1,6 +1,6 @@
 ---
 title: Primary School Book Recommendations
-permalink: /book-recommendations/recommend-primary
+permalink: /book-recommendations/recommend-primary/
 collection_name: book-recommendations
 ---
 ## **Primary**
@@ -68,6 +68,23 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 | AFCC 2021 | AFCC 2020|
 
 <a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
+
+
+
+<p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
+
+**Singapore Bibliography: The Most Fabolously, Incredibly, Awesome Singapore Books**
+
+
+Volume 1, 2015 
+
+[![](/images/sing%20biblio%20vol1.png)](https://drive.google.com/file/d/1mdsMXEWg-jvariIM2MO3wPH-8IbjhcBs/view?usp=sharing)
+
+Volume 2, 2018
+
+[![](/images/sing%20biblio%20vol2%20.png)](https://drive.google.com/file/d/1q8VambxwZNvEJ4utBodySIoUNK_YXFx4/view?usp=sharing)
+
+
 
 
 

@@ -1,11 +1,11 @@
 ---
 title: Suggested Reads
-permalink: /diy-resources/preschool-resources/raise-a-reader
+permalink: /diy-resources/preschool-resources/raise-a-reader/
 third_nav_title: Preschool Resources
 description: ""
 ---
 ## Raise A Reader: Suggested Reads
-The booklists and activity sheets below are created in collaboration with our various partners. 
+The booklists and activity sheets below are curated by Early Read librarians and/or in collaboration with our various partners. 
 
 | [**New!*** Booklists](#booklists) | [**New!*** Activity Sheets](#activity-sheets) | [Creative Conversations](#creative-conversations) |
 

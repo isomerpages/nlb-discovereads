@@ -4,7 +4,7 @@ permalink: /diy-resources/preschool-resources/discovertech/
 description: ""
 third_nav_title: Preschool Resources
 ---
-![](/images/diyresources/preschool/discovertech/Discovertech.jpg)
+![discoverTech](/images/diyresources/preschool/discovertech/Discovertech.jpg)
 
 |**New!*** <a href="#lp-digitalart">Let’s Learn About Digital Art!</a> | **New!*** <a href="#lp-positivehabits">Let’s Learn About Positive Digital Habits! </a>| **New!*** <a href="#lp-augmentedreality">Let’s Learn About Augmented Reality!</a>| <a href="#lp-sequences">Let’s Learn About Sequences!</a> | <a href="#lp-decomposition">Let’s Learn About Decomposition!</a> |
 |<a href="#lp-algorithm">Let’s Learn About Algorithm!</a>|<a href="#lp-looping">Let’s Learn About Looping |<a href="#lp-branching">Let’s Learn About Branching!</a> | <a href="#lp-debugging">Let's Learn About Debugging!</a> 

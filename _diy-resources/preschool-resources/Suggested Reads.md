@@ -19,7 +19,7 @@ Looking for thematic reads on positive values for your little ones? Discover mor
 |<a href="/files/preschool/Raise A Reader/HonestyandIntegrity.PDF"><img src="/images/diyresources/preschool/Raise A Reader/HonestyandIntegrity.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/BraveryandCourage.PDF"><img src="/images/diyresources/preschool/Raise A Reader/BraveryandCourage.jpg" style="width:75%"></a>| 
 |<a href="/files/preschool/Raise A Reader/AcceptingDifferences.PDF"><img src="/images/diyresources/preschool/Raise A Reader/AcceptingDifferences.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/TeamworkandCooperation.PDF"><img src="/images/diyresources/preschool/Raise A Reader/TeamworkandCooperation.jpg" style="width:70%"></a>|
 |<a href="/files/preschool/Raise A Reader/Resilience.PDF"><img src="/images/diyresources/preschool/Raise A Reader/Resilience.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/Friendship.PDF"><img src="/images/diyresources/preschool/Raise A Reader/Friendship.jpg" style="width:70%"></a>|
-|<a href="/files/preschool/Raise A Reader/Emotionsandfeelings.PDF"><img src="/images/diyresources/preschool/Raise A Reader/emotionsandfeelings.jpg" style="width:70%"></a>
+|<a href="/files/preschool/Raise A Reader/Emotionsandfeelings.PDF"><img src="/images/diyresources/preschool/Raise A Reader/emotionsandfeelings.jpg" style="width:70%"></a>|<a href="/files/preschool/Raise A Reader/Malay_Mendaki.PDF"><img src="/images/diyresources/preschool/Raise A Reader/Malay_Mendaki.jpg" style="width:70%"></a>
 
 ##### NLB x SPCA
 Read more books about our adorable furry friends! 

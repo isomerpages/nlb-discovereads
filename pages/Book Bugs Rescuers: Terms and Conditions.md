@@ -1,6 +1,6 @@
 ---
 title: "Book Bugs Rescuers: Terms and Conditions"
-permalink: /bookbusgr/termsandconditions
+permalink: /bookbusgr/termsandconditions/
 description: ""
 ---
 **Terms and Conditions**
@@ -71,4 +71,6 @@ Minimum monthly points each patron may earn:
 
 (c)	Patrons are to use the QR code(s) or 8-digit code(s) to collect their card(s) from the Book Bugs card machines located at all public libraries (except library@chinatown, library@esplanade and library@orchard) from March 2022 to December 2022, during library operating hours.<br>
 
-(d)	All card redemptions at the libraries are while stocks last.
+(d) Please note that points earned from borrowed items under Clause 4 will be credited until 2359 hrs on 29 December 2022 and all un-used points earned from borrowed items during the promotion period (1 December 2021 to 29 December 2022) shall expire at 2359 hrs on 31 December 2022.
+
+(e)	All card redemptions at the libraries are while stocks last.

@@ -29,6 +29,8 @@ Click on this first and second issues to read the feature stories, complete the 
 
 Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
+#Note: There is an error in *The Bugtopian* Issue 4. Under "The Bugtopian Brainteaser" activity, Question 9, the scrambled letters should contain an extra letter "R". 
+
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 <br>

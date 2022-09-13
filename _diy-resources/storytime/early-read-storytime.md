@@ -40,7 +40,7 @@ third_nav_title: Storytime
 ### Super Storytastic for 7-10 year olds
 <img src="/images/diyresources/Storytastic-DR-banner.png" alt="Super Storytastic Banner" style="width: 70%;">
 
-<a href=”https://www.eventbrite.sg/cc/programmes-on-storytelling-127929“><img src="/images/diyresources/Storytastic-banner2.png" alt="Super Storytastic Banner" style="width: 70%;"></a>
+<a href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929"><img src="/images/diyresources/Storytastic-banner2.png" alt="Super Storytastic Banner" style="width: 70%;"></a>
 
 | **Library** | **Venue** | **Schedule** | **Time** |
 | Ang Mo Kio Public Library | Activity Room | 1st and 3rd Friday of the month | 7.30-8pm |

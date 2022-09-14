@@ -11,7 +11,11 @@ The booklists and activity sheets below are curated by our Early Read Librarians
 
 ### **Booklists**
 
-*(Updated 16 August 2022)*
+*(Updated 14 Sep 2022)*
+
+##### NLB x PCF
+Check out our book recommendation that focus on mindful parenting and how to develop healthy communicative relationships with your child. Pick up tips on managing screentime as well as how to guide your child through their early years too! The booklist also includes two adorable books for Storytime, focused on parent-child relationships for both Mummies and Daddies to enjoy!
+
 
 ##### NLB x MENDAKI 
 Looking for thematic reads on positive values for your little ones? Discover more below.

@@ -12,7 +12,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 Book Bugs: Rescuers of Stories Lost  is the fourth iteration of a bug-themed collectible card game reading promotion targeted at children to encourage reading in both English and Mother Tongue Languages. Borrow any library item and/or complete the monthly quizzes to earn points. Four points can be exchanged for one collectible card at participating Public Libraries.
 
-By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

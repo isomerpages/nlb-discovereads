@@ -41,6 +41,8 @@ School Edition: Passport to Bugtopia - Answers
 
 |<a href="/files/bookbugsr/BB3%20Passport%201%20FA%20_ANSWER%20ACTIVITY%201.pdf"><img src="/images/events/bookbugsr/BB3%20Passport%201%20FA%20_ANSWER%20ACTIVITY%201.png" alt="Bugtopian 1 Crossword" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3%20Passport%201%20FA%20_ANSWER%20ACTIVITY%202.pdf"><img src="/images/events/bookbugsr/BB3%20Passport%201%20FA%20_ANSWER%20ACTIVITY%202.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
 
+|<a href="/files/bookbugsr/school edition 2 answers.pdf"><img src="/images/events/bookbugsr/BB3%20Passport%201%20FA%20_ANSWER%20ACTIVITY%201.png" alt="Bugtopian 1 Crossword" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/school edition 2 answers2.pdf"><img src="/images/events/bookbugsr/BB3%20Passport%201%20FA%20_ANSWER%20ACTIVITY%202.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
+	
 <br>
 
 Find all available editions of the Bugtopian and Passport to Bugtopia [here.](/events/bookbugsr/story/)

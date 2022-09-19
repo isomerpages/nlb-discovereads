@@ -30,6 +30,6 @@ Rescuers, are you ready for an adventure? Let Bugtopia's journalist Attie lead y
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_WEWryPrtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

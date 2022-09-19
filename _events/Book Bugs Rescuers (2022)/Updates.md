@@ -36,7 +36,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in September 2022, points will be credited by 7 October 2022, 2359 hours.)
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 #### 1 August 2022
 
@@ -60,7 +60,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in August 2022, points will be credited by 7 September 2022, 2359 hours.)
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 #### 1 July 2022
 [<img src="/images/events/bookbugsr/July Quiz Reminder.png" alt="July Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
@@ -73,7 +73,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in July 2022, points will be credited by 5 August 2022, 2359 hours.)
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 
 #### 27 June 2022
@@ -95,7 +95,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in June 2022, points will be credited by 7 July 2022, 2359 hours.)
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 #### 1 May 2022
 
@@ -107,7 +107,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in May 2022, points will be credited by 7 June 2022, 2359 hours.)
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 
 #### 29 April 2022
@@ -131,7 +131,7 @@ Points earned from the online quizzes will be credited within 5 working days aft
 Please ensure that you enter your myLibrary username accurately. If your myLibrary username is incorrectly entered, we will not be able to credit your points. Not sure what your myLibrary username is? Click [here](https://account.nlb.gov.sg/) to find out! 
  
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 
 #### 16 March 2022 
@@ -143,7 +143,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in March 2022, points will be credited by 7 April 2022, 2359 hours.)
 
-Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 
 #### 8 March 2022
@@ -155,7 +155,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 After exploring the ins and outs of Vanam, check out our ✨[MONTHLY QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ to earn bonus points! You can participate in a maximum of two quizzes every month—one in English and one in Mother Tongue Language (i.e. Chinese, Malay, or Tamil). 
 
-Check out the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions) for our quizzes here.
+Check out the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 #### 6 March 2022
 <img src="/images/events/bookbugsr/dR BBR redemption announcement 06032022.jpeg" alt="Thank you for your continued support" style="width: 100%" align="left">
@@ -181,7 +181,7 @@ Download Book Bugs stickers for <a href="https://sticker.ly/s/HUXN16" target="_b
 Please note that you will need to download a third-party app to view the stickers on WhatsApp.
 
 #### 21 January 2022
-[<img src="/images/events/bookbugsr/BBRnewcardlaunchdate FB.png" alt="Comic 1 Release" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/bookbusgr/termsandconditions/)
+[<img src="/images/events/bookbugsr/BBRnewcardlaunchdate FB.png" alt="Comic 1 Release" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)
 
 
 

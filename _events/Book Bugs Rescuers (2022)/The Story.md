@@ -37,7 +37,7 @@ Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
 ### Passport to Bugtopia
 
-|<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 60%;" align="left"></a>|
+|<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 50%;" align="left"></a>|
 
 
 Answers to all activity pages can be found [here.](/events/bookbugsr/community/)

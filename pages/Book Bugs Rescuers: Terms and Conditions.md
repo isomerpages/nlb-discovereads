@@ -1,8 +1,10 @@
 ---
 title: "Book Bugs Rescuers: Terms and Conditions"
-permalink: /bookbusgr/termsandconditions/
+permalink: /bookbugsr/termsandconditions/
 description: ""
 ---
+
+
 **Terms and Conditions**
 
 

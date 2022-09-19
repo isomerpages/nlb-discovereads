@@ -33,8 +33,7 @@ Download these activities and try them out!
 
 |<a href="/files/bookbugsr/BB3%20Passport%201%20FA%20_ACTIVITY%201.pdf"><img src="/images/events/bookbugsr/BB3%20Passport%201%20FA%20_ACTIVITY%201.png" alt="Bugtopian 1 Crossword" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3%20Passport%201%20FA%20_ACTIVITY%202.pdf"><img src="/images/events/bookbugsr/BB3%20Passport%201%20FA%20_ACTIVITY%202.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
 
-|<a href="/files/bookbugsr/BB3%20Passport%201%20FA%20_ACTIVITY%201.pdf"><img src="/images/events/bookbugsr/passport-2-pg1.png" alt=Passport 2" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3%20Passport%201%20FA%20_ACTIVITY%202.pdf"><img src="/images/events/bookbugsr/passport-2-pg2.png" alt="Passport 2" style="width: 50%;" align="left"></a>|
-	
+|<a href="/files/bookbugsr/BB3_Pamphlet 2_1-compressed.pdf"><img src="/images/events/bookbugsr/passport-2-pg1.png" alt=Passport 2" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Pamphlet 2_2-compressed.pdf"><img src="/images/events/bookbugsr/passport-2-pg2.png" alt="Passport 2" style="width: 50%;" align="left"></a>|
 	
 
 

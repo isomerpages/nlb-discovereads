@@ -65,8 +65,6 @@ Physical copies of _Passport to Bugtopia_ are not available at the public librar
 
 Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMap is for you!
 
-Explorers can now visit Samudera, the majestic icy land ruled by Queen Usurpa.
-
 <a href= "https://go.gov.sg/storymaps/"><img src="/images/events/bookbugsr/ExploreBugtopia.png" style="width: 80%;"></a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

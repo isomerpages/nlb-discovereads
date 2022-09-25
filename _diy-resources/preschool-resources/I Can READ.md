@@ -6,11 +6,159 @@ third_nav_title: Preschool Resources
 ---
 ![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
 <br>
-**New!*** <a href="#lp-talk">Early Literacy Practice: Talk </a> | **New!*** <a href="#lp-sing"> Early Literacy Practice: Sing</a>| [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
+New!* <a href="#lp-write">Early Literacy Practice: Write </a>| New!* <a href="#lp-play">Early Literacy Practice: Play </a>|<a href="#lp-talk">Early Literacy Practice: Talk </a> | <a href="#lp-sing"> Early Literacy Practice: Sing</a>| [For Ages 0 to 12 Months](#for-ages-0-to-12-months) | [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)|
  
-***(Updated 21 March 2022)***
+***(Updated September 2022)***
 
 ![icanread](/images/diyresources/preschool/i-can-read/i%20can%20read.png)
+
+<h3 class="margin--bottom--lg" id="lp-write">Early Literacy Practice: Write<br></h3>
+ 
+ <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:40%">
+ 
+**Tips For Developing Writing Skills (Ages 2-4)**
+* At the pre-writing stage, children do not need to write legibly – being able to scribble or trace is a good start.
+* Choose books with finger-trails, large numbers or letters that provide opportunities for children to practice tracing.
+* Try to model writing for your child. Introduce them to the conventions of writing – from left to right of the page and from top to bottom.
+
+**Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/writingcrayons.jpg" style="width:70%">
+
+* Let your child explore coloring. Using crayons and paper, encourage your child to colour or scribble. This simple activity helps to build their motor skills.
+* Let your child learn to write their name through finger- painting. Write out your child’s name on a paper. Have your child trace over what you have written with child-friendly non-toxic paint.
+
+**Watch Me!**<br>
+Learn about the importance of writing in early literacy and the different activities you can do with your child to encourage their literacy development.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COTXi225aQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Early Literacy: Writing. YouTube (2015). Library Video Network, Baltimore County Public Library. Retrieved 2022, March 21.
+
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205435824" target="_blank"><img src="/images/diyresources/preschool/i-can-read/fingertrail123.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Fingertrail 123 </b><br>
+       <u>Illustrator:</u> Elisa Ferro <br>
+       <u>Publisher:</u> Usborne Publishing Ltd., 2021.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205244261" target="_blank"><img src="/images/diyresources/preschool/i-can-read/allaboardalphabet.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>All aboard, Alphabet!</b><br>
+        <u>Author:</u>Davies Becky<br>
+        <u>Publisher:</u> London : Little Tiger Press, 2020.<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204445276" target="_blank"><img src="images/diyresources/preschool/i-can-read/shapeswithlittlefish.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Shapes with Little Fish </b><br>
+       <u>Illustrator:</u> Lucy Cousins<br>
+       <u>Publisher:</u> London : Walker Books and Subsidiaries, 2020<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204484256" target="_blank"><img src="/images/diyresources/preschool/i-can-read/myfirstabc.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>My first ABC</b><br>
+ <u>Publisher:</u> Walker Books Publisher: London : Walker Entertainment, 2020<br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+#### Try this!
+ 
+ <img src="/images/diyresources/preschool/i-can-read/writeactivity.jpg" style="width:45%">
+
+Click [here](/files/preschool/i-can-read/write_activity_final.pdf) to download a copy of the activity sheet.
+ 
+ <h3 class="margin--bottom--lg" id="lp-play">Early Literacy Practice: Play<br></h3>
+ 
+<img src="/images/diyresources/preschool/i-can-read/play.jpg" style="width:45%">
+
+**Tips For Encouraging Play (Ages 4-6)**
+* Try books with pictures of familiar characters, like animals, children or adults in familiar roles. Look for books that have action pictures - your baby is starting to be able to enjoy pictures with more details.
+* Choose books with songs and repetitive verses. Books that have a simple story line that relates to your child's own experiences will also be appealing to them.
+
+**Early Literacy Activities You Can Do With Your Child**
+
+<img src="/images/diyresources/preschool/i-can-read/playdough.jpg" style="width:80%">
+
+* Together with your child, use playdough to make the letters of the alphabet or numbers.
+* Play games like ‘I spy’ using colours. This can be lots of fun, especially for preschoolers. For example, ‘I spy with my little eye, something that’s blue. What’s something blue I might be looking at?’.
+
+**Watch Me!**<br>
+Playing has many benefits for early literacy development. Learn how you can build upon your child's vocabulary and narrative skills through play.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOp1cW3xm1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Source: Library Early Literacy Video Series - Playing. YouTube (2015). 
+City of Bellingham, Washington. Retrieved 2022, March 21.
+
+<h4>LET'S READ!</h4><br>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205475506" target="_blank"><img src="/images/diyresources/preschool/i-can-read/firestation.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Let’s Pretend Fire Station  </b><br>
+       <u>Author:</u> Nicola Edwards <br>
+       <u>Publisher:</u> London : Caterpillar Books, 2021.<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204514096" target="_blank"><img src="/images/diyresources/preschool/i-can-read/superheroinyourbook.jpg" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+			<p><b>There's a Superhero In Your Book</b><br>
+        <u>Author:</u>Tom Fletcher<br>
+        <u>Publisher:</u> London : Puffin, 2020. <br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205543497" target="_blank"><img src="images/diyresources/preschool/i-can-read/underberry.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Circle Under Berry</b><br>
+       <u>Author:</u> Carter Higgins <br>
+       <u>Publisher:</u> San Francisco, California : Chronicle Books, 2021<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205546794" target="_blank"><img src="/images/diyresources/preschool/i-can-read/grandudes.jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Grandude’s Green Submarine</b><br>
+	   <u>Author:</u> Paul McCartney <br>
+ <u>Publisher:</u> London : Puffin, 2021. <br>
+ </p></div>
+   </div>
+  </div>
+ <p>All book covers are copyright of the respective publishing companies.</p>
+ 
+####  Try this!
+ 
+<img src="/images/diyresources/preschool/i-can-read/playactivity.jpg" style="width:45%">
+
+Click [here](/files/preschool/i-can-read/play_activity.pdf) to download a copy of the activity sheet.
+
 
 <h3 class="margin--bottom--lg" id="lp-talk">Early Literacy Practice: Talk<br></h3>
 

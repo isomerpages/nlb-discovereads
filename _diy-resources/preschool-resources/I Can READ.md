@@ -16,7 +16,7 @@ third_nav_title: Preschool Resources
 
 <h3 class="margin--bottom--lg" id="lp-write">Early Literacy Practice: Write<br></h3>
  
- <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:40%">
+ <img src="/images/diyresources/preschool/i-can-read/write.jpg" style="width:35%">
  
 **Tips For Developing Writing Skills (Ages 2-4)**
 * At the pre-writing stage, children do not need to write legibly – being able to scribble or trace is a good start.

@@ -9,10 +9,6 @@ third_nav_title: Preschool Resources
 
 |**New!*** <a href="#lp-write">Early Literacy Practice: Write </a>| **New!*** <a href="#lp-play">Early Literacy Practice: Play </a>|<a href="#lp-talk">Early Literacy Practice: Talk </a>|<a href="#lp-sing"> Early Literacy Practice: Sing</a>|
 |<a href="#for-ages-0-to-12-months"> For Ages 0 to 12 months</a>| <a href="#for-ages-1-to-3-years"> For Ages 1 to 3 years</a>| <a href="#for-ages-4-to-6-years"> For Ages 4 to 6 years</a>
-
-
-**New!*** <a href="#lp-write">Early Literacy Practice: Write </a>| **New!*** <a href="#lp-play">Early Literacy Practice: Play </a>|<a href="#lp-talk">Early Literacy Practice: Talk </a>|
-|<a href="#lp-sing"> Early Literacy Practice: Sing</a>| [For Ages 0 to 12 Months](#for-ages-0-to-12-months)| [For Ages 1 to 3 Years](#for-ages-1-to-3-years)| [ For Ages 4 to 6 Years](#for-ages-4-to-6-years)
  
 ***(Updated Oct 2022)***
 

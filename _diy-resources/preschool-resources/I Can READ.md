@@ -77,7 +77,7 @@ Learn about the importance of writing in early literacy and the different activi
  </p></div>
    </div>
   </div>
- <p>All book covers are copyright of the respective publishing companies.</p>
+ <p>The copyright to all book covers belong to the relevant publishers or illustrators.</p>
  
 #### Try this!
  
@@ -151,7 +151,7 @@ City of Bellingham, Washington. Retrieved 2022, March 21.
  </p></div>
    </div>
   </div>
- <p>All book covers are copyright of the respective publishing companies.</p>
+ <p>The copyright to all book covers belong to the relevant publishers or illustrators.</p>
  
 ####  Try this!
  

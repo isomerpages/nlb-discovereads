@@ -32,6 +32,7 @@ third_nav_title: Storytime
 | Geylang East Public Library | Activity Room | 1st and 3rd Friday of the month | 3.30-4pm |
 | Pasir Ris Public Library | Storytelling Corner | 2nd and 4th Friday of the month | 3.30-4pm |
 | Sengkang Public Library | Early Literacy Area | 1st and 3rd Thursday of the month | 3.30-4pm |
+
 | Tampines Regional Library | Programme Zone (L6) | 2nd and 4th Tuesday of the month | 4-4.30pm |
 
 
@@ -77,3 +78,6 @@ Picture books can be enjoyed at any age and they are powerful tools in fostering
 
 #### Storytelling Toolkit
 Want to improve your storytelling techniques? Get tips and tricks from our librarians by viewing our Storytelling Toolkit [here](https://www.youtube.com/watch?v=5P47IICNSUA&list=PLJlLW0qKYHTN_I98pTkSFvqulmxcIznZs).
+
+#### School Holiday Specials with Librarians
+Get introduced to good reads and fun craft activities through our School Holiday Specials [here](https://childrenandteens.nlb.gov.sg/diy-resources/preschool/preschool-holiday-special/)!

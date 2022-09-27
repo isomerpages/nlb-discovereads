@@ -1,6 +1,6 @@
 ---
 title: How to Play
-permalink: /events/bookbugsr/play
+permalink: /events/bookbugsr/play/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
@@ -13,7 +13,6 @@ Watch this video to find out how to play Book Bugs: Rescuers of Stories Lost!
 ### The Game Mat
 
 Download your very own Book Bugs: Rescuers of Stories Lost game mat here! 
-
-<a href="/images/events/bookbugsr/BBR Playing Mat.png"><img src="/images/events/bookbugsr/BBR Playing Mat.png" alt="Game Mat" style= "width: 100%"></a>
+[<img src="/images/events/bookbugsr/BBR Playing Mat.png" alt="Playing Mat" style="width: 100%" align="left">](https://go.gov.sg/bbrplayingmat)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

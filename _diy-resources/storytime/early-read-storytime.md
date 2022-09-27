@@ -25,6 +25,7 @@ third_nav_title: Storytime
 
 
 ##### East
+
 | **Library** | **Venue** | **Schedule** | **Time** |
 | Bedok Public Library | Programme Room | 1st and 2nd Saturday of the month | 3-3.30pm |
 | Cheng San Public Library | Activity Room | 1st and 3rd Friday of the month | 3.30-4pm |
@@ -35,6 +36,7 @@ third_nav_title: Storytime
 
 
 ##### West
+
 | **Library** | **Venue** | **Schedule** | **Time** |
 | Bukit Batok Public Library | Activity Room | 1st and 3rd Saturday of the month | 12.30-1pm |
 | Choa Chu Kang Public Library | Programme Zone 1 | 1st and 3rd Wednesday of the month | 5-5.30pm |
@@ -45,6 +47,7 @@ third_nav_title: Storytime
 
 
 ##### Central
+
 | **Library** | **Venue** | **Schedule** | **Time** |
 | library@harbourfront | Stories Comes Alive Room | 2nd and 4th Tuesday of the month | 4-4.30pm |
 | Serangoon Public Library | Programme Zone | 2nd and 4th Friday of the month | 3-3.30pm |

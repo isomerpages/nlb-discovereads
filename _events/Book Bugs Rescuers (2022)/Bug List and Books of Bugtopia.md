@@ -52,6 +52,18 @@ No Book Bug moves through the water faster than Nixie, whose inspiration came fr
 	
 Offkie loves to sing and perform the latest hits in front of an adoring audience of her fellow Book Bugs! 🎶 Inspiration for this musical Bug comes from the book, ‘Song for a Whale’, written by Lynne Kelly. It tells the story of how Iris, a deaf twelve-year-old girl, tries to reach out to a whale who is unable to communicate with other whales.
 
+<a href="/images/events/bookbugsr/Square Sable - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Sable - BBR Bookstagram.png" alt="Over The Moon" style="width: 60%;"></a> 
+
+Sable is a top acrobat in the circus! Every Book Bug who has watched her perform agrees that this is where she belongs.**🎪** Like Sable, Mallie jumps at the chance to take part in a daring endeavour in ‘Over The Moon’, written by Natalie Lloyd. Mallie stumbles across an evil plot and finds herself in danger...
+
+<a href="/images/events/bookbugsr/Square Ratcha - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Ratcha - BBR Bookstagram.png" alt="The Colour Thief" style="width: 60%;"></a> 
+
+Ratcha tries to remove all the colours in Bugtopia because, in his ideal world, everything should be in grey and white! Ratcha is inspired by ‘வண்ணத் திருடன்’ (The Colour Thief) by Stephen Aitken and Sylvia Sikundar, where a grumpy giant steals all the colours in the world.
+
+<a href="/images/events/bookbugsr/Square Buzznaut - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Buzznaut - BBR Bookstagram.png" alt="Buzznaut" style="width: 60%;"></a> 
+
+Shy and soft-spoken, Buzznaut finds it hard to make friends. However, those who make the effort to get to know him soon find that he is a wonderful Book Bug indeed! 💖 Buzznaut is based on Auggie from ‘We’re All Wonders’, written by R.J. Palacio. Auggie looks different from other children, but grows to understand that he is a wonder who deserves to be loved.
+
 **Search for these titles on your NLB Mobile app [go.gov.sg/NLB-mobile](go.gov.sg/NLB-mobile)!**
 
 *The book covers are the copyright of the respective publishers.*

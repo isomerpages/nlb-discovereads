@@ -1,6 +1,6 @@
 ---
 title: "Discover Science : Budding Scientists"
-permalink: /budding-scientists
+permalink: /budding-scientists/
 date: 2022-01-21
 layout: post
 description: ""
@@ -9,10 +9,10 @@ description: ""
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
-<b> New!! </b> <a href="#lp-shapesandpolygons"> Let's Play with Shapes and Polygons!</a> |
+<b> New!! </b> <a href="#lp-shapesandpolygons"> ABC's of Applied Mathematics: Let's Play with Shapes and Polygons!</a> |
 <a href="#lp-amazingbody"> The Amazing Body: Let's Explore My Body!</a>
 
-<h3 class="margin--bottom--lg" id="lp-shapesandpolygons"><b>Let's Play with Shapes and Polygons!  </b></h3>
+<h3 class="margin--bottom--lg" id="lp-shapesandpolygons"><b>ABC's of Applied Mathematics: Let's Play with Shapes and Polygons!  </b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
 <img src="/images/science-lfa/Shapes%20and%20Polygons/Thumbnail.png" style="width:200px; text-align:center;">

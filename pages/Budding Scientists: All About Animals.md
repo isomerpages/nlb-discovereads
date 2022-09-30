@@ -1,6 +1,6 @@
 ---
 title: "Budding Scientists: All About Animals"
-permalink: /allaboutanimals
+permalink: /allaboutanimals/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
@@ -10,7 +10,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <strong>**New!**</strong> <a href="#lp-animals"> All About Animal Life Cycles</a> | <a href="#lp-marineanimals">Let’s Learn about Marine Animals</a> 
 
 
-<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animal Life Cycles </b></h3>
+<h3 class="margin--bottom--lg" id="lp-amazingbody"><b>All About Animals: Animal Life Cycles </b></h3>
 
 <p><b>Suitable for 3 to 6 years old children</b></p>
 

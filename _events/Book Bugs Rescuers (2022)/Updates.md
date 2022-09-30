@@ -4,6 +4,18 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 1 October 2022
+
+![](/images/events/bookbugsr/Oct%20Quiz%20Reminder.png)
+**Earn Bonus Points With Our October Quiz!**
+
+Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
+
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in October 2022, points will be credited by 7 November 2022, 2359 hours.)
+
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
+
+
 #### 3 September 2022
 #### Rescuers' Quest
 <img src="/images/events/bookbugsr/Rescuers Quest.png" alt="Quest" style="width: 100%" align="left">

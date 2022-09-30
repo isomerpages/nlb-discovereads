@@ -1,6 +1,6 @@
 ---
 title: Discover Science
-permalink: /diy-resources/preschool-resources/discover-science
+permalink: /diy-resources/preschool-resources/discover-science/
 description: ""
 third_nav_title: Preschool Resources
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Budding Scientists: ABC's of Applied Physics for Kids"
-permalink: /abcsofappliedphysicsforkids
+permalink: /abcsofappliedphysicsforkids/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
@@ -9,7 +9,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <strong>**New!**</strong> <a href="#lp-light">Let There Be Light!</a> | <a href="#lp-time">It's Time to Learn about Time</a> 
 
-<h3 class="margin--bottom--lg" id="lp-light"><b>Let There Be Light!</b></h3>
+<h3 class="margin--bottom--lg" id="lp-light"><b>ABC's of Applied Physics for Kids: Let There Be Light!</b></h3>
 
 <p><b>Suitable for 4 to 6 years old children</b></p>
 

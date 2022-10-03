@@ -17,9 +17,11 @@ third_nav_title: Preschool Resources
 <h4>Budding Scientists</h4>
  <img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;">
  
-Click [here](/budding-scientists) for Budding Scientists (featuring ABC's of Applied Mathematics, The Amazing Body)
+Click [here](/budding-scientists) for Budding Scientists (featuring The Amazing Body)
 
 Click [here](/abcsofappliedphysicsforkids) for ABC's of Applied Physics for Kids
+
+Click [here](/abcsofappliedmathforkids) for ABC's of Applied Mathematics for Kids
 
 Click [here](/abcsofappliedchemistryforkids) for ABC's of Applied Chemistry for Kids
 

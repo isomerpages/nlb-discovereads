@@ -245,4 +245,4 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <b><p>The copyright to all book covers belongs to the relevant publishers or illustrators.</p></b>
 
- <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p> 
+ <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

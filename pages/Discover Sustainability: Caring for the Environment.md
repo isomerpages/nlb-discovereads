@@ -7,7 +7,7 @@ description: ""
 
 |  <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a>
 
-<h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Sustainability at Home</b></h3>
+<h3 class="margin--bottom--lg" id="lp-sushome"><b>Sustainability at Home</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
 <img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus1.png" style="width:400px; text-align:left;">

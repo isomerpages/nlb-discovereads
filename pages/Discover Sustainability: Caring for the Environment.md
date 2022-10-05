@@ -5,7 +5,7 @@ description: ""
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
-|  <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-susfood">Sustainability at Home</a>
+|  <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a>
 
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Sustainability at Home</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
@@ -251,7 +251,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
   </div>
   <p>All book covers are copyright of the respective publishing companies.</p>
 
-<h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Sustainable Foods</b></h3>
+<h3 class="margin--bottom--lg" id="lp-susfood"><b>Sustainable Foods</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
 <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-1.png" style="width:400px; text-align:left;">

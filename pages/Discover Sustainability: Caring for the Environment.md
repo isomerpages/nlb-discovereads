@@ -75,7 +75,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205706209" target="_blank"><img src="Sustainability%20Lfa/Sus%20at%20Home/sus5.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205706209" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus5.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Somebody Crunched Colin</b><br>

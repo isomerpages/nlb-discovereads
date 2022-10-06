@@ -145,8 +145,8 @@ description: ""
 <ul>
   <li>Name 3 ways you can save water in the bathroom.</li>
   <li>Name 3 ways you can reduce having too many items at home.</li>
-  <li>Name 3 ways you can reduce food waste</li>
-  <li>Name 3 ways you can save energy at home</li>
+  <li>Name 3 ways you can reduce food waste.</li>
+  <li>Name 3 ways you can save energy at home.</li>
   <li>What can you reuse or recycle at home?</li>
 </ul>
 

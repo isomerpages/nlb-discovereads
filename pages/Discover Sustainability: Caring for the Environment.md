@@ -42,7 +42,7 @@ description: ""
 <h4>LET'S PLAY!</h4>
 <h5>Instructions</h5>
 <p> The next time you and your child go shopping for groceries, bring this fun scavenger hunt list along and identify what can be found at the supermarket or wet market. Let your child explore the fresh food you find at the markets before it makes it to their plate. Help them identify and name what their chosen food is too. </p>
-<p> Find the scavenger hunt list in this link: <a href="url">https://go.gov.sg/supermarketscavhunt</a> </p>
+<p> Find the scavenger hunt list in this link: <a href="https://go.gov.sg/supermarketscavhunt">https://go.gov.sg/supermarketscavhunt</a> </p>
 
 <h4>Urban Farm at Home</h4>
 <h5>Watch your seedlings grow, just like you!</h5>

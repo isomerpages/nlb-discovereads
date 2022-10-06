@@ -5,8 +5,99 @@ description: ""
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
-|  <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a>
+|  <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a> | New!\* <a href="#lp-urbanhome">Urban Farming - Farm to Table</a>
 
+<h3 class="margin--bottom--lg" id="lp-urbanhome"><b>Urban Farming - Farm to Table</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+
+<img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban1.png" style="width:400px; text-align:left;">
+
+<p> "All big things come from small beginnings." - James Clear </p>
+
+<h4>LET'S LEARN!</h4>
+
+<h5> What is urban farming? </h5>
+<p> Urban Farming is growing or producing food in a city or heavily populated town. Look at the difference between traditional farming and urban farming below. </p>
+
+<img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban2.png" style="width:400px; text-align:left;">
+
+<h5> Why is learning about Farm to Table important for your child? </h5>
+<p> This concept is a way to teach your child where food comes from, which in turn will show that it's important to eat healthy and not waste what we have. </p>
+
+<h4>LET'S WATCH!</h4>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=K1XbEpNZ5yk&feature=youtu.be" target="_blank">
+       <img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban7.png" style="width:500px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+<b> Your Food, Farm to Table </b>
+ <p>Summary: <br> 
+	Have you ever wondered how your food came to be produced the way it is today? From the field to your table, a lot has changed - and improved - since farming first began, for both farmers and consumers.
+ </p>
+   </div>
+ </div>
+
+<h4>LET'S PLAY!</h4>
+<h5>Instructions</h5>
+<p> The next time you and your child go shopping for groceries, bring this fun scavenger hunt list along and identify what can be found at the supermarket or wet market. Let your child explore the fresh food you find at the markets before it makes it to their plate. Help them identify and name what their chosen food is too. </p>
+<p> Find the scavenger hunt list in this link: <a href="url">https://go.gov.sg/supermarketscavhunt</a> </p>
+
+<h4>Urban Farm at Home</h4>
+<h5>Watch your seedlings grow, just like you!</h5>
+<p> Start your own home garden. By growing your own food, it’s a fun way for your child to learn about being self-sustainable. </p>
+<p><b>Materials:</b></p>
+<ul>
+<li>Watering can or bottle</li>
+<li>Seed package</li>
+<li>Old newspaper or cloth</li>
+<li>Gardening tools</li>
+<li>Planter or sturdy plastic boxes with holes and a tray</li>
+<li>New soil or compost</li>
+</ul>
+
+<p><b>Instructions:</b></p>
+<ul>
+<li>Cover your table with the newspaper or cloth</li>
+<li>Fill the planter or box with soil or compost</li>
+<li>Use a trowel or use your fingers to scrape gently through the soil for airflow</li>
+<li>Place the seeds into the holes in the soil and cover them back up</li>
+<li>Find a place with plenty of sun and sprinkle some water</li>
+</ul>
+
+<p><b>What's Growing On?</b></p>
+<p> Explain to your child that it takes love, time and effort to grow something from a small seed. The biggest trees or the most beautiful flowers have grown from small seeds. And at the end of it, they’ll have their own homegrown herb. It’s something to be proud of. </p>
+
+<h4>LET'S READ!</h4>
+	
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202507358" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban3.png" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>On the Farm, At the Market</b><br>
+       <u>Author:</u> G. Brian Karas <br>
+       <u>Publisher:</u> New York: Henry Holt and Company, 2016<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204336147" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban4.png" style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>In a Garden</b><br>
+        <u>Author:</u> Tim McCanna <br>
+        <u>Publisher:</u> New York: Simon & Schuster Books for Young Readers, 2020 <br>
+     </p></div>
+  </div>
+ </div>
+ 
+  <p>All book covers are copyright of the respective publishing companies.</p>
+
+	
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 <h3 class="margin--bottom--lg" id="lp-sushome"><b>Sustainability at Home</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 

@@ -10,7 +10,7 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-urbanhome"><b>Urban Farming - Farm to Table</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
-<img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban1.png" style="width:500px; text-align:left;">
+<img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban1.png" style="width:400px; text-align:left;">
 
 <p> "All big things come from small beginnings." - James Clear </p>
 

@@ -150,3 +150,15 @@ Shy and soft-spoken, Buzznaut finds it hard to make friends. However, those who 
 | 68 | Elidra |Kapal Eliana| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204086820" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 69 |Pacho|Ari/அரி| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201117616" target="_blank" rel="noopener noreferrer">Link</a>* ! |
 | 70 |Usurpa| The Lion, the Witch and the Wardrobe | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13236260" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 71 |Anorthite|Kerry and the Knight of the Forest | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204508268" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 72 |Mushi| Michael Recycle Meets Litterbug Doug | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13703547" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 73 |Raven| A Wrinkle in Time | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203055952" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 74 |Swary| Attack of the Swordfish and Other Singapore tales | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12543303" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 75 |Princeling| The Little Prince | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202202496" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 76 |Nilavoli| Nilaavil Muyal/நிலாவில் முயல் | *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13712707 " target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 77 |Remy| Tan Tock Seng | *<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 78 |Seluna| Chang’e flying to the moon/嫦娥奔月| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200165345" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 79 |Kukepang| Damia dan Kuda Kepang Ajaib| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204440086" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+| 80 |The End Bug| Chapter Two is Missing| *<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203994860" target="_blank" rel="noopener noreferrer">Link</a>* ! |
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

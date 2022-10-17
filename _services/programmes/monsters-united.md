@@ -70,7 +70,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 
 <a href="/files/camy-minibook.PDF"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
 
-Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#Monsters-United-Mini-Book-Instructions)
+Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
 
 ##### Upcoming Books
 

@@ -1,6 +1,6 @@
 ---
 title: Monsters United
-permalink: services/programmes/monstersunited
+permalink: services/programmes/monstersunited/
 breadcrumb: Monsters United
 collection_name: services
 third_nav_title: Programmes
@@ -70,7 +70,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 
 <a href="/files/camy-minibook.PDF"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
 
-Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
+Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
 
 ##### Upcoming Books
 
@@ -87,7 +87,7 @@ Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings
 ### Hutsy’s Animated Book Launch! 
 
 ![Hutsy’s Animated Book Launch image](/images/unsorted/monstersunited/hutsy-header1.png)
-| [Read the Book!](#read-the-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) |
+| [Read the Book!](#read-the-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Monsters United Mini Book Instructions](#monsters-united-mini-book-instructions) |
 
 
 ##### Read the Book!
@@ -103,6 +103,8 @@ Read the animated book by clicking on the image below!
 <a href="/files/hutsy-minibook.PDF"><img src="/images/unsorted/monstersunited/hutsy-minibook.png" alt="How Hutsy Got His Hat book" style="width: 100%;"></a>
 
 Assemble your own adorable mini version of Hutsy’s book! Simply download and print the sheet to start. Watch the instructional video below for tips on putting your mini book together.
+
+##### Monsters United Mini Book Instructions
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/\_bi4xJuiBzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 

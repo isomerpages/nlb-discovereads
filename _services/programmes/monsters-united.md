@@ -87,7 +87,7 @@ Eager to uncover how Camy got her wand, Zecky her spectacles and Rooky his wings
 ### Hutsy’s Animated Book Launch! 
 
 ![Hutsy’s Animated Book Launch image](/images/unsorted/monstersunited/hutsy-header1.png)
-| [Read the Book!](#read-the-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) |
+| [Read the Book!](#read-the-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Monsters United Mini Book Instructions](#monsters-united-mini-book-instructions) |
 
 
 ##### Read the Book!

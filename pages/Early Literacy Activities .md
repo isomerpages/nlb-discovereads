@@ -5,7 +5,7 @@ date: 2022-01-04
 layout: post
 description: ""
 ---
-*(Updated in September 2022)*
+*(Updated Oct 2022)*
 
 <b>Here are some fun activities you can do with your little ones that tie in with the five early literacy practices. We have also included book recommendations for you to read together with your child! </b>
 

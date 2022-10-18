@@ -11,7 +11,7 @@ description: ""
 
 ##### October 2022
 
-
+| <img src="/images/diyresources/preschool/Sep22.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">|
 
 
 

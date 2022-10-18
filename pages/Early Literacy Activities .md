@@ -11,9 +11,9 @@ description: ""
 
 ##### October 2022
 
-| <img src="/images/diyresources/preschool/EarlyLit/" style="width:80%">| <img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">|
+| <img src="/images/diyresources/preschool/Earlylit/A1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/A2.jpg" style="width:80%">|
 
-
+Click here to download a copy.
 
 ##### September 2022
 

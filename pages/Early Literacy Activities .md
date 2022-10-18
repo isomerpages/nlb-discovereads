@@ -25,9 +25,9 @@ Click [here](/files/preschool/Early%20literacy%20activities.PDF) to download a c
 <br>
 
 ##### January 2022
-<img src="/images/diyresources/preschool/earlylitactivities.png" style="width:80%">
-<br>
-<img src="/images/diyresources/preschool/earlylitbooks.png" style="width:80%">
+
+| <img src="/images/diyresources/preschool/earlylitactivities.png" style="width:80%">| <img src="/images/diyresources/preschool/earlylitbooks.png" style="width:80%">|
+
 
 Click [here](/files/preschool/Earlyliteracyactivities/Jan%20Activities.PDF) to download a copy.
 

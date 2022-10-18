@@ -11,12 +11,7 @@ description: ""
 
 ##### September 2022
 
-| <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Sep22.jpg" style="width:70%">|<a href="https://go.gov.sg/dogs-rabbits"><img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:70%">|
-
-
-<img src="/images/diyresources/preschool/Sep22.jpg" style="width:80%">
-<br>
-<img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">
+| <img src="/images/diyresources/preschool/Sep22.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">|
 
 Click [here](/files/preschool/earlyliteracyactivities/EarlyLiteracySep.PDF)  to download a copy.
 <br>
@@ -24,9 +19,7 @@ Click [here](/files/preschool/earlyliteracyactivities/EarlyLiteracySep.PDF)  to 
 
 ##### April 2022
 
-<img src="/images/diyresources/preschool/aprilactivities.png" style="width:80%">
-<br>
-<img src="/images/diyresources/preschool/aprilbooks.png" style="width:80%">
+| <img src="/images/diyresources/preschool/aprilactivities.png" style="width:80%">| <img src="/images/diyresources/preschool/aprilbooks.png" style="width:80%">|
 
 Click [here](/files/preschool/Early%20literacy%20activities.PDF) to download a copy.
 <br>

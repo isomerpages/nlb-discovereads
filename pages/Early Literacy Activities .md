@@ -13,7 +13,7 @@ description: ""
 
 | <img src="/images/diyresources/preschool/Earlylit/A1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/A2.jpg" style="width:80%">|
 
-Click here to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/A2.PDF) to download a copy.
 
 ##### September 2022
 

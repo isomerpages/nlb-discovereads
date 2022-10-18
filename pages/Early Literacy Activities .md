@@ -9,6 +9,12 @@ description: ""
 
 <b>Here are some fun activities you can do with your little ones that tie in with the five early literacy practices. We have also included book recommendations for you to read together with your child! </b>
 
+##### October 2022
+
+
+
+
+
 ##### September 2022
 
 | <img src="/images/diyresources/preschool/Sep22.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">|

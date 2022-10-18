@@ -11,7 +11,7 @@ description: ""
 
 ##### September 2022
 
-| <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Sep22.jpg" style="width:50%"> |
+| <a href="/files/preschool/Raise A Reader/allaboutdogs-compressed.PDF"><img src="/images/diyresources/preschool/Sep22.jpg" style="width:50%">
 |<a href="https://go.gov.sg/dogs-rabbits"><img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:50%">|
 
 

@@ -10,6 +10,8 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 Calling all Rescuers! Head down to the Book Bugs Community Day event at the Regional Libraries during the school holidays. Participate in the booth activities, borrow 8 books (with at least 2 books in a Mother Tongue language)*, and stand a chance to redeem exclusive Book Bugs enamel pins and plushies, while stocks last! 
 
+![Community Day](/images/events/bookbugsr/BBR-Community-Day-FB.png)
+
 Community Day will take place on the following dates:
 *	26 Nov 2022 (Saturday), 2pm - 6pm @ Tampines Regional Library
 * 9 Dec 2022 (Friday), 2pm - 6pm @ Woodlands Regional Library

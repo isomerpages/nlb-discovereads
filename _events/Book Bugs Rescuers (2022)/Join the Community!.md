@@ -21,7 +21,7 @@ Activities you can participate in:
 *	Contribute to the Book Bugs Community Gallery and redeem a special enamel pin! Design your original Book Bug or submit a Book Review at Pin It Up. 
 *	Share how your Book Bugs journey has impacted your reading experience at the Plushie Redemption booth! 
 *	Mutually trade your Book Bugs cards with other Rescuers at the Card Exchange corner! 
-*	[Registration needed] Play the Book Bugs card game with fellow Rescuers at the Book Bugs Friendlies! 
+*	[**Registration needed**] Play the Book Bugs card game with fellow Rescuers at the Book Bugs Friendlies! 
 
 Visit this [page](https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889) for the list of Book Bugs programmes!
 

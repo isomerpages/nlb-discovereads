@@ -21,7 +21,7 @@ Click [here](/files/preschool/earlyliteracyactivities/A2.PDF) to download a copy
 
 | <img src="/images/diyresources/preschool/Earlylit/TSR1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/TSR2.jpg" style="width:80%">|
 
-Click [here](/files/preschool/earlyliteracyactivities/A2.PDF) to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/TSR.PDF) to download a copy.
 
 ##### September 2022
 

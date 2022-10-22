@@ -11,25 +11,25 @@ third_nav_title: Book Bugs Rescuers (2022)
 Calling all Rescuers! Head down to the Book Bugs Community Day event at the Regional Libraries during the school holidays. Participate in the booth activities, borrow 8 books (with at least 2 books in a Mother Tongue language)*, and stand a chance to redeem exclusive Book Bugs enamel pins and plushies, while stocks last! 
 
 Community Day will take place on the following dates:
-•	26 Nov 2022 (Saturday), 2pm - 6pm @ Tampines Regional Library
-•	9 Dec 2022 (Friday), 2pm - 6pm @ Woodlands Regional Library
-•	16 Dec 2022 (Friday), 2pm - 6pm @ Jurong Regional Library
+*	26 Nov 2022 (Saturday), 2pm - 6pm @ Tampines Regional Library
+* 9 Dec 2022 (Friday), 2pm - 6pm @ Woodlands Regional Library
+*	16 Dec 2022 (Friday), 2pm - 6pm @ Jurong Regional Library
 
 Activities you can participate in: 
-•	Contribute to the Book Bugs Community Gallery and redeem a special enamel pin! Design your original Book Bug or submit a Book Review at Pin It Up. 
-•	Share how your Book Bugs journey has impacted your reading experience at the Plushie Redemption booth! 
-•	Mutually trade your Book Bugs cards with other Rescuers at the Card Exchange corner! 
-•	[Registration needed] Play the Book Bugs card game with fellow Rescuers at the Book Bugs Friendlies! 
+*	Contribute to the Book Bugs Community Gallery and redeem a special enamel pin! Design your original Book Bug or submit a Book Review at Pin It Up. 
+*	Share how your Book Bugs journey has impacted your reading experience at the Plushie Redemption booth! 
+*	Mutually trade your Book Bugs cards with other Rescuers at the Card Exchange corner! 
+*	[Registration needed] Play the Book Bugs card game with fellow Rescuers at the Book Bugs Friendlies! 
 
 Visit this [page](https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889) for the list of Book Bugs programmes!
 
 To sign up for Friendlies at Tampines Regional Library, click on the links below. Do note that each player is encouraged to register for one slot only. 
 Registration will open closer to the date.
 
-Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-1-tickets-444439589777?aff=odcleoeventsincollection)
-Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-2-tickets-444439920767?aff=odcleoeventsincollection)
-Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-3-tickets-444440131397?aff=odcleoeventsincollection)
-Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-4-tickets-444440492477?aff=odcleoeventsincollection)
+* Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-1-tickets-444439589777?aff=odcleoeventsincollection)
+* Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-2-tickets-444439920767?aff=odcleoeventsincollection)
+* Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-3-tickets-444440131397?aff=odcleoeventsincollection)
+* Book Bugs Rescuers: Friendlies @ Tampines Regional Library | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-4-tickets-444440492477?aff=odcleoeventsincollection)
 
 Stay tuned for the registration links for Friendlies at Woodlands and Jurong Regional Library!  
 

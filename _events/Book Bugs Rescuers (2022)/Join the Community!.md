@@ -4,9 +4,9 @@ permalink: /events/bookbugsr/community/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-[Community Day](#book-bugs-rescuers-of-stories-lost-community-day) | [The Community](#the-community)| [Activities](#activities) | [Stickers](#stickers) | 
+[Community Day](#community-day) | [The Community](#the-community)| [Activities](#activities) | [Stickers](#stickers) | 
 
-#### Book Bugs: Rescuers of Stories Lost - Community Day!
+#### Community Day!
 
 Calling all Rescuers! Head down to the Book Bugs Community Day event at the Regional Libraries during the school holidays. Participate in the booth activities, borrow 8 books (with at least 2 books in a Mother Tongue language)*, and stand a chance to redeem exclusive Book Bugs enamel pins and plushies, while stocks last! 
 

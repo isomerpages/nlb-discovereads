@@ -4,7 +4,7 @@ permalink: /events/bookbugsr/community/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-[Community Day](#book-bugs:rescuers-of-stories-lost-community-day) | [The Community](#the-community)| [Activities](#activities) | [Stickers](#stickers) | 
+[Community Day](#book-bugs-rescuers-of-stories-lost-community-day) | [The Community](#the-community)| [Activities](#activities) | [Stickers](#stickers) | 
 
 #### Book Bugs: Rescuers of Stories Lost - Community Day!
 

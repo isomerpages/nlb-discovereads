@@ -98,6 +98,9 @@ Let's Learn about solute, solvent and solution with this video.
 			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! </li>
 </ul>
 
+<h4 class="margin--bottom--lg" id="lp-bookrecspp"><b>LET'S READ!</b></h4>
+
+
 
 
  

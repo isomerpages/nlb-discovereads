@@ -147,6 +147,15 @@ Let's Learn about solute, solvent and solution with this video.
 " target="_blank"><img src="/images/science-lfa/Potions%20party/chemical%20changes%20and%20reactions%20(Jade).png" style="width:400px; text-align:left;"></a>
 
 
+<p> A chemical reaction is when things (reactants) mix together and create something new, a Product. Some signs that a reaction has occurred are: temperature changes, colour changes, new smells, and even bubbles. And we don’t need to be in labs to see these chemical changes. 
+<br>
+Chemical reactions take place when we cook an egg, bake cookies, release fireworks, or even start a fire. 
+<br>
+To teach this may seem challenging, but the video resources below are great for you and your child to learn together! </p>
+
+
+<h4 class="margin--bottom--lg" id="lp-bookrecspp"><b>LET'S READ!</b></h4>
+
 
  
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>

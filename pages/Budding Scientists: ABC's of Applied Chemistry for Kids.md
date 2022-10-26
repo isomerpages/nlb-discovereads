@@ -16,7 +16,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <p>Acids and bases are present in the food that we eat and drink daily. Examples of acidic drinks are orange juice or vinegar, and they taste sour. Bases, like egg whites and baking soda, taste bitter. Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic a substance is.
  <br><br>
-Do you know that we can make our own pH indictator in the comfort of our homes? Let’s follow the instructions below.</p>
+Do you know that we can make our own pH indicator in the comfort of our homes? Let’s try this out! </p>
 
 
 <ul>
@@ -40,11 +40,11 @@ Do you know that we can make our own pH indictator in the comfort of our homes? 
 
 <h5 class="margin--bottom--lg" id="lp-redcabbage"><b>Red Cabbage pH indicator</b></h5>
 
- <p>Before we experiment, it’s important to prepare all the necessary ingredients! The red cabbage juice will be used for the experiment as a pH indicator. Prior to the experiment, it’s best to get it ready early in the morning or the day before and place the liquid in the fridge. </p>
+ <p>It’s important to prepare all the necessary ingredients before we start experimenting! The red cabbage juice will be used as a pH indicator. It’s best to prepare the juice early in the morning or the day before and keep it refrigerated.  </p>
  
  <p>Materials you will need</p>
 <ul>
-  <li>Red cabbage</li>
+  <li>A head of red cabbage</li>
   <li>Large pot of water </li>
   <li>Knife and chopping board</li>
   <li>Ladle / large spoon </li>

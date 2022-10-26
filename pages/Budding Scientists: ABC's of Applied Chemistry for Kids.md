@@ -44,7 +44,7 @@ Do you know that we can make our own pH indicator in the comfort of our homes? L
  
  <p>Materials you will need</p>
 <ul>
-  <li>A head of red cabbage</li>
+  <li>Half head of red cabbage</li>
   <li>Large pot of water </li>
   <li>Knife and chopping board</li>
   <li>Ladle / large spoon </li>

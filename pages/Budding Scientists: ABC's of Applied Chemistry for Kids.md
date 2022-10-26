@@ -25,8 +25,8 @@ Do you know that we can make our own pH indictator in the comfort of our homes? 
 <p>Here are some videos to learn more about solutions , acids, bases and pH levels.</p>
 <ul>
 	<li><a href="#lp-letswatchab">Acid and Base | Acids, Bases & pH | Video for Kids </a> </li>
-<li><a href="#lpletswatchsss">Solute, Solvent and Solution</a> </li>
-<li><a href="#lpletswatchccr">Chemical Changes and Reactions playlist</a> </li>
+<li><a href="#lp-letswatchsss">Solute, Solvent and Solution</a> </li>
+<li><a href="#lp-letswatchccr">Chemical Changes and Reactions playlist</a> </li>
 </ul>
 
 <p>Book Recommendations</p>
@@ -141,7 +141,7 @@ Let's Learn about solute, solvent and solution with this video.
 </ul>
 
 
-<h4 class="margin--bottom--lg" id="lp-lpletswatchccr"><b>Chemical Changes and Reactions playlist</b></h4>
+<h4 class="margin--bottom--lg" id="lp-letswatchccr"><b>Chemical Changes and Reactions playlist</b></h4>
  
 <a href="https://go.gov.sg/earlyreadbuddingscientists-chemicalreactionsplaylist
 " target="_blank"><img src="/images/science-lfa/Potions%20party/chemical%20changes%20and%20reactions%20(Jade).png" style="width:400px; text-align:left;"></a>

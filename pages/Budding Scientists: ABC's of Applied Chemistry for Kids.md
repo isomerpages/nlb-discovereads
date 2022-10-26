@@ -7,7 +7,144 @@ description: ""
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
-<a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <a href="#lp-density">Let's Learn about Density</a> | 
+<a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <a href="#lp-density">Let's Learn about Density</a> | **New!*** <a href="#lp-potionsparty">Potions Party!</a> | 
+
+<h3 class="margin--bottom--lg" id="lp-potionsparty"><b>ABC’s of Applied Chemistry<br>Potions Party!</b></h3>
+ <p><b>Suitable for 4 to 6 years old</b></p>
+
+ <img src="/images/science-lfa/Potions%20party/potions%20party!%20(Jade).gif" style="width:450px; text-align:left;">
+
+<p>Acids and bases are present in the food that we eat and drink daily. Examples of acidic drinks are orange juice or vinegar, and they taste sour. Bases, like egg whites and baking soda, taste bitter. Scientists use a pH scale, ranging from 0 to 14, to measure how acidic and basic a substance is.
+ <br><br>
+Do you know that we can make our own pH indictator in the comfort of our homes? Let’s follow the instructions below.</p>
+
+
+<ul>
+	<li><a href="#lp-redcabbage">Red Cabbage pH indicator</a></li>
+</ul>
+<p>Here are some videos to learn more about solutions , acids, bases and pH levels.</p>
+<ul>
+	<li><a href="#lp-letswatchab">Acid and Base | Acids, Bases & pH | Video for Kids </a> </li>
+<li><a href="#lpletswatchsss">Solute, Solvent and Solution</a> </li>
+<li><a href="#lpletswatchccr">Chemical Changes and Reactions playlist</a> </li>
+</ul>
+
+<p>Book Recommendations</p>
+<ul>
+	<li><a href="#lp-bookrecspp">Potions Party Book Recommendations</a> </li>
+</ul>
+
+
+
+<h4>LET'S INVESTIGATE!</h4>
+
+<h5 class="margin--bottom--lg" id="lp-redcabbage"><b>Red Cabbage pH indicator</b></h5>
+
+ <p>Before we experiment, it’s important to prepare all the necessary ingredients! The red cabbage juice will be used for the experiment as a pH indicator. Prior to the experiment, it’s best to get it ready early in the morning or the day before and place the liquid in the fridge. </p>
+ 
+ <p>Materials you will need</p>
+<ul>
+  <li>Red cabbage</li>
+  <li>Large pot of water </li>
+  <li>Knife and chopping board</li>
+  <li>Ladle / large spoon </li>
+  <li>Strainer (optional) </li>
+  <li>Container / bowls
+</li>
+ </ul>
+
+<p> Instructions </p>
+ <ul>
+<li> Chop up the red cabbage into medium / small bits. </li>
+<li>Pour water into a large pot. Place all the red cabbage inside. </li>
+<li>Bring the water to a boil and stir gently. Turn off the heat and let the water sit and cool. </li>
+<li>The water should turn purple and the leaves would have sunk to the bottom of the pot. </li>
+<li>Pour the liquid through a strainer or scoop out the liquid into a container or bowls.  </li>
+<li>Discard the leaves. The liquid is your red cabbage pH indicator.</li>
+ </ul>
+
+ 
+ <h4>Tips for Parents:</h4> 
+<ul>
+  <li>Have your child practice their motor skills by scooping the cooled liquid into separate containers. </li>
+  <li>Use an old T-shirt and towels when preparing the ingredient because red cabbage does stain! </li>
+</ul>
+
+<h4>LET'S WATCH!</h4>
+<p>Here are some videos to learn more about solutions , acids, bases and pH levels.
+</p>
+
+<h4 class="margin--bottom--lg" id="lp-letswatchab"><b>Acids & Bases </b></h4>
+
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=V5Mq_cL9Bck" target="_blank">
+       <img src="/images/science-lfa/Potions%20party/acidbasevideo.jpg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Acid and Base | Acids, Bases & pH | Video for Kids (3 min 12 sec)  </b> </p>
+   </div>
+ </div>
+<p>Summary: <br>
+Acids and bases are two specific types of chemicals.
+<Br>
+Whether an element is an acid or base depends on the type of ions present in it. If it has so many hydrogen ions, then it is an acid.  If it has so many hydroxide ions, then it is a base. 
+<br>
+Scientists use a scale called a pH scale to check how acidic or basic a liquid is?  The pH scale is a chemical detector for hydronium and hydrogen ions. </p>
+
+
+<h4 class="margin--bottom--lg" id="lp-letswatchsss"><b>Solute, Solvent and Solution</b></h4>
+
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=e-2EoyDYamg" target="_blank">
+       <img src="/images/science-lfa/Potions%20party/Solution Solvent Solute.jpg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b>Solution Solvent Solute - Definition and Difference (6 min 33 sec)  </b> </p>
+   </div>
+ </div>
+<p>Summary: <br>
+Understanding Solution and its different elements. 
+<br>
+Solution: A solution forms when a substance dissolves or breaks apart into another substance.
+<br>
+Solute: The substance that dissolves to form a solution is called a solute.
+<br>
+Solvent: The substance in which a solute will dissolve is called a solvent.
+<br>
+Example of Solution, Solute, and Solvent: In a sugar-water solution, sugar is the solute, and water are the solvent. The water dissolves the sugar. Another example is the saltwater solution. The substance that dissolves in water is table salt. Salt is a solute in this case and it dissolves in water to form a saltwater (a solvent) solution.
+</p>
+
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
+    <div class="image"><a href="https://www.youtube.com/watch?v=i4lTvRNkRP4" target="_blank">
+       <img src="/images/science-lfa/Potions%20party/Solute, solvent and solution.jpg" style="width:400px; text-align:left;"></a>
+     </div>
+   </div>
+ <div class="col is-three-fifths">
+     <p><b> Solute, solvent and solution | What is a Solution? | Science Video for Kids (3 min 41 sec)  </b> </p>
+   </div>
+ </div>
+<p>Summary: <br>
+A solution is a specific type of mixture where one substance is dissolved into another. Common examples of solutions are the sugar in water and salt in soda water, water solutions etc. 
+<br>
+Let's Learn about solute, solvent and solution with this video. 
+ </p>
+
+ <h4>Tips for Parents:</h4> 
+<ul>
+	<li>Encourage your child to ask questions and stay curious. If their minds are always wondering “Why?” and “How?”, try your best to answer them. If you can’t, see it as an opportunity to learn together! Look for answers in books together or from online resources. </li>
+			<li>Another way to help them learn is to have them read more books on Science topics that interest them and attend EARLY READ Science programmes by National Library Board! </li>
+</ul>
+
+
+<h4 class="margin--bottom--lg" id="lp-lpletswatchccr"><b>Chemical Changes and Reactions playlist</b></h4>
+ 
+<a href="https://go.gov.sg/earlyreadbuddingscientists-chemicalreactionsplaylist
+" target="_blank"><img src="/images/science-lfa/Potions%20party/chemical%20changes%20and%20reactions%20(Jade).png" style="width:400px; text-align:left;"></a>
 
 
 

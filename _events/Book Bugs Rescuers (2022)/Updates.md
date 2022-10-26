@@ -6,7 +6,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### 26 October 2022
 ![](/images/events/bookbugsr/BBR-Community-Day-FB.png)
-**Join us for our Book Bugs Community Day events!**
+**Join us for our Book Bugs Community Day events!** </br>
 Click [here](https://childrenandteens.nlb.gov.sg/events/bookbugsr/community/) for more details!
 
 #### 1 October 2022

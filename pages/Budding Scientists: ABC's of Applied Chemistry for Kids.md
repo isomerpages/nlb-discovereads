@@ -157,6 +157,75 @@ To teach this may seem challenging, but the video resources below are great for 
 <h4 class="margin--bottom--lg" id="lp-bookrecspp"><b>LET'S READ!</b></h4>
 
 
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://nlb.overdrive.com/media/5389014" target="_blank"><img src="/images/science-lfa/Potions%20party/Libby%20Loves%20Science.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b>Libby Loves Science: Mix and Measure (I Can Read Level 3)</b><br>
+       <u>By:</u> Kimberly Derting, Shelli R. Johannes & Joelle Murray<br>
+       <u>Publisher:</u> New York, NY: Greenwillow Books, an imprint of HarperCollinsPublishers, [2021]<br>
+    </p></div>
+   </div>
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://nlb.overdrive.com/media/6301243 " target="_blank"><img src="  /images/science-lfa/Potions%20party/Every%20Day,%20Chemistry.jpg  " style="width:150px; text-align:left;"></a>
+    </div>
+    <div class="text">
+        <p><b>Every Day, Chemistry</b><br>
+        <u>By:</u> Julia Sooy & Bonnie Pang<br>
+        <u>Publisher:</u>New York: Feiwel & Friends, 2021
+<br>
+     </p></div>
+  </div>
+ </div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205870362" target="_blank"><img src=" /images/science-lfa/Potions%20party/Examining%20Mixtures%20&%20Solutions%20(Kid%20Chemistry%20Lab).jpg " style="width:150px; text-align:left;"></a>
+     </div>
+    <div class="text">
+       <p><b> Examining Mixtures & Solutions (Kid Chemistry Lab)
+</b><br>
+       <u>By:</u>  Jessica Rusick <br>
+       <u>Publisher:</u> Minneapolis, Minnesota: Checkerboard Library, an imprint of Abdo Publishing, [2023]
+
+<br>
+       </p></div>
+   </div>
+  <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205830280" target="_blank"><img src="   /images/science-lfa/Potions%20party/Breaking%20Down%20Chemistry%20(Kid%20Chemistry%20Lab).jpg" style="width:150px; text-align:left;"></a>
+    </div> 
+   <div class="text">
+ <p><b>Breaking Down Chemistry (Kid Chemistry Lab)
+</b><br>
+      <u>By:</u> Jessica Rusick <br>
+ <u>Publisher:</u> Minneapolis, Minnesota: Checkerboard Library, an imprint of Abdo Publishing, [2023]<br>
+		</p>
+		</div>
+	</div>
+ <div class="row is-multiline">
+   <div class="col is-half-tablet padding--bottom--lg">
+    <div class="image">
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205870359" target="_blank"><img src="  /images/science-lfa/Potions%20party/Understanding%20Chemical%20Reactions%20(Kid%20Chemistry%20Lab).jpg " style="width:150px; text-align:left;"></a>
+     </div>
+	<div class="text">
+       <p><b> Understanding Chemical Reactions (Kid Chemistry Lab) 
+
+
+</b><br>
+       <u>By:</u>  Jessica Rusick <br>
+       <u>Publisher:</u> Minneapolis, Minnesota: Checkerboard Library, an imprint of Abdo Publishing, [2023]
+<br>
+		</p></div></div>
+  </div>
+	  <p>The copyright to all book covers belongs to the relevant publishers or illustrators.</p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
+
+
  
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 

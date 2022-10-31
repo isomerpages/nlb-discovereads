@@ -4,6 +4,19 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 1 November 2022
+
+![](/images/events/bookbugsr/Nov%20Quiz%20Reminder.png)
+**Earn Bonus Points With Our November Quiz!**
+
+Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
+
+Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in November 2022, points will be credited by 7 December 2022, 2359 hours.)
+
+This is the last online quiz for Book Bugs: Rescuers of Stories Lost. Head to the public libraries from now till 31 December 2022 to redeem your cards!
+
+Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
+
 #### 26 October 2022
 ![](/images/events/bookbugsr/BBR-Community-Day-FB.png)
 **Join us for our Book Bugs Community Day events!**<br>

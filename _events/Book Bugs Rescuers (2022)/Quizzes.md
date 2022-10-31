@@ -19,7 +19,7 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 
 
 
-### October 2022
+### October 2022 (Closed)
 
 This quiz has now closed. Points will be awarded by 7 November 2022, Friday. All entries received after 31 October 2022, 2359 hours, will not receive any points. Feel free to still do the quiz, but make sure you do this month’s quiz to earn bonus reward points!
 

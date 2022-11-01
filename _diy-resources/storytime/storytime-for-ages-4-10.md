@@ -1,6 +1,6 @@
 ---
 title: Storytime (for ages 4 - 10)
-permalink: /diy-resources/storytime/storytime-main
+permalink: /diy-resources/storytime/storytime-main/
 collection_name: diy-resources
 third_nav_title: Storytime
 ---
@@ -48,25 +48,25 @@ Storytelling Videos (Updated on 29 March 2021)
 
 ### **English**
 
-**9 July 2022**<br>
-**Max & Robbie's Magical Train Ride**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fdNazPrpDao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**22 October 2022**<br>
+**Just Teddy**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qvyzkh3Nv-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**23 July 2022**<br>
-**The Pied Piper of Hamelin**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ypDFnNt0GaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**8 October 2022**<br>
+**My Colouring Book is Ruined!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AeShrniRfMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
 ### **Chinese**
 
-**7 June 2022**<br>
-**今日**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIvmYFdbJho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**14 September 2022**<br>
+**山上的那一棵树**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J20cRA0LMow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**17 May 2022**<br>
-**穿越未来世界**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uVYeXTMJ0s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**31 August 2022**<br>
+**谁呢?**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnQOxOR_2oQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
 

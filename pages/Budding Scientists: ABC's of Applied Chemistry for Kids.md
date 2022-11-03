@@ -10,14 +10,10 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <a href="#lp-inflator"> Let’s Learn About Chemical Reactions</a> |  <a href="#lp-apple">Why Do Apples Turn Brown?</a> | <a href="#lp-density">Let's Learn about Density</a>
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
-
-<p><b>Suitable for 4 to 6 years old children</b></p>
-
+<b>Suitable for 4 to 6 years old children</b>
 <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Up%20Up%20And%20Away%20Banner.png" style="width:700px; text-align:center;">
 
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
-
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Learn.jpg" style="width:300px; text-align:left;">
 
 <h4>Let’s Learn about Chemical Reactions</h4>
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
@@ -25,10 +21,8 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Science%20Terms_edited.png" style="width:700px; text-align:left;"><br>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Watch.jpg" style="width:400px; text-align:left;">
-
+<h4>Let’s Watch</h4>
 <p>Watch these videos to find out how a balloon can be inflated through this simple experiment.</p>
-<h4>Blow Up A Balloon With Science</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://youtu.be/5eFIaNP8lKE" target="_blank">
@@ -41,7 +35,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
    </div>
  </div>
 
-<h4>Blow Up A Balloon With No Hands Experiment</h4>
+
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://youtu.be/uVzzHoE6Edg" target="_blank">
@@ -54,12 +48,12 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
    </div>
  </div>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Experiment.jpg" style="width:400px; text-align:left;"><br>
+<h4>Let’s Experiment</h4>
 
 <p>Have you been to a party with balloons? Can you blow a balloon without using your mouth or an air pump? Sure you can!</p>
 <p> In this simple science experiment, you will discover how you can inflate a balloon without blowing it using only a few everyday household items that you probably already have at home. You just need a chemical reaction to produce carbon dioxide gas and get ready to watch a fizzy reaction!</p>
 
-<img src="/images/science-lfa/Balloon%20inflater/materialsrequired.jpeg" style="width:400px; text-align:left;"><br>
+<h4>Materials Required</h4>
 
 <img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:700px; text-align:center;"><br>
 
@@ -98,7 +92,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 3. How did the balloon inflate?<br>
 4. How does the chemical reaction works?</p>
 
-<img src="/images/science-lfa/Balloon%20inflater/Lets%20Investigate.jpg" style="width:400px; text-align:left;"><br>
+<h4>Let’s Investigate</h4>
 
 <h4> How This Works? The Science Behind It:</h4>
 <p>Making carbon dioxide gas (CO₂) from vinegar and baking soda:
@@ -110,7 +104,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <i>Primary Connections: Linking science with literacy. Primaryconnections.org.au. (2022). Retrieved 28 March 2022, from
 <a href="https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.htm">https://www.primaryconnections.org.au/themes/custom/connections/assets/SBR/data/Chem/sub/baking/baking.html</a></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Note%20to%20parents.jpg" style="width:300px; text-align:left;"><br>
+<h4>Note to Parents:</h4>
 
 <p>Reusing the vinegar will not work. You will have to rinse the bottle each time and pour fresh vinegar into the bottle before starting again.</p>
 <p>The reaction from the baking soda and vinegar is rapid. Ensure your child is ready to see the effect before combining the two items.</p>
@@ -122,9 +116,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>2. What if more vinegar is used next, with the same amount of baking soda? Which chemical reaction inflate the biggest balloon?</p>
 <p>Record and share your observation and findings using the template provide:<a href="https://go.gov.sg/observationtable1"> https://go.gov.sg/observationtable1</a><br> <a href="https://go.gov.sg/observationtable2"> https://go.gov.sg/observationtable2</a></p>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;"></p>
-
-<p>You may prompt the following questions to your child during or after the experiment:</p>
+<p><img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px;"> You may prompt the following questions to your child during or after the experiment:</p>
 <p>Did you see bubbles floating on top of the baking soda and vinegar mixture? Why? This experiment illustrates how states of matter can change; A chemical reaction takes place when baking soda is mixed with vinegar. Carbon dioxide or CO2 is released and inflates the balloon.</p>
 <p>Do you know what gas you blow into the balloon to inflate it? How is this gas produced? When you blow up a balloon, you are exhaling carbon dioxide into the balloon. We breathe in oxygen and breathe out carbon dioxide. It is the a biproduct of our respiratory system.</p>
 <p>What else can you fill up with a gas?</p>
@@ -199,8 +191,6 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
   </div>
  </div>
  <p>All book covers are copyright of the respective publishing companies.</p>
-
-<p><img src="/images/science-lfa/Balloon%20inflater/Lets%20Try.jpg" style="width:400px; text-align:left;"></p>
 
 <h4>Let’s Try Out These Experiments!</h4>
 <p>Can’t get enough? Don’t put aside your everyday household items away, check out these other related exciting science experiments that you can do, and all thanks to science! Have fun!</p>

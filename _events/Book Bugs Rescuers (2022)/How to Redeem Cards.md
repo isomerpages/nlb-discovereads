@@ -12,6 +12,8 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 <a href="/images/events/bookbugsr/BB3 Posters_20 Jan-Redeem Cards.png/"><img src="/images/events/bookbugsr/BB3 Posters_20 Jan-Redeem Cards.png" alt="Redeeming Cards" style= "width: 80%"></a>
 
+All card redemptions at the libraries are while stocks last.
+
 Check your reward points or sign up for a myLibrary username [here](https://www.nlb.gov.sg/mylibrary/)!
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)

@@ -13,7 +13,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in November 2022, points will be credited by 7 December 2022, 2359 hours.)
 
-This is the last online quiz for Book Bugs: Rescuers of Stories Lost. Head to the public libraries from now till 31 December 2022 to redeem your cards!
+This is the last online quiz for Book Bugs: Rescuers of Stories Lost. Head to the public libraries to redeem your cards! All card redemptions at the libraries are while stocks last.
 
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 

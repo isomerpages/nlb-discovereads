@@ -73,7 +73,7 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 <p style="text-align: center;"><b><a href="#top">Back to top</a></b></p>
 
-**Singapore Bibliography: The Most Fabolously, Incredibly, Awesome Singapore Books**
+**Singapore Bibliography: The Most Fabulously, Incredibly, Awesome Singapore Books**
 
 
 Volume 1, 2015 

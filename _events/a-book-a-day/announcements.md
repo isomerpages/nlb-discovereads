@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: events/abookaday
+permalink: events/abookaday/
 breadcrumb: A Book A Day
 collection_name: events
 third_nav_title: A Book A Day
@@ -22,6 +22,8 @@ We would like to hear from you on how we can make the “A Book A Day” program
 ### **A Book A Day Lucky Draw Winners**
 
 Congratulations to the winners of the “A Book A Day” quarterly lucky draw!
+
+<a href="/files/preschool/ABAD/Y3Q2_Winner%20Poster.pdf"><img src="/images/events/abookaday/Y3Q2_Winner%20Poster.jpg" style="width:40%"></a>
 
 <a href="/files/preschool/Winner%20Poster_updated%2029%20Sept_v2.PDF"><img src="/images/events/abookaday/Y1%20Q1%20Winner%20Poster.png" style="width:40%"></a>
 

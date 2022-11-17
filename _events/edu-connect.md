@@ -1,11 +1,25 @@
 ---
 title: Edu-Connect
-permalink: /events/edu-connect
+permalink: /events/edu-connect/
 ---
 ##  Edu-Connect - Information Session for Preschool Educators
 
 Find out all about the services we offer preschools and pick up useful information on mindfulness. (The following is a recording of an event in May 2022.)
 
+Additionally, keeping to the theme of practising mindfulness both in your professional and personal lives, here are some specially designed <a href="https://go.gov.sg/educonnect2022-eresource" target="_blank">online resources</a> that we hope will be useful to you and your students. These include printables that you may choose to put up in your centre and even some tips on managing emotions through breathing exercises and yoga. <br>
+
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-one-half">
+<div class="image">
+       <a href="https://go.gov.sg/educonnect2022-eresource" target="_blank"><img src="/images/events/yoga-fun.jpg" style="width:150px; text-align:left;"></a>
+     </div>
+	</div></div>
+<div class="row is-multiline margin--bottom--lg">
+<div class="col is-one-half">
+<div class="image">
+       <a href="https://go.gov.sg/educonnect2022-eresource" target="_blank"><img src="/images/events/deep-breathing-exercise1.jpg" style="width:150px; text-align:right;"></a>
+	</div></div></div><br>
+		 
 ### Introduction to Early Read services  
 Learn about our wide range of services and programmes for preschools!
  <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=4b3752fb-1245-459f-92e5-aebb0034fc10&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>

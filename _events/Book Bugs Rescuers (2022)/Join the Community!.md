@@ -29,8 +29,8 @@ To sign up for Friendlies at Tampines Regional Library, click on the links below
 Registration will open closer to the date.
 
 * (Sold Out) Book Bugs Rescuers: Friendlies @ Tampines Regional Library, 2-2.30pm | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-1-tickets-444439589777?aff=odcleoeventsincollection) 
-* Book Bugs Rescuers: Friendlies @ Tampines Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-2-tickets-444439920767?aff=odcleoeventsincollection)
-* Book Bugs Rescuers: Friendlies @ Tampines Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-3-tickets-444440131397?aff=odcleoeventsincollection)
+* (Sold Out) Book Bugs Rescuers: Friendlies @ Tampines Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-2-tickets-444439920767?aff=odcleoeventsincollection)
+* (Sold Out) Book Bugs Rescuers: Friendlies @ Tampines Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-3-tickets-444440131397?aff=odcleoeventsincollection)
 * Book Bugs Rescuers: Friendlies @ Tampines Regional Library, 5-5.30pm | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-tampines-regional-library-session-4-tickets-444440492477?aff=odcleoeventsincollection)
 
 Stay tuned for the registration links for Friendlies at Woodlands and Jurong Regional Library!  

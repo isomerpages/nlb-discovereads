@@ -12,7 +12,8 @@ third_nav_title: Programmes
 
 ### Zecky’s Animated Book Launch! 
 
-![Zecky’s Animated Book Launch image](/images/unsorted/monstersunited/zecky-header1.jpg) | [Read the Book!](#read-the-book) | [Attend Science Fiction Storytelling and Craft Sessions](#attend-science-fiction-storytelling-and-craft-sessions) | [Discover Zecky’s Zone!](#discover-zeckys-zone) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) | [Upcoming Books](#upcoming-books) |
+![Zecky’s Animated Book Launch image](/images/unsorted/monstersunited/zecky-header1.jpg)
+| [Read the Book!](#read-the-book) | [Attend Science Fiction Storytelling and Craft Sessions](#attend-science-fiction-storytelling-and-craft-sessions) | [Discover Zecky’s Zone!](#discover-zeckys-zone) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) | [Upcoming Books](#upcoming-books) |
 
 ##### Read the Book!
 
@@ -79,7 +80,8 @@ Eager to uncover how Rooky got his wings? How did the Monsters come together? St
 
 ### Camy’s Animated Book Launch! 
 
-![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg) | [Read the Book!](#read-the-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
+![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg)
+| [Read the Book!](#read-the-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
 
 ##### Read the Book!
 

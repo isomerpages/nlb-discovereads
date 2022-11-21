@@ -81,9 +81,7 @@ Eager to uncover how Rooky got his wings? How did the Monsters come together? St
 
 ### Camy’s Animated Book Launch! 
 
-![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg)
-
-| [Read the Book!](#read-the-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
+![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg) | [Read the Book!](#read-the-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
 
 ##### Read the Book!
 

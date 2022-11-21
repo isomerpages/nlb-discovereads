@@ -21,7 +21,7 @@ third_nav_title: Programmes
 <br>How can Zecky use her inventive spirit to protect her beloved home? Find out by clicking on the image below to read the animated book!<br>
 <center><a href="https://go.gov.sg/zeckybook"><img src="/images/unsorted/monstersunited/zecky-readthebook.png" alt="How Zecky Got Her Spectacles cover" style="width: 100%;"></a></center>
 
-The Monsters from *Monsters United* have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more!
+The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more!
 
 **Rooky**: released in Mar 2023<br>
 **Monsters United**: coming soon
@@ -68,7 +68,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 Assemble your own adorable mini version of Zecky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
 
 ##### Upcoming Books
-**Stay tuned for the other *Monsters United* book releases!**
+**Stay tuned for the other *Monsters United*  book releases!**
 
 Eager to uncover how Rooky got his wings? How did the Monsters come together? Stick around for the other animated book releases! 
 

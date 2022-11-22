@@ -44,7 +44,13 @@ Friendlies at Jurong Regional Library on 16 Dec:
 
 *Each participant must show the online/physical loan receipt of 8 books/eBooks to the staff at each redemption booth. All the books/eBooks must be borrowed on the day of the event. At least 2 of the borrowed items should be in a Mother Tongue language. 
 
+**Pin It Up booth**
 
+Hi Rescuers! Gear up for Community Day by drawing your original Book Bug or submitting a Book Review! Download and print the templates below, and submit your completed form at the Pin It Up booth during the Book Bugs Community Day events.
+
+Draw your original Book Bug | Book Review
+
+Hurry! Redeem an exclusive Book Bugs enamel pin when you submit and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last! 
 
 #### The Community
 

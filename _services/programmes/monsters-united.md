@@ -42,7 +42,7 @@ For the whole of December, visit these public libraries and attend Zecky’s exc
 | Bukit Panjang Public Library | 8 Dec 2022, 5.00pm – 6.00pm, Stories Come Alive Room | 
 | Cheng San Public Library | 9 Dec 2022, 3.30pm – 4.30pm, Activity Room |
 | Yishun Public Library | 9 Dec 2022, 7.30pm – 8.30pm, Programme Zone |
-| Sembawang Public Library | 10 Dec 2022, 11.30am – 12.30pm, Programme Zone |
+| Sembawang Public Library | 10 Dec 2022, 11.30am – 12.30pm, ~~Programme Zone~~ **Reading Deck** |
 | Bedok Public Library | 11 Dec 2022, 3.00pm – 4.00pm, Programme Zone | 
 | Serangoon Public Library | 14 Dec 2022, 2.30pm – 3.30pm, Programme Zone | 
 | Choa Chu Kang Public Library | 15 Dec 2022, 5.00pm – 6.00pm, Programme Room 1 |

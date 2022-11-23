@@ -1,9 +1,11 @@
 ---
-title: Programme Lineup
-permalink: /events/steamlab2022/programmelineup/
+title: STEAM Lab 2022
+permalink: /events/steamlab/steamlab2022/
 description: ""
 third_nav_title: STEAM Lab 2022
 ---
+
+
 
 
 | [S.T.E.A.M. Lab Booths](#steam-lab-booths) | [S.T.E.A.M. Programmes](#steam-programmes) | 

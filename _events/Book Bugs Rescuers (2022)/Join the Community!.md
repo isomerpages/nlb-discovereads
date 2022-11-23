@@ -48,9 +48,11 @@ Friendlies at Jurong Regional Library on 16 Dec:
 
 Hi Rescuers! Gear up for Community Day by drawing your original Book Bug or submitting a Book Review! Download and print the templates below, and submit your completed form at the Pin It Up booth during the Book Bugs Community Day events.
 
-Draw your original Book Bug | Book Review
 
-Hurry! Redeem an exclusive Book Bugs enamel pin when you submit and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last! 
+<a href="/files/bookbugsr/BBR-Draw-your-Original-Bug-template.pdf"><img src="/images/events/bookbugsr/Draw-your-Book-Bug-template.png" alt="Create your own Book Bug" style="width: 50%;" align="left"></a><a href="/files/bookbugsr/BBBR-Book-Review-template.pdf"><img src="/images/events/bookbugsr/Book-Review-template.png" alt="Rescuers Book Report" style="width: 50%;" align="left"></a>
+
+<br>
+Hurry! Redeem an exclusive Book Bugs enamel pin when you submit a completed activity sheet and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last! 
 
 #### The Community
 
@@ -69,7 +71,7 @@ Access the gallery [here](https://go.gov.sg/bookbugs-community) or scan the QR c
 #### Activities
 Download these activities and try them out!
 
-|<a href="/files/bookbugsr/Bugtopian%201%20-%20Crossword.pdf"><img src="/images/events/bookbugsr/Bugtopia 1 Crossword.png" alt="Bugtopian 1 Crossword" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/Bugtopian%202%20-%20Brainteaser.pdf"><img src="/images/events/bookbugsr/Bugtopian 2 Brainteaser.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
+<a href="/files/bookbugsr/Bugtopian%201%20-%20Crossword.pdf"><img src="/images/events/bookbugsr/Bugtopia 1 Crossword.png" alt="Bugtopian 1 Crossword" style="width: 50%;" align="left"></a><a href="/files/bookbugsr/Bugtopian%202%20-%20Brainteaser.pdf"><img src="/images/events/bookbugsr/Bugtopian 2 Brainteaser.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>
 |<a href="/files/bookbugsr/BB Newsletter 3 Activity_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Activity.png" alt="Bugtopian 3" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/Newsletter4-Activity.pdf"><img src="/images/events/bookbugsr/Newsletter4image.png" alt="Bugtopian 4" style="width: 50%;" align="left"></a>|
 
 <br>

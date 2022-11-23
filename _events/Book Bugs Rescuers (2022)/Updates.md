@@ -4,6 +4,13 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 23 November 2022
+Community Day at Tampines Regional Library is happening this Saturday, 26 Nov from 2pm-6pm!
+![](/images/events/bookbugsr/BBR-Community-Day-FB.png)
+Click [here](https://childrenandteens.nlb.gov.sg/events/bookbugsr/community/) for more details!
+
+Registration for Friendlies at Woodlands and Jurong Regional Library have opened. Click [here](https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889) to register now!
+
 #### 1 November 2022
 
 ![](/images/events/bookbugsr/Nov%20Quiz%20Reminder.png)

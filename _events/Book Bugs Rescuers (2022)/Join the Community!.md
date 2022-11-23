@@ -49,7 +49,7 @@ Friendlies at Jurong Regional Library on 16 Dec:
 Hi Rescuers! Gear up for Community Day by drawing your original Book Bug or submitting a Book Review! Download and print the templates below, and submit your completed form at the Pin It Up booth during the Book Bugs Community Day events.
 
 
-|<a href="/files/bookbugsr/BBR-Draw-your-Original-Bug-template.pdf"><img src="/images/events/bookbugsr/Draw-your-Book-Bug-template.png" alt="Create your own Book Bug" style="width: 50%;" align="left">|</a><a href="/files/bookbugsr/BBBR-Book-Review-template.pdf"><img src="/images/events/bookbugsr/Book-Review-template.png" alt="Rescuers Book Report" style="width: 50%;" align="left"></a>|
+|<a href="/files/bookbugsr/BBR-Draw-your-Original-Bug-template.pdf"><img src="/images/events/bookbugsr/Draw-your-Book-Bug-template.png" alt="Create your own Book Bug" style="width: 50%;" align="left">|</a><a href="/files/bookbugsr/BBR-Book-Review-template.pdf"><img src="/images/events/bookbugsr/Book-Review-template.png" alt="Rescuers Book Report" style="width: 50%;" align="left"></a>|
 
 <br>
 Hurry! Redeem an exclusive Book Bugs enamel pin when you submit a completed activity sheet and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last! 

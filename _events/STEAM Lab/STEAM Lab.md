@@ -2,8 +2,9 @@
 title: STEAM Lab
 permalink: /events/steamlab/
 description: ""
-third_nav_title: STEAM Lab 2022
+third_nav_title: STEAM Lab
 ---
+
 
 | [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | [S.T.E.A.M. Lab Mini Videos](#steam-lab-mini-videos)
 

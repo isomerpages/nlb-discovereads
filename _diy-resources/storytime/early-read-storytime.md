@@ -56,18 +56,6 @@ third_nav_title: Storytime
 
 
 
-## Super Storytastic for 7-10 year olds
-<img src="/images/diyresources/Storytastic-DR-banner.png" alt="Super Storytastic Banner" style="width: 70%;">
-
-<a href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929"><img src="/images/diyresources/Storytastic-banner2.png" alt="Super Storytastic Banner" style="width: 70%;"></a>
-
-| **Library** | **Venue** | **Schedule** | **Time** |
-| Ang Mo Kio Public Library | Activity Room | 1st and 3rd Friday of the month | 7.30-8pm |
-| Jurong Regional Library | Programme Zone | 1st and 3rd Sunday of the month | 12.30-1pm |
-| Queenstown Public Library | Programme Zone	 | 2nd and 4th Wednesday of the month | 7.30-8pm |
-| Tampines Regional Library | Programme Zone | 1st Sunday of the month | 12-12.30pm |
-| Woodlands Regional Library | Everest Room | 2nd and 4th Friday of the month | 6.30-7pm |
-
 
 ## Storytelling Videos and Resources
 #### Storytime Videos

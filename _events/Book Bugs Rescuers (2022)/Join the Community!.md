@@ -30,9 +30,9 @@ Visit this [page](https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-
 To sign up for Friendlies at Woodlands Regional Library and Jurong Regional Library, click on the links below. Do note that each player is encouraged to register for one slot only. 
 
 **Friendlies at Woodlands Regional Library on 9 Dec:**
-* Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 2-2.30pm | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-1-tickets-444443722137?aff=odcleoeventsincollection) 
-* Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-2-tickets-444444404177?aff=odcleoeventsincollection)
-* Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-3-tickets-444444664957?aff=odcleoeventsincollection)
+* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 2-2.30pm | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-1-tickets-444443722137?aff=odcleoeventsincollection) 
+* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-2-tickets-444444404177?aff=odcleoeventsincollection)
+* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-3-tickets-444444664957?aff=odcleoeventsincollection)
 * Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 5-5.30pm | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-4-tickets-444445547597?aff=odcleoeventsincollection)
 
 **Friendlies at Jurong Regional Library on 16 Dec:**

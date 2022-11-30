@@ -1,6 +1,6 @@
 ---
 title: Primary
-permalink: /diy-resources/primary/primary-main
+permalink: /diy-resources/primary/primary-main/
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
@@ -220,7 +220,7 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
+<a href="/files/Diyresources/SchoolLibraryMakeovercompressed.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
 
 
 <b><a href="#top">Back to top</a></b>

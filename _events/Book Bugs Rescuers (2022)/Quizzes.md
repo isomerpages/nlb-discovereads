@@ -4,11 +4,12 @@ permalink: /events/bookbugsr/quiz/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-### November 2022
-**Complete this month’s English and MTL quizzes to earn extra points!**
+### November 2022 (Closed)
 
-Quizzes will be updated every month.
+This quiz has now closed. Points will be awarded by 7 December 2022, Wednesday. All entries received after 30 November 2022, 2359 hours, will not receive any points. Feel free to still do the quiz!
 
+November is the final month of quizzes. Head down to the public libraries to redeem your cards. All card redemptions at the libraries are while stocks last.
+ 
 <img src="/images/events/bookbugsr/Serci.png" alt="Kukepang" style="width: 50%;">
 
 * <a href="https://forms.gle/4MQxDqfsCMMcvSfk6" target="_blank" rel="noopener noreferrer"> English Quiz</a>

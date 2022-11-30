@@ -4,6 +4,19 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 1 December 2022
+
+![](/images/events/bookbugsr/Rescuers%20Quest.png)
+
+The Rescuers’ Quest is an in-library treasure hunt that will reveal the story behind The End Bug.
+
+Join us at the Public Libraries, except library@orchard, library@chinatown and library@esplanade, Central Public Library, and Marine Parade Public Library, to find out more.
+
+The adventure is ongoing from now till 31 December 2022 and begins at the Book Bugs card dispensing machine.
+
+The Rescuers’ Quest Quiz will be available till 4 December 2022. Catch this special quiz before The End Bug teleports away!
+
+
 #### 23 November 2022
 Community Day at Tampines Regional Library is happening this Saturday, 26 Nov from 2pm-6pm!
 ![](/images/events/bookbugsr/BBR-Community-Day-FB.png)

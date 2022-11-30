@@ -1,6 +1,6 @@
 ---
 title: Primary
-permalink: /diy-resources/primary/primary-main
+permalink: /diy-resources/primary/primary-main/
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
@@ -121,6 +121,7 @@ P4 - P6
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
+	
 
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
@@ -128,7 +129,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 | Lower Primary |
 | <a href="/files/diyresources/PopReads22-LP-Animals-That-Come-Alive-At-Night.PDF"><img src="/images/diyresources/primary/PopReads22_LP_AnimalsThatComeAliveAtNight.png" alt="Animals That Come Alive At Night PopReads!" style="width: 50%;"></a> | <a href="/files/diyresources/PopReads22-LP-Courage_Conquers_All.PDF"><img src="/images/diyresources/primary/PopReads22_LP_CourageConquersAll.png" alt="Courage Conquers All PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-LP-Letters-from-Space.PDF"><img src="/images/diyresources/primary/PopReads22_LP_LettersFromSpace.png" alt="Letters From Space PopReads!" style="width: 60%;"></a> | 
 | Upper Primary | 
-| <a href="/files/diyresources/PopReads22-UP-Thinking-About-Feelings.PDF"><img src="/images/diyresources/primary/PopReads22_UP_ThinkingAboutFeelings.png" alt="Thinking About Feelings PopReads!" style="width: 50%;"></a> | <a href="/files/diyresources/PopReads22-UP-Together-Were-Stronger.PDF"><img src="/images/diyresources/primary/PopReads22_UP_TogetherWereStronger.png" alt="Together We're Stronger PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-UP-We-Can-be-Heroes.PDF"><img src="/images/diyresources/primary/PopReads22_UP_WeCanBeHeroes.png" alt="We Can Be Heroes PopReads!" style="width: 60%;"></a> |
+| <a href="/files/diyresources/PopReads22-UP-Thinking-About-Feelings.PDF"><img src="/images/diyresources/primary/PopReads22_UP_ThinkingAboutFeelings.png" alt="Thinking About Feelings PopReads!" style="width: 50%;"></a> | <a href="/files/diyresources/PopReads22-UP-Together-Were-Stronger.PDF"><img src="/images/diyresources/primary/PopReads22_UP_TogetherWereStronger.png" alt="Together We're Stronger PopReads!" style="width: 60%;"></a> | <a href="/files/Diyresources/wecanbeheroes.PDF"><img src="/images/diyresources/primary/PopReads22_UP_WeCanBeHeroes.png" alt="We Can Be Heroes PopReads!" style="width: 60%;"></a> |
 
 
 |**2021 PopReads!**|
@@ -220,7 +221,7 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
+<a href="/files/Diyresources/SchoolLibraryMakeovercompressed.PDF"><img src="/images/diyresources/primary/SLMcover.png" alt="Activities" style="width: 40%;"></a>
 
 
 <b><a href="#top">Back to top</a></b>

@@ -220,7 +220,7 @@ Print out and put up these eye-catching posters and entertaining activities!
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/files/Diyresources/SchoolLibraryMakeovercompressed.PDF"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 40%;"></a>
+<a href="/files/Diyresources/SchoolLibraryMakeovercompressed.PDF"><img src="/images/diyresources/primary/SLMcover.png" alt="Activities" style="width: 40%;"></a>
 
 
 <b><a href="#top">Back to top</a></b>

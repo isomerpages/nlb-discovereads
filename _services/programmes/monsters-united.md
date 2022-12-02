@@ -132,26 +132,13 @@ Monsters United is back this April bringing to you a celebration on the life and
 <br>
 Immerse yourself in Andersen's stories and the fantasy genre through thematic storytelling sessions at our public libraries and online offerings such as special videos, activity packages and a curated book list.<br>
 <br>
-Two exclusive giveaways will be held as well – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate and stand a chance to win a Monsters United Goodie Bag!
-
-**[ENDED]** <br>
-* <s><b>Giveaway #1</b>: 2 April – 6 April</s>
-* <s><b>Giveaway #2</b>: 30 April – 6 May</s>
-
 For more trivia, fun facts and book recommendations, follow our Instagram page, [Public Libraries Singapore](https://www.instagram.com/publiclibrarysg/) as well!
 
 #### **Stories and Tales** <br>
-| [Andersen Storytelling and Super Storytastic](#andersen-storytelling-and-super-storytastic) | [Introduction to Hans Christian Andersen](#introduction-to-hca) | [The Emperor's New Clothes](#the-emperors-new-clothes) | [Fantasy Reads](#fantasy-reads) |
+| [Introduction to Hans Christian Andersen](#introduction-to-hca) | [The Emperor's New Clothes](#the-emperors-new-clothes) | [Fantasy Reads](#fantasy-reads) |
 
 #### **DIY Activities** <br>
 | [Activity Packages](#activity-packages) | [STEAM Tinker Sheets](#steam-tinker-sheets) | 
-
-<a name="andersen-storytelling-and-super-storytastic">**Andersen Storytelling and Super Storytastic**</a> <br>
-Enjoy Hans Christian Andersen's classic fairy tales at our Public Libraries! Join us in these exclusive storytelling sessions for 4-6 year olds, and Super Storytastic sessions for 7-10 year olds. <br>
-_(Click on the image to find a session.)_
-
-<a href="https://go.gov.sg/hcastorytelling"><img style="width: 60%;" alt="HCA Storytelling" src="/images/unsorted/monstersunited/HCA-ST-SST.png"></a>
-
 
 <a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
 Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
@@ -195,11 +182,6 @@ _(Last updated on 8 May 2021)_
 ![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
 
 Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! <br>
-
-**[ENDED]** <br>
-_We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate._
-* <s><b>Giveaway #1</b>: 24 October – 28 October 2020 </s> 
-* <s><b>Giveaway #2</b>: 7 November – 11 November 2020 </s>
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 

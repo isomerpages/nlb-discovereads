@@ -25,52 +25,23 @@ As this is an **unlisted** page specifically for you, please do not **share the 
 
 ##    Activity Toolkit 2023
 
-### English Lesson Plans 
+### English Lesson Plan 
 
-![](/images/activity-toolkit-thumbnails/English%20DN.png)
-[English Day and Night Page 1](https://go.gov.sg/englishdayandnightpage1)
-[English Day and Night Page 2](https://go.gov.sg/englishdayandnightpage2)
-[English Day and Night Page 3](https://go.gov.sg/englishdayandnightpage3)
-[English Day and Night Page 4](https://go.gov.sg/englishdayandnightpage4)
-[English Day and Night Page 5](https://go.gov.sg/englishdayandnightpage5)
-[English Day and Night Page 6](https://go.gov.sg/englishdayandnightpage6)
+![](/images/activity-toolkit-thumbnails/ActivityToolkitEnglish2023.jpeg)
+[Download the Lesson Plan here!](https://go.gov.sg/englishlessonplan2023)
 
+### Chinese Lesson Plan
+![](/images/activity-toolkit-thumbnails/ActivityToolkitChinese2023.jpeg)
+[Download the Lesson Plan here!](https://go.gov.sg/chineselessonplan2023)
 
-![](/images/activity-toolkit-thumbnails/English%20Transportation.png)
-[English Transportation Page 1](https://go.gov.sg/englishtransportationpage1)
-[English Transportation Page 2](https://go.gov.sg/englishtransportationpage2)
-[English Transportation Page 3](https://go.gov.sg/englishtransportationpage3)
-[English Transportation Page 4](https://go.gov.sg/englishtransportationpage4)
-[English Transportation Page 5](https://go.gov.sg/englishtransportationpage5)
-[English Transportation Page 6](https://go.gov.sg/englishtransportationpage6)
+### Malay Lesson Plan
 
-### Chinese Lesson Plans
+![](/images/activity-toolkit-thumbnails/ActivityToolkitMalay2023.jpeg)
+[Download the Lesson Plan here!](https://go.gov.sg/malaylessonplan2023)
 
-![](/images/activity-toolkit-thumbnails/Chinese%20Transportation.png)
-[Chinese Transportation Page 1](https://go.gov.sg/chinesetransportationpage1)
-[Chinese Transportation Page 2](https://go.gov.sg/chinesetransportationpage2)
-[Chinese Transportation Page 3](https://go.gov.sg/chinesetransportationpage3)
-[Chinese Transportation Page 4](https://go.gov.sg/chinesetransportationpage4)
-[Chinese Transportation Page 5](https://go.gov.sg/chinesetransportationpage5)
-[Chinese Transportation Page 6](https://go.gov.sg/chinesetransportationpage6)
-
-### Malay Lesson Plans
-![](/images/activity-toolkit-thumbnails/Malay%20Vroom%20Vroom%20Zoom%20Zoom.png)
-[Malay Transportation Page 1](https://go.gov.sg/malaytransportationpage1)
-[Malay Transportation Page 2](https://go.gov.sg/malaytransportationpage2)
-[Malay Transportation Page 3](https://go.gov.sg/malaytransportationpage3)
-[Malay Transportation Page 4](https://go.gov.sg/malaytransportationpage4)
-[Malay Transportation Page 5](https://go.gov.sg/malaytransportationpage5)
-[Malay Transportation Page 6](https://go.gov.sg/malaytransportationpage6)
-
-### Tamil Lesson Plans
-![](/images/activity-toolkit-thumbnails/Tamil%20Blast%20Off.png)
-[Tamil Outer Space Page 1](https://go.gov.sg/tamilouterspacepage1)
-[Tamil Outer Space Page 2](https://go.gov.sg/tamilouterspacepage2)
-[Tamil Outer Space Page 3](https://go.gov.sg/tamilouterspacepage3)
-[Tamil Outer Space Page 4](https://go.gov.sg/tamilouterspacepage4)
-[Tamil Outer Space Page 5](https://go.gov.sg/tamilouterspacepage5)
-[Tamil Outer Space Page 6](https://go.gov.sg/tamilouterspacepage6)
+### Tamil Lesson Plan
+![](/images/activity-toolkit-thumbnails/ActivityToolkitTamil2023.jpeg)
+[Download the Lesson Plan here!](https://go.gov.sg/tamillessonplan2023)
 
 
 ## Archived Activity Toolkits

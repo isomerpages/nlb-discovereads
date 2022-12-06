@@ -37,7 +37,7 @@ To sign up for Friendlies at Woodlands Regional Library and Jurong Regional Libr
 
 **Friendlies at Jurong Regional Library on 16 Dec:**
 * [**Sold Out**] Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 2-2.30pm | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-1-tickets-444446119307?aff=odcleoeventsincollection)
-* Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-2-tickets-444446470357?aff=odcleoeventsincollection)
+* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-2-tickets-444446470357?aff=odcleoeventsincollection)
 * Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-3-tickets-444447032037?aff=odcleoeventsincollection)
 * Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 5-5.30pm | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-4-tickets-444447272757?aff=odcleoeventsincollection)
 
@@ -48,7 +48,7 @@ To sign up for Friendlies at Woodlands Regional Library and Jurong Regional Libr
 Hi Rescuers! Gear up for Community Day by drawing your original Book Bug or submitting a Book Review. Download and print the templates below, and submit your completed form at the Pin It Up booth during the Book Bugs Community Day events.
 
 
-|<a href="/files/bookbugsr/BBR-Draw-your-Original-Bug-template.pdf"><img src="/images/events/bookbugsr/Draw-your-Book-Bug-template.png" alt="Create your own Book Bug" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BBR-Book-Review-template.pdf"><img src="/images/events/bookbugsr/Book-Review-template.png" alt="Rescuers Book Report" style="width: 50%;" align="left"></a>|
+|<a href="/files/bookbugsr/BBR-draw-your-original-bookbug-template.pdf"><img src="/images/events/bookbugsr/Draw-your-Book-Bug-template.png" alt="Create your own Book Bug" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BBR-bookreview-template.pdf"><img src="/images/events/bookbugsr/Book-Review-template.png" alt="Rescuers Book Report" style="width: 50%;" align="left"></a>|
 
 <br>
 Hurry! Redeem an exclusive Book Bugs enamel pin when you submit a completed activity sheet and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last. 

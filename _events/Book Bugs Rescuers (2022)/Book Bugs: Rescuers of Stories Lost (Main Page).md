@@ -18,6 +18,39 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
+### Card Availabilities
+Our Book Bugs are working hard. Due to high redemptions, cards may be temporarily  unavailable at some public libraries. Look out for a release of shiny cards on 26 December 2022*! 
+
+Please note that the availabilities are not updated in realtime.
+
+| **Library Branch** | **Status** |
+| ------------------ | ---------- |
+| Ang Mo Kio Public Library	| Available |
+| Bedok Public Library | Available |
+| Bishan Public Library | Available |
+| Bukit Batok Public Library | Available |
+| library@harbourfront | Available |
+| Bukit Panjang Public Library | Available |
+| Cheng San Public Library | Available |
+| Choa Chu Kang Public Library | Available |
+| Clementi Public Library |	Available |
+| Geylang East Public Library |	Available |
+| Jurong Regional Library |	Available |
+| Jurong West Public Library | Available |
+| Pasir Ris Public Library | Available |
+| Queenstown Public Library | Available |
+| Sembawang Public Library | Available |
+| Seng Kang Public Library | Available |
+| Serangoon Public Library | Available |
+| Tampines Regional Library | Available |
+| Toa Payoh Public Library | Available |
+| Woodlands Regional Library | Available |
+| Yishun Public Library | Available |
+
+*Subject to changes.
+
+Last updated: 6 December 2022
+
 ### Explore
 
 [<img src="/images/events/bookbugsr/Updates.png" alt="Updates" style="width: 25%" align="left">](/events/bookbugsr/Updates/)[<img src="/images/events/bookbugsr/story.png" alt="How to Play" style="width: 25%" align="left">](/events/bookbugsr/story/)[<img src="/images/events/bookbugsr/redeem.png" alt="How to Redeem" style="width: 25%" align="left">](/events/bookbugsr/redeem/)[<img src="/images/events/bookbugsr/play.png" alt="How to Play" style="width: 25%" align="left">](/events/bookbugsr/play/)

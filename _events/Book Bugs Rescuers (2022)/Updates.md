@@ -6,7 +6,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### 6 December 2022
 
-![](/images/events/bookbugsr/nomorecards1.png)
+![](/images/events/bookbugsr/nomorecards2.png)
 
 Click [here](https://childrenandteens.nlb.gov.sg/events/bookbugsr/) to view the card availabilities.
 

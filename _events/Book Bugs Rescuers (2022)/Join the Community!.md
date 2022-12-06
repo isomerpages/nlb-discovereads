@@ -37,7 +37,7 @@ To sign up for Friendlies at Woodlands Regional Library and Jurong Regional Libr
 
 **Friendlies at Jurong Regional Library on 16 Dec:**
 * [**Sold Out**] Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 2-2.30pm | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-1-tickets-444446119307?aff=odcleoeventsincollection)
-* Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-2-tickets-444446470357?aff=odcleoeventsincollection)
+* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-2-tickets-444446470357?aff=odcleoeventsincollection)
 * Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-3-tickets-444447032037?aff=odcleoeventsincollection)
 * Book Bugs Rescuers: Friendlies @ Jurong Regional Library, 5-5.30pm | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-jurong-regional-library-session-4-tickets-444447272757?aff=odcleoeventsincollection)
 

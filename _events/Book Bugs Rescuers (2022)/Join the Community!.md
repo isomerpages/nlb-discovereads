@@ -51,6 +51,7 @@ Hurry! Redeem an exclusive Book Bugs enamel pin when you submit a completed acti
 Rescuers, we want to hear from you!  
 Share your Book Bugs journey with us along with a picture of yourself with any Book Bugs item and stand a chance to redeem an exclusive plushie! Simply complete [this form](https://go.gov.sg/bookbugs-shareyourjourney) and show us a screenshot of the submission during the Book Bugs Community Day events.
 
+<img src="/images/events/bookbugsr/BBR_PlushieRedemption_Sample.jpg" alt="Plushie Redemption" style="width: 50%;" align="center"></a>
 
 Redeem an exclusive Book Bugs plushie when you submit a completed form and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last. 
 

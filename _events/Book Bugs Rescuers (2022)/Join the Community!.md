@@ -25,15 +25,6 @@ Activities you can participate in:
 
 Visit this [page](https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889) for the list of Book Bugs programmes!
 
-**All slots for Friendlies at Woodlands Regional Library have been sold out!** Thank you for your support and we hope to see you there on 9 Dec.
-
-
-**Friendlies at Woodlands Regional Library on 9 Dec:**
-* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 2-2.30pm | [Session 1](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-1-tickets-444443722137?aff=odcleoeventsincollection) 
-* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 3-3.30pm | [Session 2](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-2-tickets-444444404177?aff=odcleoeventsincollection)
-* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 4-4.30pm | [Session 3](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-3-tickets-444444664957?aff=odcleoeventsincollection)
-* [**Sold Out**] Book Bugs Rescuers: Friendlies @ Woodlands Regional Library, 5-5.30pm | [Session 4](https://www.eventbrite.sg/e/book-bugs-rescuers-friendlies-woodlands-regional-library-session-4-tickets-444445547597?aff=odcleoeventsincollection)
-
 **All slots for Friendlies at Jurong Regional Library have been sold out!**
 Thank you for your support and we hope to see you there on 16 Dec.
 
@@ -54,6 +45,15 @@ Hi Rescuers! Gear up for Community Day by drawing your original Book Bug or subm
 
 <br>
 Hurry! Redeem an exclusive Book Bugs enamel pin when you submit a completed activity sheet and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last. 
+
+**Plushie Redemption booth**
+
+Rescuers, we want to hear from you!  
+Share your Book Bugs journey with us along with a picture of yourself with any Book Bugs item and stand a chance to redeem an exclusive plushie! Simply complete [this form](https://go.gov.sg/bookbugs-shareyourjourney) and show us a screenshot of the submission during the Book Bugs Community Day events.
+
+
+Redeem an exclusive Book Bugs plushie when you submit a completed form and borrow 4 books (inclusive of 1 Mother Tongue Language title). While stocks last. 
+
 
 #### The Community
 

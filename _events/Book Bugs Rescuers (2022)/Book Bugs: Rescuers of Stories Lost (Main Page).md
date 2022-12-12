@@ -19,7 +19,7 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 ### Card Availabilities
-Our Book Bugs are working hard. Due to high redemptions, cards may be temporarily  unavailable at some public libraries. Look out for a release of shiny cards on 26 December 2022*! 
+Our Book Bugs are working hard. Due to high redemptions, cards may be temporarily  unavailable at some public libraries. Look out for a re-release of #46-#50, #56-#60, #66-#70, #76-#80 shiny cards on 26 December 2022*! 
 
 Please note that the availabilities are not updated in realtime.
 
@@ -30,21 +30,21 @@ Please note that the availabilities are not updated in realtime.
 | Bishan Public Library | Available |
 | Bukit Batok Public Library | Available |
 | library@harbourfront | Available |
-| Bukit Panjang Public Library | Available |
-| Cheng San Public Library | Available |
+| Bukit Panjang Public Library | Low Stock |
+| Cheng San Public Library | Low Stock |
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Available |
 | Geylang East Public Library |	Available |
 | Jurong Regional Library |	Available |
 | Jurong West Public Library | Available |
-| Pasir Ris Public Library | Available |
+| Pasir Ris Public Library | Low Stock |
 | Queenstown Public Library | Available |
 | Sembawang Public Library | Available |
-| Seng Kang Public Library | Available |
-| Serangoon Public Library | Available |
+| Seng Kang Public Library | Low Stock |
+| Serangoon Public Library | Low Stock |
 | Tampines Regional Library | Available |
-| Toa Payoh Public Library | Available |
-| Woodlands Regional Library | Available |
+| Toa Payoh Public Library | Low Stock |
+| Woodlands Regional Library | Low Stock |
 | Yishun Public Library | Available |
 
 *Subject to changes.

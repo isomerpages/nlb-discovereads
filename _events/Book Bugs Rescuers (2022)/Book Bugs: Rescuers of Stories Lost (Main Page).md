@@ -36,7 +36,7 @@ Please note that the availabilities are not updated in realtime.
 | Clementi Public Library |	Low Stock |
 | Geylang East Public Library |	Available |
 | Jurong Regional Library |	Available |
-| Jurong West Public Library | Available |
+| Jurong West Public Library | Low Stock |
 | Pasir Ris Public Library | Low Stock |
 | Queenstown Public Library | Available |
 | Sembawang Public Library | Available |
@@ -49,7 +49,7 @@ Please note that the availabilities are not updated in realtime.
 
 *Subject to changes.
 
-Last updated: 12 December 2022
+Last updated: 14 December 2022
 
 ### Explore
 

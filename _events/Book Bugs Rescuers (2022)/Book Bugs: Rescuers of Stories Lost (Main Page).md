@@ -26,14 +26,14 @@ Please note that the availabilities are not updated in realtime.
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |
 | Ang Mo Kio Public Library	| Available |
-| Bedok Public Library | Available |
-| Bishan Public Library | Available |
+| Bedok Public Library | Low Stock |
+| Bishan Public Library | Low Stock |
 | Bukit Batok Public Library | Available |
 | library@harbourfront | Available |
 | Bukit Panjang Public Library | Low Stock |
 | Cheng San Public Library | Low Stock |
 | Choa Chu Kang Public Library | Available |
-| Clementi Public Library |	Available |
+| Clementi Public Library |	Low Stock |
 | Geylang East Public Library |	Available |
 | Jurong Regional Library |	Available |
 | Jurong West Public Library | Available |
@@ -42,7 +42,7 @@ Please note that the availabilities are not updated in realtime.
 | Sembawang Public Library | Available |
 | Sengkang Public Library | Low Stock |
 | Serangoon Public Library | Low Stock |
-| Tampines Regional Library | Available |
+| Tampines Regional Library | Low Stock |
 | Toa Payoh Public Library | Low Stock |
 | Woodlands Regional Library | Low Stock |
 | Yishun Public Library | Available |

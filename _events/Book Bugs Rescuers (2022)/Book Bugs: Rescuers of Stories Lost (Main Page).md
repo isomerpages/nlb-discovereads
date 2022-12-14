@@ -28,24 +28,24 @@ Please note that the availabilities are not updated in realtime.
 | Ang Mo Kio Public Library	| Available |
 | Bedok Public Library | Low Stock |
 | Bishan Public Library | Low Stock |
-| Bukit Batok Public Library | Available |
+| Bukit Batok Public Library | Low Stock |
 | library@harbourfront | Available |
 | Bukit Panjang Public Library | Low Stock |
 | Cheng San Public Library | Low Stock |
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Low Stock |
-| Geylang East Public Library |	Available |
+| Geylang East Public Library |	Low Stock |
 | Jurong Regional Library |	Available |
 | Jurong West Public Library | Low Stock |
 | Pasir Ris Public Library | Low Stock |
-| Queenstown Public Library | Available |
-| Sembawang Public Library | Available |
+| Queenstown Public Library | Low Stock |
+| Sembawang Public Library | Low Stock |
 | Sengkang Public Library | Low Stock |
 | Serangoon Public Library | Low Stock |
 | Tampines Regional Library | Low Stock |
 | Toa Payoh Public Library | Low Stock |
 | Woodlands Regional Library | Low Stock |
-| Yishun Public Library | Available |
+| Yishun Public Library | Low Stock |
 
 *Subject to changes.
 

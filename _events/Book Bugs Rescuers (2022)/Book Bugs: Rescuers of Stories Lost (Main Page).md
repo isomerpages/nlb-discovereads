@@ -32,7 +32,7 @@ Please note that the availabilities are not updated in realtime.
 | library@harbourfront | Available |
 | Bukit Panjang Public Library | Low Stock |
 | Cheng San Public Library | Low Stock |
-| Choa Chu Kang Public Library | Available |
+| Choa Chu Kang Public Library | Low Stock |
 | Clementi Public Library |	Low Stock |
 | Geylang East Public Library |	Low Stock |
 | Jurong Regional Library |	Available |
@@ -49,7 +49,7 @@ Please note that the availabilities are not updated in realtime.
 
 *Subject to changes.
 
-Last updated: 14 December 2022
+Last updated: 15 December 2022
 
 ### Explore
 

@@ -31,7 +31,7 @@ Please note that the availabilities are not updated in realtime.
 | Bukit Batok Public Library | Low Stock |
 | library@harbourfront | Available |
 | Bukit Panjang Public Library | Low Stock |
-| Cheng San Public Library | Low Stock |
+| Cheng San Public Library | Temporarily Unavailable |
 | Choa Chu Kang Public Library | Low Stock |
 | Clementi Public Library |	Low Stock |
 | Geylang East Public Library |	Low Stock |

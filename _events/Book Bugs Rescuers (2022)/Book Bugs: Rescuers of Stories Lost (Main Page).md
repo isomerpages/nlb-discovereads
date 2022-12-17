@@ -49,7 +49,7 @@ Please note that the availabilities are not updated in realtime.
 
 *Subject to changes.
 
-Last updated: 15 December 2022
+Last updated: 17 December 2022
 
 ### Explore
 

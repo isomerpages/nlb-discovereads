@@ -27,10 +27,10 @@ Please note that the availabilities are not updated in realtime.
 | ------------------ | ---------- |
 | Ang Mo Kio Public Library	| Low Stock |
 | Bedok Public Library | Low Stock |
-| Bishan Public Library | Low Stock |
+| Bishan Public Library | Temporarily Unavailable |
 | Bukit Batok Public Library | Low Stock |
 | library@harbourfront | Low Stock |
-| Bukit Panjang Public Library | Low Stock |
+| Bukit Panjang Public Library | Temporarily Unavailable |
 | Cheng San Public Library | Temporarily Unavailable |
 | Choa Chu Kang Public Library | Low Stock |
 | Clementi Public Library |	Low Stock |
@@ -41,15 +41,15 @@ Please note that the availabilities are not updated in realtime.
 | Queenstown Public Library | Low Stock |
 | Sembawang Public Library | Low Stock |
 | Sengkang Public Library | Temporarily Unavailable |
-| Serangoon Public Library | Low Stock |
+| Serangoon Public Library | Temporarily Unavailable|
 | Tampines Regional Library | Low Stock |
 | Toa Payoh Public Library | Low Stock |
-| Woodlands Regional Library | Low Stock |
+| Woodlands Regional Library | Temporarily Unavailable |
 | Yishun Public Library | Low Stock |
 
 *Subject to changes.
 
-Last updated: 17 December 2022
+Last updated: 18 December 2022
 
 ### Explore
 

@@ -28,7 +28,7 @@ Please note that the availabilities are not updated in realtime.
 | Ang Mo Kio Public Library	| Low Stock |
 | Bedok Public Library | Temporarily Unavailable |
 | Bishan Public Library | Low Stock |
-| Bukit Batok Public Library | Low Stock |
+| Bukit Batok Public Library | Temporarily Unavailable |
 | library@harbourfront | Temporarily Unavailable |
 | Bukit Panjang Public Library | Temporarily Unavailable |
 | Cheng San Public Library | Temporarily Unavailable |

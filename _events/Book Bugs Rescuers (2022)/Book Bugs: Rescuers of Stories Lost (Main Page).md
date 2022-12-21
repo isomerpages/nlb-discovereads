@@ -42,7 +42,7 @@ Please note that the availabilities are not updated in realtime.
 | Sembawang Public Library | Low Stock |
 | Sengkang Public Library | Temporarily Unavailable |
 | Serangoon Public Library | Temporarily Unavailable |
-| Tampines Regional Library | Low Stock |
+| Tampines Regional Library | Temporarily Unavailable |
 | Toa Payoh Public Library | Temporarily Unavailable |
 | Woodlands Regional Library | Temporarily Unavailable |
 | Yishun Public Library | Low Stock |

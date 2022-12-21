@@ -45,7 +45,7 @@ Please note that the availabilities are not updated in realtime.
 | Tampines Regional Library | Temporarily Unavailable |
 | Toa Payoh Public Library | Temporarily Unavailable |
 | Woodlands Regional Library | Temporarily Unavailable |
-| Yishun Public Library | Low Stock |
+| Yishun Public Library | Temporarily Unavailable |
 
 *Subject to changes.
 

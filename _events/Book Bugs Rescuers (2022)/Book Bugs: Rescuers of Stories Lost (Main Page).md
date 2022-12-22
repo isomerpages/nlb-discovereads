@@ -32,7 +32,7 @@ Please note that the availabilities are not updated in realtime.
 | library@harbourfront | Temporarily Unavailable |
 | Bukit Panjang Public Library | Temporarily Unavailable |
 | Cheng San Public Library | Temporarily Unavailable |
-| Choa Chu Kang Public Library | Low Stock |
+| Choa Chu Kang Public Library | Temporarily Unavailable |
 | Clementi Public Library |	Temporarily Unavailable |
 | Geylang East Public Library |	Low Stock |
 | Jurong Regional Library | Low Stock |

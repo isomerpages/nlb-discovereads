@@ -27,7 +27,7 @@ Please note that the availabilities are not updated in realtime.
 | ------------------ | ---------- |
 | Ang Mo Kio Public Library	| Low Stock |
 | Bedok Public Library | Temporarily Unavailable |
-| Bishan Public Library | Low Stock |
+| Bishan Public Library | Temporarily Unavailable |
 | Bukit Batok Public Library | Temporarily Unavailable |
 | library@harbourfront | Temporarily Unavailable |
 | Bukit Panjang Public Library | Temporarily Unavailable |
@@ -36,7 +36,7 @@ Please note that the availabilities are not updated in realtime.
 | Clementi Public Library |	Temporarily Unavailable |
 | Geylang East Public Library |	Low Stock |
 | Jurong Regional Library | Low Stock |
-| Jurong West Public Library | Low Stock |
+| Jurong West Public Library | Temporarily Unavailable |
 | Pasir Ris Public Library | Temporarily Unavailable |
 | Queenstown Public Library | Temporarily Unavailable |
 | Sembawang Public Library | Low Stock |

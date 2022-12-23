@@ -31,7 +31,7 @@ Materials needed:
 * An object with a round base, like a cup
 * And 2 pieces of string, each at least twice the length of the base of your cup
 
-<a href="#https://go.gov.sg/eyemazingopticalillusionspdf">Download</a> the instructions for the crafts 
+<a href="https://go.gov.sg/eyemazingopticalillusionspdf">Download</a> the instructions for the crafts 
 
 ### **Recommended Books**
 

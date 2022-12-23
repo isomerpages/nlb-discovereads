@@ -35,7 +35,8 @@ Materials needed:
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" alt="Science Magic to Surprise and Captivate” style="width:40%">
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
+
 
 **Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
 **Author:** Jessica Rusick <br>

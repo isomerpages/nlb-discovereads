@@ -6,6 +6,68 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### **Eye-mazing Optical Illusions**
+
+<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=0145e084-836b-483c-9f8a-af690040993c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+### **3D Ladder**
+
+Materials needed:
+
+* Plain A4 Paper
+* Marker 
+* Pencil
+* Ruler
+
+### **Thaumatrope**
+
+Materials needed: 
+* A thick piece of paper 
+* A hole puncher 
+* Scissors 
+* A glue stick 
+* A pencil and eraser 
+* Coloured markers or paint 
+* An object with a round base, like a cup
+* And 2 pieces of string, each at least twice the length of the base of your cup
+
+<a href="https://go.gov.sg/eyemazingopticalillusionspdf">Download</a> the instructions for the crafts 
+
+### **Recommended Books**
+
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
+
+
+**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Author:** Jessica Rusick <br>
+**Publisher:** Minneapolis, Minnesota: Super Sandcastle, an imprint of Abdo Publishing, 2020<br>
+
+Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to make cups melt, water bend, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
+
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Eye-mazing%20Illusions%20That's%20Impossible.jpg" style="width:300px; text-align:left;">
+
+
+**Title:** [Eye-mazing Illusions: That's Impossible](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205701276) <br>
+**Author:** Spencer Brinker <br>
+**Publisher:** Minneapolis, Minnesota: Bearport Publishing Company, 2022<br>
+
+Climb up the stairs or swim upstream. Are these pictures even possible? Optical illusions are tricks that our eyes and brain play on us to make us see things differently-like images that appear realistic until you give them a second look. Explore mind-boggling images and learn the science behind what makes them work. Then, take a turn making your own optical illusion. Get ready to be eye-mazed!
+
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Super%20Simple%20Magic%20and%20Illusions%203D%20Optical%20Illusions%20to%20Baffle%20the%20Mind.jpg" style="width:300px; text-align:left;">
+
+
+**Title:** [Super Simple Magic and Illusions: 3-D Optical Illusions to Baffle the Mind](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470347) <br>
+**Author:** Jessica Rusick <br>
+**Publisher:** 
+Minneapolis, Minnesota: Super Sandcastle, an imprint of Abdo Publishing, 2020<br>
+
+Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to float orbs, pull objects from thin air, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
+
+
+*The copyright to all book covers belong to the relevant publishers or illustrators.*
+
+
 ### **Our Fantastic Feline Friends!**
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=d6dd3cca-1caa-482f-9c04-aefe0094c0ff&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>

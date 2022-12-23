@@ -35,21 +35,21 @@ Please note that the availabilities are not updated in realtime.
 | Choa Chu Kang Public Library | Temporarily Unavailable |
 | Clementi Public Library |	Temporarily Unavailable |
 | Geylang East Public Library |	Low Stock |
-| Jurong Regional Library | Low Stock |
+| Jurong Regional Library | Temporarily Unavailable |
 | Jurong West Public Library | Temporarily Unavailable |
 | Pasir Ris Public Library | Temporarily Unavailable |
 | Queenstown Public Library | Temporarily Unavailable |
 | Sembawang Public Library | Low Stock |
 | Sengkang Public Library | Temporarily Unavailable |
 | Serangoon Public Library | Temporarily Unavailable |
-| Tampines Regional Library | Temporarily Unavailable |
+| Tampines Regional Library | Low Stock |
 | Toa Payoh Public Library | Temporarily Unavailable |
 | Woodlands Regional Library | Temporarily Unavailable |
 | Yishun Public Library | Temporarily Unavailable |
 
 *Subject to changes.
 
-Last updated: 22 December 2022
+Last updated: 23 December 2022
 
 ### Explore
 

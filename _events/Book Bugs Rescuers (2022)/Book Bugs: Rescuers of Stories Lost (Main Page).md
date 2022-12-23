@@ -35,7 +35,7 @@ Please note that the availabilities are not updated in realtime.
 | Choa Chu Kang Public Library | Temporarily Unavailable |
 | Clementi Public Library |	Temporarily Unavailable |
 | Geylang East Public Library |	Low Stock |
-| Jurong Regional Library | Low Stock |
+| Jurong Regional Library | Temporarily Unavailable |
 | Jurong West Public Library | Temporarily Unavailable |
 | Pasir Ris Public Library | Temporarily Unavailable |
 | Queenstown Public Library | Temporarily Unavailable |

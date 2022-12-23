@@ -53,6 +53,18 @@ Read how famous illusionists fooled their audiences. Then learn how to trick an 
 
 Climb up the stairs or swim upstream. Are these pictures even possible? Optical illusions are tricks that our eyes and brain play on us to make us see things differently-like images that appear realistic until you give them a second look. Explore mind-boggling images and learn the science behind what makes them work. Then, take a turn making your own optical illusion. Get ready to be eye-mazed!
 
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Super%20Simple%20Magic%20and%20Illusions%203D%20Optical%20Illusions%20to%20Baffle%20the%20Mind.jpg" style="width:300px; text-align:left;">
+
+
+**Title:** [Super Simple Magic and Illusions: 3-D Optical Illusions to Baffle the Mind](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470347) <br>
+**Author:** Jessica Rusick <br>
+**Publisher:** 
+Minneapolis, Minnesota: Super Sandcastle, an imprint of Abdo Publishing, 2020<br>
+
+Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to float orbs, pull objects from thin air, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
+
+
+*The copyright to all book covers belong to the relevant publishers or illustrators.*
 
 
 ### **Our Fantastic Feline Friends!**

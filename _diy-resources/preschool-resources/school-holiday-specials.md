@@ -8,7 +8,8 @@ third_nav_title: Preschool Resources
 
 ### **Eye-mazing Optical Illusions**
 
-<iframe width="560" height="315" src="https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=0145e084-836b-483c-9f8a-af690040993c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src=https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=0145e084-836b-483c-9f8a-af690040993c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 
 ### **3D Ladder**
 

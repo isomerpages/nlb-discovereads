@@ -44,6 +44,15 @@ Materials needed:
 
 Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to make cups melt, water bend, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
 
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Eye-mazing%20Illusions%20That's%20Impossible.jpg" style="width:300px; text-align:left;">
+
+
+**Title:** [Eye-mazing Illusions: That's Impossible](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205701276) <br>
+**Author:** Spencer Brinker <br>
+**Publisher:** Minneapolis, Minnesota: Bearport Publishing Company, 2022<br>
+
+Climb up the stairs or swim upstream. Are these pictures even possible? Optical illusions are tricks that our eyes and brain play on us to make us see things differently-like images that appear realistic until you give them a second look. Explore mind-boggling images and learn the science behind what makes them work. Then, take a turn making your own optical illusion. Get ready to be eye-mazed!
+
 
 
 ### **Our Fantastic Feline Friends!**

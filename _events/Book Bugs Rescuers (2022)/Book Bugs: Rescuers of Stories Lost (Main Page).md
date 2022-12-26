@@ -25,7 +25,7 @@ Please note that the availabilities are not updated in real time.
 
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |
-| Ang Mo Kio Public Library	| Available |
+| Ang Mo Kio Public Library	| Low Stock |
 | Bedok Public Library |  Available |
 | Bishan Public Library | Available |
 | Bukit Batok Public Library | Available |

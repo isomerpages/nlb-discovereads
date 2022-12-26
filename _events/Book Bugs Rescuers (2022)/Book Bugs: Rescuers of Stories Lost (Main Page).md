@@ -19,26 +19,26 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 ### Card Availabilities
-Our Book Bugs are working hard. Due to high redemptions, cards may be out of stock at some public libraries. Look out for a final re-release of #46-#50, #56-#60, #66-#70, #76-#80 shiny cards on 26 December 2022*! 
+Our Book Bugs are working hard. Due to high redemptions, cards may be out of stock at some public libraries. Look out for a final re-release of #46-#50, #56-#60, #66-#70, #76-#80 shiny cards on 26 December 2022*, while stocks last! 
 
 Please note that the availabilities are not updated in real time.
 
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |
-| Ang Mo Kio Public Library	| Low Stock |
+| Ang Mo Kio Public Library	| Out of Stock |
 | Bedok Public Library |  Available |
 | Bishan Public Library | Available |
 | Bukit Batok Public Library | Available |
 | library@harbourfront |  Available |
-| Bukit Panjang Public Library | Available |
-| Cheng San Public Library | Available |
+| Bukit Panjang Public Library | Out of Stock |
+| Cheng San Public Library | Out of Stock |
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Available |
 | Geylang East Public Library |	Low Stock |
 | Jurong Regional Library | Available |
 | Jurong West Public Library | Available |
 | Pasir Ris Public Library | Available |
-| Queenstown Public Library | Available |
+| Queenstown Public Library | Low Stock |
 | Sembawang Public Library | Available |
 | Sengkang Public Library |  Available |
 | Serangoon Public Library | Available |

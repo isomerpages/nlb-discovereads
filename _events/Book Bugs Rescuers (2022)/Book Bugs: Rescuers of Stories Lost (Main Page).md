@@ -25,31 +25,31 @@ Please note that the availabilities are not updated in realtime.
 
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |
-| Ang Mo Kio Public Library	| Temporarily Unavailable |
-| Bedok Public Library | Temporarily Unavailable |
-| Bishan Public Library | Temporarily Unavailable |
-| Bukit Batok Public Library | Temporarily Unavailable |
-| library@harbourfront | Temporarily Unavailable |
-| Bukit Panjang Public Library | Temporarily Unavailable |
-| Cheng San Public Library | Temporarily Unavailable |
-| Choa Chu Kang Public Library | Temporarily Unavailable |
-| Clementi Public Library |	Temporarily Unavailable |
-| Geylang East Public Library |	Low Stock |
-| Jurong Regional Library | Temporarily Unavailable |
-| Jurong West Public Library | Temporarily Unavailable |
-| Pasir Ris Public Library | Temporarily Unavailable |
-| Queenstown Public Library | Temporarily Unavailable |
-| Sembawang Public Library | Low Stock |
-| Sengkang Public Library | Temporarily Unavailable |
-| Serangoon Public Library | Temporarily Unavailable |
-| Tampines Regional Library | Low Stock |
-| Toa Payoh Public Library | Temporarily Unavailable |
-| Woodlands Regional Library | Temporarily Unavailable |
-| Yishun Public Library | Temporarily Unavailable |
+| Ang Mo Kio Public Library	| Available |
+| Bedok Public Library |  Available |
+| Bishan Public Library | Available |
+| Bukit Batok Public Library | Available |
+| library@harbourfront |  Available |
+| Bukit Panjang Public Library | Available |
+| Cheng San Public Library | Available |
+| Choa Chu Kang Public Library | Available |
+| Clementi Public Library |	Available |
+| Geylang East Public Library |	Available |
+| Jurong Regional Library | Available |
+| Jurong West Public Library | Available |
+| Pasir Ris Public Library | Available |
+| Queenstown Public Library | Available |
+| Sembawang Public Library | Available |
+| Sengkang Public Library |  Available |
+| Serangoon Public Library | Available |
+| Tampines Regional Library | Available |
+| Toa Payoh Public Library | Available |
+| Woodlands Regional Library | Available |
+| Yishun Public Library | Available |
 
 *Subject to changes.
 
-Last updated: 23 December 2022
+Last updated: 26 December 2022
 
 ### Explore
 

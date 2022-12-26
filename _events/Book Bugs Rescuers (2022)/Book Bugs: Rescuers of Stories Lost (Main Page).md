@@ -19,9 +19,9 @@ By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 ### Card Availabilities
-Our Book Bugs are working hard. Due to high redemptions, cards may be temporarily  unavailable at some public libraries. Look out for a re-release of #46-#50, #56-#60, #66-#70, #76-#80 shiny cards on 26 December 2022*! 
+Our Book Bugs are working hard. Due to high redemptions, cards may be out of stock at some public libraries. Look out for a re-release of #46-#50, #56-#60, #66-#70, #76-#80 shiny cards on 26 December 2022*! 
 
-Please note that the availabilities are not updated in realtime.
+Please note that the availabilities are not updated in real time.
 
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |

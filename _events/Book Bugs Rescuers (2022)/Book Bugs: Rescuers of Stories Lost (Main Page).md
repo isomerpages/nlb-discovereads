@@ -34,7 +34,7 @@ Please note that the availabilities are not updated in real time.
 | Cheng San Public Library | Available |
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Available |
-| Geylang East Public Library |	Available |
+| Geylang East Public Library |	Low Stock |
 | Jurong Regional Library | Available |
 | Jurong West Public Library | Available |
 | Pasir Ris Public Library | Available |

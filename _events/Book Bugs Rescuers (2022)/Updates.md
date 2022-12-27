@@ -4,6 +4,10 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 27 December 2022
+
+![](/images/events/bookbugsr/the-end-almost-dR.png)
+
 #### 6 December 2022
 
 ![](/images/events/bookbugsr/nomorecards5.png)

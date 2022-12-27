@@ -25,7 +25,7 @@ Please note that the availabilities are not updated in real time.
 
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |
-| Ang Mo Kio Public Library	| Low Stock |
+| Ang Mo Kio Public Library	| Out of Stock |
 | Bedok Public Library |  Available |
 | Bishan Public Library | Available |
 | Bukit Batok Public Library | Available |
@@ -35,9 +35,9 @@ Please note that the availabilities are not updated in real time.
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Low Stock |
 | Geylang East Public Library |	Out of Stock |
-| Jurong Regional Library | Low Stock |
+| Jurong Regional Library | Available |
 | Jurong West Public Library | Low Stock |
-| Pasir Ris Public Library | Low Stock |
+| Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |
 | Sembawang Public Library | Low Stock |
 | Sengkang Public Library |  Available |

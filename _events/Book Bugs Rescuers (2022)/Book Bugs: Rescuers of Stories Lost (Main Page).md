@@ -38,7 +38,7 @@ Please note that the availabilities are not updated in real time.
 | Jurong Regional Library | Low Stock |
 | Jurong West Public Library | Low Stock |
 | Pasir Ris Public Library | Low Stock |
-| Queenstown Public Library | Low Stock |
+| Queenstown Public Library | Out of Stock |
 | Sembawang Public Library | Available |
 | Sengkang Public Library |  Available |
 | Serangoon Public Library | Low Stock |

@@ -35,15 +35,15 @@ Please note that the availabilities are not updated in real time.
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Available |
 | Geylang East Public Library |	Out of Stock |
-| Jurong Regional Library | Available |
+| Jurong Regional Library | Low Stock |
 | Jurong West Public Library | Low Stock |
 | Pasir Ris Public Library | Low Stock |
 | Queenstown Public Library | Low Stock |
 | Sembawang Public Library | Available |
 | Sengkang Public Library |  Available |
-| Serangoon Public Library | Available |
+| Serangoon Public Library | Low Stock |
 | Tampines Regional Library | Available |
-| Toa Payoh Public Library | Available |
+| Toa Payoh Public Library | Low Stock |
 | Woodlands Regional Library | Available |
 | Yishun Public Library | Available |
 

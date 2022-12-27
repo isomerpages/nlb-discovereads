@@ -33,7 +33,7 @@ Please note that the availabilities are not updated in real time.
 | Bukit Panjang Public Library | Low Stock |
 | Cheng San Public Library | Out of Stock |
 | Choa Chu Kang Public Library | Available |
-| Clementi Public Library |	Available |
+| Clementi Public Library |	Low Stock |
 | Geylang East Public Library |	Out of Stock |
 | Jurong Regional Library | Low Stock |
 | Jurong West Public Library | Low Stock |

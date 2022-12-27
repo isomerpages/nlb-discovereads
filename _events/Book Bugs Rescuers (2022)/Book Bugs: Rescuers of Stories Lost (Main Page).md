@@ -30,7 +30,7 @@ Please note that the availabilities are not updated in real time.
 | Bishan Public Library | Available |
 | Bukit Batok Public Library | Available |
 | library@harbourfront |  Available |
-| Bukit Panjang Public Library | Low Stock |
+| Bukit Panjang Public Library | Out of Stock |
 | Cheng San Public Library | Out of Stock |
 | Choa Chu Kang Public Library | Available |
 | Clementi Public Library |	Low Stock |

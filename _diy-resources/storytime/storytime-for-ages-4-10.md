@@ -48,25 +48,25 @@ Storytelling Videos (Updated on 29 March 2021)
 
 ### **English**
 
-**22 October 2022**<br>
-**Just Teddy**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qvyzkh3Nv-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**24 December 2022**<br>
+**How Zecky Got Her Spectacles**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tpfYlag6ItQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**8 October 2022**<br>
-**My Colouring Book is Ruined!**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AeShrniRfMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**10 December 2022**<br>
+**Adventures with Aquatic Creatures**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQh-Ke7EE1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
 
 ### **Chinese**
 
-**14 September 2022**<br>
-**山上的那一棵树**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J20cRA0LMow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**2 December 2022**<br>
+**布布想要养宠物**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lt9aW7CL2O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**31 August 2022**<br>
-**谁呢?**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnQOxOR_2oQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**29 November 2022**<br>
+**小斐迷路了**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B373vYAa5ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
 

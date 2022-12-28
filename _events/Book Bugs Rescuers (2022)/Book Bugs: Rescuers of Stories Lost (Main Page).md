@@ -43,13 +43,13 @@ Please note that the availabilities are not updated in real time.
 | Sengkang Public Library |  Low Stock |
 | Serangoon Public Library | Out of Stock |
 | Tampines Regional Library | Available |
-| Toa Payoh Public Library | Low Stock |
-| Woodlands Regional Library | Low Stock |
+| Toa Payoh Public Library | Out of Stock |
+| Woodlands Regional Library | Out of Stock |
 | Yishun Public Library | Available |
 
 *Subject to changes.
 
-Last updated: 28 December 2022
+Last updated: 28 December 2022, 11am
 
 ### Explore
 

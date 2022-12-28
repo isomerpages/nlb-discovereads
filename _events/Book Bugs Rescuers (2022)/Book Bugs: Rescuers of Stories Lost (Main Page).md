@@ -26,9 +26,9 @@ Please note that the availabilities are not updated in real time.
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |
 | Ang Mo Kio Public Library	| Out of Stock |
-| Bedok Public Library |  Available |
-| Bishan Public Library | Available |
-| Bukit Batok Public Library | Low Stock |
+| Bedok Public Library | Out of Stock |
+| Bishan Public Library | Low Stock |
+| Bukit Batok Public Library | Out of Stock |
 | library@harbourfront |  Available |
 | Bukit Panjang Public Library | Out of Stock |
 | Cheng San Public Library | Out of Stock |
@@ -40,7 +40,7 @@ Please note that the availabilities are not updated in real time.
 | Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |
 | Sembawang Public Library | Low Stock |
-| Sengkang Public Library |  Low Stock |
+| Sengkang Public Library | Out of Stock |
 | Serangoon Public Library | Out of Stock |
 | Tampines Regional Library | Available |
 | Toa Payoh Public Library | Out of Stock |
@@ -49,7 +49,7 @@ Please note that the availabilities are not updated in real time.
 
 *Subject to changes.
 
-Last updated: 28 December 2022, 11am
+Last updated: 28 December 2022, 3pm
 
 ### Explore
 

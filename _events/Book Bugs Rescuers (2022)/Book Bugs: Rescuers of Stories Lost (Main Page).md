@@ -32,20 +32,20 @@ Please note that the availabilities are not updated in real time.
 | library@harbourfront | Low Stock |
 | Bukit Panjang Public Library | Out of Stock |
 | Cheng San Public Library | Out of Stock |
-| Choa Chu Kang Public Library | Available |
+| Choa Chu Kang Public Library | Low Stock |
 | Clementi Public Library | Out of Stock |
 | Geylang East Public Library |	Out of Stock |
-| Jurong Regional Library | Available |
+| Jurong Regional Library | Low Stock |
 | Jurong West Public Library | Out of Stock |
 | Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |
 | Sembawang Public Library | Out of Stock |
 | Sengkang Public Library | Out of Stock |
 | Serangoon Public Library | Out of Stock |
-| Tampines Regional Library | Available |
+| Tampines Regional Library | Low Stock |
 | Toa Payoh Public Library | Out of Stock |
 | Woodlands Regional Library | Out of Stock |
-| Yishun Public Library | Available |
+| Yishun Public Library | Low Stock |
 
 *Subject to changes.
 

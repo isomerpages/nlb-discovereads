@@ -40,7 +40,7 @@ Please note that the availabilities are not updated in real time.
 | Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |
 | Sembawang Public Library | Low Stock |
-| Sengkang Public Library |  Low Stock |
+| Sengkang Public Library | Out of Stock |
 | Serangoon Public Library | Out of Stock |
 | Tampines Regional Library | Available |
 | Toa Payoh Public Library | Out of Stock |

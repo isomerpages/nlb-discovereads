@@ -39,7 +39,7 @@ Please note that the availabilities are not updated in real time.
 | Jurong West Public Library | Out of Stock |
 | Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |
-| Sembawang Public Library | Low Stock |
+| Sembawang Public Library | Out of Stock |
 | Sengkang Public Library | Out of Stock |
 | Serangoon Public Library | Out of Stock |
 | Tampines Regional Library | Available |

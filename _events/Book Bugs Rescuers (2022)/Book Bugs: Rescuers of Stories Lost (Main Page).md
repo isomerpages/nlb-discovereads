@@ -27,7 +27,7 @@ Please note that the availabilities are not updated in real time.
 | ------------------ | ---------- |
 | Ang Mo Kio Public Library	| Out of Stock |
 | Bedok Public Library | Out of Stock |
-| Bishan Public Library | Low Stock |
+| Bishan Public Library | Out of Stock |
 | Bukit Batok Public Library | Out of Stock |
 | library@harbourfront | Low Stock |
 | Bukit Panjang Public Library | Out of Stock |
@@ -49,7 +49,7 @@ Please note that the availabilities are not updated in real time.
 
 *Subject to changes.
 
-Last updated: 28 December 2022, 5pm
+Last updated: 28 December 2022, 6pm
 
 ### Explore
 

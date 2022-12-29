@@ -29,7 +29,7 @@ Please note that the availabilities are not updated in real time.
 | Bedok Public Library | Out of Stock |
 | Bishan Public Library | Out of Stock |
 | Bukit Batok Public Library | Out of Stock |
-| library@harbourfront | Low Stock |
+| library@harbourfront | Out of Stock |
 | Bukit Panjang Public Library | Out of Stock |
 | Cheng San Public Library | Out of Stock |
 | Choa Chu Kang Public Library | Low Stock |

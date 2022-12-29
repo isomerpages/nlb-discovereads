@@ -4,6 +4,17 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 29 December 2022
+
+![](/images/events/bookbugsr/The%20End%20Stickers%20edited.png)
+
+Download Book Bugs stickers for [WhatsApp](https://sticker.ly/s/HUXN16) and [Telegram](https://t.me/addstickers/BookBugsRescuers)!  
+
+Please note that you will need to download a third-party app to view the stickers on WhatsApp.  
+  
+Physical sticker sheets are available at all public libraries, except library@orchard, library@chinatown and library@esplanade, **while stocks last**.
+
+
 #### 27 December 2022
 
 ![](/images/events/bookbugsr/the-end-almost-dR.png)

@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### 29 December 2022
+
 ![](/images/events/bookbugsr/The%20End%20Stickers%20edited.png)
 
 

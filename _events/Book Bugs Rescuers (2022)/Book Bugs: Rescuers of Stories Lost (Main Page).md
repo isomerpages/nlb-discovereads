@@ -29,13 +29,13 @@ Please note that the availabilities are not updated in real time.
 | Bedok Public Library | Out of Stock |
 | Bishan Public Library | Out of Stock |
 | Bukit Batok Public Library | Out of Stock |
-| library@harbourfront | Low Stock |
+| library@harbourfront | Out of Stock |
 | Bukit Panjang Public Library | Out of Stock |
 | Cheng San Public Library | Out of Stock |
 | Choa Chu Kang Public Library | Low Stock |
 | Clementi Public Library | Out of Stock |
 | Geylang East Public Library |	Out of Stock |
-| Jurong Regional Library | Low Stock |
+| Jurong Regional Library | Out of Stock |
 | Jurong West Public Library | Out of Stock |
 | Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |
@@ -49,7 +49,7 @@ Please note that the availabilities are not updated in real time.
 
 *Subject to changes.
 
-Last updated: 28 December 2022, 6pm
+Last updated: 29 December 2022, 11am
 
 ### Explore
 

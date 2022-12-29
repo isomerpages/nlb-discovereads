@@ -45,7 +45,7 @@ Please note that the availabilities are not updated in real time.
 | Tampines Regional Library | Low Stock |
 | Toa Payoh Public Library | Out of Stock |
 | Woodlands Regional Library | Out of Stock |
-| Yishun Public Library | Low Stock |
+| Yishun Public Library | Out of Stock |
 
 *Subject to changes.
 

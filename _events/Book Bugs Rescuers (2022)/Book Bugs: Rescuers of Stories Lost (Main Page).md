@@ -32,7 +32,7 @@ Please note that the availabilities are not updated in real time.
 | library@harbourfront | Out of Stock |
 | Bukit Panjang Public Library | Out of Stock |
 | Cheng San Public Library | Out of Stock |
-| Choa Chu Kang Public Library | Low Stock |
+| Choa Chu Kang Public Library | Out of Stock |
 | Clementi Public Library | Out of Stock |
 | Geylang East Public Library |	Out of Stock |
 | Jurong Regional Library | Out of Stock |

@@ -35,7 +35,7 @@ Please note that the availabilities are not updated in real time.
 | Choa Chu Kang Public Library | Low Stock |
 | Clementi Public Library | Out of Stock |
 | Geylang East Public Library |	Out of Stock |
-| Jurong Regional Library | Low Stock |
+| Jurong Regional Library | Out of Stock |
 | Jurong West Public Library | Out of Stock |
 | Pasir Ris Public Library | Out of Stock |
 | Queenstown Public Library | Out of Stock |

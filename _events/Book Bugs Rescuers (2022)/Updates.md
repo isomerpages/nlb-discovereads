@@ -4,6 +4,15 @@ permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
+#### 30 December 2022
+
+![](/images/events/bookbugsr/BBR%20A3%20landscape.png)
+
+Thank you to all Book Bugs fans for the overwhelming support of Book Bugs: Rescuers of Stories Lost in these past ten months!  
+  
+If you would like to upload and share your original Book Bugs-inspired content, you can continue to do so on the Community Gallery [here](https://go.gov.sg/bookbugs-community).  
+For more programmes for children, please visit this [link](https://www.eventbrite.sg/cc/programmes-for-children-66139).
+
 #### 29 December 2022
 
 ![](/images/events/bookbugsr/The%20End%20Stickers%20edited.png)

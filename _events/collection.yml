@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - events.md
+      - World and Us.md
       - Book Bugs Rescuers (2022)/.keep
       - "Book Bugs Rescuers (2022)/Book Bugs: Rescuers of Stories Lost (Main
         Page).md"

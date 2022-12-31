@@ -12,7 +12,7 @@ Dear Rescuers, thank you for reading and restoring Bugtopia and the lost stories
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/).
 
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="560" width="315" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 All photos were submitted and/or taken during the Book Bugs Community Day events. By participating in the Community Day activities, participants agree that NLB may use these images for publicity.
 

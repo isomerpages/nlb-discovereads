@@ -4,9 +4,18 @@ permalink: /events/bookbugsr/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 ---
-**Announcement: Look out for DIY activities and the answers to *Passport to Bugtopia* on our [Join the Community!](/events/bookbugsr/community/) page.**
+**Announcement: _Book Bugs: Rescuers of Stories Lost_ has ended.**
 
 <img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
+
+Dear Rescuers, thank you for reading and restoring Bugtopia and the lost stories! Here’s what some of you had to say about your _Book Bugs: Rescuers of Stories Lost_  journey.
+
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/).
+
+<iframe src="[https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all](https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all)" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+<p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+
 
 ### What is Book Bugs
 
@@ -14,14 +23,12 @@ Book Bugs: Rescuers of Stories Lost  is the fourth iteration of a bug-themed col
 
 All card redemptions at the libraries are while stocks last.
 
-By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)
+By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/).
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
 ### Card Availabilities
-Our Book Bugs are working hard. Due to high redemptions, cards may be out of stock at some public libraries. Look out for the final re-release of #46-#50, #56-#60, #66-#70, #76-#80 shiny cards on 26 December 2022*, while stocks last! 
-
-Please note that the availabilities are not updated in real time.
+All Book Bugs cards have been fully redeemed. Thank you for your enthusiastic support! 
 
 | **Library Branch** | **Status** |
 | ------------------ | ---------- |

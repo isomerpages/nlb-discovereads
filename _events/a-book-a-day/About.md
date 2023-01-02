@@ -1,12 +1,12 @@
 ---
 title: About
-permalink: /events/a-book-a-day/about
+permalink: /events/a-book-a-day/about/
 description: ""
 third_nav_title: A Book A Day
 ---
 ### **About**
 
-*(updated on 11 March 2022)*
+*(updated on 2 January 2023)*
 
 
 <img src="/images/events/abookaday/ABAD-Logo.jpg" alt="A Book A Day" style="width: 15rem;">

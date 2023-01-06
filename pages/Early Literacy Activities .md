@@ -14,7 +14,7 @@ description: ""
 
 | <img src="/images/diyresources/preschool/Earlylit/fairytale1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/fairytale2.jpg" style="width:80%">|
 
-Click here to download a copy.
+Click [here](/files/preschool/Earlyliteracyactivities/fairytalefun.pdf) to download a copy.
 
 ##### October 2022
 

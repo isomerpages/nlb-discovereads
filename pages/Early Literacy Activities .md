@@ -10,7 +10,7 @@ description: ""
 <b>Here are some fun activities you can do with your little ones that tie in with the five early literacy practices. We have also included book recommendations for you to read together with your child! </b>
 
 ##### January 2023
-**Fairytale Fun**
+**Fairy Tale Fun**
 
 | <img src="/images/diyresources/preschool/Earlylit/fairytale1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/fairytale2.jpg" style="width:80%">|
 

@@ -26,7 +26,7 @@ Materials needed:
 ### Recommended Books
 <img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
-**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Title:** [Makan Mischief](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205436382)<br>
 **Author:** Evelyn Sue Wong & Dhanendra Poedjono <br>
 **Publisher:** Singapore: Epigram Books, 2021<br>
 

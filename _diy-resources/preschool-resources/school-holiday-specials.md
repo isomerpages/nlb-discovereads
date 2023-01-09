@@ -6,6 +6,33 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### Our Community
+
+<iframe src="https://www.youtube.com/embed/StJMJrjkJLA" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+### Our Community Craft
+
+Materials needed: 
+
+* 2 pieces of A4 sized construction paper
+* Scissors
+* Glue
+*  Pencil
+*  Coloured markers
+
+Download the instructions for the craft.
+
+### Recommended Books
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
+
+**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Author:** Jessica Rusick <br>
+**Publisher:** Minneapolis, Minnesota: Super Sandcastle, an imprint of Abdo Publishing, 2020<br>
+
+Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to make cups melt, water bend, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
+
+
 ### **Eye-mazing Optical Illusions**
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=0145e084-836b-483c-9f8a-af690040993c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>

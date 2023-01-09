@@ -6,6 +6,64 @@ third_nav_title: Preschool Resources
 ---
 ## **School Holiday Specials with Librarians!**
 
+### Our Community
+
+<iframe src="https://www.youtube.com/embed/StJMJrjkJLA" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+### Our Community Craft
+
+Materials needed: 
+
+* 2 pieces of A4 sized construction paper
+* Scissors
+* Glue
+*  Pencil
+*  Coloured markers
+
+[Download](/files/preschool/School%20Holiday%20Specials/Our%20Community.pdf) the instructions for the craft.
+
+### Recommended Books
+<img src="/images/diyresources/preschool/SHS/makan mischief.jpg" style="width:250px; text-align:left;">
+
+**Title:** [Makan Mischief](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205436382)<br>
+**Author:** Evelyn Sue Wong & Dhanendra Poedjono <br>
+**Publisher:** Singapore: Epigram Books, 2021<br>
+
+Little Mynah loves to help, so when her friends Jen and Jay are bored eating the same old
+noodle dish at the hawker centre, she comes up with a makan surprise for everyone!
+Join in the second adventure of the multilingual picture book series that features the plucky Little
+Mynah and familiar people and places in the neighbourhood.
+
+<img src="/images/diyresources/preschool/SHS/aunty postman.jpg" style="width:250px; text-align:left;">
+
+
+**Title:** [Aunty Postman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205659973)<br>
+**Author:** Ames Chen & Jayl Chen <br>
+**Publisher:** Singapore: Graceworks Private Limited, 2021<br>
+
+Is your postman short, plump, tall, or thin? Do you run to your gate when the postman delivers a long-awaited parcel? Discover what makes Aunty Postman so special as we go up, down, and around the estate she delivers for.
+
+
+<img src="/images/diyresources/preschool/SHS/all through the night.jpg" style="width:250px; text-align:left;">
+
+**Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
+**Author:** Polly Faber &amp; Harriet Hobday <br>
+**Publisher:** London: Nosy Crow, 2021
+
+A beautifully illustrated picture book exploring the jobs that keep a city running all through the night, and make it ready for the new day. The sky is getting dark. In a big city, a little girl is eating her dinner, brushing her teeth and getting ready for bed. Meanwhile, her mother is putting on her coat and getting ready to go to work. But where will she go, and who will she see along the way? As the night goes on, follow nurses, cleaners, delivery workers, doctors, police officers, journalists and many more. Meet the people doing the important jobs that help keep the city running all through the night, ready for the next day to come.
+
+<img src="/images/diyresources/preschool/SHS/our park.jpg" style="width:250px; text-align:left;">
+
+**Title:** [Our Park](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204437869)<br>
+**Author:** Lisa J. Amstutz<br>
+**Publisher:** North Mankato, Minnesota: Pebble, a Capstone imprint, 2020
+
+Parks are important places in our community. It takes many community helpers to keep a park clean and beautiful. Readers will learn about who works at a park, what the workers do, and
+what makes a city park special. Simple, at-level text and vibrant photos help readers learn all about community parks.
+
+**All synopses taken from the respective publishers. The copyright to all book covers belong to the relevant publishers or illustrators.**
+
 ### **Eye-mazing Optical Illusions**
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=0145e084-836b-483c-9f8a-af690040993c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>

@@ -21,16 +21,39 @@ Materials needed:
 *  Pencil
 *  Coloured markers
 
-Download the instructions for the craft.
+[Download](/files/preschool/School%20Holiday%20Specials/Our%20Community.pdf) the instructions for the craft.
 
 ### Recommended Books
 <img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
 **Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
-**Author:** Jessica Rusick <br>
-**Publisher:** Minneapolis, Minnesota: Super Sandcastle, an imprint of Abdo Publishing, 2020<br>
+**Author:** Evelyn Sue Wong & Dhanendra Poedjono <br>
+**Publisher:** Singapore: Epigram Books, 2021<br>
 
-Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to make cups melt, water bend, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
+Little Mynah loves to help, so when her friends Jen and Jay are bored eating the same old
+noodle dish at the hawker centre, she comes up with a makan surprise for everyone!
+Join in the second adventure of the multilingual picture book series that features the plucky Little
+Mynah and familiar people and places in the neighbourhood.
+
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
+
+
+**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Author:** Ames Chen & Jayl Chen <br>
+**Publisher:** Singapore: Graceworks Private Limited, 2021<br>
+
+Is your postman short, plump, tall, or thin? Do you run to your gate when the postman delivers a long-awaited parcel? Discover what makes Aunty Postman so special as we go up, down, and around the estate she delivers for.
+
+
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
+
+**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Author:** Polly Faber &amp; Harriet Hobday <br>
+**Publisher:** London: Nosy Crow, 2021
+
+A beautifully illustrated picture book exploring the jobs that keep a city running all through the night, and make it ready for the new day. The sky is getting dark. In a big city, a little girl is eating her dinner, brushing her teeth and getting ready for bed. Meanwhile, her mother is putting on her coat and getting ready to go to work. But where will she go, and who will she see along the way? As the night goes on, follow nurses, cleaners, delivery workers, doctors, police officers, journalists and many more. Meet the people doing the important jobs that help keep the city running all through the night, ready for the next day to come.
+
+
 
 
 ### **Eye-mazing Optical Illusions**

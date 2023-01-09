@@ -62,7 +62,7 @@ A beautifully illustrated picture book exploring the jobs that keep a city runni
 Parks are important places in our community. It takes many community helpers to keep a park clean and beautiful. Readers will learn about who works at a park, what the workers do, and
 what makes a city park special. Simple, at-level text and vibrant photos help readers learn all about community parks.
 
-All synopses taken from the respective publishers. The copyright to all book covers belong to the relevant publishers or illustrators.
+**All synopses taken from the respective publishers. The copyright to all book covers belong to the relevant publishers or illustrators.**
 
 ### **Eye-mazing Optical Illusions**
 

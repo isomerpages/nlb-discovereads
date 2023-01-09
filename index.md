@@ -25,8 +25,9 @@ sections:
           url: /services/programmes/teenstakeover
   - infopic:
       title: A Book A Day
-      description: "Read a book a day with your child and stand to win a collection of
-        children’s books in a lucky draw! Terms and conditions apply. "
+      description: Read a book a day with your child and stand to win a collection of
+        children's books in a lucky draw! Terms and conditions apple. For
+        children aged 0 to 6.
       button: Find out more!
       url: /events/a-book-a-day/participation/
       image: /images/homepage/abad_main_homepage.png

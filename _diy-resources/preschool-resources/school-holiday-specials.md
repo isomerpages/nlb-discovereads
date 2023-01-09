@@ -24,7 +24,7 @@ Materials needed:
 [Download](/files/preschool/School%20Holiday%20Specials/Our%20Community.pdf) the instructions for the craft.
 
 ### Recommended Books
-<img src="/images/diyresources/preschool/SHS/makan mischief.jpg" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/SHS/makan mischief.jpg" style="width:250px; text-align:left;">
 
 **Title:** [Makan Mischief](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205436382)<br>
 **Author:** Evelyn Sue Wong & Dhanendra Poedjono <br>
@@ -35,7 +35,7 @@ noodle dish at the hawker centre, she comes up with a makan surprise for everyon
 Join in the second adventure of the multilingual picture book series that features the plucky Little
 Mynah and familiar people and places in the neighbourhood.
 
-<img src="/images/diyresources/preschool/SHS/aunty postman.jpg" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/SHS/aunty postman.jpg" style="width:250px; text-align:left;">
 
 
 **Title:** [Aunty Postman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205659973)<br>
@@ -45,7 +45,7 @@ Mynah and familiar people and places in the neighbourhood.
 Is your postman short, plump, tall, or thin? Do you run to your gate when the postman delivers a long-awaited parcel? Discover what makes Aunty Postman so special as we go up, down, and around the estate she delivers for.
 
 
-<img src="/images/diyresources/preschool/SHS/all through the night.jpg" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/SHS/all through the night.jpg" style="width:250px; text-align:left;">
 
 **Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
 **Author:** Polly Faber &amp; Harriet Hobday <br>
@@ -53,7 +53,7 @@ Is your postman short, plump, tall, or thin? Do you run to your gate when the po
 
 A beautifully illustrated picture book exploring the jobs that keep a city running all through the night, and make it ready for the new day. The sky is getting dark. In a big city, a little girl is eating her dinner, brushing her teeth and getting ready for bed. Meanwhile, her mother is putting on her coat and getting ready to go to work. But where will she go, and who will she see along the way? As the night goes on, follow nurses, cleaners, delivery workers, doctors, police officers, journalists and many more. Meet the people doing the important jobs that help keep the city running all through the night, ready for the next day to come.
 
-<img src="/images/diyresources/preschool/SHS/our park.jpg" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/SHS/our park.jpg" style="width:250px; text-align:left;">
 
 **Title:** [Our Park](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204437869)<br>
 **Author:** Lisa J. Amstutz<br>

@@ -24,12 +24,12 @@ sections:
           description: null
           url: /services/programmes/teenstakeover
   - infopic:
-      title: Book Bugs Rescuers
-      description: "Welcome to Book Bugs: Rescuers of Stories Lost! Are you ready to
-        help save Bugtopia? Start your journey now!"
-      button: Explore more!
-      url: /events/bookbugsr/
-      image: /images/events/bookbugsr/BBR-trailer.png
+      title: A Book A Day
+      description: "Read a book a day with your child and stand to win a collection of
+        children’s books in a lucky draw! Terms and conditions apply. "
+      button: Find out more!
+      url: /events/a-book-a-day/participation/
+      image: /images/homepage/abad_main_homepage.png
       alt: BBX image
   - infobar:
       title: Storytime (For ages 4-10)

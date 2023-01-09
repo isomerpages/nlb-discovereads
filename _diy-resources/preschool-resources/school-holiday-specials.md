@@ -45,7 +45,7 @@ Mynah and familiar people and places in the neighbourhood.
 Is your postman short, plump, tall, or thin? Do you run to your gate when the postman delivers a long-awaited parcel? Discover what makes Aunty Postman so special as we go up, down, and around the estate she delivers for.
 
 
-<img src="/images/diyresources/preschool/SHS/all through the night.jpg" style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/SHS/all through the night.jpg" style="width:200px; text-align:left;">
 
 **Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
 **Author:** Polly Faber &amp; Harriet Hobday <br>

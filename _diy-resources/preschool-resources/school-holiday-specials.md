@@ -47,7 +47,7 @@ Is your postman short, plump, tall, or thin? Do you run to your gate when the po
 
 <img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
-**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
 **Author:** Polly Faber &amp; Harriet Hobday <br>
 **Publisher:** London: Nosy Crow, 2021
 
@@ -55,7 +55,7 @@ A beautifully illustrated picture book exploring the jobs that keep a city runni
 
 <img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
-**Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
+**Title:** [Our Work](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204437869)<br>
 **Author:** Lisa J. Amstutz<br>
 **Publisher:** North Mankato, Minnesota: Pebble, a Capstone imprint, 2020
 

@@ -53,9 +53,9 @@ Is your postman short, plump, tall, or thin? Do you run to your gate when the po
 
 A beautifully illustrated picture book exploring the jobs that keep a city running all through the night, and make it ready for the new day. The sky is getting dark. In a big city, a little girl is eating her dinner, brushing her teeth and getting ready for bed. Meanwhile, her mother is putting on her coat and getting ready to go to work. But where will she go, and who will she see along the way? As the night goes on, follow nurses, cleaners, delivery workers, doctors, police officers, journalists and many more. Meet the people doing the important jobs that help keep the city running all through the night, ready for the next day to come.
 
-<img src="/images/diyresources/preschool/SHS/our work.jpg" style="width:200px; text-align:left;">
+<img src="/images/diyresources/preschool/SHS/our park.jpg" style="width:200px; text-align:left;">
 
-**Title:** [Our Work](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204437869)<br>
+**Title:** [Our Park](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204437869)<br>
 **Author:** Lisa J. Amstutz<br>
 **Publisher:** North Mankato, Minnesota: Pebble, a Capstone imprint, 2020
 

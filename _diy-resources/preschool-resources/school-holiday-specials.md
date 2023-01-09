@@ -38,7 +38,7 @@ Mynah and familiar people and places in the neighbourhood.
 <img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
 
-**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Title:** [Aunty Postman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205659973)<br>
 **Author:** Ames Chen & Jayl Chen <br>
 **Publisher:** Singapore: Graceworks Private Limited, 2021<br>
 
@@ -55,7 +55,7 @@ A beautifully illustrated picture book exploring the jobs that keep a city runni
 
 <img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
-**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
 **Author:** Lisa J. Amstutz<br>
 **Publisher:** North Mankato, Minnesota: Pebble, a Capstone imprint, 2020
 

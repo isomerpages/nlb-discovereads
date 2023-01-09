@@ -53,8 +53,16 @@ Is your postman short, plump, tall, or thin? Do you run to your gate when the po
 
 A beautifully illustrated picture book exploring the jobs that keep a city running all through the night, and make it ready for the new day. The sky is getting dark. In a big city, a little girl is eating her dinner, brushing her teeth and getting ready for bed. Meanwhile, her mother is putting on her coat and getting ready to go to work. But where will she go, and who will she see along the way? As the night goes on, follow nurses, cleaners, delivery workers, doctors, police officers, journalists and many more. Meet the people doing the important jobs that help keep the city running all through the night, ready for the next day to come.
 
+<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
 
+**Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
+**Author:** Lisa J. Amstutz<br>
+**Publisher:** North Mankato, Minnesota: Pebble, a Capstone imprint, 2020
 
+Parks are important places in our community. It takes many community helpers to keep a park clean and beautiful. Readers will learn about who works at a park, what the workers do, and
+what makes a city park special. Simple, at-level text and vibrant photos help readers learn all about community parks.
+
+All synopses taken from the respective publishers. The copyright to all book covers belong to the relevant publishers or illustrators.
 
 ### **Eye-mazing Optical Illusions**
 

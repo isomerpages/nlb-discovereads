@@ -12,7 +12,7 @@ description: ""
 ##### January 2023
 **Fairy Tale Fun**
 
-| <img src="/images/diyresources/preschool/Earlylit/fairytale1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/fairytale2.jpg" style="width:80%">|
+| <img src="/images/diyresources/preschool/Earlylit/fairytale1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/fairytale3.jpg" style="width:80%">|
 
 Click [here](/files/preschool/Earlyliteracyactivities/fairytalefun.PDF) to download a copy.
 

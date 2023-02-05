@@ -12,9 +12,7 @@ description: ""
 
 **What is the Junior Reading Ambassador programme?**
 
-The Junior Reading Ambassador (JRA) programme is an initiative by NLB for children aged 9 to 12 years old. The JRAs are given opportunities during their two-year term to promote reading through platforms such as storytelling, emceeing, and dramatic performances conducted in and out of the public libraries.
-
-Throughout their journey as a JRA, JRAs will meet and make new friends who share a common passion for reading.
+The Junior Reading Ambassador (JRA) programme is an initiative by NLB for children aged 9 to 12 years old. The JRAs are given opportunities during their two-year term to promote reading through platforms such as storytelling, emceeing, and dramatic performances conducted in and out of the public libraries. Throughout their journey as a JRA, JRAs will meet and make new friends who share a common passion for reading.
 
 **What is the objective of the JRA programme?**
 

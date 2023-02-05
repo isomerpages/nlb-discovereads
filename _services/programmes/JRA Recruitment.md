@@ -6,8 +6,7 @@ collection_name: services
 third_nav_title: Programmes
 description: ""
 ---
-
-## **JRA Recruitment 2020**
+## **JRA Recruitment**
 
 ![Junior Reading Ambassador Logo](/images/unsorted/jra/JRA-Recruitment-2020.png)
 
@@ -42,4 +41,3 @@ JRAs conduct storytelling and dramatisation, as well as take on roles such as pr
 <img src="/images/unsorted/jra/QR-code-for-JRA-nomination-entry-on-EMSS.png" style="width: 30%;">
 
 [https://go.gov.sg/jragolibnom2020](https://go.gov.sg/jragolibnom2020)
-

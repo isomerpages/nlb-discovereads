@@ -46,6 +46,6 @@ Nominations for the 2023 round of recruitment are open from **6 February 2023 to
 
 **If you’re a parent/guardian**, please access the nomination form through the QR code or URL below to nominate your child/ward. Do note that the nominee will be required to answer five assessment questions in the nomination form.
 
-![QR code for JRA Recruitment 2023](/images/unsorted/jra/QR-code-JRA-Recruitment-2023.png)
+<img src="/images/unsorted/jra/QR-code-JRA-Recruitment-2023.png"style="width: 50%;">
 
 [https://go.gov.sg/jrarecruit2023](https://go.gov.sg/jrarecruit2023)

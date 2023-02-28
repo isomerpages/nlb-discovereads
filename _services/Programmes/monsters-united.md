@@ -78,9 +78,10 @@ Assemble your own adorable mini version of Rooky’s book! Simply download and
 
 How did the Monsters come together? Stick around for the last animated book release! 
 
-\*\*Monsters United\*\*: coming soon
+**Monsters United**: coming soon
 
 <b><a href="#top">Back to top</a></b>
+
 ### Zecky’s Animated Book Launch! 
 
 ![Zecky’s Animated Book Launch image](/images/unsorted/monstersunited/zecky-header1.jpg)

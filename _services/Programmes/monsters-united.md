@@ -31,53 +31,33 @@ The Monsters from *Monsters United*  have all put their stories into books to 
 
 For the whole of March, visit these public libraries and attend Rooky’s exclusive horror storytelling and craft sessions! [**Click here for more information**](https://www.eventbrite.sg/d/singapore--singapore/%23rooky/).
 
-| **Library** | **Date, Time, and Venue** |
 
+| Library | Date, Time, and Venue |
+| -------- | -------- |
 | Sembawang Public Library | 3 Mar 2023, 6.00pm – 7.00pm, Programme Zone |
-
 | Bukit Batok Public Library | 4 Mar 2023, 12.00pm – 1.00pm, Activity Room | 
-
 | Bishan Public Library | 6 Mar 2023, 3.30pm – 4.30pm, Activity Room |
-
 | Serangoon Public Library | 8 Mar 2023, 2.30pm – 3.30pm, Programme Zone | 
-
 | Cheng San Public Library | 11 Mar 2023, 2.00pm – 3.00pm, Activity Room |
-
 | Toa Payoh Public Library | 12 Mar 2023, 11.00am – 12.00pm, Programme Zone Level 3 |
-
 | Queenstown Public Library | 12 Mar 2023, 11.30am – 12.30pm, Programme Zone |
-
 | Jurong Regional Library |12 Mar 2023, 12.30pm – 1.30pm, Programme Zone Level 1 |
-
 | Clementi Public Library | 13 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
-
 | Geylang East Public Library | 13 Mar 2023, 3.30pm – 4.30pm, Activity Room Level 1 |
-
 | Jurong West Public Library | 14 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
-
 | Ang Mo Kio Public Library | 15 Mar 2023, 3.00pm – 4.00pm, Activity Room |
-
 | Pasir Ris Public Library | 15 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
-
 | Sengkang Public Library | 15 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
-
 | Tampines Regional Library | 16 Mar 2023, 3.00pm – 4.00pm, Programme Zone Level 6 |
-
 | Woodlands Regional Library | 17 Mar 2023, 2.00pm – 3.00pm, Programme Zone Level 1 |
-
 | Yishun Public Library | 17 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
-
 | Choa Chu Kang Public Library | 17 Mar 2023, 3.30pm – 4.30pm, Programme Room 1 & 2 |
-
 | Bukit Panjang Public Library | 18 Mar 2023, 3.00pm – 4.00pm, Stories Come Alive Room | 
+| **library@harbourfront (Mascot Meet-and-Greet Special Event)** | **18 Mar 2023, 1.00pm – 2.30pm and 4.00pm – 5.30pm, Programme Zone 1 & 2** |
+| Punggol Regional Library | 19 Mar 2023, 1.30pm – 2.30pm, ~Level 1 Atrium~  **Stories Come Alive Room, Level 1**|
+| Bedok Public Library | ~25 Mar 2023~  **24 Mar 2023**, 3.00pm – 4.00pm, Programme Zone |
 
-| \*\*library@harbourfront (Mascot Meet-and-Greet Special Event)\*\* | \*\*18 Mar 2023, 1.00pm – 2.30pm and 4.00pm – 5.30pm, Programme Zone 1 & 2\*\* |
-
-| Punggol Regional Library | 19 Mar 2023, 1.30pm – 2.30pm, \*\*Stories Come Alive Room, Level 1\*\*|
-
-| Bedok Public Library | ~25 Mar 2023~  \*\*24 Mar 2023\*\*, 3.00pm – 4.00pm, Programme Zone | 
-
-\##### Discover Rooky’s Riddles!
+##### Discover Rooky’s Riddles!
 
 <center><img src="/images/unsorted/monstersunited/rooky-riddles.jpg" alt="Rooky’s Riddles header" style="width: 100%;"></center>
 

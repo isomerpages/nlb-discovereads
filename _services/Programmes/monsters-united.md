@@ -54,8 +54,8 @@ For the whole of March, visit these public libraries and attend Rooky’s exc
 | Choa Chu Kang Public Library | 17 Mar 2023, 3.30pm – 4.30pm, Programme Room 1 & 2 |
 | Bukit Panjang Public Library | 18 Mar 2023, 3.00pm – 4.00pm, Stories Come Alive Room | 
 | **library@harbourfront (Mascot Meet-and-Greet Special Event)** | **18 Mar 2023, 1.00pm – 2.30pm and 4.00pm – 5.30pm, Programme Zone 1 & 2** |
-| Punggol Regional Library | 19 Mar 2023, 1.30pm – 2.30pm, ~~~Level 1 Atrium~~~  **Stories Come Alive Room, Level 1**|
-| Bedok Public Library | ~~~25 Mar 2023~~~  **24 Mar 2023**, 3.00pm – 4.00pm, Programme Zone |
+| Punggol Regional Library | 19 Mar 2023, 1.30pm – 2.30pm, ~~Level 1 Atrium~~  **Stories Come Alive Room, Level 1**|
+| Bedok Public Library | ~~25 Mar 2023~~  **24 Mar 2023**, 3.00pm – 4.00pm, Programme Zone |
 
 ##### Discover Rooky’s Riddles!
 

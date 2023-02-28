@@ -25,7 +25,7 @@ third_nav_title: Programmes
 
 The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots and how they meet one another. Stay tuned for more!
 
-**Monsters United**: coming soon
+**Monsters United: coming soon**
 
 ##### Attend Horror Storytelling and Craft Sessions
 

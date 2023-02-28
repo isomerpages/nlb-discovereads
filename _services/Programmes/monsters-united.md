@@ -85,9 +85,9 @@ How did the Monsters come together? Stick around for the last animated book rele
 ### Zecky’s Animated Book Launch! 
 
 ![Zecky’s Animated Book Launch image](/images/unsorted/monstersunited/zecky-header1.jpg)
-| [Read the Book!](#read-the-book) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) |
+| [Read Zecky's Book!](#read-zeckys-book) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) |
 
-##### Read the Book!
+##### Read Zecky's Book!
 
 **Planet Techy is in trouble!**
 <br>How can Zecky use her inventive spirit to protect her beloved home? Find out by clicking on the image below to read the animated book!<br>
@@ -107,9 +107,9 @@ Assemble your own adorable mini version of Zecky’s book! Simply download and p
 ### Camy’s Animated Book Launch! 
 
 ![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg)
-| [Read the Book!](#read-the-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
+| [Read Camy's Book!](#read-camys-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
 
-##### Read the Book!
+##### Read Camy's Book!
 
 **Join Camy on her very first quest!**
 <br>Read the animated book by clicking on the image below!<br>
@@ -128,10 +128,10 @@ Assemble your own adorable mini version of Camy’s book! Simply download and pr
 ### Hutsy’s Animated Book Launch! 
 
 ![Hutsy’s Animated Book Launch image](/images/unsorted/monstersunited/hutsy-header1.png)
-| [Read the Book!](#read-the-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Monsters United Mini Book Instructions](#monsters-united-mini-book-instructions) |
+| [Read Hutsy's Book!](#read-hutsys-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Monsters United Mini Book Instructions](#monsters-united-mini-book-instructions) |
 
 
-##### Read the Book!
+##### Read Hutsy's Book!
 
 **Join Hutsy on his very first adventure!**<br>
 Read the animated book by clicking on the image below!

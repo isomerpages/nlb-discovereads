@@ -78,7 +78,7 @@ Assemble your own adorable mini version of Rooky’s book! Simply download and
 
 How did the Monsters come together? Stick around for the last animated book release! 
 
-**Monsters United**: coming soon
+**Monsters United: coming soon**
 
 <b><a href="#top">Back to top</a></b>
 

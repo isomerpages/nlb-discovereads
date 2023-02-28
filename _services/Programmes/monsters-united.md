@@ -70,7 +70,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 **Free Printable! Rooky’s Mini Book** *(click on the image to download)*
 <a href="/files/rooky-minibook.pdf"><img src="/images/unsorted/monstersunited/rooky-minibook.png" alt="How Rooky got his Wings mini book" style="width: 100%;"></a>
 
-Assemble your own adorable mini version of Rooky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
+Assemble your own adorable mini version of Rooky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
 
 #### Upcoming Book
 
@@ -99,7 +99,7 @@ How did the Monsters come together? Stick around for the last animated book rele
 
 <a href="/files/zecky-minibook.pdf"><img src="/images/unsorted/monstersunited/zecky-minibook.png" alt="How Zecky got her Spectacles mini book" style="width: 100%;"></a>
 
-Assemble your own adorable mini version of Zecky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
+Assemble your own adorable mini version of Zecky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
 
 <b><a href="#top">Back to top</a></b>
 
@@ -121,7 +121,7 @@ Assemble your own adorable mini version of Zecky’s book! Simply download and p
 
 <a href="/files/camy-minibook.pdf"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
 
-Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
+Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
 
 <b><a href="#top">Back to top</a></b>
 

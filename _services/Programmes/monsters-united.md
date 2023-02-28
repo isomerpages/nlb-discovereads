@@ -20,7 +20,7 @@ third_nav_title: Programmes
 ##### Read the Book!
 
 **Join Rooky on his brave journey!**
-<br> Rooky enters a dark cave to prove his bravery, only to have his book snatched away! Who has taken it, and what will he do to get it back? Find out by clicking on the image below to read the animated book!<br>
+<br>Rooky enters a dark cave to prove his bravery, only to have his book snatched away! Who has taken it, and what will he do to get it back? Find out by clicking on the image below to read the animated book!<br>
 
 <center><a href="https://go.gov.sg/rookybook"><img src="/images/unsorted/monstersunited/rooky-readthebook.jpg" alt="How Rooky Got His Wings cover" style="width: 100%;"></a></center>
 

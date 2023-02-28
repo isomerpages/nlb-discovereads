@@ -73,7 +73,7 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 
 Assemble your own adorable mini version of Rooky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
 
-##### Upcoming Book
+#### Upcoming Book
 
 **Stay tuned for the last *Monsters United*  book release!**
 

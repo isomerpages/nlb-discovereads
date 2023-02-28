@@ -57,7 +57,7 @@ For the whole of March, visit these public libraries and attend Rooky’s exc
 | Punggol Regional Library | 19 Mar 2023, 1.30pm – 2.30pm, ~~Level 1 Atrium~~  **Stories Come Alive Room, Level 1**|
 | Bedok Public Library | ~~25 Mar 2023~~  **24 Mar 2023**, 3.00pm – 4.00pm, Programme Zone |
 
-##### Discover Rooky’s Riddles!
+#### Discover Rooky’s Riddles!
 
 <center><img src="/images/unsorted/monstersunited/rooky-riddles.jpg" alt="Rooky’s Riddles header" style="width: 100%;"></center>
 

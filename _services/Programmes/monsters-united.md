@@ -14,51 +14,13 @@ third_nav_title: Programmes
 ### Zecky’s Animated Book Launch! 
 
 ![Zecky’s Animated Book Launch image](/images/unsorted/monstersunited/zecky-header1.jpg)
-| [Read the Book!](#read-the-book) | [Attend Science Fiction Storytelling and Craft Sessions](#attend-science-fiction-storytelling-and-craft-sessions) | [Discover Zecky’s Zone!](#discover-zeckys-zone) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) | [Upcoming Books](#upcoming-books) |
+| [Read the Book!](#read-the-book) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) |
 
 ##### Read the Book!
 
 **Planet Techy is in trouble!**
 <br>How can Zecky use her inventive spirit to protect her beloved home? Find out by clicking on the image below to read the animated book!<br>
 <center><a href="https://go.gov.sg/zeckybook"><img src="/images/unsorted/monstersunited/zecky-readthebook.png" alt="How Zecky Got Her Spectacles cover" style="width: 100%;"></a></center>
-
-The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots. Stay tuned for more!
-
-**Rooky**: released in Mar 2023<br>
-**Monsters United**: coming soon
-
-##### Attend Science Fiction Storytelling and Craft Sessions
-For the whole of December, visit these public libraries and attend Zecky’s exclusive science fiction storytelling and craft sessions! [**Click here for more information**](https://www.eventbrite.com/cc/zeckys-sci-fi-story-and-craft-453149).
-
-| **Library** | **Date, Time, and Venue** |
-| Sengkang Public Library | 2 Dec 2022, 2.00pm – 3.00pm, Programme Zone |
-| library@harbourfront | 3 Dec 2022, 3.30pm – 4.30pm, Stories Comes Alive Room |
-| **Tampines Regional Library (Mascot Meet-and-Greet Special Event)** | **3 Dec 2022, 10.30am – 12.00pm and 2pm – 3.30pm, Level 4 Terrace** |
-| Jurong Regional Library | 4 Dec 2022, 12.30pm – 1.30pm, Programme Zone |
-| Bishan Public Library | 5 Dec 2022, 3.30pm – 4.30pm, Activity Room |
-| Clementi Public Library | 5 Dec 2022, 3.00pm – 4.00pm, Programme Zone |
-| Jurong West Public Library | 6 Dec 2022, 2.30pm – 3.30pm, Programme Zone |
-| Queenstown Public Library | 7 Dec 2022, 7.30pm – 8.30pm, Programme Zone |
-| Woodlands Regional Library | 7 Dec 2022, 4.00pm – 5.00pm, Programme Zone |
-| Bukit Panjang Public Library | 8 Dec 2022, 5.00pm – 6.00pm, Stories Come Alive Room | 
-| Cheng San Public Library | 9 Dec 2022, 3.30pm – 4.30pm, Activity Room |
-| Yishun Public Library | 9 Dec 2022, 7.30pm – 8.30pm, Programme Zone |
-| Sembawang Public Library | 10 Dec 2022, 11.30am – 12.30pm, ~~Programme Zone~~ **Reading Deck** |
-| Bedok Public Library | 11 Dec 2022, 3.00pm – 4.00pm, Programme Zone | 
-| Serangoon Public Library | 14 Dec 2022, 2.30pm – 3.30pm, Programme Zone | 
-| Choa Chu Kang Public Library | 15 Dec 2022, 5.00pm – 6.00pm, Programme Room 1 |
-| Pasir Ris Public Library | 15 Dec 2022, 3.30pm – 4.30pm, Programme Zone |
-| Ang Mo Kio Public Library | 16 Dec 2022, 7.00pm – 8.00pm, Activity Room |
-| Geylang East Public Library | 16 Dec 2022, 3.30pm – 4.30pm, Activity Room |
-| Bukit Batok Public Library | 17 Dec 2022, 1.00pm – 2.00pm, Activity Room | 
-| Toa Payoh Public Library | 17 Dec 2022, 11.00am – 12.00pm, Programme Zone |
-
-##### Discover Zecky’s Zone!
-<center><img src="/images/unsorted/monstersunited/zecky-zone.jpg" alt="Zecky’s Zone header" style="width: 100%;"></center>
-
-Get into the zone with Zecky this December! Search for and solve three mini puzzles hidden around the Children's Section in libraries (except for library@orchard, library@chinatown and library@esplanade).
-
-Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy solving!
 
 ##### D.I.Y. Zecky Mini Book
 
@@ -67,14 +29,6 @@ Scan any of the QR codes on the puzzles to key in your answers once you have all
 <a href="/files/zecky-minibook.pdf"><img src="/images/unsorted/monstersunited/zecky-minibook.png" alt="How Zecky got her Spectacles mini book" style="width: 100%;"></a>
 
 Assemble your own adorable mini version of Zecky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
-
-##### Upcoming Books
-**Stay tuned for the other *Monsters United*  book releases!**
-
-Eager to uncover how Rooky got his wings? How did the Monsters come together? Stick around for the other animated book releases! 
-
-**Rooky**: released in Mar 2023 <br>
-**Monsters United**: coming soon
 
 <b><a href="#top">Back to top</a></b>
 

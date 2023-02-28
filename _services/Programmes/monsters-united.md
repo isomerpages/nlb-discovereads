@@ -14,8 +14,7 @@ third_nav_title: Programmes
 ### Rooky's Animated Book Launch!
 
 ![Rooky’s Animated Book Launch image](/images/unsorted/monstersunited/rooky-header1.jpg)
-
-| [Read the Book!](#read-the-book) | [Attend Horror Storytelling and Craft Sessions](#attend-horror-storytelling-and-craft-sessions) | [Discover Rooky’s Riddles!](#discover-rookys-riddles) | [D.I.Y. Rooky Mini Book](#diy-rooky-mini-book) | [Upcoming Book](#upcoming-book) |
+| [Read the Book!](#read-the-book)| [Attend Horror Storytelling and Craft Sessions](#attend-horror-storytelling-and-craft-sessions) | [Discover Rooky’s Riddles!](#discover-rookys-riddles) | [D.I.Y. Rooky Mini Book](#diy-rooky-mini-book) | [Upcoming Book](#upcoming-book) |
 
 ##### Read the Book!
 

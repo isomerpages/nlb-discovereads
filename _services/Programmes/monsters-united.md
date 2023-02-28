@@ -18,7 +18,8 @@ third_nav_title: Programmes
 | [Read the Book!](#read-the-book) | [Attend Horror Storytelling and Craft Sessions](#attend-horror-storytelling-and-craft-sessions) | [Discover Rooky’s Riddles!](#discover-rookys-riddles) | [D.I.Y. Rooky Mini Book](#diy-rooky-mini-book) | [Upcoming Book](#upcoming-book) |
 
 ##### Read the Book!
-**How Rooky Got His Wings!**
+
+**Join Rooky on his brave journey!**
 <br> Rooky enters a dark cave to prove his bravery, only to have his book snatched away! Who has taken it, and what will he do to get it back? Find out by clicking on the image below to read the animated book!<br>
 
 <center><a href="https://go.gov.sg/rookybook"><img src="/images/unsorted/monstersunited/rooky-readthebook.jpg" alt="How Rooky Got His Wings cover" style="width: 100%;"></a></center>
@@ -29,7 +30,7 @@ The Monsters from *Monsters United*  have all put their stories into books to 
 
 ##### Attend Horror Storytelling and Craft Sessions
 
-For the whole of March, visit these public libraries and attend Rooky’s exclusive horror storytelling and craft sessions! [**Click here for more information**](https://www.eventbrite.sg/d/singapore--singapore/%23rooky/).
+For the whole of March, visit these public libraries and attend Rooky’s exclusive horror storytelling and craft sessions! [Click here for more information](https://www.eventbrite.sg/d/singapore--singapore/%23rooky/).
 
 
 | Library | Date, Time, and Venue |
@@ -65,17 +66,16 @@ Solve Rooky’s Riddles this March! Find and figure out the three mini puzzles 
 
 Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy solving!
 
-\##### D.I.Y. Rooky Mini Book
+##### D.I.Y. Rooky Mini Book
 
-\*\*Free Printable! Rooky’s Mini Book\*\* \*(click on the image to download)\*
+**Free Printable! Rooky’s Mini Book** *(click on the image to download)*
+<a href="/files/rooky-minibook.pdf"><img src="/images/unsorted/monstersunited/rooky-minibook.png" alt="How Rooky got his Wings mini book" style="width: 100%;"></a>
 
-<a href="/files/rooky\-minibook.pdf"><img src="/images/unsorted/monstersunited/rooky-minibook.png" alt="How Rooky got his Wings mini book" style="width: 100%;"></a>
-
-Assemble your own adorable mini version of Rooky’s book! Simply download and print the sheet to start. \[Watch the instructional video below for tips on putting your mini book together.\](#diy-hutsy-mini-book)
+Assemble your own adorable mini version of Rooky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#diy-hutsy-mini-book)
 
 ##### Upcoming Book
 
-\*\*Stay tuned for the last \*Monsters United\*  book release!\*\*
+**Stay tuned for the last *Monsters United*  book release!**
 
 How did the Monsters come together? Stick around for the last animated book release! 
 

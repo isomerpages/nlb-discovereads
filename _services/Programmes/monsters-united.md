@@ -23,15 +23,15 @@ third_nav_title: Programmes
 
 <center><a href="https://go.gov.sg/rookybook"><img src="/images/unsorted/monstersunited/rooky-readthebook.jpg" alt="How Rooky Got His Wings cover" style="width: 100%;"></a></center>
 
-The Monsters from \*Monsters United\*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots and how they meet one another. Stay tuned for more!
+The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots and how they meet one another. Stay tuned for more!
 
-\*\*Monsters United\*\*: coming soon
+**Monsters United**: coming soon
 
-\##### Attend Horror Storytelling and Craft Sessions
+##### Attend Horror Storytelling and Craft Sessions
 
-For the whole of March, visit these public libraries and attend Rooky’s exclusive horror storytelling and craft sessions! \[\*\*Click here for more information\*\*\](https://www.eventbrite.sg/d/singapore--singapore/%23rooky/).
+For the whole of March, visit these public libraries and attend Rooky’s exclusive horror storytelling and craft sessions! [**Click here for more information**](https://www.eventbrite.sg/d/singapore--singapore/%23rooky/).
 
-| \*\*Library\*\* | \*\*Date, Time, and Venue\*\* |
+| **Library** | **Date, Time, and Venue** |
 
 | Sembawang Public Library | 3 Mar 2023, 6.00pm – 7.00pm, Programme Zone |
 

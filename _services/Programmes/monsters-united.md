@@ -1,0 +1,305 @@
+---
+title: Monsters United
+permalink: services/programmes/monstersunited/
+breadcrumb: Monsters United
+collection_name: services
+third_nav_title: Programmes
+---
+## **Monsters United!**
+
+| <a href="#rookys-animated-book-launch"><img src="/images/unsorted/monstersunited/rooky-header1.jpg" alt="Rooky’s Animated Book Launch" style="width: 100%;"></a> | <a href="#zeckys-animated-book-launch"><img src="/images/unsorted/monstersunited/zecky-header1.jpg" alt="Zecky’s Animated Book Launch" style="width: 100%;"></a> | <a href="#camys-animated-book-launch"><img src="/images/unsorted/monstersunited/camy-header1.jpg" alt="Camy’s Animated Book Launch" style="width: 100%;"></a> | 
+
+| <a href="#hutsys-animated-book-launch"><img src="/images/unsorted/monstersunited/hutsy-header1.png" alt="Hutsy’s Animated Book Launch" style="width: 100%;"></a> | <a href="#celebrating-hans-christian-andersen"><img src="/images/unsorted/monstersunited/ISOMER-header-HCA.png" alt="Celebrating Hans Christian Andersen" style="width: 100%;"></a> | <a href="#rooktober-fest-2020"><img src="/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png" alt="Rooktober Fest 2020" style="width: 100%;"></a> |
+
+### Rooky's Animated Book Launch!
+
+![Rooky’s Animated Book Launch image](/images/unsorted/monstersunited/rooky-header1.jpg)
+| [Read the Book!](#read-the-book)| [Attend Horror Storytelling and Craft Sessions](#attend-horror-storytelling-and-craft-sessions) | [Discover Rooky's Riddles](#discover-rookys-riddles)| [D.I.Y. Rooky Mini Book](#diy-rooky-mini-book) | [Upcoming Book](#upcoming-book) |
+
+##### Read the Book!
+
+**Join Rooky on his brave journey!**
+<br>Rooky enters a dark cave to prove his bravery, only to have his book snatched away! Who has taken it, and what will he do to get it back? Find out by clicking on the image below to read the animated book!<br>
+
+<center><a href="https://go.gov.sg/rookybook"><img src="/images/unsorted/monstersunited/rooky-readthebook.jpg" alt="How Rooky Got His Wings cover" style="width: 100%;"></a></center>
+
+The Monsters from *Monsters United*  have all put their stories into books to share with you! Discover how they each earned their chops as reading mascots and how they meet one another. Stay tuned for more!
+
+**Monsters United: coming soon**
+
+##### Attend Horror Storytelling and Craft Sessions
+
+For the whole of March, visit these public libraries and attend Rooky’s exclusive horror storytelling and craft sessions! [Click here for more information](https://www.eventbrite.sg/d/singapore--singapore/%23rooky/).
+
+
+| Library | Date, Time, and Venue |
+| -------- | -------- |
+| Sembawang Public Library | 3 Mar 2023, 6.00pm – 7.00pm, Programme Zone |
+| Bukit Batok Public Library | 4 Mar 2023, 12.00pm – 1.00pm, Activity Room | 
+| Bishan Public Library | 6 Mar 2023, 3.30pm – 4.30pm, Activity Room |
+| Serangoon Public Library | 8 Mar 2023, 2.30pm – 3.30pm, Programme Zone | 
+| Cheng San Public Library | 11 Mar 2023, 2.00pm – 3.00pm, Activity Room |
+| Toa Payoh Public Library | 12 Mar 2023, 11.00am – 12.00pm, Programme Zone Level 3 |
+| Queenstown Public Library | 12 Mar 2023, 11.30am – 12.30pm, Programme Zone |
+| Jurong Regional Library |12 Mar 2023, 12.30pm – 1.30pm, Programme Zone Level 1 |
+| Clementi Public Library | 13 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
+| Geylang East Public Library | 13 Mar 2023, 3.30pm – 4.30pm, Activity Room Level 1 |
+| Jurong West Public Library | 14 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
+| Ang Mo Kio Public Library | 15 Mar 2023, 3.00pm – 4.00pm, Activity Room |
+| Pasir Ris Public Library | 15 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
+| Sengkang Public Library | 15 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
+| Tampines Regional Library | 16 Mar 2023, 3.00pm – 4.00pm, Programme Zone Level 6 |
+| Woodlands Regional Library | 17 Mar 2023, 2.00pm – 3.00pm, Programme Zone Level 1 |
+| Yishun Public Library | 17 Mar 2023, 3.00pm – 4.00pm, Programme Zone |
+| Choa Chu Kang Public Library | 17 Mar 2023, 3.30pm – 4.30pm, Programme Room 1 & 2 |
+| Bukit Panjang Public Library | 18 Mar 2023, 3.00pm – 4.00pm, Stories Come Alive Room | 
+| **library@harbourfront (Mascot Meet-and-Greet Special Event)** | **18 Mar 2023, 1.00pm – 2.30pm and 4.00pm – 5.30pm, Programme Zone 1 & 2** |
+| Punggol Regional Library | 19 Mar 2023, 1.30pm – 2.30pm, ~~Level 1 Atrium~~  **Stories Come Alive Room, Level 1**|
+| Bedok Public Library | ~~25 Mar 2023~~  **24 Mar 2023**, 3.00pm – 4.00pm, Programme Zone |
+
+#### Discover Rooky’s Riddles!
+
+<center><img src="/images/unsorted/monstersunited/rooky-riddles.jpg" alt="Rooky’s Riddles header" style="width: 100%;"></center>
+
+Solve Rooky’s Riddles this March! Find and figure out the three mini puzzles hidden around the Children's Section in our public libraries (except for library@orchard, library@chinatown and library@esplanade).
+
+Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy solving!
+
+##### D.I.Y. Rooky Mini Book
+
+**Free Printable! Rooky’s Mini Book** *(click on the image to download)*
+<a href="/files/rooky-minibook.pdf"><img src="/images/unsorted/monstersunited/rooky-minibook.png" alt="How Rooky got his Wings mini book" style="width: 100%;"></a>
+
+Assemble your own adorable mini version of Rooky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
+
+#### Upcoming Book
+
+**Stay tuned for the last *Monsters United*  book release!**
+
+How did the Monsters come together? Stick around for the last animated book release! 
+
+**Monsters United: coming soon**
+
+<b><a href="#top">Back to top</a></b>
+
+### Zecky’s Animated Book Launch! 
+
+![Zecky’s Animated Book Launch image](/images/unsorted/monstersunited/zecky-header1.jpg)
+| [Read Zecky's Book!](#read-zeckys-book) | [D.I.Y. Zecky Mini Book](#diy-zecky-mini-book) |
+
+##### Read Zecky's Book!
+
+**Planet Techy is in trouble!**
+<br>How can Zecky use her inventive spirit to protect her beloved home? Find out by clicking on the image below to read the animated book!<br>
+<center><a href="https://go.gov.sg/zeckybook"><img src="/images/unsorted/monstersunited/zecky-readthebook.png" alt="How Zecky Got Her Spectacles cover" style="width: 100%;"></a></center>
+
+##### D.I.Y. Zecky Mini Book
+
+**Free Printable! Zecky’s Mini Book** *(click on the image to download)*
+
+<a href="/files/zecky-minibook.pdf"><img src="/images/unsorted/monstersunited/zecky-minibook.png" alt="How Zecky got her Spectacles mini book" style="width: 100%;"></a>
+
+Assemble your own adorable mini version of Zecky’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
+
+<b><a href="#top">Back to top</a></b>
+
+
+### Camy’s Animated Book Launch! 
+
+![Camy’s Animated Book Launch image](/images/unsorted/monstersunited/camy-header1.jpg)
+| [Read Camy's Book!](#read-camys-book) | [D.I.Y. Camy Mini Book](#diy-camy-mini-book) |
+
+##### Read Camy's Book!
+
+**Join Camy on her very first quest!**
+<br>Read the animated book by clicking on the image below!<br>
+<center><a href="https://go.gov.sg/camybook"><img src="/images/unsorted/monstersunited/camy-readthebook.png" alt="How Camy Got Her Wand cover" style="width: 100%;"></a></center>
+
+##### D.I.Y. Camy Mini Book
+
+**Free Printable! Camy’s Mini Book** *(click on the image to download)*
+
+<a href="/files/camy-minibook.pdf"><img src="/images/unsorted/monstersunited/camy-minibook.png" alt="How Camy Got Her Wand mini book" style="width: 100%;"></a>
+
+Assemble your own adorable mini version of Camy’s book! Simply download and print the sheet to start. [Watch the instructional video below for tips on putting your mini book together.](#monsters-united-mini-book-instructions)
+
+<b><a href="#top">Back to top</a></b>
+
+### Hutsy’s Animated Book Launch! 
+
+![Hutsy’s Animated Book Launch image](/images/unsorted/monstersunited/hutsy-header1.png)
+| [Read Hutsy's Book!](#read-hutsys-book) | [D.I.Y. Hutsy Mini Book](#diy-hutsy-mini-book) | [Monsters United Mini Book Instructions](#monsters-united-mini-book-instructions) |
+
+
+##### Read Hutsy's Book!
+
+**Join Hutsy on his very first adventure!**<br>
+Read the animated book by clicking on the image below!
+<center><a href="https://go.gov.sg/hutsybook"><img src="/images/unsorted/monstersunited/hutsy-readthebook.png" alt="How Hutsy Got His Hat cover" style="width: 100%;"></a></center>
+
+##### D.I.Y. Hutsy Mini Book
+
+**Free Printable! Hutsy’s Mini Book** *(click on the image to download)*
+
+<a href="/files/hutsy-minibook.PDF"><img src="/images/unsorted/monstersunited/hutsy-minibook.png" alt="How Hutsy Got His Hat book" style="width: 100%;"></a>
+
+Assemble your own adorable mini version of Hutsy’s book! Simply download and print the sheet to start. Watch the instructional video below for tips on putting your mini book together.
+
+##### Monsters United Mini Book Instructions
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/\_bi4xJuiBzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<b><a href="#top">Back to top</a></b>
+
+### Celebrating Hans Christian Andersen!
+![Celebrating HCA image](/images/unsorted/monstersunited/ISOMER-header-HCA.png)
+
+Monsters United is back this April bringing to you a celebration on the life and work of world-renowned author, Hans Christian Andersen! His birthday on 2 April is also celebrated together with International Children's Book Day! <br>
+<br>
+Immerse yourself in Andersen's stories and the fantasy genre through thematic storytelling sessions at our public libraries and online offerings such as special videos, activity packages and a curated book list.<br>
+<br>
+For more trivia, fun facts and book recommendations, follow our Instagram page, [Public Libraries Singapore](https://www.instagram.com/publiclibrarysg/) as well!
+
+#### **Stories and Tales** <br>
+| [Introduction to Hans Christian Andersen](#introduction-to-hca) | [The Emperor's New Clothes](#the-emperors-new-clothes) | [Fantasy Reads](#fantasy-reads) |
+
+#### **DIY Activities** <br>
+| [Activity Packages](#activity-packages) | [STEAM Tinker Sheets](#steam-tinker-sheets) | 
+
+<a name="introduction-to-hca">**Introduction to Hans Christian Andersen**</a> <br>
+Get to know the famous author better, as our librarian Sheena recounts the life and works of Hans Christian Andersen. <br>
+_(Click on the image to watch the video.)_
+
+<a href="https://www.facebook.com/publiclibrarysg/videos/260678475718087/"><img style="width: 60%;" alt="Intro to HCA thumbnail" src="/images/unsorted/monstersunited/HCA-vid-thumbnail.png"></a>
+
+<a name="the-emperors-new-clothes">**The Emperor's New Clothes**</a> <br>
+Join Teen Reading Ambassadors Hannah, Aveen, Jehvesh and James in this dramatised retelling of Andersen's classic tale, "The Emperor's New Clothes". <br>
+_(Click on the image to watch the video.)_
+
+<a href="https://www.facebook.com/350031092062650/videos/275941697452300/"><img style="width: 60%;" alt="HCA storytime thumbnail" src="/images/unsorted/monstersunited/HCA Storytime title card.png"></a>
+
+<a name="fantasy-reads">**Fantasy Reads**</a> <br>
+Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>
+_(Click on the image.)_
+
+<a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.PDF"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
+
+
+<a name="activity-packages">**Activity Packages**</a> <br>
+Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
+_(Click on the images.)_
+
+| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/images/unsorted/monstersunited/HCA-Preschool-Package-compressed.PDF) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/images/unsorted/monstersunited/HCA Prischool-Package-compressed.PDF) 
+
+
+<a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
+Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
+_(Click on the images.)_
+
+| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](/images/unsorted/monstersunited/a-knights-tale-tinker-sheet.PDF) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/images/unsorted/monstersunited/fight-like-a-knight-tinker-sheet.PDF) 
+| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-sheet.PDF) |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](/images/unsorted/monstersunited/tangram-tangle-tinker-sheet.PDF) 
+
+_(Last updated on 8 May 2021)_
+
+<b><a href="#top">Back to top</a></b>
+
+---
+### Rooktober Fest 2020
+![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
+
+Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! <br>
+
+Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
+
+#### **Fun and Games** <br>
+| [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts) |
+
+#### **Stories and Tales** <br>
+| [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads) |
+
+
+<a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
+Use your wits and help the monsters escape a mysterious library!
+_(Click on the image to begin)_
+
+<a href="https://www.opinionstage.com/content-717/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
+
+
+<a name="diy-halloween-wings">**DIY Halloween Wings with Rooky!**</a>  <br>
+Create your very own wings with Rooky in this DIY craft video.
+
+You will need:
+
+* A large piece of fabric
+* Measuring tape
+* Glue
+* A pair of scissors (be sure to use this with adult supervision!)
+* A marker or chalk
+* Some clips
+* A piece of paper and pen/pencil
+* Any other crafts materials for decorations
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/01744B7EH_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Click on the links below to borrow Rooky’s eBook picks:
+
+* [Origami for Children: 50 Marvels Made of Paper](http://go.gov.sg/24q2xj) by Marcelina Grabowska-Piatek
+* [The School Is Alive!](http://go.gov.sg/eh1aky) by Jack Chabert
+* [The Monsters’ Monster](http://go.gov.sg/uoijyc) by Patrick McDonnell
+
+
+<a name="gods-mythologies">**Gods & Mythologies From Around the World**</a>  <br>
+Find out about interesting myths and stories from around the world.  <br>
+_(Click on the image to begin)_
+
+<a href="https://go.gov.sg/nlb-rooktober2020-myths"><img src="/images/unsorted/monstersunited/Gods-and-Myths.png" alt="Gods & myths around the world image" style="width: 60%;"></a>
+
+
+<a name="mythical-creatures">**Mythical Creatures From Around the World**</a> <br>
+Come delve into the wonderful, weird, and sometimes wacky world of monsters. <br>
+_(Click on the image to begin)_
+
+<a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img src="/images/unsorted/monstersunited/Mythical-Creatures.png" alt="Mythical creatures image" style="width: 60%;"></a>
+
+
+<a name="halloween-jokes">**Halloween Jokes to Share!**</a> <br>
+Tickle your funny bone and keep your spirits high with these Halloween-themed jokes.  <br>
+_(Click on the image to begin)_
+
+<a href="https://go.gov.sg/nlb-rooktoberfest2020-jokes"><img src="/images/unsorted/monstersunited/Jokes.png" alt="Halloween jokes image" style="width: 60%;"></a>
+
+
+<a name="halloween-fun-facts">**Fun Facts About “Halloween” From Around the World**</a>  <br>
+Find out more about how “Halloween” is experienced by different cultures around the world.  <br>
+_(Click on the image to begin)_
+
+<a href="https://go.gov.sg/rf-halloweenfacts2020"><img src="/images/unsorted/monstersunited/Fun-Facts.png" alt="Fun facts image" style="width: 60%;"></a>
+
+
+<a name="spooky-ereads">**Rooky’s Spooky eBOOklist**</a> <br>
+We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
+_(Click on the image to begin)_
+
+<a href="/images/unsorted/monstersunited/Rooktober-eBooklist.PDF"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
+
+_(Last updated on 15 October 2020)_
+
+<b><a href="#top">Back to top</a></b>
+
+## **What is Monsters United?**
+
+Monsters United is a quartet of loveable monsters that aims to ignite the joy of reading and learning in children aged 7 to 9. Comprising adventurous Hutsy, fantastical Camy, techy Zecky and spooky Rooky, Monsters United expands children’s reading appetites by introducing them to different genres, and engages children and their communities with library programmes and experiences.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/JPEUMPsFmrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+## **Monsters United Adventure Booklets**
+
+Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
+
+| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
+| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.PDF"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
+
+| **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
+| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
+
+<b><a href="#top">Back to top</a></b>

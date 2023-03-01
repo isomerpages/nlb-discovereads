@@ -10,7 +10,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 Thank you to all Book Bugs fans for the overwhelming support of Book Bugs: Rescuers of Stories Lost in these past ten months!  
   
-~~If you would like to upload and share your original Book Bugs-inspired content, you can continue to do so on the Community Gallery [here](https://go.gov.sg/bookbugs-community).~~ [Update: 1 Mar 2023. The Community Gallery is now closed. Thank you for your participation.]
+~~If you would like to upload and share your original Book Bugs-inspired content, you can continue to do so on the Community Gallery [here](https://go.gov.sg/bookbugs-community).~~ [Update: 1 March 2023. The Community Gallery is now closed. Thank you for your participation.]
 
 For more programmes for children, please visit this [link](https://www.eventbrite.sg/cc/programmes-for-children-66139).
 

@@ -1,6 +1,6 @@
 ---
 title: "Discover Science : Budding Engineers"
-permalink: /budding-engineers
+permalink: /budding-engineers/
 date: 2022-01-19
 layout: post
 description: ""
@@ -252,19 +252,20 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
     </div>
   </div>
  </div>
- <h5>Materials required:</h5>
-  <div class="row is-multiline">
-   <div class="col is-half-tablet padding--bottom--lg">
+ 
+
+<h5>Materials required:</h5>
+ <div class="row is-multiline margin--bottom--lg">
+ <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/magnetic-rockets/magnet10.png" style="width:300px; text-align:left;">
+       <a href="https://go.gov.sg/blastoffwithmagneticrockets-craftsforlearningpackage" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet10-3.jpg" style="width:300px; text-align:left;"></a> 
      </div>
-    </div>
-   <div class="col is-half-tablet padding--bottom--lg">
-    <div class="image">
-      <a href="https://go.gov.sg/blastoffwithmagneticrockets-craftsforlearningpackage" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet10-3.jpg" style="width:300px; text-align:left;"></a> </div>
-  </div>
- </div>
-<p>Click the image (right) to retrieve the instructions on creating the crafts, a Magnet-Powered Rocket and even a Magnetic Magic Wand!</p>
+   </div>
+ <div class="col is-three-fifths">
+<p>Click the image to retrieve the instructions on creating the crafts, a Magnet-Powered Rocket and even a Magnetic Magic Wand!.</p>
+   </div> </div>
+	 
+
 <h5>Instructions</h5>
 <ol>
 	<li>Make your own galaxy using a paper plate and the maze on page 2 from the <a href="https://go.gov.sg/nlbearlyreadbuddingengineersblastoffwithmagneticrocketstemplatesblackandwhite" target="_blank">printable.</a> <br>

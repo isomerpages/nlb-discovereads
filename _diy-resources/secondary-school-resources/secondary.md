@@ -39,13 +39,13 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 
 |***New!* 2021 Reading Interest Profile Booklets**|
 | Lower Secondary | Upper Secondary|
-| <a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
+| </a><a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
 	
 
 |**Reading Interest Profile Quizzes**|
-	| Lower Secondary | Upper Secondary |<br>
+	|Secondary |<br>
 
-| [![Reading interest lower secondary profile image](/images/diyresources/secondary/RIP-LowerSec-2.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-secondary) | [![Reading interest upper primary profile image](/images/diyresources/secondary/UpperSec-RIP-Quiz.png)](https://nlb-childrenandteens.surveysparrow.com/s/RIP-Upper-Secondary/tt-7e3be433d9 ) |
+| [![Reading interest lower secondary profile image](/images/diyresources/secondary/RIP-LowerSec-2.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-secondary) |
 	
 
 |**Past Reading Interest Profile Booklets**|
@@ -119,7 +119,7 @@ Students explore how stories relate to the world around them through a series of
 Sec 1–Sec 2
 <img src="/images/diyresources/secondary/shortstoriesandradioplaysofsrajaratnam.jpg" alt="The short stories and radio plays of s rajaratnam image" style="width: 30%;">
 
-| [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.PDF) | [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-SG-Secondary-S-Rajaratnam_Facil-Guide-edited-1.PDF) |
+| [RRW Secondary Short Stories &amp; Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.PDF) | [RRW Secondary Short Stories &amp; Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-SG-Secondary-S-Rajaratnam_Facil-Guide-edited-1.PDF) |
 
 * Title: [Short Stories and Radio Plays of S. Rajaratnam](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13792223)
 * Author: S. Rajaratnam
@@ -147,9 +147,9 @@ Sec 3–Sec 4
 
 <img src="/images/diyresources/secondary/Words.jpeg" style="width: 30%;">
 
-| [RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.PDF) | [RRW Secondary &Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.PDF) |
+| [RRW Secondary &amp;Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.PDF) | [RRW Secondary &amp;Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.PDF) |
 
-* Title: [&Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13668713)
+* Title: [&amp;Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13668713)
 * Edited by: Edwin Thumboo
 * Call No.: Y SING S821 WOR
 
@@ -216,13 +216,13 @@ Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips t
 Explore the world wide web with these activity sheets from EYEYAH!
 Bonus: Print them out or take a screenshot with your phone to colour the black and white versions in!
 
-| How much e-waste can you spot? (b&w) | How much e-waste can you spot? (colour) |
+| How much e-waste can you spot? (b&amp;w) | How much e-waste can you spot? (colour) |
 | <a href="/images/diyresources/secondary/E-Waste_BW.jpg"><img src="/images/diyresources/secondary/E-Waste_BW-scaled.jpg" alt="ewaste bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/E-Waste_color.jpg"><img src="/images/diyresources/secondary/E-Waste_color-scaled.jpg" alt="ewaste coloured worksheet" style="width: 70%;"></a> |
-| Head in the Clouds (b&w) | Head in the Clouds (colour) | 
+| Head in the Clouds (b&amp;w) | Head in the Clouds (colour) | 
 | <a href="/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg"><img src="/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg" alt="head in the clouds bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/Head-in-the-Clouds_color.jpg"><img src="/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg" alt="head in the clouds coloured worksheet" style="width: 70%;"></a> |
-| Did you know...(b&w) | Did you know...(colour) |
+| Did you know...(b&amp;w) | Did you know...(colour) |
 | <a href="/images/diyresources/secondary/Selfies_BW-scaled.jpg"><img src="/images/diyresources/secondary/Selfies_BW-scaled.jpg" alt="selfies bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/Selfies_color.jpg"><img src="/images/diyresources/secondary/Selfies_color-scaled.jpg" alt="selfies coloured worksheet" style="width: 70%;"></a> |
-| What do you do online? (b&w) | What do you do online? (colour) |
+| What do you do online? (b&amp;w) | What do you do online? (colour) |
 | <a href="/images/diyresources/secondary/What-Do-You-Do-Online_BW.jpg"><img src="/images/diyresources/secondary/What-Do-You-Do-Online_BW-scaled.jpg" alt="what do you do online bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/What-Do-You-Do-Online_color.jpg"><img src="/images/diyresources/secondary/What-Do-You-Do-Online_color-scaled.jpg" alt="what do you do online coloured worksheet" style="width: 70%;"></a> |
 
 The above activity sheets are courtesy of EYEYAH!

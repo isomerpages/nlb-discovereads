@@ -1,6 +1,6 @@
 ---
 title: Foxy Roxy's Quizzes
-permalink: events/bookbugsx/quiz
+permalink: events/bookbugsx/quiz/
 breadcrumb: Foxy Roxy's Quizzes
 collection_name: events
 third_nav_title: Book Bugs X (Archive)

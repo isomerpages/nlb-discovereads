@@ -1,6 +1,6 @@
 ---
 title: Secondary School eBooks (A - D)
-permalink: /ebooks/secondary/sec1-a-d
+permalink: /ebooks/secondary/sec1-a-d/
 image: /images/discovereads/secondary/A Properly Unhaunted Place.jpg
 ---
 

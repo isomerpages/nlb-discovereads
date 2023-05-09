@@ -1,6 +1,6 @@
 ---
 title: Main Page
-permalink: events/bookbugs2/bookbugs-main
+permalink: events/bookbugs2/bookbugs-main/
 breadcrumb: Book Bugs
 collection_name: events
 third_nav_title: Book Bugs II (Archive)

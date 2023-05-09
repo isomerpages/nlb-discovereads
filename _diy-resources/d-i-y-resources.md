@@ -1,6 +1,6 @@
 ---
 title: D.I.Y. Resources
-permalink: /diy-resources/diy-resources-main
+permalink: /diy-resources/diy-resources-main/
 collection_name: diy-resources
 ---
 

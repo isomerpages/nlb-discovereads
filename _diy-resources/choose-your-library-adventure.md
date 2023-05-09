@@ -1,6 +1,6 @@
 ---
 title: Choose Your Library Adventure
-permalink: /diy-resources/cyla
+permalink: /diy-resources/cyla/
 ---
 <img alt="What's The Big Idea" src="/images/diyresources/CYLA Main Banner.png">
 

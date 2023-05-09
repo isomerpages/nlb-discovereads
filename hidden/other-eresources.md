@@ -1,6 +1,6 @@
 ---
 title: Other eResources
-permalink: /other-eresources
+permalink: /other-eresources/
 breadcrumb: Other eResources
 ---
 

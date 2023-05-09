@@ -1,6 +1,6 @@
 ---
 title: ebooks
-permalink: /ebooks/ebook-nav
+permalink: /ebooks/ebook-nav/
 breadcrumb: eBooks
 ---
 

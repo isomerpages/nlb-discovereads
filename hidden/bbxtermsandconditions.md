@@ -1,6 +1,6 @@
 ---
 title: Book Bugs Explorers of Stories Past
-permalink: /events/bookbugsx/termsandconditions
+permalink: /events/bookbugsx/termsandconditions/
 breadcrumb: Book Bugs Explorers of Stories Past T&Cs
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Read With Me (kidsREAD)
-permalink: /readwithme-kidsread
+permalink: /readwithme-kidsread/
 description: ""
 ---
 <img src="/images/events/abookaday/Blue%20Web%20Banner.jpg" style="width:100%">

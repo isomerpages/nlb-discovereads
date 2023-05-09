@@ -1,6 +1,6 @@
 ---
 title: "Episode 3: Everything Yums"
-permalink: /diy-resources/Singapore-Storytellers/Episode-3-Everything-Yums
+permalink: /diy-resources/singapore-storytellers/episode-3-everything-yums/
 description: ""
 third_nav_title: Singapore Storytellers
 ---

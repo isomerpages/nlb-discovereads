@@ -1,6 +1,6 @@
 ---
 title: Chinese Language Services | 华文
-permalink: /chinese-language
+permalink: /chinese-language/
 ---
 |[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#活动信息) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#线上活动)|
 

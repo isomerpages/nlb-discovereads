@@ -1,6 +1,6 @@
 ---
 title: "Tamil Language Services | தமிழ் மொழி "
-permalink: /tamil-language
+permalink: /tamil-language/
 ---
 [![programme information tamil](/images/mother-tongue-services/tamil-icons/Programme%20Information_Tamil.png)](#programme-information)| [![digital offerings tamil](/images/mother-tongue-services/tamil-icons/Digital%20Offerings_Tamil.png)](#digital-offerings) |[![resources tamil](/images/mother-tongue-services/tamil-icons/Resources_Tamil.png)](#resources)|
 [![reading recommendations](/images/mother-tongue-services/tamil-icons/Reading%20Recommendations_Tamil.png)](#reading-recommendations)|[![Contact us tamil](/images/mother-tongue-services/tamil-icons/Contact%20Us_Tamil.png)](#contact-us)

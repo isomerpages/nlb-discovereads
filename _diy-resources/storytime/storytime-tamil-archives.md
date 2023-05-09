@@ -1,6 +1,6 @@
 ---
 title: Storytime Tamil Archives
-permalink: /diy-resources/storytime/storytime-archives-tamil
+permalink: /diy-resources/storytime/storytime-archives-tamil/
 collection_name: diy-resources
 third_nav_title: Storytime
 ---

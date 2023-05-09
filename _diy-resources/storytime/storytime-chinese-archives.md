@@ -1,6 +1,6 @@
 ---
 title: Storytime Chinese Archives
-permalink: /diy-resources/storytime/storytime-archives-chinese
+permalink: /diy-resources/storytime/storytime-archives-chinese/
 collection_name: diy-resources
 third_nav_title: Storytime
 ---

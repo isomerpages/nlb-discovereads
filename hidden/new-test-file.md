@@ -1,6 +1,6 @@
 ---
 title: No Nav Test File
-permalink: /events/bookbugsx/test
+permalink: /events/bookbugsx/test/
 breadcrumb: testing
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: events/bookbugsx/resources
+permalink: events/bookbugsx/resources/
 breadcrumb: Resources
 collection_name: events
 third_nav_title: Book Bugs X (Archive)

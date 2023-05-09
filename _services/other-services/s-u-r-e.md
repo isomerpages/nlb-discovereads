@@ -1,6 +1,6 @@
 ---
 title: S.U.R.E
-permalink: services/other-services/sure
+permalink: services/other-services/sure/
 breadcrumb: S.U.R.E
 collection_name: services
 third_nav_title: Other Services

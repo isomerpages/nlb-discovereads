@@ -1,6 +1,6 @@
 ---
 title: Our FAQs
-permalink: /our-faqs
+permalink: /our-faqs/
 breadcrumb: Our FAQs
 ---
 

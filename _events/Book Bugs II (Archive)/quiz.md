@@ -1,6 +1,6 @@
 ---
 title: Quiz
-permalink: events/bookbugs2/quiz
+permalink: events/bookbugs2/quiz/
 breadcrumb: Quiz
 collection_name: events
 third_nav_title: Book Bugs II (Archive)

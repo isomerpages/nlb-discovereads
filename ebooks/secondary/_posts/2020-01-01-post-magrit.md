@@ -1,6 +1,6 @@
 ---
 title: Magrit
-permalink: /ebooks/secondary/sec1-magrit
+permalink: /ebooks/secondary/sec1-magrit/
 image: /images/discovereads/secondary/Magrit.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Archived Primary Reading Lists
-permalink: /book-recommendations/archives/recommend-primary-archives
+permalink: /book-recommendations/archives/recommend-primary-archives/
 collection_name: book-recommendations
 third_nav_title: Reading Archives
 ---

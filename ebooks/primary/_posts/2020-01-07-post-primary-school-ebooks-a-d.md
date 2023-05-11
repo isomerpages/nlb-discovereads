@@ -1,6 +1,6 @@
 ---
 title: Primary School eBooks (A - D)
-permalink: /ebooks/primary/pri-a-d
+permalink: /ebooks/primary/pri-a-d/
 ---
 
 ## **Book Title**

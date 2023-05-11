@@ -1,6 +1,6 @@
 ---
 title: Tattler's Updates
-permalink: /events/bookbugsx/updates
+permalink: /events/bookbugsx/updates/
 breadcrumb: Tattler's Updates
 collection_name: events
 third_nav_title: Book Bugs X (Archive)

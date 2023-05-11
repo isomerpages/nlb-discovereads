@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secondary 1 eBooks
-permalink: /ebooks/secondary/sec1-sea-witch
+permalink: /ebooks/secondary/sec1-sea-witch/
 ---
 
 

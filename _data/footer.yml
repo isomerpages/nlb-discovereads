@@ -3,16 +3,13 @@ show_reach: false
 privacy_policy: https://www.nlb.gov.sg/PrivacyStatement.aspx
 copyright_agency: National Library Board
 terms_of_use: https://www.nlb.gov.sg/TermsofUse.aspx
-feedback: 
 faq: https://www.ifaq.gov.sg/nlb/apps/fcd_faqmain.aspx
 social_media:
-    facebook: https://www.facebook.com/publiclibrarysg
-    twitter: 
-    youtube: https://www.youtube.com/c/NLBsg
-    instagram: https://www.instagram.com/publiclibrarysg/
-    linkedin: 
+  facebook: https://www.facebook.com/publiclibrarysg
+  youtube: https://www.youtube.com/c/NLBsg
+  instagram: https://www.instagram.com/publiclibrarysg/
 links:
-    - title: Other eResources
-      url: /other-eresources
-    - title: Our FAQs
-      url: /our-faqs
+  - title: Other eResources
+    url: /other-eresources
+  - title: Our FAQs
+    url: /our-faqs

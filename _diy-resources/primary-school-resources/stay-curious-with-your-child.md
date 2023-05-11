@@ -1,6 +1,6 @@
 ---
 title: Stay Curious with Your Child
-permalink: /diy-resources/primary/stay-curious-with-your-child
+permalink: /diy-resources/primary/stay-curious-with-your-child/
 collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---

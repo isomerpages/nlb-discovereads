@@ -1,6 +1,6 @@
 ---
 title: Book Recommendations
-permalink: /book-recommendations/all
+permalink: /book-recommendations/all/
 collection_name: book-recommendations
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Early READ
-permalink: services/earlyread
+permalink: services/earlyread/
 breadcrumb: Early READ
 collection_name: services
 ---

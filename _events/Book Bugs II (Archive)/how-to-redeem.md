@@ -1,6 +1,6 @@
 ---
 title: How to Redeem
-permalink: events/bookbugs2/how-to-redeem
+permalink: events/bookbugs2/how-to-redeem/
 breadcrumb: How to Redeem
 collection_name: events
 third_nav_title: Book Bugs II (Archive)

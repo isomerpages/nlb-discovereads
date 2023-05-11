@@ -1,6 +1,6 @@
 ---
 title: "Episode 2: School's Cool"
-permalink: /diy-resources/Singapore-Storytellers/Episode-2-Schools-Cool
+permalink: /diy-resources/singapore-storytellers/episode-2-schools-cool/
 description: ""
 third_nav_title: Singapore Storytellers
 ---

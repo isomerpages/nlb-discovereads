@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: discoveReads - NLB Children & Teens Services
-description: discoveReads - NLB Children & Teens Services
-image: /images/drlogo.png
+title: NLB Children & Teens Services
+description: Discover new books and resources that will bring out the avid reader in you!
+image: /images/isomer-logo.svg
 permalink: /
 notification: null
 sections:
@@ -49,8 +49,8 @@ sections:
       alt: Holiday specials image
   - infobar:
       title: Mother Tongue Language Services
-      description: "Explore programmes, recommended reads and book-related activities
-        in the various Mother Tongue  languages. "
+      description: Explore programmes, recommended reads and book-related activities
+        in the various Mother Tongue  languages.
       button: Read more!
       url: /services/other-services/mother-tongue-language-services/
 ---

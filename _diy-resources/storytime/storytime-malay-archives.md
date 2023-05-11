@@ -1,6 +1,6 @@
 ---
 title: Storytime Malay Archives
-permalink: /diy-resources/storytime/storytime-archives-malay
+permalink: /diy-resources/storytime/storytime-archives-malay/
 collection_name: diy-resources
 third_nav_title: Storytime
 ---

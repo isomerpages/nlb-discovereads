@@ -1,6 +1,6 @@
 ---
 title: "Episode 4: Let's Go Places"
-permalink: /diy-resources/Singapore-Storytellers/Episode-4-Lets-Go-Places
+permalink: /diy-resources/singapore-storytellers/episode-4-lets-go-places/
 description: ""
 third_nav_title: Singapore Storytellers
 ---

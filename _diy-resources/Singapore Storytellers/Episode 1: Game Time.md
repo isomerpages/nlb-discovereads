@@ -1,6 +1,6 @@
 ---
 title: "Episode 1: Game Time"
-permalink: /diy-resources/Singapore-Storytellers/Game-Time
+permalink: /diy-resources/singapore-storytellers/game-time/
 description: ""
 third_nav_title: Singapore Storytellers
 ---

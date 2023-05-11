@@ -1,6 +1,6 @@
 ---
 title: Early Literacy Practices (Sing)
-permalink: /earlylit-sing
+permalink: /earlylit-sing/
 ---
 | [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) | 
 

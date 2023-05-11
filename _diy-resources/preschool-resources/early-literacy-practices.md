@@ -1,6 +1,6 @@
 ---
 title: Early Literacy Practices
-permalink: /diy-resources/preschool/preschool-main
+permalink: /diy-resources/preschool/preschool-main/
 collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---

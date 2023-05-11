@@ -1,6 +1,6 @@
 ---
 title: Read With Me (Preschools)
-permalink: /readwithme-preschools
+permalink: /readwithme-preschools/
 description: ""
 ---
 <img src="/images/events/abookaday/Blue%20Web%20Banner.jpg" style="width:100%">

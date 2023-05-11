@@ -1,6 +1,6 @@
 ---
 title: The Time Travelling Trio
-permalink: /diy-resources/Singapore-Storytellers/The-Time-Travelling-Trio
+permalink: /diy-resources/singapore-storytellers/the-time-travelling-trio/
 description: ""
 third_nav_title: Singapore Storytellers
 ---

@@ -404,10 +404,10 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 <h4>LET'S LEARN!</h4>
 <h5> Cultured Meat</h5>
 
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-6.png" style="width:400px; text-align:left;">
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-6.png" style="width:500px; text-align:left;">
 
 <p> How is meat grown in labs? </p>
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-7.png" style="width:400px; text-align:left;">
+<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-7.png" style="width:500px; text-align:left;">
 <h5> Insects </h5>
 <p> Insects are rich in protein, require less resources to raise and emit fewer greenhouse gases compared to livestock. </p>
   <div class="row is-multiline">

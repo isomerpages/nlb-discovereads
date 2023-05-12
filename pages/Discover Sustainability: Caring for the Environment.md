@@ -403,11 +403,15 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 
 <h4>LET'S LEARN!</h4>
 <h5> Cultured Meat</h5>
+<ul>
+  <p>Cultured meat is grown in labs from an animal cell</p>
 
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-6.png" style="width:500px; text-align:left;">
-
-<p> How is meat grown in labs? </p>
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-7.png" style="width:500px; text-align:left;">
+<b> How is meat grown in labs? </b>
+<li>Extract an animal's stem cell. The animal is not hurt in the process.</li>
+	<li>Cells are grown in the bioreactor.</li>
+<li>Cells grow and form a meat.</li>
+<li>Meat is harvested.</li>
+	
 <h5> Insects </h5>
 <p> Insects are rich in protein, require less resources to raise and emit fewer greenhouse gases compared to livestock. </p>
   <div class="row is-multiline">
@@ -428,7 +432,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
   <li>Given the chance, would you try any of these alternative proteins? Why or why not?</li>
 	<li>How else can we make sustainable food choices in our everyday lives? </li>
 </ul>
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-10.png" style="width:400px; text-align:left;">
+
 
 <h4>LET'S PLAY!</h4>
 <h5>Scavenger Hunt at the Grocery Store!</h5>
@@ -654,4 +658,4 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 
 
 	
-  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></ul>

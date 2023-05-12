@@ -406,7 +406,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 <ul>
   <p>Cultured meat is grown in labs from an animal cell</p>
 
-<b> How is meat grown in labs? </b>
+<p> How is meat grown in labs? </p>
 <li>Extract an animal's stem cell. The animal is not hurt in the process.</li>
 	<li>Cells are grown in the bioreactor.</li>
 <li>Cells grow and form a meat.</li>

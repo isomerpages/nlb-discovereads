@@ -5,7 +5,7 @@ description: ""
 ---
 ![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
 
-|  <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a> | New!\* <a href="#lp-urbanhome">Urban Farming - Farm to Table</a>
+|&nbsp; <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a> | New!\* <a href="#lp-urbanhome">Urban Farming - Farm to Table</a>
 
 <h3 class="margin--bottom--lg" id="lp-urbanhome"><b>Urban Farming - Farm to Table</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
@@ -27,7 +27,7 @@ description: ""
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
-    <div class="image"><a href="https://www.youtube.com/watch?v=K1XbEpNZ5yk&feature=youtu.be" target="_blank">
+    <div class="image"><a href="https://www.youtube.com/watch?v=K1XbEpNZ5yk&amp;feature=youtu.be" target="_blank">
        <img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban7.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
@@ -74,7 +74,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202507358" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban3.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202507358" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban3.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>On the Farm, At the Market</b><br>
@@ -84,12 +84,12 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204336147" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban4.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204336147" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban4.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>In a Garden</b><br>
         <u>Author:</u> Tim McCanna <br>
-        <u>Publisher:</u> New York: Simon & Schuster Books for Young Readers, 2020 <br>
+        <u>Publisher:</u> New York: Simon &amp; Schuster Books for Young Readers, 2020 <br>
      </p></div>
   </div>
  </div>
@@ -156,7 +156,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205705299" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus4.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205705299" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus4.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Green Home: a First Eco Book</b><br>
@@ -166,11 +166,11 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205706209" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus5.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205706209" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus5.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Somebody Crunched Colin</b><br>
-        <u>Author:</u> Sarah Roberts & Hannah Jayne Lewin <br>
+        <u>Author:</u> Sarah Roberts &amp; Hannah Jayne Lewin <br>
         <u>Publisher:</u> London: Scholastic, 2022<br>
      </p></div>
   </div>
@@ -308,21 +308,21 @@ One of the most common plants you can try growing at home is mint. You can use t
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202805060" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Old%20Manhattan%20Has%20Some%20Farms.jpeg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202805060" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Old%20Manhattan%20Has%20Some%20Farms.jpeg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Old Manhattan Has Some Farms</b><br>
-       <u>Author:</u> Susan Lendroth & Kate Endle (Illustrator)<br>
+       <u>Author:</u> Susan Lendroth &amp; Kate Endle (Illustrator)<br>
        <u>Publisher:</u> Watertown, MA : Charlesbridge, 2017.<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203829646" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Right%20This%20Very%20Minute-%20A%20Table-to-Farm%20Book%20About%20Food%20and%20Farming.jpeg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203829646" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Right%20This%20Very%20Minute-%20A%20Table-to-Farm%20Book%20About%20Food%20and%20Farming.jpeg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Right This Very Minute: A Table-to-Farm Book About Food and Farming</b><br>
-        <u>Author:</u> Lisl H. Detlefsen  & Renee Kurilla (Illustrator)<br>
+        <u>Author:</u> Lisl H. Detlefsen  &amp; Renee Kurilla (Illustrator)<br>
         <u>Publisher:</u> Washington, D.C. : Feeding Minds Press, American Farm Bureau Foundation for Agriculture, [2019]<br>
      </p></div>
   </div>
@@ -330,11 +330,11 @@ One of the most common plants you can try growing at home is mint. You can use t
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204371397" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Growing%20Kitchen%20Scraps.jpeg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204371397" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Growing%20Kitchen%20Scraps.jpeg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Growing Kitchen Scraps</b><br>
-       <u>Author:</u> Nur'afifah Binte Mohd Hussain & Shakina Razale (Illustrator)<br>
+       <u>Author:</u> Nur'afifah Binte Mohd Hussain &amp; Shakina Razale (Illustrator)<br>
        <u>Publisher:</u> 
 Singapore : Yaa Bunayya SG, [2020]<br>
        </p></div>
@@ -403,12 +403,15 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 
 <h4>LET'S LEARN!</h4>
 <h5> Cultured Meat</h5>
-
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-6.png" style="width:400px; text-align:left;">
+<ul>
+  <p>Cultured meat is grown in labs from an animal cell</p>
 
 <p> How is meat grown in labs? </p>
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-7.png" style="width:400px; text-align:left;">
-
+<li>Extract an animal's stem cell. The animal is not hurt in the process.</li>
+	<li>Cells are grown in the bioreactor.</li>
+<li>Cells grow and form a meat.</li>
+<li>Meat is harvested.</li>
+	
 <h5> Insects </h5>
 <p> Insects are rich in protein, require less resources to raise and emit fewer greenhouse gases compared to livestock. </p>
   <div class="row is-multiline">
@@ -429,7 +432,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
   <li>Given the chance, would you try any of these alternative proteins? Why or why not?</li>
 	<li>How else can we make sustainable food choices in our everyday lives? </li>
 </ul>
-<img src="images/Sustainability%20Lfa/Sustainable%20foods/protein-10.png" style="width:400px; text-align:left;">
+
 
 <h4>LET'S PLAY!</h4>
 <h5>Scavenger Hunt at the Grocery Store!</h5>
@@ -455,7 +458,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204409720" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-1.jpeg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204409720" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-1.jpeg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Science You Can Eat</b><br>
@@ -465,7 +468,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205251752" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-2.jpeg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205251752" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-2.jpeg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Our Little Kitchen</b><br>
@@ -477,7 +480,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203784216" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-3.jpeg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203784216" target="_blank"><img src="/images/Sustainability%20Lfa/Sustainable%20foods/book-3.jpeg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Is It Wrong to Eat Meat?</b><br>
@@ -619,21 +622,21 @@ One of the most common plants you can try growing at home is mint. You can use t
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202805060" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Old%20Manhattan%20Has%20Some%20Farms.jpeg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202805060" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Old%20Manhattan%20Has%20Some%20Farms.jpeg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Old Manhattan Has Some Farms</b><br>
-       <u>Author:</u> Susan Lendroth & Kate Endle (Illustrator)<br>
+       <u>Author:</u> Susan Lendroth &amp; Kate Endle (Illustrator)<br>
        <u>Publisher:</u> Watertown, MA : Charlesbridge, 2017.<br>
     </p></div>
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203829646" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Right%20This%20Very%20Minute-%20A%20Table-to-Farm%20Book%20About%20Food%20and%20Farming.jpeg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203829646" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Right%20This%20Very%20Minute-%20A%20Table-to-Farm%20Book%20About%20Food%20and%20Farming.jpeg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Right This Very Minute: A Table-to-Farm Book About Food and Farming</b><br>
-        <u>Author:</u> Lisl H. Detlefsen  & Renee Kurilla (Illustrator)<br>
+        <u>Author:</u> Lisl H. Detlefsen  &amp; Renee Kurilla (Illustrator)<br>
         <u>Publisher:</u> Washington, D.C. : Feeding Minds Press, American Farm Bureau Foundation for Agriculture, [2019]<br>
      </p></div>
   </div>
@@ -641,11 +644,11 @@ One of the most common plants you can try growing at home is mint. You can use t
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204371397" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Growing%20Kitchen%20Scraps.jpeg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204371397" target="_blank"><img src="/images/Sustainability%20Lfa/UrbanFarm/Growing%20Kitchen%20Scraps.jpeg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Growing Kitchen Scraps</b><br>
-       <u>Author:</u> Nur'afifah Binte Mohd Hussain & Shakina Razale (Illustrator)<br>
+       <u>Author:</u> Nur'afifah Binte Mohd Hussain &amp; Shakina Razale (Illustrator)<br>
        <u>Publisher:</u> 
 Singapore : Yaa Bunayya SG, [2020]<br>
        </p></div>
@@ -655,4 +658,4 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 
 
 	
-  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
+  <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p></ul>

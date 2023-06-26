@@ -4,7 +4,6 @@ permalink: services/readatschool/
 breadcrumb: Read@School
 collection_name: services
 ---
-
 ## **Read@School**
 
 ### **About**
@@ -31,5 +30,4 @@ If  you’d like to bring these programmes to your school, [contact us](https://
 
 Refer to the brochure for all Read@School related services:
 
-![Read@School services image](/images/events/informationsession/FA_NLB-Info-Sessions-2020-Brochures_EDM-scaled.jpg)
-
+<img src="/images/InfoSessionE-BrochureEdited.jpg">

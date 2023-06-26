@@ -4,7 +4,6 @@ permalink: services/readatschool/
 breadcrumb: Read@School
 collection_name: services
 ---
-
 ## **Read@School**
 
 ### **About**
@@ -21,15 +20,13 @@ Read@School is an initiative by the National Library Board (NLB) to promote read
 
 ### **Get In Touch**
 
-If  you’d like to bring these programmes to your school, [contact us](https://www.nlb.gov.sg/ContactUs.aspx) today!*
+If  you’d like to bring these programmes to your school, [contact us](https://www.nlb.gov.sg/main/Contact-NLB) today!*
 
 * Storytelling (P1-P3)
 * Book Buzz (All levels)
-* Books2Go (P1-P6)
 * Raising Readers’ Workshop (For parents and educators)
 * DIY resources ([Primary](/diy-resources/primary/primary-main) / [Secondary](/diy-resources/secondary/secondary-main))
 
 Refer to the brochure for all Read@School related services:
 
-![Read@School services image](/images/events/informationsession/FA_NLB-Info-Sessions-2020-Brochures_EDM-scaled.jpg)
-
+<img src="/images/InfoSessionE-BrochureEdited.jpg">

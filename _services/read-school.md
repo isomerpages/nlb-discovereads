@@ -20,7 +20,7 @@ Read@School is an initiative by the National Library Board (NLB) to promote read
 
 ### **Get In Touch**
 
-If  you’d like to bring these programmes to your school, [contact us](https://www.nlb.gov.sg/ContactUs.aspx) today!*
+If  you’d like to bring these programmes to your school, [contact us](https://www.nlb.gov.sg/main/Contact-NLB) today!*
 
 * Storytelling (P1-P3)
 * Book Buzz (All levels)

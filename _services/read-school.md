@@ -24,7 +24,6 @@ If  you’d like to bring these programmes to your school, [contact us](https://
 
 * Storytelling (P1-P3)
 * Book Buzz (All levels)
-* Books2Go (P1-P6)
 * Raising Readers’ Workshop (For parents and educators)
 * DIY resources ([Primary](/diy-resources/primary/primary-main) / [Secondary](/diy-resources/secondary/secondary-main))
 

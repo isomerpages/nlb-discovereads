@@ -14,7 +14,7 @@ third_nav_title: Programmes
 ### Monsters United Animated Book Launch!
 
 ![Monsters United Animated Book Launch image](/images/unsorted/monstersunited/final-header1.jpg)
-| [Read the Book!](#read-the-book) | [Attend Monsters United Storytelling and Craft Sessions](#attend-monsters-united-storytelling-and-craft-sessions) | [Discover Monsters Mayhem!](#discover-monsters-mayhem) | [D.I.Y. Monsters United Mini Book](#diy-monsters-united-mini-book) |
+| [Read the Book!](#read-the-book) | [D.I.Y. Monsters United Mini Book](#diy-monsters-united-mini-book) |
 
 ##### Read the Book!
 
@@ -22,44 +22,6 @@ third_nav_title: Programmes
 <br>Hutsy, Camy, Zecky, and Rooky were brought together by a mysterious force! Why were they chosen, and what was their new mission? Find out by clicking on the image below to read the animated book!<br>
 
 <center><a href="https://go.gov.sg/monstersfinalbook"><img src="/images/unsorted/monstersunited/final-readthebook.jpg" alt="How the Monsters Found Each Other cover" style="width: 100%;"></a></center>
-
-##### Attend Monsters United Storytelling and Craft Sessions
-
-For the whole of June, visit these public libraries and attend Monsters United exclusive storytelling and craft sessions! [Click here for more information](https://www.eventbrite.sg/d/singapore--singapore/%23monstersunited/).
-
-
-| Library | Date, Time, and Venue |
-| -------- | -------- |
-| Cheng San Public Library | 3 Jun 2023, 2.00pm – 3.00pm, Activity Room |
-| Toa Payoh Public Library | 4 Jun 2023, 11.00am – 12.00pm, Programme Zone Level 3 |
-| Woodlands Regional Library | 9 Jun 2023, 4.30pm – 5.30pm, Programme Zone Level 1 |
-| Sembawang Public Library | 10 Jun 2023, 4.30pm – 5.30pm, Programme Zone |
-| Queenstown Public Library | 11 Jun 2023, 12.00pm – 1.00pm, Programme Zone |
-| Clementi Public Library | 12 Jun 2023, 3.00pm – 4.00pm, Programme Zone |
-| Pasir Ris Public Library | 14 Jun 2023, 3.00pm – 4.00pm, Programme Zone |
-| Choa Chu Kang Public Library | 14 Jun 2023, 4.30pm – 5.30pm, Programme Room 1 |
-| Sengkang Public Library | 16 Jun 2023, 11.30am – 12.30pm, Programme Zone |
-| Serangoon Public Library | 16 Jun 2023, 2.30pm – 3.30pm, Programme Zone |
-| Bukit Panjang Public Library | 16 Jun 2023, 4.30pm – 5.30pm, Stories Come Alive Room |
-| Bishan Public Library | 17 Jun 2023, 11.00am – 12.00pm, Activity Room |
-| Jurong Regional Library | 17 Jun 2023, 12.00pm – 1.00pm, Programme Zone Level 1 |
-| Yishun Public Library | 18 Jun 2023, 11.30am – 12.30pm, Programme Zone |
-| library@harbourfront | 18 Jun 2023, 3.00pm – 4.00pm, Stories Come Alive Room |
-| Geylang East Public Library | 19 Jun 2023, 3.30pm – 4.30pm, Activity Room Level 1 |
-| Jurong West Public Library | 20 Jun 2023, 2.30pm – 3.30pm, Programme Zone |
-| Bedok Public Library | 20 Jun 2023, 3.00pm – 4.00pm, Programme Zone |
-| Tampines Regional Library | 23 Jun 2023, 3.00pm – 4.00pm, Programme Zone Level 6 |
-|**Punggol Regional Library (Mascot Meet-and-Greet Special Event)**| **24 Jun 2023, 11.00am – 12:30pm and 2.00pm – 3:30pm, Stories Come Alive Room, Level 1**|
-| Bukit Batok Public Library | 24 Jun 2023, 12.00pm – 1.00pm, Activity Room |
-| Ang Mo Kio Public Library | 27 Jun 2023, 3.00pm – 4.00pm, Activity Room |
-
-#### Discover Monsters Mayhem!
-
-<center><img src="/images/unsorted/monstersunited/monsters-mayhem.jpg" alt="Monsters Mayhem header" style="width: 100%;"></center>
-
-Solve Monsters Mayhem this June! Find and figure out the three mini puzzles hidden around the Children's Section in our public libraries (except for library@orchard, library@chinatown and library@esplanade). **Borrow 4 (or more) books and redeem tokens at selected public libraries! Tokens will be randomised and available while stocks last.**
-
-Scan any of the QR codes on the puzzles to key in your answers once you have all three answers. Happy solving!
 
 ##### D.I.Y. Monsters United Mini Book
 

@@ -161,15 +161,15 @@ _(Click on the image.)_
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
-| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/files/hca preschool.pdf) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/files/hca prischool.pdf) 
+[Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)][(/files/hca preschool.pdf)] | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)][(/files/hca prischool.pdf)] 
 
-
+[](/files/hca%20preschool.pdf)
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)](/file/nlb_tinker trucks - a knight's tale.PDF) | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)](/files/nlb_tinker sheet - fight like a knight.PDF) 
-| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)](/files/nlb_tinker sheet - find the enchanted path.PDF) |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)](/files/nlb_tinker sheet - tangram tangle.PDF) 
+| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)][(/files/nlb-tinker-trucks-a-knights-tale.pdf)] | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)][(/nlb-tinker-sheet-fight-like-a-knight.pdf)] 
+| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)][(/files/nlb-tinker-sheet-find-the-enchanted-path.pdf)] |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)][(/files/nlb-tinker-sheet-tangram-tangle.pdf)] 
 
 _(Last updated on 8 May 2021)_
 
@@ -252,7 +252,7 @@ _(Click on the image to begin)_
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
-<a href="/images/unsorted/monstersunited/Rooktober-eBooklist.PDF"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
+<a href="/files/rooktober ebooklist v3_compressed1.PDF"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
 
 _(Last updated on 15 October 2020)_
 
@@ -269,9 +269,9 @@ Monsters United is a quartet of loveable monsters that aims to ignite the joy of
 Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.PDF"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
+| <a href="/files/nlb-zecky-puzzle-notebook.PDF"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="https://go.gov.sg/nlb-rooky-puzzle-notebook"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.PDF"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
+| <a href="https://go.gov.sg/nlb-camy-puzzle-notebook"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/files/nlb-hutsy-puzzle-notebook.PDF"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
 <b><a href="#top">Back to top</a></b>

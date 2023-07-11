@@ -154,23 +154,20 @@ _(Click on the image to watch the video.)_
 Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>
 _(Click on the image.)_
 
-<a href="/files/hca booklist.pdf"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
+<a href="/files/hca-booklist.pdf"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
 
 
 <a name="activity-packages">**Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
-[Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)][(/files/hca preschool.pdf)] | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)][(/files/hca prischool.pdf)] 
+| <a href="/files/hca-preschool.pdf"><img src="/images/unsorted/monstersunited/HCA-Preschool-cover.png" alt="HCA-preschool" style="width: 100%;"></a> | <a href="/files/hca-prischool.pdf"><img src="/images/unsorted/monstersunited/HCA-Prischool-cover.png" alt="HCA-prischool" style="width: 100%;"></a> |
 
-[](/files/hca%20preschool.pdf)
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-
-| [!\[A Knight's Tale\](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)\](/files/nlb-tinker-trucks-a-knights-tale.PDF)\] | \[!\[Fight like a Knight image\](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)\](/nlb-tinker-sheet-fight-like-a-knight.PDF)
-| \[!\[Find the Enchanted Path\](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)\](/files/nlb-tinker-sheet-find-the-enchanted-path.PDF) |&nbsp; \[!\[Tangram Tangle\](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)\]\[(/files/nlb-tinker-sheet-tangram-tangle.PDF)
+|<a href="”/files/nlb-tinker-trucks-a-knights-tale.PDF”"><img src="/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG" alt="knightstale" style="width: 100%;"></a>|<a href="”/files/nlb-tinker-sheet-fight-like-a-knight.PDF”"><img src="/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG" alt="fightknight" style="width: 100%;"></a>|<a href="”/files/nlb-tinker-sheet-find-the-enchanted-path.PDF”"><img src="/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG" alt="enchanted" style="width: 100%;"></a>|<a href="”/files/nlb-tinker-sheet-tangram-tangle.PDF”"><img src="/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG" alt="tangram" style="width: 100%;"></a>| 
 
 _(Last updated on 8 May 2021)_
 

@@ -154,14 +154,14 @@ _(Click on the image to watch the video.)_
 Check out this curated collection of English and Mother Tongue fairy tale titles to discover Andersen's magical worlds! <br>
 _(Click on the image.)_
 
-<a href="/images/unsorted/monstersunited/HCA-Booklist-compressed.PDF"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
+<a href="/files/hca booklist.pdfd.PDF"><img style="width: 60%;" alt="Fantasy eReads" src="/images/unsorted/monstersunited/HCA-Booklist-cover.png"></a>
 
 
 <a name="activity-packages">**Activity Packages**</a> <br>
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
-| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/images/unsorted/monstersunited/HCA-Preschool-Package-compressed.PDF) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/images/unsorted/monstersunited/HCA Prischool-Package-compressed.PDF) 
+| [![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/files/hca preschool.pdf) | [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)](/files/hca prischool.pdf) 
 
 
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>

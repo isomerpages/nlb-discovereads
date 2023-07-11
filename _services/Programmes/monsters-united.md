@@ -161,9 +161,8 @@ _(Click on the image.)_
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
-[![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/files/hca-preschool.pdf)| [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)][(/files/hca-prischool.pdf)
+| <a href="”/files/hca-preschool.pdf”"> "&gt;<img src="/images/unsorted/monstersunited/HCA-Preschool-cover.png" alt="HCA-preschool" style="width: 100%;"></a> | <a href="”/files/hca-prischool.PDF”"> "&gt;<img src="/images/unsorted/monstersunited/HCA-Prischool-cover.png" alt="HCA-prischool" style="width: 100%;"></a> |
 
-[](/files/hca%20preschool.pdf)
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_

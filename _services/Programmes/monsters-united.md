@@ -161,7 +161,7 @@ _(Click on the image.)_
 Take a deep dive into Andersen's famous stories through our activity packages containing fun lesson guides! <br>
 _(Click on the images.)_
 
-[Preschool Package image][(/images/unsorted/monstersunited/HCA-Preschool-cover.png)(/files/hca-preschool.pdf)]| [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)][(/files/hca-prischool.pdf)] 
+[![Preschool Package image](/images/unsorted/monstersunited/HCA-Preschool-cover.png)](/files/hca-preschool.pdf)| [![Prischool Package image](/images/unsorted/monstersunited/HCA-Prischool-cover.png)][(/files/hca-prischool.pdf)
 
 [](/files/hca%20preschool.pdf)
 <a name="steam-tinker-sheets">**STEAM Tinker Sheets**</a> <br>

@@ -168,8 +168,9 @@ _(Click on the images.)_
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-| [![A Knight's Tale](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)][(/files/nlb-tinker-trucks-a-knights-tale.pdf)] | [![Fight like a Knight](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)][(/nlb-tinker-sheet-fight-like-a-knight.pdf)] 
-| [![Find the Enchanted Path](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)][(/files/nlb-tinker-sheet-find-the-enchanted-path.pdf)] |  [![Tangram Tangle](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)][(/files/nlb-tinker-sheet-tangram-tangle.pdf)] 
+
+| [!\[A Knight's Tale\](/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG)\](/files/nlb-tinker-trucks-a-knights-tale.PDF)\] | \[!\[Fight like a Knight image\](/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG)\](/nlb-tinker-sheet-fight-like-a-knight.PDF)
+| \[!\[Find the Enchanted Path\](/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG)\](/files/nlb-tinker-sheet-find-the-enchanted-path.PDF) |&nbsp; \[!\[Tangram Tangle\](/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG)\]\[(/files/nlb-tinker-sheet-tangram-tangle.PDF)
 
 _(Last updated on 8 May 2021)_
 

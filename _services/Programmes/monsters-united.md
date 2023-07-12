@@ -168,9 +168,9 @@ _(Click on the images.)_
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-|<a href="https://go.gov.sg/aknightstale"><img src="/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG" alt="knightstale" style="width: 100%;"></a>|<a href="https://go.gov.sg/fightlikeaknight"><img src="/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG" alt="fightknight" style="width: 100%;"></a>|
+|<a href="https://go.gov.sg/aknightstale"><img src="/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG" alt="knightstale" style="width: 100%;"></a> | <a href="https://go.gov.sg/fightlikeaknight"><img src="/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG" alt="fightknight" style="width: 100%;"></a> | 
 
-|<a href="https://go.gov.sg/enchantedpath"><img src="/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG" alt="enchanted" style="width: 100%;"></a>|<a href="https://go.gov.sg/tangramtangle"><img src="/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG" alt="tangram" style="width: 100%;"></a>| 
+|<a href="https://go.gov.sg/enchantedpath"><img src="/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG" alt="enchanted" style="width: 100%;"></a> | <a href="https://go.gov.sg/tangramtangle"><img src="/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG" alt="tangram" style="width: 100%;"></a>| 
 
 _(Last updated on 8 May 2021)_
 

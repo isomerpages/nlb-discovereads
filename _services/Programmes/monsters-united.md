@@ -168,7 +168,9 @@ _(Click on the images.)_
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these printable activities featuring Camy, our fantasy-loving monster! <br>
 _(Click on the images.)_
 
-|<a href="”/files/nlb-tinker-trucks-a-knights-tale.PDF”"><img src="/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG" alt="knightstale" style="width: 100%;"></a>|<a href="”/files/nlb-tinker-sheet-fight-like-a-knight.PDF”"><img src="/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG" alt="fightknight" style="width: 100%;"></a>|<a href="”/files/nlb-tinker-sheet-find-the-enchanted-path.PDF”"><img src="/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG" alt="enchanted" style="width: 100%;"></a>|<a href="”/files/nlb-tinker-sheet-tangram-tangle.PDF”"><img src="/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG" alt="tangram" style="width: 100%;"></a>| 
+|<a href="/files/nlb-tinker-trucks-a-knights-tale.PDF"><img src="/images/unsorted/monstersunited/a knights-tale-tinker-truck-img.JPG" alt="knightstale" style="width: 100%;"></a>|<a href="/files/nlb-tinker-sheet-fight-like-a-knight.PDF"><img src="/images/unsorted/monstersunited/fight-like-a-knight-tinker-truck-img.JPG" alt="fightknight" style="width: 100%;"></a>|
+
+|<a href="/files/nlb-tinker-sheet-find-the-enchanted-path.PDF"><img src="/images/unsorted/monstersunited/find-the-enchanted-path-tinker-truck-img.JPG" alt="enchanted" style="width: 100%;"></a>|<a href="/files/nlb-tinker-sheet-tangram-tangle.PDF"><img src="/images/unsorted/monstersunited/tangram-tangle-tinker-truck-img.JPG" alt="tangram" style="width: 100%;"></a>| 
 
 _(Last updated on 8 May 2021)_
 
@@ -251,7 +253,7 @@ _(Click on the image to begin)_
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
-<a href="/files/rooktober ebooklist v3_compressed1.PDF"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
+<a href="/files/rooktober_ebooklist_v3_compressed1.PDF"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
 
 _(Last updated on 15 October 2020)_
 

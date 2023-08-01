@@ -746,12 +746,6 @@ Here are 3 websites that provide great Print-and-Play boardgames:
 <a href="https://www.pnparcade.com/collections/free-games"><img src="/images/diyresources/secondary/tt-pnpsite2.png" alt="PNP Arcade screenshot" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: <a href="https://www.pnparcade.com/collections/free-games">PNP Arcade</a>.</sup></p>
 
-**3) goodlittlegames**<br>
-Similar to PNP Arcade, [goodlittlegames](http://www.goodlittlegames.co.uk/index.htm) is a website that features boardgames created by independent developers. So far they have a small collection of 16 games, but all are free to print and play!
-
-<a href="http://www.goodlittlegames.co.uk/index.html"><img src="/images/diyresources/secondary/tt-pnpsite3.png" alt="goodlittlegames screenshot" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>Source: <a href="http://www.goodlittlegames.co.uk/index.html">goodlittlegames</a>.</sup></p>
-
 **Game on! Take it to the next level with these books!**
  
 <a href="https://nlb.overdrive.com/media/4501170"><img src="/images/diyresources/secondary/tt-pnp-book1.jpg" alt="The Everything Tabletop Games Book cover" style="width: 30%;"></a><br>
@@ -814,11 +808,6 @@ If you’re hesitant to take care of real plants, why not try your hand at virtu
 
 <a href="https://www.nationalgeographic.org/interactive/top-crop/"><img src="/images/diyresources/secondary/tt-uf-topcrop.png" alt="National Geographic, Top Crop" style="width: 90%;"></a>
 <p style="text-align: center;"><sup>Image source: <a href="https://www.nationalgeographic.org/interactive/top-crop/">Top Crop, an interactive game by National Geographic</a>.</sup></p>
-
-Of course, the best place to go for advice on farming is to those with experience themselves. Why not stop by one of Singapore’s farms with your friends and have a chat with an urban farmer or even attend a masterclass on organic farming? Head down to one of Singapore’s best farms as listed in TimeOut’s article:
-
-<a href="https://www.timeout.com/singapore/things-to-do/best-farms-in-singapore/"><img src="/images/diyresources/secondary/tt-uf-farms.png" alt="TimeOut article of the best farms in Singapore" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>Image source: <a href="https://www.timeout.com/singapore/things-to-do/best-farms-in-singapore/">"9 Best Farms in Singapore to Visit", TimeOut Singapore</a>.</sup></p>
 
 Finally, check out some of these great reads for more tips and inspiration on growing your own food or starting your own sustainable farming system!
 
@@ -970,9 +959,6 @@ Try this out and tag us at @publiclibrarysg with #librarysg.
 Source: [DIY NO Sew T-Shirt Bag (SO Easy!!), WhatsUpMoms](https://www.youtube.com/watch?v=zgpaM3u2zng&ab_channel=WhatsUpMoms)
 
 **Useful terms**<br>
-<img src="/images/diyresources/secondary/tt-g-fast-fashion.png" alt="Fast fashion refers to the trendy and inexpensive clothing that is manufactured and sold on a mass scale. This practice may be harmful to the environment at many stages." style="width: 70%;">
-
-Adapted from “[What Is Fast Fashion, Anyway?](https://www.todayonline.com/commentary/why-we-need-curb-wastefulness-fast-fashion.)” Today Online, 29 January 2019.
 
 <img src="/images/diyresources/secondary/tt-g-upcycling.png" alt="Upcycling refers to the process of recycling something into a product of a higher value than the original item." style="width: 70%;">
 

@@ -36,8 +36,6 @@ OverDrive contains popular English eBooks, audiobooks, music and video titles fr
 
 TumbleBook Library is a collection of English picture books that comes with animation, music, and narration. These stories are accompanied by quizzes, games and lesson plans. Flash Player is required to read TumbleBooks. Suitable for children aged 4-12 years.
 
-ChildRoad is a collection of talking Chinese picture books, including fairytales, folktales, historical stories, idiom stories and children’s fiction. Highlighted text is accompanied by voiceovers. The Hanyu Pinyin feature enables children who are weak in Chinese to read anad learn the language. Suitable for children aged 4-12 years.
-
 Apabi eBooks is a collection of Chinese eBooks that covers a wide range of subjects such as education, business and management, philosophy, religion, and literature. Apabi Reader has to be downloaded to read Apabi eBooks. An Adobe ID is required to check out the titles.
 
 Koleksi Buku Elektronik Melayu is a Malay eBook collection with stories on animals, family, and more. This database requires Flash Player.

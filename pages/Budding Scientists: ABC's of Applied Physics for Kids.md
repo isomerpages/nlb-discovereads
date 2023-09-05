@@ -3,7 +3,7 @@ title: "Budding Scientists: ABC's of Applied Physics for Kids"
 permalink: /abcsofappliedphysicsforkids/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/budding%20scientists_er%20logo.png)
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
@@ -16,7 +16,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <p> Light is made up of waves. These waves travel from light sources, bounce off objects and come to our eyes, allowing us to see things. Light sources come in many forms. Lamp posts help light up streets. Stadium lights help us watch a late sports match. Computer monitors and television screens emit light to display images. Light can also come from flames, not just electricity, like from the bonfire during camping. And of course, the biggest main source of light for us: the Sun!</p> 
 
 <h4> LET’S LEARN!</h4>
-<img src="/images/science-lfa/Light/Light%201.jpg" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/light/light%201.jpg" style="width:400px; text-align:center;">
 
 <p>The terms “transparent”, “translucent” and “opaque” are used to describe the extent to which certain objects allow light passes through objects. Transparent objects allow light to pass through completely; you can see intricate details such as colours through transparent objects. The term “translucent” indicates that light can flow through partially, where distinctive features are not as visible through such objects. Finally, opaque objects do not allow any light to pass through them. You can refer to the image below to see the difference.</p>
 
@@ -25,7 +25,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <div class="col is-two-fifths">
 
 <div class=image><a href="https://www.youtube.com/watch?v=kmxhbT9a2jY" target="_blank">
-<img src="/images/science-lfa/Light/The%20Light%20Song.png" style="width:400px; text-align:left;"></a>
+<img src="/images/science-lfa/light/the%20light%20song.png" style="width:400px; text-align:left;"></a>
 </div>
 </div>
 
@@ -42,7 +42,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <h5>MEDIUMS OF LIGHT</h5>   
 <div class="row is-multiline margin--bottom--lg">
 	<div class="col is-two-fifths">
-		<div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="_blank"><img src="/images/science-lfa/Light/Mediums%20of%20Light.png" style="width:400px; text-align:left;"></a>
+		<div class=image><a href="https://www.youtube.com/watch?v=sm-yKy0tPO8" target="_blank"><img src="/images/science-lfa/light/mediums%20of%20light.png" style="width:400px; text-align:left;"></a>
 		</div>
 	</div>
 	<div class="col is-two-fifths">
@@ -55,7 +55,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <br>Let’s conduct an experiment using a torchlight to see whether light can shine through the materials. Print out the worksheet and complete the experiment.<br>
   
  <b>Materials required:</b></p>
-<img src="/images/science-lfa/Light/Light%202.jpg" style="width:800px; text-align:left;"><br>
+<img src="/images/science-lfa/light/light%202.jpg" style="width:800px; text-align:left;"><br>
  
 <p>Click <a href="https://go.gov.sg/let-there-be-light-worksheet" target="_blank">here</a> to get your printable experiment worksheet!</p>
 
@@ -75,7 +75,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <h5>DIY Shadow Puppet</h5>
 
 <b>Materials required:</b>
- <img src="/images/science-lfa/Light/Light%203.jpg" style="width:800px; text-align:left;"><br>
+ <img src="/images/science-lfa/light/light%203.jpg" style="width:800px; text-align:left;"><br>
 <br>You can print your shadow template <a href="https://go.gov.sg/shadow-puppet-template" target="_blank">here</a>.
 <br>Oh, and you need some imagination to create your own stories with shadows.</p>
 
@@ -84,15 +84,15 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
 <p>1.  Tape the box up well so that it will be sturdy and closed.<br></p>
     
 <p>2.  Then, trace about 2cm away from the edges of the large faces of the box. Draw large rectangles on both sides of the box. These will serve as the ‘frame’ of your shadow theatre.
-<img src="/images/science-lfa/Light/Light%204.png" style="width:800px; text-align:left;"><br></p>
+<img src="/images/science-lfa/light/light%204.png" style="width:800px; text-align:left;"><br></p>
 
-<p>3.  Next, cut out the large rectangles that you just drew. Wait! Do not throw away the large rectangles. You can reuse them to make the shadow puppets. <img src="/images/science-lfa/Light/Light%205.jpg" style="width:800px; text-align:left;"><br></p>
+<p>3.  Next, cut out the large rectangles that you just drew. Wait! Do not throw away the large rectangles. You can reuse them to make the shadow puppets. <img src="/images/science-lfa/light/light%205.jpg" style="width:800px; text-align:left;"><br></p>
 
 <p>4.  Find a sheet of translucent white or light-coloured paper. Tracing paper or baking paper, work well too.<br></p>
     
-<p>5.  Tape the paper over the cut-out hole on one side of the box only. That side with the paper will be the one that faces your audience. The other side is where the torch light or the desk lamp will be shining from. <img src="/images/science-lfa/Light/Light%206.jpg" style="width:800px; text-align:left;"><br></p>
+<p>5.  Tape the paper over the cut-out hole on one side of the box only. That side with the paper will be the one that faces your audience. The other side is where the torch light or the desk lamp will be shining from. <img src="/images/science-lfa/light/light%206.jpg" style="width:800px; text-align:left;"><br></p>
 
-<p>6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story! <img src="/images/science-lfa/Light/Light%207.jpg" style="width:800px; text-align:left;"><br></p>
+<p>6.   Your “stage” is complete! You’re on your way to becoming  a puppet master! Let’s make some puppets so that you can work your magic and create your story! <img src="/images/science-lfa/light/light%207.jpg" style="width:800px; text-align:left;"><br></p>
 
 <h5>Instructions for Shadow Puppet</h5>
 <br><b>Instructions for Shadow Puppet</b>
@@ -101,7 +101,7 @@ With catchy tunes, your child will learn about transparent, translucent, and opa
     
 2.  Cut the cardboard according to the shapes of the templates. You may stick the printed templates onto the cardboard first, with glue or tape, so that it is easier to cut out the shapes.<br>
     
-3.  Tape either craft sticks, or chopsticks to the back of the cardboards. <img src="/images/science-lfa/Light/Light%208.jpg" style="width:800px; text-align:left;"><br>
+3.  Tape either craft sticks, or chopsticks to the back of the cardboards. <img src="/images/science-lfa/light/light%208.jpg" style="width:800px; text-align:left;"><br>
 
 <p> Now you've made your puppet theatre and your puppets. All you need now is to darken the room, use a lamp or a torchlight, and invite an audience to watch your brilliant performances!</p>
 
@@ -116,7 +116,7 @@ Try it!<br>
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class=image><a href="https://www.youtube.com/watch?v=YuUJCNzfoBw" target="\_blank">
-       <img src="/images/science-lfa/Light/What%20Makes%20A%20Shadow.png" style="width:800px; text-align:left;"></a>
+       <img src="/images/science-lfa/light/what%20makes%20a%20shadow.png" style="width:800px; text-align:left;"></a>
      </div>
 		</div>
  <div class="col is-two-fifths">
@@ -128,7 +128,7 @@ Try it!<br>
  <h4>LET'S READ!</h4>
 <div class="row is-multiline">
 	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205283500" target="_blank"><img src="/images/science-lfa/Light/Fairy Sciences.jpg" style="width:150px; text-align:left;"></a>
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205283500" target="_blank"><img src="/images/science-lfa/light/fairy sciences.jpg" style="width:150px; text-align:left;"></a>
 		</div>
 		<div class="text">
 			<p><b>Fairy Science</b><br>
@@ -138,7 +138,7 @@ Try it!<br>
 		</div>
 	</div>
 	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205603227" target="_blank"><img src="/images/science-lfa/Light/experiments with light.jpg" style="width:160px; text-align:left;"></a>
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205603227" target="_blank"><img src="/images/science-lfa/light/experiments with light.jpg" style="width:160px; text-align:left;"></a>
 		</div>
 		<div class="text">
 			<p><b>Experiments With Lights</b><br>
@@ -151,7 +151,7 @@ Try it!<br>
 
 <div class="row is-multiline">
 	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14645548" target="_blank"><img src="/images/science-lfa/Light/The Black Rabbit.jpg" style="width:150px; text-align:left;"></a>
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14645548" target="_blank"><img src="/images/science-lfa/light/the black rabbit.jpg" style="width:150px; text-align:left;"></a>
 		</div>
 		<div class="text">
 			<p><b>The Black Rabbit</b><br>
@@ -161,7 +161,7 @@ Try it!<br>
 		</div>
 	</div>
 	<div class="col is-half-tablet padding--bottom--lg">
-		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202722296" target="\_blank"><img src="/images/science-lfa/Light/Groundhog's runaway shadow.jpg" style="width:150px; text-align:left;"></a>
+		<div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202722296" target="\_blank"><img src="/images/science-lfa/light/groundhog's runaway shadow.jpg" style="width:150px; text-align:left;"></a>
 		</div> 
 		<div class="text">
 			<p><b>Groundhog's Runaway Shadow</b><br>
@@ -182,7 +182,7 @@ Try it!<br>
 <h3 class="margin--bottom--lg" id="lp-time"><b>ABC's of Applied Physics for Kids:<br>It's Time to Learn about Time!</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/science-lfa/applied-physics-time/TimeThumbnail.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/applied-physics-time/timethumbnail.png" style="width:400px; text-align:left;">
  
 <p>Time is an interesting phenomenon. It is untouchable, invisible and yet it is always around us. Let’s have some fun learning about the concept of time and routine with the use of clocks!</p>
  
@@ -207,16 +207,16 @@ Try it!<br>
 </p><h4>Tips for Parents:</h4>
  <p>Asking open-ended questions during storytelling is an important and engaging way to guide a child’s exploration, critical and creative thinking through reading.</p>
  
-<img src="/images/BooktalkQuestions.png" style="width:650px; text-align:left;">
+<img src="/images/booktalkquestions.png" style="width:650px; text-align:left;">
  
 <h4>LET'S CRAFT!</h4>
  <h5>Crafting your own Clock!</h5>
- <img src="/images/ClockCraft.jpg" style="width:300px; text-align:left;">
+ <img src="/images/clockcraft.jpg" style="width:300px; text-align:left;">
  
 <p>Children can try making their own clock so that they can get familiar with the different parts of the clock and their functions. In time, they can learn about the values of seconds, minutes, and hours as well as other instruments that tell time.</p>
  <p>This crafting activity is simple and requires materials that can be found around the house. Download and print the template below to help you!</p>
  
-<a href="/files/science-lfa/applied-physics-time/TemplateforClockCraftingActivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
+<a href="/files/science-lfa/applied-physics-time/templateforclockcraftingactivity.pdf" target="_blank">Template for Clock Crafting Activity</a><br>
  
 <h5>Instructions</h5>
  <p>1. Cut out a circle from felt board or drawing block, roughly 15cm in diameter for the clock face.</p>
@@ -227,36 +227,36 @@ Try it!<br>
  <h5>Learning with your Handmade Clock</h5>
  <p>We just made a very wonderful Time Teller! Time for us to use it to teach our children a few key concepts about time.</p> 
 <br>
- <img src="/images/HoursandMinutes.png" style="width:600px; text-align:left;">
+ <img src="/images/hoursandminutes.png" style="width:600px; text-align:left;">
  <p>Download the printable below and paste it up somewhere to help your child remember the values of hours and minutes.</p>
  
-<a href="/files/science-lfa/applied-physics-time/HoursandMinutesActivity.pdf" target="_blank">Learning With Your Handmade Clock</a><br>
+<a href="/files/science-lfa/applied-physics-time/hoursandminutesactivity.pdf" target="_blank">Learning With Your Handmade Clock</a><br>
  
 <h4>LET'S PLAY!</h4> 
 <p>Play is a great way to get children excited about learning and discovering new concepts.</p> 
 <p>Download and print out the resources below for activities that you can do with your child to help them learn the wonders of routines.</p>
  <p>The first activity will teach your child the different times of the day; i.e. morning, afternoon, evening and night as well as the activities we should be doing during these times. Print these out and play a fun matching game with them!</p> 
 
-<a href="/files/science-lfa/applied-physics-time/DifferentTimesofDayActivity.pdf" target="_blank">Different Times of the Day!</a><br>
+<a href="/files/science-lfa/applied-physics-time/differenttimesofdayactivity.pdf" target="_blank">Different Times of the Day!</a><br>
  
 <p>The second activity will expose your child to the wonderful world of time tellers. Aside from our humble clock, there are so many other key instruments that measure and record time. Can your child name all of the ones in this printable activity?</p> 
 
-<a href="/files/science-lfa/applied-physics-time/DifferentTimeTellersActivity.pdf" target="_blank">Different Time Tellers!</a><br>
+<a href="/files/science-lfa/applied-physics-time/differenttimetellersactivity.pdf" target="_blank">Different Time Tellers!</a><br>
  
 <p>Do you know that Sundials were one of the first time-telling devices invented? See if your child can guess what the sundial uses to tell time!</p>
  <br>
- <img src="/images/Sundial.png" style="width:600px; text-align:left;"><br>
+ <img src="/images/sundial.png" style="width:600px; text-align:left;"><br>
  <h4>LET'S TRY THESE AT HOME!</h4>
  <p>With a little bit of creativity and using objects around you, you can create simple yet fun activities for your child to supplement their reading.</p>
  <p>How about giving the two activities below a try? They will give your child a little peek into history on how people told time before clocks as well as understand the difference between Analog and Digital clocks.</p>
  <h4>Activity 1: How Did People Tell Time Before Clocks?</h4>
  
-<img src="/images/TellingTimewiththeSun.png" style="width:400px; text-align:left;">
+<img src="/images/tellingtimewiththesun.png" style="width:400px; text-align:left;">
  
 <p>1. At around 9-10am, ask your child if they can see the sun from the window. Ask them to describe the sun; e.g. does it look further away or closer or does it feel hotter?</p> 
 <p>2. Have them write down or draw their observations. They can fill up the table appended below.</p>
  
-<a href="/files/science-lfa/applied-physics-time/MyObservationTable.pdf" target="_blank">My Observation Table</a><br>
+<a href="/files/science-lfa/applied-physics-time/myobservationtable.pdf" target="_blank">My Observation Table</a><br>
  
 <p>3. Repeat this activity at 12-1pm and again, at 5-6pm. Ask them if they notice any difference in the sun's position in their observations. </p>
  <p>4. Explain to your child that before clocks were invented, this was one of the earliest ways people told time; by looking at the position of the sun in relation to where they lived.</p> 
@@ -265,7 +265,7 @@ Try it!<br>
  
 <h4>Activity 2: Analog vs Digital</h4>
  
-<img src="/images/AnalogvsDigital.png" style="width:400px; text-align:left;">
+<img src="/images/analogvsdigital.png" style="width:400px; text-align:left;">
  <p>
  In this modern world, clocks come in all different shapes, sizes, and forms. Analog clocks may still be around, but we start seeing digital clocks crop up more and more. This simple game will help your child be more exposed to the different timepieces.</p> 
 <p>1. On a deck of flash cards or strips of leftover paper, write down the time as your child would see on an analog clock; e.g. 5pm.</p> 
@@ -305,7 +305,7 @@ Try it!<br>
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203946736" target="_blank"><img src="/images/TellingtheTimebook.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203946736" target="_blank"><img src="/images/tellingthetimebook.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Telling the Time</b><br>
@@ -315,7 +315,7 @@ Try it!<br>
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204442949" target="_blank"><img src="/images/Measuringtime.png" style="width:140px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204442949" target="_blank"><img src="/images/measuringtime.png" style="width:140px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Measuring Time</b><br>
@@ -327,7 +327,7 @@ Try it!<br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205655372" target="_blank"><img src="/images/Time.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205655372" target="_blank"><img src="/images/time.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Time</b><br>
@@ -337,7 +337,7 @@ Try it!<br>
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203189453" target="_blank"><img src="/images/Iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203189453" target="_blank"><img src="/images/iknowabouttellingthetime.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>I Know About Telling Time</b><br>

@@ -3,7 +3,7 @@ title: "Budding Scientists: ABC's of Applied Chemistry for Kids"
 permalink: /abcsofappliedchemistryforkids/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/budding%20scientists_er%20logo.png)
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
@@ -11,7 +11,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <h3 class="margin--bottom--lg" id="lp-inflator"><b>ABC's of Applied Chemistry for Kids: Let’s Learn About Chemical Reactions: Up Up And Away With Fizzy Inflator</b></h3>
 <b>Suitable for 4 to 6 years old children</b>
-<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Up%20Up%20And%20Away%20Banner.png" style="width:700px; text-align:center;">
+<img src="/images/science-lfa/balloon%20inflater/norah%20-%20up%20up%20and%20away%20banner.png" style="width:700px; text-align:center;">
 
 <p> Do you know what happens when you mix baking soda and vinegar? Let’s learn about chemical reactions and the gas they produce when they are mixed. Observe how a balloon can be inflated through this simple experiment.</p>
 
@@ -19,7 +19,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <p>Chemical reaction: A process that involves the arrangement of molecules or structure of a substance, as opposed to a change in physical form (as from a solid to a gas).</p>
 <i>Chemical Reactions Facts. Cool Kid Facts. (2022). Retrieved 28 March 2022, from <a href="https://www.coolkidfacts.com/chemical-reactions">https://www.coolkidfacts.com/chemical-reactions</a></i>
 
-<img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Science%20Terms_edited.png" style="width:700px; text-align:left;">
+<img src="/images/science-lfa/balloon%20inflater/norah%20-%20science%20terms_edited.png" style="width:700px; text-align:left;">
 
 <h4>Let’s Watch</h4>
 <p>Watch these videos to find out how a balloon can be inflated through this simple experiment.</p>
@@ -55,29 +55,29 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <h4>Materials Required</h4>
 
-<img src="/images/science-lfa/Balloon%20inflater/Materials.jpg" style="width:700px; text-align:center;"><br>
+<img src="/images/science-lfa/balloon%20inflater/materials.jpg" style="width:700px; text-align:center;"><br>
 
 <h4>Create A Hypothesis:</h4>
 <p> Ask your child to predict what will happen when you combine baking soda and vinegar in a bottle. Ask your child to predict what will happen if you combine the same ingredients, but cover the top of the bottle with a balloon.</p>
 
 <h4>Instructions: </h4>
 <p>1. Using the funnel, add 1-2 teaspoons of baking soda into the balloon.</p>
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%201.jpg" style="width:300px; text-align:center;"></p>
+<p><img src="/images/science-lfa/balloon%20inflater/step%201.jpg" style="width:300px; text-align:center;"></p>
 
 <p>2. Pour the vinegar into the bottle until it is half-filled.</p>
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%202.jpg" style="width:200px; text-align:center;"></p>
+<p><img src="/images/science-lfa/balloon%20inflater/step%202.jpg" style="width:200px; text-align:center;"></p>
 
 <p>3. Carefully fit the balloon lip over the bottle’s nozzle, while holding onto the balloon. <br>(Be careful not to drop the baking soda into the vinegar yet).</p>
 <p>4. Once the balloon is fitted snugly on the nozzle, and you are ready, hold up the balloon and allow the baking soda to fall into the vinegar.</p>
 
 <p>5. Observe the chemical reaction and effect on the balloon.</p>
 
-<p><img src="/images/science-lfa/Balloon%20inflater/Step%204.jpg" style="width:200px; text-align:center;"></p>
+<p><img src="/images/science-lfa/balloon%20inflater/step%204.jpg" style="width:200px; text-align:center;"></p>
 <br>
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-one-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/balloon%20inflater/norah%20-%20tips.png" style="width:150px; text-align:left;">
      </div>
    </div>
  <div class="col is-four-fifths">
@@ -119,7 +119,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-one-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Balloon%20inflater/Norah%20-%20Tips.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/balloon%20inflater/norah%20-%20tips.png" style="width:150px; text-align:left;">
      </div>
    </div>
  <div class="col is-four-fifths">
@@ -137,7 +137,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205273902" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Bear.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205273902" target="_blank"><img src="/images/science-lfa/balloon%20inflater/bear.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Bears Make the Best Science Buddies</b><br>
@@ -147,7 +147,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203810956" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203810956" target="_blank"><img src="/images/science-lfa/balloon%20inflater/where%20is%20my%20balloon.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>Where is My Balloon?</b><br>
@@ -159,7 +159,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203020930" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/Inflating%20the%20Balloon.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203020930" target="_blank"><img src="/images/science-lfa/balloon%20inflater/inflating%20the%20balloon.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Inflating a Balloon</b><br>
@@ -181,7 +181,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203064211" target="_blank"><img src="/images/science-lfa/Balloon%20inflater/State%20of%20Matter.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=203064211" target="_blank"><img src="/images/science-lfa/balloon%20inflater/state%20of%20matter.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>States of Matter</b><br>
@@ -214,7 +214,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 
 <h3 class="margin--bottom--lg" id="lp-apple"><b>ABC's of Applied Chemistry for Kids:<br> Why Do Apples Turn Brown?</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p> 
-<img src="/images/science-lfa/Apples/Why%20do%20apple%20turn%20brown.jpg" style="width:500px; text-align:left;">
+<img src="/images/science-lfa/apples/why%20do%20apple%20turn%20brown.jpg" style="width:500px; text-align:left;">
 
 <p> Have you ever wondered why apple slices turn brown when they are exposed to air for a period of time? What can you do about it? Let’s find out with a simple experiment that you can do at home.</p>
 
@@ -222,7 +222,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/Apples/Oxidation.png" style="width:400px; text-align:left;">
+       <img src="/images/science-lfa/apples/oxidation.png" style="width:400px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -260,9 +260,9 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p>Objective: To explore the chemical reaction behind apple browning. We will also test to see whether or not salt water, lemon water, and other liquids that can be found in the kitchen keep apples from browning.<br></p>
 
 <p><b>Materials required:</b></p>
- <img src="/images/science-lfa/Apples/Materials.jpg" style="width:800px; text-align:left;"><br>
+ <img src="/images/science-lfa/apples/materials.jpg" style="width:800px; text-align:left;"><br>
 
-<p>Print out the <a href="/files/science-lfa/Apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.</p><p>
+<p>Print out the <a href="/files/science-lfa/apples/apple-changes-page.pdf" target="_blank">Observation Table</a> to go through and record the observations with your child.</p><p>
 
 </p><p><b> Steps</b></p>
 <p>1. Label the cups/bowls and plate.</p>
@@ -273,12 +273,12 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 	<li>Vinegar</li>
 	<li>Salt water</li>
 </ul>
-<img src="/images/science-lfa/Apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
+<img src="/images/science-lfa/apples/label the cups.jpg" style="width:800px; text-align:left;"><br>
 <p>2. Cut the apple into 5 wedges</p>
 <p>3. Place a wedge in each cup/bowl. Pour the liquids in the respective cup/bowl. Let the apples soak for 5 mins.</p>
-<img src="/images/science-lfa/Apples/Step 3.jpg" style="width:800px; text-align:left;"><br>
+<img src="/images/science-lfa/apples/step 3.jpg" style="width:800px; text-align:left;"><br>
  <p>4. After that, take out the apples and placed them onto the plate that has already been labelled.</p>
-<img src="/images/science-lfa/Apples/Step 4.jpg" style="width:400px; text-align:left;"><br>
+<img src="/images/science-lfa/apples/step 4.jpg" style="width:400px; text-align:left;"><br>
  <p>5. Observe what happens and allow your child to record their observations by colouring the <a href="https://go.gov.sg/apple-changes-page" target="_blank">template</a> provided. Record the findings at 5 mins and 15 mins.</p>
 	
 <h4>Tips for Parents:</h4>
@@ -297,7 +297,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205358238" target="_blank"><img src="/images/science-lfa/Apples/Libby loves science.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205358238" target="_blank"><img src="/images/science-lfa/apples/libby loves science.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Libby Loves Science: Mix and Measure</b><br>
@@ -307,7 +307,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202923689" target="_blank"><img src="/images/science-lfa/Apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202923689" target="_blank"><img src="/images/science-lfa/apples/look im a scientist.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b> Look: I'm a Scientist</b><br>
@@ -319,7 +319,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202996664" target="_blank"><img src="images/science-lfa/Apples/Why is it rusty.jpg" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202996664" target="_blank"><img src="images/science-lfa/apples/why is it rusty.jpg" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Why is it Rusty?</b><br>
@@ -329,7 +329,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202641453" target="_blank"><img src="/images/science-lfa/Apples/Ada Twist.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202641453" target="_blank"><img src="/images/science-lfa/apples/ada twist.jpg" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Ada Twist, Scientist</b><br>
@@ -342,7 +342,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 	
  <h4 class="margin--bottom--lg"><b>LET'S TRY THIS AT HOME!</b></h4>
  <p>Did you know that apples are not the only fruits that will turn brown when exposed to air? Try the same experiment on bananas, pears and apricots!</p>
-<img src="/images/science-lfa/Apples/banana%20pear%20apricot.jpg">
+<img src="/images/science-lfa/apples/banana%20pear%20apricot.jpg">
 	
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 
@@ -358,13 +358,13 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_LetsTalkAbout.png" style="width:400px; text-align:left;">
+       <img src="/images/science-lfa/applied-chemistry-density/density_letstalkabout.png" style="width:400px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
      <p>Density is a measurement that compares the amount of matter an object as to its volume.<br><i>(Density Facts for Kids. (2021). Density Facts for Kids. Retrieved December 28, 2021, from <a href="https://kids.kiddle.co/Density" target="_blank">https://kids.kiddle.co/Density</a>)</i>
  </p>
- <p>Use these <a href="/files/science-lfa/density/Density_Explanation%20Printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
+ <p>Use these <a href="/files/science-lfa/density/density_explanation%20printables.pdf" target="_blank">printables</a> to further explain density to your child! </p>
    </div>
  </div>
  <div class="generic-table">
@@ -433,7 +433,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
 <p><b>Experiment time!</b>
  <br>Objective: To find out how different densities affect how liquids react with one another.<br><br>
  <b>Materials required:</b></p>
- <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%20Materials_edited.png" style="width:800px; text-align:left;"><br>
+ <img src="/images/science-lfa/applied-chemistry-density/density_experiment%20materials_edited.png" style="width:800px; text-align:left;"><br>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-three-fifths">
  <br><p><b> Steps</b><br>
@@ -441,15 +441,15 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  2. In the small bowl, add 4 tablespoons of vegetable oil and about 12 drops of food colouring. Stir lightly with the spoon and break up the drops of food colouring.<br>
  3. Pour the bowl of oil and food colouring into the bottle of water. <br>
  4. Observe what happens and allow your child to record their observations by ticking and circling in the table below. Experiment with other objects and liquids too!<br>
- 5. <i>(Optional)</i> Print out the <a href="/files/science-lfa/density/Density_Observations%20Table.pdf" target="_blank">Observations Table</a> to go through and record the observations with your child. 
+ 5. <i>(Optional)</i> Print out the <a href="/files/science-lfa/density/density_observations%20table.pdf" target="_blank">Observations Table</a> to go through and record the observations with your child. 
 </p>
    </div>
   <div class="col is-two-fifths">
      <br><br><br>Step 2<div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%201.png" style="width:200px; text-align:left;">
+       <img src="/images/science-lfa/applied-chemistry-density/density_experiment%201.png" style="width:200px; text-align:left;">
      </div>
      Step 4<div class="image">
-       <img src="/images/science-lfa/applied-chemistry-density/Density_Experiment%202.png" style="width:200px; text-align:left;">
+       <img src="/images/science-lfa/applied-chemistry-density/density_experiment%202.png" style="width:200px; text-align:left;">
      </div>
  </div>
  </div>
@@ -462,7 +462,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205270776" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_RosasBigBoatExperiment.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205270776" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/density_rosasbigboatexperiment.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Rosa's Big Boat Experiment</b><br>
@@ -472,7 +472,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205544494" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WillItFloatOrSink.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205544494" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/density_willitfloatorsink.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Will It Float or Sink?</b><br>
@@ -484,7 +484,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205276885" target="_blank"><img src="images/science-lfa/applied-chemistry-density/Density_BoatsWillFloat.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205276885" target="_blank"><img src="images/science-lfa/applied-chemistry-density/density_boatswillfloat.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Boats Will Float</b><br>
@@ -494,7 +494,7 @@ If you mix vinegar and baking soda, a chemical reaction will occur, where lots o
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202557168" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/Density_WhyDoIceCubesFloat.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202557168" target="_blank"><img src="/images/science-lfa/applied-chemistry-density/density_whydoicecubesfloat.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Why Do Ice Cubes Float?</b><br>

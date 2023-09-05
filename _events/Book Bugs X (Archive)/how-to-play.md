@@ -18,8 +18,8 @@ third_nav_title: Book Bugs X (Archive)
 #### Downloads
 Game Guide
 
-|<a href="/images/events/bookbugsx/files/Book Bugs Game Guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Game Guide thumbnail.png" alt="Game Guide Download Link" style="width: 40%;" align="left" ></a>|
+|<a href="/images/events/bookbugsx/files/book bugs game guide.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/game guide thumbnail.png" alt="Game Guide Download Link" style="width: 40%;" align="left" ></a>|
 
 Game Mat
 
-|<a href="/images/events/bookbugsx/files/Book Bugs Game Mat.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Game Mat thumbnail.png" alt="Game Mat Download Link" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/book bugs game mat.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/game mat thumbnail.png" alt="Game Mat Download Link" style="width: 50%" align="left"></a>|

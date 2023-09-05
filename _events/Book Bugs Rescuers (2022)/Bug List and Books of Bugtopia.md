@@ -12,55 +12,55 @@ third_nav_title: Book Bugs Rescuers (2022)
 
 Stay tuned to discover more books and Bugs!
 
-<a href="/images/events/bookbugsr/Square Attie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Attie - BBR Bookstagram.png" alt="24-hour Newa" style="width: 60%;"></a> 
+<a href="/images/events/bookbugsr/square attie - bbr bookstagram.png"><img src="/images/events/bookbugsr/square attie - bbr bookstagram.png" alt="24-hour Newa" style="width: 60%;"></a> 
 
 Meet Attie, the intrepid ace reporter whom you can count on for the latest scoop in Bugtopia! 🕵️📰 If Attie were human, he might be a news reporter on a television news channel. Learn more about news reporting in ‘TV Launches 24-Hour News with CNN’, written by Michael Burgan. 
 
 
-<a href="/images/events/bookbugsr/Square Celeste - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Celeste - BBR Bookstagram.png" alt="Girl Who Drank the Moon" style="width: 60%;"></a> 
+<a href="/images/events/bookbugsr/square celeste - bbr bookstagram.png"><img src="/images/events/bookbugsr/square celeste - bbr bookstagram.png" alt="Girl Who Drank the Moon" style="width: 60%;"></a> 
 
 Shrouded in mystery, Celeste is rumoured to be able to weave exquisite creations using pure moonlight... 🌛
 Celeste is based on Luna from ‘The Girl Who Drank the Moon’, written by Kelly Barnhill. In the book, Luna gains magical powers after being fed moonlight by a kindly witch. 
 
 
-  <a href="/images/events/bookbugsr/Square Khazanna - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Khazanna - BBR Bookstagram.png" alt="Ada Khazanah Di Perpustakaan Kami" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square khazanna - bbr bookstagram.png"><img src="/images/events/bookbugsr/square khazanna - bbr bookstagram.png" alt="Ada Khazanah Di Perpustakaan Kami" style="width: 60%;"></a> 
 
 Khazanna carries her own little library around to ensure that she always has something good to read! 🤓📚 Her design was inspired by ‘Ada Khazanah di Perpustakaan Kami’ (There are Treasures in Our Library), written by Maria Mahat.
 
-  <a href="/images/events/bookbugsr/Square Rollie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Rollie - BBR Bookstagram.png" alt="The Great Singapore Poo Sale" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square rollie - bbr bookstagram.png"><img src="/images/events/bookbugsr/square rollie - bbr bookstagram.png" alt="The Great Singapore Poo Sale" style="width: 60%;"></a> 
 	
 The adorable Book Bug, Rollie, was inspired by the pangolin, an endangered mammal that can be found
 in Singapore. Like the pangolin, Rollie is covered in protective scales and curls up into a ball when frightened! Read more about local animals in Maureen Yeo's ‘The Great Singapore Poo Sale’.
 
-  <a href="/images/events/bookbugsr/Square Embra - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Embra - BBR Bookstagram.png" alt="The Firework Makers Daughter" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square embra - bbr bookstagram.png"><img src="/images/events/bookbugsr/square embra - bbr bookstagram.png" alt="The Firework Makers Daughter" style="width: 60%;"></a> 
 
 Nothing perks up Embra's day more than a fabulous firework display—especially if she was the one who created the fireworks! 🎇 Embra shares her love for colourful pyrotechnics with Lila, the main character in ‘The Firework-Maker's Daughter’ by Philip Pullman. In the story, Lila goes on a perilous journey to chase after her dream of becoming a firework-maker. Find out if she succeeds by reading the book.
 
-  <a href="/images/events/bookbugsr/Square Cenderawasih - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Cenderawasih - BBR Bookstagram.png" alt="Lagu Cenderawasih" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square cenderawasih - bbr bookstagram.png"><img src="/images/events/bookbugsr/square cenderawasih - bbr bookstagram.png" alt="Lagu Cenderawasih" style="width: 60%;"></a> 
 	
 Anyone who catches a glimpse of Cenderawasih's magnificent wings is lucky indeed! 🤩 This majestic Book Bug is based on the mythical Cenderawasih bird, featured in the book, ‘Lagu Cenderawasih’ (Song of the Cenderawasih), written by Tutu Dutta. It tells the story of Arohan, a little boy who receives a magical bamboo flute for his birthday.
 
-  <a href="/images/events/bookbugsr/Square Kaka - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Kaka - BBR Bookstagram.png" alt="The One and Only Inuka" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square kaka - bbr bookstagram.png"><img src="/images/events/bookbugsr/square kaka - bbr bookstagram.png" alt="The One and Only Inuka" style="width: 60%;"></a> 
 
 Meet Kaka, the Book Bug with a big appetite who loves to frolic in the snow! ❄️ He is based on Inuka, the first polar bear born in the tropics, that lived in the Singapore Zoo from 1990 to 2018. You can read about Inuka's life in Alan John's book, ‘独一无二的伊努卡’ (The One and Only Inuka), which is also available in English.
 
-  <a href="/images/events/bookbugsr/Square Nixie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Nixie - BBR Bookstagram.png" alt="The Mermaid who became a Champion" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square nixie - bbr bookstagram.png"><img src="/images/events/bookbugsr/square nixie - bbr bookstagram.png" alt="The Mermaid who became a Champion" style="width: 60%;"></a> 
 	
 No Book Bug moves through the water faster than Nixie, whose inspiration came from the book, ‘The Mermaid Who Became a Champion’. It was written by Yip Pin Xiu, a five-time Paralympic gold medalist!🏊‍♀️🥇
 
-  <a href="/images/events/bookbugsr/Square Offkie - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Offkie - BBR Bookstagram.png" alt="Song for a Whale" style="width: 60%;"></a> 
+  <a href="/images/events/bookbugsr/square offkie - bbr bookstagram.png"><img src="/images/events/bookbugsr/square offkie - bbr bookstagram.png" alt="Song for a Whale" style="width: 60%;"></a> 
 	
 Offkie loves to sing and perform the latest hits in front of an adoring audience of her fellow Book Bugs! 🎶 Inspiration for this musical Bug comes from the book, ‘Song for a Whale’, written by Lynne Kelly. It tells the story of how Iris, a deaf twelve-year-old girl, tries to reach out to a whale who is unable to communicate with other whales.
 
-<a href="/images/events/bookbugsr/Square Sable - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Sable - BBR Bookstagram.png" alt="Over The Moon" style="width: 60%;"></a> 
+<a href="/images/events/bookbugsr/square sable - bbr bookstagram.png"><img src="/images/events/bookbugsr/square sable - bbr bookstagram.png" alt="Over The Moon" style="width: 60%;"></a> 
 
 Sable is a top acrobat in the circus! Every Book Bug who has watched her perform agrees that this is where she belongs.**🎪** Like Sable, Mallie jumps at the chance to take part in a daring endeavour in ‘Over The Moon’, written by Natalie Lloyd. Mallie stumbles across an evil plot and finds herself in danger...
 
-<a href="/images/events/bookbugsr/Square Ratcha - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Ratcha - BBR Bookstagram.png" alt="The Colour Thief" style="width: 60%;"></a> 
+<a href="/images/events/bookbugsr/square ratcha - bbr bookstagram.png"><img src="/images/events/bookbugsr/square ratcha - bbr bookstagram.png" alt="The Colour Thief" style="width: 60%;"></a> 
 
 Ratcha tries to remove all the colours in Bugtopia because, in his ideal world, everything should be in grey and white! Ratcha is inspired by ‘வண்ணத் திருடன்’ (The Colour Thief) by Stephen Aitken and Sylvia Sikundar, where a grumpy giant steals all the colours in the world.
 
-<a href="/images/events/bookbugsr/Square Buzznaut - BBR Bookstagram.png"><img src="/images/events/bookbugsr/Square Buzznaut - BBR Bookstagram.png" alt="Buzznaut" style="width: 60%;"></a> 
+<a href="/images/events/bookbugsr/square buzznaut - bbr bookstagram.png"><img src="/images/events/bookbugsr/square buzznaut - bbr bookstagram.png" alt="Buzznaut" style="width: 60%;"></a> 
 
 Shy and soft-spoken, Buzznaut finds it hard to make friends. However, those who make the effort to get to know him soon find that he is a wonderful Book Bug indeed! 💖 Buzznaut is based on Auggie from ‘We’re All Wonders’, written by R.J. Palacio. Auggie looks different from other children, but grows to understand that he is a wonder who deserves to be loved.
 
@@ -72,7 +72,7 @@ Shy and soft-spoken, Buzznaut finds it hard to make friends. However, those who 
 
 ### Buglist
 
-<a href="/files/bookbugsr/Buglist.pdf"><img src="/images/events/bookbugsr/Buglistpic.png" style="width: 80%;"></a>
+<a href="/files/bookbugsr/buglist.pdf"><img src="/images/events/bookbugsr/buglistpic.png" style="width: 80%;"></a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>
 

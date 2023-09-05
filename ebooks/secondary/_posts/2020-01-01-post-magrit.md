@@ -1,7 +1,7 @@
 ---
 title: Magrit
 permalink: /ebooks/secondary/sec1-magrit/
-image: /images/discovereads/secondary/Magrit.jpg
+image: /images/discovereads/secondary/magrit.jpg
 ---
 
 ## **[Sec 1] Magrit**

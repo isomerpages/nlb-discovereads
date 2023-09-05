@@ -22,8 +22,8 @@ Catch the latest Bugtopia scoop hot off the press! Join Attie as he investigates
 
 Click on the images to read the feature stories, complete the activities and check out the latest comic!
 
-|<a href="/files/BB3 Newsletter_Bugtopian1_PDF Preview-min.pdf"><img src="/images/events/bookbugsr/Bugtopian1.png" alt="Bugtopian 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Newsletter2-28 Feb_FA-editnlblogo_compressed (1).pdf"><img src="/images/events/bookbugsr/Bugtopian2Image.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
-|<a href="/files/bookbugsr/Newsletter3_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Cover.png" alt="Bugtopian 3" style="width: 50%;" align="left"></a>| <a href="/files/bookbugsr/BB3_Newsletter4.pdf"><img src="/images/events/bookbugsr/Bugtopian4Cover.png" alt="Bugtopian 4" style="width: 50%;" align="left"></a>|
+|<a href="/files/bb3 newsletter_bugtopian1_pdf preview-min.pdf"><img src="/images/events/bookbugsr/bugtopian1.png" alt="Bugtopian 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/bb3_newsletter2-28 feb_fa-editnlblogo_compressed (1).pdf"><img src="/images/events/bookbugsr/bugtopian2image.png" alt="Bugtopian 2" style="width: 50%;" align="left"></a>|
+|<a href="/files/bookbugsr/newsletter3_compressed.pdf"><img src="/images/events/bookbugsr/bugtopian 3 cover.png" alt="Bugtopian 3" style="width: 50%;" align="left"></a>| <a href="/files/bookbugsr/bb3_newsletter4.pdf"><img src="/images/events/bookbugsr/bugtopian4cover.png" alt="Bugtopian 4" style="width: 50%;" align="left"></a>|
 
 <br>
 
@@ -37,7 +37,7 @@ Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
 
 ### Passport to Bugtopia
 
-|<a href="/files/bookbugsr/BB3 Passport 1 FA w Print Marks - combined (2).pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/BB3_Pamphlet 2.pdf"><img src="/images/events/bookbugsr/Passport to Bugtopia Cover.png" alt="Passport to Bugtopia" style="width: 50%;" align="left"></a>|
+|<a href="/files/bookbugsr/bb3 passport 1 fa w print marks - combined (2).pdf"><img src="/images/events/bookbugsr/passport to bugtopia cover.png" alt="Passport to Bugtopia" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/bb3_pamphlet 2.pdf"><img src="/images/events/bookbugsr/passport to bugtopia cover.png" alt="Passport to Bugtopia" style="width: 50%;" align="left"></a>|
 
 
 Answers to all activity pages can be found [here.](/events/bookbugsr/community/)
@@ -52,8 +52,8 @@ Physical copies of _Passport to Bugtopia_ are not available at the public librar
 
 ### Comics
 
-|<a href="/files/bookbugsr/Comic 1.pdf"><img src="/images/events/bookbugsr/Comic 1 image.png" alt="Comic 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/Comic 2.pdf"><img src="/images/events/bookbugsr/Comic 2.png" alt="Comic 2" style="width: 50%;" align="left"></a>| 
-|<a href="/files/bookbugsr/Newsletter 3 Comic_compressed.pdf"><img src="/images/events/bookbugsr/Bugtopian 3 Comic.png" alt="Comic 3" style="width: 50%;" align="left"></a>| <a href="/files/bookbugsr/Comic 4.pdf"><img src="/images/events/bookbugsr/comic 4.png" alt="Comic 4" style="width: 50%;" align="left"></a> |
+|<a href="/files/bookbugsr/comic 1.pdf"><img src="/images/events/bookbugsr/comic 1 image.png" alt="Comic 1" style="width: 50%;" align="left"></a>|<a href="/files/bookbugsr/comic 2.pdf"><img src="/images/events/bookbugsr/comic 2.png" alt="Comic 2" style="width: 50%;" align="left"></a>| 
+|<a href="/files/bookbugsr/newsletter 3 comic_compressed.pdf"><img src="/images/events/bookbugsr/bugtopian 3 comic.png" alt="Comic 3" style="width: 50%;" align="left"></a>| <a href="/files/bookbugsr/comic 4.pdf"><img src="/images/events/bookbugsr/comic 4.png" alt="Comic 4" style="width: 50%;" align="left"></a> |
 
 <br>
 	
@@ -65,6 +65,6 @@ Physical copies of _Passport to Bugtopia_ are not available at the public librar
 
 Want to explore Bugtopia's wondrous and mysterious Lands? This StoryMap is for you!
 
-<a href= "https://go.gov.sg/storymaps/"><img src="/images/events/bookbugsr/ExploreBugtopia.png" style="width: 80%;"></a>
+<a href= "https://go.gov.sg/storymaps/"><img src="/images/events/bookbugsr/explorebugtopia.png" style="width: 80%;"></a>
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

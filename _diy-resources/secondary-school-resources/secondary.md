@@ -20,7 +20,7 @@ _(Updated on 11 Aug 2022)_
 ### **School Holiday Special**
 Click on the icon to find out more!
 
-<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 40%;"></a>
+<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dr-holiday-secondary-amended.png" style="width: 40%;"></a>
 
 
 <b><a href="#top">Back to top</a></b>
@@ -39,25 +39,25 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 
 |***New!* 2021 Reading Interest Profile Booklets**|
 | Lower Secondary | Upper Secondary|
-| </a><a href="/images/diyresources/secondary/NLB-RIP21-LowerSec.PDF"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-RIP21-UpperSec.PDF"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
+| </a><a href="/images/diyresources/secondary/nlb-rip21-lowersec.pdf"><img src="/images/diyresources/secondary/rip21-lowersec.png" alt="Lower Secondary Reading Interest Profile 2021" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/nlb-rip21-uppersec.pdf"><img src="/images/diyresources/secondary/rip21-uppersec.png" alt="Upper Secondary Reading Interest Profile 2021" style="width: 60%;"></a> |
 	
 
 |**Reading Interest Profile Quizzes**|
 	|Secondary |<br>
 
-| [![Reading interest lower secondary profile image](/images/diyresources/secondary/RIP-LowerSec-2.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-secondary) |
+| [![Reading interest lower secondary profile image](/images/diyresources/secondary/rip-lowersec-2.png)](https://www.opinionstage.com/content-717/reading-interest-profile-lower-secondary) |
 	
 
 |**Past Reading Interest Profile Booklets**|
 | Lower Secondary | Upper Secondary | 
-| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.PDF"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Upper-Secondary-FA-Low-res.PDF"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/reading-interest-profile-lower-secondary-fa-lowres.pdf"><img src="/images/diyresources/secondary/lower-sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/reading-interest-profile-upper-secondary-fa-low-res.pdf"><img src="/images/diyresources/secondary/upper-sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
 
 
 **Reading Challenge**
 
 Up your reading game by completing our very own Reading Challenge.
 
-<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.PDF"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
+<a href="/images/diyresources/secondary/secondary-reading-challenge-12052020v2.pdf"><img src="/images/diyresources/secondary/rc_sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
 
 <b><a href="#top">Back to top</a></b>
 
@@ -70,8 +70,8 @@ Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 |Sec 1 - Sec 2|
-|[![Flexagon image](/images/diyresources/secondary/Tweens-Flexagon.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.PDF) | [![Origami frog image](/images/diyresources/secondary/Tweens-Origami-Frog.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.PDF)|
-|[![Paper helicopter image](/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.PDF) | [![Zentangle image](/images/diyresources/secondary/Tweens-Zentangle.jpg)](/images/diyresources/secondary/Tweens-Zentangle.PDF)|
+|[![Flexagon image](/images/diyresources/secondary/tweens-flexagon.jpg)](/images/diyresources/secondary/tweens-pop-up-package-flexagon.pdf) | [![Origami frog image](/images/diyresources/secondary/tweens-origami-frog.jpg)](/images/diyresources/secondary/tweens-pop-up-package-frog.pdf)|
+|[![Paper helicopter image](/images/diyresources/secondary/tweens-paper-helicopter.jpg)](/images/diyresources/secondary/tweens-pop-up-package-paper-helicopter.pdf) | [![Zentangle image](/images/diyresources/secondary/tweens-zentangle.jpg)](/images/diyresources/secondary/tweens-zentangle.pdf)|
 
 
 **Tweens Lab Mag (1 hour)**
@@ -80,7 +80,7 @@ Cool, creative, out-of-this world ideas and easy D.I.Y. projects on S.T.E.A.M. t
 
 <img src="/images/diyresources/secondary/tweenkeramalabmagcover.jpg" alt="Paper helicopter image" style="width: 40%;">
 
-| Issue #1 [here](/images/diyresources/secondary/FA_Tweenkerama-Issue-1.PDF) | Issue #2 [here](/images/diyresources/secondary/Tweenkeramabooklet_Issue02_FA.PDF) | Issue #3 [here](/images/diyresources/secondary/FA-NLB-Tweenkerama_Issue-03-v2.PDF) |
+| Issue #1 [here](/images/diyresources/secondary/fa_tweenkerama-issue-1.pdf) | Issue #2 [here](/images/diyresources/secondary/tweenkeramabooklet_issue02_fa.pdf) | Issue #3 [here](/images/diyresources/secondary/fa-nlb-tweenkerama_issue-03-v2.pdf) |
 
 
 <b><a href="#top">Back to top</a></b>
@@ -95,15 +95,15 @@ Pick a short read and create a story-based craft.
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
 |***New!* 2022 PopReads!**|
-| <a href="/files/diyresources/PopReads22-S-Its-About-Time.PDF"><img src="/images/diyresources/secondary/PopReads22_S_ItsAboutTime.png" alt="It's About Time PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/PopReads22-S-Keep-Calm-and-Reach-Your-Goals.PDF"><img src="/images/diyresources/secondary/PopReads22_S_KeepCalmAndReachYourGoals.png" alt="Keep Calm and Reach Your Goals PopReads!" style="width: 70%;"></a> |
+| <a href="/files/diyresources/popreads22-s-its-about-time.pdf"><img src="/images/diyresources/secondary/popreads22_s_itsabouttime.png" alt="It's About Time PopReads!" style="width: 60%;"></a> | <a href="/files/diyresources/popreads22-s-keep-calm-and-reach-your-goals.pdf"><img src="/images/diyresources/secondary/popreads22_s_keepcalmandreachyourgoals.png" alt="Keep Calm and Reach Your Goals PopReads!" style="width: 70%;"></a> |
 
 
 |**2021 PopReads!**|
-| <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_Expressions.PDF"><img src="/images/diyresources/secondary/popreads21-expressions.png" alt="Expressions PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB_Popreads21_Sec_MythsComeAlive.PDF"><img src="/images/diyresources/secondary/popreads21-myths.png" alt="Myths Come Alive PopReads!" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/nlb_popreads21_sec_expressions.pdf"><img src="/images/diyresources/secondary/popreads21-expressions.png" alt="Expressions PopReads!" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/nlb_popreads21_sec_mythscomealive.pdf"><img src="/images/diyresources/secondary/popreads21-myths.png" alt="Myths Come Alive PopReads!" style="width: 60%;"></a> |
 
 
 |**2020 PopReads!**|
-| <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.PDF"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.PDF"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/nlb-popreads-a3-worksheet-2_tell-me-my-name_v06-fa-web.pdf"><img src="/images/diyresources/secondary/tell-me-my-name.png" alt="Tell me my name image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/nlb-popreads-a3-worksheet-1_unscramble-me_v08-fap-web.pdf"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 60%;"></a> |
 
 
 <b><a href="#top">Back to top</a></b>
@@ -119,16 +119,16 @@ Students explore how stories relate to the world around them through a series of
 Sec 1–Sec 2
 <img src="/images/diyresources/secondary/shortstoriesandradioplaysofsrajaratnam.jpg" alt="The short stories and radio plays of s rajaratnam image" style="width: 30%;">
 
-| [RRW Secondary Short Stories &amp; Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.PDF) | [RRW Secondary Short Stories &amp; Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-SG-Secondary-S-Rajaratnam_Facil-Guide-edited-1.PDF) |
+| [RRW Secondary Short Stories &amp; Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/rrwsecondaryradioplaysfalowres-1.pdf) | [RRW Secondary Short Stories &amp; Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/nlb_rrw-sg-secondary-s-rajaratnam_facil-guide-edited-1.pdf) |
 
 * Title: [Short Stories and Radio Plays of S. Rajaratnam](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13792223)
 * Author: S. Rajaratnam
 * Call No.: SING RAJ
 
 
-<img src="/images/diyresources/secondary/Hatchet.jpg" alt="Hatchet image" style="width: 30%;">
+<img src="/images/diyresources/secondary/hatchet.jpg" alt="Hatchet image" style="width: 30%;">
 
-| [RRW Secondary Hatchet Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Hatchet-Worksheet-and-Extract.PDF) | [RRW Secondary Hatchet Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Hatchet-Facilitators-Guide.PDF) |
+| [RRW Secondary Hatchet Worksheet and Extract](/images/diyresources/secondary/rrw-secondary-hatchet-worksheet-and-extract.pdf) | [RRW Secondary Hatchet Facilitator’s Guide](/images/diyresources/secondary/rrw-secondary-hatchet-facilitators-guide.pdf) |
 
 * Title: [Hatchet](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=8801620)
 * Author: Gary Paulsen
@@ -136,9 +136,9 @@ Sec 1–Sec 2
 
 
 Sec 3–Sec 4
-<img src="/images/diyresources/secondary/50-stories-of-my-life_SR-NATHAN.jpg" style="width: 30%;">
+<img src="/images/diyresources/secondary/50-stories-of-my-life_sr-nathan.jpg" style="width: 30%;">
 
-| [RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.PDF) | [RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-Secondary-2015-50-Stories_Facil-Guide-1.PDF) |
+| [RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/rrwsecondary50storiesfalowres-1.pdf) | [RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/nlb_rrw-secondary-2015-50-stories_facil-guide-1.pdf) |
 
 * Title: [S R Nathan: 50 stories from my life](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200132009)
 * Author: S. R. Nathan
@@ -147,16 +147,16 @@ Sec 3–Sec 4
 
 <img src="/images/diyresources/secondary/Words.jpeg" style="width: 30%;">
 
-| [RRW Secondary &amp;Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.PDF) | [RRW Secondary &amp;Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.PDF) |
+| [RRW Secondary &amp;Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/rrw-secondary-words-poems-singapore-and-beyond-worksheet-and-extract.pdf) | [RRW Secondary &amp;Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/rrw-secondary-words-poems-singapore-and-beyond-facilitators-guide.pdf) |
 
 * Title: [&amp;Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13668713)
 * Edited by: Edwin Thumboo
 * Call No.: Y SING S821 WOR
 
 
-<img src="/images/diyresources/secondary/Viridian_SusanGates.jpg" alt="Viridian image" style="width: 30%;">
+<img src="/images/diyresources/secondary/viridian_susangates.jpg" alt="Viridian image" style="width: 30%;">
 
-| [RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Viridian-Worksheet-and-Extract.PDF) | [RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Viridian-Facilitators-Guide.PDF) |
+| [RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/rrw-secondary-viridian-worksheet-and-extract.pdf) | [RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/rrw-secondary-viridian-facilitators-guide.pdf) |
 
 * Title: [Viridian](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200165574)
 * Author: Susan Gates
@@ -172,37 +172,37 @@ Print out and put up these eye-catching posters and entertaining activities!
 **Posters (5 mins)**
 
 | ***New!* 2021 Posters for Secondary Schools** | 
-| <a href="/images/diyresources/secondary/Secondary-Poster-21-ebooks.PDF"><img src="/images/diyresources/secondary/secposter-ebooks.png" alt="eBooks poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Literary-Genres.PDF"><img src="/images/diyresources/secondary/secposter-genres.png" alt="Know Your Book poster" style="width: 50%;"></a> |
-| <a href="/images/diyresources/secondary/Secondary-Poster-21-DDC.PDF"><img src="/images/diyresources/secondary/secposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Secondary-Poster-21-Etiquette.PDF"><img src="/images/diyresources/secondary/secposter-etiquette.png" alt="Etiquette poster" style="width: 50%;"></a> |
-| <a href="/images/diyresources/secondary/Secondary-Poster-21-YA-Quotes.PDF"><img src="/images/diyresources/secondary/secposter-quotes.png" alt="YA quotes poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/secondary-poster-21-ebooks.pdf"><img src="/images/diyresources/secondary/secposter-ebooks.png" alt="eBooks poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/secondary-poster-21-literary-genres.pdf"><img src="/images/diyresources/secondary/secposter-genres.png" alt="Know Your Book poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/secondary-poster-21-ddc.pdf"><img src="/images/diyresources/secondary/secposter-ddc.png" alt="DDC guide poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/secondary-poster-21-etiquette.pdf"><img src="/images/diyresources/secondary/secposter-etiquette.png" alt="Etiquette poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/secondary-poster-21-ya-quotes.pdf"><img src="/images/diyresources/secondary/secposter-quotes.png" alt="YA quotes poster" style="width: 50%;"></a> |
 
 
 |**Past Posters**|
 | <a href="/images/diyresources/secondary/fiction-poster.jpg"><img src="/images/diyresources/secondary/fiction-poster.jpg" alt="Fiction poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/non-fic.jpg"><img src="/images/diyresources/secondary/non-fic.jpg" alt="Non-fiction poster" style="width: 50%;"></a> |
-| <a href="/images/diyresources/secondary/NLB-Author-Poster-FA.PDF"><img src="/images/diyresources/secondary/Authors.jpg" alt="Fiction Authors poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/NLB-First-Line-Posters-FA.PDF"><img src="/images/diyresources/secondary/First-Line.jpg" alt="First line poster" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/nlb-author-poster-fa.pdf"><img src="/images/diyresources/secondary/authors.jpg" alt="Fiction Authors poster" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/nlb-first-line-posters-fa.pdf"><img src="/images/diyresources/secondary/first-line.jpg" alt="First line poster" style="width: 50%;"></a> |
 
 
 Recommended genre posters for Lower Secondary
 
 *Click on the links below to download the posters*
 
-| [Fantasy](/images/diyresources/secondary/Lower-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Lower-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Lower-Sec-Thriller-Book-Buzz-Poster.PDF) |
-| [Science Fiction](/images/diyresources/secondary/Lower-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Lower-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |
+| [Fantasy](/images/diyresources/secondary/lower-sec-fantasy-book-buzz-poster.pdf) | [Horror](/images/diyresources/secondary/lower-sec-horror-book-buzz-poster.pdf) | [Thriller](/images/diyresources/secondary/lower-sec-thriller-book-buzz-poster.pdf) |
+| [Science Fiction](/images/diyresources/secondary/lower-sec-science-fiction-book-buzz-poster.pdf) | [Realistic Fiction](/images/diyresources/secondary/lower-sec-realistic-fiction-book-buzz-poster.pdf) |
 
 
 Recommended genre posters for Upper Secondary
 
 *Click on the links below to download the posters*
 
-| [Fantasy](/images/diyresources/secondary/Upper-Sec-Fantasy-Book-Buzz-Poster.PDF) | [Horror](/images/diyresources/secondary/Upper-Sec-Horror-Book-Buzz-Poster.PDF) | [Thriller](/images/diyresources/secondary/Upper-Sec-Thriller-Book-Buzz-Poster.PDF) |
-| [Science Fiction](/images/diyresources/secondary/Upper-Sec-Science-Fiction-Book-Buzz-Poster.PDF) | [Realistic Fiction](/images/diyresources/secondary/Upper-Sec-Realistic-Fiction-Book-Buzz-Poster.PDF) |
+| [Fantasy](/images/diyresources/secondary/upper-sec-fantasy-book-buzz-poster.pdf) | [Horror](/images/diyresources/secondary/upper-sec-horror-book-buzz-poster.pdf) | [Thriller](/images/diyresources/secondary/upper-sec-thriller-book-buzz-poster.pdf) |
+| [Science Fiction](/images/diyresources/secondary/upper-sec-science-fiction-book-buzz-poster.pdf) | [Realistic Fiction](/images/diyresources/secondary/upper-sec-realistic-fiction-book-buzz-poster.pdf) |
 
 
 **Activities (30 mins)**
 
 Suggested activities to liven up reading corners everywhere!
 
-<a href="/images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.PDF"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
+<a href="/images/diyresources/secondary/fa_nlb_schoollibrarymakeover_inner-pages.pdf"><img src="/images/diyresources/secondary/slm-activity-sec.jpg" alt="Golden ticket image" style="width: 50%;"></a>
 
 
 <b><a href="#top">Back to top</a></b>
@@ -217,13 +217,13 @@ Explore the world wide web with these activity sheets from EYEYAH!
 Bonus: Print them out or take a screenshot with your phone to colour the black and white versions in!
 
 | How much e-waste can you spot? (b&amp;w) | How much e-waste can you spot? (colour) |
-| <a href="/images/diyresources/secondary/E-Waste_BW.jpg"><img src="/images/diyresources/secondary/E-Waste_BW-scaled.jpg" alt="ewaste bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/E-Waste_color.jpg"><img src="/images/diyresources/secondary/E-Waste_color-scaled.jpg" alt="ewaste coloured worksheet" style="width: 70%;"></a> |
+| <a href="/images/diyresources/secondary/e-waste_bw.jpg"><img src="/images/diyresources/secondary/e-waste_bw-scaled.jpg" alt="ewaste bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/e-waste_color.jpg"><img src="/images/diyresources/secondary/e-waste_color-scaled.jpg" alt="ewaste coloured worksheet" style="width: 70%;"></a> |
 | Head in the Clouds (b&amp;w) | Head in the Clouds (colour) | 
-| <a href="/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg"><img src="/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg" alt="head in the clouds bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/Head-in-the-Clouds_color.jpg"><img src="/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg" alt="head in the clouds coloured worksheet" style="width: 70%;"></a> |
+| <a href="/images/diyresources/secondary/head-in-the-clouds_bw.jpg"><img src="/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg" alt="head in the clouds bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/head-in-the-clouds_color.jpg"><img src="/images/diyresources/secondary/head-in-the-clouds_color-scaled.jpg" alt="head in the clouds coloured worksheet" style="width: 70%;"></a> |
 | Did you know...(b&amp;w) | Did you know...(colour) |
-| <a href="/images/diyresources/secondary/Selfies_BW-scaled.jpg"><img src="/images/diyresources/secondary/Selfies_BW-scaled.jpg" alt="selfies bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/Selfies_color.jpg"><img src="/images/diyresources/secondary/Selfies_color-scaled.jpg" alt="selfies coloured worksheet" style="width: 70%;"></a> |
+| <a href="/images/diyresources/secondary/selfies_bw-scaled.jpg"><img src="/images/diyresources/secondary/selfies_bw-scaled.jpg" alt="selfies bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/selfies_color.jpg"><img src="/images/diyresources/secondary/selfies_color-scaled.jpg" alt="selfies coloured worksheet" style="width: 70%;"></a> |
 | What do you do online? (b&amp;w) | What do you do online? (colour) |
-| <a href="/images/diyresources/secondary/What-Do-You-Do-Online_BW.jpg"><img src="/images/diyresources/secondary/What-Do-You-Do-Online_BW-scaled.jpg" alt="what do you do online bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/What-Do-You-Do-Online_color.jpg"><img src="/images/diyresources/secondary/What-Do-You-Do-Online_color-scaled.jpg" alt="what do you do online coloured worksheet" style="width: 70%;"></a> |
+| <a href="/images/diyresources/secondary/what-do-you-do-online_bw.jpg"><img src="/images/diyresources/secondary/what-do-you-do-online_bw-scaled.jpg" alt="what do you do online bw worksheet" style="width: 70%;"></a> | <a href="/images/diyresources/secondary/what-do-you-do-online_color.jpg"><img src="/images/diyresources/secondary/what-do-you-do-online_color-scaled.jpg" alt="what do you do online coloured worksheet" style="width: 70%;"></a> |
 
 The above activity sheets are courtesy of EYEYAH!
 
@@ -237,15 +237,15 @@ Sec 1 – Sec 2
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.PDF"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
+| <a href="/images/sure/infographic-facing-up-to-fake-news.jpg"><img src="/images/sure/infographic-facing-up-to-fake-news.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/sure-kit-activity-sheet-fa.pdf"><img src="/images/sure/capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
-| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.PDF) |
+| [![Sure toolkit map image](/images/sure/capture-2.png)](/images/sure/sure-kit-a3-map-fa.pdf) |
 
 
 **Fake News #2**
 
 | Activity Sheet | SURE-vivor Booklet |
-| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.PDF"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.PDF"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
+| <a href="/images/sure/fa_08030218_read-like-a-detective.pdf"><img src="/images/sure/capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/fa_surevivor-booklet-06032020.pdf"><img src="/images/sure/capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
 For more great information literacy resources, click [here](/services/other-services/sure)!
 

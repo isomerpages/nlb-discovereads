@@ -9,7 +9,7 @@ third_nav_title: STEAM Lab
 | [About The Event](#about-the-event) | [How To Participate](#how-to-participate) | [S.T.E.A.M. Lab Mini Videos](#steam-lab-mini-videos)
 
 ### S.T.E.A.M. Lab 
-![](/images/STEAM%20Lab%20EB%20Banner.png)
+![](/images/steam%20lab%20eb%20banner.png)
 
 #### About the Event
 

@@ -6,7 +6,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 **Announcement: _Book Bugs: Rescuers of Stories Lost_ has ended.**
 
-<img src="/images/events/bookbugsr/BBR-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
+<img src="/images/events/bookbugsr/bbr-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
 
 Dear Rescuers, thank you for reading and restoring Bugtopia and the lost stories! Here’s what some of you had to say about your _Book Bugs: Rescuers of Stories Lost_  journey.
 
@@ -62,8 +62,8 @@ Last updated: 29 December 2022, 6pm
 
 ### Explore
 
-[<img src="/images/events/bookbugsr/Updates.png" alt="Updates" style="width: 25%" align="left">](/events/bookbugsr/Updates/)[<img src="/images/events/bookbugsr/story.png" alt="How to Play" style="width: 25%" align="left">](/events/bookbugsr/story/)[<img src="/images/events/bookbugsr/redeem.png" alt="How to Redeem" style="width: 25%" align="left">](/events/bookbugsr/redeem/)[<img src="/images/events/bookbugsr/play.png" alt="How to Play" style="width: 25%" align="left">](/events/bookbugsr/play/)
-[<img src="/images/events/bookbugsr/Buglist.png" alt="Buglist" style="width: 25%" align="left">](/events/bookbugsr/buglist/)[<img src="/images/events/bookbugsr/quizzes.png" alt="Quiz" style="width: 25%" align="left">](/events/bookbugsr/quiz/)[<img src="/images/events/bookbugsr/Quest.png" alt="Quests" style="width: 25%" align="left">](/events/bookbugsr/quests/)[<img src="/images/events/bookbugsr/community.png" alt="Community" style="width: 25%" align="left">](/events/bookbugsr/community/)<br>
+[<img src="/images/events/bookbugsr/updates.png" alt="Updates" style="width: 25%" align="left">](/events/bookbugsr/Updates/)[<img src="/images/events/bookbugsr/story.png" alt="How to Play" style="width: 25%" align="left">](/events/bookbugsr/story/)[<img src="/images/events/bookbugsr/redeem.png" alt="How to Redeem" style="width: 25%" align="left">](/events/bookbugsr/redeem/)[<img src="/images/events/bookbugsr/play.png" alt="How to Play" style="width: 25%" align="left">](/events/bookbugsr/play/)
+[<img src="/images/events/bookbugsr/buglist.png" alt="Buglist" style="width: 25%" align="left">](/events/bookbugsr/buglist/)[<img src="/images/events/bookbugsr/quizzes.png" alt="Quiz" style="width: 25%" align="left">](/events/bookbugsr/quiz/)[<img src="/images/events/bookbugsr/quest.png" alt="Quests" style="width: 25%" align="left">](/events/bookbugsr/quests/)[<img src="/images/events/bookbugsr/community.png" alt="Community" style="width: 25%" align="left">](/events/bookbugsr/community/)<br>
 
 <br>
 <br>

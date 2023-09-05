@@ -22,7 +22,7 @@ Chalk, blackboards, wooden furniture, brushing your teeth by the drain. School d
 
 **Books**
 
-<img src="/images/diyresources/Aman_goes_to_school.jpg" alt="Aman_goes_to_school" style="width: 40%;">
+<img src="/images/diyresources/aman_goes_to_school.jpg" alt="Aman_goes_to_school" style="width: 40%;">
 
 [Aman Goes to School](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205420890) <br>
 by Sandeep Singh <br>
@@ -42,7 +42,7 @@ Do you take the same bus to school every morning? Can you recall what the driver
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/School_in_the_glass_city.jpg" alt="School in the Glass City" style="width: 40%;">
+<img src="/images/diyresources/school_in_the_glass_city.jpg" alt="School in the Glass City" style="width: 40%;">
 
 [The Adventures of Greco and Beco: The School in the Glass City](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202807999) <br>
 by Gwen Lee <br>

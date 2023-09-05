@@ -51,11 +51,11 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 **Easy-to-Read Booklist**
 
-<a href="/images/recommendationsprimary/High_Interest_Booklist.PDF"><img src="/images/recommendationsprimary/High_Interest_Image.PNG" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
+<a href="/images/recommendationsprimary/high_interest_booklist.pdf"><img src="/images/recommendationsprimary/high_interest_image.png" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
 
-<a href="/files/primary-book-recommendations/WEB%20NLB%20Easy-to-Read%20Booklist%20(spread)-compressed.pdf"><img src="/images/recommendationsprimary/Easy_To_Read_2.png" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
+<a href="/files/primary-book-recommendations/web%20nlb%20easy-to-read%20booklist%20(spread)-compressed.pdf"><img src="/images/recommendationsprimary/easy_to_read_2.png" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
 
-<a href="/images/recommendationsprimary/Making-Books-Accessible.PDF"><img src="/images/recommendationsprimary/Making-Books-Accessible.jpg" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
+<a href="/images/recommendationsprimary/making-books-accessible.pdf"><img src="/images/recommendationsprimary/making-books-accessible.jpg" alt="PwD 717 High interest booklist" style="width: 40%;"></a>
 
 
 
@@ -63,11 +63,11 @@ Check out past Suggested Reads [here](/book-recommendations/archives/recommend-p
 
 | ***New!*** AFCC 2022 | 
 
-<a href="/files/primary-book-recommendations/AFCC-Biblio-2022.pdf" ><img src="/images/recommendationsprimary/AFCC22-Cover.png" alt="AFCC Reading List 2022" style="width: 70%;"></a> 
+<a href="/files/primary-book-recommendations/afcc-biblio-2022.pdf" ><img src="/images/recommendationsprimary/afcc22-cover.png" alt="AFCC Reading List 2022" style="width: 70%;"></a> 
 
 | AFCC 2021 | AFCC 2020|
 
-<a href="/images/recommendationsprimary/NLB_AFCC_FA_ForWeb.PDF"><img src="/images/recommendationsprimary/AFCC-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_NLB_AFCCReadingList-LOW-RES-1.PDF"><img src="/images/recommendationsprimary/AFCC-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
+<a href="/images/recommendationsprimary/nlb_afcc_fa_forweb.pdf"><img src="/images/recommendationsprimary/afcc-2021.png" alt="AFCC Reading List 2021" style="width: 100%;"></a> | <a href="/images/recommendationsprimary/20200331_nlb_afccreadinglist-low-res-1.pdf"><img src="/images/recommendationsprimary/afcc-1.png" alt="AFCC Reading List 2020" style="width: 100%;"></a> |
 
 
 

@@ -5,7 +5,7 @@ date: 2022-01-21
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/budding%20scientists_er%20logo.png)
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
@@ -16,7 +16,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <h3 class="margin--bottom--lg" id="lp-amazingbody"><b>The Amazing Body: Let’s Explore My Body!  </b></h3>
  <p><b>Suitable for 3 to 6 years old children</b></p>
  
-<img src="/images/science-lfa/Human%20body/body1.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/human%20body/body1.png" style="width:600px; text-align:center;">
 <p> The human body is a complex machine. The different parts of our body work together to do many amazing things. Let’s have some fun learning about the human body and how it functions!</p>
 
 <h4>LET'S SING!</h4>
@@ -25,7 +25,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://youtu.be/yRNXfe9-aWo" target="_blank">
-       <img src="/images/science-lfa/Human%20body/cocomelon-thumbnail.jpg" style="width:400px; text-align:left;"></a>
+       <img src="/images/science-lfa/human%20body/cocomelon-thumbnail.jpg" style="width:400px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -38,7 +38,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 rhyme or sung to a catchy tune.</p>
 
 <h4>LET'S LEARN!</h4>
-<img src="/images/science-lfa/Human%20body/body2.png" style="width:350px; text-align:center;">
+<img src="/images/science-lfa/human%20body/body2.png" style="width:350px; text-align:center;">
 
 <p> Did you know these fun facts about the human body?<p>  
 <ul>
@@ -53,23 +53,23 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 
 <h4>LET'S PLAY!</h4> 
 
-<img src="/images/science-lfa/Human%20body/body4.png" style="width:300px; text-align:center;">
+<img src="/images/science-lfa/human%20body/body4.png" style="width:300px; text-align:center;">
 
-<p> <a href="/files/science-lfa/Human%20body/bodypartssactivity3.pdf" target="_blank ">Give our activity sheet a try!</a> Have your child count and indicate the number of body parts. Through this activity, your child can learn how to identify and spell the names of the body parts.</p>
+<p> <a href="/files/science-lfa/human%20body/bodypartssactivity3.pdf" target="_blank ">Give our activity sheet a try!</a> Have your child count and indicate the number of body parts. Through this activity, your child can learn how to identify and spell the names of the body parts.</p>
 
-<p>Here is <a href="/files/science-lfa/Human%20body/bodypartsactivityanswersheet5.pdf" target="_blank ">the answer sheet for the Body Parts activity sheet</a>.</p>
+<p>Here is <a href="/files/science-lfa/human%20body/bodypartsactivityanswersheet5.pdf" target="_blank ">the answer sheet for the Body Parts activity sheet</a>.</p>
 
-<img src="/images/science-lfa/Human%20body/body8.png" style="width:300px; text-align:center;">
+<img src="/images/science-lfa/human%20body/body8.png" style="width:300px; text-align:center;">
 
-<p> Good job! Here’s another <a href="/files/science-lfa/Human%20body/internalorgansactivitysheet7.pdf" target="_blank">activity sheet about internal organs!</a> Have your child label them. Through this activity, your child can identify, read aloud, and spell the names of the internal organs.
+<p> Good job! Here’s another <a href="/files/science-lfa/human%20body/internalorgansactivitysheet7.pdf" target="_blank">activity sheet about internal organs!</a> Have your child label them. Through this activity, your child can identify, read aloud, and spell the names of the internal organs.
 
-<p>Here is <a href="/files/science-lfa/Human%20body/internalorgansanswersheet9.pdf" target="_blank ">the answer sheet for the Internal Organs activity sheet</a>.</p>
+<p>Here is <a href="/files/science-lfa/human%20body/internalorgansanswersheet9.pdf" target="_blank ">the answer sheet for the Internal Organs activity sheet</a>.</p>
 	
 <h4>Tips for Parents:</h4> 
 <p> Doing simple activities such as these with your child will help spark an interest on the topic, even for concepts that may seem to be way over their heads. Don’t underestimate how much your child can absorb new information! Once, your child is interested in learning more, you can supplement their knowledge with books from the library!</p>
 
 <h4>LET'S READ!</h4><br>
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 205454612" target="_blank"><img src="/images/science-lfa/Human%20body/bodiesarecool11.jpg" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 205454612" target="_blank"><img src="/images/science-lfa/human%20body/bodiesarecool11.jpg" style="width:250px; text-align:left;"></a>
 
 <p><b>Bodies Are Cool</b><br>
         <u>Author:</u> Tyler Feder<br>
@@ -80,9 +80,9 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
 
 <h4>LET'S CRAFT!</h4>
  <h5>Label, Colour and Create with A Human Body Puppet!</h5>
- <img src="/images/science-lfa/Human%20body/body12.png" style="width:300px; text-align:center;">
+ <img src="/images/science-lfa/human%20body/body12.png" style="width:300px; text-align:center;">
 
-<p>Work with your child to make their <a href="/files/science-lfa/Human%20body/TemplateforHumanBodyPuppetActivity13.pdf" target="_blank ">own human body puppet!</a> </p>
+<p>Work with your child to make their <a href="/files/science-lfa/human%20body/templateforhumanbodypuppetactivity13.pdf" target="_blank ">own human body puppet!</a> </p>
 
 <h5>Materials needed</h5>
 <ul>
@@ -99,7 +99,7 @@ Rooney, A., & Gómez Ana. (2021). New York, NY: Windmill Books, an imprint of R
  <p>2. Colour the human body.</p>
  <p>3. Label the human body parts.</p> 
  <p>4. Cut around the human body with labels and attach a chopstick behind with a tape.</p>
-<img src="/images/science-lfa/Human%20body/puppet-mockup.png" style="width:300px; text-align:center;">
+<img src="/images/science-lfa/human%20body/puppet-mockup.png" style="width:300px; text-align:center;">
 <h4>LET'S INVESTIGATE!</h4>
  
 <h5> How does the body work? Let’s Explore with Your Human Body Puppet!</h5>
@@ -144,13 +144,13 @@ and shoulders) before moving on to the middle body parts (stomach, arms etc.) an
 body parts (legs, feet and backside).</p>
 
 <p>Slowly, your child will begin to recognise their body parts!</p>
-<img src="/images/science-lfa/Human%20body/body16.png" style="width:450px; text-align:center;">
+<img src="/images/science-lfa/human%20body/body16.png" style="width:450px; text-align:center;">
 	
 <p>2. Play a movement game with your child to help them develop their body awareness. Get them to 
 walk in different directions. For example,forwards and backwards, running, jump, balance on one foot 
 like a flamingo and so on.</p>
 
-<img src="/images/science-lfa/Human%20body/body17.png" style="width:350px; text-align:center;">
+<img src="/images/science-lfa/human%20body/body17.png" style="width:350px; text-align:center;">
 
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
@@ -179,7 +179,7 @@ like a flamingo and so on.</p>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/Human%20body/ItsFunToLearnAboutMyBody18.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202617448" target="_blank"><img src="/images/science-lfa/human%20body/itsfuntolearnaboutmybody18.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>It’s Fun To Learn About My Body</b><br>
@@ -189,7 +189,7 @@ like a flamingo and so on.</p>
          </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/Human%20body/CuriousQuestionsAndAnswersAboutMyBody19.png" style="width:160px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205372550" target="_blank"><img src="/images/science-lfa/human%20body/curiousquestionsandanswersaboutmybody19.png" style="width:160px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Curious Questions And Answers About….My Body</b><br>
@@ -201,7 +201,7 @@ like a flamingo and so on.</p>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200702489" target="_blank"><img src="/images/science-lfa/Human%20body/MyBody20.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200702489" target="_blank"><img src="/images/science-lfa/human%20body/mybody20.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> My Body</b><br>
@@ -211,7 +211,7 @@ like a flamingo and so on.</p>
    </div>
  <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13373223" target="_blank"><img src="/images/science-lfa/Human%20body/ThankYouForMe21.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13373223" target="_blank"><img src="/images/science-lfa/human%20body/thankyouforme21.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Thank You For Me!</b><br>

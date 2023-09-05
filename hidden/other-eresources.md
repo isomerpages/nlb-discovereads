@@ -44,7 +44,7 @@ Tamil eBooks is a collection of poetry, classic literature, and novels.
 
  
 
-**Want more information? Check out our [eResources booklet](/images/unsorted/hidden/NLB-eResource-Booklet.pdf).**
+**Want more information? Check out our [eResources booklet](/images/unsorted/hidden/nlb-eresource-booklet.pdf).**
 
 ## **Other Links**
 

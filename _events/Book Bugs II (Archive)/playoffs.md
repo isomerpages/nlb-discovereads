@@ -26,7 +26,7 @@ The Book Bugs II Playoffs is an event where Book Bugs II fans will be able to en
 
 **Please note that all tokens are available while stocks last.**
 
-For a list of frequently asked questions about **Competitive Play**, **Friendly Play**, **Swap Pass** and **Card Trading**, click [here](/images/events/bookbugs/dR-book-bugs-II-playoffs-FAQ.pdf)
+For a list of frequently asked questions about **Competitive Play**, **Friendly Play**, **Swap Pass** and **Card Trading**, click [here](/images/events/bookbugs/dr-book-bugs-ii-playoffs-faq.pdf)
 
-Participants taking part in the competitive play are required to comply with the [game regulations](/images/events/bookbugs/Book-Bugs-II-Guide-for-Competitive-Play-v3.pdf).
+Participants taking part in the competitive play are required to comply with the [game regulations](/images/events/bookbugs/book-bugs-ii-guide-for-competitive-play-v3.pdf).
 

@@ -4,7 +4,7 @@ permalink: /diy-resources/preschool-resources/discover-science/
 description: ""
 third_nav_title: Preschool Resources
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Discover%20Science_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/discover%20science_er%20logo.png)
 
 <h3>Discover and Learn!</h3>
 
@@ -15,7 +15,7 @@ third_nav_title: Preschool Resources
 <p>Click on the banners below and embark on a fun, fulfilling Science journey!</p>
 
 <h4>Budding Scientists</h4>
- <img src="/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png" style="width:250px; text-align:left;">
+ <img src="/images/science-lfa/banners/budding%20scientists_er%20logo.png" style="width:250px; text-align:left;">
  
 Click [here](/budding-scientists) for Budding Scientists (featuring The Amazing Body)
 
@@ -29,4 +29,4 @@ Click [here](/allaboutanimals) for All About Animals
 
 <h4>Budding Engineers</h4>
 
-Click [here](/budding-engineers) <img src="/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png" style="width:250px; text-align:left;">
+Click [here](/budding-engineers) <img src="/images/science-lfa/banners/budding%20engineers_er%20logo.png" style="width:250px; text-align:left;">

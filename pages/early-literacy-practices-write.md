@@ -2,7 +2,7 @@
 title: Early Literacy Practices (Write)
 permalink: /earlylit-write/
 ---
-| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) |
+| [![Play image](/images/diyresources/preschool/earlyreadprac_play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/earlyreadprac_write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/earlyreadprac_talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/earlyreadprac_sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/earlyreadprac_read.png)](/earlylit-read) |
 
 <p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
 
@@ -76,4 +76,4 @@ Small h has always lived with the other H’s in a city surrounded by walls that
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-**For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](/files/preschool/early%20literacy%20practices_compiled.pdf).**

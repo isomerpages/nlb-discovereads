@@ -8,12 +8,12 @@ third_nav_title: Book Bugs X (Archive)
 
 Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired by local and regional folktales and trivia? Scroll down to find out what served as the inspiration for each Bug! If you want to read the stories that inspired our Bugs, refer to the book list on our [Resources page](/events/bookbugsx/resources), or read *<a href="https://go.gov.sg/bb-guide" target="_blank" rel="noopener noreferrer">An Explorer's Guide to Book Bugs: Explorers of Stories Past</a>* ! You will find that some popular folktales and fairy tales, such as Cinderella and Little Red Riding Hood, actually have their Asian equivalents too!
 
-[<img src="/images/events/bookbugsx/Button_Forests.png" alt="Digital Resources" style="width: 25%" align="left">](#magical-forests)[<img src="/images/events/bookbugsx/Button_Seas.png" alt="Printables" style="width: 25%" align="left">](#mysterious-seas)[<img src="/images/events/bookbugsx/Button_Mountains.png" alt="Book Lists" style="width: 25%" align="left">](#mystical-mountains)[<img src="/images/events/bookbugsx/Button_Homes.png" alt="Useful Links" style="width: 25%" align="left">](#marvellous-homes)
+[<img src="/images/events/bookbugsx/button_forests.png" alt="Digital Resources" style="width: 25%" align="left">](#magical-forests)[<img src="/images/events/bookbugsx/button_seas.png" alt="Printables" style="width: 25%" align="left">](#mysterious-seas)[<img src="/images/events/bookbugsx/button_mountains.png" alt="Book Lists" style="width: 25%" align="left">](#mystical-mountains)[<img src="/images/events/bookbugsx/button_homes.png" alt="Useful Links" style="width: 25%" align="left">](#marvellous-homes)
 
 
 #### Magical Forests
 
-<img src="/images/events/bookbugsx/Bug List Names.jpg" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/bug list names.jpg" alt="List of Magical Forests Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name |Inspired by|
 |:---:| :----| :--- |
@@ -64,7 +64,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 
 #### Mysterious Seas
 
-<img src="/images/events/bookbugsx/Bug List Seas.png" alt="List of Mysterious Seas Bugs" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/bug list seas.png" alt="List of Mysterious Seas Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name |Inspired by|
 |:---:| :----| :--- |
@@ -81,7 +81,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 
 #### Mystical Mountains
 
-<img src="/images/events/bookbugsx/Bug List Mountains.png" alt="List of Mystical Mountains Bugs" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/bug list mountains.png" alt="List of Mystical Mountains Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name |Inspired by|
 |:---:| :----| :--- |
@@ -98,7 +98,7 @@ Did you know that the Bugs in Book Bugs: Explorers of Stories Past are inspired 
 
 #### Marvellous Homes
 
-<img src="/images/events/bookbugsx/Bug List Homes Aug21.png" alt="List of Marvellous Homes Bugs" style="width: 100%" align="centre">
+<img src="/images/events/bookbugsx/bug list homes aug21.png" alt="List of Marvellous Homes Bugs" style="width: 100%" align="centre">
 
 |Bug number|Bug Name|Inspired by|
 |:---:| :----| :--- |

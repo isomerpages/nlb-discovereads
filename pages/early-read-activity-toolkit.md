@@ -2,7 +2,7 @@
 title: Early Read Activity Toolkit
 permalink: /activity-toolkit/permalink/
 ---
-![](/images/activity-toolkit-thumbnails/Activity%20Toolkit%20Thumbnail.png)
+![](/images/activity-toolkit-thumbnails/activity%20toolkit%20thumbnail.png)
 
 ## About the Activity Toolkit
 

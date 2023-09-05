@@ -1301,14 +1301,14 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 
-<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 80%;"></a>
+<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/boba-book-recommendations.png" alt="Boba Book Recommendations" style="width: 80%;"></a>
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
 <b><a href="#top">Back to top</a></b>
 
 
-<a name="id4">![DIY Room Decor header](/images/diyresources/secondary/TTDIYRoomDecorBanner.png)</a>
+<a name="id4">![DIY Room Decor header](/images/diyresources/secondary/ttdiyroomdecorbanner.png)</a>
 #### <a name="id4">**DIY Room Décor**</a>
 
 Give your room an instant makeover – create a personalized photo wall collage with your favourite things and memories that will bring you joy!
@@ -1339,7 +1339,7 @@ A floor, a ceiling, and four boring walls? No more! Get creative, show your room
 This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/3690653](https://nlb.overdrive.com/media/3690653)
 
 
-<img src="/images/diyresources/secondary/Picture-4.jpg" alt="Living simply image" style="width: 40%;">
+<img src="/images/diyresources/secondary/picture-4.jpg" alt="Living simply image" style="width: 40%;">
 
 **Living Simply: A Teen Guide to Minimalism**<br>
 By Sally McGraw<br>
@@ -1363,7 +1363,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 <b><a href="#top">Back to top</a></b>
 
 
-<a name="id3">![Science Exploration header](/images/diyresources/secondary/TTScienceBanner.png)</a>
+<a name="id3">![Science Exploration header](/images/diyresources/secondary/ttsciencebanner.png)</a>
 #### **Science Exploration**
 
 “Grow” your unique rock candy and wonder at the process of crystallization. Not only is this a fun experiment but the result is also tasty!
@@ -1388,7 +1388,7 @@ Delve into the science behind rock candy [here](https://www.sciencebuddies.org/s
 ##### **Be inspired!**
 Read these eBooks for mind-blowing science facts and revelations on quirky food myths.
 
-<img src="/images/diyresources/secondary/Everyday-Amazing.jpg" alt="Everyday amazing image" style="width: 40%;">
+<img src="/images/diyresources/secondary/everyday-amazing.jpg" alt="Everyday amazing image" style="width: 40%;">
 
 **Everyday Amazing**<br>
 By Beatrice the Biologist<br>
@@ -1399,7 +1399,7 @@ Learn the basics of atomic science, sound waves, bioscience, microbiology, and m
 This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4500950](https://nlb.overdrive.com/media/4500950)
 
 
-<img src="/images/diyresources/secondary/Did-You-Just-Eat-That.jpg" alt="Did you just eat that image" style="width: 40%;">
+<img src="/images/diyresources/secondary/did-you-just-eat-that.jpg" alt="Did you just eat that image" style="width: 40%;">
 
 **Did You Just Eat That? (Two Scientists Explore Double-Dipping, the Five-Second Rule, and other Food Myths in the Lab)**<br>
 By Paul Dawson & Brian Sheldon<br>
@@ -1425,7 +1425,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 <b><a href="#top">Back to top</a></b>
 
 
-<a name="id2">![Cooking Pasta header](/images/diyresources/secondary/TTPastaBanner.png)</a>
+<a name="id2">![Cooking Pasta header](/images/diyresources/secondary/ttpastabanner.png)</a>
 #### **Cooking Pasta**
 
 Whip up this classic Italian dish with minimal fuss anytime! Snap a photo and wow your friends with your own creation of pasta Alfredo using simple ingredients.
@@ -1447,7 +1447,7 @@ Source: [How to make… Pasta Alfredo! 3 INGREDIENTS!](https://youtu.be/ZnC6Fo2d
 ##### **Be inspired!**
 Read these eBooks to step up your food game.
 
-<img src="/images/diyresources/secondary/Noodlemania.jpg" alt="Noodlemania image" style="width: 40%;">
+<img src="/images/diyresources/secondary/noodlemania.jpg" alt="Noodlemania image" style="width: 40%;">
 
 **Noodlemania! 50 Playful Pasta Recipes**<br>
 By Melissa Barlow<br>
@@ -1458,7 +1458,7 @@ You’ll go noodle crazy with the playful and colourful pasta recipes in Noodlem
 This book is available on Overdrive at [https://nlb.overdrive.com/media/1219921](https://nlb.overdrive.com/media/1219921).
 
 
-<img src="/images/diyresources/secondary/Maker-Comics-Bake-Like-a-Pro.jpg" alt="Maker comics image" style="width: 40%;">
+<img src="/images/diyresources/secondary/maker-comics-bake-like-a-pro.jpg" alt="Maker comics image" style="width: 40%;">
 
 **Maker Comics: Bake Like a Pro!**<br>
 By Falynn Koch<br>
@@ -1481,7 +1481,7 @@ The book covers and synopses are the copyright of the respective publishing comp
 
 <b><a href="#top">Back to top</a></b>
 
-<a name="id1">![For the 'Gram header](/images/diyresources/secondary/TTGramBanner.png)</a>
+<a name="id1">![For the 'Gram header](/images/diyresources/secondary/ttgrambanner.png)</a>
 #### **For the ‘Gram**
 
 Level up your Instagram posts! Watch this video to learn 10 simple tricks to make your stories stand out.
@@ -1495,7 +1495,7 @@ Source: [10 creative ways to edit your insta stories using ONLY the instagram AP
 ##### **Be inspired!**
 Check out these eBooks to boost your Instagram creativity.
 
-<img src="/images/diyresources/secondary/Cats-on-Instagram.jpg" alt="Cats on instagram image" style="width: 40%;">
+<img src="/images/diyresources/secondary/cats-on-instagram.jpg" alt="Cats on instagram image" style="width: 40%;">
 
 **Cats on Instagram**<br>
 By @cats_of_instagram<br>
@@ -1506,7 +1506,7 @@ Cat lovers, rejoice! This irresistible book compiles over 400 photos from the hu
 This book is available on Overdrive at [https://nlb.overdrive.com/media/2688902](https://nlb.overdrive.com/media/2688902).
 
 
-<img src="/images/diyresources/secondary/A-Beautiful-Mess-Photo-Idea-Book.jpg" alt="A beautiful mess image" style="width: 40%;">
+<img src="/images/diyresources/secondary/a-beautiful-mess-photo-idea-book.jpg" alt="A beautiful mess image" style="width: 40%;">
 
 **A beautiful mess photo idea book : 95 inspiring ideas for photographing your friends, your world, and yourself**<br>
 By Elsie Larson<br>

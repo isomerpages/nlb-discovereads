@@ -11,7 +11,7 @@ description: ""
 
 ## **JRA Recruitment**
 
-![JRA Logo 2023](/images/unsorted/jra/JRA-logo-2023.png)
+![JRA Logo 2023](/images/unsorted/jra/jra-logo-2023.png)
 
 **What is the Junior Reading Ambassador programme?**
 
@@ -49,5 +49,5 @@ Nominations for the 2023 round of recruitment are open from **6 February 2023 to
 
 **If you’re a parent/guardian**, please access the nomination form through the QR code or URL below to nominate your child/ward. Do note that the nominee will be required to answer five assessment questions in the nomination form.
 
-<img style="width: 50%;" src="/images/unsorted/jra/QR-code-JRA-Recruitment-2023.png">
+<img style="width: 50%;" src="/images/unsorted/jra/qr-code-jra-recruitment-2023.png">
 [https://go.gov.sg/jrarecruit2023](https://go.gov.sg/jrarecruit2023)

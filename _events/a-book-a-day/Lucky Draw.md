@@ -15,7 +15,7 @@ third_nav_title: A Book A Day
 
 ### **Lucky Draw Qualifying Period**
 
-![](/images/events/abookaday/ABAD%202023%20Qualifying%20Period.jpg)
+![](/images/events/abookaday/abad%202023%20qualifying%20period.jpg)
 
 
-Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](/files/preschool/ABAD/Lucky%20Draw%20Terms%20(21%20Oct%2022)_A%20Book%20A%20Day%202023.pdf).
+Only a summary of the Terms and Conditions are set out here. For the full Terms and Conditions for the reading programme and the Lucky Draw, please click [here](/files/preschool/abad/lucky%20draw%20terms%20(21%20oct%2022)_a%20book%20a%20day%202023.pdf).

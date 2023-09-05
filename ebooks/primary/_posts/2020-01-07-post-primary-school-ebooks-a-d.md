@@ -7,7 +7,7 @@ permalink: /ebooks/primary/pri-a-d/
 
 ## **[Sec 1] A Properly Unhaunted Place**
 
-<img src="/images/discovereads/secondary/A Properly Unhaunted Place.jpg" style="width: 50%;">
+<img src="/images/discovereads/secondary/a properly unhaunted place.jpg" style="width: 50%;">
 
 **By William Alexander**
 

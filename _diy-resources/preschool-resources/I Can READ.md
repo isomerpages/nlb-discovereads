@@ -4,7 +4,7 @@ permalink: /diy-resources/preschool-resources/i-can-read/
 description: ""
 third_nav_title: Preschool Resources
 ---
-![I Can READ](/images/diyresources/preschool/i-can-read/I%20Can%20READ%20Banner.png)
+![I Can READ](/images/diyresources/preschool/i-can-read/i%20can%20read%20banner.png)
 <br>
 
 |**New!*** <a href="#lp-write">Early Literacy Practice: Write </a>| **New!*** <a href="#lp-play">Early Literacy Practice: Play </a>|<a href="#lp-talk">Early Literacy Practice: Talk </a>|<a href="#lp-sing"> Early Literacy Practice: Sing</a>|
@@ -271,7 +271,7 @@ Singing has many benefits for early literacy development. Learn how you can buil
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/INCY.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094208" target="_blank"><img src="/images/diyresources/preschool/i-can-read/incy.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
 			<p><b>Incy Wincy Spider</b><br>
@@ -372,7 +372,7 @@ A spring-themed board book that includes Easter eggs, bunnies, chicks, and more 
 
 <img src="/images/diyresources/preschool/i-can-read/0-12%20months%20.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/0-12%20months%20activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/0-12%20months%20activity.pdf) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 
@@ -429,7 +429,7 @@ Trace along the trail with your finger as you enjoy beloved nursery rhymes with 
 
 <img src="/images/diyresources/preschool/i-can-read/1-3%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/1-3%20years%20old%20activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/1-3%20years%20old%20activity.pdf) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 <br>
@@ -487,7 +487,7 @@ Ladybug is so lazy that she doesn't know how to fly. She wants to find a new pla
 	<br><br>
 <img src="/images/diyresources/preschool/i-can-read/4-6%20yo.png" style="width:70%">
 
-Click [here](/files/preschool/i-can-read/4-6%20years%20old%20activity.PDF) to download a copy of the activity sheet.
+Click [here](/files/preschool/i-can-read/4-6%20years%20old%20activity.pdf) to download a copy of the activity sheet.
 
 <b><a href="#top">Back to top</a></b>
 	

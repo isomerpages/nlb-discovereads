@@ -2,7 +2,7 @@
 title: Early Literacy Practices (Sing)
 permalink: /earlylit-sing/
 ---
-| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) | 
+| [![Play image](/images/diyresources/preschool/earlyreadprac_play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/earlyreadprac_write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/earlyreadprac_talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/earlyreadprac_sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/earlyreadprac_read.png)](/earlylit-read) | 
 
 <p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
 
@@ -73,7 +73,7 @@ Adapted from: https://www.readingrockets.org/sites/default/files/fcrr-rhyming-ga
 
 Follow Jack and Jill up the hill, row row your boat down the stream and buckle your shoe in Playtime Rhymes. Toddlers will love using the chunky push, pull and slide mechanisms to bring these classic playtime rhymes to life. Scan the QR code to sing along together too!
 
-<img src="/images/diyresources/preschool/Eric%20Carle%20Twinkle%20Twinkle%20Little%20Star.jpg" style="width:40%">
+<img src="/images/diyresources/preschool/eric%20carle%20twinkle%20twinkle%20little%20star.jpg" style="width:40%">
 
 **Title:** [Eric Carle's Twinkle, Twinkle, Little Star: and Other Nursery Rhymes: a lift-the-flap book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205379296 ) <br>
 **Author:** Eric Carle <br>
@@ -84,7 +84,7 @@ Follow Jack and Jill up the hill, row row your boat down the stream and buckle y
 
 Featuring an interactive lift-flap on every spread, a sturdy casebound board book complements five classic nursery rhymes with signature artwork by the award-winning creator of The Very Hungry Caterpillar.
 
-<img src="/images/diyresources/preschool/Rapunzel.jpg" style="width:40%">
+<img src="/images/diyresources/preschool/rapunzel.jpg" style="width:40%">
 
 **Title:** [Rapunzel: A Favourite Story in Rhythm and Rhyme](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204305903 ) <br>
 **Author:** Jonathan Peale <br>
@@ -95,7 +95,7 @@ Featuring an interactive lift-flap on every spread, a sturdy casebound board boo
 
 Rapunzel has been trapped high up in a tower by an evil witch. The only way in or out of her prison is to climb Rapunzel's long, golden hair. Then one day a prince sees Rapunzel, but what happens when evil witch catches him climbing up into the tower? Find out as this classic fairy tale comes to life with music and full-color illustrations.
 
-<img src="/images/diyresources/preschool/Ten%20minutes%20in%20bed.jpg" style="width:50%">
+<img src="/images/diyresources/preschool/ten%20minutes%20in%20bed.jpg" style="width:50%">
 
 **Title:** [Little Dragon](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205480887) <br>
 **Author:** Rhiannon Fielding <br>
@@ -108,4 +108,4 @@ This is the perfect book to calm little sleepy dragons everywhere, just in time 
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
-**For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+**For more activities and book recommendations, click [here](/files/preschool/early%20literacy%20practices_compiled.pdf).**

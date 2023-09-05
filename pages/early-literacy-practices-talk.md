@@ -2,7 +2,7 @@
 title: Early Literacy Practices (Talk)
 permalink: /earlylit-talk/
 ---
-| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) |
+| [![Play image](/images/diyresources/preschool/earlyreadprac_play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/earlyreadprac_write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/earlyreadprac_talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/earlyreadprac_sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/earlyreadprac_read.png)](/earlylit-read) |
 
 <p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
 
@@ -43,7 +43,7 @@ Adapted from [Activities That Teach Safety](https://www.scholastic.com/teachers/
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Give%20it.jpg" alt="give it moneybunny" style="width:40%">
+<img src="/images/diyresources/preschool/give%20it.jpg" alt="give it moneybunny" style="width:40%">
 
 **Title:** [Give It!: A Moneybunny Book ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205243838)<br>
 **Author:** Cinders McLeod <br>

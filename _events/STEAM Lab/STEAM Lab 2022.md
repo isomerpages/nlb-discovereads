@@ -11,14 +11,14 @@ third_nav_title: STEAM Lab
 
 | [S.T.E.A.M. Lab Booths](#steam-lab-booths) | [S.T.E.A.M. Programmes](#steam-programmes) | 
 
-![](/images/STEAM%20Lab%20EB%20Banner.png)
+![](/images/steam%20lab%20eb%20banner.png)
 
 *Please note that the programme schedule is not final and will be updated on a regular basis.*
 
 #### S.T.E.A.M. Lab Booths
 
 
-![](/images/Infographic%20Steam%20Lab%20Poster.png)
+![](/images/infographic%20steam%20lab%20poster.png)
 
 10 and 11 September, Saturday and Sunday <br>
 11 am – 5 pm<br>

@@ -29,13 +29,13 @@ Christmas season at the National Library Board was in full swing! The place was 
 
 But in the hustle and bustle of it all, a bespectacled young boy noticed something out of place on the Christmas tree  — a Morganna! But as soon as he had spotted the beautiful moth, it fluttered away. Completely entranced, the boy dropped his book and followed the trail of red smoke left by Morganna.
 
-![Morganna](/images/events/bookbugs/story/28_Morganna.png)
+![Morganna](/images/events/bookbugs/story/28_morganna.png)
 
 He followed Morganna past doors marked “No Entry”, and into an empty corridor. Morganna landed on a door to the storeroom and disappeared behind it; the red smoke, however, remained, ominous as ever. Out of curiosity, he entered, and saw that Morganna had settled on a book – a book with a lock that prevented anyone from reading the contents. Strange…
 
 Morganna transformed itself into a crimson key. The boy picked up the book to take a closer look, its musty smell prickling his nose. Dust bunnies scattered, revealing ancient incantations engraved on the cover. The incantations made the book resemble a lost relic.
 
-![Sealed key](/images/events/bookbugs/story/Sealed-Key.png)
+![Sealed key](/images/events/bookbugs/story/sealed-key.png)
 
 “Open it…” a strange voice beckoned.
 
@@ -53,13 +53,13 @@ Meanwhile, the open book continued to glow red and a scorpion insignia was now c
 
 “After all this time, sealed in that wretched book…” Skorpius said with a sinister snort and crushed the lock with his pincers.
 
-![Skorpius](/images/events/bookbugs/story/Skorpius.png)
+![Skorpius](/images/events/bookbugs/story/skorpius.png)
 
 In that very storeroom, full of antiquities, broken furniture, stationery, and other bits and bobs, Skorpius sat on a makeshift throne of paintcans and brushes in all his glory. He had two large, menacing pincers, a whip-like stinger and a pair of petrifying obsidian eyes. He surveyed his surroundings, and spotted a calendar with 25 Dec 2015 circled.
 
 “Well Guardians, hell hath no fury like a scorpion scorned.”
 
-![Skull](/images/events/bookbugs/story/Skull.png)
+![Skull](/images/events/bookbugs/story/skull.png)
 
 He picked up a skull artefact and looked admiringly at it. Scarlet energy beams surged from the skull and struck all the books in the storeroom.
 
@@ -67,15 +67,15 @@ He picked up a skull artefact and looked admiringly at it. Scarlet energy beams 
 
 ## **Act II: The Unexpected Guest**
 
-![Act ii page 1](/images/events/bookbugs/story/Comic-1-1-The-Unexpected-Guest.png)
+![Act ii page 1](/images/events/bookbugs/story/comic-1-1-the-unexpected-guest.png)
 
-![Act ii page 2](/images/events/bookbugs/story/Comic-1-2-The-Unexpected-Guest.png)
+![Act ii page 2](/images/events/bookbugs/story/comic-1-2-the-unexpected-guest.png)
 
 ## **Act III: The Rise of the Guardians**
 
-![Act iii page 1](/images/events/bookbugs/story/Comic-2-1-The-Rise-of-the-Guardians.png)
+![Act iii page 1](/images/events/bookbugs/story/comic-2-1-the-rise-of-the-guardians.png)
 
-![Act iii page 2](/images/events/bookbugs/story/Comic-2-2-The-Rise-of-the-Guardians.png)
+![Act iii page 2](/images/events/bookbugs/story/comic-2-2-the-rise-of-the-guardians.png)
  
  ## **Act IV: The Skirmish at SengKang**
 
@@ -92,7 +92,7 @@ Glancing at the clock on the wall, she noticed that it was already 10.55am – f
 Petra’s forehead wrinkled in concentration. Thankfully, she had managed to conjure a temporary illusion to conceal the disarray just in time, so the humans found nothing amiss. She then made her way to the group of dancing bugs. Approaching the bug closest to her, she grabbed his shoulder and shook him so hard that his head wobbled back and forth.
 
 
-<img src="/images/events/bookbugs/story/35_Byte-brainwashed.png" style="width: 30%;">
+<img src="/images/events/bookbugs/story/35_byte-brainwashed.png" style="width: 30%;">
 
 “Byte! Listen to me, you’ve got to wake up! This isn’t you!”
 

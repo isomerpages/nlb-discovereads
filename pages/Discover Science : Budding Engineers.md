@@ -5,7 +5,7 @@ date: 2022-01-19
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Engineers_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/budding%20engineers_er%20logo.png)
 
 | **New!*** <a href="#lp-magneticrockets">Blast Off with Magnetic Rockets</a> | 
 
@@ -130,7 +130,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
 <h5 class="margin--bottom--lg" id="lp-rocketship"><b>Pulling Force: Rocket Ship</b></h5>
 
 <h4> LET’S CREATE!</h4>
-<img src="/images/science-lfa/magnetic-rockets/magnet6-3%20Jade%20Magnetic%20Rocket%20post%204mb.jpg" style="width:350px; text-align:left;">
+<img src="/images/science-lfa/magnetic-rockets/magnet6-3%20jade%20magnetic%20rocket%20post%204mb.jpg" style="width:350px; text-align:left;">
 
 <p><i>For children who wish to colour in the craft – especially with paint – please have your beautiful creation ready before you try the experiments!</i></p>
 
@@ -152,7 +152,7 @@ Click on the image to download the templates (A4 Quote; A4 Maze; A4 Moon, Stars,
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <a href="https://go.gov.sg/blastoffwithmagneticrockets-activity-rocketship" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-4%20POST%203%20Activity%20Rocket%20Ship%20Pulling%20Force%20Craft%20Jade.png" style="width:250px; text-align:left;"></a>
+       <a href="https://go.gov.sg/blastoffwithmagneticrockets-activity-rocketship" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet6-4%20post%203%20activity%20rocket%20ship%20pulling%20force%20craft%20jade.png" style="width:250px; text-align:left;"></a>
 <p>Click on the image to download the worksheet </p>
      </div>
    </div>
@@ -339,7 +339,7 @@ Watch what happens in this video and follow along as your child discovers more a
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <a href="https://go.gov.sg/blastoffwithmagneticrockets-letsread" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17-1%20lets%20read%20magnetic%20rockets%20Jade.png" style="width:250px; text-align:left;"></a>
+       <a href="https://go.gov.sg/blastoffwithmagneticrockets-letsread" target="_blank"><img src="/images/science-lfa/magnetic-rockets/magnet17-1%20lets%20read%20magnetic%20rockets%20jade.png" style="width:250px; text-align:left;"></a>
 			<p>Click on the image to download the worksheet</p>
      </div>
    </div>

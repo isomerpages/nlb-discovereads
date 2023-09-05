@@ -5,10 +5,10 @@ third_nav_title: Storytime
 ---
 ## Storytime for 4-6 year olds
 
-<img src="/images/diyresources/Storytime-DR-banner.png" alt="Storytime Banner" style="width: 70%;">
+<img src="/images/diyresources/storytime-dr-banner.png" alt="Storytime Banner" style="width: 70%;">
 
-<a href="https://form.gov.sg/#!/6049dae80c8d45001158f58e"><img src="/images/diyresources/Storytime-banner2.png" alt="Storytime Banner" style="width: 70%;"></a>
-<a href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929"><img src="/images/diyresources/Storytime-banner3.png" alt="Storytime Banner" style="width: 70%;"></a>
+<a href="https://form.gov.sg/#!/6049dae80c8d45001158f58e"><img src="/images/diyresources/storytime-banner2.png" alt="Storytime Banner" style="width: 70%;"></a>
+<a href="https://www.eventbrite.sg/cc/programmes-on-storytelling-127929"><img src="/images/diyresources/storytime-banner3.png" alt="Storytime Banner" style="width: 70%;"></a>
 
 ##### North
 

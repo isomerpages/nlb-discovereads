@@ -6,7 +6,7 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 #### 30 December 2022
 
-![](/images/events/bookbugsr/BBR%20A3%20landscape.png)
+![](/images/events/bookbugsr/bbr%20a3%20landscape.png)
 
 Thank you to all Book Bugs fans for the overwhelming support of Book Bugs: Rescuers of Stories Lost in these past ten months!  
   
@@ -16,7 +16,7 @@ For more programmes for children, please visit this [link](https://www.eventbrit
 
 #### 29 December 2022
 
-![](/images/events/bookbugsr/The%20End%20Stickers%20edited.png)
+![](/images/events/bookbugsr/the%20end%20stickers%20edited.png)
 
 Download Book Bugs stickers for [WhatsApp](https://sticker.ly/s/HUXN16) and [Telegram](https://t.me/addstickers/BookBugsRescuers)!  
 
@@ -27,7 +27,7 @@ Physical sticker sheets are available at all public libraries, except library@or
 
 #### 27 December 2022
 
-![](/images/events/bookbugsr/the-end-almost-dR.png)
+![](/images/events/bookbugsr/the-end-almost-dr.png)
 
 #### 6 December 2022
 
@@ -37,7 +37,7 @@ Click [here](https://childrenandteens.nlb.gov.sg/events/bookbugsr/) to view the 
 
 #### 1 December 2022
 
-![](/images/events/bookbugsr/Rescuers%20Quest.png)
+![](/images/events/bookbugsr/rescuers%20quest.png)
 
 The Rescuers’ Quest is an in-library treasure hunt that will reveal the story behind The End Bug.
 
@@ -50,14 +50,14 @@ The Rescuers’ Quest Quiz will be available till 4 December 2022. Catch this sp
 
 #### 23 November 2022
 Community Day at Tampines Regional Library is happening this Saturday, 26 Nov from 2pm-6pm!
-![](/images/events/bookbugsr/BBR-Community-Day-FB.png)
+![](/images/events/bookbugsr/bbr-community-day-fb.png)
 Click [here](https://childrenandteens.nlb.gov.sg/events/bookbugsr/community/) for more details!
 
 Registration for Friendlies at Woodlands and Jurong Regional Library have opened. Click [here](https://www.eventbrite.sg/cc/book-bugs-rescuers-community-day-1310889) to register now!
 
 #### 1 November 2022
 
-![](/images/events/bookbugsr/Nov%20Quiz%20Reminder.png)
+![](/images/events/bookbugsr/nov%20quiz%20reminder.png)
 **Earn Bonus Points With Our November Quiz!**
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
@@ -69,13 +69,13 @@ This is the last online quiz for Book Bugs: Rescuers of Stories Lost. Head to th
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 #### 26 October 2022
-![](/images/events/bookbugsr/BBR-Community-Day-FB.png)
+![](/images/events/bookbugsr/bbr-community-day-fb.png)
 **Join us for our Book Bugs Community Day events!**<br>
 Click [here](https://childrenandteens.nlb.gov.sg/events/bookbugsr/community/) for more details!
 
 #### 1 October 2022
 
-![](/images/events/bookbugsr/Oct%20Quiz%20Reminder.png)
+![](/images/events/bookbugsr/oct%20quiz%20reminder.png)
 **Earn Bonus Points With Our October Quiz!**
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
@@ -87,7 +87,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 #### 3 September 2022
 #### Rescuers' Quest
-<img src="/images/events/bookbugsr/Rescuers Quest.png" alt="Quest" style="width: 100%" align="left">
+<img src="/images/events/bookbugsr/rescuers quest.png" alt="Quest" style="width: 100%" align="left">
 
 The adventure begins today! Head down to your nearest public library, except library@orchard, library@esplanade and library@chinatown, to find out the untold story behind The End Bug. 
 
@@ -95,14 +95,14 @@ The first leg of the journey starts at the Book Bugs card dispensing machine!
 
 
 #### Join the Community
-<img src="/images/events/bookbugsr/Join the Community.jpg" alt="Quest" style="width: 100%" align="left">
+<img src="/images/events/bookbugsr/join the community.jpg" alt="Quest" style="width: 100%" align="left">
 
 Calling all Rescuers! Rebuild Bugtopia by submitting your original stories and creations to the #BookBugs Community Gallery.  Join us at [https://go.gov.sg/bookbugs-community.](https://go.gov.sg/bookbugs-community)
 
 
 #### 1 September 2022
 
-![](/images/events/bookbugsr/BBR%20solaris%20release.png)
+![](/images/events/bookbugsr/bbr%20solaris%20release.png)
 
 🪐Solaris🪐—a utopia of exploration and invention, and home to the elusive #BookBug behind Bugtopia’s chaos. Explore the space station’s Sector L-01, Asteroid Alley, The Wasteland, and more with the newly released Solaris cards, quizzes, newsletter, and storymap. With determination, you may be able to uncover the mystery and rescue the Book Bugs! ✨✨
 
@@ -110,7 +110,7 @@ Head to the public libraries from now till 31 December 2022 to redeem your cards
 
 #### 1 September 2022
 
-![](/images/events/bookbugsr/Sept%20Quiz%20Reminder.png)
+![](/images/events/bookbugsr/sept%20quiz%20reminder.png)
 **Earn Bonus Points With Our September Quiz!**
 
 Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)✨ tab today!
@@ -131,7 +131,7 @@ The #BookBugs are celebrating with a special guest in Bugtopia. From 5 August 20
 This card is a collaboration with [NDPeeps](http://www.facebook.com/NDPeeps).
 
 #### 1 August 2022
-[<img src="/images/events/bookbugsr/August Quiz Reminder.png" alt="August Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+[<img src="/images/events/bookbugsr/august quiz reminder.png" alt="August Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 <br>
 
@@ -144,7 +144,7 @@ Points earned from the online quizzes will be credited within 5 working days aft
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.
 
 #### 1 July 2022
-[<img src="/images/events/bookbugsr/July Quiz Reminder.png" alt="July Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+[<img src="/images/events/bookbugsr/july quiz reminder.png" alt="July Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 <br>
 
@@ -158,7 +158,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 
 #### 27 June 2022
-<img src="/images/events/bookbugsr/BBR samudera release FB v2.png" alt="July Release" style="width: 100%" align="left">
+<img src="/images/events/bookbugsr/bbr samudera release fb v2.png" alt="July Release" style="width: 100%" align="left">
 
 <br>
 
@@ -168,7 +168,7 @@ Redeem your Samudera cards from 1 July! Every book or eBook borrowed gives you 1
 
 #### 1 June 2022
 
-[<img src="/images/events/bookbugsr/Quiz4.png" alt="June Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+[<img src="/images/events/bookbugsr/quiz4.png" alt="June Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 **Earn Bonus Points With Our June Quiz!**
 
@@ -180,7 +180,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 #### 1 May 2022
 
-[<img src="/images/events/bookbugsr/May Quiz Reminder.png" alt="May Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+[<img src="/images/events/bookbugsr/may quiz reminder.png" alt="May Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 **Earn Bonus Points With Our May Quiz!**
 
@@ -193,7 +193,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 #### 29 April 2022
 
-![](/images/events/bookbugsr/BBR%20huo%20huan%20release%20FB%20v2.png)
+![](/images/events/bookbugsr/bbr%20huo%20huan%20release%20fb%20v2.png)
 
 🔥Huo Huan🔥—Bugtopia’s scorching land of fire and stone. Only the hardiest of #BookBugs call this volcanic desert their home. Explore The Labyrinth, Flavo Dune, Northern Mines, and more with the newly released Huo Huan cards, quizzes, and storymap✨. 
 
@@ -201,7 +201,7 @@ Head to the public libraries to redeem new Huo Huan cards from 4 May! Every book
 
 #### 1 April 2022
 
-[<img src="/images/events/bookbugsr/April Quiz Reminder.png" alt="April Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+[<img src="/images/events/bookbugsr/april quiz reminder.png" alt="April Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 **Earn Bonus Points With Our April Quiz!**
 
@@ -216,7 +216,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 
 #### 16 March 2022 
-[<img src="/images/events/bookbugsr/March-Quiz-Reminder .png" alt="March Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
+[<img src="/images/events/bookbugsr/march-quiz-reminder .png" alt="March Quiz" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/events/bookbugsr/quiz/)
 
 **Earn Bonus Points With Our March Quiz!**
 
@@ -228,7 +228,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 
 #### 8 March 2022
-<img src="/images/events/bookbugsr/BBR-vanam-quizzes-storymaps-release.png" alt="Vanam Quizzes and Storymaps Out Now" style="width: 100%" align="left">
+<img src="/images/events/bookbugsr/bbr-vanam-quizzes-storymaps-release.png" alt="Vanam Quizzes and Storymaps Out Now" style="width: 100%" align="left">
 
 **Vanam Quizzes and Storymaps Out Now!**
 
@@ -248,21 +248,21 @@ We are experiencing a high volume of card redemptions. Redemptions at some publi
 We seek your patience and understanding, and thank you for your continued support for Book Bugs!
 
 #### 1 March 2022
-<img src="/images/events/bookbugsr/BBR vanam cards release FB static.png" alt="the Book Bugs are Here" style="width: 100%" align="left">
+<img src="/images/events/bookbugsr/bbr vanam cards release fb static.png" alt="the Book Bugs are Here" style="width: 100%" align="left">
 
 **The Book Bugs are here!**
 
 You can now start collecting Book Bugs cards at all Public Libraries except library@chinatown, library@esplanade and library@orchard.
 
 #### 18 February 2022
-<img src="/images/events/bookbugsr/BBR Stickers Announcement.png" alt="Comic 1 Release" style="width: 100%" align="left">
+<img src="/images/events/bookbugsr/bbr stickers announcement.png" alt="Comic 1 Release" style="width: 100%" align="left">
 
 Download Book Bugs stickers for <a href="https://sticker.ly/s/HUXN16" target="_blank" rel="noopener noreferrer">WhatsApp</a> and <a href="https://t.me/addstickers/BookBugsRescuers" target="_blank" rel="noopener noreferrer">Telegram</a>!
 
 Please note that you will need to download a third-party app to view the stickers on WhatsApp.
 
 #### 21 January 2022
-[<img src="/images/events/bookbugsr/BBRnewcardlaunchdate FB.png" alt="Comic 1 Release" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)
+[<img src="/images/events/bookbugsr/bbrnewcardlaunchdate fb.png" alt="Comic 1 Release" style="width: 100%" align="left">](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)
 
 
 
@@ -270,7 +270,7 @@ Book Bugs Rescuers unite! From 1 March 2022, The Book Bugs: Rescuers of Stories 
 
 
 #### 1 December 2021
-[<img src="/images/events/bookbugsr/Bookbugsr_update_1.png" alt="Comic 1 Release" style="width: 100%" align="left">](/events/bookbugsr/redeem)<br><br>
+[<img src="/images/events/bookbugsr/bookbugsr_update_1.png" alt="Comic 1 Release" style="width: 100%" align="left">](/events/bookbugsr/redeem)<br><br>
 
 <br>
 Keep an eye on this page for updates!

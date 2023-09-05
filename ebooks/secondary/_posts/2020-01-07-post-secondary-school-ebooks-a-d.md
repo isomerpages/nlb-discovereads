@@ -1,7 +1,7 @@
 ---
 title: Secondary School eBooks (A - D)
 permalink: /ebooks/secondary/sec1-a-d/
-image: /images/discovereads/secondary/A Properly Unhaunted Place.jpg
+image: /images/discovereads/secondary/a properly unhaunted place.jpg
 ---
 
 ## **[Sec 1] A Properly Unhaunted Place**

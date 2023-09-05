@@ -2,7 +2,7 @@
 title: Malay Language Services | Bahasa Ibunda
 permalink: /malay-language/
 ---
-[![programme information malay](/images/mother-tongue-services/malay-icons/Programme%20Information_Malay.png)](#programme-information) | [![digital offerings malay](/images/mother-tongue-services/malay-icons/Digital%20Offerings_Malay.png)](#digital-offerings) |[![resources malay](/images/mother-tongue-services/malay-icons/Resources%20_Malay.png)](#resources) | [![reading recommendations malay](/images/mother-tongue-services/malay-icons/Reading%20Recommendations_Malay.png)](#reading-recommendations)| [![contact us malay](/images/mother-tongue-services/malay-icons/Contact%20Us%20Icon_Malay.png)](#contact-us)|
+[![programme information malay](/images/mother-tongue-services/malay-icons/programme%20information_malay.png)](#programme-information) | [![digital offerings malay](/images/mother-tongue-services/malay-icons/digital%20offerings_malay.png)](#digital-offerings) |[![resources malay](/images/mother-tongue-services/malay-icons/resources%20_malay.png)](#resources) | [![reading recommendations malay](/images/mother-tongue-services/malay-icons/reading%20recommendations_malay.png)](#reading-recommendations)| [![contact us malay](/images/mother-tongue-services/malay-icons/contact%20us%20icon_malay.png)](#contact-us)|
 
 
 
@@ -74,7 +74,7 @@ Gig Puisi is a platform for poets and poetry enthusiasts to come together to per
 <div class="wrapper" style="width: 100%;">
 <div class="container" style="display: flex; margin: auto; align-content: flex-start; width: inherit; flex-wrap: wrap">  
 <div class="image-container" style="margin: auto;">
-		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-Pri.PDF"><img src="/images/recommendationsprimary/NLB-Malay-Graded-Reading-List-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
+		<b>Malay Graded Reading List 2017</b><a href="/images/recommendationsprimary/nlb-malay-graded-reading-list-pri.pdf"><img src="/images/recommendationsprimary/nlb-malay-graded-reading-list-cover.png" style="max-width: 24.35rem; padding: 10px; margin: auto;"></a>
 	</div>
 	</div></div>
 

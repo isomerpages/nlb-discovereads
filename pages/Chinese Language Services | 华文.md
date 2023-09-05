@@ -2,11 +2,11 @@
 title: Chinese Language Services | 华文
 permalink: /chinese-language/
 ---
-|[![Programme Information](/images/mother-tongue-services/Programme%20Information_Chinese.png)](#活动信息) | [![Digital Offerings](/images/mother-tongue-services/Digital%20Offerings_Chinese.png)](#线上活动)|
+|[![Programme Information](/images/mother-tongue-services/programme%20information_chinese.png)](#活动信息) | [![Digital Offerings](/images/mother-tongue-services/digital%20offerings_chinese.png)](#线上活动)|
 
-|[![Resources](/images/mother-tongue-services/Resources_Chinese.png)](#阅读资源) | [![Reading Recommendations](/images/mother-tongue-services/Reading%20Recommendations_Chinese.png)](#阅读推荐) | 
+|[![Resources](/images/mother-tongue-services/resources_chinese.png)](#阅读资源) | [![Reading Recommendations](/images/mother-tongue-services/reading%20recommendations_chinese.png)](#阅读推荐) | 
 
-|[![Contact Us](/images/mother-tongue-services/Contact%20Us_Chinese%20.png)](#联系我们)|![Padding](/images/mother-tongue-services/Blank%20Space-%20TS.png)|
+|[![Contact Us](/images/mother-tongue-services/contact%20us_chinese%20.png)](#联系我们)|![padding](/images/mother-tongue-services/blank%20space-%20ts.png)|
 
 Check out our latest video for 0-3:
 
@@ -19,18 +19,18 @@ Check out our latest video for 0-3:
 
 Resource List
 
-[Summary of preschool activities](/files/Preschool%20activities.pdf)
+[Summary of preschool activities](/files/preschool%20activities.pdf)
 
-[Summary of primary school activities](/files/Primary%20school%20activities.pdf)
+[Summary of primary school activities](/files/primary%20school%20activities.pdf)
 
-[Summary of secondary school activities](/files/Secondary%20school%20activities.pdf)
+[Summary of secondary school activities](/files/secondary%20school%20activities.pdf)
 
 
 ### 活动信息                                                       
 
 
 
-![](/images/mother-tongue-services/Programme%20Information.png)
+![](/images/mother-tongue-services/programme%20information.png)
 
 **活动信息细说：
 
@@ -59,7 +59,7 @@ Resource List
 
 
 
-![](/images/Digital%20Offerings_13%20April%202022.png)
+![](/images/digital%20offerings_13%20april%202022.png)
 
 **线上活动报名链接：
 
@@ -81,7 +81,7 @@ Resource List
 
 
 
-![](/images/mother-tongue-services/Reading%20Resources.png)
+![](/images/mother-tongue-services/reading%20resources.png)
 
 **阅读资源细说：
 
@@ -109,29 +109,29 @@ Resource List
 
 
 
-![](/images/mother-tongue-services/Reading%20Recommendations%20(Libby%20Containers).png)
+![](/images/mother-tongue-services/reading%20recommendations%20(libby%20containers).png)
 
 **其他的阅读推荐:
 
 ****小学推荐书单:
 
-[Holiday Reads with MOE-CPCLL 2020 (Primary School)](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020%20(Primary%20School).pdf)
+[Holiday Reads with MOE-CPCLL 2020 (Primary School)](/files/holiday%20reads%20with%20moe-cpcll%202020%20(primary%20school).pdf)
 
-[Holiday Reads with MOE-CPCLL 2021 (Primary School)](/files/Holiday%20Reads%20with%20MOE-CPCLL%202021%20(Primary%20School).pdf)
+[Holiday Reads with MOE-CPCLL 2021 (Primary School)](/files/holiday%20reads%20with%20moe-cpcll%202021%20(primary%20school).pdf)
 
 [小学分级读物](https://go.gov.sg/pri-chinesegradedbooks)
 
 ****中学推荐书单:
 
-[Holiday Reads with MOE-CPCLL 2021](/files/Holiday%20Reads%20with%20MOE-CPCLL%202021.pdf)
+[Holiday Reads with MOE-CPCLL 2021](/files/holiday%20reads%20with%20moe-cpcll%202021.pdf)
 
-[Holiday Reads with MOE-CPCLL 2020](/files/Holiday%20Reads%20with%20MOE-CPCLL%202020.pdf)
+[Holiday Reads with MOE-CPCLL 2020](/files/holiday%20reads%20with%20moe-cpcll%202020.pdf)
 
-[NLB Recommended Reads for Teens 2022](/files/NLB%20Recommended%20Reads%20for%20Teens%202022_1.pdf)
+[NLB Recommended Reads for Teens 2022](/files/nlb%20recommended%20reads%20for%20teens%202022_1.pdf)
 
-[NLB Recommended Reads for Teens 2021](/files/NLB%20Recommended%20Reads%20for%20Teens%202021.pdf)
+[NLB Recommended Reads for Teens 2021](/files/nlb%20recommended%20reads%20for%20teens%202021.pdf)
 
-[NLB Recommended Reads for Teens 2020](/files/NLB%20Recommended%20Reads%20for%20Teens%202020.pdf)
+[NLB Recommended Reads for Teens 2020](/files/nlb%20recommended%20reads%20for%20teens%202020.pdf)
 
 [推荐给中学生的电子书（Libby）书单](https://go.gov.sg/teen-books-we-love )
 
@@ -148,7 +148,7 @@ Resource List
 	
 ### 联系我们
 
-![](/images/mother-tongue-services/Contact%20Us.png)
+![](/images/mother-tongue-services/contact%20us.png)
 
 若想多了解图书馆活动信息，
 

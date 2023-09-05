@@ -9,16 +9,16 @@ third_nav_title: Book Bugs II (Archive)
 
 ## **Book Bugs- How to Play**
 
-| [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbugs2/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs2/story)
-| [![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png)](/events/bookbugs2/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png)](/events/bookbugs2/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png)](/events/bookbugs2/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png)](/events/bookbugs2/glossary) |
+| [![Book Bugs Updates](/images/events/bookbugs/vikus-updates.png)](/events/bookbugs2/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/iyern-gx-how-to-redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/molder-how-to-play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/valeria-story.png)](/events/bookbugs2/story)
+| [![Book Bugs Bug List](/images/events/bookbugs/nym9-bug-list.png)](/events/bookbugs2/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/cybug-quiz.png)](/events/bookbugs2/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/book-bugs-ii-dr-buttons-merigold.png)](/events/bookbugs2/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/book-bugs-ii-dr-buttons-glossary.png)](/events/bookbugs2/glossary) |
 
 **Book Bugs II, The Game**
 2 – 4 players battle using a variety of Book Bugs II Cards.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qha5Ri1diQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Download Game Guide Here](/images/events/bookbugs/Book-Bugs-II-Game-Guide-v5.pdf)
-[Download Guide For Competitive Play Here](/images/events/bookbugs/Book-Bugs-II-Guide-for-Competitive-Play-v3.pdf)
+[Download Game Guide Here](/images/events/bookbugs/book-bugs-ii-game-guide-v5.pdf)
+[Download Guide For Competitive Play Here](/images/events/bookbugs/book-bugs-ii-guide-for-competitive-play-v3.pdf)
 
 **How to Play**
 
@@ -81,6 +81,6 @@ After a player plays a card, their turn will end. The only exception to this is 
 
 **Playoffs: Competitive Play**
 
-The game of Book Bugs II played at a competitive level. All players are expected to abide by the rules. You may view the [Book Bugs II Guide for Competitive Play](/images/events/bookbugs/Book-Bugs-II-Guide-for-Competitive-Play-v3.pdf). This will be held in November.
+The game of Book Bugs II played at a competitive level. All players are expected to abide by the rules. You may view the [Book Bugs II Guide for Competitive Play](/images/events/bookbugs/book-bugs-ii-guide-for-competitive-play-v3.pdf). This will be held in November.
 
-If you’d like to hone your skills further, you can check out the [Strategy Guide here](/images/events/bookbugs/Book-Bugs-Strategy-Guide.pdf)
+If you’d like to hone your skills further, you can check out the [Strategy Guide here](/images/events/bookbugs/book-bugs-strategy-guide.pdf)

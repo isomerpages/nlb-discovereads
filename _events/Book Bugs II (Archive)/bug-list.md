@@ -9,16 +9,16 @@ third_nav_title: Book Bugs II (Archive)
 
 ## **Book Bugs - Bug List**
 
-| [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbug2s/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs2/story)
-| [![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png)](/events/bookbugs2/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png)](/events/bookbugs2/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png)](/events/bookbugs2/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png)](/events/bookbugs2/glossary) |
+| [![Book Bugs Updates](/images/events/bookbugs/vikus-updates.png)](/events/bookbug2s/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/iyern-gx-how-to-redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/molder-how-to-play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/valeria-story.png)](/events/bookbugs2/story)
+| [![Book Bugs Bug List](/images/events/bookbugs/nym9-bug-list.png)](/events/bookbugs2/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/cybug-quiz.png)](/events/bookbugs2/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/book-bugs-ii-dr-buttons-merigold.png)](/events/bookbugs2/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/book-bugs-ii-dr-buttons-glossary.png)](/events/bookbugs2/glossary) |
 
-![Bug list poster](/images/events/bookbugs/Bug-List-Poster_low-res-1.png)
+![Bug list poster](/images/events/bookbugs/bug-list-poster_low-res-1.png)
 
 Did you know that the new Book Bugs are based on iconic fictional characters and genre archetypes? Also, every Book Bug is tied to an actual book that you can find at the Public Libraries! You see, the bugs are bonded to the book, their home. It is also commonly known as their Book of Residence. You might see this term in the [Story](events/bookbugs/story)!
 
 **5 new Booster Bugs!**
 
-| ![Gaheris poster](/images/events/bookbugs/Book-Bugs-New-ghaeris.png) | ![Rascal poster](/images/events/bookbugs/Book-Bugs-New-5-Cards_rascal.png) | ![Lothar poster](/images/events/bookbugs/Book-Bugs-New-lothar.png) | ![Centrepid poster](/images/events/bookbugs/Book-Bugs-New-centrepid.png) | ![Griselda](/images/events/bookbugs/Book-Bugs-New-griselda.png) |
+| ![Gaheris poster](/images/events/bookbugs/book-bugs-new-ghaeris.png) | ![Rascal poster](/images/events/bookbugs/book-bugs-new-5-cards_rascal.png) | ![Lothar poster](/images/events/bookbugs/book-bugs-new-lothar.png) | ![Centrepid poster](/images/events/bookbugs/book-bugs-new-centrepid.png) | ![Griselda](/images/events/bookbugs/book-bugs-new-griselda.png) |
 
 Here is the list of Book Bugs, their Character Basis and their Book of Residences!
 

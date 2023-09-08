@@ -3,7 +3,7 @@ title: "Budding Scientists: ABC's of Applied Mathematics for Kids"
 permalink: /abcsofappliedmathforkids/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/budding%20scientists_er%20logo.png)
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
@@ -12,7 +12,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <h3 class="margin--bottom--lg" id="lp-shapesandpolygons"><b>ABC's of Applied Mathematics: Let's Play with Shapes and Polygons!  </b></h3>
 <p><b>Suitable for 4 to 6 years old children</b></p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Thumbnail.png" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/thumbnail.png" style="width:200px; text-align:center;">
 
 <p>Squares, triangles, and rectangles are shapes that can be found in the world around us. There are also many other interesting shapes such as pentagons, hexagons, and octagons. Let us enter the wonderful world of polygons and discover the shapes that are around us!</p>
 
@@ -21,7 +21,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <h4>LET'S SING!</h4>
 <h5>Tuning-in Song: We are Shapes</h5>   
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/TuningInSong.jpg" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/tuninginsong.jpg" style="width:600px; text-align:center;">
 
 <p> Repeat this song with other shapes such as circles, rectangles and triangles and ask your child if they can notice and name any differences between their characteristics!</p>
 
@@ -32,7 +32,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <h4>LET'S READ!</h4>
 
-<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 202564426" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/BookforStorytelling_Shapes.png" style="width:250px; text-align:left;"></a>
+<a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN= 202564426" target="_blank"><img src="/images/science-lfa/shapes%20and%20polygons/bookforstorytelling_shapes.png" style="width:250px; text-align:left;"></a>
 
 <p><b>What Can I Be?</b><br>
         <u>By:</u> Ann Rand & Ingrid Fiksdahl King<br>
@@ -47,7 +47,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
  <p>3. What other objects do you think these shapes could be?</p>
  
  <h4>LET'S LEARN!</h4>
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Polygons.png" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/polygons.png" style="width:200px; text-align:center;">
 
 <b><p>What are Polygons?</p></b>
 
@@ -57,7 +57,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <p><u> Definition of a Polygon</u><br><i> The School Run. (2022). What is a polygon? TheSchoolRun. Retrieved April 30, 2022, from <a href=" https://www.theschoolrun.com/what-polygon " target="_blank"> https://www.theschoolrun.com/what-polygon</a></i>
 	
-<img src="/images/science-lfa/Shapes%20and%20Polygons/What%20are%20Polygons.png" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/what%20are%20polygons.png" style="width:400px; text-align:center;">
 
 <p> Discuss with your child if they can tell you which of the following three shapes above our polygons and their reasons why they chose that shape. Ask them if they can relate their decision to the characteristics they had learnt above. </p>
 
@@ -70,7 +70,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <b><p>Tips for Parents:</p></b>
 <p>Ask your child to observe their surroundings around them. Have them point out to you shapes and polygons that they can see around them. Make it into a fun game! It can be a variation of "I Spy." For example, "I spy...a circle!" Whoever is guessing needs to find as many circle-shaped objects they can find.</p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Let's%20learn%20about%20Shapes%20and%20Polygons!%20(1).png" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/let's%20learn%20about%20shapes%20and%20polygons!%20(1).png" style="width:200px; text-align:center;">
 
 <b><p>What are 3D Shapes?</p></b>
 
@@ -78,7 +78,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <p>To differentiate between 2D and 3D Shapes, let us look at a triangle and pyramid side by side!</p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/2dvs3d.png" style="width:400px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/2dvs3d.png" style="width:400px; text-align:center;">
 
 <img src="
 /images/science-lfa/Shapes%20and%20Polygons/2dvs3ddifference.png" style="width:400px; text-align:center;">
@@ -101,7 +101,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <p> Time to have some fun! Let us get creative and make robots out of polygons. Here is what you will need:</p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Materials%20Needed.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/materials%20needed.png" style="width:600px; text-align:center;">
 
 <p><b>Instructions</b></p>
 
@@ -126,13 +126,13 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <h4>LET'S PLAY!</h4>
 <p> Here are some fun downloadable activity sheets below for you and your child to have fun completing together!</p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Perfect%20Pyramids!%20(1).png" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/perfect%20pyramids!%20(1).png" style="width:200px; text-align:center;">
 
 <p> The most possibly famous 3-D shape we can see is the Pyramid! Have you seen these great structures in books, cartoons, or documentaries? Fill in the right vowels in the blanks in this sheet to unlock some fun facts about pyramids!</p>
 
 <p>Click: <a href="https://go.gov.sg/theperfectpyramids" target="_blank"> The Perfect Pyramids</a> to download and print out your activity sheet!</p>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Search%20for%20Shapes!.png" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/search%20for%20shapes!.png" style="width:200px; text-align:center;">
 
 <p> Uh oh! Looks like the shapes have gone into hiding! Can you find them in this wordsearch? Try looking up, down, left, and right as well as diagonally.</p>
 
@@ -142,23 +142,23 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <h4>LET’S TRY THESE AT HOME!</h4>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami.png" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/origami.png" style="width:200px; text-align:center;">
 
 <p> Let us give Science an artistic twist! Origami is a fun, family-oriented activity to keep the concepts of shapes and polygons fresh in your child’s mind! Try out the easy crafts below with your child!</p>
 
 <p><u> Origami Fox</u><br><i> How to fold a very easy origami Fox. Origami.me. (2018, May 14).  Retrieved April 19, 2022, from <a href="https://origami.me/fox/" target="_blank"> https://origami.me/fox/</a></i>
 	
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Fox%201.jpg" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/origami%20fox%201.jpg" style="width:200px; text-align:center;">
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Fox%202.jpg" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/origami%20fox%202.jpg" style="width:200px; text-align:center;">
 
 <b><a href="https://origami.me/fox/" target="\_blank">Craft Instructions (with Pictures)</a><br></b>
 	
 <p><u> Origami Ice Cream</u><br><i> How to make an easy origami ice cream cone. Origami.me. (2018, May 16).  Retrieved April 19, 2022, from <a href="https://origami.me/ice-cream/" target="_blank"> https://origami.me/ice-cream/ </a></i>
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Ice%20Cream%201.jpg" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/origami%20ice%20cream%201.jpg" style="width:200px; text-align:center;">
 
-<img src="/images/science-lfa/Shapes%20and%20Polygons/Origami%20Ice%20Cream%202.jpg" style="width:200px; text-align:center;">
+<img src="/images/science-lfa/shapes%20and%20polygons/origami%20ice%20cream%202.jpg" style="width:200px; text-align:center;">
 
 <b><a href="https://origami.me/ice-cream/" target="_blank">Craft Instructions (with Pictures)</a><br></b>
 
@@ -175,7 +175,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="row is-multiline margin--bottom--lg">
     <div class="col is-two-fifths">
-        <div class=image><a href="https://www.youtube.com/watch?v=69lfTURDles" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Video%20Thumbnail%201.jpg" style="width:400px; text-align:left;"></a>
+        <div class=image><a href="https://www.youtube.com/watch?v=69lfTURDles" target="_blank"><img src="/images/science-lfa/shapes%20and%20polygons/video%20thumbnail%201.jpg" style="width:400px; text-align:left;"></a>
         </div>
     </div>
     <div class="col is-two-fifths">
@@ -188,7 +188,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <div class="row is-multiline margin--bottom--lg">
 <div class="col is-two-fifths">
     <div class=image><a href="https://www.youtube.com/watch?v=guNdJ5MtX1A" target="\_blank">
-       <img src="/images/science-lfa/Shapes%20and%20Polygons/Video%20Thumbnail%202.jpg" style="width:800px; text-align:left;"></a>
+       <img src="/images/science-lfa/shapes%20and%20polygons/video%20thumbnail%202.jpg" style="width:800px; text-align:left;"></a>
      </div>
         </div>
 <div class="col is-two-fifths">
@@ -200,7 +200,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 <h4>LET'S READ!</h4>
 <div class="row is-multiline">
     <div class="col is-half-tablet padding--bottom--lg">
-        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205677145" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Shapes%20at%20the%20Park.png" style="width:150px; text-align:left;"></a>
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205677145" target="_blank"><img src="/images/science-lfa/shapes%20and%20polygons/shapes%20at%20the%20park.png" style="width:150px; text-align:left;"></a>
         </div>
         <div class="text">
             <p><b>Shapes at the Park</b><br>
@@ -210,7 +210,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
         </div>
     </div>
     <div class="col is-half-tablet padding--bottom--lg">
-        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205254001" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Amazing%20Shapes.png" style="width:160px; text-align:left;"></a>
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205254001" target="_blank"><img src="/images/science-lfa/shapes%20and%20polygons/amazing%20shapes.png" style="width:160px; text-align:left;"></a>
         </div>
         <div class="text">
             <p><b>Amazing Shapes: Lift and Learn</b><br>
@@ -222,7 +222,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 </div>
 <div class="row is-multiline">
     <div class="col is-half-tablet padding--bottom--lg">
-        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 203772711" target="_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/Drawing%20a%20Bear%20with%20Squares.jpg" style="width:200px; text-align:left;"></a>
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 203772711" target="_blank"><img src="/images/science-lfa/shapes%20and%20polygons/drawing%20a%20bear%20with%20squares.jpg" style="width:200px; text-align:left;"></a>
         </div>
         <div class="text">
             <p><b>Drawing a Bear with Squares</b><br>
@@ -232,7 +232,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
         </div>
     </div>
     <div class="col is-half-tablet padding--bottom--lg">
-        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205671175" target="\_blank"><img src="/images/science-lfa/Shapes%20and%20Polygons/I%20Spy%20Shapes.png" style="width:200px; text-align:left;"></a>
+        <div class="image"><a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN= 205671175" target="\_blank"><img src="/images/science-lfa/shapes%20and%20polygons/i%20spy%20shapes.png" style="width:200px; text-align:left;"></a>
         </div> 
         <div class="text">
             <p><b>I Spy Shapes</b><br>

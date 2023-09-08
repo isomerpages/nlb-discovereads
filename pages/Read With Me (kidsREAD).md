@@ -3,7 +3,7 @@ title: Read With Me (kidsREAD)
 permalink: /readwithme-kidsread/
 description: ""
 ---
-<img src="/images/events/abookaday/Blue%20Web%20Banner.jpg" style="width:100%">
+<img src="/images/events/abookaday/blue%20web%20banner.jpg" style="width:100%">
 
 *(updated on 28 March 2022)*
 
@@ -14,7 +14,7 @@ Read With Me: A Book A Day Reading Campaign aims to promote reading aloud to chi
 
 #### How to Participate?
 
-<a href="https://go.gov.sg/readwithme-kidsread"><img src="/images/events/abookaday/how%20to%20participate%20kidsREAD%20Clubs.jpg" style="width:100%"></a>
+<a href="https://go.gov.sg/readwithme-kidsread"><img src="/images/events/abookaday/how%20to%20participate%20kidsread%20clubs.jpg" style="width:100%"></a>
 
 You may also click on the image to register.
 
@@ -30,7 +30,7 @@ You may also click on the image to register.
 
 Each post that meets the abovementioned criteria will be tallied as one valid post, regardless of the number of photos or videos in the post. Duplicate posts will not be included in the tally. NLB reserves the right to select the winners and any decision made is final.
 
-Click [here](/files/preschool/FAQs%20for%20discovereads_kidsREAD_v3.pdf) for FAQs.
+Click [here](/files/preschool/faqs%20for%20discovereads_kidsread_v3.pdf) for FAQs.
 
 
 For further enquiries about Read With Me: A Book A Day Reading Campaign, email us at earlyread@nlb.gov.sg

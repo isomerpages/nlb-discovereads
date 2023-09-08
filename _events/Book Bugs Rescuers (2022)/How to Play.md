@@ -13,6 +13,6 @@ Watch this video to find out how to play Book Bugs: Rescuers of Stories Lost!
 ### The Game Mat
 
 Download your very own Book Bugs: Rescuers of Stories Lost game mat here! 
-[<img src="/images/events/bookbugsr/BBR Playing Mat.png" alt="Playing Mat" style="width: 100%" align="left">](https://go.gov.sg/bbrplayingmat)
+[<img src="/images/events/bookbugsr/bbr playing mat.png" alt="Playing Mat" style="width: 100%" align="left">](https://go.gov.sg/bbrplayingmat)
 
 <p class="has-text-right margin--top--xl"><a href="#main-content">Back to top</a></p>

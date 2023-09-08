@@ -9,15 +9,15 @@ Every child can be a hero every day. Ranger Buddies is a programme brought to yo
 #### Booklists
 Do check out these books curated by our Early Read librarians which will help your child to discover and appreciate our Earth’s rainforests!
 
-<a href="/files/preschool/ranger-buddies/rangerbooklist1.PDF"><img src="/images/events/ranger-buddies/rangerbooklist1.JPG" style="width: 55%;"></a>
+<a href="/files/preschool/ranger-buddies/rangerbooklist1.pdf"><img src="/images/events/ranger-buddies/rangerbooklist1.jpg" style="width: 55%;"></a>
 
-<a href="/files/preschool/ranger-buddies/rangerbooklist4.PDF"><img src="/images/events/ranger-buddies/rangerbooklist4.JPG" style="width: 55%;"></a>
+<a href="/files/preschool/ranger-buddies/rangerbooklist4.pdf"><img src="/images/events/ranger-buddies/rangerbooklist4.jpg" style="width: 55%;"></a>
 
-<a href="/files/preschool/ranger-buddies/rangerbooklist5.PDF"><img src="/images/events/ranger-buddies/rangerbooklist5.JPG" style="width: 55%;"></a>
+<a href="/files/preschool/ranger-buddies/rangerbooklist5.pdf"><img src="/images/events/ranger-buddies/rangerbooklist5.jpg" style="width: 55%;"></a>
 
-<a href="/files/preschool/ranger-buddies/rangerbooklist2.PDF"><img src="/images/events/ranger-buddies/rangerbooklist2.JPG" style="width: 55%;"></a>
+<a href="/files/preschool/ranger-buddies/rangerbooklist2.pdf"><img src="/images/events/ranger-buddies/rangerbooklist2.jpg" style="width: 55%;"></a>
 
-<a href="/files/preschool/ranger-buddies/rangerbooklist3.PDF"><img src="/images/events/ranger-buddies/rangerbooklist3.JPG" style="width: 55%;"></a>
+<a href="/files/preschool/ranger-buddies/rangerbooklist3.pdf"><img src="/images/events/ranger-buddies/rangerbooklist3.jpg" style="width: 55%;"></a>
 
 If you are keen to subscribe to Early Read’s monthly eDMs where we’ll feature upcoming programmes specifically for children aged 0 to 6 yrs old,  scan or click on the QR code.
 

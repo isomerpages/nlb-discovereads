@@ -5,7 +5,7 @@ description: ""
 ---
 
 
-![Banner img](/images/events/informationsession/INFORMATION-SESSION-FOR-EDUCATORS-2020-VIRTUAL.png)
+![Banner img](/images/events/informationsession/information-session-for-educators-2020-virtual.png)
 
 Looking for inspiration on how to make reading exciting in your schools? Stay informed and be inspired by 11 pre-recorded presentations in our virtual Information Session. Learn mindfulness techniques for application in classroom, discover new children and young adult titles that hit the library shelves, hear inspiring stories on motivating reluctant readers with comics, pick up tips in refreshing your school library collection and many more!
 
@@ -170,4 +170,4 @@ The book covers are the copyright of the respective publishing companies.
 
 Refer to the brochure for all Read@School related services.
 
-![Read@School services image](/images/events/informationsession/FA_NLB-Info-Sessions-2020-Brochures_EDM-scaled.jpg)
+![Read@School services image](/images/events/informationsession/fa_nlb-info-sessions-2020-brochures_edm-scaled.jpg)

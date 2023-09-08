@@ -91,7 +91,7 @@ Source:
 * [Map Skills for Elementary Students](https://www.nationalgeographic.org/education/map-skills-elementary-students/)<br>
 (Last accessed 14 December 2021)
 
-<img src="/images/diyresources/primary/mapping-and-navigation.JPG" alt="Mapping and Navigation" style="width: 40%;">
+<img src="/images/diyresources/primary/mapping-and-navigation.jpg" alt="Mapping and Navigation" style="width: 40%;">
 
 **Mapping and Navigation: Explore the History and Science of Finding Your Way with 20 Projects**<br>
 by: Cynthia Light Brown and Patrick McGinty<br>
@@ -101,7 +101,7 @@ In Mapping and Navigation: the history and science of finding your way, kids age
 
 This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4085924](https://nlb.overdrive.com/media/4085924)
 
-<img src="/images/diyresources/primary/reading-maps.JPG" alt="Reading Maps" style="width: 40%;">
+<img src="/images/diyresources/primary/reading-maps.jpg" alt="Reading Maps" style="width: 40%;">
 
 **Reading Maps**<br>
 by: Ann H. Matzke<br>
@@ -161,7 +161,7 @@ Source: [Science o'Clock | Yummy Buttermilk Donuts!](https://youtu.be/h6sQHMpy2_
 **Be Curious!**
 <br>Read these eBooks for more exciting kitchen chemistry!
 
-<img src="/images/Kitchen%20Science.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
+<img src="/images/kitchen%20science.png" alt=" Code Academy and the Loopy Logic (Code Academy)" style="width: 40%;">
 
 **The Kitchen Science Lab for Kids**
 <br>by Liz Lee Heinecke<br>
@@ -318,7 +318,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Source: [Grow New Plants with Food Scraps](https://www.youtube.com/watch?v=6QtoAbSzk5E) (Last accessed 22 November 2021)
 
-<img src="/images/Remake_and_recycle.png" alt="Recycle and Remake" style="width: 40%;">
+<img src="/images/remake_and_recycle.png" alt="Recycle and Remake" style="width: 40%;">
 
 
 **Recycle and Remake: Creative Project for Eco Kids**<br>
@@ -371,7 +371,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Learn more about abstract art and embark on a creative journey with these eBooks! 
 
-<img src="/images/diyresources/primary/The%20Noisy%20Paintbox.png" alt="What's The Big Idea" style="width: 40%;">
+<img src="/images/diyresources/primary/the%20noisy%20paintbox.png" alt="What's The Big Idea" style="width: 40%;">
 
 
 **The Noisy Paint Box: The Colors and Sounds of Kandinsky's Abstract Art**<br>
@@ -383,7 +383,7 @@ In this exuberant celebration of creativity, Barb Rosenstock and Mary GrandPré 
 This book is available on Overdrive at: [https://nlb.overdrive.com/media/1381713](https://nlb.overdrive.com/media/1381713)
 
 
-<img src="/images/diyresources/primary/Art%20lab%20for%20kids.png" alt="What's The Big Idea" style="width: 40%;">
+<img src="/images/diyresources/primary/art%20lab%20for%20kids.png" alt="What's The Big Idea" style="width: 40%;">
 
 **Art Lab for Kids**<br>
 by Susan Schwake<br>
@@ -488,7 +488,7 @@ Source: [How To Make and Play Batu Seremban](https://www.youtube.com/watch?v=dwS
 
 Read these eBooks to get ideas on more fun and educational games at home!
 
-<img src="/images/diyresources/primary/Everyone_Wins.jpg" alt="Everyone  wins" style="width: 40%;">
+<img src="/images/diyresources/primary/everyone_wins.jpg" alt="Everyone  wins" style="width: 40%;">
 
 **Everyone Wins!: Cooperative Games and Activities for All Ages**
 
@@ -500,7 +500,7 @@ Everyone Wins: Cooperative Games and Activities for All Ages features over 170 w
 This book is available on Overdrive at: 
 [https://nlb.overdrive.com/media/4328421](https://nlb.overdrive.com/media/4328421)
 
-<img src="/images/diyresources/primary/100_Games_for_Children.jpg" alt="Everyone  wins" style="width: 40%;">
+<img src="/images/diyresources/primary/100_games_for_children.jpg" alt="Everyone  wins" style="width: 40%;">
 
 **100 Games for Children**
 
@@ -537,7 +537,7 @@ You’ll need:
 
 Try this out and tag us on Facebook and Instagram @publiclibrarysg with #librarysg
 
-[![lava lamp video](/images/diyresources/primary/Lava%20Lamp.jpg)](https://www.youtube.com/watch?v=nqSUy5PyY_k)
+[![lava lamp video](/images/diyresources/primary/lava%20lamp.jpg)](https://www.youtube.com/watch?v=nqSUy5PyY_k)
 
 Source: [How to make a lava lamp at home](https://www.youtube.com/watch?v=nqSUy5PyY_k)(14 April 2020)
 
@@ -545,7 +545,7 @@ Source: [How to make a lava lamp at home](https://www.youtube.com/watch?v=nqSUy5
 
 Borrow these eBooks for more fun experiments you can do at home!
 
-<img src="/images/diyresources/primary/The-Kitchen-Pantry-Scientist-Chemistry-for-Kids.jpg" alt="The Kitchen Pantry Scientist" style="width: 40%;">
+<img src="/images/diyresources/primary/the-kitchen-pantry-scientist-chemistry-for-kids.jpg" alt="The Kitchen Pantry Scientist" style="width: 40%;">
 
 **The Kitchen Pantry Scientist Chemistry for Kids**
 
@@ -557,7 +557,7 @@ This engaging guide offers a series of snapshots of 25 scientists famous for the
 This book is available on Overdrive at: 
 [https://nlb.overdrive.com/media/5387274 ](https://nlb.overdrive.com/media/5387274)
 
-<img src="/images/diyresources/primary/Kate-the-Chemist-The-Big-Book-of-Experiments.jpg" alt="Kate the chemist" style="width: 40%;">
+<img src="/images/diyresources/primary/kate-the-chemist-the-big-book-of-experiments.jpg" alt="Kate the chemist" style="width: 40%;">
 
 **Kate the Chemist--The Big Book of Experiments**
 
@@ -602,7 +602,7 @@ Source: [DIY Laser Maze]( https://www.youtube.com/watch?v=AvMHYWCQ6Jc) (31 March
 Read these eBooks for more energy-busting indoor games & activities!
 
 
-<img src="/images/diyresources/primary/Unplugged-Play.jpg" alt="Unplugged Play" style="width: 40%;">
+<img src="/images/diyresources/primary/unplugged-play.jpg" alt="Unplugged Play" style="width: 40%;">
 
 **Unplugged Play: Grade School 244 Activities & Games for Ages 6-10**
 
@@ -615,7 +615,7 @@ This book is available on Overdrive at:
 [https://nlb.overdrive.com/media/4906061]( https://nlb.overdrive.com/media/4906061) 
 
 
-<img src="/images/diyresources/primary/Big-book-for-family-games.jpg" alt="Big Book for Family Games" style="width: 40%;">
+<img src="/images/diyresources/primary/big-book-for-family-games.jpg" alt="Big Book for Family Games" style="width: 40%;">
 
 **Big Book of Family Games:101 Original Family & Group Games that Don't Need Charging**
 
@@ -657,7 +657,7 @@ Source: [Cool and Simple Gift-wrapping Ideas!](https://www.youtube.com/watch?v=d
 Read these eBooks to get into the festive spirit while spending time with your family over the holidays!
 
 
-<img src="/images/diyresources/primary/Scwyc_MerryChristmasGus.png" alt="Merry Christmas, Gus" style="width: 40%;">
+<img src="/images/diyresources/primary/scwyc_merrychristmasgus.png" alt="Merry Christmas, Gus" style="width: 40%;">
 
 **Merry Christmas, Gus**
 
@@ -669,7 +669,7 @@ Gus the dog doesn't like Christmas. He doesn't like carols, or cake, or Christma
 This book is available on Overdrive at: [https://nlb.overdrive.com/media/5425565](https://nlb.overdrive.com/media/5425565) 
 
 
-<img src="/images/diyresources/primary/SCWYC_FunandEasyCrafting.png" alt="Fun and Easy Crafting" style="width: 40%;">
+<img src="/images/diyresources/primary/scwyc_funandeasycrafting.png" alt="Fun and Easy Crafting" style="width: 40%;">
 
 **Fun and Easy Crafting with Recycled Materials: 60 Cool Projects that Reimagine Paper Rolls, Egg Cartons, Jars and More!**
 
@@ -716,7 +716,7 @@ Source: [Balloon Powered Car: Make Your Own](https://https://youtu.be/PFHs-uNVFp
 Read these ebooks to explore the science of vehicles!
 
 
-<img src="/images/diyresources/primary/How-Do-Cars-Drive-Themselves.png" alt="How Do Cars Drive Themselves Image" style="width: 40%;">
+<img src="/images/diyresources/primary/how-do-cars-drive-themselves.png" alt="How Do Cars Drive Themselves Image" style="width: 40%;">
 
 **How Do Cars Drive Themselves**
 
@@ -728,7 +728,7 @@ Today’s cutting-edge cars use sensors and powerful computers to see their surr
 This book is available on Overdrive at [https://nlb.overdrive.com/media/4831229](https://nlb.overdrive.com/media/4811229) 
 
 
-<img src="/images/diyresources/primary/Catstronauts.png" alt="Catstronauts Image" style="width: 40%;">
+<img src="/images/diyresources/primary/catstronauts.png" alt="Catstronauts Image" style="width: 40%;">
 
 **CatStronauts: Robot Rescue**
 
@@ -833,7 +833,7 @@ Source: [Paper Heart Flower Craft](https://www.youtube.com/watch?v=D4XSlCCXyvU&f
 
 Check out these eBooks for ideas to transform paper into awesome creations.
 
-<img src="/images/diyresources/primary/Paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
+<img src="/images/diyresources/primary/paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
 
 **Awesome Paper Projects You Can Create (Imagine It, Build It)**
 
@@ -893,7 +893,7 @@ Source: [How to make the Cutest OWL from Paper](https://www.youtube.com/watch?v=
 
 Read these eBooks for more exciting stories featuring owls!
 
-<img src="/images/diyresources/primary/Little-Owls-Bedtime.jpg" alt="Little Owl's Bedtime" style="width: 40%;">
+<img src="/images/diyresources/primary/little-owls-bedtime.jpg" alt="Little Owl's Bedtime" style="width: 40%;">
 
 **Little Owl's Bedtime**
 
@@ -904,7 +904,7 @@ Little Owl doesn’t want to go to bed. His pillow is too lumpy, his quilt is to
 
 This eBook is available on OverDrive at [https://nlb.overdrive.com/media/5114088](https://nlb.overdrive.com/media/5114088)
 
-<img src="/images/diyresources/primary/Snowy-Owl-Invasion.png" alt="Snowy Owl Invasion" style="width: 40%;">
+<img src="/images/diyresources/primary/snowy-owl-invasion.png" alt="Snowy Owl Invasion" style="width: 40%;">
 
 **Snowy Owl Invasion! Tracking an Unusual Migration**
 
@@ -945,7 +945,7 @@ Source: [Betsy the Banana| A Cosmic Kids Yoga Adventure](https://youtu.be/40SZl8
 
 Read these eBooks for more calming poses and mindfulness exercises.
 
-<img src="/images/diyresources/primary/Meddy-Teddy.jpg" alt="Meddy teddy image" style="width: 40%;">
+<img src="/images/diyresources/primary/meddy-teddy.jpg" alt="Meddy teddy image" style="width: 40%;">
 
 **Meddy Teddy: A Mindful Yoga Journey**
 
@@ -956,7 +956,7 @@ Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut pictur
 
 This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/3866853](https://nlb.overdrive.com/library/kids/media/3866853)
 
-<img src="/images/diyresources/primary/Breathe-Like-a-Bear.jpg" alt="Breathe like a bear image" style="width: 40%;">
+<img src="/images/diyresources/primary/breathe-like-a-bear.jpg" alt="Breathe like a bear image" style="width: 40%;">
 
 **Breathe Like a Bear**
 
@@ -996,7 +996,7 @@ Source: [Super fun KID’S Workout! 8-Minute HIIT fitness class for kids. Let’
 
 Read these eBooks to motivate your children to stay active and healthy.
 
-<img src="/images/diyresources/primary/Picture1.jpg" alt="Oh the things you can do that are good for you image" style="width: 40%;">
+<img src="/images/diyresources/primary/picture1.jpg" alt="Oh the things you can do that are good for you image" style="width: 40%;">
 
 **Oh, the Things You Can Do That Are Good for You**
 
@@ -1051,7 +1051,7 @@ Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://ww
 
 **Be Curious!**
 
-<img src="/images/diyresources/primary/Snackable-Science-Experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
+<img src="/images/diyresources/primary/snackable-science-experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
 
 **Snackable Science Experiments (60 Edible Tests to Try and Taste)**
 
@@ -1062,7 +1062,7 @@ Each experiment uses edible ingredients to reveal the properties of the foods we
 
 This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313](https://nlb.overdrive.com/media/4500313)
 
-<img src="/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
+<img src="/images/diyresources/primary/30-minute-chemistry-projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
 
 **30-Minute Chemistry Projects**
 
@@ -1106,7 +1106,7 @@ Source: [How to Make a Galaxy Wreath](https://www.youtube.com/watch?v=WuF2B7KbYh
 
 Check out these eBooks for more stories about Space!
 
-<img src="/images/diyresources/primary/Zita-the-Spacegirl.jpg" alt="Zita the Spacegirl" style="width: 40%;">
+<img src="/images/diyresources/primary/zita-the-spacegirl.jpg" alt="Zita the Spacegirl" style="width: 40%;">
 
 **Zita the Spacegirl**
 
@@ -1117,7 +1117,7 @@ When her best friend is abducted by an alien doomsday cult, Zita leaps to the re
 
 This eBook is available on OverDrive at [https://nlb.overdrive.com/media/1807252](https://nlb.overdrive.com/media/1807252)
 
-<img src="/images/diyresources/primary/If-You-Had-Your-Birthday-Party-on-the-Moon.jpg" alt="Snowy Owl Invasion" style="width: 40%;">
+<img src="/images/diyresources/primary/if-you-had-your-birthday-party-on-the-moon.jpg" alt="Snowy Owl Invasion" style="width: 40%;">
 
 **If You Had Your Birthday Party on the Moon**
 

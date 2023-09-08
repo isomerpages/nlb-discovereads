@@ -10,11 +10,11 @@ third_nav_title: Reading Archives
 
 | **Lower Secondary** | **Upper Secondary** |
 | ------------------- | ------------------- |
-| [![Lower Secondary cover](/images/recommendationssecondary/Lower-Sec-GRLs.png)](/images/recommendationssecondary/NLB-Suggested-Reads-Lower-Sec-Revised-Final-Draft_03042020.pdf) | [![Upper Secondary cover](/images/recommendationssecondary/Upper-Sec-GRLs.png)](/images/recommendationssecondary/NLB-Suggested-Reads-Upper-Sec-Revised-Final-Draft_03042020.pdf) |
+| [![Lower Secondary cover](/images/recommendationssecondary/lower-sec-grls.png)](/images/recommendationssecondary/nlb-suggested-reads-lower-sec-revised-final-draft_03042020.pdf) | [![Upper Secondary cover](/images/recommendationssecondary/upper-sec-grls.png)](/images/recommendationssecondary/nlb-suggested-reads-upper-sec-revised-final-draft_03042020.pdf) |
 
 
 **2019**
 
 | **Lower Secondary** | **Upper Secondary** |
 | ------------------- | ------------------- |
-| <a href="/images/recommendationssecondary/archives/Lower-Secondary-Suggested-Reads-1.pdf"><img src="/images/recommendationssecondary/archives/Lower-Secondary-Covers.jpg" style="width: 40vw;height: 80vh"></a> |  <a href="/images/recommendationssecondary/archives/Upper-Secondary-Suggested-Reads.pdf"><img src="/images/recommendationssecondary/archives/Upper-Secondary-Suggested-Reads-Book-Cover.jpg" style="width: 40vw;height: 80vh"></a> |
+| <a href="/images/recommendationssecondary/archives/lower-secondary-suggested-reads-1.pdf"><img src="/images/recommendationssecondary/archives/lower-secondary-covers.jpg" style="width: 40vw;height: 80vh"></a> |  <a href="/images/recommendationssecondary/archives/upper-secondary-suggested-reads.pdf"><img src="/images/recommendationssecondary/archives/upper-secondary-suggested-reads-book-cover.jpg" style="width: 40vw;height: 80vh"></a> |

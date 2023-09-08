@@ -8,7 +8,7 @@ third_nav_title: Book Bugs X (Archive)
 
 Welcome to our resources page! Click on the buttons below to navigate the page.
 
-[<img src="/images/events/bookbugsx/Resources_Digital.png" alt="Digital Resources" style="width: 25%" align="left">](#digital-resources)[<img src="/images/events/bookbugsx/Resources_Printables.png" alt="Printables" style="width: 25%" align="left">](#printables)[<img src="/images/events/bookbugsx/Resources_Book Lists.png" alt="Book Lists" style="width: 25%" align="left">](#book-lists)[<img src="/images/events/bookbugsx/Resources_Links.png" alt="Useful Links" style="width: 25%" align="left">](#useful-links)
+[<img src="/images/events/bookbugsx/resources_digital.png" alt="Digital Resources" style="width: 25%" align="left">](#digital-resources)[<img src="/images/events/bookbugsx/resources_printables.png" alt="Printables" style="width: 25%" align="left">](#printables)[<img src="/images/events/bookbugsx/resources_book lists.png" alt="Book Lists" style="width: 25%" align="left">](#book-lists)[<img src="/images/events/bookbugsx/resources_links.png" alt="Useful Links" style="width: 25%" align="left">](#useful-links)
 
 ### Digital Resources
 
@@ -18,7 +18,7 @@ You can now use our Book Bugs stickers!
 
 *Stickers were updated in Feb 2021, so re-download them to get the updated sticker pack!*
 
-|<img src="/images/events/bookbugsx/Stickers Thumbnail.png" alt="Book Bugs Stickers" style="width: 50%" align="left">|
+|<img src="/images/events/bookbugsx/stickers thumbnail.png" alt="Book Bugs Stickers" style="width: 50%" align="left">|
 
 Download them for <a href="http://sticker.ly/s/95QYX0" target="_blank" rel="noopener noreferrer">WhatsApp</a> and <a href="https://t.me/addstickers/BookBugs" target="_blank" rel="noopener noreferrer">Telegram</a>.
 
@@ -29,15 +29,15 @@ Love how our Bugs look and want them on your phone all the time? We've prepared 
 
 |Aqua-Leo|Atlanta|Brella|Bugdang|Deerwan|
 |:---:|:---:|:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/BBX phone wallpapers_Aqua-Leo.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Aqua-Leo lowres.jpeg" alt="Aqua-Leo wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Atlanta.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Atlanta lowres.jpeg" alt="Atlanta wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Brella.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Brella lowres.jpeg" alt="Brella wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Bugdang.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Bugdang lowres.jpeg" alt="Bugdang wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Deerwan.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Deerwan lowres.jpeg" alt="Deerwan wallpaper"></a>|
+|<a href="/images/events/bookbugsx/bbx phone wallpapers_aqua-leo.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Aqua-Leo lowres.jpeg" alt="Aqua-Leo wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_atlanta.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Atlanta lowres.jpeg" alt="Atlanta wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_brella.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Brella lowres.jpeg" alt="Brella wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_bugdang.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Bugdang lowres.jpeg" alt="Bugdang wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_deerwan.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Deerwan lowres.jpeg" alt="Deerwan wallpaper"></a>|
 
 |Dranoble|Floramagus|Foxy Roxy|Karpi|Lil' Deer|
 |:---:|:---:|:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/BBX phone wallpapers_Dranoble.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Dranoble lowres.jpeg" alt="Dranoble wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Floramagus.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Floramagus lowres.jpeg" alt="Floramagus wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Foxy Roxy.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Foxy Roxy lowres.jpeg" alt="Foxy Roxy wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Karpi.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Karpi lowres.jpeg" alt="Karpi wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Lil_ Deer.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Lil_ Deer lowres.jpeg" alt="Lil' Deer wallpaper"></a>|
+|<a href="/images/events/bookbugsx/bbx phone wallpapers_dranoble.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Dranoble lowres.jpeg" alt="Dranoble wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_floramagus.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Floramagus lowres.jpeg" alt="Floramagus wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_foxy roxy.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Foxy Roxy lowres.jpeg" alt="Foxy Roxy wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_karpi.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Karpi lowres.jpeg" alt="Karpi wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_lil_ deer.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Lil_ Deer lowres.jpeg" alt="Lil' Deer wallpaper"></a>|
 
 |Pincers|Tattler|Unidragan|Woofer|m0ng00|
 |:---:|:---:|:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/BBX phone wallpapers_Pincers.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Pincers lowres.jpeg" alt="Pincers wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Tattler.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Tattler lowres.jpeg" alt="Tattler wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Unidragan.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Unidragan lowres.jpeg" alt="Unidragan wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_Woofer.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Woofer lowres.jpeg" alt="Woofer wallpaper"></a>|<a href="/images/events/bookbugsx/BBX phone wallpapers_m0ng00.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_m0ng00 lowres.jpeg" alt="m0ng00 wallpaper"></a>|
+|<a href="/images/events/bookbugsx/bbx phone wallpapers_pincers.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Pincers lowres.jpeg" alt="Pincers wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_tattler.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Tattler lowres.jpeg" alt="Tattler wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_unidragan.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Unidragan lowres.jpeg" alt="Unidragan wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_woofer.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_Woofer lowres.jpeg" alt="Woofer wallpaper"></a>|<a href="/images/events/bookbugsx/bbx phone wallpapers_m0ng00.png" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX phone wallpapers_m0ng00 lowres.jpeg" alt="m0ng00 wallpaper"></a>|
 
 ### Printables
 Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related activities? We upload printable activities on the second Monday of every month! Answer keys (if applicable) for the previous month will also be uploaded when we upload new activities.
@@ -47,13 +47,13 @@ Done with our [quizzes](/events/bookbugsx/quiz) and want more Book Bugs-related 
 <a name="aug"></a>
 **August 2021**
 
-*Click  <a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji Answers.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the July 2021 Decode the Emoji activity.*
+*Click  <a href="/images/events/bookbugsx/files/nlb bbx jul 2021 decode the emoji answers.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the July 2021 Decode the Emoji activity.*
 
 It's the month of National Day! Have you met the NDP mascot, August, in the Marvellous Homes yet? He has a task for you, and you're going to need the knowledge you have gained from this month's quiz. Can you recreate the discovery of Singapore?
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Aug 2021 Sang Nila Utama Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Aug 2021 Sang Nila Utama Tamil.png" alt="Tamil-English Worksheet"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx aug 2021 sang nila utama chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx aug 2021 sang nila utama chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx aug 2021 sang nila utama malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx aug 2021 sang nila utama malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx aug 2021 sang nila utama tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx aug 2021 sang nila utama tamil.png" alt="Tamil-English Worksheet"></a>|
 
 Why not try a simple craft activity and make your own version of one of the Marvellous Homes Bugs? Shadow was inspired by the traditional form of shadow puppetry, Wayang Kulit. Make your own shadow puppet by following this video!
 
@@ -66,17 +66,17 @@ Why not try a simple craft activity and make your own version of one of the Marv
 <a name="jul"></a>
 **July 2021**
 
-*Click  <a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 What Bug am I Answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the June 2021 What Bug am I activity, and <a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Word Search Answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to  the June 2021 word search.*
+*Click  <a href="/images/events/bookbugsx/files/nlb bbx jun 2021 what bug am i answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the June 2021 What Bug am I activity, and <a href="/images/events/bookbugsx/files/nlb bbx jun 2021 word search answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to  the June 2021 word search.*
 
 This month, we have an exciting activity for you! You learned in the quiz that Charmer uses his wit to catch burglars and solve other problems. This time, he needs your help to decipher a mysterious code left behind by the burglars... 
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji (Chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jul 2021 Decode the Emoji (Chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji (Malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jul 2021 Decode the Emoji (Malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jul 2021 Decode the Emoji (Tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jul 2021 Decode the Emoji (Tamil).png" alt="Tamil-English Worksheet"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx jul 2021 decode the emoji (chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jul 2021 decode the emoji (chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx jul 2021 decode the emoji (malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jul 2021 decode the emoji (malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx jul 2021 decode the emoji (tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jul 2021 decode the emoji (tamil).png" alt="Tamil-English Worksheet"></a>|
 
 Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of the final Land, Marvellous Homes, that you can download! Print it out and unleash your creativity - what colours will you use to bring the Book Bugs to life?
 
-|<a href="/images/events/bookbugsx/files/BBX Marvellous Homes Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/BBX Marvellous Homes Colouring Page A4.png" alt="Marvellous Homes Colouring Sheet" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/bbx marvellous homes colouring page a4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/bbx marvellous homes colouring page a4.png" alt="Marvellous Homes Colouring Sheet" style="width: 50%" align="left"></a>|
 
 <a name="jun"></a>
 **June 2021**
@@ -85,26 +85,26 @@ This month, we challenge you to some Bug riddles! Some Book Bugs have decided to
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Which Bug am I (Tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Which Bug am I (Tamil).png" alt="Tamil-English Worksheet"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx jun 2021 which bug am i (chinese).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jun 2021 which bug am i (chinese).png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx jun 2021 which bug am i (malay).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jun 2021 which bug am i (malay).png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx jun 2021 which bug am i (tamil).pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jun 2021 which bug am i (tamil).png" alt="Tamil-English Worksheet"></a>|
 
 Still can't get enough of our Book Bugs activities? Remember all the different versions of Cinderella that you learnt about in this month's quiz? Have a go at looking for their names in this word search! Can you find them just like the prince found them in the stories?
 
-|<a href="/images/events/bookbugsx/files/NLB BBX Jun 2021 Cinderella Word Search.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Jun 2021 Cinderella Word Search.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx jun 2021 cinderella word search.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx jun 2021 cinderella word search.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
 
 <a name="may"></a>
 **May 2021**
 
-*Click <a href="/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to Chipper's Maze.*
+*Click <a href="/images/events/bookbugsx/files/nlb bbx may 2021 chipper maze answer.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to Chipper's Maze.*
 
 This month, we have an exciting activity for you! You get to paint your very own journey. If you've done Foxy Roxy's quiz for the month, you would have learnt all about The Magic Paintbrush, the story that inspired an upcoming Book Bug (which you might have spotted in the quiz!). Now that you have read the story, you get to use the magic paintbrush on your very own journey up the Mystical Mountains!
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 The Magic Paintbrush Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 The Magic Paintbrush Tamil.png" alt="Tamil-English Worksheet"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx may 2021 the magic paintbrush chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx may 2021 the magic paintbrush chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx may 2021 the magic paintbrush malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx may 2021 the magic paintbrush malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx may 2021 the magic paintbrush tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx may 2021 the magic paintbrush tamil.png" alt="Tamil-English Worksheet"></a>|
 
 Still can't get enough of our Book Bugs activities? Why don't you help Chipper out in this bonus activity and get him out of the maze he made?
 
-|<a href="/images/events/bookbugsx/files/NLB BBX May 2021 Chipper Maze.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX May 2021 Chipper Maze.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx may 2021 chipper maze.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx may 2021 chipper maze.png" alt="Maze Bonus Activity" style="width: 50%" align="left"></a>|
 
 <a name="apr"></a>
 **April 2021**
@@ -113,7 +113,7 @@ This month, we have an exciting activity for you! You get to write your very own
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Apr 2021 Write Your Own Bug Tale Tamil.png" alt="Tamil-English Worksheet"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx apr 2021 write your own bug tale chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx apr 2021 write your own bug tale chinese.png" alt="Chinese-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx apr 2021 write your own bug tale malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx apr 2021 write your own bug tale malay.png" alt="Malay-English Worksheet"></a>|<a href="/images/events/bookbugsx/files/nlb bbx apr 2021 write your own bug tale tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx apr 2021 write your own bug tale tamil.png" alt="Tamil-English Worksheet"></a>|
 
 Why not try a simple craft activity and make your own paper Spikey while you're at it?
 
@@ -125,7 +125,7 @@ Why not try a simple craft activity and make your own paper Spikey while you're 
 
 Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mystical Mountains, that you can download! Print it out and unleash your creativity - bring some colour to this new Book Bugs Land!
 
-|<a href="/images/events/bookbugsx/files/NLB BBX Mystical Mountains Colouring Page.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mystical Mountains Colouring Page.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx mystical mountains colouring page.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx mystical mountains colouring page.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
 <a name="mar"></a>
 **March 2021**
@@ -136,7 +136,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Mar 2021 Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mar 2021 Madlibs Chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Mar 2021 Madlibs Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mar 2021 Madlibs Malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Mar 2021 Madlibs Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mar 2021 Madlibs Tamil.png" alt="Tamil-English Madlibs"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx mar 2021 madlibs chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx mar 2021 madlibs chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/nlb bbx mar 2021 madlibs malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx mar 2021 madlibs malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/nlb bbx mar 2021 madlibs tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx mar 2021 madlibs tamil.png" alt="Tamil-English Madlibs"></a>|
 
 Still can't get enough of our Book Bugs activities? Why not try a simple craft activity to explore the Mysterious Seas?
 
@@ -149,7 +149,7 @@ Still can't get enough of our Book Bugs activities? Why not try a simple craft a
 <a name="feb"></a>
 **February 2021**
 
-*Click <a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Answer Key.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the February 2021 crossword puzzles.*
+*Click <a href="/images/events/bookbugsx/nlb bbx feb 2021 crossword answer key.pdf" target="_blank" rel="noopener noreferrer">here</a> for the answers to the February 2021 crossword puzzles.*
 
 This month, we have exciting crossword puzzles! Can you crack these riddles to figure out what words go into each grid? Don't forget, if you're ever stuck, you can always look for hints in the stories and Bugs of our new Land - the Mysterious Seas!
 
@@ -157,11 +157,11 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Chinese.png" alt="Chinese-English Crossword"></a>|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Malay.png" alt="Malay-English Crossword"></a>|<a href="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Feb 2021 Crossword Tamil.png" alt="Tamil-English Crossword"></a>|
+|<a href="/images/events/bookbugsx/nlb bbx feb 2021 crossword chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx feb 2021 crossword chinese.png" alt="Chinese-English Crossword"></a>|<a href="/images/events/bookbugsx/nlb bbx feb 2021 crossword malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx feb 2021 crossword malay.png" alt="Malay-English Crossword"></a>|<a href="/images/events/bookbugsx/nlb bbx feb 2021 crossword tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx feb 2021 crossword tamil.png" alt="Tamil-English Crossword"></a>|
 
 Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet of our new Land, Mysterious Seas, that you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
 
-|<a href="/images/events/bookbugsx/NLB BBX Mysterious Seas Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/NLB BBX Mysterious Seas Colouring Page A4.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/nlb bbx mysterious seas colouring page a4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/nlb bbx mysterious seas colouring page a4.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
 <a name="jan"></a>
 **January 2021**
@@ -172,11 +172,11 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Jan 2021 - Madlibs Tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Tamil.png" alt="Tamil-English Madlibs"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx jan 2021 - madlibs chinese.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/jan 2021 thumbnail chinese.png" alt="Chinese-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/nlb bbx jan 2021 - madlibs malay.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/jan 2021 thumbnail malay.png" alt="Malay-English Madlibs"></a>|<a href="/images/events/bookbugsx/files/nlb bbx jan 2021 - madlibs tamil.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/jan 2021 thumbnail tamil.png" alt="Tamil-English Madlibs"></a>|
 
 Still can't get enough of our Book Bugs activities? Here is a bonus colouring sheet you can download! Print it out and unleash your creativity - build a whole new colourful world of Book Bugs.
 
-|<a href="/images/events/bookbugsx/files/NLB BBX Magical Forests Colouring Page A4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Jan 2021 Thumbnail Colouring.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx magical forests colouring page a4.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/jan 2021 thumbnail colouring.png" alt="Colouring sheet" style="width: 50%" align="left"></a>|
 
 <a name="dec"></a>
 **December 2020**
@@ -189,7 +189,7 @@ P.S. You can colour in the illustrations at the bottom of the sheet.
 
 |Chinese-English|Malay-English|Tamil-English|
 |:---:|:---:|:---:|
-|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Chinese-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Chinese-English thumbnail.png" alt="Chinese-English Word Search"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Malay-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Malay-English thumbnail.png" alt="Malay-English Word Search"></a>|<a href="/images/events/bookbugsx/files/NLB BBX Dec 2020 - Word Search Tamil-English.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/Word Search Tamil-English thumbnail.png" alt="Tamil-English Word Search"></a>|
+|<a href="/images/events/bookbugsx/files/nlb bbx dec 2020 - word search chinese-english.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/word search chinese-english thumbnail.png" alt="Chinese-English Word Search"></a>|<a href="/images/events/bookbugsx/files/nlb bbx dec 2020 - word search malay-english.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/word search malay-english thumbnail.png" alt="Malay-English Word Search"></a>|<a href="/images/events/bookbugsx/files/nlb bbx dec 2020 - word search tamil-english.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/events/bookbugsx/word search tamil-english thumbnail.png" alt="Tamil-English Word Search"></a>|
 
 ### Book Lists
 Want to read the stories behind each Book Bug? You can read the ultimate guide written by your navigators - *<a href="https://go.gov.sg/bb-guide" target="_blank" rel="noopener noreferrer">An Explorer's Guide to Book Bugs: Explorers of Stories Past</a>*  or you can pick up the books on the lists below at the public libraries! Some of the books are compilations of various stories - discover a whole world of stories when you read them to find the story behind each Bug! Click on the title of each book to find out where you can borrow a copy.

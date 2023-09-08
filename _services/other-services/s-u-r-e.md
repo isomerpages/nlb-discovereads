@@ -8,43 +8,43 @@ third_nav_title: Other Services
 
 ## **S.U.R.E**
 
-| ![Sure Logo](/images/sure/SURE.png) | The S.U.R.E. department offers workshops for students and teachers on combating fake news and organises learning journeys at the National Library’s exhibitions. Through the S.U.R.E. (Source, Understand, Research, Evaluate) steps, we aim to inculcate good habits of information literacy and discernment. For more details, visit our [website](https://sure.nlb.gov.sg/) or email us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) |
+| ![Sure Logo](/images/sure/sure.png) | The S.U.R.E. department offers workshops for students and teachers on combating fake news and organises learning journeys at the National Library’s exhibitions. Through the S.U.R.E. (Source, Understand, Research, Evaluate) steps, we aim to inculcate good habits of information literacy and discernment. For more details, visit our [website](https://sure.nlb.gov.sg/) or email us at [sure@nlb.gov.sg](mailto:sure@nlb.gov.sg) |
 
 ### **The News Gallery**
 
 This aims to showcase the rich resources on Singapore newspapers collection at the National Library and to explore issues relating to information and mass media, and the importance of information literacy. Test your ability to detect real from false information and evaluation skills in the SUREvivors series of online activities.
 
-![News Gallery](/images/sure/SURE-The-News-Gallery.png)
+![News Gallery](/images/sure/sure-the-news-gallery.png)
 
 ### **Hari Raya Puasa**
 
 Find out more about this festival.
 
-![Hari Raya Infographic](/images/sure/Hari-Raya-Infographic.png)
+![Hari Raya Infographic](/images/sure/hari-raya-infographic.png)
 
 ### **Ace Your Project Work**
 
 To help primary school students improve on project work skills based on the S.U.R.E (Source, Understand, Research and Evaluate) with step by step guide.
 
-![Ace Infographic](/images/sure/SURE-Ace-Your-Project-Work.png)
+![Ace Infographic](/images/sure/sure-ace-your-project-work.png)
 
 ### **Academic Research Online**
 
 How to conduct Academic research online using a combination of efficient search engine guidelines and the National Library Board’s eResources website.
 
-![Academic Research Resource](images/sure/SURE-Academic-Research-Online-3.png)
+![Academic Research Resource](images/sure/sure-academic-research-online-3.png)
 
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| ![Sure infographic image](/images/sure/Infographic-Facing-Up-to-Fake-News.jpg) | [![Sure toolkit image](/images/sure/Capture4.png)](/images/sure/SURE-Kit-Activity-Sheet-FA.pdf) |
+| ![Sure infographic image](/images/sure/infographic-facing-up-to-fake-news.jpg) | [![Sure toolkit image](/images/sure/capture4.png)](/images/sure/sure-kit-activity-sheet-fa.pdf) |
 | SURE Toolkit Map |
-| [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
+| [![Sure toolkit map image](/images/sure/capture-2.png)](/images/sure/sure-kit-a3-map-fa.pdf) |
 
 **Fake News #2**
 
 | Activity Sheet | SURE-vivor Booklet |
-| [![Activity sheet image](/images/sure/Capture-3.png)](/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf) | [![Sure-vivor image](/images/sure/Capture.png)](/images/sure/FA_SUREvivor-booklet-06032020.pdf) |
+| [![Activity sheet image](/images/sure/capture-3.png)](/images/sure/fa_08030218_read-like-a-detective.pdf) | [![Sure-vivor image](/images/sure/capture.png)](/images/sure/fa_surevivor-booklet-06032020.pdf) |
 
 Further your S.U.R.E. skills by watching the “The Fake Website Test” video below!
 

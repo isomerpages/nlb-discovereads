@@ -38,7 +38,7 @@ Share your creations with us by tagging us on Facebook and Instagram @publiclibr
 
 Read the following books to learn more about upcycling!
 
-![](/images/diyresources/primary/Those%20Shoes.png)
+![](/images/diyresources/primary/those%20shoes.png)
 
 **Those Shoes**<br>
 by: Maribeth Boelts<br>
@@ -46,7 +46,7 @@ Publisher: Candlewick, 2016<br>
 
 All Jeremy wants is a pair of those shoes, the ones everyone at school seems to be wearing. Though Jeremy’s grandma says they don’t have room for "want," just "need," when his old shoes fall apart at school, he is more determined than ever to have those shoes, even a thrift-shop pair that are much too small. But sore feet aren’t much fun, and Jeremy soon sees that the things he has — warm boots, a loving grandma, and the chance to help a friend — are worth more than the things he wants.
 
-![](/images/diyresources/primary/Fair%20Fashion.png)
+![](/images/diyresources/primary/fair%20fashion.png)
 
 **Earth Friends: Fair Fashion**<br>
 By: Holly Webb <br>
@@ -54,7 +54,7 @@ Publisher: Nosy Crow, 2021<br>
 
 The first fantastic book in the series about four friends who want to make the world a better place. Researching her school project on Fairtrade has been a real eye-opener for Maya. She loves clothes and is appalled to find that her favourite sparkly T-shirts are made by poor children in other countries who lead very different lives from her own, privileged one. She knows she must do something about it, but how can she make a difference without revealing her pop star secret to the world?
 
-![](/images/diyresources/primary/Clothing%20Warrior.png)
+![](/images/diyresources/primary/clothing%20warrior.png)
 
 **Clothing Warrior: Going Green**<br>
 By: Claudia Martin <br>
@@ -97,7 +97,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 Still feeling artsy? 
 Check out these other cool ways of making your stories come alive!
 
-![](/images/diyresources/primary/My%20First%20Origami%20Fairy%20Tales%20Kit%20by%20Joel%20Stern.jpg)
+![](/images/diyresources/primary/my%20first%20origami%20fairy%20tales%20kit%20by%20joel%20stern.jpg)
 
 **My First Origami Fairy Tales E-book**<br>
 by: Joel Stern<br>
@@ -108,7 +108,7 @@ Kids will have fun folding up the characters and moving them around in front of 
 This eBook is available on Overdrive at: https://nlb.overdrive.com/library/kids/media/4644508
 
 
-![](/images/diyresources/primary/Making%20Puppets%20by%20Toby%20Reynolds.jpg)
+![](/images/diyresources/primary/making%20puppets%20by%20toby%20reynolds.jpg)
 
 **Making Puppets**<br>
 by: Toby Reynolds<br>
@@ -132,7 +132,7 @@ Source: 4 Benefits of kids telling their own stories [https://rainforestlearning
 
 Equip your child for their next superhero mission with this robotic hand! Using just a few household materials, you will be able to construct a simple machine which explores how human anatomy and engineering intersect. Gather your supplies, and let’s get building.
 
-![](/images/diyresources/primary/SCWYC%20Robotic%20Hand.png)
+![](/images/diyresources/primary/scwyc%20robotic%20hand.png)
 
 **You'll need:**
 
@@ -156,7 +156,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Check out these eBooks for more engineering exploits!
 
-![](/images/diyresources/primary/Robots_Melissa%20Stewart.png)
+![](/images/diyresources/primary/robots_melissa%20stewart.png)
 
 **Robots**<br>
 by: Melissa Stewart<br>
@@ -167,7 +167,7 @@ Discover the coolest robots of today and tomorrow in this colourful, photo-packe
 This book is available on OverDrive at: [https://nlb.overdrive.com/media/2232124](https://nlb.overdrive.com/media/2232124)
 
 
-![](/images/diyresources/primary/Human%20Body%20Theatre_Maris%20Wicks.png)
+![](/images/diyresources/primary/human%20body%20theatre_maris%20wicks.png)
 
 **Human Body Theater**<br>
 by: Maris Wicks<br>
@@ -192,7 +192,7 @@ Source: [How To Get Your Kids Interested In STEAM](https://www.forbes.com/sites/
 
    Growing up in a digital world, coding is an important skill for children to learn. Try this activity to introduce the topic of coding to your child.
 
-![](/images/diyresources/primary/SCWYC_Intro%20to%20Coding.png)
+![](/images/diyresources/primary/scwyc_intro%20to%20coding.png)
 
 **You'll need:**
 
@@ -211,7 +211,7 @@ Try this out and tag us on Facebook and Instagram @publiclibrarysg with #library
 
 Read these eBooks to learn more about coding and programming for beginners.
 
-![](/images/diyresources/primary/Scratch%203%20Programming%20Playground.png)
+![](/images/diyresources/primary/scratch%203%20programming%20playground.png)
 
 **Scratch 3 Programming Playground: Learn to Program by Making Cool Games**<br>
 by: Al Sweigart<br>
@@ -223,7 +223,7 @@ This book is available on Overdrive at: [https://nlb.overdrive.com/media/5077413
 
 
 
-![](/images/diyresources/primary/Machine%20Learning%20for%20Kids.png)
+![](/images/diyresources/primary/machine%20learning%20for%20kids.png)
 
 **Machine Learning for Kids: A Project-Based Introduction to Artificial Intelligence**<br>
 by: Dale Lane<br>

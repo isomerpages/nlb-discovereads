@@ -21,10 +21,10 @@ Materials needed:
 *  Pencil
 *  Coloured markers
 
-[Download](/files/preschool/School%20Holiday%20Specials/Our%20Community.pdf) the instructions for the craft.
+[Download](/files/preschool/school%20holiday%20specials/our%20community.pdf) the instructions for the craft.
 
 ### Recommended Books
-<img src="/images/diyresources/preschool/SHS/makan mischief.jpg" style="width:250px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/makan mischief.jpg" style="width:250px; text-align:left;">
 
 **Title:** [Makan Mischief](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205436382)<br>
 **Author:** Evelyn Sue Wong & Dhanendra Poedjono <br>
@@ -35,7 +35,7 @@ noodle dish at the hawker centre, she comes up with a makan surprise for everyon
 Join in the second adventure of the multilingual picture book series that features the plucky Little
 Mynah and familiar people and places in the neighbourhood.
 
-<img src="/images/diyresources/preschool/SHS/aunty postman.jpg" style="width:250px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/aunty postman.jpg" style="width:250px; text-align:left;">
 
 
 **Title:** [Aunty Postman](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205659973)<br>
@@ -45,7 +45,7 @@ Mynah and familiar people and places in the neighbourhood.
 Is your postman short, plump, tall, or thin? Do you run to your gate when the postman delivers a long-awaited parcel? Discover what makes Aunty Postman so special as we go up, down, and around the estate she delivers for.
 
 
-<img src="/images/diyresources/preschool/SHS/all through the night.jpg" style="width:250px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/all through the night.jpg" style="width:250px; text-align:left;">
 
 **Title:** [All Through the Night: People Who Work While We Sleep](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558116) <br>
 **Author:** Polly Faber &amp; Harriet Hobday <br>
@@ -53,7 +53,7 @@ Is your postman short, plump, tall, or thin? Do you run to your gate when the po
 
 A beautifully illustrated picture book exploring the jobs that keep a city running all through the night, and make it ready for the new day. The sky is getting dark. In a big city, a little girl is eating her dinner, brushing her teeth and getting ready for bed. Meanwhile, her mother is putting on her coat and getting ready to go to work. But where will she go, and who will she see along the way? As the night goes on, follow nurses, cleaners, delivery workers, doctors, police officers, journalists and many more. Meet the people doing the important jobs that help keep the city running all through the night, ready for the next day to come.
 
-<img src="/images/diyresources/preschool/SHS/our park.jpg" style="width:250px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/our park.jpg" style="width:250px; text-align:left;">
 
 **Title:** [Our Park](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204437869)<br>
 **Author:** Lisa J. Amstutz<br>
@@ -94,7 +94,7 @@ Materials needed:
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Science%20Magic%20to%20Surprise%20and%20Captivate%20(Super%20Simple%20Magic%20and%20Illusions).jpg" style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/optical%20illusions/science%20magic%20to%20surprise%20and%20captivate%20(super%20simple%20magic%20and%20illusions).jpg" style="width:300px; text-align:left;">
 
 
 **Title:** [Super Simple Magic and Illusions: Science Magic to Surprise and Captivate](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470315) <br>
@@ -103,7 +103,7 @@ Materials needed:
 
 Read how famous illusionists fooled their audiences. Then learn how to trick an audience of your own! Follow simple instructions and photos to make cups melt, water bend, and more. Check out all the books in the Super Simple Magic and Illusions series. Soon you'll be mystifying your friends with magic!
 
-<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Eye-mazing%20Illusions%20That's%20Impossible.jpg" style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/optical%20illusions/eye-mazing%20illusions%20that's%20impossible.jpg" style="width:300px; text-align:left;">
 
 
 **Title:** [Eye-mazing Illusions: That's Impossible](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205701276) <br>
@@ -112,7 +112,7 @@ Read how famous illusionists fooled their audiences. Then learn how to trick an 
 
 Climb up the stairs or swim upstream. Are these pictures even possible? Optical illusions are tricks that our eyes and brain play on us to make us see things differently-like images that appear realistic until you give them a second look. Explore mind-boggling images and learn the science behind what makes them work. Then, take a turn making your own optical illusion. Get ready to be eye-mazed!
 
-<img src="/images/diyresources/preschool/SHS/Optical%20illusions/Super%20Simple%20Magic%20and%20Illusions%203D%20Optical%20Illusions%20to%20Baffle%20the%20Mind.jpg" style="width:300px; text-align:left;">
+<img src="/images/diyresources/preschool/shs/optical%20illusions/super%20simple%20magic%20and%20illusions%203d%20optical%20illusions%20to%20baffle%20the%20mind.jpg" style="width:300px; text-align:left;">
 
 
 **Title:** [Super Simple Magic and Illusions: 3-D Optical Illusions to Baffle the Mind](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204470347) <br>
@@ -152,7 +152,7 @@ Materials Needed:
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Catastrophe.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/catastrophe.jpg" style="width:45%">
 
 Title: [CATastrophe: A Story of Patterns](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205535895)<br>
 Author: Ann Marie Stephens <br>
@@ -163,7 +163,7 @@ This book then is about a group of cats going on a fishing trip that did not rea
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Cat%20and%20Mouse.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/cat%20and%20mouse.jpg" style="width:45%">
 
 Title: [Cat and Mouse](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203865884) <br>
 Author & Illustrator: Britta Teckentrup <br>
@@ -173,7 +173,7 @@ The story is told in a fun rhyme, and you will see the cat climbing out of boxes
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Kittens.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/kittens.jpg" style="width:45%">
 
 Title: [Kittens](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205272894) <br>
 Illustrator: Nicole Horning <br>
@@ -183,7 +183,7 @@ This book is filled with not only many cute pictures of baby cats but lots of in
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Cats%20are%20Fun.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/cats%20are%20fun.jpg" style="width:45%">
 
 Title: [Cats are Fun!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205531413) <br>
 Author: Mary Elizabeth Salzmann <br>
@@ -193,7 +193,7 @@ This book showcases how fun our fantastic feline friends are as we find them in 
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Maine%20Coons.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/maine%20coons.jpg" style="width:45%">
 
 Title: [Maine Coons](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205597522)<br>
 Author: Cameron L. Woodson <br>
@@ -203,7 +203,7 @@ Energetic and affectionate, find out more about magnificent Maine Coons and thei
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Ragdolls.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/ragdolls.jpg" style="width:45%">
 
 Title: [Ragdolls](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205560907) <br>
 Author & Illustrator: Cameron L. Woodson <br>
@@ -213,7 +213,7 @@ Beautiful and fluffy, find out more about regal Ragdolls and their irresistible 
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Baby%20Cheetahs.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/baby%20cheetahs.jpg" style="width:45%">
 
 Title: [Baby Cheetahs](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205392390) <br>
 Illustrator: Kate Riggs <br>
@@ -223,7 +223,7 @@ Meet a very cute little predator! This baby cheetah will bring you through his d
 
 <br>
 
-<img src="/images/diyresources/preschool/SHS/SHS%20Cats/Baby%20Tigers.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/shs%20cats/baby%20tigers.jpg" style="width:45%">
 
 Title: [Baby Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204438463) <br>
 Author: Kate Riggs <br>
@@ -249,10 +249,10 @@ Materials needed:
 * Double-sided tape
 * Dot stickers (optional)
 
-[Download](/files/SHS%20Craft%20Instructions_Spot%20the%20Rhyming%20Words.pdf) full instructions for this craft.
+[Download](/files/shs%20craft%20instructions_spot%20the%20rhyming%20words.pdf) full instructions for this craft.
 
 ### **Recommended Books**
-<img src="/images/diyresources/preschool/SHS/hats.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/hats.jpg" style="width:45%">
 
 Title: [Hats Are Not For Cats!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203958583)<br>
 Author & Illustrator: Jacqueline K. Rayner <br>
@@ -261,7 +261,7 @@ Publisher: Boston; New York: Clarion Books, Houghton Mifflin Harcourt, 2019
 A  big, plaid-hat-wearing dog insists that the small black cat in the red fez shouldn't be wearing a hat—any kind of hat—because hats are for dogs. His patronizing tirade doesn’t convince this cat, however. Defiantly, she wears an assortment of hats, described in the gleeful rhyming text, and brings in other cats to join the protest. The silliness of both text and pictures offers a cheerful take on bossiness and managing conflict, with a win-win resolution.
 <br>
 
-<img src="/images/diyresources/preschool/SHS/koala.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/koala.jpg" style="width:45%">
 
 Title: [The Koala Who Could](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203104229) <br>
 Author: Rachel Bright <br>
@@ -270,7 +270,7 @@ Publisher: London: Orchard Books, 2016 <br>
 
 Fans of The Gruffalo and Giraffes Can't Dance will love this feel-good rhyming story portraying a positive message about facing up to change, something that young children can sometimes struggle with. Sometimes change comes along whether we like it or not ...but if you let it, change can be the making of you. Kevin the Koala discovers this and more in this delightful picture book from the bestselling creators of The Lion Inside!
 <br><br>
-<img src="/images/diyresources/preschool/SHS/playtimerhymes.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/playtimerhymes.jpg" style="width:45%">
 
 Title: [Playtime Rhymes](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203123909) <br>
 Illustrator: Sharon Harmer <br>
@@ -279,7 +279,7 @@ Publisher: London: Pat-A-Cake, 2018 <br>
 This book of favourite nursery rhymes is perfect for any time that you feel like cuddling up with your little one with a book. Whether you are reading lots of rhymes as part of a bedtime routine, or sharing a just a few of them and doing the actions, this collection of familiar, comforting rhymes is sure to become a firm family favourite. Includes favourites such as: Humpty Dumpty, The Wheels on the Bus and Baa Baa Black Sheep.
 
 <br>
-<img src="/images/diyresources/preschool/SHS/biggreen.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/biggreen.jpg" style="width:45%">
 
 Title: [Big Green Crocodile: Rhymes to Say and Play](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205598690) <br>
 Author: Jane Newberry <br>
@@ -302,10 +302,10 @@ Materials needed:<br>
 • Glue<br>
 • Black marker
 
-[Download][](/files/preschool/School%20Holiday%20Specials/SHS%20Craft%20Instructions_Tiger%20Paper%20Hand%20Puppet.pdf) full instructions for this craft.
+[Download][](/files/preschool/school%20holiday%20specials/shs%20craft%20instructions_tiger%20paper%20hand%20puppet.pdf) full instructions for this craft.
 
 ### **Recommended Books**
-<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(DAV)%20Cover.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/the%20last%20tiger%20(dav)%20cover.jpg" style="width:45%">
 
 Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205652360)<BR>
 Author: Becky Davies<BR>
@@ -315,7 +315,7 @@ Publisher: London: Little Tiger, 2022
 Aasha the tiger loves her beautiful forest home, full of tigers, boars, and other animals. But one day, the forest begins to change. The hot days became hotter. The wet days became wetter—so wet, in fact, that there are floods that force many of the animals to find other places to live. And then the humans enter the forest and begin taking down the trees, which forces Aasha out. Will she ever find a new place to call home? Includes back matter on climate change and conservation efforts.
 <br>
 
-<img src="/images/diyresources/preschool/SHS/The%20Last%20Tiger%20(HOR)%20Cover.jpg" style="width:45%">
+<img src="/images/diyresources/preschool/shs/the%20last%20tiger%20(hor)%20cover.jpg" style="width:45%">
 	
 Title: [The Last Tiger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205609354) <br>
 Author & Illustrator: Petr Horáček<br>
@@ -323,7 +323,7 @@ Publisher: Burley Gate, Herefordshire: Otter-Barry Books, 2019
 
 Strong and proud, the tiger is lord of the jungle. But when he's captured by human hunters he realises that what really matters is not strength or power... but freedom. Will the tiger be able to escape and be free again?
 
-<img src="/images/diyresources/preschool/SHS/Defending%20the%20Animals%20Cover.jpg" style="width:45%">	
+<img src="/images/diyresources/preschool/shs/defending%20the%20animals%20cover.jpg" style="width:45%">	
 	
 Title: [Defending the Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205655045)<br>
 Author: Azra Limbada<br>
@@ -331,7 +331,7 @@ Publisher: Norfolk: BookLife Publishing, 2020
 	
 Earth is full of amazing animals, from tigers to bumblebees. This book brings readers up close to animals around the world who are at risk of dying out due to habitat destruction, climate change, and other issues. Readers will learn about the problems facing orangutans, sea turtles, and other animals through accessible text and brilliant photographs. An activity at the end of the book will help readers to further connect with the important issues facing animals.
 
-<img src="/images/diyresources/preschool/SHS/Animals%20in%20Danger%20Cover.jpg" style="width:45%">	
+<img src="/images/diyresources/preschool/shs/animals%20in%20danger%20cover.jpg" style="width:45%">	
 	
 Title: [Animals in Danger](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203106650)<br>
 Author: Gemma McMullen<br>
@@ -356,10 +356,10 @@ Materials needed:<br>
 • A pencil<br>
 • Circle stencil
 
-[Download](/files/preschool/School%20Holiday%20Specials/Animal%20Finger%20Puppets.pdf) full instructions for this craft.
+[Download](/files/preschool/school%20holiday%20specials/animal%20finger%20puppets.pdf) full instructions for this craft.
 
 ### **Recommended Books**
-<img src="/images/diyresources/preschool/SHS/ubinelephant.jpg" alt="Ubin Elephant" style="width:45%">
+<img src="/images/diyresources/preschool/shs/ubinelephant.jpg" alt="Ubin Elephant" style="width:45%">
 
 Title: [Ubin Elephant](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205558589)<BR>
 Author: Alan John<BR>
@@ -371,7 +371,7 @@ This delightful tale, written by Alan John and illustrated by Quek Hong Shin, wa
 Beautifully and vividly illustrated, this book will enthrall young readers with the question of how to get poor little Ubin Elephant (frightened and shedding a tear at one point!) safely home to his mama again.
 <br>
 
-<img src="/images/diyresources/preschool/SHS/boar.jpg" alt="A Boar at My Door" style="width:45%">
+<img src="/images/diyresources/preschool/shs/boar.jpg" alt="A Boar at My Door" style="width:45%">
 	
 Title: [A Boar at My Door](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201502422) <br>
 Author: Keith Wo, Ailica Lee, Lim Xue Xian, Tag Wan Yi, Chiu Guan Ru <br>
@@ -382,7 +382,7 @@ Join Billy, a little wild boar, on an exciting adventure after he ends up lost a
 Journey with him as he tried to find his family, meeting awesome new friends and also a fearsome foe along his way.
 Will Billy ever reunite with his missing family and find a home where he truly belongs?
 
-<img src="/images/diyresources/preschool/SHS/fourteenmonkeys.jpg" alt="Fourteen Monkeys" style="width:45%">	
+<img src="/images/diyresources/preschool/shs/fourteenmonkeys.jpg" alt="Fourteen Monkeys" style="width:45%">	
 	
 Title: [Fourteen Monkeys : a rain forest rhyme](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205528225)<br>
 Author: Melissa Stewart<br>
@@ -391,7 +391,7 @@ Publisher: New York : Beach Lane Books, [2021]
 	
 Travel to a tropical rainforest where fourteen species of monkeys live in harmony in this playful, fact-filled book from award-winning author Melissa Stewart and Caldecott honoree Steve Jenkins.
 
-<img src="/images/diyresources/preschool/SHS/marvellousmammals.jpg" alt="Marvellous Mammals" style="width:45%">	
+<img src="/images/diyresources/preschool/shs/marvellousmammals.jpg" alt="Marvellous Mammals" style="width:45%">	
 	
 Title: [Marvellous Mammals : a wild A to Z of Southeast Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205462275)<br>
 Author: Debby Ng<br>
@@ -415,11 +415,11 @@ Materials needed:
 * A piece of black construction paper
 * Printed template of torchlight and sea animals (optional)
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Sea%20Animals.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20craft%20instructions_sea%20animals.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Where%20the%20Sea%20Meets%20the%20Sky.jpg" alt="where the sea meets the sky" style="width:45%">
+<img src="/images/diyresources/preschool/where%20the%20sea%20meets%20the%20sky.jpg" alt="where the sea meets the sky" style="width:45%">
 
 **Title:** [Where the Sea Meets the Sky](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204511779) <br>
 **Author:** Peter Bently <br>
@@ -428,7 +428,7 @@ Materials needed:
 
 Sophie's mum says that no one can reach the horizon, and no one should try. But Sophie reckons it doesn't look that far! She sets off on an exciting journey, meeting all sorts of sea creatures on the way - walruses and whales, lobsters and starfish… and someone a little more dangerous…
 
-<img src="/images/diyresources/preschool/Clara%20and%20Clem%20Under%20the%20Sea.JPG" alt="clara and clem" style="width:40%">
+<img src="/images/diyresources/preschool/clara%20and%20clem%20under%20the%20sea.jpg" alt="clara and clem" style="width:40%">
 
 **Title:** [Clara and Clem Under the Sea](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200609691) <br>
 **Author:** Ethan Long <br>
@@ -437,7 +437,7 @@ Sophie's mum says that no one can reach the horizon, and no one should try. Bu
 
 Clara and Clem are off on an adventure under the sea! The two swim with dolphins, hug a shark, and even find buried treasure. Let's go!
 
-<img src="/images/diyresources/preschool/Whoosh%20A%20Watery%20World.jpg" alt="whoosh" style="width:40%">
+<img src="/images/diyresources/preschool/whoosh%20a%20watery%20world.jpg" alt="whoosh" style="width:40%">
 
 **Title:** [Whoosh!: A Watery World of Wonderful Creatures](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200516845) <br>
 **Author:** Marilyn Baillie <br>
@@ -446,7 +446,7 @@ Clara and Clem are off on an adventure under the sea! The two swim with 
 
 Introduces various aquatic animals, including alligators, hermit crabs, and clownfish, and describes how children often mimic their behaviours.
 
-<img src="/images/diyresources/preschool/Ocean%20Animals%20from%20Head%20to%20Tail.JPG" alt="ocean animals" style="width:40%">
+<img src="/images/diyresources/preschool/ocean%20animals%20from%20head%20to%20tail.jpg" alt="ocean animals" style="width:40%">
 
 **Title:** [Ocean Animals from Head to Tail](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202645979) <br>
 **Author:** Stacey Roderick <br>
@@ -471,7 +471,7 @@ Materials needed:
 * Food dye or colouring
 * Water
 
-[Download](/files/preschool/SHS%20Instructions_Weather.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20instructions_weather.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -524,7 +524,7 @@ Materials needed:
 * Tape
 * Scissors
 
-[Download](/files/preschool/SHS%20Craft%20Instructions%20-%20Emotions.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20craft%20instructions%20-%20emotions.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -582,11 +582,11 @@ Materials needed:
 * Glue
 * Balloon
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Flutter%20Butterfly.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20craft%20instructions_flutter%20butterfly.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/The%20Truth%20About%20Butterflies.jpg" alt="the truth about butterflies" style="width:40%">
+<img src="/images/diyresources/preschool/the%20truth%20about%20butterflies.jpg" alt="the truth about butterflies" style="width:40%">
 
 **Title:** [The Truth About Butterflies](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205262074) <br>
 **Author:** Maxwell Eaton III <br>
@@ -595,7 +595,7 @@ Materials needed:
 
 This guide to the majestic butterfly walks you through its unique lifecycle and offers anything you ever wanted to know about the colourful insect.
 
-<img src="/images/diyresources/preschool/A%20Butterfly%20Is%20Patient.jpg" alt="a butterfly is patient" style="width:40%">
+<img src="/images/diyresources/preschool/a%20butterfly%20is%20patient.jpg" alt="a butterfly is patient" style="width:40%">
 
 **Title:** [A Butterfly Is Patient](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13948388) <br>
 **Author:** Dianna Hutts Aston <br>
@@ -605,7 +605,7 @@ This guide to the majestic butterfly walks you through its unique lifecycle and 
 
 The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have teamed up again to create this gorgeous and informative introduction to the world of butterflies. From iridescent blue swallowtails and brilliant orange monarchs to the worlds tiniest butterfly (Western Pygmy Blue) and the largest (Queen Alexandra's Birdwing), an incredible variety of butterflies are celebrated here in all of their beauty and wonder. Perfect for a child's bedroom bookshelf or for a classroom reading circle!
 
-<img src="/images/diyresources/preschool/My%20Butterfly%20Bouquet.jpg" alt="my butterfuly bouquet" style="width:40%">
+<img src="/images/diyresources/preschool/my%20butterfly%20bouquet.jpg" alt="my butterfuly bouquet" style="width:40%">
 
 **Title:** [My Butterfly Bouquet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205256895) <br>
 **Author:** Nicola Davies <br>
@@ -614,7 +614,7 @@ The creators of the award-winning An Egg Is Quiet and A Seed Is Sleepy have team
 
 With breath-taking illustrations and a touching story, this dazzling picture book introduces young readers to one of nature's most magnificent and essential insects: the butterfly. See how a little girl recovering from poor health finds wonder in nature and delights in planting a garden with her father to attract a fascinating array of butterflies. Exploring the life stages of butterflies, their importance to our ecosystems and the revitalising power of nature, this book is a heart-warming information story for children who love the outdoors and all its incredible creatures. At the back of the book, discover tips on how to create your own wildlife garden to attract butterflies!
 
-<img src="/images/diyresources/preschool/Senorita%20Mariposa.jpg" alt="Señorita Mariposa" style="width:40%">
+<img src="/images/diyresources/preschool/senorita%20mariposa.jpg" alt="Señorita Mariposa" style="width:40%">
 
 **Title:** Señorita Mariposa <br>
 **Author:** Ben Gundersheimer <br>
@@ -641,11 +641,11 @@ Materials needed:
 * Coloured markers
 * Pencil
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Butterfly%20Pencil%20Holder.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20craft%20instructions_butterfly%20pencil%20holder.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Deep%20Sea%20Voyage.jpg" alt="deep sea voyage" style="width:40%">
+<img src="/images/diyresources/preschool/deep%20sea%20voyage.jpg" alt="deep sea voyage" style="width:40%">
 
 **Title:** [Professor Astro Cat's Deep-Sea Voyage](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204394651) <br>
 **Author:** Dr Dominic Walliman <br>
@@ -653,7 +653,7 @@ Materials needed:
 
 Despite covering over 70% of the Earth’s surface, the ocean is still roughly 95% unexplored. Join Professor Astro Cat and the gang as they take a deep dive from the sea shore all the way to the darkest depths of the ocean floor to find out more about this mysterious watery world. From coral reefs to deep-sea vents, there’s so much to discover on this Deep-sea Voyage. 
 
-<img src="/images/diyresources/preschool/Busy%20Eyed%20Day.jpg" alt="busy eyed day" style="width:40%">
+<img src="/images/diyresources/preschool/busy%20eyed%20day.jpg" alt="busy eyed day" style="width:40%">
 
 **Title:** [Busy-Eyed Day](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203116777) <br>
 **Author:** Anne-Marie Pace <br>
@@ -665,7 +665,7 @@ There are so many intriguing eyes out in the world…and so many amazing things 
 
 This rhyming and richly illustrated picture book is a clever and unusual celebration of being observant and keeping an eye out for magic in the everyday world that surrounds us.
 
-<img src="/images/diyresources/preschool/Lets%20Recycle.jpg" alt="lets recycle" style="width:40%">
+<img src="/images/diyresources/preschool/lets%20recycle.jpg" alt="lets recycle" style="width:40%">
 
 **Title:** [Let's Recycle!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203907428) <br>
 **Author:** Jenna Lee Gleisner <br>
@@ -676,7 +676,7 @@ Reduce. Reuse. Recycle. We hear it all the time, but what does it mean, and how 
 
 Vibrant, full-color photos and carefully leveled text will engage young readers as they learn specific ways they can be environmentally friendly. An activity provides step-by-step instructions for a specific, larger project. Children can learn more about recycling using our safe search engine that provides relevant, age-appropriate websites. Let’s Recycle! also features reading tips for teachers and parents, a table of contents, glossary, and index.
 
-<img src="/images/diyresources/preschool/Earth%20Hour.jpg" alt="earth hour" style="width:55%">
+<img src="/images/diyresources/preschool/earth%20hour.jpg" alt="earth hour" style="width:55%">
 
 **Title:** [Earth Hour: A Lights-Out Event for Our Planet](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204273041) <br>
 **Author:** Nanette Heffernan  <br>
@@ -703,11 +703,11 @@ Materials needed:
 * Coloured marker
 * Coloured paper
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Paper%20Jellyfish.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20craft%20instructions_paper%20jellyfish.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/The%20Pout%20Pout%20Fish.jpg" alt="pout pout fish and bully bully shark" style="width:40%">
+<img src="/images/diyresources/preschool/the%20pout%20pout%20fish.jpg" alt="pout pout fish and bully bully shark" style="width:40%">
 
 **Title:** [The Pout-Pout Fish and the Bully-Bully Shark](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203978039) <br>
 **Author:** Deborah Diesen <br>
@@ -717,7 +717,7 @@ Materials needed:
 
 Oh no! There's a misbehaving shark at the playground! Swim along with the pout-pout fish as he confronts the challenge of bullying. He just might discover the strength of his community--and the power of his own voice. 
 
-<img src="/images/diyresources/preschool/Samson.jpg" alt="samson the piranha" style="width:40%">
+<img src="/images/diyresources/preschool/samson.jpg" alt="samson the piranha" style="width:40%">
 
 **Title:** [Samson: The Piranha Who Went to Dinner](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202800881) <br>
 **Author:** Tadgh Bentley <br>
@@ -725,7 +725,7 @@ Oh no! There's a misbehaving shark at the playground! Swim along with the pout-p
 
 Wanting to try new things, Samson aspires to sample fine cuisine at fancy restaurants before discovering that the new restaurants in his corner of the sea are not exactly welcoming to customers with big teeth and scary smiles.
 
-<img src="/images/diyresources/preschool/What%20if%20you%20could%20sniff%20like%20a%20shark.jpg" alt="Sniff like shark" style="width:40%">
+<img src="/images/diyresources/preschool/what%20if%20you%20could%20sniff%20like%20a%20shark.jpg" alt="Sniff like shark" style="width:40%">
 
 **Title:** [What if You Could Sniff like a Shark?: Explore the Superpowers of Ocean Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204483806) <br>
 **Author:** Sandra Markle & Howard Mcwilliam <br>
@@ -751,7 +751,7 @@ Materials needed:
 * Googly eyes
 * Marker
 
-[Download](/files/preschool/SHS%20Craft%20Instructions_Making%20Your%20Cute%20Paper%20Owl.PDF) full instructions for this craft.
+[Download](/files/preschool/shs%20craft%20instructions_making%20your%20cute%20paper%20owl.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -773,7 +773,7 @@ Platypuses live only in Australia. Learn all about these unusual, duck billed di
 
 Penguins are the cutest birds! Did you know that they go on incredible journeys? Or that they toboggan on their stomachs? Discover ten reasons why penguins are amazing and five ways you can show they love them in this gorgeous picture book. A must for any young animal enthusiast and a fantastic introduction to environmental issues.
 
-<img src="/images/diyresources/preschool/Emperor%20Penguins.jpg" alt="emperor penguins" style="width:40%">
+<img src="/images/diyresources/preschool/emperor%20penguins.jpg" alt="emperor penguins" style="width:40%">
 
 **Title:** [Emperor Penguins](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203976820) <br>
 **Author:** Jody S. Rake<br>
@@ -781,7 +781,7 @@ Penguins are the cutest birds! Did you know that they go on incredible journeys?
 
 Emperor penguins are known as the largest of all penguins. Find out more about this flightless, but quick swimming bird.
 
-<img src="/images/diyresources/preschool/Snowy%20Owls.jpg" alt="snowy owls" style="width:40%">
+<img src="/images/diyresources/preschool/snowy%20owls.jpg" alt="snowy owls" style="width:40%">
 
 **Title:** [Snowy Owls](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204094041) <br>
 **Author:** Rita Santos<br>
@@ -804,11 +804,11 @@ Materials needed:
 * Paintbrush
 * Markers
 
-[Download](/images/diyresources/preschool/I%20Lava%20Reading%20Card%20instructions.PDF) full instructions for this craft.
+[Download](/images/diyresources/preschool/i%20lava%20reading%20card%20instructions.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/A trip to the top of the volcano with mouse.PNG" alt="trip to the top of the volcano" style="width:40%">
+<img src="/images/diyresources/preschool/a trip to the top of the volcano with mouse.png" alt="trip to the top of the volcano" style="width:40%">
 
 **Title:** [A Trip to The Top of The Volcano With Mouse: A Toon Book](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203938138) <br>
 **Author:** Frank Viva <br>
@@ -817,7 +817,7 @@ Materials needed:
 
 A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar landscapes and snow-capped peaks, then return to the ancient city at the bottom.
 
-<img src="/images/diyresources/preschool/Old Rock.JPG" alt="old rock" style="width:40%">
+<img src="/images/diyresources/preschool/old rock.jpg" alt="old rock" style="width:40%">
 
 **Title:** [Old Rock (Is Not Boring)](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204382095) <br>
 **Author:** Deb Pilutti <br>
@@ -827,7 +827,7 @@ A boy and a mouse trek to the top of a volcano, taking in soaring trees, lunar l
 
 Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is boring until Old Rock shares what he has seen and done since he first flew out of a volcano.
 
-<img src="/images/diyresources/preschool/Spenser and the Rocks.JPG" alt="spenser and the rocks" style="width:40%">
+<img src="/images/diyresources/preschool/spenser and the rocks.jpg" alt="spenser and the rocks" style="width:40%">
 
 **Title:** [Spenser And The Rocks](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=201153144) <br>
 **Author:** Lawrence F Lowery <br>
@@ -836,7 +836,7 @@ Tall Pine, Spotted Beetle, and Hummingbird are certain that being a rock is bori
 
 The heart of the story is a young boy named Spenser and his interests, curiosity, and thoughts. Through the story, the reader is introduced to scientific procedures such as classification, research, and reclassification. Spenser's interest in rocks increases as he learns more about them by sorting the rocks, asking questions, and reading reference books.
 
-<img src="/images/diyresources/preschool/A Rock Can Be.JPG" alt="a rock can be" style="width:40%">
+<img src="/images/diyresources/preschool/a rock can be.jpg" alt="a rock can be" style="width:40%">
 
 **Title:** [A Rock Can Be...](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202612456) <br>
 **Author:** Laura Purdie Salas and Violeta Dabija <br>
@@ -855,19 +855,19 @@ Rocks may seem like boring, static objects--until you discover that a rock can s
 
 Materials needed:
 
-* [Lion paper crown template](/images/diyresources/preschool/Lion-paper-crown-template.pdf)
+* [Lion paper crown template](/images/diyresources/preschool/lion-paper-crown-template.pdf)
 * Scissors
 * Coloured pencils
 * Pencil
 * Double-sided tape
  
-[Download](/images/diyresources/preschool/Lion-paper-crown-instructions.PDF) full instructions for this craft.
+[Download](/images/diyresources/preschool/lion-paper-crown-instructions.pdf) full instructions for this craft.
 
 **Try this**: Make paper crowns of your favourite animals!
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/IMG-0868.png" alt="oh no" style="width:40%">
+<img src="/images/diyresources/preschool/img-0868.png" alt="oh no" style="width:40%">
 
 **Title:** [Oh, No!](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14645478) <br>
 **Author:** Candace Fleming & Eric Rohmann <br>
@@ -877,7 +877,7 @@ Materials needed:
 
 Young children will delight in repeating the refrain “OH NO!” as one animal after another falls into a deep, deep hole in this lively read-aloud. This simple and irresistible picture book by hugely popular picture book creators – Candace Fleming and Caldecott medallist Eric Rohmann – feels like a classic-in-the-making. Fans of Rohmann’s Caldecott Medal-winning My Friend Rabbit will be thrilled to see a new book created in the same expressive and comical style.
 
-<img src="/images/diyresources/preschool/IMG-0866.jpg" alt="book of animals" style="width:40%">
+<img src="/images/diyresources/preschool/img-0866.jpg" alt="book of animals" style="width:40%">
 
 **Title:** [My Book of Animals](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=203786772) <br>
 **Author:** Nik Afia <br>
@@ -905,7 +905,7 @@ Materials needed:
 * Hole punch
 * Brown yarn
 
-[Download](/images/diyresources/preschool/Colourful-Garden-Instructions.PDF) full instructions for this craft.
+[Download](/images/diyresources/preschool/colourful-garden-instructions.pdf) full instructions for this craft.
 
 ### **Recommended Books**
 
@@ -942,13 +942,13 @@ Materials needed:
 * Colouring materials
 * Scissors
 
-[Download](/images/diyresources/preschool/Zoom-into-Space-Instructions.PDF) full instructions for this craft.
+[Download](/images/diyresources/preschool/zoom-into-space-instructions.pdf) full instructions for this craft.
 
 **Try this**: Replace the planets with stars in different sizes and you’ve got a star mobile!
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Aliens-Love-Underpants.jpg" alt="aliens love underpants" style="width:40%">
+<img src="/images/diyresources/preschool/aliens-love-underpants.jpg" alt="aliens love underpants" style="width:40%">
 
 **Title:** [Aliens Love Underpants ](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202829779)<br>
 **Author:** Claire Freedman <br>
@@ -957,7 +957,7 @@ Materials needed:
 
 With wacky illustrations and hilarious rhyming text, Aliens Love Underpants is already a favorite among toddlers, beginning readers, teachers, parents, big brothers, big sisters, grandparents, and essentially anyone else who cracks open this super-silly book. When little aliens fly down to Earth, they’re not visiting because they want to meet the Earthlings. They simply want to steal everybody’s underpants!
 
-<img src="/images/diyresources/preschool/It-All-Started-with-a-Big-Bang.jpg" alt="started with a big bang" style="width: 40%;">
+<img src="/images/diyresources/preschool/it-all-started-with-a-big-bang.jpg" alt="started with a big bang" style="width: 40%;">
 
 **Title:** It Started with a Big Bang: The Origin of Earth, You and Everything Else <br>
 **Author:** Floor Bal <br> 
@@ -981,13 +981,13 @@ Materials needed:
 * Glue or tape
 * Colouring materials
 
-[Download](/images/diyresources/preschool/Magical-World_discovereads.PDF) full instructions for this craft.
+[Download](/images/diyresources/preschool/magical-world_discovereads.pdf) full instructions for this craft.
 
 **Try this**: Make book corners based on your favourite magical creatures!
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/im-Casting-a-Spell.jpg" alt="i'm casting a spell" style="width:40%">
+<img src="/images/diyresources/preschool/im-casting-a-spell.jpg" alt="i'm casting a spell" style="width:40%">
 
 **Title:** [I’m Casting a Spell! : Meet a Fairy-Tale Witch](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200943178) <br>
 **Author:** Lisa Bullard <br>
@@ -996,7 +996,7 @@ Materials needed:
 
 Meet Hex. She’s a fairy-tale witch! Hex has magic powers. She likes to fly around and play tricks on people. But don’t worry. Hex is not real. She’s one of the monsters you meet in stories. She just wants to tell you about fairy-tale witches. Learn how a witch scares villagers. Meet different kinds of witches around the world. And find out where witch tales come from. You’ll have a creepy time with this monster buddy!
 
-<img src="/images/diyresources/preschool/The-Paper-Bag-Princess.jpg" alt="the paper bag princess" style="width:40%">
+<img src="/images/diyresources/preschool/the-paper-bag-princess.jpg" alt="the paper bag princess" style="width:40%">
 
 **Title:** [The Paper Bag Princess](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204438263) <br>
 **Author:** Robert Munsch <br>

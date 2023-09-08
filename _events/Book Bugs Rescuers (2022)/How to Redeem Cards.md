@@ -6,11 +6,11 @@ third_nav_title: Book Bugs Rescuers (2022)
 ---
 ### Earning Points 
 
-<a href="/images/events/bookbugsr/BB3 Posters_20 Jan-Earn Points-min.png/"><img src="/images/events/bookbugsr/BB3 Posters_20 Jan-Earn Points-min.png" alt="Earning Points" style="width: 80%"></a>
+<a href="/images/events/bookbugsr/bb3 posters_20 jan-earn points-min.png"><img src="/images/events/bookbugsr/bb3 posters_20 jan-earn points-min.png" alt="Earning Points" style="width: 80%"></a>
 
 ### Redeeming Cards
 
-<a href="/images/events/bookbugsr/BB3 Posters_20 Jan-Redeem Cards.png/"><img src="/images/events/bookbugsr/BB3 Posters_20 Jan-Redeem Cards.png" alt="Redeeming Cards" style= "width: 80%"></a>
+<a href="/images/events/bookbugsr/bb3 posters_20 jan-redeem cards.png"><img src="/images/events/bookbugsr/bb3 posters_20 jan-redeem cards.png" alt="Redeeming Cards" style= "width: 80%"></a>
 
 All card redemptions at the libraries are while stocks last.
 

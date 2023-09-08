@@ -3,7 +3,7 @@ title: "Budding Scientists: All About Animals"
 permalink: /allaboutanimals/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/science-lfa/banners/Budding%20Scientists_ER%20Logo.png)
+![Alt text for image on Isomer site](/images/science-lfa/banners/budding%20scientists_er%20logo.png)
 
 Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resources/discover-science" target="_blank">here</a> to go back to Discover Science!
 
@@ -24,7 +24,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/lifecyclesdefinition.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/lifecyclesdefinition.png" style="width:400px; text-align:left;">
 
 </div>
 
@@ -44,9 +44,9 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <p>Introduce the theme of animals by beginning with a fun song! Ask your child to think about what sounds animals make and invite them to make some animal noises together.</p>
 
-<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/tunein1.png" style="width:600px; text-align:center;"></a>
+<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/tunein1.png" style="width:600px; text-align:center;"></a>
 
-<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/tunein2.png" style="width:600px; text-align:center;"></a>
+<a href="https://youtu.be/NwU3beZ9kcw" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/tunein2.png" style="width:600px; text-align:center;"></a>
 
 <p>After this, you may then watch videos or listen to audio recordings of how the animals sound like in real life to pique your child’s curiosity and allow them to make the connections between what they are learning and what happens in real life.</p>
 
@@ -60,7 +60,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image"><a href="https://youtu.be/PqzF4-w7bG8" target="_blank">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/lifecyclesong.jpg" style="width:400px; text-align:left;"></a>
+<img src="/images/science-lfa/animal%20life%20cycles/lifecyclesong.jpg" style="width:400px; text-align:left;"></a>
 
 </div>
 
@@ -84,7 +84,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/humanlifecycle.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/humanlifecycle.png" style="width:400px; text-align:left;">
 
 </div>
 
@@ -94,7 +94,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/pandalifecycle.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/pandalifecycle.png" style="width:400px; text-align:left;">
 
 </div>
 
@@ -104,7 +104,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/horselifecycle.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/horselifecycle.png" style="width:400px; text-align:left;">
 
 </div>
 
@@ -112,7 +112,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 </div>
 
-<p>You may use these <a href="/files/science-lfa/Animal%20Life%20Cycles/AnimalLifeCycles.pdf" target="_blank ">slides</a> to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
+<p>You may use these <a href="/files/science-lfa/animal%20life%20cycles/animallifecycles.pdf" target="_blank ">slides</a> to look at the life cycles of humans, giant pandas and horses together with your child. Ask them:
 
 <li>Which stage of the life cycle are you at? <br><i>Hint: Probably a toddler!</i>
 
@@ -138,7 +138,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image">
 
-<a href="/files/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/catlifecycle-activitysheet.png" style="width:200px; text-align:left;"></a>
+<a href="/files/science-lfa/animal%20life%20cycles/catlifecycle-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/catlifecycle-activitysheet.png" style="width:200px; text-align:left;"></a>
 
 </div>
 
@@ -166,7 +166,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=
 
-203957484" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyduckling-1.jpg" style="width:150px; text-align:left;"></a>
+203957484" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/theuglyduckling-1.jpg" style="width:150px; text-align:left;"></a>
 
 </div>
 
@@ -188,7 +188,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=
 
-205739376" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyduckling-2.jpg" style="width:160px; text-align:left;"></a>
+205739376" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/theuglyduckling-2.jpg" style="width:160px; text-align:left;"></a>
 
 </div>
 
@@ -212,7 +212,7 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <div class="image">
 
-<a href="/files/theuglyducklinglifecycles-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/theuglyducklinglifecycles-activitysheet.png" style="width:200px; text-align:left;"></a>
+<a href="/files/theuglyducklinglifecycles-activitysheet.pdf" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/theuglyducklinglifecycles-activitysheet.png" style="width:200px; text-align:left;"></a>
 
 </div>
 
@@ -236,9 +236,9 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <p>Before you start, encourage your child to first find out the different stages in the life cycle of a butterfly through books! They can seek factual answers from non-fiction books.</p>
 
-<p>If these craft materials are not immediately available to you, you may download and print <a href="/files/science-lfa/Animal%20Life%20Cycles/butterflylifecycle-activitysheets.pdf" target="_blank">these activity sheets</a> to also fill in the life cycle of a butterfly with your child!</p>
+<p>If these craft materials are not immediately available to you, you may download and print <a href="/files/science-lfa/animal%20life%20cycles/butterflylifecycle-activitysheets.pdf" target="_blank">these activity sheets</a> to also fill in the life cycle of a butterfly with your child!</p>
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/craftmaterials.png" style="width:600px; text-align:center;">
+<img src="/images/science-lfa/animal%20life%20cycles/craftmaterials.png" style="width:600px; text-align:center;">
 
 <div class="row is-multiline margin--bottom--lg">
 
@@ -266,19 +266,19 @@ Click <a href="https://childrenandteens.nlb.gov.sg/diy-resources/preschool-resou
 
 <br><br><br>Step 1<div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/step1.png" style="width:200px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/step1.png" style="width:200px; text-align:left;">
 
 </div>
 
 Step 3<div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/step3.png" style="width:200px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/step3.png" style="width:200px; text-align:left;">
 
 </div>
 
 Step 5<div class="image">
 
-<img src="/images/science-lfa/Animal%20Life%20Cycles/step5.png" style="width:200px; text-align:left;">
+<img src="/images/science-lfa/animal%20life%20cycles/step5.png" style="width:200px; text-align:left;">
 
 </div>
 
@@ -300,7 +300,7 @@ Step 5<div class="image">
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=
 
-205550789" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/lifecycleofaduck.jpg" style="width:150px; text-align:left;"></a>
+205550789" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/lifecycleofaduck.jpg" style="width:150px; text-align:left;"></a>
 
 </div>
 
@@ -322,7 +322,7 @@ Step 5<div class="image">
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=
 
-205596827" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/aboutmarineanimals.jpg" style="width:160px; text-align:left;"></a>
+205596827" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/aboutmarineanimals.jpg" style="width:160px; text-align:left;"></a>
 
 </div>
 
@@ -348,7 +348,7 @@ Step 5<div class="image">
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=
 
-203875277" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/platypus.jpg" style="width:150px; text-align:left;"></a>
+203875277" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/platypus.jpg" style="width:150px; text-align:left;"></a>
 
 </div>
 
@@ -370,7 +370,7 @@ Step 5<div class="image">
 
 <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=
 
-205500743" target="_blank"><img src="/images/science-lfa/Animal%20Life%20Cycles/whatdoanimalsneedtosurvive.jpg" style="width:150px; text-align:left;"></a>
+205500743" target="_blank"><img src="/images/science-lfa/animal%20life%20cycles/whatdoanimalsneedtosurvive.jpg" style="width:150px; text-align:left;"></a>
 
 </div>
 
@@ -396,7 +396,7 @@ Step 5<div class="image">
 <h3 class="margin--bottom--lg" id="lp-marineanimals"><b>All About Animals:<br>Let’s Learn about Marine Animals</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/science-lfa/marine-animals/Marine1.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/marine-animals/marine1.png" style="width:400px; text-align:left;">
  
 
 <p>The ocean is home to thousands of different marine animals, such as clownfishes, sharks, whales, dolphins and many more.<br><br>
@@ -408,7 +408,7 @@ Step 5<div class="image">
  <p>A tuning-in song is a simple activity that introduces children to new concepts. In this tuning-in song, children can recognise the patterns in rhymes and associate the words with the corresponding actions. You can also let your child choose their favourite marine animals to incorporate into the song. This encourages them to be creative as they sing along to the tune.</p>
  
 
-<img src="/images/science-lfa/marine-animals/Marine2.png" style="width:400px; text-align:left;">
+<img src="/images/science-lfa/marine-animals/marine2.png" style="width:400px; text-align:left;">
  <br>
  
 
@@ -416,7 +416,7 @@ Step 5<div class="image">
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine3.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine3.png" style="width:250px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -426,11 +426,11 @@ Step 5<div class="image">
  
 <h4>LET'S PLAY!</h4>
  <p>We have included a <a href="https://go.gov.sg/sci-world-map" target="_blank">world map activity sheet</a>. Have your child write the names of the oceans as you share the fun facts below. Through this activity, your child can see how the 5 oceans are connected. </p>
- <img src="/images/science-lfa/marine-animals/Marine4.png" style="width:400px; text-align:left;">
+ <img src="/images/science-lfa/marine-animals/marine4.png" style="width:400px; text-align:left;">
  <br>
  
 <p>Below is the <a href="https://go.gov.sg/sci-world-map-ans" target="_blank">answer sheet</a> for the world map activity sheet.</p>
- <img src="/images/science-lfa/marine-animals/Marine5.png" style="width:400px; text-align:left;">
+ <img src="/images/science-lfa/marine-animals/marine5.png" style="width:400px; text-align:left;">
  <br>
   <p><br><i>(Encyclopedia Britannica, inc. (n.d.). Ocean. Encyclopedia Britannica. Retrieved December 30, 2021, from <a href="https://kids.britannica.com/kids/article/ocean/346185" target="_blank">https://kids.britannica.com/kids/article/ocean/346185 </a>)</i>
  </p>
@@ -438,7 +438,7 @@ Step 5<div class="image">
 <p><b>Fun Facts</b><br>
  The water in the ocean contains large amounts of salt. You may wonder, how is the ocean so salty? This is because there is salt in the rocks found on land. When rain falls, the rainwater erodes the rocks, and the salt particles are transported to rivers and streams before reaching the ocean. This process makes the ocean salty.
  </p>
- <img src="/images/science-lfa/marine-animals/Marine6.png" style="width:400px; text-align:left;">
+ <img src="/images/science-lfa/marine-animals/marine6.png" style="width:400px; text-align:left;">
  <br>
   <p><br><i>Mocomi Kids. (2019). Why Is The Sea Salty - Curious Questions with Answers | Educational Videos by Mocomi Kids. YouTube. Retrieved December 30, 2021, from <a href="https://www.youtube.com/watch?v=1qbUUGguJjE" target="_blank">https://www.youtube.com/watch?v=1qbUUGguJjE </a>)</i>
  </p>
@@ -448,7 +448,7 @@ Step 5<div class="image">
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine7.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine7.png" style="width:250px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -467,7 +467,7 @@ Step 5<div class="image">
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine8.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine8.png" style="width:250px; text-align:left;">
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -486,7 +486,7 @@ Step 5<div class="image">
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=hXtrIy95V80" target="_blank">
-       <img src="/images/science-lfa/marine-animals/Marine9.png" style="width:400px; text-align:left;"></a>
+       <img src="/images/science-lfa/marine-animals/marine9.png" style="width:400px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -504,7 +504,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204093723" target="_blank"><img src="/images/science-lfa/marine-animals/Marine10.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204093723" target="_blank"><img src="/images/science-lfa/marine-animals/marine10.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b> Jellyfish are brainless!</b><br>
@@ -514,7 +514,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine11.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine11.png" style="width:250px; text-align:left;">
     </div>
     <br>
   </div>
@@ -532,7 +532,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/marine13%20Octopus.png" style="width:250px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine13%20octopus.png" style="width:250px; text-align:left;">
     </div>
     <br>
   </div>
@@ -602,7 +602,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
 <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine21.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine21.png" style="width:150px; text-align:left;">
      </div>
     
    </div>
@@ -616,7 +616,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine22.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine22.png" style="width:150px; text-align:left;">
      </div>
     
    </div>
@@ -630,7 +630,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/science-lfa/marine-animals/Marine23.png" style="width:150px; text-align:left;">
+       <img src="/images/science-lfa/marine-animals/marine23.png" style="width:150px; text-align:left;">
      </div>
     
    </div>
@@ -649,7 +649,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202545736" target="_blank"><img src="/images/science-lfa/marine-animals/Marine24.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202545736" target="_blank"><img src="/images/science-lfa/marine-animals/marine24.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Why is seawater salty?</b><br>
@@ -659,7 +659,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889581" target="_blank"><img src="/images/science-lfa/marine-animals/Marine25.jpg" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202889581" target="_blank"><img src="/images/science-lfa/marine-animals/marine25.jpg" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>If sharks disappeared</b><br>
@@ -671,7 +671,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204497339" target="_blank"><img src="/images/science-lfa/marine-animals/Marine26.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204497339" target="_blank"><img src="/images/science-lfa/marine-animals/marine26.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Oceans</b><br>
@@ -681,7 +681,7 @@ By allowing your child to hypothesise and formulate answers based on their obser
    </div>
   <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205244390" target="_blank"><img src="/images/science-lfa/marine-animals/Marine27.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205244390" target="_blank"><img src="/images/science-lfa/marine-animals/marine27.png" style="width:150px; text-align:left;"></a>
     </div> 
    <div class="text">
  <p><b>Yoga whale : simple poses for little ones</b><br>

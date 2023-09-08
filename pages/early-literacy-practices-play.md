@@ -2,7 +2,7 @@
 title: Early Literacy Practices (Play)
 permalink: /earlylit-play/
 ---
-| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/earlylit-read) <br>
+| [![Play image](/images/diyresources/preschool/earlyreadprac_play.png)](/earlylit-play) | [![Write image](/images/diyresources/preschool/earlyreadprac_write.png)](/earlylit-write) | [![Talk image](/images/diyresources/preschool/earlyreadprac_talk.png)](/earlylit-talk) | [![Sing image](/images/diyresources/preschool/earlyreadprac_sing.png)](/earlylit-sing) | [![Read image](/images/diyresources/preschool/earlyreadprac_read.png)](/earlylit-read) <br>
 
 <p style="text-align: center;"><a href="/diy-resources/preschool/preschool-main">Return to main</a></p>
 
@@ -41,7 +41,7 @@ For more recommended activities, you may check out this article: [Sensory Play F
 
 ### **Recommended Books**
 
-<img src="/images/diyresources/preschool/Gruffalo%20Where%20Are%20You.jpg" alt="gruffalo where are you" style="width:40%">
+<img src="/images/diyresources/preschool/gruffalo%20where%20are%20you.jpg" alt="gruffalo where are you" style="width:40%">
 
 **Title:** [Gruffalo, Where Are You?](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=204390894)	 <br>
 **Author:** Julia Donaldson <br>
@@ -54,7 +54,7 @@ You're never too young to meet a Gruffalo! Lift the soft felt flaps on every pag
 
 With soft fabric flaps which are easy to lift and help develop fine motor skills, this felt flaps book is perfect for sharing with babies. Designed to appeal to even the youngest child, simple patterns and bright colours combine with Axel Scheffler's instantly recognizable artwork to keep babies entertained for hours. Perfect for tiny Gruffalo fans, Gruffalo, Where Are You? is part of a charming range of books specially created for babies featuring Julia Donaldson and Axel Scheffler's iconic creation, the Gruffalo.
 
-<img src="/images/diyresources/preschool/Hide%20and%20Seek.jpg" alt="the body book" style="width:40%">
+<img src="/images/diyresources/preschool/hide%20and%20seek.jpg" alt="the body book" style="width:40%">
 
 **Title:** [Hide and Seek: Lift-the-Flap](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205501904) <br>
 **Author:** Roald Dahl <br>
@@ -69,7 +69,7 @@ Who's that hiding under the flap? Is it a ginormous giraffe or a friendly giant?
 
 With iconic illustrations from Quentin Blake, this sturdy, colourful lift-the-flap book is the perfect way to introduce the youngest chiddlers to the wonderful world of Roald Dahl.
 
-<img src="/images/diyresources/preschool/Lets%20look%20at%20numbers.jpg" alt="let's look at numbers" style="width:40%">
+<img src="/images/diyresources/preschool/lets%20look%20at%20numbers.jpg" alt="let's look at numbers" style="width:40%">
 
 **Title:** [Let’s Look at Numbers](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=205501398) <br>
 **Author:** Marion Deuchars <br>
@@ -82,7 +82,7 @@ Introduce numbers from 1 to 10 with this stunning board book, perfect for sharin
 
 Part of a brand-new series of board books Let's Look At... and with beautiful artwork from bestselling author and illustrator Marion Deuchars, this book is the perfect introduction to counting. Make learning fun and stimulating as you go through the pages of this gorgeous book for young readers.
 
-<img src="/images/diyresources/preschool/Can%20you%20guess%20animals.jpg" alt="can you guess animals" style="width:50%">
+<img src="/images/diyresources/preschool/can%20you%20guess%20animals.jpg" alt="can you guess animals" style="width:50%">
 	
 **Title:** [Can You Guess? Animals: With the Very Hungry Caterpillar](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=204383151 )	<br>
 **Author:** Eric Carle <br>
@@ -97,4 +97,4 @@ Which animal has wrinkly gray skin and a long trunk? It's an elephant! Try to gu
 
 *All synopses taken from the respective publishers. The book covers are the copyright of the respective publishing companies.*
 
- **For more activities and book recommendations, click [here](/files/preschool/Early%20Literacy%20Practices_Compiled.pdf).**
+ **For more activities and book recommendations, click [here](/files/preschool/early%20literacy%20practices_compiled.pdf).**

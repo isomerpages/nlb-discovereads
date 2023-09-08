@@ -12,29 +12,29 @@ description: ""
 ##### January 2023
 **Fairy Tale Fun**
 
-| <img src="/images/diyresources/preschool/Earlylit/fairytale1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/fairytale3.jpg" style="width:80%">|
+| <img src="/images/diyresources/preschool/earlylit/fairytale1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/earlylit/fairytale3.jpg" style="width:80%">|
 
-Click [here](/files/preschool/Earlyliteracyactivities/fairytalefun.PDF) to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/fairytalefun.pdf) to download a copy.
 
 ##### October 2022
 
 **Baby Songs & Rhymes**
 
-| <img src="/images/diyresources/preschool/Earlylit/A1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/A2.jpg" style="width:80%">|
+| <img src="/images/diyresources/preschool/earlylit/a1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/earlylit/a2.jpg" style="width:80%">|
 
-Click [here](/files/preschool/earlyliteracyactivities/A2.PDF) to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/a2.pdf) to download a copy.
 
 **Toddler Songs & Rhymes**
 
-| <img src="/images/diyresources/preschool/Earlylit/TSR1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Earlylit/TSR2.jpg" style="width:80%">|
+| <img src="/images/diyresources/preschool/earlylit/tsr1.jpg" style="width:80%">| <img src="/images/diyresources/preschool/earlylit/tsr2.jpg" style="width:80%">|
 
-Click [here](/files/preschool/earlyliteracyactivities/TSR.PDF) to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/tsr.pdf) to download a copy.
 
 ##### September 2022
 
-| <img src="/images/diyresources/preschool/Sep22.jpg" style="width:80%">| <img src="/images/diyresources/preschool/Sep22_1.jpg" style="width:80%">|
+| <img src="/images/diyresources/preschool/sep22.jpg" style="width:80%">| <img src="/images/diyresources/preschool/sep22_1.jpg" style="width:80%">|
 
-Click [here](/files/preschool/earlyliteracyactivities/EarlyLiteracySep.PDF)  to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/earlyliteracysep.pdf)  to download a copy.
 <br>
 
 
@@ -42,7 +42,7 @@ Click [here](/files/preschool/earlyliteracyactivities/EarlyLiteracySep.PDF)  to 
 
 | <img src="/images/diyresources/preschool/aprilactivities.png" style="width:80%">| <img src="/images/diyresources/preschool/aprilbooks.png" style="width:80%">|
 
-Click [here](/files/preschool/Early%20literacy%20activities.PDF) to download a copy.
+Click [here](/files/preschool/early%20literacy%20activities.pdf) to download a copy.
 <br>
 
 ##### January 2022
@@ -50,7 +50,7 @@ Click [here](/files/preschool/Early%20literacy%20activities.PDF) to download a c
 | <img src="/images/diyresources/preschool/earlylitactivities.png" style="width:80%">| <img src="/images/diyresources/preschool/earlylitbooks.png" style="width:80%">|
 
 
-Click [here](/files/preschool/Earlyliteracyactivities/Jan%20Activities.PDF) to download a copy.
+Click [here](/files/preschool/earlyliteracyactivities/jan%20activities.pdf) to download a copy.
 
 
 

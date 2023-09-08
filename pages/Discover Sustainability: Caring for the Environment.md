@@ -3,14 +3,14 @@ title: "Discover Sustainability: Caring for the Environment"
 permalink: /caring-for-the-environment/
 description: ""
 ---
-![Discover Sustainability](/images/diyresources/preschool/Sustainability/dR_caring%20for%20env.png)
+![Discover Sustainability](/images/diyresources/preschool/sustainability/dr_caring%20for%20env.png)
 
 |&nbsp; <a href="#lp-urbanfarm">Urban Farming</a> | <a href="#lp-susfood">Sustainable Foods</a> | New!\* <a href="#lp-sushome">Sustainability at Home</a> | New!\* <a href="#lp-urbanhome">Urban Farming - Farm to Table</a>
 
 <h3 class="margin--bottom--lg" id="lp-urbanhome"><b>Urban Farming - Farm to Table</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
-<img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban1.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urban%20faming%20at%20home/urban1.png" style="width:400px; text-align:left;">
 
 <p> "All big things come from small beginnings." - James Clear </p>
 
@@ -19,7 +19,7 @@ description: ""
 <h5> What is urban farming? </h5>
 <p> Urban Farming is growing or producing food in a city or heavily populated town. Look at the difference between traditional farming and urban farming below. </p>
 
-<img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban2.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urban%20faming%20at%20home/urban2.png" style="width:400px; text-align:left;">
 
 <h5> Why is learning about Farm to Table important for your child? </h5>
 <p> This concept is a way to teach your child where food comes from, which in turn will show that it's important to eat healthy and not waste what we have. </p>
@@ -28,7 +28,7 @@ description: ""
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=K1XbEpNZ5yk&amp;feature=youtu.be" target="_blank">
-       <img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban7.png" style="width:500px; text-align:left;"></a>
+       <img src="/images/sustainability%20lfa/urban%20faming%20at%20home/urban7.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -74,7 +74,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202507358" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban3.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202507358" target="_blank"><img src="/images/sustainability%20lfa/urban%20faming%20at%20home/urban3.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>On the Farm, At the Market</b><br>
@@ -84,7 +84,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204336147" target="_blank"><img src="/images/Sustainability%20Lfa/Urban%20Faming%20at%20Home/urban4.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204336147" target="_blank"><img src="/images/sustainability%20lfa/urban%20faming%20at%20home/urban4.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>In a Garden</b><br>
@@ -101,7 +101,7 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-sushome"><b>Sustainability at Home</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
-<img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus1.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/sus%20at%20home/sus1.png" style="width:400px; text-align:left;">
 
 <p> Being sustainable can start from small actions at home. No one is too young to become a sustainability warrior! </p>
 
@@ -109,19 +109,19 @@ description: ""
 
 <h5> What is sustainability? </h5>
 
-<img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus2.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/sus%20at%20home/sus2.png" style="width:400px; text-align:left;">
 
 <p>Sustainability refers to actions we can take today that will not reduce natural resources that others can enjoy in the future. </p>
 
 
 <h5>Singapore as a country is doing its part!</h5>
-<img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus3.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/sus%20at%20home/sus3.png" style="width:400px; text-align:left;">
 
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=nrFxTglhBQY" target="_blank">
-       <img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus6.png" style="width:500px; text-align:left;"></a>
+       <img src="/images/sustainability%20lfa/sus%20at%20home/sus6.png" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -156,7 +156,7 @@ description: ""
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205705299" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus4.png" style="width:150px; text-align:left;"></a>
+       <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205705299" target="_blank"><img src="/images/sustainability%20lfa/sus%20at%20home/sus4.png" style="width:150px; text-align:left;"></a>
      </div>
     <div class="text">
        <p><b>Green Home: a First Eco Book</b><br>
@@ -166,7 +166,7 @@ description: ""
    </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205706209" target="_blank"><img src="/images/Sustainability%20Lfa/Sus%20at%20Home/sus5.png" style="width:150px; text-align:left;"></a>
+        <a href="https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205706209" target="_blank"><img src="/images/sustainability%20lfa/sus%20at%20home/sus5.png" style="width:150px; text-align:left;"></a>
     </div>
     <div class="text">
         <p><b>Somebody Crunched Colin</b><br>
@@ -183,30 +183,30 @@ description: ""
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm1.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm1.png" style="width:400px; text-align:left;">
 
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. <br><br>But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
 
 
 <h4>LET'S LEARN!</h4>
 
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm2.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm2.png" style="width:400px; text-align:left;">
 
  <p>Urban Farming and Community Gardening are not the same!</p>
  
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm3.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm3.png" style="width:400px; text-align:left;">
 
 
  <h5>What are the Different Types of Urban Farming?</h5>
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm4.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm4.png" style="width:450px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm5.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm5.png" style="width:450px; text-align:left;">
     </div>
   </div>
  </div>
@@ -236,17 +236,17 @@ description: ""
   <li>What is the percentage of food in Singapore that comes from local produce?</li>
 </ul>
 
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm7.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm7.png" style="width:400px; text-align:left;">
 
 <h4>LET'S LEARN!</h4>
 <h5>Vertical Farming</h5>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm8.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm8.png" style="width:400px; text-align:left;">
  
  <p>What do you think is needed to start a Vertical Farm? </p>
  
  
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm9.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm9.png" style="width:400px; text-align:left;">
  
  <p>Answers: </p>
  <ol>
@@ -258,7 +258,7 @@ description: ""
 <h4>LET'S THINK!</h4>
 <h5>Benefits of Vertical Farming</h5>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm10.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm10.png" style="width:400px; text-align:left;">
 
 <ul>
 	<li>In a <b>dense</b> city with <b>little land</b>, Vertical Farming makes use of the space that is available.</li>
@@ -267,7 +267,7 @@ description: ""
 		<li><b>No pesticides required!</b> This makes it safe for farmers, consumers as well as the environment.</li>
 </ul>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm11.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm11.png" style="width:400px; text-align:left;">
 
 
 <p>Urban Farms produce a lot of <b>leafy greens</b> that suit our tastebuds! <br>Do you know the <b>common names</b> of these vegetables used in markets? 
@@ -280,12 +280,12 @@ One of the most common plants you can try growing at home is mint. You can use t
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm12.png" style="width:450px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm13.png" style="width:450px; text-align:left;">
     </div>
   </div>
  </div>
@@ -345,7 +345,7 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 <h3 class="margin--bottom--lg" id="lp-susfood"><b>Sustainable Foods</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
 
-<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-1.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/sustainable%20foods/protein-1.png" style="width:400px; text-align:left;">
 
 <p> Do you know that the food we eat has an impact on the environment? Find out how science and technology can help us create a planet-friendly food system! From meat grown in labs to insects that are safe for consumption, these new innovations could be the future of our food.</p>
 
@@ -356,12 +356,12 @@ Singapore : Yaa Bunayya SG, [2020]<br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-2.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/sustainable%20foods/protein-2.png" style="width:450px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-3.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/sustainable%20foods/protein-3.png" style="width:450px; text-align:left;">
     </div>
   </div>
  </div>
@@ -371,19 +371,19 @@ Singapore : Yaa Bunayya SG, [2020]<br>
 <p>To rely less on animals for food, substitutes for meat are being created. They are called <b> alternative proteins </b>, which are food that provide proteins that <b>do not</b> come from animals. </p>
 
 <h5>Why are Alternative Proteins More Sustainable?</h5>
-<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-4.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/sustainable%20foods/protein-4.png" style="width:400px; text-align:left;">
 
 <h4>Let’s Learn About Alternative Proteins</h4>
 
 <h5>Plant-based meat</h5>
 
-<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-5.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/sustainable%20foods/protein-5.png" style="width:400px; text-align:left;">
 
 <h4>LET'S WATCH!</h4>
  <div class="row is-multiline margin--bottom--lg">
  <div class="col is-two-fifths">
     <div class="image"><a href="https://www.youtube.com/watch?v=n6U4H8WC9jg" target="_blank">
-       <img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-14.jpg" style="width:500px; text-align:left;"></a>
+       <img src="/images/sustainability%20lfa/sustainable%20foods/protein-14.jpg" style="width:500px; text-align:left;"></a>
      </div>
    </div>
  <div class="col is-three-fifths">
@@ -417,12 +417,12 @@ Singapore : Yaa Bunayya SG, [2020]<br>
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
 	<div class="image">
-   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-8.png" style="width:450px; text-align:left;">
+   	<img src="/images/sustainability%20lfa/sustainable%20foods/protein-8.png" style="width:450px; text-align:left;">
  	</div>
 	</div>
    <div class="col is-half-tablet padding--bottom--lg">
 	<div class="image">
-   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-9.png" style="width:450px; text-align:left;">
+   	<img src="/images/sustainability%20lfa/sustainable%20foods/protein-9.png" style="width:450px; text-align:left;">
 	</div>
   </div>
  </div>
@@ -443,12 +443,12 @@ Singapore : Yaa Bunayya SG, [2020]<br>
  <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
 	<div class="image">
-   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-12.png" style="width:450px; text-align:left;">
+   	<img src="/images/sustainability%20lfa/sustainable%20foods/protein-12.png" style="width:450px; text-align:left;">
  	</div>
 	</div>
    <div class="col is-half-tablet padding--bottom--lg">
 	<div class="image">
-   	<img src="/images/Sustainability%20Lfa/Sustainable%20foods/protein-13.png" style="width:450px; text-align:left;">
+   	<img src="/images/sustainability%20lfa/sustainable%20foods/protein-13.png" style="width:450px; text-align:left;">
 	</div>
   </div>
  </div>
@@ -497,30 +497,30 @@ New York : KidHaven Publishing, 2019.<br>
 <h3 class="margin--bottom--lg" id="lp-urbanfarm"><b>Urban Farming</b></h3>
  <p><b>Suitable for 4 to 6 years old</b></p>
  
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm1.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm1.png" style="width:400px; text-align:left;">
 
 <p>When you think of a farm, you might be picturing a big field with lots of fruits or vegetables being grown. <br><br>But did you know there are also farms in our city, including one on Orchard Road? Learn more about these urban farms and why they could be Singapore’s answer to securing a stable food supply for us all.</p>
 
 
 <h4>LET'S LEARN!</h4>
 
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm2.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm2.png" style="width:400px; text-align:left;">
 
  <p>Urban Farming and Community Gardening are not the same!</p>
  
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm3.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm3.png" style="width:400px; text-align:left;">
 
 
  <h5>What are the Different Types of Urban Farming?</h5>
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm4.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm4.png" style="width:450px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm5.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm5.png" style="width:450px; text-align:left;">
     </div>
   </div>
  </div>
@@ -550,17 +550,17 @@ New York : KidHaven Publishing, 2019.<br>
   <li>What is the percentage of food in Singapore that comes from local produce?</li>
 </ul>
 
-<img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm7.png" style="width:400px; text-align:left;">
+<img src="/images/sustainability%20lfa/urbanfarm/urbanfarm7.png" style="width:400px; text-align:left;">
 
 <h4>LET'S LEARN!</h4>
 <h5>Vertical Farming</h5>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm8.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm8.png" style="width:400px; text-align:left;">
  
  <p>What do you think is needed to start a Vertical Farm? </p>
  
  
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm9.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm9.png" style="width:400px; text-align:left;">
  
  <p>Answers: </p>
  <ol>
@@ -572,7 +572,7 @@ New York : KidHaven Publishing, 2019.<br>
 <h4>LET'S THINK!</h4>
 <h5>Benefits of Vertical Farming</h5>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm10.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm10.png" style="width:400px; text-align:left;">
 
 <ul>
 	<li>In a <b>dense</b> city with <b>little land</b>, Vertical Farming makes use of the space that is available.</li>
@@ -581,7 +581,7 @@ New York : KidHaven Publishing, 2019.<br>
 		<li><b>No pesticides required!</b> This makes it safe for farmers, consumers as well as the environment.</li>
 </ul>
 
- <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm11.png" style="width:400px; text-align:left;">
+ <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm11.png" style="width:400px; text-align:left;">
 
 
 <p>Urban Farms produce a lot of <b>leafy greens</b> that suit our tastebuds! <br>Do you know the <b>common names</b> of these vegetables used in markets? 
@@ -594,12 +594,12 @@ One of the most common plants you can try growing at home is mint. You can use t
   <div class="row is-multiline">
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm12.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm12.png" style="width:450px; text-align:left;">
      </div>
     </div>
    <div class="col is-half-tablet padding--bottom--lg">
     <div class="image">
-       <img src="/images/Sustainability%20Lfa/UrbanFarm/urbanfarm13.png" style="width:450px; text-align:left;">
+       <img src="/images/sustainability%20lfa/urbanfarm/urbanfarm13.png" style="width:450px; text-align:left;">
     </div>
   </div>
  </div>

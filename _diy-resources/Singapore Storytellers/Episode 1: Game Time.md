@@ -30,7 +30,7 @@ Bursting with colourful scenes from around Singapore, this interactive look-and-
 
 Source: Synopsis from Marshall Cavendish International
 
-<img src="/images/diyresources/Layang_Layang.jpg" alt="Layang-Layang" style="width: 40%;">
+<img src="/images/diyresources/layang_layang.jpg" alt="Layang-Layang" style="width: 40%;">
 
 [Layang-Layang](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=202986012) <br>
 by Lucy Pou K. H. <br>
@@ -40,7 +40,7 @@ Kassim feels sad when his birthday present, a kite, is lost. When Kassim finds t
 
 Source: Synopsis from book cover
 
-<img src="/images/diyresources/Gateway_to_old_school_games.jpg" alt="Gateway to Old School Games"  style="width: 40%;">
+<img src="/images/diyresources/gateway_to_old_school_games.jpg" alt="Gateway to Old School Games"  style="width: 40%;">
 
 [Gateway to Old School Games](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14482068)<br>
 by Asiapac Editorial <br>

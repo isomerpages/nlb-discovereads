@@ -3,7 +3,30 @@ title: Updates
 permalink: /events/bookbugsr/updates/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
+variant: markdown
 ---
+#### 25 November 2023
+
+Did you really think we’d come to The End? You are in for a special treat as the #BookBugs are scuttering to the regional libraries this school holiday! 
+
+![Book Bugs Rescuers: The End? information poster from 4 to 30 December 2023](/images/events/bookbugsr/bbrte_poster.png)
+
+From 4 to 30 December 2023, explore Bugtopia through interactive showcases at Woodlands, Jurong, Tampines, and Punggol Regional Libraries. 
+
+Can’t get enough? On the special event days, expect exciting activities such as DIY zines, Bugtopia dioramas, and a Book Bugs-themed library hunt! Join us on these exclusive event days at the following locations, from 12pm-6pm: 
+
+🌳 9 December 2023 (Saturday) – Woodlands Regional Library 
+
+🔥 16 December 2023 (Saturday) – Jurong Regional Library 
+
+❄️ 23 December 2023 (Saturday) – Tampines Regional Library 
+
+🛰️ 30 December 2023 (Saturday) – Punggol Regional Library              
+
+Find out more about the showcases, events, and how to redeem Book Bugs tokens and activity sheets (while stocks last) here: https://go.gov.sg/BookBugs-TheEnd
+
+Hope to see you soon!
+
 #### 30 December 2022
 
 ![](/images/events/bookbugsr/bbr%20a3%20landscape.png)
@@ -18,7 +41,7 @@ For more programmes for children, please visit this [link](https://www.eventbrit
 
 ![](/images/events/bookbugsr/the%20end%20stickers%20edited.png)
 
-Download Book Bugs stickers for [WhatsApp](https://sticker.ly/s/HUXN16) and [Telegram](https://t.me/addstickers/BookBugsRescuers)!  
+Download Book Bugs stickers for&nbsp;[WhatsApp](https://sticker.ly/s/HUXN16)&nbsp;and&nbsp;[Telegram](https://t.me/addstickers/BookBugsRescuers)!  
 
 Please note that you will need to download a third-party app to view the stickers on WhatsApp.  
   
@@ -126,7 +149,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 ##### Out of Stock 
 **National Day is coming!**
 
-The #BookBugs are celebrating with a special guest in Bugtopia. From 5 August 2022, redeem cards at our public libraries to find the bonus August card hiding among the Bugs. While stocks last!  
+The #BookBugs are celebrating with a special guest in Bugtopia. From 5 August 2022, redeem cards at our public libraries to find the bonus August card hiding among the Bugs. While stocks last! &nbsp;
 
 This card is a collaboration with [NDPeeps](http://www.facebook.com/NDPeeps).
 
@@ -162,7 +185,7 @@ Check out the rest of the [terms and conditions](https://childrenandteens.nlb.go
 
 <br>
 
-❄ Samudera ❄— Bugtopia’s realm of ice and illusion. #BookBugs living in here are known to disappear from time to time… but never so many, or for so long. Explore Castle Verglas, the Mirror Mountains, Arialta, and more with the newly released Samudera cards, quizzes, newsletter, and storymap !✨.
+❄ Samudera ❄— Bugtopia’s realm of ice and illusion. #BookBugs living in here are known to disappear from time to time… but never so many, or for so long. Explore Castle Verglas, the Mirror Mountains, Arialta, and more with the newly released Samudera cards, quizzes, newsletter, and storymap&nbsp;!✨.
 
 Redeem your Samudera cards from 1 July! Every book or eBook borrowed gives you 1 point, and every 4 points gives you a Book Bugs card. Points for items borrowed will be credited to your myLibrary account within 24 hours.
 
@@ -209,7 +232,7 @@ Try out the quiz on the ✨[QUIZZES](https://childrenandteens.nlb.gov.sg/events/
 
 Points earned from the online quizzes will be credited within 5 working days after the end of each month’s quiz period. (E.g. for the quiz in April 2022, points will be credited by 9 May 2022, 2359 hours.)
 
-Please ensure that you enter your myLibrary username accurately. If your myLibrary username is incorrectly entered, we will not be able to credit your points. Not sure what your myLibrary username is? Click [here](https://account.nlb.gov.sg/) to find out! 
+Please ensure that you enter your myLibrary username accurately. If your myLibrary username is incorrectly entered, we will not be able to credit your points. Not sure what your myLibrary username is? Click [here](https://account.nlb.gov.sg/)&nbsp;to find out! 
  
 
 Check out the rest of the [terms and conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/) for our quizzes here.

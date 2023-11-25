@@ -13,7 +13,7 @@ Card redemption for _Book Bugs: Rescuers of Stories Lost_ has ended.
 
 Dear Rescuers, thank you for reading and restoring Bugtopia and the lost stories! Here’s what some of you had to say about your _Book Bugs: Rescuers of Stories Lost_  journey.
 
-By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/).
+By participating in _Book Bugs: Rescuers of Stories Lost_, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/).
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Book Bugs Rescuers (2022)
 variant: markdown
 ---
-🐛 **Announcement: Look out for a special Book Bugs event in December 2023 at the regional libraries! More info here: [Updates (nlb.gov.sg)](https://childrenandteens.nlb.gov.sg/events/bookbugsr/updates/ )** 
+🐛 **Announcement: Look out for a special Book Bugs event in December 2023 at the regional libraries! Find out more here: [Updates (nlb.gov.sg)](https://childrenandteens.nlb.gov.sg/events/bookbugsr/updates/ )** 
 
 Card redemption for _Book Bugs: Rescuers of Stories Lost_ has ended. 
 

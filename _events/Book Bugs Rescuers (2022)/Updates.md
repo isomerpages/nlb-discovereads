@@ -23,9 +23,9 @@ Can’t get enough? On the special event days, expect exciting activities such a
 
 🛰️ 30 December 2023 (Saturday) – Punggol Regional Library              
 
-Find out more about the showcases, events, and how to redeem Book Bugs tokens and activity sheets (while stocks last) here: https://go.gov.sg/BookBugs-TheEnd
+Find out more about the showcases, events, and how to redeem Book Bugs tokens and activity sheets (while stocks last) here: [https://go.gov.sg/BookBugs-TheEnd](https://go.gov.sg/BookBugs-TheEnd)
 
-See you soon! 🦋
+See you soon! 
 
 #### 30 December 2022
 

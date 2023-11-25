@@ -3,8 +3,11 @@ title: "Book Bugs: Rescuers of Stories Lost (Main Page)"
 permalink: /events/bookbugsr/
 description: ""
 third_nav_title: Book Bugs Rescuers (2022)
+variant: markdown
 ---
-**Announcement: _Book Bugs: Rescuers of Stories Lost_ has ended.**
+**Announcement: Look out for a special Book Bugs event in December 2023 at the regional libraries! More info here: [Updates (nlb.gov.sg)](https://childrenandteens.nlb.gov.sg/events/bookbugsr/updates/ )**
+
+Card redemption for _Book Bugs: Rescuers of Stories Lost_ has ended. 
 
 <img src="/images/events/bookbugsr/bbr-trailer.png" alt="Rescuers of Stories Lost" style="width: 100%">
 
@@ -12,7 +15,7 @@ Dear Rescuers, thank you for reading and restoring Bugtopia and the lost stories
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/).
 
-<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=20cfc63c-9b41-498e-922d-af7b010c29e3&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 
 All photos were submitted and/or taken during the Book Bugs Community Day events. By participating in the Community Day activities, participants agree that NLB may use these images for publicity.
 
@@ -71,7 +74,7 @@ Last updated: 29 December 2022, 6pm
 Rescuers, are you ready for an adventure? Let Bugtopia's journalist Attie lead you on a mission to save the Book Bugs.
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_WEWryPrtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_WEWryPrtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 By participating in Book Bugs: Rescuers of Stories Lost, you are agreeing to our [Terms and Conditions](https://childrenandteens.nlb.gov.sg/bookbugsr/termsandconditions/)

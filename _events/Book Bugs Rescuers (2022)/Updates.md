@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### 25 November 2023
 
-Did you really think we’d come to The End? You are in for a special treat as the #BookBugs are scuttering to the regional libraries this school holiday! 
+Did you really think we’d come to The End? You are in for a special treat as the #BookBugs are scuttering to the regional libraries this December! 🐛🐞🐝🐜
 
 ![Book Bugs Rescuers: The End? information poster from 4 to 30 December 2023](/images/events/bookbugsr/bbrte_poster.png)
 
@@ -25,7 +25,7 @@ Can’t get enough? On the special event days, expect exciting activities such a
 
 Find out more about the showcases, events, and how to redeem Book Bugs tokens and activity sheets (while stocks last) here: https://go.gov.sg/BookBugs-TheEnd
 
-Hope to see you soon!
+See you soon! 🦋
 
 #### 30 December 2022
 

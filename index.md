@@ -4,7 +4,7 @@ title: NLB Children & Teens Services
 description: Discover new books and resources that will bring out the avid reader in you!
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       title: discoveReads

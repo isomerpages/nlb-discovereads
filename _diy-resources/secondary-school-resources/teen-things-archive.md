@@ -1328,7 +1328,7 @@ Source: [10 Tumblr Photo Wall Ideas ! ~ Cute Ways to Display & Organize Photos I
 ##### **Be inspired!**
 Read these eBooks for more transformative ideas for your space and lifestyle.
 
-<img src="https://d33wubrfki0l68.cloudfront.net/0f4ba7154adb1b1eae065b26907c3009c55a774c/e74c7/images/diyresources/secondary/picture-3.jpg" alt="Room love image" style="width: 40%;">
+<img src="/images/diyresources/secondary/picture-3.jpg" alt="Room love image" style="width: 40%;">
 
 **Room Love: 50 DIY Projects to Design Your Space**<br>
 By Heather Wutschke<br>

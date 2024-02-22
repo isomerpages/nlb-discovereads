@@ -1,0 +1,14 @@
+collections:
+  services:
+    output: true
+    order:
+      - early-read.md
+      - read-school.md
+      - other-services/mother-tongue-language-services.md
+      - other-services/friends-of-the-library-and-archives-programme.md
+      - other-services/s-u-r-e.md
+      - Programmes/JRA Recruitment.md
+      - Programmes/monsters-united.md
+      - Programmes/tweenkerama.md
+      - Programmes/kidsread.md
+      - Programmes/teens-takeover.md

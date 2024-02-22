@@ -1,0 +1,34 @@
+logo: /images/discoveReadsbanner3-min.png
+links:
+  - title: Services
+    collection: services
+  - title: eBooks
+    url: /ebooks/ebook-nav
+    sublinks:
+      - title: Primary School eBooks
+        url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p
+      - title: Secondary School eBooks
+        url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=s
+  - title: Book Recommendations
+    collection: book-recommendations
+  - title: D.I.Y. Resources
+    collection: diy-resources
+  - title: Events
+    url: /events/main
+    sublinks:
+      - title: Book Bugs Rescuers (2022)
+        url: /events/bookbugsr/
+      - title: Ranger Buddies
+        url: /events/ranger-buddies
+      - title: A Book A Day
+        url: /events/abookaday
+      - title: Edu-Connect
+        url: /events/edu-connect
+      - title: Information Session (2021)
+        url: /events/infosessionforeducators
+      - title: Book Bugs X (Archive)
+        url: /events/bookbugsx/
+      - title: Book Bugs II (Archive)
+        url: /events/bookbugs2/bookbugs-main
+  - title: Contact Us
+    url: https://www.nlb.gov.sg/main/Contact-NLB

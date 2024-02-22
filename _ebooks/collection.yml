@@ -1,0 +1,5 @@
+collections:
+  ebooks:
+    output: false
+    order:
+      - primary-school-ebooks.md

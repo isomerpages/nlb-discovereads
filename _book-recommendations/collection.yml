@@ -1,0 +1,10 @@
+collections:
+  book-recommendations:
+    output: true
+    order:
+      - book-recommendations.md
+      - primary-school-book-recommendations.md
+      - secondary-school-book-recommendations.md
+      - reading-archives/.keep
+      - reading-archives/archived-primary-reading-lists.md
+      - reading-archives/archived-secondary-reading-lists.md

@@ -1,0 +1,5 @@
+This folder is the place for rendering pages outside of the side navigations of a page.
+
+Within the example page "new-test-file.md", i can create a permalink outside of where the current file is physically located which goes to https://nlb-dr-staging.netlify.app/events/bookbugsx/test
+
+Note that this also means that there won't be any breadcrumb to the page at the top of the nav so you'll have to link your users back to another page if you need to do so.

@@ -3,6 +3,7 @@ title: Storytime (for ages 4 - 10)
 permalink: /diy-resources/storytime/storytime-main/
 collection_name: diy-resources
 third_nav_title: Storytime
+variant: markdown
 ---
 ## **Storytime (For ages 4 -10)**
 
@@ -12,13 +13,9 @@ Enjoy storytelling videos anytime, anywhere!
 
 Spark your reading joy with our online storytelling videos in the four official languages. Discover fascinating tales about animals, heritage, professions and more. Remember to set your alarm so you don’t miss any wonderful videos!
 
-**26/8/2020 - Update on ‘Storytime with our Librarians’ Videos**
+**16 March 2024: Update on the English Storytime video series**
 
-Due to the extraordinary circumstances of the COVID-19 situation, several publishers had generously allowed NLB to read their books online for the enjoyment of many at no cost and for a limited period only.
-
-As permissions were granted for a limited period only, we will be removing selected **‘Storytime with our Librarians’** videos from Public Libraries Singapore’s Facebook page or at this website from 31 Aug 2020.
-
-We thank you for supporting our videos. Stay tuned to the following pages for new videos!
+Our Storytime&nbsp;(English)&nbsp;series has ended, and we hope you’ve enjoyed our videos over the past four years. Past Storytime videos are available on our Facebook and YouTube channels. Explore two of our Video Streaming eResources—Kanopy Kids and AVOD Just for Kids—via NLB’s eResources site&nbsp;([https://eresources.nlb.gov.sg](https://eresources.nlb.gov.sg/)). Children can enjoy videos with storytelling, songs, and other educational and interactive content!
 
 **Storytime (in English):**
 
@@ -40,56 +37,52 @@ We thank you for supporting our videos. Stay tuned to the following pages for ne
 * [Storytime (Tamil) - YouTube](https://www.youtube.com/playlist?list=PLJlLW0qKYHTPLk3tIcit65cvabHlQbA5W)
 * [Tamil Library Services (தமிழ் நூலகச் சேவைகள்)](https://www.facebook.com/groups/598526033854488/?fref=mentions&amp;__xts__%5B0%5D=68.ARAHPxpBJbme5Z0LaOfSGu4tG1P_3ZEQH7yKQcaSU67yO2kvTUbXsAY7rckV99-h9Och6-fR0eeAhJGr3-J3atBvFwf6oOSv3M5HdI1dRqNzx3cHea6JNMavTzLxXk8u-2SDaKH7RrO_d4Edhvzdn0jOzmePv1Xqy3pdWxQZvZdHWBmeapsWLWWyj6MMzs0KMnrERDhMLeEC-H3VLsmMnaiXE4h4khDqe0H8oCwJ4qebKXMKRG0ENmeYIAz9r9DC_oaOgI6lUkTu4_W5bMU4SIOFA0SudcFLKC4Ks6_54haZhyVBtXZROxhm7Rt96V8_SfTC839c9HkyckYBHS_aQw7NLQ&amp;__tn__=K-R)
 
-<img src="/images/st_fb-schedule-mar2022.png" alt="Storytime Schedule" class="center" style="width: 70%;">
-
-Storytelling Videos (Updated on 29 March 2021)
-
-| [English](/diy-resources/storytime/storytime-archives-english) | [Chinese](/diy-resources/storytime/storytime-archives-chinese) | [Malay](/diy-resources/storytime/storytime-archives-malay) | [Tamil](/diy-resources/storytime/storytime-archives-tamil) |
+Storytelling Videos (Updated on 15 March 2024)
 
 ### **English**
 
-**24 December 2022**<br>
-**How Zecky Got Her Spectacles**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tpfYlag6ItQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**16 March 2024**<br>
+**The Singapore Farmed Forces**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xAUlCPW6zTY?si=qBzleQk-IH0FEVil" height="315" width="560"></iframe>
 
-**10 December 2022**<br>
-**Adventures with Aquatic Creatures**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQh-Ke7EE1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**9 March 2024**<br>
+**Little Girl to Warrior**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dDZdjTe29kQ?si=Lc1lbTPkXL-_jni9" height="315" width="560"></iframe>
 
-**(For more videos in English, click [here](/diy-resources/storytime/storytime-archives-english))**
+**(For more videos in English, click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTOH5LSSJs6sT6Aydgy8cnt1))**
 
 ### **Chinese**
 
-**2 December 2022**<br>
-**布布想要养宠物**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lt9aW7CL2O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**6 March 2024**<br>
+**今天我们捞鱼生**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UHkF1alNFqc?si=FeqznzxSo2u2_H5R" height="315" width="560"></iframe>
 
-**29 November 2022**<br>
-**小斐迷路了**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B373vYAa5ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**6 February 2024**<br>
+**骄傲自大的下场**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lKKT-mPRB88?si=SeiCYtivXRkdUv5i" height="315" width="560"></iframe>
 
-(For more videos in Chinese, click [here](/diy-resources/storytime/storytime-archives-chinese))
+(For more videos in Chinese, click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTN7lmmtlbh5LTEIxeCI4XjM))
 
 ### **Malay**
 
-**14 September 2022**<br>
-**Si Keldai Berangan-angan**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nDcGVOkkg40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**6 March 2024**<br>
+**Saya Seekor Harimau**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ny-dsZuUNL4?si=HR5ughrJHvPujDUo" height="315" width="560"></iframe>
 
-**9 September 2022**<br>
-**Burung Yang Takutkan Ketinggian**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fVM9MwZMvEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**7 February 2024**<br>
+**Tiga, Dua, Satu… Zoom!**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I5JIRRbqFyI?si=C0e73pkk291ZYv_y" height="315" width="560"></iframe>
 
-(For more videos in Malay, click [here](/diy-resources/storytime/storytime-archives-malay))
+(For more videos in Malay, click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTMAMABlRITusVPa3-WcvI4t))
 
 ### **Tamil**
 
-**9 September 2022**<br>
-**நமக்கென ஒரு வீடு**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poXk58OEc2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**6 March 2024**<br>
+**Kanna Panna**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CFPHXo6UKCU?si=YeCY5vunARaP8qxd" height="315" width="560"></iframe>
 
 **14 September 2022**<br>
-**காவியா**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzhzKaTKuAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**பறப்பதற்கு சிறகுகள் / Parappatharkku Siragugal**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/e5HXf044tiQ?si=66qENQzvoRKOyfNU" height="315" width="560"></iframe>
 
-(For more videos in Tamil, click [here](/diy-resources/storytime/storytime-archives-tamil))
+(For more videos in Tamil, click [here](https://www.youtube.com/playlist?list=PLJlLW0qKYHTPLk3tIcit65cvabHlQbA5W))
